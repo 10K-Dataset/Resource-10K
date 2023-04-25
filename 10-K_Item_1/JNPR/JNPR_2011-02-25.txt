@@ -1,0 +1,741 @@
+ITEM 1.Business
+
+
+
+Overview
+
+
+
+We design, develop, and sell innovative products and services that together provide our customers with high-performance network infrastructure that creates responsive and trusted environments for accelerating the deployment of services and applications over a single network. We serve the high-performance networking requirements of global service providers, enterprises, and public sector organizations that view the network as critical to their success. We believe 
+we are well positioned in the networking industry based on our core competencies in architecture, silicon design, and our open cross-network software platform that includes the Junos® operating system (“Junos OS”), Junos Space network application platform, and Junos Pulse integrated network client. We offer a broad product portfolio that spans routing, switching, security, application acceleration, and identity policy and control, which is designed by management to provide performance, choice, and flexibility while reducing overall total cost of ownership. In addition, through strong industry partnerships, we are fostering innovation across the network.
+
+
+
+Our operations are organized into two reportable segments: Infrastructure and Service Layer Technologies 
+(“SLT”). Our Infrastructure segment primarily offers scalable routing and switching products that are used to control and direct network traffic from the core, through the edge, aggregation, and the customer premise equipment level. Additionally, the Infrastructure segment offers a complete wireless local area network ("WLAN") solution that provides high reliability, performance, security, and management for mobile applications. Infrastructure products include our Internet Protocol (“IP”) routing, carrier Ethernet routing portfolio, and Ethernet switching portfolio. Our SLT segment offers solutions that meet a broad array of our customers' priorities, from protecting the network itself and data on the network, to maximizing existing bandwidth and acceleration of applications across a distributed network. Both segments offer worldwide services, including technical support and professional services, as well as educational and training programs to our customers. Together, our high-perfor
+mance product and service offerings help our customers to convert legacy networks that provide commoditized services into more valuable assets that provide differentiation, value, and increased performance, reliability, and security to end-users. See Note 13,
+
+Segment Information
+
+, in Notes to Consolidated Financial Statements in Item 8 of Part II of this Annual Report on Form 10-K, for financial information regarding each of our Infrastructure and SLT segments, which is incorporated herein by reference.
+
+
+
+During our fiscal year endedDecember 31, 2010, we generated net revenues of$4,093.3 millionand net income attributable to Juniper Networks of$618.4 million, and conducted business in more than 100 countries around the world. Additionally, we completed the acquisitions of Ankeena Networks, Inc. ("Ankeena"), SMobile Systems, Inc. ("SMobile"), Altor Networks, Inc. ("Altor"), and Trapeze Networks ("Trapeze") during 2010. See Item 8 of Part II for more information on our consolidated balance sheets as ofDecember 31, 2010, and2009and our consolidated statements of operations, consolidated statements of changes in equity, and consolidated statements of cash flows for each of the three years in the period endedDecember 31, 2010.
+
+
+
+We were incorporated in California in 1996 and reincorporated in Delaware in 1998. Our corporate headquarters are located in Sunnyvale, California. Our website address is www.juniper.net.
+
+
+
+Our Strategy
+
+
+
+Our objective and strategy is to be the leading provider of high-performance network infrastructure by transforming the experience and economics of networking. Key elements of our strategy are described below.
+
+
+
+Maintain and Extend Technolog
+y Leadership
+
+
+
+Our Junos OS, application-specific integrated circuit (“ASIC”) technology, and network-optimized product architecture have been key elements to establishing and maintaining our technology leadership. We believe that these elements can be leveraged for future products that we are currently developing. We intend to maintain and extend our technological leadership in the service provider and enterprise markets primarily through innovation and continued investment in research and development (“R&D”), supplemented by external partnerships, including strategic alliances and strategic acquisitions that would allow us to deliver a broad range of products and services to customers in target markets.
+
+
+
+
+
+
+
+
+
+
+
+Leverage Position as Supplier of High-Performance Network Infrastructure
+
+
+
+From inception, we have focused on designing, developing, and building high-performance network infrastructure for demanding service provider and enterprise networking environments and have integrated purpose-built technology into a network-optimized architecture that specifically meets customer needs. We believe that many customers will deploy networking equipment from only a few vendors, and that the performance, reliability, and security of our products will provide us with a competitive advantage, which is critical to be selected as one of these vendors.
+
+
+
+Be Strategic to Our Cu
+stomers
+
+
+
+In developing our Infrastructure and SLT solutions, we work very closely with customers to design and build best-in-class products and solutions specifically designed to meet their complex needs. Over time, we have expanded our understanding of the escalating demands and risks facing our customers, which has enabled us to design additional capabilities into our products. We believe our close relationships with, and constant feedback from, our customers have been key elements in our design wins and rapid deployments to date. We plan to continue to work hand-in-hand with our customers to implement product enhancements, as well as to design products that meet the evolving needs of the marketplace, while enabling 
+customers to reduce costs.
+
+
+
+Enable New IP-Based Services
+
+
+
+Our platforms enable network operators to quickly build and secure networks cost-effectively and deploy new differentiated services to drive new sources of revenue more efficiently than legacy network products. We believe that the secure delivery of IP-based services and applications, including web hosting, outsourced Internet and intranet services, outsourced enterprise applications, and voi
+ce-over IP, will continue to grow and benefit from cost efficiencies enabled by our high-performance network infrastructure offerings.
+
+
+
+Establish and Develop Industry Partnerships
+
+
+
+Our customers have diverse requirements. While our products meet certain requirements of our customers, our products are not intended to satisfy all of their requirements. Therefore, we believe that it is important that we attract and build relationships with other indust
+ry leaders with diverse technologies and services that extend the value of the network to our customers. These partnerships ensure that our customers have access to those technologies and services, whether through technology integration, joint development, resale, or other collaboration, in order to better support a broader set of our customers' requirements. In addition, we believe an open network infrastructure that invites partner innovation provides customers with greater choice and control in meeting their evolving business requirements, while enabling them to reduce costs.
+
+
+
+Markets and Customers
+
+
+
+We sell our high-performance network products and service offerings through direct sales and through distributors, value-added resellers, and original equipment manufacturer (“OEM”) partners to end-users in the following markets:
+
+
+
+Service Providers
+
+
+
+Service providers include wireline, wir
+eless, and cable operators, as well as major Internet content and application providers. We support most major service provider networks in the world and our high-performance network infrastructure offerings are designed and built for the performance, reliability, and security that service providers demand. We believe our networking infrastructure offerings benefit our service provider customers by:
+
+
+
+•Reducing capital and operationa
+l costs by running multiple services over the same network using our high density and highly reliable platforms;
+
+
+
+•Promoting generation of additional revenues by enabling new services to be offered to new market segments based on our product capabilities;
+
+
+
+
+
+•Increasing customer satisfaction, while lowering costs, by enabling consumers to self-select automatically provisioned service packages that provide the quality, speed, and pricing they desire; and
+
+
+
+•Providing increased asset longevity and higher return on investment as their networks can scale to multi-terabit
+
+
+
+
+
+
+
+
+
+rates based on the capabilities of our platforms.
+
+
+
+While many of these service providers have historically been categorized separately as wireline, wireless, or cable operators, in recent years, we have seen a move towards convergence of these different types of service providers through acquisitions, mergers, and partnerships. We believe these strategic developments are made technically possible as operators invest in the build out of next generation networks capable of supporting voice, video, and data traffic on to the same IP-based network. This convergence relies on IP-based traffic processing and creates the opportunity for multi-service networks and offer service providers significant new revenue opportunities.
+
+
+
+We believe that there are several other trends affecting service providers for which we are well positioned to deliver products and solutions. These trends include significant growth in IP traffic on service provider networks because of peer-to-peer interaction, broadband usage, video, an increasing reliance on the network as a mission critical business tool in the strategies of our IP customers and of their enterprise customers, and growth in mobile traffic as a result of the increase mobile device usage including notebooks, netbooks, smartphones, and tablets.
+
+
+
+The IP infrastructure market for service providers includes: products and technology at the network core; the network edge to enable access; the aggregation layer; security to protect from the inside out and the outside in; the application awareness and intelligence to optimize the network to meet business and user needs; and the management, service awareness, and control of the entire infrastructure.
+
+
+
+Enterprise
+
+
+
+Our high-performance network infrastructure offerings are designed to meet the performance, reliability, and security requirements of the world's most demanding businesses. Enterprises and public sector organizations, such as governments and research and education institutions, that view their networks as critical to their success are able to deploy our solutions as a powerful component in delivering the advanced network capabilities needed for their leading-edge applications. In addition, our solutions:
+
+
+
+•Assist in the consolidation and delivery of existing services and applications;
+
+
+
+•Accelerate the deployment of new services and applications;
+
+
+
+•Offer integrated security to assist in the protection and recovery of services and applications; and
+
+
+
+•Offer operational improvements that enable cost reductions, including lower administrative, training, customer care, and labor costs.
+
+
+
+As with the service provider market, innovation continues to be a critical component in our strategy for the enterprise market. High-performance enterprises require networks that are global, distributed, and always available. Network equipment vendors serving these enterprises need to demonstrate performance, reliability, and security with best-in-class open solutions for maximum flexibility. We offer enterprise solutions and services for data centers, branch and campus applications, distributed and extended enterprises, and Wide Area Net
+work (“WAN”) gateways.
+
+
+
+As customers increasingly view the network as critical to their success, we believe that customers will increasingly demand fast, reliable, and secure access to services and applications over a single IP-based network. This is partly illustrated by the success of our SRX Services Gateways that consolidate switching, routing, and security services in a single device, Integrated Security Gateway (“ISG”) products that combine firewall/virtual private network (“VPN”) and intrusion detection and prevention (“IDP”) solutions in a single platform, and Secure Services Gateway (“SSG”) platforms that provide a mix of high-performance security with Local Area Network (“LAN”)/WAN connectivi
+ty for regional and branch office deployments. We will continue to invest to develop these and other converged technologies and solutions.
+
+
+
+Customers with Ten Percent of Net Revenues or Greater
+
+
+
+Verizon Communications, Inc.accounted for greater than 10% of our total net revenues in2010.AT&T, Inc., accounted for greater than 10% of our total net revenues in2009.Nosingle customer accounted for more than 10% of our total net revenues in2008.
+
+
+
+
+
+
+
+
+
+
+
+Our Products and Technology
+
+
+
+Ear
+ly in our history, we developed, marketed, and sold the first commercially available purpose-built IP backbone router optimized for the specific high-performance requirements of service providers. As the need for core bandwidth continued to increase, the need for service rich platforms at the edge of the network was created.
+
+
+
+Our Infrastructure products are designed to address the needs at the core and the edge of the network, as well as for wireless access, by combining high-performance packet forwarding technology and robust operating systems into a network-optimized solution. In addition, as enterprises continue to develop and rely upon more sophisticated and pervasive internal networks, we believe the need for products with high-performance routing and switching t
+echnology is expanding to a broader set of customers, and we believe our expertise in this technology well positions us to address this growing market opportunity.
+
+
+
+Additionally, our SLT segment offers a broad family of network security solutions that deliver high-performance, cost-effective security for enterprises, service providers, and government entities, including integrated firewall and VPN solutions, secure sockets layer (“SSL”) VPN appliances, and IDP appliances. We also offer complementary products and technologies to enable our customers to provide additional IP-based services and enhance the performance and security of their existing networks and applications.
+
+
+
+The following is an overview of our major Infrastructure and SLT product families:
+
+
+
+Infrastructure Products
+
+
+
+•T Series, TX, JCS, and M Series:Our T Series core routers are primarily designed for core IP infrastructures and are also being sold into the multi-service environment. Our M Series routers are extremely versatile as they can be deployed at the edge of operator networks, in small and medium core networks, enterprise networks, and in other applications. The T Series and M Series products leverage our ASIC technology and Junos OS to enable consistent, continuous, reliable, and predictable service delivery. The TX and TX Plus products connect multiple T Series chassis to deliver multi-chassis scale in a single network node for the world's largest core routing applications. The JCS product reduces complexity and operating cost for our customers by virtual
+izing the network infrastructure to allow multiple independent network services to run on top of the same physical network infrastructure.
+
+
+
+•E Series:Our E Series products are a full featured platform designed for the network edge with support for carrier-class routing, broadband subscriber management services, and a comprehensive s
+et of IP services. Leveraging our JunosETMsoftware, the E Series service delivery architecture enables service providers to easily deploy innovative revenue-generating services to their customers. All E Series platforms offer a full suite of routing protocols and provide scalable capacity for tens of thousands of users.
+
+
+
+•MX Series:The MX Series is a product family developed to address emerging Ethernet network architectures and services in service provider and enterprise networks. Using our Junos OS, the MX platforms provide the carrier-class performance, scale, and reliability to enable service providers and enterprises to support large-scale Ethernet deployments. The MX Series also leverages our Junos Trio chipset with “3D Scaling” technology, which functions as an Universal Edge platform capable of supporting all types of business, mobile, and residential services optimized for Ethernet and addresses a wide range of deployments architectures, port densities, and interfaces for both service provider and enterprise environments.
+
+
+
+•EX Series:Our EX Series family extends our product portfolio running our Junos OS to address the Ethernet switch market. Ethernet is a widely used technology used to transport information in enterprise networks. Our EX Series switches are designed to enable customers to cost effectively accelerate and simplify the installation and management of business applications across their networks and enhance network operations without compromising performance.<
+/div>
+
+
+
+•Trapeze Products:The Trapeze product family adds a complete WLAN solution to the Juniper campus portfolio, accelerating our growth in the enterprise market and advancing our vision for the new network. The Trapeze product familyprovides the highest levels of WLAN reliability, performance, security, and management for today's most demanding mobile applications.
+
+
+
+•VXA Series:Our VXA Series Media Flow Engines are a line of high-performance content delivery appliances
+
+
+
+
+
+
+
+
+
+designed to maximize the scale and reliability of our Media Flow Solution.Our Media Flow Solution is a converged content delivery and caching solution that enables service providers, content publishers, and content delivery networks to deliver rich media content more efficiently, cost e
+ffectively and profitably.
+
+
+
+SLT Products
+
+
+
+•Services Gateway, Integrated Firewall
+, and VPN Solutions:Our SRX Series of dynamic services gateways, running our Junos software, provides unrivaled firewall/VPN performance and scalability and combines routing, switching, and security functionality.  The series is designed to meet network and security requirements for data center consolidation, rapid managed services deployments, and aggregation of security services. Our firewall and VPN systems and appliances are designed to provide integrated firewall, VPN, and denial of service protection capabilities for both enterprise environments and service provider network infrastructures. These products range from our SSG product series, which combines LAN/WAN routing capabilities with unified threat management features such as antivirus, anti-spam, and web filtering technologies, to our ISG and NetScreen Series firewall and VPN systems, which are designed to deliver high-performance security in medium/large enterprises, c
+arrier networks, and data centers.
+
+
+
+•Secure Access Appliances:Our Junos Pulse, Junos Pulse Mobile Security Suite, and SA Series SSL VPN appliances, designed for use in companies of all sizes, are used to provide secure access to corporate resources for remote and mobile users from any web-enabled device, regardless of location.
+
+
+
+•IDP Series Appliances:Our IDP Series appliances utilize advanced intrusion detection methods to increase the detection rate of and prevent network attacks, as well as provide fast and efficient traffic processing and alarm collection, presentation, and forwarding. Once an attack is detected, our IDP appliances prevent the intrusion by 
+dropping the packets or connection associated with the attack, reducing or eliminating the effects of the attack.
+
+
+
+•Application Acceleration Platforms:Our WXC Series platforms improve the performance of client-server and web-enabled business applications for branch-office, remote, and mobile users. These application acceleration pla
+tforms enable our customers to deliver LAN-like performance to users around the globe who access centralized applications.
+
+
+
+•Identity and Policy Control Solutions:Our portfolio of identity and policy control solutions integrate subscriber privileges, application requirements, and business policies with the IP network infrastructure i
+n order to improve the end-user experience, enhance security, and help reduce operational costs.
+
+
+
+See Item 7, "Management's Discussion and Analysis of Financial Condition and Results of Operations," in Part II of this Annual Report on Form 10-K, for an analysis of net product revenues by segment.
+
+
+
+Junos Platform
+
+
+
+In addition to our major product families, our extended software portfolio, known as Junos Platform, is a key technology element in our strategy to be the leader in high-performance networking. In February 2010, we announced a new business group called Junos Ready Software dedicated to creating and delivering an ecosystem of software and applications built on the Junos Platform to solve the most pressing challenges facing customers today. The Junos Platform includes:
+
+
+
+<
+font style="font-family:inherit;font-size:10pt;">•Junos Space -Our Junos Space network application platform offers an open, Service-Oriented Architecture-based ("SOA") platform for creating organic and third party software applications to drive network innovation.  Junos Space includes applications for network infrastructure automation that help customers reduce operational cost and complexity and scale services. These include Network Activate, Ethernet Design, Route Insight, Security Design, Virtual Control, Service Now and Service Insight.
+
+
+
+•Junos Pulse -Junos Pulse is a dynamic, integrated network client that delivers unified location-aware, identity-enabled network security, connectivity, access, and acceleration. It simplifies mobility and streamlines fast network and application access regardless of location, while supporting select third-party application development and integration.
+
+
+
+
+
+
+
+
+
+
+
+The Junos Platform enables our customers to expand network software into the application space, deploy software clients to control delivery, and accelerate the pace of innovation with an ecosystem of developers. At the heart of the Junos Platform is Junos OS. We believe Junos OS is fundamentally superior to other network operating systems in not only its design, but also in i
+ts development capabilities. The advantages of Junos OS include:
+
+
+
+•One modular operating system with single source base of code and a single, consistent implementation for each control plane feature;
+
+
+
+•One software release train extended through a highly disciplined and firmly scheduled development process; and
+
+
+
+•One common modular software architecture that scales across all Junos-based platforms.
+
+
+
+Junos OS is designed to maintain continuous systems and improve the availability, performance, and security of business applications running across the network. Junos OS helps to automate network operations by providing a single consistent implementation of features across the network in a single release train that seeks to minimize the complexity, cost, and risk associated with implementing network features and upgrades. This operational efficiency allows network administrators more time to innovate and deliver new revenue-generating applications, helping to advance the economics of high-performanc
+e networking.
+
+
+
+The security and stability of Junos OS, combined with its modular architecture and single source code base, provides a foundation for delivering performance, reliability, security, and scale at a lower total cost of ownership than multiple operating code base environments. With an increasing number of our platforms able to leverage Junos OS, including routing, switching, and security products, we believe Junos OS provides us a competitive advantage over other major network equipment vendors.
+
+
+
+Major Product Development Projects
+
+
+
+In 2010, we announced the first solutions from Project Falcon, Juniper's initiative for providing flexible mobility solutions to service providers that enables them to take advantage of the rapid rise in mobility and mobile applications, including video. The new solutions, including - Juniper Traffic Direct, Juniper Media Flow, and Juniper Mobile Core Evolution - are based on the Junos software platform and Juniper's MX 3D Series Universal Edge Routers, which deliver what we believe is revolutionary 3D Scaling to help networks scale dynamically to support more bandwidth, subscribers, and services. Further, we expect to extend our leadership in universal edge with the
+ introduction of non-Ethernet interfaces in our MX Series routers. Additionally, we announced a new data center network architecture called the 3-2-1, which allows customers to begin the process of simplifying and “flattening” their data centers with an ultimate vision of a single tier data center fabric promised by Project Stratus, which was our initiative to deliver the next-generation data center fabric. We also announced the Junos Pulse Mobile Security Suite, the industry's most comprehensive solution for securing mobile devices in today's highly connected personal and work environments.
+
+
+
+Customer Service
+
+
+
+In addition to our Infrastructure and SLT products, we offer support, professional, and educational services. We deliver these services directly to end-users and utilize a multi-tiered support model, leveraging the capabilities of our partners and third-party organizations, as appropriate.
+
+
+
+We also train our channel partners in the delivery of support, professional, and educational services to ensure these services are locally delivered.
+
+
+
+As ofDecember 31, 2010, we employed1,064people in our worldwide customer service and support organization. We believe that a broad range of support services is essential to the successful customer deployment and ongoing support of our products, and we have hired support engineers with proven network experience to provide those services.
+
+
+
+Manufacturing and Operations
+
+
+
+As ofDecember 31, 2010, we employed273people in manufacturing and operations who primarily manage relationships with our contract manufacturers, manage our supply chain, and monitor and manage product testing and quality.
+
+
+
+We have subcontracted the majority of our manufacturing activity with Celestica, Flextronics, Plexus, and Accton Technology. Our manufacturing is primarily conducted through contract manufacturers in China, Malaysia, Mexico, the United States, and
+
+
+
+
+
+
+
+
+
+Taiwan.
+
+
+
+Our contract manufacturers in all locations are responsible for all phases of manufacturing from prototypes to full production and assist with activities such as material procurement, final assembly, test, control, shipment to our customers, and repairs. Together with our contract manufacturers, we design, specify, and monitor the tests that are required to meet internal and external quality standards. These arrangements provide us with the following benefits:
+
+
+
+•We can quickly deliver products to customers with turnkey manufacturing and drop-shipment capabilities;
+
+
+
+•We gain economies of scale because, by purchasing
+ large quantities of common components, our contract manufacturers obtain more favorable pricing than if we were buying components alone;
+
+
+
+•We operate without dedicating significant space to manufacturing operations; and
+
+
+
+•We can reduce our costs by reducing fixed overhead expenses.
+
+
+
+Our contract manufacturers manufacture our products based on our rolling product demand forecasts. Each contract manufacturer procures components necessary to assemble the products in our forecast and tests the products according to our specifications. Products are then shipped 
+to our distributors, value-added resellers, or end-users. Generally, we do not own the components, and title to the products transfers from the contract manufacturers to us and immediately to our customers upon delivery at a designated shipment location. If the components remain unused or the products remain unsold for specified period, we may incur carrying charges or obsolete material charges for components that our contract manufacturers purchased to build products to meet our forecast or customer orders.
+
+
+
+Although we have contracts with our contract manufacturers, those contracts merely set forth a framework within which the contract manufacturer may accept purchase orders from us. The contracts do not require them to manufacture our products on a long-t
+erm basis.
+
+
+
+Our ASICs are manufactured primarily by sole or limited sources, such as International Business Machines Corporation (“IBM”), each of which is responsible for all aspects of ASICs production using our proprietary designs.
+
+
+
+By working collaboratively with our suppliers, we have the opportunity to promote socially responsible business practices beyond our company and into our worldwide supply chain. To this end, we have adopted, and promote the adoption by others, of the Electronic Indu
+stry Code of Conduct (“EICC”). The EICC outlines standards to ensure that working conditions in the electronics industry supply chain are safe, workers are treated with respect and dignity, and manufacturing processes are environmentally responsible.
+
+
+
+Research and Development
+
+
+
+We have assembled a team of skilled engineers with extensive experience in the fields of high-end computing, network system design, ASIC design, securi
+ty, routing protocols, software applications and platforms, and embedded operating systems. As ofDecember 31, 2010, we employed4,132people in our worldwide R&D organization.
+
+
+
+We believe that strong product development capabilities are essential to our strategy of enhancing our core technology, developing additional applications, integrating that technology, and maintaining the competitiveness and innovation of our product and service offerings. In o
+ur Infrastructure and SLT products, we are leveraging our software ASIC and systems technology, developing additional network interfaces targeted to our customers' applications, and continuing to develop technology to support the anticipated growth in IP network requirements. We continue to expand the functionality of our products to improve performance reliability and scalability, and to provide an enhanced user interface.
+
+
+
+Our R&D process is driven by the availability of new technology, market demand, and customer feedback. We have invested significant time and resources in creating a structured process for all product development projects. Following an assessment of market demand, our R&D team develops a full set of comprehensive functional produc
+t specifications based on inputs from the product management and sales organizations. This process is designed to provide a framework for defining and addressing the steps, tasks, and activities required to bring product concepts and development projects to market. Expenditures for R&D were$917.9 million,$741.7 million, and$731.2 millionin2010,2009, and2008, respectively.
+
+
+
+
+
+
+
+
+
+
+
+Sales and Marketing
+
+
+
+As ofDecember 31, 2010, we employed2,466people in our worldwide sales and marketing organization. These sales and marketing employees operate in different locations around the world in support of our customers.
+
+
+
+Our sales organization, with its structure of sales professionals, system engineers, and marketing and channel teams, is generally split between service provider and enterprise customers. Within each team, sales team members serve the following three geographic regions: (i) Americas (including United States, Canada, Mexico, and Central and South America), (ii) Europe, Middle East, and Africa (“EMEA”), and (iii) Asia Pacific (“APAC”). Within each region, there are regional and country teams, as well as major account teams, to ensure we operate close to our customers.
+
+See Note 13,Segment Informa
+tion, in Notes to Consolidated Financial Statements in Item 8 of Part II of this Annual Report on Form 10-K, for information concerning our revenues by geographic regions and by significant customers, which is incorporated herein by reference. Our operations subject us to certain risks and uncertainties associated with international operations. See Item 1A of Part I, “Risk Factors,” for more information.
+
+
+
+Our sales teams operate in their respective regions and generally either engage customers directly or manage customer opportunities through our distribution and reseller relationships or channels as described below.
+
+
+
+In the United States and Canada, we sell to several service providers directly and sell to other service providers and enterprise customers primarily through distributors and resellers. Almost all of our sales outside the United States and Canada are made through our channel partners.
+
+
+
+Direct Sales Structure
+
+
+
+Our sales team engages with customers with which we have direct relationships.  The terms and conditions of these arrangements are governed either by customer purchase orders and our acknowledgment of those orders or by purchase contracts.  The direct contracts with these customers set forth only general terms of sale and do not require customers to purchase specified quantities of our products.  We directly receive and process customer purchase orders.
+
+
+
+Channel Sales Structure
+
+
+
+A critical part of our sales and marketing efforts are our channel partners through which we do the majority of our sales. We employ various channel partners, including but not limited to:
+
+
+
+•A global network of strategic distribution relationships, as well as region- or country-specific dist
+ributors who in turn sell to local value-added resellers who sell to end-user customers. Our distribution channel partners mainly sell our SLT products plus certain Infrastructure products that are often purchased by our enterprise customers. These distributors tend to be focused on particular regions or countries within regions. For example, we have substantial distribution relationships with Ingram Micro in the Americas and with NEC in Japan. Our agreements with these distributors are generally non-exclusive, limited by region, and provide product discounts and other ordinary terms of sale. These agreements do not require our distributors to purchase specified quantities of our products.
+
+
+
+•Direct value-added resellers, including our strategic worldwide resellers referenced below, resell our products to end-users around the world. These direct value-added resellers buy the products and services directly from us and have expertise in deploying complex networking solutions in their respective markets. Our agreements with these direct value-added resellers are generally non-exclusive, limited by region, and provide product discounts and other ordinary terms of sale. These agreements do not require our direct value-added resellers to purchase specified quantities of our products. Increasingly, our service provider customers also resell our products to their customers or purchase our products for the purpose of providing man
+aged services to their customers.
+
+
+
+•Strategic worldwide reseller relationships with Nokia Siemens Networks B.V. ("NSN"), Ericsson Telecom A.B. (“Ericsson”), and IBM. These companies each offer services and products that complement, but in some cases compete with, our own product offerings and act as a fulfillment partner for our products. Our arrangements with these partners allow them to resell our produ
+cts on a worldwide, non-exclusive basis, provide for product discounts, and specify other general terms of sale. These agreements do not require these partners to purchase specified quantities of our products.
+
+
+
+
+
+
+
+
+
+
+
+•OEM relationships with Dell Corporation and IBM. Our OEM arrangements with these partners allow them to rebrand and resell certain of our product lines on a worldwide, non-exclusive basis, provide for product discounts, and specify other general terms of sale. These agreements do not require these partners to purchase specified quantities of our products.
+
+
+
+In addition to our sales that are di
+rect to customers or that are made entirely through channel partners, we have a “direct touch” sales team that works directly with channel partners on key accounts in order to maintain a direct relationship with our more strategic end-user customers while at the same time supporting the ultimate fulfillment of product through our channel partners.
+
+
+
+Backlog
+
+
+
+Our sales are made primarily pursuant to purchase orders under framework agreements 
+with our customers. At any given time, we have backlog orders for products that have not shipped. Because customers may cancel purchase orders or change delivery schedules without significant penalty, we believe that our backlog at any given date may not be a reliable indicator of future operating results. As ofDecember 31, 2010, and2009, our total backlog was approximately$330 millionand $270 million, respectively. Our backlog consists of confirmed orders for products scheduled to be shipped to customers, generally within the next six months. Our backlog 
+excludes orders from distributors as we recognize product revenue on sales made through distributors upon sell-through to end-users.
+
+
+
+Seasonality
+
+
+
+Many companies in our industry experience adverse seasonal fluctuations in customer spending patterns, particularly in the first and third quarters. In addition, our SLT segment has generally experienced seasonally strong customer demand in the fourth quarter. This historical pattern should no
+t be considered a reliable indicator of our future net revenues or financial performance.
+
+
+
+Competition
+
+
+
+Infrastructure Business
+
+
+
+In the network infrastructure business, Cisco Systems, Inc. ("Cisco") has historically been the dominant player in the market. However, other companies such as Alcatel-Lucent, Brocade Communications Systems, Inc. ("Brocade"), Extreme Networks, Inc., Hewlett Packard Company ("HP"), and Huawei Technologies Co., Ltd. ("Huawei") are also our principal competitors.
+
+
+
+Many of our current and potential competitors, such as Cisco, Alcatel-Lucent, HP, and Huawei bundle their products with other networking products in a manner that may discourage customers from purchasing our products.In addition, consolidation among competitors, or the
+ acquisition of our partners and resellers by competitors, can increase the competitive pressure faced by us due to their increased size and breadth of their product portfolios. For example, in 2009, Brocade acquired Foundry Networks, Inc. ("Foundry Networks"). In addition, many of our current and potential competitors have greater name recognition and more extensive customer bases that they may leverage to compete more effectively could be leveraged. Increased competition could result in price reductions, fewer customer orders, reduced gross margins, and loss of market share, negatively affecting our operating results.
+
+
+
+SLT Business
+
+
+
+In the market for SLT products, Cisco generally is our primary competitor with its broad range of products. In addition, there are a number of other competitors for each of the product lines within SLT, including Checkpoint Software Technologies, F5 Networks, Inc., and Riverbed Technology, Inc. These additional competitors tend to be focused on single product line solutions and, therefore, may be considered specialized compared to our broader product line. In addition, a number of public and private companies have announced plans for new products to address the same needs that our products address. We believe that our ability to compete with Cisco and others depends upon our ability to demonstrate that our products are superior in meeting the needs of our current and potential customers.
+
+
+
+For both product groups, we expect that over time, large companies with significant resources, technical expertise, market experience, customer relationships, and broad product lines, such as Cisco, Alcatel-Lucent, and Huawei, will introduce new products designed to compete more effectively in the market. There are also several other companies that claim to have products with greater capabilities than our products. There continues to be consolidation in this industry, with smaller companies being acquired by larger, established suppliers of network infrastructure products. We believe this trend is likely to continue.
+
+
+
+
+
+
+
+
+
+
+
+As a result, we expect to face increased competition in the future from larger companies with significantly more resources than we have. Although we believe that our technology and the purpose-built features of our products make them unique and will enable us to compete effectively with these companies, we cannot guarantee that we will be succes
+sful.
+
+
+
+Environment
+
+
+
+We are subject to regulations that have been adopted with respect to environmental matters, such as the Waste Electrical and Electronic Equipment (“WEEE”), Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (“RoHS”), and Registration, Evaluation, Authorization, and Restriction of Chemicals (“REACH”) regulations adopted by the European Union
+. In addition, we participate in the Carbon Disclosure Project (“CDP”). CDP is a global standardized mechanism by which companies report their greenhouse gas emissions to institutional investors. It hosts one of the largest registries of corporate greenhouse gas data in the world at www.cdproject.net. We continue to invest in the infrastructure and systems required to be able to inventory and measure our carbon footprint on a global basis. We believe we have made significant strides in improving our energy efficiency around the world.
+
+
+
+To date, compliance with federal, state, local, and foreign laws enacted for the protection of the environment has had no material effect on our capital expenditures, earnings, or competitive position.
+
+
+
+In addition, we are committed to the environment by our effort in improving the energy efficiency of key elements in our high-performance network product offerings. For example, our T1600 router consumes substantially less energy than competitive products. The environment will remain a focus area across multiple aspects of our business.
+
+
+
+Intellectual Property
+
+
+
+Our success and ability to compete are substantially dependent upon our internally developed technology and expertise.
+
+
+
+While we rely on patent, copyright, trade secret, and trademark law to protect our technology, we also believe that factors such as the technological and creative skills of our personnel, new product developments, frequent product enhancements, and reliable product maintenance are essential to establishing and maintaining a technology leadership position. There can be no assurance that others will not develop technologies that are similar or superior to our technology.
+
+
+
+In addition, we integrate licensed third-party technology into certain of our products. From time to time, we license additional technology from third parties to develop new products or product enhancements. There can be no assurance that third-party licenses will be available or continue to be available to us on commercially reasonable terms. Our inability to maintain or re-license any third-party licenses required in our products or our inability to obtain third-party licenses necessary to develop new products and product enhancements could require us to obtain substitute technology of lower quality or performance standards or at a greater cost, any of which could harm our business, financial condition, and results of operations.
+
+
+
+Our success will depend in part upon our ability to obtain necessary intellectual property rights and protect our intellectual property rights. We cannot be certain that patents will be issued on the patent applications that we have filed, that we will be able to obtain the necessary intellectual property rights, or that other parties will not contest our intellectual property rights.
+
+
+
+Employees
+
+
+
+As of December 31, 2010, we had8,772full-time employees. We have not experienced any work stoppages, and we consider our relations with our employees to be good. Competition for qualified personnel in our industry is intense. We believe that our future success depends in part on our continued ability to hire, motivate, and retain qualified personnel. We believe that we have been successful in recruiting qualified employees, but there is no assurance that we will continue to be successful in the future.
+
+
+
+Our future performance depends significantly upon the continued service of our key technical, sales, and senior management personnel, none of whom are bound by an employment agreement requiring service for any defined period of time. The loss of one or more of our key employees could have a material adverse effect on our business, financial condition, and results of operations. Our future success also depends on our continuing ability to attract, train, and retain highly qualified technical, sales, and managerial personnel. Competition for such personnel is intense, and there can be no assurance that we can retain our key personnel in the future.
+
+
+
+
+
+
+
+
+
+
+
+Executive Officers of the Registrant
+
+
+
+The following sets forth certain information regarding our executive officers as of the filing of this Annual Report on Form
+
+10-K.
+
+
+
+NameAgePositionKevin R. Johnson50Chief Executive OfficerPradeep Sindhu58Chief Technical Officer and Vice Chairman of the BoardMark Bauhaus49Executive Vice President and General Manager, Service Layer Technology Business GroupRobyn M. Denholm47Executive Vice President and Chief Financial OfficerStefan Dyckerhoff38Executive Vice President and General Manager, Infrastructure Products GroupMitchell Gaynor51Senior Vice President, General Counsel and SecretaryJohn Morris50Executive Vice President, Worldwide Sales and ServicesMichael J. Rose58Executive Vice President of Service, Support and OperationsGene Zamiska49Vice President, Finance and Corporate Controller
+
+
+
+KEVIN R. JOHNSONjoined Juniper Networks as Chief Executive Officer and a member of the board of directors in September 2008.  Mr. Johnson joined Juniper Networks from Microsoft Corporation where he served in a range of executive assignments since September 1992.  Most recently he was president of the Platforms and Services Division, the company's largest division responsible for the Windows and online services businesses. Prior to that, he was group vice president of Microsoft's worldwide sales, marketing and services. He began his career at IBM, working in the company's systems integration and consulting business. Mr. Johnson holds a Bachelor's degree in business administration from New Mexico State University and has served on the board of no
+n-profits focusing on technology and women's career advancement. He was appointed by President George W. Bush to serve on the National Security Telecommunications Advisory Committee. He is also a board member of Starbucks Coffee Company.
+
+
+
+PRADEEP SINDHUfounded Juniper Networks in February 1996 and served as Chief Executive Officer and Chairman of the Board of Directors until September 1996. Dr. Sindhu currently serves as Vice Chairman of the Board of Directors and Chief Technical Officer. Before founding Juniper Networks, Dr. Sindhu was a Principal Scientist and Distinguished Engineer at the Computer Science Lab at Xerox Corporation's Palo Alto Research Center. Dr. Sindhu ho
+lds a bachelor's degree in electrical engineering from the Indian Institute of Technology in Kanpur, a master's degree in the same discipline from the University of Hawaii, and a master's and a doctorate degree in Computer Science from Carnegie-Mellon University.
+
+
+
+MARK BAUHAUSjoined Juniper Networks in September 2007 as Executive Vice President and General Manager of the SLT Business Group. Before joining Juniper Networks, Mr. Bauhaus established Bauhaus Productions Consulting, where he served as founder and principal until September 2007, after serving over 20 years at Sun Microsystems ("Sun") in a range of executive level assignments from December 1986 through December 2006, mo
+st recently in the position of Senior Vice President of Service-Oriented Architecture Software. Prior to that, he was Senior Vice President, Java Web Services at Sun and Vice President and Founder of Global Dot.Com Consulting. Mr. Bauhaus began his career as an environmental engineer for HP. Mr. Bauhaus holds a bachelor's degree in business management and environmental systems analysis from the University of California at Davis.
+
+
+
+ROBYN M. DENHOLMjoined Juniper Networks in August 2007 as Executive Vice President and Chief Financial Officer. Prior to joining Juniper Networks, Ms. Denholm was at Sun from January 1996 to August 2007, where she served in executive assignments tha
+t included Senior Vice President of Corporate Strategic Planning, Senior Vice President of Finance, Vice President and Corporate Controller (Chief Accounting Officer), Vice President of Finance, Director of Service Division, and Shared Financial Services APAC and Controller, Australia/New Zealand. Prior to joining Sun, Ms. Denholm served at Toyota Motor Corporation Australia for seven years and at Arthur Andersen & Company for five years in various finance assignments. Ms. Denholm is a Fellow of the Institute of Chartered Accountants of Australia and holds a bachelor's degree in economics from the University of Sydney and a master's degree in commerce from the University of New South Wales.
+
+
+
+
+
+
+
+
+
+
+
+STEFAN DYCKERHOFFjoined Juniper Networks in October 2009 and serves as our Executive Vice President and General Manager of the Infrastructure Products Group. Prior to re-joining Juniper, Mr. Dyckerhoff was at Cisco, from May 2004 to September 2009, serving as Vice President and General Manager of the Edge Routing Business Unit. From January 1997 to May 2004, Mr. Dyckerhoff was at Juniper Networks serving in various engine
+ering leadership roles. Mr. Dyckerhoff holds a bachelor's degree in electrical engineering and computer science from Duke University and a master's degree in Electrical Engineering from Stanford University.
+
+
+
+MITCHELL GAYNORjoined Juniper Networks in February 2004 as Vice President, General Counsel, and Secretary and served as Senior Vice President, General Counsel and Secretary from February 2008 to February 2011 and is currently our Executive Vice President, General Counsel and Secretary. Prior to joining Juniper Networks, Mr. Gaynor was Vice President, General Counsel, and Secretary of Portal Software, Inc. and Sybase, Inc. In private practice, he was an associate with the
+ law firm of Brobeck, Phleger & Harrison. Mr. Gaynor holds a law degree from University of California's Hastings College of the Law and a bachelor's degree in History from the University of California, Berkeley.
+
+
+
+JOHN MORRISjoined Juniper Networks in July 2008 as Executive Vice President of Worldwide Field Operations. Prior to joining Juniper Networks, Mr. Morris was President and Chief Operating Officer of Pay By Touch, from May 2005 to October 2007, after serving 23 years at IBM, where he served in a range of executive assignments, most recently as Vice President and General Manager of the Distribution Sector in the Americas region. Mr. Morris also serve
+d on IBM's Global Marketing Council and has extensive experience in Asia, including serving as Vice President and General Manager of the distribution sector for Asia Pacific, based in Tokyo, Japan.
+
+
+
+MICHAEL J. ROSEjoined Juniper Networks in November 2008 as Executive Vice President of Service, Support. and Operations. He also served on Juniper Network's Board of Directors from July 2007 through November 2008. Before joining Juniper Networks, Mr. Rose was an independent business consultant after serving as Executive Vice President and Chief Information Officer of Royal Dutch Shell plc from September 2001 through December 2005. Prior to Royal Dutch Shell, Mr. Rose worked for 
+23 years in a wide range of positions at HP across finance, IT, and field operations, including Chief Information Officer and Corporate Controller. Mr. Rose holds a bachelor's degree in economics from the State University of New York at Geneseo, N.Y.
+
+
+
+GENE ZAMISKAjoined Juniper Networks in December 2007 as Vice President of Finance and Corporate Controller and in February 2009, was appointed Chief Accounting Officer of Juniper Networks. Before joining Juniper Networks, Mr. Zamiska was at HP from February 1989 through November 2007, where he served in various roles in the finance department, most recently serving as Senior Director of Finance - Controller for HP's consulting 
+and integration division and HP's Senior Director of Finance - Assistant Corporate Controller. Prior to HP, Mr. Zamiska was at Arthur Anderson & Company where he served in various roles in the audit and assurance practice. Mr. Zamiska is a Certified Public Accountant (inactive) and holds a bachelor's degree in Business-Accounting from the University of Illinois, Champaign-Urbana.
+
+
+
+Available Information
+
+
+
+We file our annual reports on Form 1
+0-K, quarterly reports on Form 10-Q, and current reports on Form 8-K pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, with the U.S. Securities and Exchange Commission (the “SEC”) electronically. The public may read or copy any materials we file with the SEC at the SEC's Public Reference Room at 100 F Street, NE, Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains a website that contains reports, proxy and information statements, and other information regarding issuers, including Juniper Networks, that file electronically with the SEC. The address of that website is http://www.sec.gov.
+
+
+
+You may obtain a free copy of our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports on our website at http://www.juniper.net, by contacting the Investor Relations Department at our corporate offices by calling 1-888-586-4737, or by sending an e-mail message to investor-relations@juniper.net. Such reports and other information are available on our website when they are available on the SEC website. Our Corporate Governance Standards, the charters of our Audit Committee, Compensation Committee, Stock Committee, and Nominating and Corporate Governance Committee, as well as our Worldwide Code of Business Conduct and Ethics are also available on our website. Information on our website is not a part of this Annual Report on Form 10-K.
+
+
+
+
+
+
+
+
+
+
+
+
+

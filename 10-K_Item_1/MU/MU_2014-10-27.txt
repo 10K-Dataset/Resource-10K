@@ -1,0 +1,514 @@
+ITEM 1.  BUSINESS
+
+
+
+
+
+The following discussion contains trend information and other forward-looking statements that involve a number of risks and uncertainties.  Forward-looking statements include, but are not limited to, statements such as those made in "Products" regarding increased sales of DDR4 products, growth in demand for NAND Flash products and SSDs and in "Manufacturing" regarding the transition to smaller line-width process technologies and 3D NAND Flash.  Our actual results could differ materially from our historical results and those discussed in the forward-looking statements.  Factors that could cause actual results to differ materially include, but are not limited to, those identified in "Item 1A. Risk Factors." All period references are to our fiscal periods unless otherwise indicated.
+
+
+
+
+
+
+
+Corporate Information
+
+
+
+Micron, a Delaware corporation, was incorporated in 1978.  Our executive offices are located at 8000 South Federal Way, Boise, Idaho 83716-9632 and our telephone number is (208) 368-4000.  Information about us is available on the internet at www.micron.com.  Copies of our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K, as well as any amendments to these reports, are available through our website as soon as reasonably practicable after they are electronically filed with or furnished to the SEC.  Materials filed by us with the SEC are also available at the SEC’s Public Reference Room at 100 F Street, NE, Washington, D.C. 20549.  Information on the operation of the Public Reference Room is available by calling (800) SEC-0330.  Also available on our website are our:  Corporate Governance Guidelines, Governance Committee Charter, Compensation Committee Charter, Audit Committee Charter and Code of Business Conduct and Ethics.  Any amendments or waivers of our Code of Business Conduct and Ethics will also be posted on our website at www.micron.com within four business days of the amendment or waiver.  Copies of these documents are available to shareholders upon request.  Information contained or referenced on our website is not incorporated by reference and does not form a part of this Annual Report on Form 10-K.
+
+
+
+
+
+
+
+Overview
+
+
+
+We are one of the world's leading providers of advanced semiconductor solutions.  Through our worldwide operations, we manufacture and market a full range of DRAM, NAND Flash and NOR Flash memory, as well as other innovative memory technologies, packaging solutions and semiconductor systems for use in leading-edge computing, consumer, networking, automotive, industrial, embedded and mobile products.  We market our products through our internal sales force, independent sales representatives and distributors primarily to Original Equipment Manufacturers ("OEMs") and retailers located around the world.  Our success is largely dependent on the market acceptance of our diversified portfolio of semiconductor products, efficient utilization of our manufacturing infrastructure, successful ongoing development of advanced product and process technologies and generating a return on R&D investments.
+
+
+
+We obtain products for sale to our customers from our wholly-owned manufacturing facilities and our joint ventures.  In recent years, we have increased our manufacturing scale and product diversity through strategic acquisitions and various partnering arrangements.
+
+
+
+We make significant investments to develop the proprietary product and process technologies that are implemented in our worldwide manufacturing facilities and through our joint ventures.  These investments enable our production of semiconductor products with increasing functionality and performance at lower costs.  We generally reduce the manufacturing cost of each generation of product through advancements in product and process technologies, such as our leading-edge line-width process technology.  We continue to introduce new generations of products that offer improved performance characteristics, such as higher data transfer rates, reduced package size, lower power consumption, improved read/ write reliability and increased memory density.  To leverage our significant investments in R&D, we have formed, and may continue to form, strategic joint ventures that allow us to share the costs of developing memory product and process technologies with joint venture partners.  In addition, from time to time, we also sell and/or license technology to other parties.  We continue to pursue additional opportunities to monetize our investment in intellectual property through partnering and other arrangements.
+
+
+
+
+
+
+
+
+
+
+
+
+On July 31, 2013, we completed the acquisition of Elpida, now known as MMJ, and a controlling interest in Rexchip, now known as MMT (together, the "MMJ Acquisition").  The MMJ Acquisition included a 300mm DRAM wafer fabrication facility located in Hiroshima, Japan, a 300mm DRAM wafer fabrication facility in Taichung City, Taiwan and an assembly and test facility located in Akita, Japan.  These wafer fabrication facilities together represented approximately 30% of our total wafer capacity for 2014.  The operations from the MMJ Acquisition, which are included primarily in our MBU and CNBU segments, include the manufacture of Mobile DRAM targeted to mobile phones and tablets and computing DRAM targeted to desktop PCs, servers, notebooks and workstations.  In connection with the MMJ Acquisition, we recorded net assets of $2.60 billion, noncontrolling interests of $168 million and a gain on the transaction of $1.48 billion in 2013.  (See "Part II – Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements – Micron Memory Japan, Inc." note.)
+
+
+
+The MMJ Companies are currently subject to corporate reorganization proceedings under the Corporate Reorganization Act of Japan.  Because the plans of reorganization of the MMJ Companies provide for ongoing payments to creditors following the MMJ Acquisition, these proceedings are continuing and the MMJ Companies remain subject to the oversight of the Japan Court and of the trustees appointed by the Japan Court (including a trustee designated by us, who we refer to as the business trustee, and a trustee designated by the Japan Court, who we refer to as the legal trustee), pending completion of the reorganization proceedings.  As a result of this oversight and related consent rights of the Japan Court and the legal trustee, our ability to effectively integrate the MMJ Companies as part of our global operations or to cause the MMJ Companies to take certain actions that we deem advisable for their businesses could be adversely affected if the Japan Court or the legal trustee is unwilling to consent to various actions.  For more information, see "Item 3. Legal Proceedings – Reorganization Proceedings of the MMJ Companies" and "Item 1A. Risk Factors."
+
+
+
+Business Segments
+
+
+
+In the third quarter of 2014, we reorganized our business units.  All prior period amounts reflect this reorganization.  Factors used to identify our segments include, among others, markets, customers and products.  Segment information reported herein is consistent with how it is reviewed and evaluated by our chief operating decision makers.  We have the following four business units, which are our reportable segments:
+
+
+
+Compute and Networking Business Unit ("CNBU"):Includes DRAM and NOR Flash products sold to the compute, networking, graphics and cloud server markets.
+
+Mobile Business Unit ("MBU"):Includes DRAM, NAND Flash and NOR Flash products sold to the smartphone, feature phone and tablet mobile-device market.
+
+Storage Business Unit ("SBU"):Includes NAND Flash components and SSDs sold into enterprise and client storage, cloud and removable storage markets.  SBU also includes NAND Flash products sold to Intel through our IMFT joint venture.
+
+Embedded Business Unit ("EBU"):Includes DRAM, NAND Flash and NOR Flash products sold into automotive and industrial applications, as well as the connected home and consumer electronics markets.
+
+
+
+For more information regarding our segments, see "Part II – Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements – Segment Information."
+
+
+
+
+
+
+
+Products
+
+
+
+DRAM
+
+
+
+DRAM products are high-density, low-cost-per-bit, random access memory devices that provide high-speed data storage and retrieval with a variety of performance, pricing and other characteristics.  Sales of DRAM products were 68%, 48% and 39% of our total net sales in 2014, 2013 and 2012, respectively.  DRAM products are sold by CNBU, MBU and EBU.
+
+
+
+DDR3 DRAM is a standardized, high-density, high-volume, DRAM product, which offers high speed and high bandwidth at a relatively low cost.  DDR3 products are primarily targeted at computers, servers, networking devices and communications equipment.  In 2014, we offered DDR3 products in 1Gb, 2Gb and 4Gb densities.  We also offered next generation DDR4 DRAM products in 2014 and we expect sales of these products to increase significantly in 2015 as they replace DDR3 DRAM products in many applications.  Sales of DDR3 DRAM products were 40%, 31% and 20% of our total net sales in 2014, 2013 and 2012, respectively.
+
+
+
+
+
+
+
+
+
+
+
+
+LPDRAM products offer lower power consumption relative to other DRAM products and are used primarily in mobile phones, tablets, embedded applications, ultra-thin laptop computers and other mobile consumer devices that require low power consumption.  We offer DDR4, DDR3, DDR2 and DDR versions of LPDRAM.  Sales of mobile LPDRAM products were 20%, 6% and 3% of our total net sales in 2014, 2013 and 2012, respectively.
+
+
+
+We also offer other DRAM products targeted to specialty markets including DDR2 DRAM, DDR DRAM, GDDR5 DRAM, SDRAM, RLDRAM and PSRAM.  These products are used primarily in networking devices, servers, consumer electronics, communications equipment, computer peripherals, automotive and industrial applications as well as computer memory upgrades.  In 2014, we began selling Hybrid Memory Cube ("HMC") products, which are semiconductor memory devices where vertical stacks of DRAM die that are connected using through-silicon-via interconnects are placed above a small, high-speed logic layer.  HMC enables ultra-high system performance with significantly lower power-per-bit.
+
+
+
+NAND Flash Memory
+
+
+
+NAND Flash products are electrically re-writeable, non-volatile semiconductor memory devices that retain content when power is turned off.  NAND Flash sales were 27%, 40% and 44% of our total net sales in 2014, 2013 and 2012, respectively.  NAND Flash is ideal for mass-storage devices due to its fast erase and write times, high density and low cost per bit relative to other solid-state memories.  Embedded NAND Flash-based storage devices are utilized in mobile phones, SSDs, tablets, computers, industrial and automotive applications, networking and other personal and consumer applications.  Removable storage devices, such as USB and Flash memory cards, are used with applications such as PCs, digital still cameras and mobile phones.  The market for NAND Flash products has grown rapidly and we expect it to continue to grow due to demand for these and other embedded and removable storage devices.  NAND Flash products are sold by SBU, EBU, MBU and CNBU.
+
+
+
+Our NAND Flash products feature a small cell structure that enables higher densities for demanding applications.  We offer high-speed SLC, MLC and TLC NAND Flash products that are compatible with advanced interfaces.  MLC and TLC products have two and three times, respectively, the bit density of SLC products.  In 2014, we offered SLC NAND Flash products in 1Gb to 64Gb densities; 2-bit-per-cell MLC NAND Flash products in 8Gb to 128Gb densities; and 3-bit-per-cell TLC NAND Flash products in 64Gb to 128Gb densities.
+
+
+
+We offer client and enterprise SSDs which feature higher performance, reduced-power consumption and enhanced reliability as compared to typical hard disk drives.  Our client SSDs are targeted at notebooks, desktops, workstations and other consumer applications.  Using our NAND Flash process technology and a leading-edge SATA 6 Gb per second interface, our SSDs deliver read and write speeds that help improve boot and application load times and deliver higher performance than hard disk drives.  Our client SSDs feature industry-leading encryption for corporate users and are offered in a 2.5-inch, M.2. and mSATA modules, with densities up to 1 terabyte.  Our enterprise SSDs are targeted at server and storage applications and incorporate our Extended Performance and Enhanced Reliability Technology (XPERT) architecture, which closely incorporates the storage and controller through highly optimized firmware algorithms and hardware enhancements.  The end result is a set of market-focused enterprise features that deliver ultra-low latencies, improved data transfer time, power-loss protection and cost-effectiveness, along with higher capacities and power efficiency.  We offer enterprise SSDs with capacities up to 1.4 terabytes.  We expect that demand for both client and enterprise SSDs will continue to increase significantly over the next several years.
+
+
+
+We also offer managed NAND Multi-Chip Package ("MCP") products, which incorporate our NAND Flash.  Our managed NAND products include e-MMC, e-MCP and embedded USB.  Our e-MMC products combine NAND Flash with a logic controller that performs media management and Error Code Correction ("ECC"), which provides reduced ECC complexity, better system performance, improved reliability, easy integration and lower overall system costs.  Our e-MCP products combine e-MMC with LPDRAM on the same substrate, which improves overall functionality and performance while simplifying system design.
+
+
+
+Through our Lexar® brand, we sell high-performance digital media products and other flash-based storage products through retail and OEM channels.  Our digital media products include a variety of flash memory cards and JumpDrive™ products with a range of speeds, capacities and value-added features.  We offer flash memory cards in a variety of speeds and capacities and in all major media formats, including CompactFlash, Memory Stick and Secure Digital ("SD").  CompactFlash and Memory Stick products sold by us incorporate our patented controller technology.  Other products, including SD memory cards and some JumpDrive products, incorporate third party controllers.  We also manufacture products that are sold under other brand names and resell flash memory products that are purchased from other NAND Flash suppliers.
+
+
+
+
+
+
+
+
+
+
+
+
+NOR Flash Memory
+
+
+
+NOR Flash products are electrically re-writeable, non-volatile semiconductor memory devices that retain content when power is turned off, offer fast read times due to random access capability and have execute-in-place ("XiP") capability that enables processors to read NOR Flash without first accessing RAM.  These capabilities make NOR ideal for storing program code in wireless and embedded applications.  Our NOR Flash sales were 3%, 9% and 12% of our total net sales for 2014, 2013 and 2012, respectively.  NOR Flash products are sold primarily by EBU and CNBU.
+
+
+
+We offer both parallel and serial interface NOR Flash products in a broad range of densities, packages and features.  Our parallel NOR Flash products are constructed to meet the needs of the consumer electronics, industrial, wired and wireless communications, computing and automotive applications.  These products offer high densities, XiP performance, architectural flexibility and proven reliability in rigorous industrial settings.  Our serial NOR Flash products are designed to meet the needs of consumer electronics, industrial, automotive, wired and wireless communications and computing applications.  These products offer industry-standard packaging, pinouts, command sets and chipset compatibility.
+
+
+
+
+
+
+
+Partnering Arrangements
+
+
+
+The following is a summary of our partnering arrangements as ofAugust 28, 2014:
+
+
+
+EntityMember or PartnerMicronOwnership InterestFormed/AcquiredProduct MarketConsolidated entities:IMFT(1)Intel Corporation51%2006NAND FlashMP Mask(2)Photronics, Inc.50%2006PhotomasksEquity method investments:Inotera(3)Nanya Technology Corporation33%2009DRAMTera Probe(4)Various40%2013Wafer Probe
+
+
+
+(1)IMFT:We partner with Intel for the design, development and manufacture of NAND Flash and certain emerging memory products.  In connection therewith, we formed a joint venture with Intel, IMFT, to manufacture NAND Flash memory products for the exclusive use of the members.  The members share the output of IMFT generally in proportion to their investment.  We sell NAND Flash products to Intel through IMFT at long-term negotiated prices approximating cost.  We generally share product design and other research and development costs for NAND Flash and certain emerging memory technologies equally with Intel.  The IMFT joint venture agreement extends through 2024 and includes certain buy-sell rights with an Intel put right, commencing in January 2015, and our call right commencing in January 2018, pursuant to which Intel may elect to sell to us, or we may elect to purchase from Intel, Intel's interest in IMFT.  If Intel elects to sell to us, we would set the closing date of the transaction within two years following such election and could elect to receive financing of the purchase price from Intel for one to two years from the closing date.  (See "Part II – Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements – Equity – Noncontrolling Interests in Subsidiaries – IMFT" note.)
+
+
+
+(2)MP Mask:We produce photomasks for leading-edge and advanced next generation semiconductors through MP Mask, a joint venture with Photronics.  The MP Mask joint venture agreement allows either party to terminate the joint venture in either May 2016, provided notice is given prior to May 2015, or in each five-year successive period following May 2016, provided such notice is given at least twelve months prior to the end of the successive five-year period.  We and Photronics also have supply arrangements wherein we purchase a substantial majority of the reticles produced by MP Mask.  (See "Part II – Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements – Equity – Noncontrolling Interests in Subsidiaries – MP Mask" note.)
+
+
+
+
+
+
+
+
+
+
+
+
+(3)Inotera:We partner with Nanya for the manufacture of DRAM products.  In connection therewith, we have partnered with Nanya in Inotera, a DRAM memory company in Taiwan.  Through December 2012, we purchased50%of Inotera's wafer production capacity based on a margin-sharing formula among Nanya, Inotera and us.  Since January 2013, we have purchased substantially all of Inotera's DRAM output at a discount from market prices for our comparable components under a new supply agreement (the "Inotera Supply Agreement").  The Inotera Supply Agreement has a three-year term (currently through December 2016) that contemplates annual negotiations with respect to potential successive one-year extensions.  If the parties do not agree to an extension, the agreement will terminate following the end of the then-existing term plus a subsequent three-year wind-down period.  In the event of a wind-down, our share of Inotera's capacity would decline over the wind-down period.  We are currently in negotiations regarding the extension of the Inotera Supply Agreement.  (See "Part II – Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements – Equity Method Investments – Inotera" note.)
+
+
+
+(4)Tera Probe:We have an approximate 40% ownership interest in Tera Probe, an entity that provides semiconductor probe and wafer testing services to us and others.
+
+
+
+
+
+
+
+Manufacturing
+
+
+
+Our manufacturing facilities are located in the United States, China, Japan, Malaysia, Puerto Rico, Singapore and Taiwan.    Our Inotera joint venture has a wafer fabrication facility in Taiwan.  Nearly all of our products are manufactured on 300mm wafers in facilities that generally operate 24 hours per day, 7 days per week.  Semiconductor manufacturing is extremely capital intensive, requiring large investments in sophisticated facilities and equipment.  A significant portion of our semiconductor equipment is replaced every three to five years with increasingly advanced equipment.  DRAM, NAND Flash and NOR Flash products share a number of common manufacturing processes, enabling us to leverage our product and process technologies and manufacturing infrastructure across these product lines.  In 2014, we transitioned one of our Singapore wafer fabrication facilities from production of DRAM to NAND Flash.
+
+
+
+
+
+Wafer fabrication occurs in a highly controlled, clean environment to minimize dust and other yield and quality-limiting contaminants.  Despite stringent manufacturing controls, individual circuits may be nonfunctional or wafers may need to be scrapped due to equipment errors, minute impurities in materials, defects in photomasks, circuit design marginalities or defects and dust particles.  Success of our manufacturing operations depends largely on minimizing defects to maximize yield of high-quality circuits.  In this regard, we employ rigorous quality controls throughout the manufacturing, screening and testing processes.  We are able to recover certain devices by testing and grading them to their highest level of functionality.
+
+
+
+We test our products at various stages in the manufacturing process, perform high temperature burn-in on finished products and conduct numerous quality control inspections throughout the entire production flow.  In addition, we use our proprietary AMBYX™ line of intelligent test and burn-in systems to perform simultaneous circuit tests of semiconductor memory die during the burn-in process, capturing quality and reliability data and reducing testing time and cost.
+
+
+
+We sell semiconductor products in both packaged and unpackaged (i.e. "bare die") forms.  Our packaged products include memory modules, SSDs, MCPs, managed NAND, memory cards and USB devices.  We assemble many products in-house and, in some cases, outsource assembly services where we can reduce costs and minimize our capital investment.  We contract with independent foundries and assembly and testing companies to manufacture NAND Flash media products such as memory cards and USB devices.
+
+
+
+
+
+
+
+
+
+
+In recent years, we have produced an increasingly broad portfolio of products, which enhances our ability to allocate resources to our most profitable products but also increases the complexity of our manufacturing operations.  Although our product lines generally use similar manufacturing processes, our overall cost efficiency can be affected by frequent conversions to new products, the allocation of manufacturing capacity to more complex, smaller-volume parts and the reallocation of manufacturing capacity across various product lines.
+
+
+
+
+
+
+
+Availability of Raw Materials
+
+
+
+Our operations require raw materials that meet exacting standards.  We generally have multiple sources of supply for our raw materials.  However, only a limited number of suppliers are capable of delivering certain raw materials that meet our standards.  In some cases, materials are provided by a single supplier.  Various factors could reduce the availability of raw materials such as silicon wafers, photomasks, chemicals, gases, photoresist, lead frames and molding compound.  Shortages may occur from time to time in the future.  We and/or our suppliers could be affected by laws and regulations enacted in response to concerns regarding climate change, which could increase the cost and limit the supply of our raw materials.  In addition, disruptions in transportation lines could delay our receipt of raw materials.  Lead times for the supply of raw materials have been extended in the past.  If our supply of raw materials is disrupted or our lead times extended, our business, results of operations or financial condition could be materially adversely affected.
+
+
+
+
+
+
+
+Marketing and Customers
+
+
+
+Our products are sold into compute and graphics, mobile, SSD and other storage, automotive, industrial, medical and other embedded and server markets.  Market concentrations from2014net sales were approximately as follows:30%for compute and graphics (including desktop PCs, notebooks and workstations);20%for mobile;20%for SSD and other storage;10%for automotive, industrial, medical and other embedded; and10%for server.  Sales to Kingston, primarily DRAM, were10%of our net sales in2014.  Sales to Intel, primarily NAND Flash products through IM Flash, were8%of our net sales in2014,10%of our net sales in2013and12%of our net sales in2012.  Sales to HP, primarily DRAM, were9%of our net sales in2014,10%of our net sales in2013and8%of our net sales in2012.
+
+
+
+Our semiconductor memory products are offered under the Micron, Lexar®, Crucial™, SpecTek® and Elpida brand names and private labels.  We market our semiconductor memory products primarily through our own direct sales force and maintain sales or representative offices in our primary markets around the world.  We sell Lexar-branded NAND Flash memory products primarily through retail channels and our Crucial-branded products through a web-based customer direct sales channel as well as through channel and distribution partners.  Our products are also offered through independent sales representatives and distributors.  Independent sales representatives obtain orders subject to final acceptance by us and are compensated on a commission basis.  We make shipments against these orders directly to the customer.  Distributors carry our products in inventory and typically sell a variety of other semiconductor products, including competitors' products.  We maintain inventory at locations in close proximity to certain key customers to facilitate rapid delivery of products.  Many of our customers require a thorough review or qualification of semiconductor products, which may take several months.
+
+
+
+
+
+
+
+Backlog
+
+
+
+Because of volatile industry conditions, customers are reluctant to enter into long-term, fixed-price contracts.  Accordingly, new order volumes for our semiconductor products fluctuate significantly.  We typically accept orders with acknowledgment that the terms may be adjusted to reflect market conditions at the date of shipment.  For these reasons, we do not believe that our order backlog as of any particular date is a reliable indicator of actual sales for any succeeding period.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Product Warranty
+
+
+
+Because the design and manufacturing process for semiconductor products is highly complex, it is possible that we may produce products that do not comply with customer specifications, contain defects or are otherwise incompatible with end uses.  In accordance with industry practice, we generally provide a limited warranty that our products are in compliance with our specifications existing at the time of delivery.  Under our general terms and conditions of sale, liability for certain failures of product during a stated warranty period is usually limited to repair or replacement of defective items or return of, or a credit with respect to, amounts paid for such items.  Under certain circumstances, we provide more extensive limited warranty coverage than that provided under our general terms and conditions.
+
+
+
+
+
+
+
+Competition
+
+
+
+We face intense competition in the semiconductor memory market from a number of companies, including Samsung Electronics Co., Ltd.; SanDisk Corporation; SK Hynix Inc. and Toshiba Corporation.  Some of our competitors are large corporations or conglomerates that may have greater resources to withstand downturns in the semiconductor markets in which we compete, invest in technology and capitalize on growth opportunities.  Our competitors seek to increase silicon capacity, improve yields, reduce die size and minimize mask levels in their product designs resulting in significantly increased worldwide supply and downward pressure on prices.  Many of our high-volume memory products are manufactured to industry standard specifications and as such have similar performance characteristics to those of our competitors.  For these high-volume memory products, the principal competitive factors are generally price and performance characteristics including:  operating speed, power consumption, reliability, compatibility, size and form factors.  For our other memory products, the aforementioned performance characteristics generally take precedence to pricing.
+
+
+
+
+
+
+
+Research and Development
+
+
+
+Our process technology R&D efforts are focused primarily on development of successively smaller line-width process technologies, as well as new, fundamentally different memory structures, materials and packages, which are designed to facilitate our transition to next generation memory products.  Additional process technology R&D efforts focus on the enablement of advanced computing and mobile memory architectures, the investigation of new opportunities that leverage our core semiconductor expertise and the development of new manufacturing materials.  Product design and development efforts include our high density DDR3 and DDR4 DRAM and LPDRAM products as well as high density and mobile NAND Flash memory (including 3D NAND and MLC and TLC technologies), NOR Flash memory, specialty memory, SSDs,HMCs and other memory technologies and systems.
+
+
+
+Our R&D expenses were $1.37 billion, $931 million and $918 million in 2014, 2013 and 2012, respectively.  We share certain R&D process technology and design costs for NAND Flash and emerging technologies with Intel.  We shared R&D process and design costs for DRAM with Nanya through December 2012, when our cost-sharing agreement was terminated.  As a result of reimbursements under our Intel and Nanya cost-sharing arrangements, our overall R&D expenses were reduced by $137 million, $146 million and $225 million in 2014, 2013 and 2012, respectively.
+
+
+
+To compete in the semiconductor memory industry, we must continue to develop technologically advanced products and processes.  We believe that expansion of our semiconductor product offerings is necessary to meet expected market demand for specific memory solutions.  Our process, design and package development efforts occur at multiple locations across the world, with our largest R&D centers located in Boise, Idaho; Hiroshima, Japan; Hashimoto, Japan; and Milpitas, California.  We have several additional product design centers in other strategic locations around the world.  In addition, we develop photolithography mask technology at our MP Mask joint venture facility in Boise.
+
+
+
+R&D expenses vary primarily with the number of development wafers processed, the cost of advanced equipment dedicated to new product and process development and personnel costs.  Because of the lead times necessary to manufacture our products, we typically begin to process wafers before completion of performance and reliability testing.  We deem development of a product complete once the product has been thoroughly reviewed and tested for performance and reliability.  R&D expenses can vary significantly depending on the timing of product qualification.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Geographic Information
+
+
+
+Sales to customers outside the United States totaled $13.81 billion for 2014 and included sales of $6.72 billion in China, $2.31 billion in Taiwan, $1.25 billion in Japan, $1.25 billion in Europe and $1.79 billion in the rest of the Asia Pacific region (excluding China, Japan and Taiwan).  Sales to customers outside the United States totaled $7.56 billion for 2013 and $6.97 billion for 2012.  As of August 28, 2014, we had net property, plant and equipment of $3.28 billion in the United States, $3.10 billion in Singapore, $1.22 billion in Japan, $761 million in Taiwan, $242 million in China, and $75 million in other countries.  (See "Part II – Item 8. Financial Statements and Supplementary Data – Notes to Consolidated Financial Statements – Geographic Information" note and "Item 1A. Risk Factors.")
+
+
+
+
+
+
+
+Patents and Licenses
+
+
+
+In recent years, we have been recognized as a leader in per capita and quality of patents issued.  As ofAugust 28, 2014, we owned approximately 16,500 U.S. patents and 4,000 foreign patents.  In addition, we have thousands of U.S. and foreign patent applications pending.  Our patents have various terms expiring through 2033.
+
+
+
+We have a number of patent and intellectual property license agreements and have from time to time licensed or sold our intellectual property to third parties.  Some of these license agreements require us to make one-time or periodic payments while others have resulted in us receiving payments.  We may need to obtain additional patent licenses or renew existing license agreements in the future and we may enter into additional sales or licenses of intellectual property and partnering arrangements.  We are unable to predict whether these license agreements can be obtained or renewed on acceptable terms.
+
+
+
+
+
+
+
+Employees
+
+
+
+As of August 28, 2014, we had approximately 30,400 employees.
+
+
+
+
+
+
+
+Environmental Compliance
+
+
+
+Government regulations impose various environmental controls on raw materials and discharges, emissions and solid wastes from our manufacturing processes.  In 2014, our wafer fabrication facilities continued to conform to the requirements of ISO 14001 certification.  To continue certification, we must meet annual requirements in environmental policy, compliance, planning, management, structure and responsibility, training, communication, document control, operational control, emergency preparedness and response, record keeping and management review.  While we have not experienced any material adverse effects to our operations from environmental regulations, changes in the regulations could necessitate additional capital expenditures, modification of our operations or other compliance actions.
+
+
+
+
+
+
+
+Directors and Executive Officers of the Registrant
+
+
+
+Our executive officers are appointed annually by the Board of Directors and our directors are elected annually by our shareholders.  Any directors appointed by the Board of Directors to fill vacancies on the Board serve until the next election by the shareholders.  All officers and directors serve until their successors are duly chosen or elected and qualified, except in the case of earlier death, resignation or removal.
+
+
+
+As ofAugust 28, 2014, the following executive officers and directors were subject to the reporting requirements of Section 16(a) of the Securities Exchange Act of 1934, as amended.
+
+
+
+
+
+
+
+
+
+
+
+
+NameAgePositionMark W. Adams50PresidentScott J. DeBoer48Vice President of Research & DevelopmentD. Mark Durcan53Director and Chief Executive OfficerRonald C. Foster63Vice President of Finance and Chief Financial OfficerPatrick T. Otte51Vice President of Human ResourcesJoel L. Poppen50Vice President of Legal Affairs, General Counsel, and Corporate SecretaryBrian M. Shirley45Vice President Memory Technology and SolutionsSteven L. Thorsen, Jr.49Vice President of Worldwide Sales and Corporate MarketingRobert L. Bailey57DirectorRichard M. Beyer65DirectorPatrick J. Byrne53DirectorD. Warren A. East52DirectorMercedes Johnson60DirectorLawrence N. Mondry54DirectorRobert E. Switz67Chairman
+
+
+
+Mark W. Adamsjoined us in June 2006 and served as our Vice President of Digital Media and Vice President of Worldwide Sales before being appointed our President in February 2012.  From January 2006, until he joined us, Mr. Adams was the Chief Operating Officer of Lexar Media, Inc.  Mr. Adams served as the Vice President of Sales and Marketing for Creative Labs, Inc. from December 2002 to January 2006.  From March 2000 to September 2002, Mr. Adams was the Chief Executive Officer of Coresma, Inc.  Mr. Adams holds a BA in Economics from Boston College and an MBA from Harvard Business School.
+
+
+
+Scott J. DeBoerjoined us in February 1995as a process development engineer and has served in various leadership positions since that time.  Dr. DeBoer became an officer in May 2007 and, in January 2013, he was appointed our Vice President of Research & Development.  Dr. DeBoer holds a PhD in Electrical Engineering and an MS in Physics from Iowa State University.  He completed his undergraduate degree at Hastings College.
+
+
+
+D. Mark Durcanjoined us in June 1984 and has served in various positions since that time.  Mr. Durcan was appointed our Chief Operating Officer in February 2006, President in June 2007 and Director and Chief Executive Officer in February 2012.  Mr. Durcan has been an officer since 1996.  Mr. Durcan is a member of the Board of Directors of MWI Veterinary Supply, Inc. and Freescale Semiconductor, Inc.  Mr. Durcan holds a BS and MChE in Chemical Engineering from Rice University.  Mr. Durcan has served on our Board of Directors since February 2012.
+
+
+
+Ronald C. Fosterjoined usin April 2008 and is the Chief Financial Officer and Vice President of Finance.  He was appointed to his current position in 2008 after serving as a member of our Board of Directors from June 2004 to April 2005.  Before joining Micron, Mr. Foster was the Chief Financial Officer of FormFactor, Inc.  He previously served as the Chief Financial Officer for JDS Uniphase, Inc., and Novell, Inc.  Mr. Foster holds a BA in Economics from Whitman College and an MBA from the University of Chicago.
+
+
+
+Patrick T. Ottejoined us in October 1987 and has served in various positions, including production and operations manager in several of our fabrication facilities and site director for our facility in Manassas, Virginia.  Mr. Otte has served as our Vice President of Human Resources since March 2007.  Mr. Otte holds a BA in Religious Education from St. Paul Bible College.
+
+
+
+Joel L. Poppenjoined us in October 1995 and has held various positions of increased responsibility, including Deputy General Counsel.  He was appointed to his current position in December 2013.  Mr. Poppen holds a BS in Electrical Engineering from the University of Illinois and a JD from the Duke University School of Law.
+
+
+
+Brian M. Shirleyjoined us in August 1992 and has served in various leadership positions since that time.  Mr. Shirley became Vice President of Memory in February 2006, Vice President of DRAM Solutions in June 2010 and has served as Vice President Memory Technology and Solutions since April 2014.  Mr. Shirley holds a BS in Electrical Engineering from Stanford University.
+
+
+
+Steven L. Thorsen, Jr.joined us in September 1988 and has served in various leadership positions since that time including Vice President and Chief Procurement Officer.  Mr. Thorsen became Vice President of Worldwide Sales in April 2012.  Mr. Thorsen holds a BA in Business Administration from Washington State University.
+
+
+
+
+
+
+
+
+
+
+
+
+Robert L. Baileywas the Chairman of the Board of Directors of PMC-Sierra ("PMC") from 2005 until May 2011 and also served as PMC's Chairman from February 2000 until February 2003.  Mr. Bailey has served as a director of PMC since October 1996.  He also served as the President and Chief Executive Officer of PMC Sierra, Ltd. from July 1997 until May 2008.  PMC is a leading provider of broadband communication and semiconductor storage solutions for the next-generation Internet.  Mr. Bailey currently serves on the Board of Directors of Entropic Communications.  Mr. Bailey holds a BS in Electrical Engineering from the University of Bridgeport and an MBA from the University of Dallas.  He has served on our Board of Directors since 2007.
+
+
+
+Richard M. Beyerwas Chairman and CEO of Freescale Semiconductor from 2008 through June 2012 and continues to serve as a Director with Freescale.  Prior to Freescale, Mr. Beyer was President, Chief Executive Officer and Director of Intersil Corporation from 2002 to 2008.  He has also previously served in executive management roles at FVC.com, VLSI Technology and National Semiconductor Corporation.  He currently serves on the Board of Directors of Dialog Semiconductor and Analog Devices.  Mr. Beyer served three years as an officer in the United States Marine Corps.  He holds a BA and an MA in Russian from Georgetown University and an MBA in Marketing and International Business from Columbia University Graduate School of Business.  Mr. Beyer joined our Board of Directors in January 2013.
+
+
+
+Patrick J. Byrnehas served as the President of Tektronix, Inc., a subsidiary of Danaher Corporation, since July 2014.  Mr. Byrne was Vice President of Strategy and Business Development and Chief Technical Officer of Danaher Corporation from November 2012 to July 2014.  Danaher Corporation designs, manufactures, and markets innovative products and services to professional, medical, industrial, and commercial customers.  Prior to that, Mr. Byrne was the Director, President and Chief Executive Officer of Intermec, Inc. from 2007 to May 2012.  Mr. Byrne was with Agilent Technologies, Inc. from 1999 to 2007 and served in various management positions.  Mr. Byrne holds a BS in Electrical Engineering from the University of California, Berkeley, and an MS in Electrical Engineering from Stanford University.  Mr. Byrne joined our Board of Directors in April 2011.
+
+
+
+D. Warren A. Eastwas the CEO of ARM Holdings PLC from October 2001 to July 2013.  He originally joined ARM in 1994, and served in various roles prior to being appointed CEO.  He currently serves on the board of BT Group plc, De La Rule PLC, Inc. and Rolls Royce plc.  Mr. East is a chartered engineer, Distinguished Fellow of the British Computer Society, Fellow of the Institution of Engineering and Technology, Fellow of the Royal Academy of Engineering and a Companion of the Chartered Management Institute.  Mr. East holds a BA BSc(Eng) and an MBA MEng in Engineering Science from Oxford University and an MBA and honorary doctorate from Cranfield University.  Mr. East joined our Board of Directors in July 2013.
+
+
+
+Mercedes Johnsonwas the Senior Vice President and Chief Financial Officer of Avago Technologies Limited, a supplier of analog interface components for communications, industrial and consumer applications, from December 2005 to August 2008.  She also served as the Senior Vice President, Finance, of Lam Research Corporation ("Lam") from June 2004 to January 2005 and as Lam's Chief Financial Officer from May 1997 to May 2004.  Ms. Johnson holds a degree in Accounting from the University of Buenos Aires and currently serves on the Board of Directors for Intersil Corporation, Juniper Networks, Inc. and Teradyne, Inc.  Ms. Johnson is the Chairman of the Board's Audit Committee and has served on our Board of Directors since 2005.
+
+
+
+Lawrence N. Mondryhas been the Chief Executive Officer of Apollo Brands, a consumer products portfolio company, since February 2014.  Mr Mondry was the Chief Executive Officer of Flexi Compras Corporation, a rent-to-own retailer, from June 2013 to February 2014.  Mr. Mondry was the President and Chief Executive Officer of CSK Auto Corporation ("CSK"), a specialty retailer of automotive aftermarket parts, from August 2007 to July 2008.  Prior to his appointment at CSK, Mr. Mondry served as the Chief Executive Officer of CompUSA Inc. from November 2003 to May 2006.  Mr. Mondry joined CompUSA in 1990.  Mr. Mondry is the Chairman of the Board's Governance Committee and Compensation Committee.  He has served on our Board of Directors since 2005.
+
+
+
+Robert E. Switzwas the Chairman, President and Chief Executive Officer of ADC Telecommunications, Inc., ("ADC"), a supplier of network infrastructure products and services from August 2003 until December 2010, when Tyco Electronics Ltd. acquired ADC.  Mr. Switz joined ADC in 1994 and throughout his career there held numerous leadership positions.  Mr. Switz holds an MBA from the University of Bridgeport and a BS in Business Administration from Quinnipiac University.  Mr. Switz also serves on the Board of Directors for Broadcom Corporation, Cyan Optics, Inc., GT Advanced Technologies and Pulse Electronics Corporation.  He has served on our Board of Directors since 2006 and was appointed Chairman of the Board in February 2012.
+
+
+
+There are no family relationships between any of our directors or executive officers.
+
+
+
+
+
+
+
+
+
+
+
+

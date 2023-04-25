@@ -1,0 +1,706 @@
+Item 1.Business
+
+Forward-Looking Statements
+
+This Annual Report on Form 10-K contains
+forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act). Forward-looking statements are all statements
+(and their underlying assumptions) included in this document that refer, directly or indirectly, to future events or outcomes and, as such, are inherently not factual, but rather reflect only our current projections for the future. Consequently,
+forward-looking statements usually include words such as “estimate,” “intend,” “plan,” “predict,” “seek,” “may,” “will,” “should,” “would,” “could,”
+“anticipate,” “expect,” “believe,” or similar words, in each case, intended to refer to future events or circumstances. A non-comprehensive list of the topics including forward-looking statements in this document
+includes:
+
+
+
+•our future financial and operating results;
+
+
+
+•our strategies;
+
+
+
+•our beliefs and objectives for future operations, research and development;
+
+
+
+•political, economic and industry trends;
+
+
+
+•expected timing of, customer acceptance of and benefits from, product introductions, developments, enhancements;
+
+
+
+•expected benefits from acquisitions and joint ventures, growth opportunities and investments;
+
+
+
+•expected outcomes from legal, regulatory and administrative proceedings;
+
+
+
+•our competitive position;
+
+
+
+•our short-term and long-term cash requirements, including without limitation, anticipated capital expenditures;
+
+
+
+•our anticipated tax rate;
+
+
+
+•the repayment of our 2.00% Senior Notes due on December 15, 2017 and 3.25% Senior Notes due on December 15, 2022 (collectively referred to as
+the Senior Notes); and
+
+
+
+•future uses of our cash, including, without limitation, the continuation of our stock repurchase and cash dividend programs.
+
+All forward-looking statements included in this document are inherently uncertain as they are based on
+management’s current expectations and assumptions concerning future events, and are subject to numerous known and unknown risks and uncertainties. Therefore, actual events and results may differ materially from these forward-looking statements.
+Factors that could cause actual results to differ materially from those described herein include, but are not limited to:
+
+
+
+•the overall growth and structure of the data storage industry;
+
+
+
+•our ability to understand, and effectively respond to changes affecting, our market environment, products, technologies and customer requirements;
+
+
+
+•general global political, macroeconomic and market conditions;
+
+
+
+•our ability to accurately forecast demand for our products and services, and future financial performance;
+
+
+
+•our ability to successfully manage our backlog;
+
+
+
+
+
+
+
+•our ability to successfully execute on our strategy to generate profitable growth and stockholder return;
+
+
+
+•disruptions in our supply chain, which could limit our ability to ship products to our customers in the amounts and at the prices forecasted;
+
+
+
+•our ability to maintain our customer, partner, supplier and contract manufacturer relationships on favorable terms and conditions;
+
+
+
+•our ability to maintain our gross profit margins;
+
+
+
+•our ability to timely and successfully introduce and increase volumes of new products and services and to forecast demand and pricing for the same;
+
+
+
+•our ability to gain customer acceptance of new products;
+
+
+
+•the actions of our competitors, most of which are larger and have greater financial and other resources than we have, including, without limitation,
+their ability to introduce competitive products and to acquire businesses and technologies that negatively impact our strategy, operations or customer demand for our products;
+
+
+
+•the impact of industry consolidation, affecting our suppliers, competitors, partners and customers;
+
+
+
+•our ability to grow direct and indirect sales and to efficiently provide global service and support;
+
+
+
+•our ability to design, manufacture and market products meeting global environmental standards;
+
+
+
+•failure of our products and services to meet our customers’ quality requirements, including, without limitation, any epidemic failure event
+relating to our systems installed by our customers in their IT infrastructures;
+
+
+
+•our ability to resolve ongoing litigation, tax audits, government audits, inquiries and investigations in line with our expectations;
+
+
+
+•the availability of acceptable financing to support our future cash requirements;
+
+
+
+•our ability to effectively integrate acquired businesses, products and technologies;
+
+
+
+•valuation and liquidity of our investment portfolio;
+
+
+
+•our ability to successfully recruit and retain critical employees and to manage our investment in people, process and
+systems;
+
+
+
+•our ability to anticipate techniques used to obtain unauthorized access or to sabotage systems and to implement adequate preventative measures against
+cybersecurity and other securities breaches; and
+
+
+
+•those factors discussed under the heading “Risk Factors” elsewhere in this Annual Report onForm 10-K.
+
+Readers are cautioned not to place undue reliance
+on these forward-looking statements, which speak only as of the date hereof and are based upon information available to us at this time. These statements are not guarantees of future performance. We disclaim any obligation to update information in
+any forward-looking statement. Actual results could vary from our forward-looking statements due to the foregoing factors as well as other important factors.
+
+Overview
+
+NetApp, Inc. (NetApp, we or us) is a leading global provider of
+innovative storage and data management software, systems and services. Our storage solutions help customers create the flexible, efficient and highly available IT infrastructures they need to support their organizations. Our unified scale-out
+fabric-attached storage (FAS) platform is designed to meet the demanding requirements of shared infrastructures and cloud environments. Our E-Series high-performance storage area network (SAN) platform is designed to meet demanding performance and
+capacity requirements while retaining simplicity and an optimized price to performance ratio.
+
+
+
+
+
+
+
+We were incorporated in 1992 and are the creators of the world’s first networked
+storage appliance. Today, we are a leading storage and data management provider to enterprises of all sizes, service providers, governmental organizations, and original equipment manufacturers (OEMs). We have a history of identifying and creating
+new markets and delivering innovations that support market transitions including:
+
+Cloud.
+Cloud-based infrastructure has become a business priority. NetApp®clustered Data ONTAP®storage operating system offers a single storage and data management platform that enables unrestricted, secure
+movement of data across private and public clouds, including those of hyperscale cloud providers. To meet customers’ needs for public cloud services, we have developed a global network of world-class service provider partners that deliver a
+comprehensive portfolio of services built on NetApp technology. Our solutions for service providers accelerate the development and delivery of cloud services. Our NetApp Private Storage for Amazon Web Services allows customers to utilize
+cloud-computing services while retaining full control and mobility of their enterprise data.
+
+Flash. Flash-based devices
+reduce data access time and speed application performance in a smaller footprint and with less energy usage than hard-disk drives (HDDs). At the device level, solid-state drives (SSDs) are still more costly than HDDs, but they can reduce the need to
+overprovision HDD storage, thus lowering the overall cost of ownership. Customers will deploy flash in multiple places in their infrastructure to solve a wide variety of challenges; however, the market is not one-size-fits-all. Our broad portfolio
+includes both hybrid and all-flash storage offerings, which enable IT organizations to optimize the level of performance, efficiency, and scalability to meet their specific needs.
+
+Converged infrastructure. Converged infrastructure is an industry response to market demand to simplify
+complex IT environments. Through storage reference architectures, we have partnered with various companies to offer customers the ability to simplify deployment, management, and orchestration of dedicated and cloud infrastructures. One such storage
+reference architecture, our FlexPod®storage reference architecture, was developed with Cisco Systems. With our
+FlexPod Cooperative Support offering, we quickly address multivendor technical issues and help our customers get the most value from their FlexPod investments.
+
+Virtualized infrastructures. A market shift from traditional dedicated storage to shared storage in virtualized IT infrastructures is well under way. Virtualization allows organizations to separate
+applications and data from dedicated hardware so that the server, storage, and networking infrastructure can be shared and used more efficiently. Our unified FAS architecture, running clustered Data ONTAP storage operating system with integrated
+data protection, is well suited for virtualized environments.
+
+NetApp®Product Portfolio
+
+We offer two storage product
+lines that help us satisfy a broad range of customer workloads across different data types, whether customers are running their applications inside their data center or connecting to external cloud resources.
+
+Our unified scale-out FAS storage platform uses the NetApp®Data ONTAP®storage operating
+system. Data ONTAP delivers integrated data protection, comprehensive data management, and built-in efficiency software for virtualized, shared infrastructures, cloud computing, and mixed workload business applications. Our E-Series platform with
+SANtricity®storage management software offers high-performance, reliable, scalable, and space-efficient storage
+for demanding SAN workloads needing an optimized price-to-performance ratio. We offer hybrid and all-flash configurations of both E-Series and FAS platforms. In addition, we are bringing to market a new all-flash storage array architecture called
+FlashRay™, which will provide rich scale-out and efficiency capabilities to the all-flash market.
+
+Our storage platforms
+are designed to help improve business productivity, performance, and profitability, while providing investment protection and enhanced asset utilization. Our enterprise-class storage solutions are complemented by our services expertise to maximize
+the business benefits that customers gain from deploying our products.
+
+
+
+
+
+
+
+Data Storage Systems
+
+FAS Unified Storage Systems
+
+Our FAS family of unified storage
+systems streamlines, simplifies, and consolidates storage and data management. Our modular, scalable, and highly available FAS architecture supports both scale-up and scale-out growth strategies utilizing the highly efficient Data ONTAP storage
+operating system.
+
+In February 2014, we released our next-generation NetApp FAS8000 Series storage systems. They combine a
+unified, scale-out architecture with leading data-management capabilities. This helps customers adapt faster to changing business needs and meet IT requirements for uptime, scalability, and cost-efficiency. Utilizing a new high performance,
+multi-core architecture and self-managing flash acceleration, FAS8000 unified, scale-out systems boost throughput and decrease latency. They deliver consistent application performance across a broad range of SAN and NAS workloads.
+
+Other products in the FAS line include the FAS6200, FAS3200, and FAS2000 series of FAS systems. These systems are also designed to
+consolidate various types of storage workloads, including primary and secondary data, as well as structured and unstructured data, across all key operating system platforms and network infrastructures. They also unify storage access for all standard
+network protocols based on host bus adapter technology and standard Internet Protocol networks.
+
+V-Series Storage
+Virtualization Controllers
+
+NetApp V-Series storage virtualization controllers provide leading data protection, data
+management, and storage efficiency for existing NetApp E-Series, EMC, Hitachi Data Systems (HDS), HP, IBM, and Fujitsu storage arrays. Customers can reclaim 35% or more capacity and reduce what they must spend for new disk drives to handle data
+growth by using NetApp storage efficiency features such as deduplication, thin provisioning, and compression.
+
+E-Series
+Storage Systems
+
+Since the acquisition of the Engenio business in May 2011, NetApp has been
+offering the formerly-branded Engenio products as NetApp E-Series storage arrays for SAN workloads. Core differentiators of this price-performance leader include enterprise reliability, availability and scalability. Customers choose E-Series for
+general purpose computing, high-density content repositories, video surveillance, and high-performance computing workloads where data is managed by the application and the advanced data management capabilities of Data ONTAP storage operating system
+are not required. A field-proven architecture delivers high reliability and 99.999% uptime. SANtricity®storage
+management software and Dynamic Disk Pools (DDP) simplify storage and data management, data protection, and utilization.
+
+The
+E-Series family includes the entry-level E2600 and E2700 systems and the mid-range E5400 and E5500 systems that deliver high performance and scalability for data-intensive workloads. The modular flexibility of the E-Series enables custom
+configurations optimized to scale as needed. NetApp’s DDP simplifies traditional RAID management by distributing data parity information and spare capacity across a pool of drives.
+
+Flash Systems and Technologies
+
+Flash-based devices such as SSDs and
+controller-based flash can complete 25 to 100 times more random read operations per second than the fastest HDDs, but that performance comes at a premium of 15 to 20 times higher cost per gigabyte. Our approach is to maximize the value of flash
+across the entire computer, network and storage stack. As a result, our customers are able to choose the most cost-effective approach for each workload. NetApp integrates flash technology across all our FAS, V-Series, and E-Series storage platforms,
+optimized to utilize each platform’s strengths, as well as offering dedicated all-flash arrays. NetApp flash solutions enable business agility, improve user experience, lower costs, and use less energy than traditional storage solutions.
+
+
+
+
+
+
+
+Hybrid Arrays
+
+Flash storage today primarily is offered in the form of hybrid arrays, a practical best-of-both-worlds approach that uses a mix of flash
+and traditional hard disk drives. Hybrid arrays provide the right level of performance at the right cost for the majority of business applications. Hybrid FAS and E-Series arrays combine Flash with HDD storage to increase performance, reduce
+latency, shrink rack space requirements, and lower power and cooling costs.
+
+All-Flash Arrays
+
+All-flash arrays offer the fastest access times for the lowest cost per input/output operations per second (IOPS). They are typically used
+for business-critical workloads that demand high performance. NetApp offers three all-flash platforms:
+
+
+
+•EF Series Flash Arrays—EF540 and EF550 flash products combine consistent extreme performance with enterprise-class
+availability, reliability, and manageability. The EF540 and the EF550 both provide sub millisecond data access in a highly available, fault-tolerant architecture. They can eliminate storage over-provisioning and greatly reduce costs by cutting space
+utilization, power, and cooling. These flash arrays feature intuitive storage management and advanced tuning functions, enabling efficient management with minimal effort. A fully redundant architecture is designed to eliminate downtime.
+
+
+
+•FAS Series All-Flash Configurations— The all-flash FAS platform combines low-latency performance with robust data management and
+built-in efficiencies. Capabilities include integrated data protection, multiprotocol support, secure multi-tenancy, scale-out, and nondisruptive operations. All-flash FAS can be deployed as a standalone system or as a high-performance tier in a
+clustered Data ONTAP storage operating system configuration.
+
+
+
+•FlashRay™ Storage Arrays— FlashRay™ storage array systems are designed from the ground up to maximize the benefits of
+flash technology. These systems, which we plan to bring to market in fiscal 2015, feature new technologies including a new operating system software and new hardware architecture designed to provide consistent low-latency performance, high
+availability, and integrated data protection. FlashRay arrays include scale-out and rich data management capabilities. They also include built-in enterprise storage efficiency features such as inline deduplication and compression.
+
+Data Management Software
+
+Data ONTAP®Storage Operating
+System
+
+Data ONTAP®storage operating system is a unified data storage platform that supports any mix of storage area network (SAN) and network-attached storage (NAS) environments. Our
+platform is compatible with UNIX, Linux, Windows, and web environments. Our FAS, V-Series, and FlexArray™ storage solutions are based on the NetApp Data ONTAP software, ranked as the #1 branded storage operating system for both revenue and
+capacity share worldwide by industry analyst firm IDC1.
+
+Data ONTAP software enables unrestricted and secure data movement across multiple cloud environments and paves the way for
+software-defined data centers. It offers advanced performance, availability, and efficiency. Data ONTAP clustering capabilities can help customers keep their businesses running nonstop. In a single, feature-rich platform, clustered Data ONTAP
+software lets customers scale their infrastructure without increasing IT staff. Benefits include:
+
+Nondisruptive operations
+— Perform storage maintenance, hardware lifecycle operations, and software upgrades without business interruptions.
+
+Proven efficiency — Reduces storage costs by consolidating workloads on the same infrastructure.
+
+
+
+1Source: IDC Names NetApp Data ONTAP as the #1 Branded Storage Operating System (www.netapp.com/storage-os-ranked-1).
+
+
+
+
+
+
+
+Seamless scalability — SAN and NAS storage capacity, performance, and operations scales
+without reconfiguring running applications.
+
+Data ONTAP storage operating system unifies storage efficiency, data management,
+and data protection. We believe customers can benefit from these capabilities as they increasingly virtualize their application environments. Our deduplication for primary and secondary storage, thin provisioning, and intelligent caching
+technologies helps maximize utilization and performance while reducing data center footprint and lowering storage-related power and cooling consumption. Data ONTAP features enable massive scalability and efficient data management capabilities.
+
+Storage Efficiency Technologies
+
+Our portfolio of efficiency technologies helps our customers reduce their storage spending and get more from the storage assets they already own. Some of the NetApp efficiency technologies we offer
+include:
+
+Snapshot®Copies — Its point-in-time copies use minimal storage space to protect data without performance impact.
+
+Thin Provisioning — Implemented by NetApp at the FlexVol®volume and LUN level, it defers storage purchases by keeping a common pool of free storage available to all applications.
+
+Data Deduplication — Cuts storage requirements by reducing redundancies in primary, backup, and archival data.
+
+Data Compression — Reduces disk space, regardless of storage protocol, application, or storage tier.
+
+RAID-DP®Data Protection — Protects against double disk failure without sacrificing performance or adding disk mirroring overhead.
+
+Virtual Storage Tier — Lets customers scale performance and capacity while achieving the highest level of storage efficiency. Flash
+Cache intelligent caching helps optimize storage system performance.
+
+FlexClone®Data Replication — Virtual cloning reduces the need for storage by enabling multiple, instant, space-efficient
+writable copies.
+
+Thin Replication — The heart of our data protection portfolio, which includes
+SnapMirror®and SnapVault®software. SnapVault software enables more frequent backups that use less storage capacity, because no redundant data is moved or stored. SnapMirror software protects
+business-critical data while minimizing storage capacity requirements.
+
+FlexArray™ Storage Virtualization Software
+
+We built on 10 years of storage virtualization experience with our V-Series platform to create our FlexArray™
+storage virtualization software, which enables FAS8000 systems to provide full storage virtualization of NetApp E-Series, EMC, and HDS arrays.
+
+FlexArray software unifies and simplifies IT operations by virtualizing customers’ current arrays to support both SAN and NAS workloads. It reduces capacity requirements on arrays by more than 35%
+and increases the usefulness of current storage. When virtualizing existing storage with FlexArray software, customers can create a single storage management architecture that uses easy-to-learn tools for provisioning, performance management, and
+data protection.
+
+
+
+
+
+
+
+Data Protection Software Products
+
+The NetApp Integrated Data Protection products offer a broad range of branded and partner-integrated solutions designed to increase the
+speed, simplicity, and efficiency of data protection operations in any environment from dedicated to shared IT to cloud storage. NetApp technologies include:
+
+Snapshot®Copies Technology — Enables near-instantaneous, space-efficient online backups of large datasets without affecting system performance.
+
+SnapMirror®Data Replication Solutions — Provide disaster recovery protection for business-critical data matched to the recovery point objectives and recovery time
+objectives of customer environments.
+
+SnapRestore®Data Recovery Software — Uses stored Snapshot backups to recover entire file systems or data volumes in seconds, regardless of capacity or number of files.
+
+SnapVault®and Open Systems SnapVault Backup Software — Provide network- and storage-optimized data movement for disk-to-disk backup.
+
+MetroCluster™ High Availability and Disaster Recovery Software — Uniquely combine array-based clustering with synchronous
+mirroring to deliver continuous availability and zero data loss.
+
+SnapProtect®Management Software — Manages Snapshot copies, replication, and tape from a single console to enable
+high-speed, modern backup solutions that solve longstanding data protection challenges.
+
+Integrated Backup Solutions —
+Bring the speed and efficiency of Snapshot copies and replication to customers using our alliance partners’ backup solutions. Symantec NetBackup, CommVault Simpana, and Syncsort data protection software can manage our data protection stack to
+accelerate operations without complicating management.
+
+Data Retention and Archive Products
+
+To meet growing regulatory compliance demands faced by most enterprises, we offer a broad suite of products to help
+enable data permanence, accessibility, and privacy to satisfy a variety of different regulations such as the Sarbanes-Oxley Act, FDA Title 21 CFR Part 11, SEC Rule 17a-4, and the Health Insurance Portability and Accountability Act.
+Cost-effective, resilient, and reliable storage architectures can be created utilizing the NetApp SnapLock®compliance software.
+
+Storage Management and Application Integration Software
+
+NetApp OnCommand®storage management software improves storage and service efficiency through functions that help customers control, automate, and analyze their shared storage
+infrastructures. Our management software family of products provides a broad range of storage and data management tools to simplify IT administration and enhance flexibility and productivity.
+
+We deliver differentiated products that support industry open standards and interfaces. We integrate our software with database and
+business application software from partners such as Microsoft, Oracle, SAP, and VMware, optimizing the performance of those applications on our storage systems.
+
+Through our comprehensive portfolio of data center tools, we give customers the ability to monitor service levels, manage performance, automate and integrate storage processes, and support change
+management in complex enterprise SAN and NAS environments. We also help customers optimize shared infrastructures by supporting individual application performance, service level, and security needs, even if the storage is shared across multiple
+applications through the following solutions.
+
+OnCommand®System Manager — Provides a simple and powerful management solution for smaller storage environments within large enterprises or service providers.
+
+
+
+
+
+
+
+OnCommand®Unified Manager — Provides a single dashboard to monitor and optimize storage availability, capacity, performance, and data protection across large storage
+environments.
+
+OnCommand®Performance Manager — Allows storage administrators to troubleshoot performance issues, isolate potential problems, and find concrete solutions through system
+analysis.
+
+OnCommand®Workflow Automation — Automates storage workflows for virtualized and cloud environments and integrates with third-party orchestrators, allowing fast and
+reliable deployment.
+
+OnCommand®Insight (formerly SANscreen) — Allows multivendor storage environments to be managed as an integrated, end-to-end service.
+
+OnCommand®Balance — Provides infrastructure-wide intelligence about application workloads, utilization levels, and use of virtual and physical resources, allowing
+customers to balance loads.
+
+Snap Creator™ Storage Management Framework — Integrates unified data protection with a
+broad range of standard and custom applications, standardizing and simplifying backup, restore, and disaster recovery in any environment.
+
+SnapManager®Storage Management Software and SnapDrive®Data Management Software — Work with leading enterprise applications to simplify application data management
+and enable application-aware backup and recovery.
+
+StorageGRID®Object Storage Software
+
+NetApp StorageGRID®object-based storage software is a proven object storage software designed to manage petabyte-scale, globally distributed, object-oriented repositories of images,
+video, and records for enterprises and service providers. StorageGRID software provides scalability by eliminating the typical constraints of data containers in blocks and files. It supports billions of files or objects and petabytes of capacity in
+hybrid cloud storage architectures with a single global namespace.
+
+NetApp StorageGRID software enables intelligent data
+management and secure content retention. Data placement and secure content retention are optimized by aligning system and business process management metadata with a global policy engine that manages how data is stored, placed, governed, protected,
+and retrieved. Content is protected from tampering using such technologies as digital fingerprints and encryption.
+
+Storage Security
+Products
+
+NetApp’s portfolio of encryption solutions complements our unified architecture platform for storage
+solutions. NetApp storage encryption provides seamless access to encryption of data at rest through the use of self-encrypting drives. For traditional SANs, we have partnered with Brocade to provide secure access to fibre channel logical unit
+numbers (FC LUNs) and tape through Brocade encryption solutions. Our partnership with SafeNet brings granular encryption capability, enhanced access controls, and two-factor authentication for NAS file services and Internet small computer systems
+interface (iSCSI) LUNs. Together, these solutions enable customers to secure data at rest while meeting governance, risk and compliance requirements for sensitive data.
+
+Services and Support
+
+We complement our products by providing a broad
+range of service offerings, including technical support services and advanced consulting services. We also enable our channel partners to deliver a portfolio of support and services directly to end users. Our services team and
+certified partners have the expertise to assist customers with each phase of their IT lifecycle, from planning next-generation storage systems to optimizing the operational efficiency of existing infrastructures. Together, we help customers
+achieve greater business value from NetApp products and solutions.
+
+
+
+
+
+
+
+NetApp’s technical support services deliver hardware and software maintenance to ensure
+our products operate efficiently and benefit from the most up-to-date version of software. These services help customers minimize downtime for systems running business-critical applications. In addition, our services organization provides in-depth
+guidance and educational services that include access to extensive knowledge sharing through our technical support centers, NetApp University courses, webcasts, technical documentation, knowledge base, intellectual property and skill-based
+videos.
+
+We utilize a global, integrated model to provide consistent service delivery and global support during every phase of
+the customer engagement, including assessment and analysis, planning, design, installation, implementation, integration, optimization, ongoing support, and remote management and monitoring. NetApp has direct and outsourced product support personnel
+who are augmented by certified service partners around the world. Customers can choose from a number of support options, including onsite services, personalized services, multivendor escalations, online self-help, technical tools, our
+web-based My AutoSupport™ remote support diagnostics system, and an active online community of customers.
+
+Sales, Principal Markets,
+and Distribution Channels
+
+We market and sell our products in numerous countries throughout the world, and we continue to
+make investments in our multiyear branding and awareness campaign to increase visibility of NetApp in the broader IT segment.
+
+Our diversified customer base spans a number of customer segments and vertical markets, including energy, financial services, government,
+high technology, internet, life sciences and healthcare services, major manufacturing, media, entertainment, animation and video postproduction, and telecommunications. We focus primarily on the data management and storage markets, offering an array
+of solutions from our high-end products designed for large enterprise customers to entry-level products designed for midsized enterprise customers.
+
+To increase market share, we are focused on diversifying our multichannel distribution strategy. We are continually strengthening existing partnerships and investing in new partnerships with system
+integrators and cloud service providers.
+
+As of April 25, 2014, our worldwide sales and marketing functions consisted of
+approximately 5,640 managers, sales representatives, and technical support personnel. We have field sales offices in approximately 50 countries. We employ a multichannel distribution strategy, selling products and services to end users and service
+providers through a direct sales force and through channel partners, including value-added resellers, system integrators, OEMs, and distributors. During fiscal 2014, sales through our indirect channels represented 82% of our net revenues. Sales to
+customers Arrow Electronics, Inc. and Avnet, Inc., which are distributors, accounted for 22% and 16% of our net revenues, respectively, in fiscal 2014. Information about sales to and accounts receivables from our major customers, segment
+disclosures, foreign operations, and net sales attributable to our geographic regions is included in Note 15 to our consolidated financial statements.
+
+Seasonality
+
+We have historically experienced a decline in revenues in the
+first quarter of our fiscal year, as the sales organization spends time developing new business after higher close rates in the fourth quarter, and because sales to European customers are historically weaker during the summer months. During the
+second quarter of our fiscal year, we have historically experienced increased sales, driven by the government sector, concurrent with the end of the U.S. federal government’s fiscal year in September, as well as an increase in business
+from European markets. We derive a majority of our revenue in any given quarter from orders booked in the same quarter. Bookings and revenues typically follow intra-quarter seasonality patterns weighted toward the back end of the quarter.
+
+
+
+
+
+
+
+Backlog
+
+We manufacture products based on a combination of specific order requirements and forecasts of our customers’ demand. Orders are generally placed by customers on an as-needed basis. A substantial
+portion of our products is sold on the basis of standard purchase orders that are cancellable prior to shipment without penalty. In certain circumstances, purchase orders are subject to change with respect to quantity of product or timing of
+delivery resulting from changes in customer requirements. Our business is characterized by seasonal and intra-quarter variability in demand, as well as short lead times and product delivery schedules. Accordingly, backlog at any given time might not
+be a meaningful indicator of future revenue.
+
+Manufacturing and Supply Chain
+
+We have outsourced manufacturing operations to third parties located in Memphis, Tennessee; Olive Branch, Mississippi; Schiphol Airport,
+The Netherlands; Szekesfehervar and Tiszaujvaros, Hungary; Longhua, Wuxi, and Tianjin, China; Taoyuan City, Taiwan; and Singapore. These operations include materials procurement, commodity management, component engineering, test engineering,
+manufacturing engineering, product assembly, product assurance, quality control, final test, and global logistics. We rely on a limited number of suppliers for materials, as well as several key subcontractors for the production of certain
+subassemblies and finished systems. We use multiple vendors and have our products manufactured in a number of locations wherever possible to mitigate our supply chain risk. Our strategy has been to develop close relationships with our
+suppliers, maximizing the exchange of critical information and facilitating implementation of joint quality programs. We use contract manufacturers for the production of major subassemblies and final
+system configuration. This manufacturing strategy minimizes capital investments and overhead expenditures while creating flexibility for rapid expansion.
+
+We were most recently awarded International Organization for Standardization (ISO) 9001 and ISO 14001 certifications on August 15, 2013, and continue to be ISO 9001 and ISO 14001 certified.
+
+Research and Development
+
+We conduct research and development activities in various locations throughout the world. Total research and development expenses were $917.3 million, $ 904.2 million and $828.2 million in fiscal
+2014, 2013 and 2012, respectively. These costs consist primarily of personnel and related costs incurred to conduct product development activities. Although we develop many of our products internally, we may acquire technology through business
+combinations or through licensing from third parties when appropriate. We believe that technical leadership is essential to our success, and we expect to continue to commit substantial resources to research and development.
+
+Competition
+
+We compete
+with many companies in the markets we serve, including companies that offer a broad spectrum of IT products and services (full-stack vendors) and others that offer a more limited set of storage and data management products or services. Our system
+products and associated software portfolio mainly compete with storage system products and data management software from Dell, EMC, HDS, HP, and IBM. In the OEM market we compete against many of those same companies as well as Dot Hill and Xyratex.
+
+By extending our flash and software-defined storage offerings, we are competing in new segments with both traditional
+competitors and new competitors. Smaller, emerging storage vendors include Nimbus Data, Skyera, and Violin Memory in the all-flash array segment and NexGen, Nimble Storage, Tegile, and Tintri in the hybrid flash array segment. The longer-term
+potential and competitiveness of these emerging vendors remains to be determined. In cloud and converged infrastructure, we also compete with large well-established competitors, including EMC, HP, and IBM.
+
+
+
+
+
+
+
+An increase in industry consolidation might result in stronger competitors that are better
+able to compete as sole-source vendors for customers. In addition, current and potential competitors have established or might establish cooperative relationships among themselves or with third parties, including some of our partners. It is possible
+that new competitors or alliances among competitors might emerge and rapidly acquire significant market share. The IT storage market is also experiencing a recent change in the way that storage services are consumed due to technology transitions and
+changing economic and business environments. Customers now have the option of engaging with cloud service providers to provide storage as an operating expense rather than storage systems for their data centers. Recent technology trends, such as the
+emergence of hosted (or “cloud”) storage, software as a service (SaaS) and flash storage are driving significant changes in storage architectures and solution requirements. The impact of these trends on both short-term and long-term growth
+patterns in the markets in which we compete is uncertain.
+
+We consider innovation and our technological partnerships to be key
+to our competitive differentiation. We are committed to being the best-in-class storage vendor and partnering with other industry leaders in delivering leading cloud, converged infrastructure, and integrated solutions that provide customers with the
+best applications and technologies available. To offer customer support for our converged architectures, we offer a cooperative support model with our partners.
+
+We believe the advantages of our products include functionality, scalability, performance, flexibility, quality, and operational efficiency. We believe our advantage also includes the nature of the
+relationships we form with our customers and partners worldwide. We strive to deliver an outstanding experience in every interaction we have with our customers and partners through our product, service, and support offerings, which enable us to
+provide our customers with a full range of expertise before, during, and after their purchase.
+
+Proprietary Rights
+
+Over the years, NetApp has been widely recognized for its spirit of innovation including recognition as one of the “World’s Most
+Innovative Companies” (Forbes), a top 300 United States patent holder (Intellectual Property Owners Association) and one of the best “Quality Over Quantity” patent portfolios in its industry (IEEE Spectrum). We generally
+rely on patent, copyright, trademark, trade secret and contract laws to establish and maintain our proprietary rights in our technology and products. While our intellectual property rights are important to our success, we believe that our business
+as a whole is not materially dependent on any particular patent, trademark, copyright, license or other intellectual property right. We have been granted or own by assignment over 1,580 patents issued by, and have over 660 patent
+applications pending with, the U.S. Patent and Trademark Office, as well as a corresponding number of international patents and patent applications. While the durations of our patents vary, we believe that the durations of our patents are
+adequate relative to the expected lives of our products.
+
+NetApp, the NetApp logo, Go Further, Faster, AutoSupport,
+Data ONTAP, Data Motion, FlexClone, Flash Accel, Flash Cache, Flash Pool, FlashRay, FlexArray, FlexPod, FlexShare, FlexVol, Mars, MetroCluster, MultiStore, OnCommand, RAID-DP, SANtricity, Snap Creator, SnapDrive, SnapLock,
+SnapManager, SnapMirror, SnapProtect, Snapshot, SnapRestore, SnapVault, StorageGRID, Unbound Cloud, WAFL, and other names are trademarks or registered trademarks in the United States and/or other countries. We will continue to evaluate the
+registration of additional trademarks as appropriate.
+
+We generally enter into confidentiality agreements with our employees,
+resellers, customers, and suppliers. In addition, through various licensing arrangements, we receive certain rights to intellectual property of others. We expect to maintain current licensing arrangements and to secure licensing arrangements in the
+future, as needed and to the extent available on reasonable terms and conditions, to support continued development and sales of our products and services. Some of these licensing arrangements require or might require royalty payments and other
+licensing fees. The amount of these payments and fees might depend on various factors, including but not limited to the structure of royalty payments; offsetting considerations, if any; and the degree of use of the licensed technology.
+
+
+
+
+
+
+
+The industry in which we compete is characterized by rapidly changing technology, a large
+number of patents, and frequent claims and related litigation regarding intellectual property rights, and we may be exposed to various risks related to such claims or legal proceedings. Also, if we are unable to protect our intellectual property, we
+might be subject to increased competition that could materially and adversely affect our operating results.
+
+Environmental Disclosure
+
+We are committed to the success of our customers and partners, to delivering value to our stockholders, and to positively
+affecting the communities where our employees work and live. We firmly believe that we can accomplish these objectives concurrently with our commitment to sustainability. We are committed to the prevention of pollution; efficient use of natural
+resources; and minimizing, relative to the growth of the company, the environmental impacts from our operations, products, and services, as well as to comply with laws and regulations related to these areas. Our environmental management system
+provides the framework for setting, monitoring, and continuously improving our environmental goals and objectives.
+
+We are
+voluntarily measuring, monitoring, and publicly reporting our scope 1 and scope 2 greenhouse gas emissions and participate in the Carbon Disclosure Project (CDP). The CDP is a global standardized mechanism by which companies report their greenhouse
+gas emissions to institutional investors. We have established employee commuter programs and education and awareness campaigns, and we continuously seek to optimize the energy efficiency of our buildings, labs, and data centers. At both the global
+and regional/state levels, various laws and regulations have been implemented or are under consideration to mitigate the effects of climate change caused by greenhouse gas emissions. Environmental laws are complex, change frequently, and have tended
+to become more stringent over time. It is often difficult to estimate the future impact of environmental matters. Based on current information, we believe that our primary risk related to climate change is the risk of increased energy costs. We are
+not subject to a cap and trade system or any other mitigation measures that would be material to our operations in the near future. Additionally, we have implemented disaster recovery and business resiliency measures to mitigate the physical risks
+our facilities, business, and supply chain might face as a consequence of severe weather-/climate-related phenomena such as earthquakes, floods, droughts, and other such natural occurrences.
+
+We are also subject to other federal, state, and local regulations regarding workplace safety and protection of the environment. Various
+international, federal, state, and local provisions regulate the use and discharge of certain hazardous materials used in the manufacture of our products. Failure to comply with environmental regulations in the future could cause us to incur
+substantial costs or subject us to business interruptions. We believe we are substantially compliant with all applicable environmental laws. All of our products meet the requirements for the Registration, Evaluation, Authorisation and Restriction of
+Chemicals (REACH); Waste Electrical and Electronic Equipment (WEEE); Restriction of Hazardous Substances (RoHS); and China RoHS directives compliance. We have maintained an environmental management system since December 2004 and maintain ISO 14001
+certification at three office locations globally. As part of ISO 14001 requirements, we set local environmental performance goals such as reducing energy use per square foot and minimizing waste generated on site, that are aligned with our overall
+corporate strategy. We also conduct an annual review and third- party verified audits of our operations, and we monitor environmental legislation and requirements to help make sure we are taking necessary measures to remain in compliance with
+applicable laws, not only in our operations but also for our products.
+
+Working Capital Practices
+
+Information about our working capital practices in included in Item 7. “Management’s Discussion and Analysis of Financial
+Condition and Results of Operations,” under the heading “Liquidity and Capital Resources” and is incorporated herein by reference.
+
+
+
+
+
+
+
+Employees
+
+As of April 25, 2014, we had approximately 12,490 employees, of which 5,640 were in sales and marketing, 3,750 were in research and development, 1,450 were in services and manufacturing operations,
+1,240 were in finance and administration and 410 were on notification period related to the March 2014 restructuring event. None of our employees are represented by a labor union and we consider relations with our employees to be good. Competition
+for technical personnel in the industry in which we compete is intense. We believe that our future success depends in part on our continued ability to hire, assimilate, and retain qualified personnel. To date, we believe that we have been successful
+in recruiting qualified employees, but there is no assurance that we will continue to be successful in the future.
+
+Executive Officers
+
+Our executive officers and their ages as of May 31, 2014, are as follows:
+
+
+
+NameAgePositionThomas Georgens54Chief Executive Officer and Chairman of the Board of DirectorsNicholas R. Noviello45Executive Vice President of Finance and Operations and Chief Financial OfficerRobert E. Salmon53PresidentGeorge Kurian47Executive Vice President, Product OperationsMatthew K. Fawcett46Senior Vice President, General Counsel and Secretary
+
+Thomas Georgensis chief executive officer and was elected chairman of the board in April 2014.
+Mr. Georgens has been the company’s president and chief executive officer since August 2009. From February 2008 to August 2009, Mr. Georgens served as our president and chief operating officer and was responsible for all product
+operations and field operations worldwide. Mr. Georgens has also been a member of our Board of Directors since March 2008. Mr. Georgens joined NetApp in October 2005 as executive vice president and general manager of enterprise storage
+systems and served as our executive vice president of product operations from January 2007 to February 2008. Before joining NetApp, Mr. Georgens spent nine years in various roles at LSI Corporation, an electronics design company, and its
+subsidiaries, including chief executive officer of Engenio, president of LSI Logic Storage Systems and executive vice president of LSI Logic. Prior to Engenio, Mr. Georgens spent 11 years at EMC Corporation, a computer storage and data
+management company, in a variety of engineering and marketing positions. Mr. Georgens holds a BS degree and an ME degree in computer and systems engineering from Rensselaer Polytechnic Institute as well as an MBA degree from Babson College.
+
+Nicholas R. Noviellois executive vice president of finance and operations and chief financial officer. He is
+responsible for all financial aspects of the company including financial operations, customer leasing and investor relations, as well as workplace resources, IT, manufacturing operations, quoting, sales order processing and fulfillment operations.
+From January 2012 to April 2014, he was executive vice president and chief financial officer. Mr. Noviello joined NetApp in January 2008 as vice president, finance and controller. He was named senior vice president finance and corporate
+controller in April 2008 and senior vice president finance and global controller in November 2010. Before joining NetApp, Mr. Noviello spent eight years at Honeywell International, where he was chief financial officer of two global business
+units, managed investor relations, and was a leader on the corporate mergers and acquisitions team. Prior to Honeywell, Mr. Noviello led mergers and acquisitions for Monarch Dental Corporation for two years and spent seven years at
+PricewaterhouseCoopers. Mr. Noviello holds a BS degree in business administration from Boston University and an MS degree in taxation from Fairleigh Dickinson University, and he is a certified public accountant.
+
+
+
+
+
+
+
+Robert E. Salmonjoined NetApp in January 1994 and was appointed president in April
+2014, overseeing field operations, global marketing, and customer success operations. From December 2005 to April 2014, Mr. Salmon was executive vice president, field operations. Mr. Salmon served as the company’s executive vice
+president of worldwide sales from September 2004 to December 2005. From August 2003 to September 2004, Mr. Salmon served as our senior vice president of worldwide sales, and from May 2000 to August 2003, Mr. Salmon served as our vice
+president of North American sales. Prior to his tenure at NetApp, Mr. Salmon spent nearly 10 years with Sun Microsystems, a supplier of network computing systems, and Data General Corporation, a manufacturer of multiuser computer systems.
+Mr. Salmon graduated from California State University, Chico with a BS degree in computer science.
+
+George Kurianwas appointed the executive vice president of product operations in September 2013, overseeing all aspects of technology strategy, product and solutions development across our product portfolio. Mr. Kurian joined NetApp in April 2011 as the
+senior vice president of the storage solutions group and was appointed to senior vice president of the Data ONTAP group in December 2011. Prior to NetApp, from 2002 to 2011, Mr. Kurian was at Cisco Systems where he was vice president and
+general manager of the application networking and switching technology group. From 1999 to 2002, Mr. Kurian was the vice president of product management and strategy at Akamai Technologies, a management consultant with McKinsey and Company, and
+led software engineering and product management teams at Oracle Corporation. Mr. Kurian holds a BS degree in electrical engineering from Princeton University and an MBA from Stanford University.
+
+Matthew K. Fawcettjoined the company in September 2010 as senior vice president, general counsel, and secretary. Prior to joining
+NetApp, from 1999 to August 2010, Mr. Fawcett served in various legal positions at JDS Uniphase Corporation, an optical components company, including as senior vice president, general counsel, and corporate secretary. Prior to joining JDSU,
+Mr. Fawcett was counsel at Fujitsu and worked in private practice at Morrison & Foerster LLP. Mr. Fawcett holds a BA degree from the University of California at Berkeley and a JD degree from the University of California at Los
+Angeles.
+
+Additional Information
+
+Our Internet address iswww.netapp.com.We make available through our Internet website our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K,
+and amendments to those reports filed or furnished pursuant to Section 13(a) of the Securities Exchange Act of 1934, as amended, as soon as reasonably practicable after we electronically file such materials with, or furnish them to, the SEC.
+
+The SEC maintains an Internet site (www.sec.gov) that contains reports, proxy and information statements, and other
+information regarding issuers that file electronically with the SEC. The public also may read and copy these filings at the SEC’s Public Reference Room at 100 F Street N.E., Washington, DC 20549. Information about this Public
+Reference Room is available by calling (800) SEC-0330.
+
+
+
+
+
+
+

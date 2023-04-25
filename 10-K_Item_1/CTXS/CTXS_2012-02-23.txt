@@ -1,0 +1,530 @@
+ITEM 1.BUSINESS
+
+General
+
+Citrix Systems, Inc. is a Delaware corporation founded on April 17, 1989. We design, develop and market technology solutions that enable information technology, or IT, services to be securely delivered on demand - independent of location, device or network. Our customers achieve lower IT operating costs, increased information security and greater business agility using Citrix technologies that enable virtual computing. We market and license our products directly to enterprise customers, over the Web, and through systems integrators, or SIs, in addition to indirectly through value-added resellers, or VARs, value-added distributors, or VADs, and original equipment manufacturers, or OEMs.
+
+Business Overview
+
+For over two decades, we have pursued our long-term vision of enabling people to work or play - from anywhere through successive waves of invention. The first wave, beginning in the early-1990s, enabled secure remote access to mission critical applications for thousands of road warriors. This required the invention of a new way to “transmit” application screens allowing applications to be virtualized instead of installed on the user's personal computer, or PC, even over very thin network connections. IT administrators found that virtualized applications on a central server made them more secure, faster running, easier to update and much more accessible. The shifting of computing to servers also allowed the invention of thin-clients and network computers powered by Citrix client and server technologies. Since the early-1990s, we have become a leading provider of server-based computing solutions and our products have been accepted by thousands of organizations as strategic infrastructure for user mobility.
+
+In the early 2000s, we turned our focus toward new market opportunities created by the connectivity of the Internet, rapid expansion of network bandwidth, and an increase of device form factors, such as smart phones, tablet PCs and netbooks. In parallel, customers began to realize the increasing value of mobility technologies, like remote access, Web collaboration and remote support tools. We also believe that there are similar opportunities emerging in the datacenter to address high operating costs, inflexible infrastructure and new application architectures.
+
+These opportunities have been the driving forces behind our second wave of invention, building on our core ideas and technologies for virtualizing applications - extending them to adjacent product and technology markets. Since 2004, we have focused our investments on a broader array of technologies, strategic acquisitions and new business models. This has expanded our core capabilities beyond application virtualization to include desktop, client and server virtualization. It has also made Citrix a leading manufacturer of network appliances and one of the largest providers of software as a service, or SaaS, in the world.
+
+Citrix powers mobile work styles and cloud services, making complex enterprise IT simpler and more accessible for 260,000 enterprises. Today, Citrix touches a large percent of Internet users each day and partners with more than 10,000 companies in 100 countries. Citrix products and services allow people to collaborate, communicate and work virtually from anywhere - using virtually any device they choose. Our virtual computing infrastructure services are securely delivered on demand and we believe our datacenter computing resources are simpler, lower cost and more efficient than traditional PC-based distributed computing models.
+
+Invention and re-invention has driven our growth. Our diversified product lines, routes to-the-customer, and business models have been enabled by our virtual computing products that offer collaboration as a service, desktop virtualization and infrastructure as a service, or IaaS.
+
+IT organizations are struggling at the intersection of opposing forces - the control of standardization versus the freedom of consumerization, and the legacy of distributed computing versus the flexibility of cloud services.  We believe we are in a  position to help our customers make the difficult transition to the Cloud Era with market-leading products that enable them to embrace consumerization and adopt cloud services.
+
+Our product and industry leadership in collaboration, desktop virtualization and cloud networking strengthened in 2011. We also made some important new investments in data sharing and cloud orchestration. We are combining these technologies into a compelling set of solutions that power mobile work styles and cloud services. An overview of our current products and solutions follows.
+
+
+
+
+
+
+
+
+
+
+
+Products and Services
+
+Our products and services target customers of all sizes - from individuals and professional consumers, or prosumers, who subscribe to our GoToMyPC remote access service, to network engineers who purchase our NetScaler Web application devices, or the IT professional who licenses our XenDesktop infrastructure products. This section provides an overview of our major product and services offerings.
+
+
+
+Desktop Solutions
+
+Our Desktop Solutions - XenDesktop, XenApp, App-DNA, VDI-in-a-Box, and XenClient reduce the complexity and cost of administering Windows-based desktops and applications in the enterprise.
+
+
+
+•
+
+Citrix
+
+®
+
+XenDesktop™
+
+is a fully integrated desktop virtualization system that gives customers the flexibility to deliver the desktop as a service - dramatically simplifying desktop management for a broad range of users. XenDesktop is available in a range of packages designed for several market segments. The Express Edition of XenDesktop is offered as a free download from our website to allow IT professionals to conduct no-cost trials. The XenDesktop Virtual Desktop Infrastructure, or VDI, Edition is designed for virtual desktop projects that only require the hosted virtual machine method of desktop delivery. The Enterprise and Platinum Editions of XenDesktop include all of our major virtual desktop delivery models in one integrated package, and also include the capabilities of Citrix XenApp for delivering on-demand applications into virtual or physical desktops. All versions of XenDesktop include Citrix HDX technologies to give users a high-definition experience - even when using multimedia, real-time collaboration, USB devices, and 3D graphics content -  while consuming less bandwidth than competing solutions. HDX leverages the Citrix ICA
+
+®
+
+protocol and adds Adaptive Orchestration which helps optimize performance and bandwidth to fit each unique user scenario. Each edition comes with user profile management and provisioning services to stream a single desktop image, on-demand, to multiple servers in the datacenter. All editions feature licensing for both Citrix XenServer and Microsoft Hyper-V virtualization infrastructure. The most advanced editions include our FlexCast™ delivery technologies which allow virtual desktops to be hosted in the datacenter or run locally at the endpoint, wherever costs, security or mobility is optimal. We believe that our FlexCast technology dramatically improves our customer's return on their investment and makes desktop virtualization a practical reality for broad, enterprise-wide deployments.
+
+
+
+•
+
+Citrix
+
+®
+
+XenApp
+
+™ is a widely-deployed application virtualization solution that allows enterprise applications to be centralized and delivered as an on-demand service. XenApp delivers applications in two ways: hosted by running application business logic on a central server using our HDX technologies to securely transmit the application's user experience to the endpoint device, or streamed by running the application locally. Keeping applications under the centralized control of IT administrators enhances data security and reduces the costs of managing separate clients and applications on every user's desktop. The XenApp server runs on Microsoft
+
+®
+
+Windows Server
+
+®
+
+2008, Windows Server
+
+®
+
+2008 R2, Windows Server 2003 x64 Edition to Windows Server 2003 and several versions of UNIX
+
+®
+
+. In 2011, we announced Citrix XenApp 6.5 that continued the integration with Microsoft
+
+®
+
+App-V, introduced in XenApp 6, delivering App-V virtualized applications to virtually any user - on virtually any device anywhere. Through this integration, joint customers can extend the benefits of the Microsoft Desktop Optimization Pack to reach a broader set of devices including lightly managed and non-Windows
+
+®
+
+endpoints across local or wide area networks. Our joint solution lowers the cost of delivering and maintaining Windows applications for all users in the enterprise. We offer XenApp as a standalone product in different editions. The Platinum Edition includes the most features and adds powerful capabilities for application performance monitoring, secure sockets layers/virtual private network, or SSL/VPN, advanced SmartAccess™ control and single sign-on application security. The capabilities of XenApp are now available in XenDesktop Enterprise and Platinum Editions to provide a complete desktop virtualization system. XenApp continues to be available as a standalone solution for on demand applications for customers wishing to use it on physical PCs and with competing virtual desktop products.
+
+•Citrix®AppDNAapplication migration software enables enterprises to discover, automate, model and manage applications for faster application migration, easier application virtualization and streamlined application management. AppDNA software combines application insight with accurate application testing, remediation and compatibility.
+
+•Citrix®VDI-in-a-Boxis an easy, affordable, all-in-one desktop virtualization solution aimed at small and medium sized businesses.  Running on off-the-shelf servers, the solution enables IT to deliver centrally-managed virtual desktops to virtually any user, on virtually any device.
+
+•Citrix®XenClient™is a high-performance, bare-metal hypervisor that runs directly on the client device hardware, dividing up the resources of the machine and enabling multiple operating systems to run side by side in complete isolation.  XenClient is available as a free download on citrix.com.
+
+
+
+
+
+
+
+
+
+Citrix Receiver is the client side of XenApp and XenDesktop. Citrix Receiver is available as a free download from citrix.com supporting numerous types of client devices. Citrix Receiver uses the Citrix HDX Technologies (discussed below) to communicate with XenApp and XenDesktop.
+
+
+
+Datacenter and Cloud Solutions
+
+Our Datacenter and Cloud Solutions bring lower operating costs, greater flexibility and cloud-enablement to the enterprise datacenter. These products are also designed to power public “clouds” when used by hosting and cloud service providers. Our Datacenter and Cloud solutions include Cloud Networking and Cloud Platform products.
+
+Cloud Networking
+
+
+
+•
+
+Citrix
+
+®
+
+NetScaler
+
+®
+
+•Citrix  Branch  Repeater™controls and optimizes services, desktops, applications and multimedia for branch and mobile users. Branch Repeater is optimized for virtual desktops and applications delivered by XenDesktop and XenApp. It offers granular visibility, enhanced prioritization and control of service traffic, to ensure quality of experience (QoE) and availability while reducing bandwidth consumption and simplifying branch IT.
+
+•Citrix Access Gateway™is an SSL/VPN that securely delivers applications with policy-based SmartAccess control. Users have easy-to-use secure access to applications and data for improved productivity. Organizations can cost-effectively extend access to datacenter resources from outside the office, while maintaining unprecedented control through comprehensive SmartAccess policies.
+
+Cloud Platform
+
+•Citrix®XenServer™is a complete, managed server virtualization platform built on the powerful open source-based Xen hypervisor. Xen technology is widely acknowledged as the fastest and most secure virtualization software in the industry. XenServer is designed for efficient management of Windows®and Linux®virtual servers and delivers cost-effective server consolidation and business continuity.The free edition of XenServer starts with a 64-bit hypervisor and centralized management, live migration, and conversion tools to create a virtual platform. The premium editions of XenServer extend the platform to enable organizations of any size to integrate and automate management processes, delivering a virtual datacenter solution.
+
+•Citrix CloudStackprovides an advanced open source software platform to build highly scalable and reliable cloud computing environments. With CloudStack, customers can quickly and easily build cloud services within their existing infrastructure and start realizing the benefits of this transformative service delivery model without the overhead of integration, professional services and complex deployment schedules.
+
+•Citrix CloudGatewayis a unified service broker that aggregates, controls and delivers Windows, Web, SaaS and mobile applications to virtually any device. CloudGateway provides end-users with an intuitive single point of access and self-service to all of their business applications on virtually any device. CloudGateway also provides IT with a comprehensive single point of aggregation and control for applications and users.
+
+•Citrix CloudBridgeconnects enterprise datacenters to external clouds and hosting environments, making the cloud a secure extension of the enterprise network. CloudBridge is a complete network solution and is available as a standalone physical or virtual appliance or integrated into NetScaler Platinum. CloudBridge sits at the "back door" of the enterprise datacenter, where it enables enterprises to transparently shift Web and application servers to the cloud while keeping sensitive data assets, including databases and corporate directories, safely on-premise. With CloudBridge, enterprises can augment their datacenters with the infinite capacity and elastic efficiency provided by cloud providers.
+
+
+
+
+
+
+
+
+
+•Citrix CloudPortalis a comprehensive portal for provisioning hosted applications, desktops, services and IaaS from the cloud. The multi-tenant platform automates business and operations support services thereby saving time and money while empowering  customers with self-service day-to-day administration. CloudPortal simplifies cloud services by making management consistent and easy through a Web portal for on-boarding, provisioning, adds-moves-changes and usage reports.
+
+
+
+Software as a Service
+
+Citrix's SaaS businesses deliver Web collaboration, including virtual meetings, Web-based desktop support, remote access and data sharing to customers worldwide. Our SaaS products are delivered as a subscription service and customers are able to subscribe to our SaaS products without making any capital investment. These SaaS products delivered as a subscription service help customers reduce travel, increase tele-working and enable cost-effective remote access, support and storage.
+
+Web Collaboration
+
+•GoToMeeting®is an online, easy-to-use, secure and cost-effective product for online meetings, sales demonstrations and collaborative gatherings. GoToMeeting allows a user with a PC or Mac and an Internet browser to easily host, attend or participate in an online meeting or session without significant training. Mobile devices are supported on GoToMeeting, allowing a participant to join a GoToMeeting from an Apple iOS supported device (iPhone or iPad) or an Android smart phone or tablet.  GoToMeeting is capable of providing a standard public switch telephone network, or PSTN, conference dial-in number, voice over Internet Protocol, or VoIP, and high-definition video conferencing. It features an advanced, secure communication architecture that uses industry-standard SSL encryption. The product offers flat-fee pricing for any number of meetings of any length, for up to 15 attendees per meeting and is available in in French, German, Italian, Spanish and English. GoToMeeting also comes with application programming interfaces, or APIs allowing users to integrate GoToMeeting into management systems and Web sites. We also offer GoToMeeting®Corporate which supports multiple organizer accounts, unlimited meetings with up to 25 attendees, robust reporting, additional customization options and advanced administrative capabilities.GoToMeeting Corporate also provides optional integrated toll-free audio.
+
+•GoToWebinar®is an easy-to-use, do-it-yourself webinar product, allowing organizations to increase market reach and effectively present online to geographically dispersed audiences. GoToWebinar allows users with a PC or Mac and an Internet browser to easily host, attend or participate in a webinar session without significant training or IT support. Mobile devices are supported on GoToWebinar, allowing a participant to join a GoToWebinar from an Apple iOS supported device (iPhone or iPad) or an Android smart phone or tablet. GoToWebinar includes such features as full-service registration with real-time reports, customized branding, automated email templates, polling and survey capabilities, webinar dashboard to monitor attendance and participation, easy presenter controls for changing presenters and VoIP and toll-based phone options. GoToWebinar also offers registration and reporting APIs via the Go To Developer Center. The product offers flat-fee pricing for unlimited webinars of any length for up to 1,000 attendees per webinar. GoToWebinar Premier includes such features as full scale video content, mobile accessibility, no download required and is priced on monthly or per event options.
+
+•GoToTraining®is an easy online training tool that allows trainers to deliver content to multiple trainees quickly and effortlessly, allowing organizations to expand their training program while saving time and reducing travel costs. GoToTraining allows users to host and participate in interactive online training sessions from either their PC or Mac. GoToTraining includes such features as full-service registration with integrated payment processing, real-time reporting and management, online course catalog, automated reminder and follow-up emails, content library to organize and store reusable content, materials, tests, polls, integrated payment system, toll-free audio and VoIP options. GoToTraining provides free APIs allowing full learning management system, or LMS, integrations through the Go To Developer Center. The product offers flat-fee pricing for unlimited training sessions of any length, for up to 200 attendees per session.
+
+•Integrated Toll Free Audiois provided with the GoToMeeting, GoToWebinar and GoToTraining products, providing a seamless audio and Web experience and the ability to record audio and Web sessions, mute/unmute callers and recognize speakers from an easy-to-use interface.
+
+•HiDef Corporateprovides standalone audio options with reservationless audio conferencing for small and medium-sized businesses, or SMBs, and large organizations. HiDef Corporate®provides real-time reporting to manage users and costs effectively, with Web controls to allow moderators to manage conferences without the costs of an operator.
+
+IT Support
+
+•GoToAssist®is a leading, online, remote technical-support product that enables individual professionals and organizations of all sizes to provide secure, on-demand support over the Internet. GoToAssist enables support staff to instantly view and control the user's PC and Mac without the need to pre-install client software. GoToAssist comes in
+
+
+
+
+
+
+
+
+
+the following versions: GoToAssist®Express, GoToAssist®Corporate, and GoToAssist®FastChat. The solutions work automatically and securely through virtually every firewall, even over dial-up connections, and easily integrate into existing infrastructure.
+
+•GoToManage®is an online IT management product that enables IT professionals to monitor and control their IT infrastructure and remotely support people and unattended computers. Our industry-leading crawler technology in GoToManage monitoring creates an IT “system of record” providing customers with the ability to discover and identify network devices, monitor critical servers, manage network usage and bandwidth consumption and track configuration changes. GoToManage remote support provides the capability to remotely support users and also to view and control unattended network devices.  Limited GoToManage capabilities are available at no cost on the iPad with full capabilities made available with a paid subscription. GoToManage is simple to deploy, can be accessed from virtually any Internet connection and requires no costly server infrastructure.
+
+RemoteAccess
+
+•GoToMyPC®is an online product that provides secure, remote access to PC and Mac from virtually any Internet-connected computer. Access to a PC and Mac are available from an iOS supported smartphone or tablet (iPhone and iPad) and from any Android based tablet. GoToMyPC, which sets up easily with a secure encrypted connection, enables individuals to remotely use any resources hosted on their desktop just as though they were sitting in front of it. GoToMyPC®Pro, tailored for the needs of professionals and small offices, supports up to 50 PCs, rolls out secure, remote access for multiple users in minutes, and features an administration website in which managers can add, suspend and delete users and run usage reports. GoToMyPC®Corporate is built for businesses that require detailed reporting, advanced security features and the ability to assign and manage remote-access privileges for employees.
+
+Data Sharing
+
+•ShareFileis a market leading data sharing and collaboration product. Acquired by Citrix in October 2011, the ShareFile product line makes it easier for businesses of all sizes to securely store, sync and share business documents and files, both inside and outside their companies. ShareFile's centralized cloud storage capability also allows users to share files across multiple devices and access them from virtually any location. ShareFile's technology enables Citrix to make common data services, like search, share, sync, secure, authenticate, open and preview, available to a wide range of applications, services and use cases through a set of open APIs; extend secure data sharing to new and existing applications stored in public and private clouds and accessed from different business and consumer devices; and connect data seamlessly into the way people collaborate, ensuring that the right documents and files are always accessible when needed and always up to date.
+
+
+
+License Updates
+
+We provide a convenient way for customers to budget for their product version upgrades annually without having to anticipate variable costs throughout the year.
+
+•Subscription Advantageprovides a convenient way for customers to budget for their software version upgrades annually without having to anticipate variable costs throughout the year.  The original purchase of these products is typically bundled with one year of Subscription Advantage or customers may elect to purchase subscriptions separately. Subscription Advantage allows customers to update software versions as they become available during the period of the subscription for free.
+
+
+
+Technical Services
+
+We provide a portfolio of technical services to our business partners and customers to manage the quality of implementation, operation and support of our solutions. These services are available for additional fees paid on an annual or transactional basis.
+
+•Consulting Serviceshelp ensure the successful implementation of our solutions. Tested methodologies, certified professionals and best practices developed from real-world experience allow our consulting services organization to provide guidance and support to partners and customers to maximize the effectiveness of their access infrastructure implementations. For pre- and post-sale consulting, Citrix Consulting, a consulting services organization, provides both exploratory and fee-based consulting services. These services include on-site systems design and implementation services targeted primarily at enterprise-level clients with complex IT environments. Citrix Consulting is also responsible for the development of best practice knowledge that is disseminated to businesses with which we have a business relationship and end-users through training and written documentation. Leveraging these best practices enables our integration resellers to provide more complex systems, reach new buyers within existing customer organizations and provide more sophisticated system proposals to prospective customers.
+
+
+
+
+
+
+
+
+
+•Technical Support Servicesaccommodate the unique ongoing support needs of customers. Our technical support services are specifically designed to address the variety of challenges facing access infrastructure environments. We offer several support-level options, global coverage and personalized relationship management. Post-sale technical support is offered through Citrix-operated support centers located in the United States, Ireland, Japan, Hong Kong, Australia, Singapore and India. In most cases, we provide technical advice to channel distributors and entities with which we have a technology relationship, who act as the first line of technical assistance for end-users. We also offer software maintenance for certain of our products, which allows customers to purchase, through a single program, the full benefits of our Subscription Advantage product as well as full access to technical support. In addition, Citrix appliance maintenance provides a convenient way for customers to receive technical support, software upgrades, if and when available, for appliances and return material authorization access in the event of appliance failure.In some cases, end-users can also choose from a Citrix-delivered fee-based support program ranging from one-time incident charges to an enterprise-level support agreement covering multiple sites and servers. In addition, we also provide free technical advice through online support systems, including our Web-based “Knowledge Center.”
+
+•Product Training & Certificationenables our customers and partners to optimally utilize our products and keep their organizations running smoothly. Authorized Citrix training is available when and how it is needed. Traditional or virtual instructor-led training offerings feature Citrix Certified Instructors conducting scheduled classes in a classroom or remote setting at one of approximately 200 Citrix Authorized Learning Centers™, or CALCs, worldwide. CALCs are staffed with instructors that have been certified by us and teach their students using Citrix-developed courseware. Self-Paced Online offerings, available to students 24 hours a day, seven days a week, provide technically robust course content without an instructor and often include hands-on practice via virtual labs. Certifications validate key skills and are available for administrators, engineers, architects and sales professionals.
+
+
+
+Technology
+
+Our products are based on a full range of industry-standard technologies. In addition, certain of our products are also based on our proprietary technologies.
+
+•Citrix HDX Technologiesis a family of innovations that optimize the end-to-end user experience in virtual desktop and virtual application environments. These technologies incorporate our ICA protocol, which consists of server- and client-side technology that allows graphical user interfaces to be transmitted securely over any network, and include HDX Broadcast, MediaStream, Realtime, 3D, Plug-n-Play and IntelliCache features which work together to provide a high-definition user experience across a wide array of applications, devices and networks. HDX also provides Adaptive Orchestration which dynamically adjusts HDX capabilities to adapt to specific device, network and application scenarios and to deliver a better user experience.  The most advanced editions include our FlexCast™ delivery technologies which allow virtual desktops to be hosted in the datacenter or run locally at the endpoint, wherever costs, security or mobility is optimal.
+
+•Citrix FlexCasttechnologies combine a range of desktop and application virtualization innovations that work in concert to enable enterprise IT departments the ability to support a wide range of use cases. Whether employees are working online or offline, need deep customizations, or a simple interface, use company owned, or self-owned devices, or require the most stringent security protections, FlexCast enables a common infrastructure to meet these disparate needs by abstracting and redirecting operating systems, applications, user settings, profiles and data into separately and centrally managed elements that may be combined dynamically to deliver desktops and apps to any device.
+
+•Citrix personalizationtechnologies increase desktop virtualization adoption by providing a personalized end-user experience while optimizing resource usage in the data center and overall TCO. Citrix Profile Manager provides a flexible just-in-time population of user profile data that can be shared between virtual desktop and virtual application environments. Citrix Personal vDisk provides a persistent personalization layer that gives administrators the flexibility of a pooled VM environment and gives users the capability to personalize their VM. Citrix App Streaming provides application profiling and packaging capabilities, allowing easy provisioning of isolated applications to XenApp and XenDesktop environments.
+
+•NetScaler®Software Packet Engine, or the Packet Engine, forms the foundation of our NetScaler line of products. The Packet Engine allows high-performance networking and packet processing without the need for special purpose hardware.
+
+•NetScaler®nCore™Technologyis a new architecture which enables execution of multiple Packet Engines in parallel. nCore technology allows the distribution of packet flows across multiple central processing unit cores to achieve efficient, high-performance parallel processing across multiple Packet Engines. The new architecture incorporates innovations in flow distribution and state sharing and provides for efficient execution across Packet Engines.
+
+
+
+
+
+
+
+
+
+•Branch Repeater SmartAccelerationis a set of features that work together to optimize service delivery for the end user. These features include the assessment of network conditions, classification of applications, correlation of the network traffic to user groups, and visibility into and control over the allocation of network resources.
+
+•Xen®Open Source Technologyis the basis for our hypervisor products, including XenServer™ and XenClient. See Part I-Item 1A entitled “Risk Factors,” for more information regarding our open source technology.
+
+•Citrix CloudStackis an open source orchestration product that enables organizations to build public and private clouds.
+
+•Citrix CloudPortalBusiness Managerenables organizations to provide product catalogs and billing system integration for their public clouds.
+
+•Citrix Internet Overlay Platformis our foundational technology for GoToMeeting, GoToWebinar, GoToTraining, GoToAssist, GoToAssist Express and GoToManage. The platform implements one of the largest multicast overlay data networks in the world using the Internet. It provides proprietary screen-sharing technology that separately optimizes screen transmission for each endpoint device (such as a remote PC during an online meeting or remote access session).
+
+•Citrix PSTN/VoIP Bridgeis core technology that allows the seamless integration of PSTN/VoIP audio conferencing. This technology is used extensively in our Web-based collaboration and communication products including GoToMeeting, GoToWebinar, GoToTraining, and Hi-Def Corporate.
+
+•HDFaces in GoToMeetingdelivers high-definition video conferencing and one-to-many video streaming over the public Internet. It includes proprietary network transport protocols and transcoding software that optimize video quality for each endpoint device.
+
+Innovation is a core Citrix competency. We have many additional unique inventions that are important enablers of our continued leadership in desktop and application virtualization, Web collaboration, cloud networking and virtual infrastructure.
+
+
+
+Customers
+
+We take a unique approach to solving the challenges of globalization, datacenter consolidation, regulatory compliance, disaster preparedness and competitiveness faced by our customers. In addition, we help their IT organizations change the cost, complexity, security and inflexibility of enterprise computing. Our products provide new capabilities for collaboration, communication, user support, desktop management, networking and datacenter management, and we believe they consistently deliver lower business and computing costs. At the same time, our solutions significantly increase business agility, helping our customers to quickly adapt to business, economic and environmental changes. The strategic value that we offer requires us to engage with multiple buyers, each with a different perspective on the problems we solve. We believe that the primary IT buyers involved in decision-making related to virtual computing solutions are the following:
+
+•Strategic IT Executives including chief information officers, chief technology officers and vice presidents of infrastructure, who have responsibility for ensuring that IT services are enablers to business initiatives and are delivered with the best performance, availability, security and cost.
+
+•Desktop Operations Managers who are responsible for managing Windows Desktop environments including corporate help desks.
+
+•IT Infrastructure Managers who are responsible for managing and delivering Windows-based applications.
+
+•Network Architects who are responsible for delivering Web-based applications who have primary responsibility for the WAN infrastructure for all applications.
+
+•Server Operations Managers who are responsible for specifying datacenter systems and managing daily operations.
+
+•Individuals and prosumers, who are responsible for choosing personal solutions and helping small businesses select simple-to-use computing solutions.
+
+•Small Business Owners who are responsible for choosing the systems needed to support their business goals, such as SaaS.
+
+We offer perpetual and term-based software licenses for our products, along with annual subscriptions for software updates, technical support and SaaS. Perpetual licenses allow our customers to use the version of software initially purchased into perpetuity, while term-based licenses are limited to a specified period of time. Software update subscriptions give customers the right to upgrade to new software versions if and when any updates are delivered during the subscription term. Perpetual license software products come primarily in electronic-based forms and, in selected markets, we offer pre-packaged shrink-wrap products to meet local customer needs. Our SaaS products are accessed over the Internet for usage during the subscription period. Our hardware appliances come pre-loaded with software for which customers can purchase perpetual licenses and annual support and maintenance.
+
+
+
+
+
+
+
+
+
+
+
+Technology Relationships
+
+We have a number of technology relationships in place to accelerate the development of existing and future products and go-to-market. These relationships include cross-licensing, OEM, and other arrangements that result in better solutions for our customers.
+
+Microsoft
+
+Since our inception, we have had a number of license agreements with Microsoft, including patent cross-licenses and source code licensing agreements that have provided us access to source code for versions of Microsoft Windows Server. These agreements are not required for our software development processes on Windows Server and do not provide for payments to or from Microsoft. The agreements are designed to allow Citrix to provide technical support for our products that run on the Microsoft Windows Server platform, including XenDesktop and XenApp. Additionally, we have collaborated with Microsoft on various technologies, including terminal services, cloud networking and virtualization.
+
+Cisco
+
+We have a technology collaboration with Cisco Systems, Inc., or Cisco, to develop and deliver solutions that help customers simplify and accelerate large-scale desktop virtualization deployments, including high-definition virtual desktops and applications and improved end user experiences, over a highly secure Citrix®HDX™-enabled Cisco network. We licensed the specifications of ICA to Cisco as part of this agreement.
+
+Additional Relationships
+
+Through our Citrix Ready program, more than 21,000 products have been verified to work with Citrix technologies. In addition, numerous partners proactively incorporate Citrix products and technologies such as Receiver, XenServer, XenDesktop, XenClient, XenApp, NetScaler, CloudGateway, VDI-in-a-Box and HDX (ICA) technology into their customer offerings. Our HDX and Receiver technologies are often included with or offered for thin clients, industry-standard servers and mobile devices, such as Apple's iPhone and iPad, Windows Mobile, Blackberry and Google Android devices. Licensees include Dell, Fujitsu, Hewlett Packard and Wyse Technologies, among others. Our XenClient technology was developed in cooperation with Intel and is licensed for shipment by desktop computer manufacturers, including Dell and Hewlett Packard.
+
+
+
+Research and Development
+
+We focus our research and development efforts on developing new products and core technologies in the virtual computing infrastructure market and further enhancing the functionality, reliability, performance and flexibility of existing products. We solicit extensive feedback concerning product development from customers, both directly from and indirectly through our channel distributors.
+
+We believe that our software development teams and core technologies represent a significant competitive advantage for us. Included in the software development teams is a group focused on research activities that include prototyping ways to integrate emerging technologies and standards into our product offerings, such as emerging Web services technologies, management standards and Microsoft's newest technologies. Many groups within the software development teams have expertise in Extensible Markup Language, or XML, based software development, integration of acquired technology, multi-tier Web-based application development and deployment, SSL secure access, hypervisor technologies, cloud technologies, networking technologies, VoIP-based audio technology, Web-based video technology and building SaaS. We maintain teams located close to Microsoft in Redmond, Washington, which are focused on enhancing and adding value to the next generation of Microsoft Windows Server, virtualization and management products. We incurred research and development expenses of approximately$343.7 millionin2011,$326.6 millionin2010and$282.0 millionin2009.
+
+
+
+Sales, Marketing and Services
+
+We market and license our products and services through multiple channels worldwide, including VARs, VADs, SIs, independent software vendors, or ISVs, direct over-the-Web and OEMs. These distribution channels are managed by our worldwide sales and services organization. We provide training and certification to integrators, VARs and consultants for a full-range of Citrix-based infrastructure products, solutions and services through our Citrix Partner Network program to members known as Citrix Solution Advisors™. In addition, our Online Services division provides SaaS through direct corporate sales and direct over-the-Web through our websites.
+
+In 2011, we continued to focus on increasing the productivity of our existing partners and building capacity through recruitment of new partners to sell and implement our expanding product portfolio. Our channel incentive program, Citrix Advisor Rewards™, is an innovative influencer program that rewards our partners for registering projects and providing value-added selling even if they do not fulfill the product. This program has helped limit channel conflict and increase partner loyalty to us. We regularly take actions to improve the effectiveness of our partner programs and to strengthen our channel
+
+
+
+
+
+
+
+
+
+relationships, including managing non-performing partners, adding new partners with expertise in selling into new markets and forming additional relationships with global and regional SIs and ISVs. SIs and ISVs have become a more substantial part of our strategy in the large enterprise and government markets. The SI program includes members such as Accenture Ltd., Atos Origin, Computer Sciences Corporation, Hewlett Packard Enterprise Data Services, Fujitsu-Siemens Computers GmbH, Hewlett-Packard Company, IBM Global Services, Infosys Technologies Limited and TATA Consultancy Services Limited, among others. The ISV program has a strong representation from targeted industry verticals such as healthcare, financial services and telecommunications. Members in the ISV program include Cerner Corporation, Epic Systems Corporation, ESRI, McKesson Corporation, Microsoft, Oracle Corporation, Sage Group plc, SAP AG and Siemens Medical Health Solutions, among many others.
+
+Our corporate marketing organization provides sales event support, sales collateral, advertising, direct mail and public relations coverage to our indirect channels to aid in market development and in attracting new customers. Our partner development organization actively supports our VADs and VARs to improve their commitment and capabilities with Citrix solutions. Our customer sales organization consists of field-based systems sales engineers and corporate sales professionals who work directly with our largest customers and coordinate integration services provided by our VARs and SIs. Additional sales personnel, working in central locations and in the field, provide additional support including recruitment of prospective partners and technical training with respect to our products.
+
+Although we work with multiple VADs and VARs, one distributor, Ingram Micro, accounted for17%of our net revenues in2011,17%of our total net revenues in2010and14%of our total net revenues in2009. Our channel distributor arrangements with Ingram Micro consist of several non-exclusive, independently negotiated agreements with its subsidiaries, each of which covers different countries or regions. Each of these agreements is separately negotiated and is independent of any other contract (such as a master distribution agreement). None of these contracts was individually responsible for over 10% of our total net revenues in each of the last three fiscal years. In addition, there was no individual VAR that accounted for over 10% of our total net revenues in 2011, 2010 and 2009.
+
+The Citrix Partner Network™ includes three categories of partners: Citrix Solution Advisors™, Citrix Ready Technology Partners™, and Citrix Global SIs™. This network represents the knowledge, skills and experience of the entire spectrum of our partners around the world, and makes it easier for end-users to engage their services and benefit from their solutions. Equally important, the Citrix Partner Network is designed to help partners build their business by sharing in opportunities for virtualization and networking optimization solutions that arise from mutual customers and complement the sale of their own products.
+
+We are not obligated to accept product returns from our channel distributors under any conditions, unless the product item is defective in manufacture. See “Management's Discussion and Analysis of Financial Condition and Results of Operations-Critical Accounting Policies and Estimates” and Note 2 to our consolidated financial statements included in this Annual Report on Form 10-K for the year ended December 31, 2011 for information regarding our revenue recognition policy.
+
+International revenues (sales outside the United States) accounted for approximately43%of our net revenues for the year endedDecember 31, 2011,43%of our net revenues for the year endedDecember 31, 2010and44%of our net revenues for the year endedDecember 31, 2009. For detailed information on our international revenues, please refer to Note 12 to our consolidated financial statements included in this Annual Report on Form 10-K for the year endedDecember 31, 2011.
+
+Segment Revenue
+
+Our revenues are derived from sales of Enterprise division products, which primarily include our Desktop Solutions, Datacenter and Cloud Solutions, Cloud-based Data Solutions and related technical services and from our Online Services division's Web collaboration, remote access and support services. The Enterprise division and the Online Services division constitute our two reportable segments. See Note 12 to our consolidated financial statements included in this Annual Report on Form 10-K for the year endedDecember 31, 2011.
+
+
+
+Operations
+
+For our Cloud Networking products, including NetScaler, Access Gateway and Branch Repeater, we employ manufacturing capabilities through independent contractors to provide a redundant source of manufacture and assembly. Independent contractors provide us with the flexibility needed to meet our customer product and delivery requirements. We have manufacturing relationships primarily with Flextronics, Super Micro Computer, Inc. and Hewlett Packard, under which we have subcontracted the majority of our manufacturing activity. These third-party contract manufacturers also provide final test, warehousing and shipping services. This subcontracting activity extends from prototypes to full production and includes activities such as material procurement, final assembly, test, control, shipment to our customers and repairs. Together with our contract manufacturers, we design, specify and monitor the tests that are required to meet internal and external quality standards. Our contract manufacturers manufacture our products based on forecasted demand for our products. Each of the contract manufacturers procures components necessary to assemble the products in our forecast and test the products according
+
+
+
+
+
+
+
+
+
+to our specifications. We are dual-sourced on our components, however, in some instances, those sources may be located in the same geographic area. Accordingly, if a natural disaster occurred in one of those areas, we may need to seek additional sources. Products are then shipped to our channel distributors, VARs or end-users. If the products go unsold for specified periods of time, we may incur carrying charges or obsolete material charges for products ordered to meet our forecast or customer orders. In 2011, we did not experience any material difficulties or significant delays in the manufacture and assembly of our products.
+
+We control all purchasing, inventory, scheduling, order processing and accounting functions related to our operations. For our software products, production, warehousing and shipping are performed by our independent contractor HP, Ireland. Master software CD-ROMs, development of user manuals, packaging designs, initial product quality control and testing are primarily performed at our facilities. In some cases, independent contractors also duplicate CD-ROMs, print documentation and package and assemble products to our specifications.
+
+While it is generally our practice to promptly ship product upon receipt of properly finalized purchase orders, we sometimes have orders that have not shipped upon receipt of a purchase order. Although the amount of such product license orders may vary, the amount, if any, of such orders at the end of a fiscal year is not material to our business. We do not believe that backlog, as of any particular date, is a reliable indicator of future performance.
+
+We believe that our fourth quarter revenues and expenses are affected by a number of seasonal factors, including the lapse of many corporations' fiscal year budgets and an increase in amounts paid pursuant to our sales compensation plans due to compensation plan accelerators that are often triggered in the fourth quarter. We believe that these seasonal factors are common within our industry. Such factors historically have resulted in first quarter revenues in any year being lower than the immediately preceding fourth quarter. We expect this trend to continue through the first quarter of 2012. In addition, our European operations generally generate lower revenues in the summer months because of the generally reduced economic activity in Europe during the summer. This seasonal factor also typically results in higher fourth quarter revenues.
+
+
+
+Competition
+
+We sell our products in intensely competitive markets. Some of our competitors and potential competitors have significantly greater financial, technical, sales and marketing and other resources than we do. As the markets for our products and services continue to develop, additional companies, including those with significant market presence in the computer appliances, software and networking industries, could enter the markets in which we compete and further intensify competition. In addition, we believe price competition could become a more significant competitive factor in the future. As a result, we may not be able to maintain our historic prices and margins, which could adversely affect our business, results of operations and financial condition. See “-Technology Relationships” and Part I-Item 1A entitled “Risk Factors” included in this Annual Report on Form 10-K for the year ended December 31, 2011.
+
+Desktop Solutions
+
+We have established a very large installed customer base in the application virtualization market due to our early success applying this solution to remote access challenges. Today, this technology is part of an evolution to a new way of managing desktops, which is establishing a larger, encompassing market defined as desktop virtualization.Our primary competition in this market is the existing IT desktop management practice of manually configuring physical desktops, which is time-consuming, expensive and inconsistent. We also face numerous competitors that provide automation of these processes and alternative approaches including VMWare's View product and Oracle Corporation, or Oracle's, broad virtualization stack which is a feature of its operating system and management software.
+
+We believe XenDesktop gives Citrix a competitive advantage by providing customers multiple ways to manage desktops within one, integrated desktop virtualization system. In addition, during 2011 we added our VDI-in-a-Box product, which is simple to install and gives us a VDI solution targeted toward smaller businesses without skilled IT support organizations. This product also competes with VMWare's View product and we believe the addition of the VDI-in-a-Box product gives us a simple affordable product that compliments and completes our XenDesktop product line.
+
+Cloud Networking
+
+Our NetScaler Web application delivery products compete against other established competitors, including, Cisco and F5 Networks, Inc., or F5. Both compete with us for traditional enterprise sales opportunities, while F5 is our principal competitor in the Internet-centric market segment. We continue to enhance NetScaler's feature capability and aggressively market NetScaler to our existing customer base.
+
+Our Branch Repeater products compete with Cisco and Riverbed Technology, Inc., or Riverbed. Cisco has the largest market share, benefiting from its leadership in the networking market. Riverbed is a less established company than Citrix, but has the advantage of being focused solely on WAN optimization. We continue to develop enhanced features and functionality for our Branch Repeater products, in addition to optimizing their performance with existing Citrix products, to differentiate them from our competition. We are also able to bundle our Branch Repeater products with existing products and aggressively
+
+
+
+
+
+
+
+
+
+market them to our installed-base, which we believe gives us a competitive advantage.
+
+Competition for Cloud Bridge comes in the form of alternative approaches to making the cloud a secure extension of a company's on-premise enterprise network such as WAN optimization, Internet protocol security, or IPSec, or multi-protocol label switching, or MPLS, network solutions, among others. F5 is a key competitor in this space. We believe Cloud Bridge is a more feature-rich solution than the other alternatives and provides superior flexibility as part of NetScaler.
+
+Cloud Platform
+
+In the server virtualization market, we compete directly with VMware, which was first to market with this technology and is widely regarded as the market leader. We believe XenServer, our server virtualization product, has features that are competitive with VMware's ESX Server in terms of performance, scalability and other enterprise-class capabilities. XenServer is offered as a free download, which significantly increases the reach of server virtualization to customers of all sizes and geographies. We monetize the XenServer product with premium editions that extend the platform to enable organizations of any size to integrate and automate management processes, delivering a virtual datacenter solution.
+
+VMware is also the main competitor for our CloudStack product which is an advanced platform for building highly scalable and reliable cloud computing environments and our CloudPortal products which is a comprehensive portal for provisioning hosted applications, desktops, services and IaaS. Unlike VMware's products, our CloudStack and CloudPortal products draw on the successful models and experience of large, public cloud implementations and apply them to enterprise, private clouds. The differentiation and experience of our products is expanded when coupled with our NetScaler and XenServer products, both of which are used in large, public cloud implementations. Additionally, OpenStack, an open source project, provides an alternative solution to our CloudStack product. We believe CloudStack has a competitive advantage as it is production ready for cloud deployment.
+
+Cloud Gateway also faces competition from VMware and a host of other, smaller solution providers. We believe Citrix offers the only integrated solution that aggregates, controls and delivers Windows, Web, SaaS and mobile applications to virtually any device, bringing all of the various components together. Further, we believe that our end user experience has a competitive edge when compared to the alternative solutions due to the intuitiveness and self-service features of our offering.
+
+Software as a Service
+
+Our SaaS offerings for Web collaboration, remote support and remote access continue to maintain solid leadership positions in extremely competitive markets, particularly among, SMBs. We differentiate our SaaS offerings by designing simple, secure, reliable and cost-efficient products that deliver a superior customer experience. Our competitors range from large, established technology firms to small, Internet-based startups.
+
+We have been a market leader in SaaS-based secure remote access with our GoToMyPC product for many years. Our direct competition includes LogMeIn, Inc., or LogMeIn, free solutions such as Microsoft's Live Mesh and those from many Internet startups. In addition, new remote access features in desktop operating systems like Microsoft Windows and Macintosh OSX provide alternatives to our solution. We endeavor to differentiate our products by continuing our focus on security, ease-of-use and support for multiple desktop operating systems.
+
+In Web collaboration, we compete primarily with Cisco's WebEx product, which currently has the leading market share in this space as well as collaboration solutions from Adobe Systems, Inc., or Adobe. Additionally we compete with freemium products such as Logmein's Join.me and Google's Google + Hangouts. Our GoToMeeting, GoToWebinar and GoToTraining products have proven to be competitive based on ease-of-use and the All You Can Meet® pricing model. In addition, we offer advanced VoIP-based audio technology, which allows us to market audio conference calling services directly to SMBs and enterprises. We further differentiate our collaboration products by integrating PSTN, VoIP and toll-free audio services. We believe these features give us competitive advantage among individual, prosumer and SMB customers. We further expanded our collaboration offerings with GoToTraining™, an online training service purpose-built for the corporate training market.
+
+Our on-demand IT support products, marketed under the GoToAssist and GoToManage brands, have achieved the largest market share worldwide for Web-based clientless remote support. These offerings include versions purpose-built for individual users, consultants and small businesses, positioning Citrix as the only provider of remote support solutions for all segments of the market. In remote support, we compete with Cisco's WebEx and LogMeIn.
+
+ShareFile's direct competition includes Dropbox, Inc., Box, Inc. and YouSendIt, Inc., as well as legacy solutions like traditional file transfer protocol, or FTP, in the SMB market. Many of these competitors offer free versions of their products and have strong brand recognition. However, we believe ShareFile offers a superior solution as it is built specifically to service the needs of business users. In the Enterprise market, there are few direct competitors to our ShareFile products but increased competition is anticipated as large enterprises begin to deploy solutions for data synching and sharing. We believe that Citrix's strong reputation in the Enterprise market, along with ShareFile's integration into Citrix products such as Receiver, will prove to be a differentiator.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Proprietary Technology
+
+Our success is dependent upon certain proprietary technologies and core intellectual property. We have been awarded numerous domestic and foreign patents and have numerous pending patent applications in the United States and foreign countries. Our technology is also protected under copyright laws. Additionally, we rely on trade secret protection and confidentiality and proprietary information agreements to protect our proprietary technology. We have trademarks or registered trademarks in the United States and other countries, including Citrix
+
+®
+
+, Citrix Access Gateway™, Citrix Cloud Center™, Citrix Essentials™, Citrix Receiver™, Citrix Repeater™, Citrix Subscription Advantage™, Citrix Synergy™, Dazzle
+
+®
+
+, EdgeSight
+
+®
+
+, FlexCast™, GoToAssist
+
+®
+
+, GoToMeeting
+
+®
+
+, GoToMyPC
+
+®
+
+, GoToWebinar
+
+®
+
+, GoToTraining
+
+®
+
+, GoView
+
+®
+
+, HiDef Conferencing™, ICA
+
+®
+
+, nCore™, NetScaler
+
+®
+
+, Simplicity is Power™, VPX™, Xen
+
+®
+
+, XenApp
+
+®
+
+, XenCenter
+
+®
+
+, XenClient
+
+®
+
+, XenDesktop
+
+®
+
+and XenServer
+
+®
+
+. While our competitive position could be affected by our ability to protect our proprietary information, we believe that because of the rapid pace of technological change in the industry, factors such as the technical expertise, knowledge and innovative skill of our management and technical personnel, our technology relationships, name recognition, the timeliness and quality of support services provided by us and our ability to rapidly develop, enhance and market software products could be more significant in maintaining our competitive position. See Part I-Item 1A entitled “Risk Factors”  included in this Annual Report on Form 10-K for the year ended December 31, 2011.
+
+Available Information
+
+Our Internet address is http://www.citrix.com. We make available, free of charge, on or through our website our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy statements and any amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act as soon as reasonably practicable after such material is electronically filed with or furnished to the Securities and Exchange Commission. The information on our website is not part of this Annual Report on Form 10-K for the year ended December 31, 2011.
+
+Employees
+
+As of December 31, 2011, we had 6,936 employees. We believe our relations with employees are good. In certain countries outside the United States, our relations with employees are governed by labor regulations that provide for specific terms of employment between our company and our employees.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

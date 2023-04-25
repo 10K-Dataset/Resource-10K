@@ -1,0 +1,386 @@
+ITEM 1. BUSINESS
+
+
+
+Forward-Looking Statements
+
+
+
+
+
+
+
+All references to “NVIDIA,” “we,” “us,” “our” or the “Company” mean NVIDIA Corporation and its subsidiaries, except where it is made clear that the term means only the parent company.
+
+
+
+© 2011 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, 3D Vision, CUDA, GeForce, NVIDIA Fermi, Quadro Tesla and Tegra are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries
+
+
+
+Our Company
+
+
+
+NVIDIA Corporation invented the graphics processing unit, or GPU, in 1999.  Since then, we have strived to set new standards in visual computing with interactive graphics available on devices ranging from tablets and smart phones to notebooks and workstations. Our expertise in programmable GPUs and computer-systems technology has led to breakthroughs in parallel processing which make supercomputing less expensive and widely accessible.  We are strategically investing in three major areas – visual computing, high performance computing and mobile computing.  We serve the visual computing market with our consumer GeForce graphics products and professional Quadro graphics products; the high performance computing market with our Tesla computing solutions products; and the mobile computing market with our Tegra system-on-chip products.
+
+
+
+We have three primary financial reporting segments – GPU, Professional Solutions Business, or PSB and Consumer Products Business, or CPB.  During fiscal years 2010 and 2009, we operated and reported four major product-line operating segments: the GPU business, the PSB, the media and communications processor, or MCP business, and the CPB.  However, during the first quarter of fiscal year 2011, we began reporting internally the results of our former MCP segment along with the results of our GPU segment to reflect the way we manage the GPU business.
+
+
+
+Our GPU business is comprised primarily of our GeForce discrete and chipset products which support desktop and notebook personal computers, or PCs, plus memory products. Our PSB is comprised of our Quadro professional workstation products and other professional graphics products, including our NVIDIA Tesla high-performance computing products. Our CPB is comprised of our Tegra mobile products which support tablets, smartphones, personal media players, or PMPs, internet television, automotive navigation, and other similar devices. CPB also includes license, royalty, other revenue and associated costs related to video game consoles and other digital consumer electronics devices.  Original equipment manufacturers, or OEMs, original design manufacturers, or ODMs, add-in-card manufacturers, system builders and consumer electronics companies worldwide utilize our processors as a core component of their entertainment, business and professional solutions.
+
+
+
+We were incorporated in California in April 1993 and reincorporated in Delaware in April 1998. Our headquarter facilities are in Santa Clara, California. Our web address iswww.nvidia.com. The contents of our website are not a part of this Form 10-K.
+
+
+
+
+
+
+
+
+
+
+
+
+GPU Business
+
+
+
+Our GPU business is comprised primarily of our GeForce discrete and chipset products that support desktop and notebook PCs, plus memory products. Our GPU business is focused on Microsoft Windows and Apple PC platforms.  GeForce GPUs power PCs made by or distributed by most PC OEMs in the world for desktop PCs, notebook PCs, and PCs loaded with Windows Media Center and other media extenders such as the Apple TV.  GPUs enhance the user experience for playing video games, editing photos, viewing and editing videos and high-definition, or HD, movies.
+
+
+
+We believe we are in an era where visual computing is becoming increasingly important to consumers and other end users of our products. Our strategy is to promote the GeForce brand as one of the most important processors due to its technology leadership, increasing programmability, and impressive content experience it enables.  In fiscal year 2011, our strategy was to extend our architectural and technology advantage with our GeForce GPUs.
+
+
+
+During fiscal year 2011, we took the computational capabilities of our GPUs to a new level with the launch of our Fermi architecture.  Fermi GPUs are designed to excel at tessellation, the key feature of DirectX 11, and to allow game developers to increase the level of physics realism via our PhysX API.  Our flagship product for the desktop, the GeForce GTX 480, was followed by a complete line-up of 400-series GPUs.  Later in the year, we refreshed them with our 500-series GPUs, which significantly increased the performance of the products they replaced while fitting into similar power envelopes. We also launched 400M- and 500M- series GPUs for notebooks, along with our Optimus technology, which switches invisibly between discrete GPU and integrated graphics controller depending on the user’s activities.  By doing so, NVIDIA Optimus provides notebook users with the battery life of integrated graphics, but with the gaming performance of a discrete graphics processor.  PC manufacturers also are expected to launch hundreds of new PCs that use these new GeForce GPUs paired with Intel’s Sandy Bridge CPUs.
+
+
+
+During fiscal year 2011, we also announced our plans to develop a custom central processing unit, or CPU, that will use the ARM instruction set. These CPU cores will be integrated into future generation GPUs for PCs, servers, and supercomputers.These CPU cores will be integrated into future generation processors for PCs, servers, and supercomputers.  PC manufacturers also are expected to launch hundreds of new PCs that use NVIDIA® GeForce GPUs paired with the new generation of Intel Corporation’s Sandy Bridge CPUs.
+
+
+
+During fiscal year 2011, we also began shipments of the GeForce 320M chipset to Apple for incorporation into their latest 13-inch MacBook notebooks.  The 320M delivers up to an 80% performance increase over the previous GeForce 9400M GPU.
+
+
+
+Professional Solutions Business
+
+
+
+Our PSB is comprised of our Quadro professional workstation products and other professional graphics products, including our Tesla high-performance computing products. Our Quadro brand products are designed to deliver the highest possible level of graphics performance and application compatibility for the professional industry.  Quadro products are recognized by many as the standard for professional graphics solutions needed to solve many of the world’s most complex visual computing challenges in the manufacturing, entertainment, medical, science, and aerospace industries. Quadro products are fully certified by several software developers for professional workstation applications and are designed to deliver the graphics performance and precision required by professional applications.
+
+
+
+There has been in recent years an increasing level of global adoption of the computer-aided design approach of product creation.  We have achieved a leading position in the professional graphics category by providing innovative GPU technology, software, and tools that integrate the capabilities of our GPU with a broad array of visualization products.
+
+
+
+During fiscal year 2011, our Quadro business benefitted from the strength of our Fermi architecture with the launch of the Quadro 2000 midrange GPU and the Quadro 600 entry-level GPU. These professional graphics solutions put the computational and visualization benefits of our Fermi architecture within reach of all engineers, designers and animators, with the Quadro 2000 delivering significantly higher performance compared to leading computer aided design, or CAD applications and the Quadro 600 positioned at a competitive price/performance point.
+
+
+
+During fiscal year 2011, demand for our workstation products continued to recover, fueled by demand from enterprise customers and new growth markets like video editing.  During SIGRRAPH 2010, we introduced new Quadro GPU products based on our Fermi architecture and 3D Vision Pro, a new 3D stereoscopic solution that empowers engineers, designers, architects and computational chemists who work with complex 3D designs to experience a rich, reliable 3D viewing for large scale visualization environments.  The new Quadro GPUs deliver performance that is up to five times faster for 3D applications and up to eight times faster for computational simulation than our previous Quadro generation products.  We also announced that a range of NVIDIA Quadro professional graphics solutions are certified by Adobe Systems Incorporated for Adobe Creative Suite 5 software, which provides real-time video editing and effects processing of Adobe Premiere Pro CS5.
+
+
+
+Our Tesla supercomputing business continued to make progress with key project wins not only in our core market segments, but also with traction in a number of new focus areas.  A notable achievement this fiscal year was the unveiling of the Tianhe-1A supercomputer at HPC 2010 China.  The system uses more than 7,000 Tesla M2050 GPUs, is three-times more energy efficient than an equivalent CPU-only system and takes up half as much floor space.
+
+
+
+
+
+
+Consumer Products Business
+
+
+
+Our CPB is comprised of our Tegra mobile products that support smartphones, smartbooks, tablets, personal media players, or PMPs, internet television, automotive navigation, and other similar devices. CPB also includes license, royalty, other revenue and associated costs related to video game consoles and other digital consumer electronics devices.
+
+
+
+Our mobile strategy is to create a system-on-a-chip that enables entertainment and web experiences that end users enjoy on a PC.  NVIDIA Tegra mobile products implement design techniques, both inside the chips and at the system level, which result in high performance and long battery life. These technologies enhance visual display capabilities, improve connectivity, and minimize chip and system-level power consumption.
+
+
+
+During fiscal year 2011, we continued to see promising signs in our Tegra business, helped by the widespread consumer adoption of the Android operating system. Tegra shipment volumes began to ramp up late in the fourth quarter of fiscal year 2011 and we expect the momentum to continue into the first quarter of fiscal year 2012, fueled by the production release of Android-based smartphone and tablet products.  During fiscal year 2011, we had multiple Tegra 2 design wins in both tablets and smartphones.   Our customers including Acer Inc., Dell Inc., LG Electronics Inc. and Motorola Solutions, Inc. announced a number of products incorporating the Tegra 2 mobile processor.  We also demonstrated our next-generation mobile processor, the world’s first quad-core mobile processor, at Mobile World Congress.
+
+
+
+During fiscal year 2011, we announced that Volkswagen AG and Audi AG will use our next-generation Tegra starting in 2012. In addition to this, we announced that BMW will use our GPUs for infotainment systems in next-generation cars worldwide.  Tesla™ Motors will also incorporate Tegra processors to power the infotainment, navigation and instrument cluster in its Roadster Model S.
+
+
+
+Our Strategy
+
+
+
+We are committed to bringing the best experience to the end user through our innovative hardware and software offerings.  We design our products to enable customers in the visual computing, high-performance computing and mobile computing markets to build products that deliver state-of-the-art features and capabilities, performance, compatibility and power efficiency while maintaining competitive pricing and profitability. Our business strategy leverages our ability to design and develop programmable GPUs, system I/O processors, system-on-chip processors, application programming interfaces for multiple operating systems, and application programming tools and middle-ware to provide our customers with platforms that allow superior performance and utility beyond the base capability.  We believe that by developing hardware and software platforms that provide superior performance and address the key requirements of each of the product categories we serve, we will raise the capability of each system and further accelerate its adoption. We combine scalable architectural technology with mass market economies-of-scale to deliver a complete family of products that span from professional workstations, to consumer PCs to tablets and smartphones.
+
+
+
+Our objective is to be the leading supplier of programmable, high-performance GPUs and ultra-low power mobile system-on-a-chip products. A fundamental strategy is to actively recruit the industry’s best 3D graphics and HD video, microprocessor, networking and communications engineers, and we believe that we have assembled an exceptionally experienced and talented engineering team. Our current focus is on the desktop PC, professional workstation, notebook PC, high-performance computing, and application processor product lines, and we plan to expand into other product lines. Our strategy to achieve this objective includes the following key elements:
+
+
+
+Sustain Technology and Product Leadership in Visual Computing.We believe that ongoing investment in research and development in 3D graphics and image processing is critical to the development and enhancement of innovative products and technologies.  We are focused on using our advanced engineering capabilities to accelerate the quality and performance of 3D graphics, image processing, and computational graphics to raise and change the user experience for both consumer entertainment and professional visualization applications. Our research and development strategy is to focus on concurrently developing multiple generations of GPUs, including GPUs for high-performance computing, and mobile and consumer products using independent design teams. As we have in the past, we intend to use this strategy to achieve new levels of graphics, networking and communications features and performance and ultra-low power designs, enabling our customers to achieve superior performance in their products.
+
+
+
+
+
+
+Revolutionize High Performance Computing with CUDA and Tesla.Tesla is a family of GPU computing products that delivers processing capabilities for high-performance computing applications. NVIDIA CUDA is a general purpose parallel computing architecture that leverages the parallel compute engine in NVIDIA GPUs to solve many complex computational problems in a fraction of the time required on a CPU. Our CUDA parallel processing architecture can accelerate compute-intensive applications by significant multiples over that of a CPU alone. We are working with developers around the world who have adopted and written application programs for the CUDA architecture using various high-level programming languages, which can then be run at significant execution speeds on a CUDA-enabled GPU. With CUDA, we are able to speed up general purpose compute-intensive applications as we do for 3D graphics processing.  Developers are able to speed-up algorithms in areas ranging from nano molecular dynamics to image processing, medical image reconstruction and derivatives modeling for financial risk analysis.  We are also working with universities around the world that teach parallel programming with CUDA as well as with many PC OEMs that offer high performance computing solutions with Tesla for use by their customers around the world. Researchers also use CUDA to accelerate their time-to-discovery, and many popular off-the-shelf software packages are now CUDA accelerated.
+
+
+
+Advance Mobile Computing with Best-in-Class Ultra-Low Power System-On-Chip Processors.We believe the synergy created by the combination of 3D graphics, HD video and the Internet will fundamentally change the way people work, learn, communicate and play. We believe that our expertise in HD graphics and system architecture positions us to help drive this transformation.  We are using our expertise in the processing and transmission of high-bandwidth digital media to develop products designed to address the requirements of high-bandwidth concurrent multimedia.  By developing 3D graphics, HD video and media communications solutions that provide superior performance and address the key requirements of these platforms, we believe that we will accelerate the adoption of next generation smart phones and tablets.
+
+
+
+Use Our Intellectual Property and Resources to Enter into License and Development Contracts.From time to time, we expect to enter into license and royalty arrangements that may require significant customization of our intellectual property components.
+
+
+
+Sales and Marketing
+
+
+
+Our worldwide sales and marketing strategy is key  to our objective to become the leading supplier of programmable, high-performance GPUs and ultra-low power mobile system-on-a-chip products. Our sales and marketing teams work closely with each industry’s respective OEMs, ODMs, system builders, motherboard manufacturers, add-in board manufacturers and industry trendsetters, collectively referred to as our Channel, to define product features, performance, price and timing of new products. Members of our sales team have a high level of technical expertise and product and industry knowledge to support the competitive and complex design win process. We also employ a highly skilled team of application engineers to assist our Channel in designing, testing and qualifying system designs that incorporate our products. We believe that the depth and quality of our design support are keys to improving our Channel’s time-to-market, maintaining a high level of customer satisfaction within our Channel and fostering relationships that encourage customers to use the next generation of our products.
+
+
+
+In the segments we serve that purchase our GPUs, the sales process involves achieving key design wins with leading OEMs and major system builders and supporting the product design into high volume production with key ODMs, motherboard manufacturers and add-in board manufacturers. These design wins in turn influence the retail and system builder channel that is serviced by add-in board and motherboard manufacturers. Our distribution strategy is to work with a number of leading independent contract equipment manufacturers, or CEMs, ODMs, motherboard manufacturers, add-in board manufacturers and distributors, each of which have relationships with a broad range of major OEMs and/or strong brand name recognition in the retail channel. In the CPB segment that we serve, the sales process primarily involves achieving key design wins directly with the leading handheld OEMs and supporting the product design into high-volume production. Currently, we sell a significant portion of our processors directly to distributors, CEMs, ODMs, motherboard manufacturers and add-in board manufacturers, which then sell boards and systems with our products to leading OEMs, retail outlets and a large number of system builders.
+
+
+
+Although as a result of our Channel strategy, a small number of our customers represent the majority of our revenue, their end customers include a large number of OEMs and system builders throughout the world.  Sales to our largest customer, Quanta Computer Incorporated, accounted for 12% of our total revenue for fiscal year 2011.
+
+
+
+To encourage software title developers and publishers to develop games optimized for platforms utilizing our products, we seek to establish and maintain strong relationships in the software development community. Engineering and marketing personnel interact with and visit key software developers to promote and discuss our products, as well as to ascertain product requirements and solve technical problems. Our developer program makes certain that our products are available to developers prior to volume availability in order to encourage the development of software titles that are optimized for our products.
+
+
+
+
+
+
+
+
+Backlog
+
+
+
+Our sales are primarily made pursuant to standard purchase orders. The quantity of products purchased by our customers as well as our shipment schedules are subject to revisions that reflect changes in both the customers’ requirements and in manufacturing availability. The semiconductor industry is characterized by short lead time orders and quick delivery schedules. In light of industry practice and experience, we believe that only a small portion of our backlog is non-cancelable and that the dollar amount associated with the non-cancelable portion is not significant.
+
+
+
+Seasonality
+
+
+
+Our industry is largely focused on the consumer products market. Historically, we have seen stronger revenue in the second half of our fiscal year than in the first half of our fiscal year, primarily due to back-to-school and holiday demand. While we anticipate that this historical seasonal trend will resume, there can be no assurance of this trend.  For example, revenue in the second half of fiscal year 2011 decreased by 5% compared with the first half of fiscal year 2011 primarily due to weakness in end consumer markets, while revenue in the second half of fiscal year 2010 grew by 31% compared with the first half of fiscal year 2010.
+
+
+
+Manufacturing
+
+
+
+Fabless Manufacturing Strategy
+
+
+
+We do not directly manufacture semiconductor wafers used for our products. Instead, we utilize what is known as a fabless manufacturing strategy for all of our product-line operating segments whereby we employ world-class suppliers for all phases of the manufacturing process, including wafer fabrication, assembly, testing and packaging. This strategy uses the expertise of industry-leading suppliers that are certified by the International Organization for Standardization, or ISO, in such areas as fabrication, assembly, quality control and assurance, reliability and testing. In addition, this strategy allows us to avoid many of the significant costs and risks associated with owning and operating manufacturing operations. Our suppliers are also responsible for procurement of most of the raw materials used in the production of our products. As a result, we can focus our resources on product design, additional quality assurance, marketing and customer support.
+
+
+
+We utilize industry-leading suppliers, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and United Microelectronics Corporation, or UMC, to produce our semiconductor wafers. We then utilize independent subcontractors, such as Advanced Semiconductor Engineering, Inc., Amkor Technology, JSI Logistics Ltd., King Yuan Electronics Co., Ltd., Siliconware Precision Industries Company Ltd., and STATS ChipPAC Incorporated to perform assembly, testing and packaging of most of our products.  We purchase substrates from Nanya Technology Corporation, IbidenCo., Ltd. and Unimicron Technology Corporation.
+
+
+
+We typically receive semiconductor products from our subcontractors, perform incoming quality assurance and then ship the semiconductors to CEMs, distributors, motherboard and add-in board manufacturer customers from our third-party warehouse in Hong Kong. Generally, these manufacturers assemble and test the boards based on our design kit and test specifications, and then ship the products to retailers, system builders or OEMs as motherboard and add-in board solutions.
+
+
+
+Inventory and Working Capital
+
+
+
+Our management focuses considerable attention on managing our inventories and other working-capital-related items. We manage inventories by communicating with our customers and then using our industry experience to forecast demand on a product-by-product basis. We then place manufacturing orders for our products that are based on forecasted demand. The quantity of products actually purchased by our customers as well as shipment schedules are subject to revisions that reflect changes in both the customers’ requirements and in manufacturing availability. We generally maintain substantial inventories of our products because the semiconductor industry is characterized by short lead time orders and quick delivery schedules.
+
+
+
+Our existing cash and marketable securities balances increased by 44% at the end of fiscal year 2011 compared with the end of fiscal year 2010. We believe that these balances and our anticipated cash flows from operations will be sufficient to meet our operating, acquisition and capital requirements for at least the next twelve months.
+
+
+
+
+
+
+
+
+
+
+Research and Development
+
+
+
+We believe that the continued introduction of new and enhanced products designed to deliver leading 3D graphics, HD video, audio, ultra-low power consumption, and system-on-chip architectures is essential to our future success. Our research and development strategy is to focus on concurrently developing multiple generations of GPUs, including GPUs for high-performance computing, and mobile and consumer products using independent design teams. Our research and development efforts are performed within specialized groups consisting of software engineering, hardware engineering, very large scale integration design engineering, process engineering, architecture and algorithms. These groups act as a pipeline designed to allow the efficient simultaneous development of multiple generations of products.
+
+
+
+A critical component of our product development effort is our partnerships with leaders in the CAD industry. We invest significant resources in the development of relationships with industry leaders, often assisting these companies in the product definition of their new products. We believe that forming these relationships and utilizing next-generation development tools to design, simulate and verify our products will help us remain at the forefront of the 3D graphics market and develop products that utilize leading-edge technology on a rapid basis. We believe this approach assists us in meeting the new design schedules of PC OEM and other manufacturers.
+
+
+
+As of January 30, 2011, we had 4,161 full-time employees engaged in research and development. During fiscal years 2011, 2010 and 2009, we incurred research and development expense of $848.8 million, $908.9 million and $855.9 million, respectively.
+
+
+
+Competition
+
+
+
+The market for our products is intensely competitive and is characterized by rapid technological change, evolving industry standards and declining average selling prices. We believe that the principal competitive factors in this market are performance, breadth of product offerings, access to customers and distribution channels, software support, conformity to industry standard Application Programming Interfaces, or APIs, manufacturing capabilities, processor pricing, and total system costs. We believe that our ability to remain competitive will depend on how well we are able to anticipate the features and functions that customers will demand and whether we are able to deliver consistent volumes of our products at acceptable levels of quality and at competitive prices. We expect competition to increase from both existing competitors and new market entrants with products that may be less costly than ours, or may provide better performance or additional features not provided by our products. In addition, it is possible that new competitors or alliances among competitors could emerge and acquire significant market share.
+
+
+
+A significant source of competition comes from companies that provide or intend to provide GPUs and mobile and consumer products.  Some of our competitors may have greater marketing, financial, distribution and manufacturing resources than we do and may be more able to adapt to customer or technological changes.
+
+
+
+Our current competitors include the following:
+
+
+
+·suppliers of GPUs, including chipsets that incorporate 3D graphics functionality as part of their existing solutions, such as Advanced Micro Devices, or AMD, Intel, Matrox Electronics Systems Ltd., Silicon Integrated Systems, and VIA Technologies, Inc.;
+
+·suppliers of system-on-a-chip products that support tablets, smartphones, PMPs, internet television, automotive navigation and other similar devices, such as AMD, ARM Holdings plc, Broadcom Corporation, Freescale Semiconductor Inc., Fujitsu Limited, Imagination Technologies Ltd., Intel, Marvell Technology Group Ltd., NEC Corporation, Qualcomm Incorporated, Renesas Technology Corp., Samsung Electronics Co. Ltd., Seiko Epson Corporation, STMicroelectronics, Texas Instruments Incorporated, and Toshiba America Electronic Components, Inc.; and
+
+·licensors of graphics technologies such as ARM Holdings plc, and Imagination Technologies Group plc.
+
+
+
+If and to the extent we offer products in new markets, we may face competition from existing competitors as well as from companies with which we currently do not compete.  We expect substantial competition from both Intel’s and AMD’s strategy of selling platform solutions, including integrating a CPU and a GPU on the same chip or same package, as evidenced by AMD’s announcement of its Fusion processors and Intel’s announcement of its family of CPUs codenamed Sandy Bridge.  If AMD and Intel continue to pursue platform solutions and integrated CPUs, we may not be able to successfully compete and our business would be negatively impacted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Patents and Proprietary Rights
+
+
+
+We rely primarily on a combination of patents, trademarks, trade secrets, employee and third-party nondisclosure agreements and licensing arrangements to protect our intellectual property in the United States and internationally. Our currently issued patents have expiration dates from April 5th, 2011 to January 29, 2031.  We have numerous patents issued, allowed and pending in the United States and in foreign jurisdictions. Our patents and pending patent applications primarily relate to our products and the technology used in connection with our products. We also rely on international treaties, organizations and foreign laws to protect our intellectual property. The laws of certain foreign countries in which our products are or may be manufactured or sold, including various countries in Asia, may not protect our products or intellectual property rights to the same extent as the laws of the United States. This makes the possibility of piracy of our technology and products more likely. We continuously assess whether and where to seek formal protection for particular innovations and technologies based on such factors as:
+
+
+
+·the location in which our products are manufactured;
+
+·our strategic technology or product directions in different countries;
+
+·the degree to which intellectual property laws exist and are meaningfully enforced in different jurisdictions; and
+
+·the commercial significance of our operations and our competitors’ operations in particular countries and regions.
+
+
+
+Our pending patent applications and any future applications may not be approved. In addition, any issued patents may not provide us with competitive advantages or may be challenged by third parties. The enforcement of patents by others may harm our ability to conduct our business. Others may independently develop substantially equivalent intellectual property or otherwise gain access to our trade secrets or intellectual property. Our failure to effectively protect our intellectual property could harm our business. We have licensed technology from third parties for incorporation in some of our products and for defensive reasons, and expect to continue to enter into such license agreements. These licenses may result in royalty payments to third parties, the cross licensing of technology by us or payment of other consideration. If these arrangements are not concluded on commercially reasonable terms, our business could suffer.
+
+
+
+Employees
+
+
+
+As of January 30, 2011 we had 6,029 employees, 4,161 of whom were engaged in research and development and 1,868 of whom were engaged in sales, marketing, operations and administrative positions. We believe our relationships with our employees are good.
+
+
+
+Financial Information by Business Segment and Geographic Data
+
+
+
+Our Chief Executive Officer, who is considered to be our chief operating decision maker, or CODM, reviews financial information presented on an operating segment basis for purposes of making operating decisions and assessing financial performance.   During the last several fiscal years, we have operated and reported four major product-line operating segments to our CODM: the GPU business, the PSB, the MCP business, and the CPB.  However, during the first quarter of fiscal year 2011, we began reporting internally the results of our former MCP segment along with the results of our GPU segment to reflect the way we manage the GPU business.  Comparative periods presented reflect this change.
+
+
+
+Our GPU business is comprised primarily of our GeForce discrete and chipset products which support desktop and notebook personal computers, or PCs, plus memory products. Our PSB is comprised of our Quadro professional workstation products and other professional graphics products, including our NVIDIA Tesla high-performance computing products. Our CPB is comprised of our Tegra mobile products which support tablets, smartphones, PMPs, internet television, automotive navigation, and other similar devices. CPB also includes license, royalty, other revenue and associated costs related to video game consoles and other digital consumer electronics devices.  OEMs, ODMs, add-in-card manufacturers, system builders and consumer electronics companies worldwide utilize our processors as a core component of their entertainment, business and professional solutions.
+
+
+
+
+
+Our CODM does not review any information regarding total assets on an operating segment basis. Operating segments do not record intersegment revenue, and, accordingly, there is none to be reported.  The accounting policies for segment reporting are the same as for NVIDIA as a whole.  The information included in Note 17 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Form 10-K, including financial information by business segment and revenue and long-lived assets by geographic region, is hereby incorporated by reference.
+
+
+
+
+
+
+Executive Officers of the Registrant
+
+
+
+The following sets forth certain information regarding our executive officers, their ages and their positions as of February 28, 2011:
+
+
+
+NameAgePositionJen-Hsun Huang48President, Chief Executive Officer and DirectorDavid L. White55Executive Vice President and Chief Financial OfficerAjay K. Puri56Executive Vice President, Worldwide SalesDavid M. Shannon55Executive Vice President, General Counsel and SecretaryDebora Shoquist56Executive Vice President, Operations
+
+
+
+Jen-Hsun Huangco-founded NVIDIA in April 1993 and has served as its President, Chief Executive Officer and a member of the Board of Directors since its inception. From 1985 to 1993, Mr. Huang was employed at LSI Logic Corporation, a computer chip manufacturer, where he held a variety of positions, most recently as Director of Coreware, the business unit responsible for LSI’s “system-on-a-chip” strategy. From 1983 to 1985, Mr. Huang was a microprocessor designer for Advanced Micro Devices, Inc., a semiconductor company. Mr. Huang holds a B.S.E.E. degree from Oregon State University and an M.S.E.E. degree from Stanford University.
+
+
+
+David L. Whitejoined NVIDIA in February 2009 as Executive Vice President and Chief Financial Officer. From August 2004 to February 2009, Mr. White served as the Executive Vice President of Finance and Chief Financial Officer of Sanmina-SCI Corporation, a global provider of customized, integrated electronics manufacturing services to original equipment manufacturers in the communications, enterprise computing and medical industries and various other end markets. From 2003 to 2004, Mr. White was Senior Vice President and Chief Financial Officer of Asyst Technologies, Inc., a provider of integrated hardware and software automation solutions that enhance semiconductor and flat-panel display manufacturing productivity. Mr. White served as President and Chief Executive Officer of Candescent Technologies Corporation, a developer of field emission display technology for next-generation thin flat-panel displays, and held various other positions, from 1995 to 2002. Mr. White holds a B.S. degree from Brigham Young University and an M.B.A. from the University of Washington.
+
+
+
+Ajay K. Purijoined NVIDIA in December 2005 as Senior Vice President, Worldwide Sales and became Executive Vice President, Worldwide Sales in January 2009. Prior to NVIDIA, he held positions in sales, marketing, and general management over a 22-year career at Sun Microsystems, Inc. Mr. Puri previously held marketing, management consulting, and product development positions at Hewlett-Packard Company, Booz Allen Hamilton Inc., and Texas Instruments Incorporated. Mr. Puri holds an M.B.A. degree from Harvard University, an M.S.E.E. degree from the California Institute of Technology and a B.S.E.E. degree from the University of Minnesota.
+
+
+
+David M. Shannonjoined NVIDIA in August 2002 as Vice President and General Counsel. Mr. Shannon became Secretary of NVIDIA in April 2005, a Senior Vice President in December 2005 and an Executive Vice President in January 2009. From 1993 to 2002, Mr. Shannon held various counsel positions at Intel, including the most recent position of Vice President and Assistant General Counsel. Mr. Shannon also practiced for eight years in the law firm of Gibson Dunn and Crutcher, focusing on complex commercial and high-technology related litigation. Mr. Shannon holds B.A. and J.D. degrees from Pepperdine University.
+
+
+
+Debora Shoquistjoined NVIDIA in September 2007 as Senior Vice President of Operations and became Executive Vice President of Operations in January 2009.  From 2004 to 2007, Ms. Shoquist served as Senior Vice President of Operations at JDS Uniphase Corporation, a provider of communications test and measurement solutions and optical products for the telecommunications industry. From 2002 to 2004, she served as Senior Vice President and General Manager of the Electro-Optics business at Coherent, Inc., a manufacturer of commercial and scientific laser equipment. Her experience includes her role at Quantum Corporation as the President of the Personal Computer Hard Disk Drive Division. Her experience also includes senior roles at Hewlett-Packard Corporation. She holds a B.S degree in Electrical Engineering from Kansas State University and a B.S. degree in Biology from Santa Clara University.
+
+
+
+
+
+
+
+
+
+
+
+
+Available Information
+
+
+
+Our Annual Report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and, if applicable, amendments to those reports filed or furnished pursuant to Section 13(a) of the Securities Exchange Act of 1934, or the Exchange Act, are available free of charge on or through our web site, http://www.nvidia.com, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission, or the SEC. Our web site and the information on it or connected to it is not a part of this Form 10-K.
+
+
+

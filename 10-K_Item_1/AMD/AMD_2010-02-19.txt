@@ -1,0 +1,662 @@
+ITEM 1.BUSINESS
+
+Cautionary Statement
+Regarding Forward-Looking Statements
+
+For a discussion of the factors that could cause actual results to differ materially from the forward-looking statements, see “Part
+I, Item 1A—Risk Factors” and the “Financial Condition” section set forth in “Part II, Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations,” or MD&A,
+beginning on page 42 below and such other risks and uncertainties as set forth below in this report or detailed in our other Securities and Exchange Commission (SEC) reports and filings. We assume no obligation to update forward-looking statements.
+
+
+
+
+
+
+
+General
+
+We are a global semiconductor company that designs and sells microprocessors, chipsets and graphics processors. Within the global semiconductor industry, we offer primarily:
+
+
+
+(i)x86 microprocessors, for the commercial and consumer markets, embedded microprocessors for commercial, commercial client and consumer markets and chipsets for desktop
+and notebook PCs, professional workstations and servers; and
+
+
+
+(ii)graphics, video and multimedia products for desktop and notebook PCs, including home media PCs, professional workstations and servers and technology for game consoles.
+
+We are one of two companies who design and deliver x86 microprocessors in volume and also one of two companies
+who design and deliver leading-edge 3D graphics. We are the only company who can develop and deliver both of these technologies, and we believe we are well positioned to provide our customers with the variety of computing platforms that they demand.
+
+For financial information about geographic areas and for segment information with respect to revenues and operating results,
+refer to the information set forth in Note 14 of our consolidated financial statements, beginning on page 115 below.
+
+GLOBALFOUNDRIES, Inc.
+
+At the Closing, we also entered into a Shareholders’ Agreement (the Shareholders’ Agreement), a Funding Agreement (the Funding Agreement), and a Wafer Supply Agreement (the Wafer Supply Agreement), with ATIC and GF, certain terms
+of each of which are summarized below.
+
+Shareholders’ Agreement.    The Shareholders’
+Agreement sets forth the rights and obligations of AMD and ATIC as shareholders of GF. We currently have the right to designate three directors. The number of directors a GF shareholder may designate is determined according to the percentage of GF
+shares it owns on a fully diluted basis.
+
+Pursuant to the Shareholders’ Agreement, if a change of control of AMD occurs
+within two years of the consummation of the transaction, ATIC will have the right to put any or all GF securities (valued at their fair market value) held by ATIC and its permitted transferees to us in exchange for cash, or if a change of control of
+AMD occurs after a specified event, ATIC will have the option to purchase in cash any or all GF securities (valued at their fair market value) held by us and our permitted transferees.
+
+
+
+
+
+
+
+Funding Agreement
+
+Wafer Supply Agreement.    The Wafer Supply Agreement governs the
+terms by which we purchase products manufactured by GF. For more information about the Wafer Supply Agreement, please see page 15.
+
+Recent
+Developments
+
+On December 18, 2009, ATIC International Investment Company, or ATIC II, an affiliate of ATIC, acquired
+Chartered Semiconductor Manufacturing Ltd. On December 28, 2009, with our consent, ATIC II, Chartered and GF entered into a Management and Operating Agreement, or MOA, which provides for the joint management and operation of GF and Chartered,
+thereby allowing GF and Chartered to share costs, take advantage of operating synergies and market wafer fabrications services on a collective basis. In order to allow for the signing of the MOA on December 28, 2009 prior to obtaining any
+required regulatory approvals we agreed to irrevocably waive rights under the Shareholders Agreement with respect to certain matters that require unanimous GF board approval. Additionally, if any such matters come before the GF board, we agreed that
+our designated GF directors will vote in the same manner as the majority of ATIC-designated GF board members voting on any such matters. As a result of waiving such approval rights, as of December 28, 2009, for financial reporting purposes we
+no longer shared control with ATIC over GF.
+
+Additional Information
+
+We
+were incorporated under the laws of Delaware on May 1, 1969 and became a publicly held company in 1972. Since 1979 our common stock has been listed on the New York Stock Exchange under the symbol
+
+
+
+
+
+
+
+“AMD.” Our mailing address and executive offices are located at One AMD Place, Sunnyvale, California 94088, and our telephone number is (408) 749-4000. References in this report to
+“AMD,” “we,” “us,” “management,” “our,” or the “Company” means Advanced Micro Devices, Inc. and our consolidated majority-owned subsidiaries and GF and its subsidiaries. However, references
+in the “Business” and “Risk Factors” sections to “AMD,” “we,” “us,” “management,” “our,” or the “Company” do not include GF or its subsidiaries unless specifically
+stated otherwise.
+
+AMD, the AMD Arrow logo, ATI, the ATI logo, AMD Athlon, AMD Opteron, AMD Phenom, AMD PowerNow!, AMD
+Sempron, AMD Turion, Cool‘n’Quiet, Geode, FirePro, Radeon, and combinations thereof are trademarks of Advanced Micro Devices, Inc. Microsoft, Windows, Windows Vista, and DirectX are registered trademarks of Microsoft Corporation in the
+United States and/or other jurisdictions. HyperTransport is a licensed trademark of the HyperTransport Technology Consortium. Other names are for informational purposes only and may be trademarks of their respective owners.
+
+Website Access to Company Reports and Corporate Governance Documents
+
+We post on the Investor Relations pages of our Web site,www.amd.com, a link to our filings with the SEC, our Principles of Corporate Governance, our Code of Ethics for our Chief Executive Officer,
+Chief Financial Officer, Corporate Controller and other senior finance executives, our “Worldwide Standards of Business Conduct,” which applies to our directors and all of our employees, and the charters of our Audit and Finance,
+Compensation and Nominating and Corporate Governance committees of our Board of Directors. Our filings with the SEC are posted as soon as reasonably practical after they are electronically filed with, or furnished to, the SEC. You can also obtain
+copies of these documents by writing to us at: Corporate Secretary, AMD, 7171 Southwest Parkway, M/S 100, Austin, Texas 78735, or emailing us at:Corporate.Secretary@amd.com. All of these documents and filings are available free of charge.
+Please note that information contained on our Web site is not incorporated by reference in, or considered to be a part of, this report.
+
+Our Industry
+
+Semiconductors are components used in a variety of electronic products and systems. An integrated
+circuit, or IC, is a semiconductor device that consists of many interconnected transistors on a single chip. Since the invention of the transistor in 1948, improvements in IC process and design technologies have led to the development of smaller,
+more complex and more reliable ICs at a lower cost per function. In order to satisfy the demand for faster, smaller and lower-cost ICs, semiconductor manufacturers have continually developed improvements in manufacturing and process technology. ICs
+are increasingly being manufactured using smaller geometries on larger silicon wafers. Use of smaller process geometries can result in products that are higher performing, use less power and cost less to manufacture on a per unit basis.
+
+As a result of the credit market crisis in 2008 and other macroeconomic challenges affecting the global economy, end user demand for PCs
+and servers, and therefore ICs, decreased significantly in the first half of 2009. Although end-user PC demand stabilized in the second half of 2009, end-customers continue to demand value-priced products.
+
+Computing Solutions
+
+The x86
+Microprocessor Market
+
+A microprocessor is an IC that serves as the central processing unit, or CPU, of a computer. It
+generally consists of millions of transistors that process data and control other devices in the system, acting as the brain of the computer. The performance of a microprocessor is a critical factor impacting the performance of a computer and
+numerous other electronic systems. The principal indicators of CPU performance are work-per-cycle, or how many instructions are executed per cycle, clock speed, representing the rate at which a CPU’s internal logic operates, measured in units
+of hertz, or cycles per second, and power consumption. Other factors impacting microprocessor performance include the number of CPUs, or cores, on a microprocessor, the bit rating of the microprocessor, memory size and data access speed.
+
+
+
+
+
+
+
+Developments in circuit design and manufacturing process technologies have resulted in
+significant advances in microprocessor performance. Currently, microprocessors are designed to process 32-bits or 64-bits of information at one time. The bit rating of a microprocessor generally denotes the largest size of numerical data that a
+microprocessor can handle. Microprocessors with 64-bit processing capabilities enable systems to have greater performance by allowing software applications and operating systems to access more memory.
+
+Moreover, as businesses and consumers require greater performance from their computer systems due to the exponential growth of digital data
+and increasingly sophisticated software applications, semiconductor companies are designing and developing multi-core microprocessors, where multiple processor cores are placed on a single die or in a single processor. Multi-core microprocessors
+offer enhanced overall system performance and efficiency because computing tasks can be spread across two or more processing cores each of which can execute a task at full speed. Moreover, multiple processor cores packaged together can increase
+performance of a computer system without greatly increasing the total amount of power consumed and the total amount of heat emitted. This type of “symmetrical multiprocessing” is effective in both multi-tasking environments where multiple
+cores can enable operating systems to prioritize and manage tasks from multiple software applications simultaneously and also for “multi-threaded” software applications where multiple cores can process different parts of the software
+program, or “threads,” simultaneously thereby enhancing performance of the application. Businesses and consumers also require computer systems with improved power management technology, which allows them to reduce the power consumption of
+their computer systems thereby reducing the total cost of ownership.
+
+While general purpose computer architectures based on
+the x86 architecture are sufficient for a large portion of customers, for selected applications, an architecture that enables the ideal resource to be used for a given workload can provide a substantial improvement in user experience, performance
+and energy efficiency. In this environment, we believe our vision of “heterogeneous computing” and an accelerated computing architecture can benefit customers. Heterogeneous computing refers to computer systems that rely on multiple
+computational units such as the CPU and the GPU. An accelerated computing architecture enables “offloading” of selected tasks, thereby optimizing the use of a CPU or GPU, depending on the application or workload. For example, serial
+workloads are better suited for CPUs while highly parallel tasks may be better performed by a GPU. Our vision for an accelerated computing architecture is that the CPU and GPU components are combined onto a single piece of silicon, which we refer to
+as an AMD Fusion Accelerated Processing Unit (or APU). We believe that high performance computing workloads, workloads that are visual in nature and even traditional applications such as photo and video editing or other multi-media applications
+stand to benefit from our accelerated computing architecture and heterogeneous computing approach.
+
+Microprocessor Products
+
+We currently offer microprocessor products for servers, workstations, notebooks and desktop PCs. We base our microprocessors
+and chipsets on the x86 instruction set architecture and AMD’s Direct Connect Architecture, which connects an on-chip memory controller and input/output, or I/O, channels directly to one or more microprocessor cores. We typically integrate two
+or more processor cores onto a single die, and each core has its own dedicated cache, which is memory that is located on the semiconductor die, permitting quicker access to frequently used data and instructions. Some of our microprocessors have
+additional levels of cache such as L2, or second level cache, and L3, or third level cache, to enable faster data access and higher performance.
+
+Our processors and chipsets support multiple generations of HyperTransport™ technology, which is a high-bandwidth communications interface that enables higher levels of multi-processor performance
+and scalability over traditional front side bus-based microprocessor technology. Energy efficiency and power consumption continue to be key design principles for our products. We focus on continually improving power management technology, or
+“performance-per-watt.” To that end, we offer processors and chipsets with features that are designed to reduce system level energy consumption, with multiple levels of lower clock speed and voltage states that can significantly reduce
+processor power consumption during idle times. We design our microprocessors to be compatible with operating system software such as the Microsoft®Windows®family of operating
+systems, Linux®, NetWare®, Solaris and UNIX.
+
+
+
+
+
+
+
+Our microprocessors and chipsets are incorporated into computing platforms that also include
+graphics processing units, or GPUs, and core software. A platform is a collection of technologies that are designed to work together to provide a more complete computing solution. We believe that integrated, balanced platforms consisting of CPUs,
+GPUs, and chipsets that work together at the system level bring end users improved system stability, increased performance and enhanced power efficiency. Also, by offering our customers an all-AMD platform, we are able to provide them with a single
+point of contact for the key platform components and enable them to bring the platforms to market faster in a variety of client and server system form factors.
+
+Server and Workstation.Our microprocessors for servers and workstation platforms
+consist primarily of our six-core, quad-core and dual-core AMD Opteron™processors. A server is a system that performs services for connected clients as part of a client-server architecture. Servers are designed to run an application or applications, often for extended
+periods of time with minimal human direction. Examples of servers include web servers, e-mail servers, database services, file servers and print servers. A workstation is a high-end PC, designed for technical applications such as computer-aided
+design and digital content creation. Workstations usually offer higher performance than is normally seen on a PC, especially with respect to graphics, processing power, memory capacity and multitasking activity.
+
+In June 2009, we introduced our six-core server processor with Direct Connect Architecture for two-, four- and eight-socket servers. These
+processors incorporated six processor cores on a single die of silicon and added a 6MB shared L3 cache. The increased cache helps increase the speed of memory-intensive applications. Our new six-core AMD Opteron processors are more energy efficient
+than our previous generation quad-core processors. Furthermore, the six-core AMD Opteron processors leverage existing platform infrastructure and a low-cost, power-efficient DDR-2 memory architecture, a memory technology used for high speed storage
+of working data, which can help lower system acquisition costs for end users. High performance computing (HPC), virtualization and database workloads can also benefit from the increased memory bandwidth enabled by HyperTransport™ technology and
+HT Assist, which helps reduce processor to processor latency and traffic. Finally, AMD Virtualization™ (AMD-V™) technology and the AMD-P suite of power management features are available across all performance and power bands, so that our
+customers do not have to compromise on saving power in order to obtain the highest performing product.
+
+Client
+Notebook.There has been a shift in consumer demand towards thinner and lighter notebook platforms with longer battery life. To participate in this market shift, we are increasing our investment in low power notebook
+platforms. In January 2009, we launched the “Yukon” platform, which was our code name for our first generation ultrathin notebook platform. The Yukon platform incorporates the AMD Athlon Neo processor with ATI Radeon™ X1250 integrated
+graphics and ATI Mobility Radeon™ HD 3410 discrete graphics. The Yukon platform offers a complete PC experience at lower price points. Our second generation
+
+
+
+
+
+
+
+AMD Ultrathin notebook platform launched in September 2009 incorporates the AMD Turion™ Neo X2 Dual-Core Processor. This platform provides up to six hours of resting battery life and
+superior video performance.
+
+Our microprocessors for notebook PC platforms consist of the AMD Turion™ X2 Mobile
+Processor, AMD Turion X2 Ultra Mobile Processor, AMD Turion™ Neo X2 Mobile Processor, Mobile AMD Sempron™ processor, and the AMD Athlon™ Neo and AMD Athlon Neo X2 processors. We design our mobile processor products for high
+performance, long battery life and wireless support.
+
+AMD Turion X2 Ultra Mobile Processors are our most
+advanced dual-core processor family for notebook PCs. This technology supports leading-edge graphics for the visual experience provided by the Windows®7 operating system, long battery life, and enhanced security and compatibility with the latest wireless technologies and graphics solutions. In addition, the process
+used to manufacture AMD Turion X2 Ultra Mobile Processors results in a thermally efficient processor and low power consumption.
+
+Client Desktop.Our microprocessors for desktop PC platforms consist primarily of the following tiered product brands: AMD Phenom™ II, AMD Phenom, AMD Athlon II, AMD Athlon X2, AMD Athlon and AMD
+Sempron processors. All AMD desktop microprocessors are based on AMD Direct Connect Architecture.
+
+In January 2009, we
+introduced a desktop platform product codenamed “Dragon.” The Dragon platform is a combination of the AMD Phenom II X4 microprocessor, the ATI Radeon HD 4800 series graphics processor and the AMD 7-Series chipset. The Dragon platform
+provides enthusiasts, gamers and other demanding users with an affordable system capable of delivering a graphic-intensive gaming experience. The Dragon platform works with existing DDR2 memory infrastructures and is designed to work with the
+upcoming DDR3 memory that is transitioning into the marketplace. We refreshed the Dragon platform in April 2009 to include the new AMD Phenom II X4 955 Black Edition processor, ATI Radeon™ HD 4890 graphics card and AMD 7-Series chipsets.
+
+In January 2009, we introduced the AMD Phenom II 9000 series of microprocessors. The AMD Phenom II 9000 processors are true
+quad-core processors designed for high performance desktop PCs. The true quad-core design enables cores to communicate on the die rather than through a front side bus external to the processor, thereby reducing a bottleneck inherent in other
+competing x86 architectures. Additionally, our Direct Connect Architecture allows all four cores to have optimum access to the integrated memory controller and integrated HyperTransport links, so that performance scales well with the number of
+cores. This design also incorporates a shared L3 cache for quicker data access and enables end users to upgrade from dual-core systems. In addition, AMD Phenom II microprocessors also feature Cool’n’Quiet 3.0 technology that we designed to
+enhance energy efficiency.
+
+We design the AMD Athlon processors for advanced multitasking on mainstream desktop PCs, and they
+are currently available with single or dual-core technology. Refreshes of AMD Athlon X2 product occurred in April and June of 2009, marking the ten year anniversary of the AMD Athlon product family. We designed the AMD Athlon dual-core processors
+for users who run software applications, such as productivity applications, multimedia applications and basic content creation, simultaneously. With AMD Athlon dual-core processors, for example, an end-user may be able to perform multiple tasks with
+uninterrupted performance. In addition, AMD Athlon dual-core processors enable systems to have the ability to simultaneously download audio files such as MP3s, record to digital media devices, check and write email and edit a digital photo, all
+without compromising performance.
+
+We design AMD Sempron processors for everyday computing and provide performance for
+entry-level productivity and entertainment software for the mainstream segment.
+
+Embedded Processor Products
+
+Our embedded products address customer needs in PC-adjacent markets. Typically our embedded products are used in applications that require
+high to moderate levels of performance where key features include low cost,
+
+
+
+
+
+
+
+mobility, low power and small form factor. Customers of our embedded products include vendors in industrial controls, digital signage, point of sale/self-service kiosks, and casino gaming
+machines as well as enterprise class telecommunications, networking and storage systems.
+
+The embedded market has moved from
+developing proprietary, custom designs to leveraging the industry-standard x86 instruction set architecture as a way to reduce costs and speed time to market. Emerging requirements for these systems include: very low power for small enclosures and
+24x7 operation, support for Linux, Windows and other operating systems, and high-performance for increasingly sophisticated applications. Other requirements include advanced specifications for industrial temperatures, shock and vibration, and
+reliability.
+
+Our embedded products include options from the AMD Opteron, AMD Athlon, AMD Turion, and AMD Sempron processor
+families; the ATI Radeon graphics processor family; and numerous AMD chipsets. These products are part of the AMD Longevity Program, which provides for an availability period of five years in order to support lengthy development and qualification
+cycles and long-term life of the system in the market.
+
+In June 2009, we introduced two new embedded client products: the
+dual-core AMD Turion™ Neo X2 processor and the AMD Athlon™ Neo X2 processor. These processors deliver PC-caliber performance in a very low power envelope with an embedded-friendly ball grid array (BGA) package and are used in traditional
+embedded applications such as single board computing and thin client systems, as well as self-service kiosks, point of sale machines and digital signage. The BGA package helps alleviate potential reliability issues for systems that are deployed in
+rugged environments and has a low z-height that we designed to enable thin, compact enclosures.
+
+In September 2009, we
+announced a new enterprise-class embedded platform based on the 45 nm Quad-Core AMD Opteron processor and the new AMD SR5690 chipset, allowing high-end embedded vendors to enable increased performance-per-watt for edge-of-network systems such as
+telecom/datacom, storage, and security servers, and routers and switches. This platform enables increased performance for virtualized and multi-threaded embedded applications and advanced power management features.
+
+Chipset Market
+
+The
+chipset sends data between the microprocessor and input, display and storage devices, such as the keyboard, mouse, monitor, hard drive and CD or DVD drive. Chipsets perform essential logic functions, such as balancing the performance of the system
+and removing bottlenecks. Chipsets also extend the graphics, audio, video and other capabilities of computer systems. All desktop, notebook and server PCs incorporate a chipset. In many PCs, the chipset is integrated with additional functions such
+as a GPU. An integrated chipset solution is commonly known as an IGP (integrated graphics processor) chipset. Chipsets that do not integrate a graphics core are referred to as discrete chipsets. By eliminating the need for a discrete GPU, IGP
+chipsets offer a lower cost solution and in some circumstances can offer reduced power consumption or smaller system form factors. A majority of desktop and notebook PCs make use of IGP chipsets, while discrete chipsets are used in higher
+performance PCs and servers.
+
+Chipset Products
+
+Our portfolio of chipset products includes IGP and discrete chipsets targeting desktop, notebook and embedded computing segments. In August 2009, we introduced the AMD-785G chipset for notebooks with ATI
+Radeon HD 4200 integrated graphics. Like their predecessors launched in 2008, these chipsets directly integrate support for the High Definition Multimedia Interface (HDMI) and Digital Visual Interface (DVI) digital display standards used in many
+flat panel monitors and HD televisions.
+
+
+
+
+
+
+
+Graphics Products
+
+Graphics Market
+
+The semiconductor graphics market addresses the
+need for visual processing in various computing and entertainment platforms such as desktop PCs, notebook PCs and workstations. Users of these products value a rich visual experience, particularly in the high-end enthusiast market where consumers
+seek out the fastest and highest performing visual processing products to deliver the most compelling and immersive gaming experiences. Moreover, for many consumers, the PC is evolving from a traditional data and communications processing machine to
+an entertainment platform. Visual realism and graphical display capabilities are key elements of product differentiation among various product platforms. This has led to the increasing creation and use of processing intensive multimedia content for
+PCs and to PC manufacturers creating more PCs designed for playing games, displaying photos and capturing TV and other multimedia content creating more PCs designed for playing games, viewing online videos, photo editing and managing digital
+content. In turn, the trend has contributed to the development of higher performance graphics solutions.
+
+The primary product
+of a semiconductor graphics supplier is the GPU. The GPU off-loads the burden of graphics processing from the CPU. In this way, a dedicated GPU and CPU work in tandem to increase overall speed and performance of the system. A graphics solution can
+be in the form of either a stand-alone graphics chip or an integrated chipset solution. To further improve graphics processing performance, semiconductor graphics suppliers have introduced multi-GPU technologies that increase graphics processing
+speed by dividing graphics rendering and display capability among two or more graphics processors. At the same time that the visual experience is growing in importance, semiconductor graphics suppliers are recognizing the potential of leveraging the
+GPU’s computing capabilities to accelerate certain workloads.
+
+Graphics Products
+
+Our customers generally use our graphics to increase the speed of rendering images and to improve image resolution and
+color definition. Our products include 3D graphics and video and multimedia products developed for use in desktop and notebook PCs, including home media PCs, professional workstations and servers. With each of our graphics products, we provide
+drivers and supporting software packages that enable the effective use of these products under a variety of operating systems and applications. Our latest generation of graphics products and related software offer full support for the Microsoft®Windows 7®operating system. In addition to the Microsoft®Windows®family of operating
+systems, our graphics products support Apple’s Mac OS X, as well as Linux®-based applications.
+
+Heavy computational workloads have traditionally been processed on a CPU, but we believe that the industry is
+shifting to a new computing paradigm that relies more on the GPU or a combination of GPU and CPU. Stream technology or GPGPU (General Purpose GPU) refers to a set of advanced hardware and software technologies that enable AMD GPUs, working in
+concert with the computer system’s CPUs, to accelerate applications beyond traditional graphics and video processing by allowing the CPUs and GPUs to process information cooperatively. Heterogeneous computing enables PCs and servers to run
+computationally-intensive tasks more efficiently, providing a superior application experience to the end user. In addition, our latest generation of graphics products offers full support for the Microsoft DirectX®11 and OpenCL application programming interface standards which enable the handling of key multimedia tasks such as
+gaming programming and video. OpenCL is the widely adopted industry standard for running parallel tasks on CPUs and GPUs using the same code. As the only hardware provider in the industry designing and delivering both high-performance CPU and GPU
+technologies, AMD is also the only company providing a complete OpenCL development platform for the entire system.
+
+Discrete Desktop Graphics.Our discrete GPUs for desktop PCs include the ATI Radeon HD 5700 and 5800 series of products targeting the enthusiast and performance segments of the desktop PC market as well
+as other ATI Radeon Premium graphics series targeting the mainstream and value segments. In September 2009, we
+
+
+
+
+
+
+
+launched the ATI Radeon HD 5850 and 5870 each with 1GB GDDR5 memory. With the ATI Radeon™ HD 5800 series of graphics cards, PC users can expand their computing experience with ATI Eyefinity
+multi-display technology and accelerate their computing experience with ATI Stream technology. ATI Eyefinity is a technology that allows a game to be played seamlessly across multiple screens in a panoramic view with minimal distortion by allowing
+up to six monitors to be connected to one graphics card. In November 2009, we released the ATI Radeon™ HD 5970. Combined with the AMD Phenom II processor and the AMD 7-series chipset, this GPU further bolsters the capability of the
+“Dragon” performance desktop platform.
+
+With the availability of Microsoft®Windows 7™ and Microsoft DirectX™ 11, HD video standards like Blu-ray™ and the availability of PCI
+Express 2.0, graphics capability is becoming an increasingly important aspect of a computer system.
+
+Discrete Notebook
+Graphics.When selecting a graphics solution, key considerations for notebook PC manufacturers are visual performance, power consumption, form factor and cost. In January 2009, we launched our next generation of
+graphics processors for notebooks, the ATI Mobility Radeon HD 4000 series of products. These products bring the power of desktop graphics to mobile users, allowing users to have life-like gaming experience, watch Blu-ray movies and play HD content
+with high visual fidelity while maintaining energy efficiency with ATI PowerPlay™ power management technology for long battery life. The ATI Mobility Radeon HD 4000 series support multi-GPU hybrid graphics, external graphics capabilities and
+Microsoft DirectX™ 10.1. This product line includes the ATI Mobility Radeon HD 4800 series for gaming enthusiasts, the ATI Mobility Radeon HD 4600 for multimedia performance notebooks, the ATI Mobility Radeon HD 4500 for mainstream notebooks
+and ATI Mobility Radeon HD 4300 for value and ultra-thin notebooks. These GPUs offer HDMI video and audio support, reduce CPU utilization, extend battery life and improve the visual quality of HD video playback, such as from Blu-ray disc drives.
+
+Professional Graphics.Our products for the professional workstation
+market consist of our ATI FirePro™, ATI FireGL™ and FireMV™ product families. We designed our FirePro3D and ATI FireGL graphics cards for demanding 3D applications such as computer-aided design and digital content creation, with
+drivers specifically tuned for maximum stability and reliability across a wide range of software packages. We designed our ATI FirePro Multiview and FireMV 2D workstation cards for financial and corporate environments. We also provide products for
+the server market, where we leverage our graphics expertise and align our offerings to provide stability, video quality and bus architectures that our server customers desire. Through our ATI CrossFireTMPro, we enable computer aided designers and digital content creators to connect two identical ATI
+FirePro™ 3D graphics cards with a flex cable connection that can boost performance of geometry-limited applications.
+
+FireStream Processors.We designed our AMD FireStream™ series of products to utilize the parallel processing power of the GPU for heavy floating point computations and to better meet the
+requirements of various industries, such as the high-performance computing, scientific and financial resources sectors.
+
+Game Consoles.    Semiconductor graphics suppliers have leveraged their core visual and graphics processing technologies developed for the PC market by providing graphic
+solutions to game console manufacturers. In this market, semiconductor graphics suppliers work alongside game console manufacturers to enhance the visual experience for users of sophisticated video games. We leverage our core visual processing
+technology into the game console market by providing customized GPUs for graphics in the Microsoft®Xbox
+360™and Nintendo Wii videogame consoles.
+
+Marketing and Sales
+
+We sell our products through our direct sales force and through independent distributors and sales representatives in both domestic and
+international markets pursuant to non-exclusive agreements. Our sales arrangements generally operate on the basis of product forecasts provided by the particular customer, but do not
+
+
+
+
+
+
+
+typically include any commitment or requirement for minimum product purchases. We primarily use purchase orders, sales order acknowledgments and contractual agreements as evidence of our
+sales arrangements. Our agreements typically contain standard terms and conditions covering matters such as payment terms, warranties and indemnities for issues specific to our products.
+
+We generally warrant that our microprocessors, GPUs, and chipsets sold to our customers will conform to our approved specifications and be
+free from defects in material and workmanship under normal use and service for one year. Subject to certain exceptions, we generally offer a three-year limited warranty to end users for microprocessor products that are commonly referred to as
+“processors in a box” and for ATI branded PC workstation products. We have also offered extended limited warranties to certain customers of “tray” microprocessor products and/or workstation graphics products who have written
+agreements with us and target their computer systems at the commercial and/or embedded markets.
+
+We market and sell our
+microprocessor and embedded processor products under the AMD trademark. Our desktop PC product brands for microprocessors are AMD Phenom, AMD Athlon and AMD Sempron. Our Notebook PC brands for microprocessors are AMD Turion, AMD Athlon and AMD
+Sempron. AMD Athlon processors and AMD Turion processors are sometimes marketed using the “Neo” model designator. Our server and workstation brand for microprocessors is AMD Opteron. We also sell low-power versions of our AMD Opteron, AMD
+Athlon, AMD Turion and AMD Sempron processors as embedded processor solutions. We market and sell our chipsets under the AMD trademark. However, if the chipset contains an integrated graphics processor, this integrated processor is marketed under
+the ATI trademark.
+
+We market and sell GPUs for the consumer and professional markets under the ATI trademark. Our
+product brands for professional markets are ATI FirePro, ATI FireGL and ATI FireMV. Our product brand for the consumer graphics market is ATI Radeon.
+
+In September 2009, we announced the VISION Technology from AMD campaign. VISION Technology is designed to simplify the buying process for consumers by more clearly connecting our brand to the level of
+activities that consumers want to perform on the PC. VISION Technology contains three levels of increasingly rich PC system capabilities: VISION Basic; VISION Premium; and VISION Ultimate to reflect the different usage patterns of PC consumers,
+from digital consumption to content creation. For example, notebook PCs based on VISION Basic technology support activities such as watching movies, playing games, listening to music or surfing the Internet while notebooks based on VISION Premium
+technology enable HD movie content and higher quality gaming, and notebooks based on VISION Ultimate technology enable users to create rich HD content. In January 2010, we introduced VISION Pro Technology. Designed for business users, VISION
+Pro Technology extends the approach of VISION Technology to commercial PC platforms. We launched the first notebook PC models based on VISION Pro Technology in January 2010. Also, in the first quarter of 2010, we plan to introduce a fourth level,
+VISION Black, to enable the highest end capabilities sought by enthusiasts, primarily on desktop PCs.
+
+We market our products
+through our direct marketing and co-marketing programs. In addition, we have cooperative advertising and marketing programs with customers or third parties, including market development programs, pursuant to which we may provide product information,
+training, marketing materials and funds. Under our marketing development programs, eligible customers can use market development funds as partial reimbursement for advertisements and marketing programs related to our products, subject to meeting
+defined criteria. Original Equipment Manufacturers, or OEM, customers may qualify for market development funds based on purchases of eligible products.
+
+Customers
+
+Our microprocessor customers consist primarily of OEMs, original
+design manufacturers, or ODMs, and third-party distributors in both domestic and international markets. ODMs provide design and/or manufacturing
+
+
+
+
+
+
+
+services to branded and unbranded private label resellers and OEMs. Our graphics products customers include the foregoing as well as add-in-board manufacturers, or AIB manufacturers.
+
+Customers of our chipset products consist of PC OEMs, often through ODMs or other contract manufacturers who build the OEM motherboards,
+as well as desktop motherboard manufacturers who incorporate chipsets into their channel motherboards.
+
+Our sales and
+marketing teams work closely with our customers to define product features, performance and timing of new products so that the products we are developing meet the needs of our customers. We also employ application engineers to assist our customers
+in designing, testing and qualifying system designs that incorporate our products in order to assist in optimizing product compatibility. We believe that our commitment to customer service and design support improves our customers’
+time-to-market and fosters relationships that encourage customers to use the next generation of our products.
+
+Original Equipment
+Manufacturers
+
+We focus on three types of OEMs: multi-nationals, selected regional accounts and target market
+customers. Large multi-nationals and regional accounts are our core OEM customers. Our OEM customers include numerous foreign and domestic manufacturers of servers and workstations, desktop and notebook PCs, and PC motherboards. Under our standard
+terms and conditions, OEMs do not have a right to return our products other than pursuant to the standard limited warranty.
+
+In 2009, Hewlett-Packard Company accounted for more than 10 percent of our consolidated net revenues. Sales to Hewlett-Packard consisted primarily of products from our Computing Solutions segment. Five customers, including Hewlett-Packard,
+accounted for approximately 56 percent of the net revenue attributable to our Computing Solutions segment. In addition, five customers accounted for approximately 52 percent of the net revenue attributable to our Graphics segment. A loss of any of
+these customers could have a material adverse effect on our business.
+
+Third-Party Distributors
+
+Our authorized distributors resell to sub-distributors and mid-sized and smaller OEMs and ODMs. Typically, distributors handle a wide variety
+of products, including those that compete with our products. Distributors typically maintain an inventory of our products. In most instances, our agreements with distributors protect their inventory of our products against price reductions and
+provide return rights with respect to any product that we have removed from our price book that is not more than twelve months older than the manufacturing code date. In addition, some agreements with our distributors may contain standard stock
+rotation provisions permitting limited levels of product returns.
+
+AIB Manufacturers and System Integrators
+
+We strive to establish and broaden our relationships with AIB manufacturers. We offer component-level graphics and chipset products to AIB
+manufacturers who in turn build and sell board-level products using our technology to system integrators, or SIs, and at retail. We also sell directly to our SI customers. SIs typically sell from positions of regional or product-based strength in
+the market. They usually operate on short design cycles and can respond quickly with new technologies. SIs often use discrete graphics solutions as a means to differentiate their products and add value to their customers.
+
+Competition
+
+Generally, the
+IC industry is intensely competitive. Products typically compete on product quality, power consumption, reliability, performance, size (or form factor), cost, selling price, adherence to industry standards,
+
+
+
+
+
+
+
+software and hardware compatibility and stability, brand recognition, timely product introductions and availability. Technological advances in the industry result in frequent product
+introductions, regular price reductions, short product life cycles and increased product capabilities that may result in significant performance improvements. Our ability to compete depends on our ability to develop, introduce and sell new products
+or enhanced versions of existing products on a timely basis and at competitive prices, while reducing our costs.
+
+Competition in the
+Microprocessor Market
+
+Intel Corporation has dominated the market for microprocessors for many years. Intel’s
+market power and significant financial resources enable it to market its products aggressively, to target our customers and our channel partners with special incentives and to discipline customers who do business with us. These aggressive activities
+have in the past and are likely in the future to result in lower unit sales and a lower average selling price for our products, and adversely affect our margins and profitability.
+
+Intel exerts substantial influence over computer manufacturers and their channels of distribution through various brand and marketing
+programs. Because of its dominant position in the microprocessor market, Intel has been able to control x86 microprocessor and computer system standards and to dictate the type of products the microprocessor market requires of us. Intel also
+dominates the computer system platform, which includes core logic chipsets, integrated graphics chips, motherboards and other components necessary to assemble a computer system. As a result, OEMs that purchase microprocessors for computer systems
+are highly dependent on Intel, less innovative on their own and, in some cases, are essentially distributors of Intel technology. Additionally, Intel is able to drive de facto standards for x86 microprocessors that could cause us and other companies
+to have delayed access to such standards.
+
+As long as Intel remains in this dominant position, we may be materially adversely
+affected by Intel’s:
+
+
+
+•business practices, including rebating, and allocation strategies and pricing actions, designed to limit our market share;
+
+
+
+•product mix and introduction schedules;
+
+
+
+•product bundling, marketing and merchandising strategies;
+
+
+
+•exclusivity payments to its current and potential customers;
+
+
+
+•control over industry standards, PC manufacturers and other PC industry participants, including motherboard, memory, chipset and basic input/output
+system, or BIOS, suppliers and software companies as well as the graphics interface for Intel platforms; and
+
+
+
+•marketing and advertising expenditures in support of positioning the Intel brand over the brand of its OEM customers.
+
+Intel has substantially greater financial resources than we do and accordingly spends substantially greater amounts on research and
+development and production capacity than we do. We expect Intel to maintain its dominant position and to continue to invest heavily in marketing, research and development, new manufacturing facilities and other technology companies. To the extent
+Intel manufactures a significantly larger portion of its microprocessor products using more advanced process technologies, or introduces competitive new products into the market before we do, we may be more vulnerable to Intel’s aggressive
+marketing and pricing strategies for microprocessor products. For example, Intel is transitioning to 32 nm process technology before us. Using more advanced process technology can contribute to lower product manufacturing costs and improve a
+product’s performance and power efficiency. We expect intense competition from Intel to continue.
+
+In November 2009,
+Intel and AMD announced a comprehensive agreement to end all outstanding legal disputes between the companies, including antitrust litigation and patent cross license disputes. Under terms of the agreement, AMD and Intel obtain patent rights from a
+new 5-year cross license agreement, Intel and AMD
+
+
+
+
+
+
+
+gave up any claims of breach from the previous license agreement, and Intel paid us $1.25 billion. Intel has also agreed to abide by a set of business practice provisions. As a result, we dropped
+all pending litigation including the case in U.S. District Court in Delaware and two cases pending in Japan. We also withdrew all of our regulatory complaints worldwide. See “Item 3—Legal Proceedings” for more information.
+
+Other potential competitors include ARM Ltd., whose product offerings are used in the mobile and embedded electronics market as
+relatively low cost and small microprocessors, and also in form factors that offer an alternative to mainstream PCs such as netbooks and tablets.
+
+Competition in the Chipset Market
+
+In the chipset market, our competitors include suppliers of
+integrated graphics chipsets. PC manufacturers are increasingly choosing to use integrated chipsets, particularly for notebook computers, over discrete GPUs because integrated chipsets can cost significantly less than discrete GPUs while offering
+acceptable graphics performance for most mainstream PC users. Intel Corporation manufactures and sells integrated graphics chipsets bundled with their microprocessors and is a dominant competitor in this market.
+
+Competition in the Graphics Market
+
+In the graphics market, our competitors include integrated graphics and discrete graphics suppliers. Intel manufactures and sells integrated graphics chipsets bundled with their microprocessors and is a
+dominant competitor with respect to this portion of our business. Intel could leverage its dominance in the microprocessor market to sell its integrated chipsets. Moreover, computer manufacturers are increasingly using integrated graphics chipsets,
+particularly for notebooks, because they cost less than traditional discrete graphics components while offering reasonably good graphics performance for most mainstream PCs.
+
+Intel could take actions that place our discrete GPUs and integrated chipsets at a competitive disadvantage such as giving one or more of
+our competitors in the graphics market, such as Nvidia Corporation, preferential access to its proprietary graphics interface or other useful information.
+
+Other than Intel, our principal competitor is Nvidia Corporation and to a lesser extent, Matrox Electronic Systems Ltd., Silicon Integrated Systems Corp. and Via Technologies, Inc. Along with AMD, Nvidia
+Corporation is the dominant player in discrete graphics solutions. Other competitors include a number of smaller companies, which may have greater flexibility to address specific market needs, but lesser financial resources to do so, especially
+as we believe that the growing complexity of visual processors and the associated research and development costs represent an increasingly high barrier to entry in this market.
+
+In the game console category, we compete primarily against Nvidia Corporation. Other competitors include Intel Corporation and IBM.
+
+Research and Development
+
+We focus our research and development activities on improving and enhancing both product design and process technology. One main area of focus is on delivering the next generation of microprocessors with
+improved system performance and performance-per-watt characteristics. For example, we are focusing on improving the battery life of our microprocessors for notebook PCs and the power efficiency of our microprocessors for servers. We are also
+focusing on delivering a range of low power integrated platforms to serve key markets, including commercial clients, mobile computing, and gaming and media computing. We believe that these integrated platforms will bring customers better
+time-to-market and increased performance and energy efficiency. Longer-term, our research and development efforts are focused on implementing our vision of heterogeneous computing and the accelerated computing architecture in support of AMD Fusion.
+This includes greater system level integration of the CPU and GPU. We also work with other industry leaders on process
+
+
+
+
+
+
+
+technology, software and other functional intellectual property such as wired and wireless networking, and we work with others in the industry, public foundations, universities and industry
+consortia to conduct early stage research and development.
+
+Our research and development expenses (including GF research and
+development expenses) for 2009, 2008, and 2007 were approximately $1.7 billion, $1.8 billion and $1.8 billion. For more information, see Part II, Item 7—“Management’s Discussion and Analysis of Financial Condition and Results of
+Operations,” or MD&A.
+
+We conduct product and system research and development activities for our products in the
+United States with additional design and development engineering teams located in Canada, India, Germany, Singapore, China, Japan, Malaysia, and Taiwan.
+
+Prior to the formation of GF in March 2009, we conducted microprocessor manufacturing process development activities primarily through a joint development agreement with IBM. Under this Joint Development
+Agreement or JDA, we jointly conducted development activities on new process technologies, including 45 nm, 32 nm, 22 nm and certain other advanced technologies, to be implemented on silicon wafers. Our relationship also included laboratory-based
+research of emerging technologies such as new transistor, interconnect, lithography and die-to-package connection technologies. We paid fees to IBM for joint development projects and we agreed to pay IBM royalties upon the occurrence of specified
+events, including in the event that we sublicensed the jointly developed process technologies to specified third parties or if we bumped wafers for a third party. Bumping wafers is one of the final stages of the manufacturing process in which wafers
+are prepared for assembly and test. The JDA was assigned to GF in March 2009. For more information on the fees paid to IBM, see “Part II, Item 7, MD&A—Contractual Obligations—Purchase Obligations.”
+
+Manufacturing, Assembly and Test Facilities
+
+The Wafer Supply Agreement terminates
+no later than February 2024. The Wafer Supply Agreement may also be terminated if and when a business plan deadlock with GF exists and ATIC elects to enter into a transition period pursuant to the Funding Agreement. GF agreed to use commercially
+reasonable efforts to assist us to transition the supply of products to another provider and continue to fulfill purchase orders for up to two years following the termination or expiration of the Wafer Supply Agreement. During the transition period,
+pricing for microprocessor products will remain as set forth in the Wafer Supply Agreement, but our purchase commitments to GF will no longer apply.
+
+
+
+
+
+
+
+GF manufactures our microprocessor products at its facilities in Germany primarily on 45 nm
+and 65 nm process technology. We also have foundry arrangements with third parties for the production of our embedded processors, chipset products and graphics products.
+
+With respect to our graphics and chipset products, we primarily work with Taiwan Semiconductor Manufacturing Company (TSMC). Currently, we are in volume production in TSMC’s 300 millimeter
+fabrication facilities where our graphics and chipsets are manufactured on 40 nm, 55 nm, 65 nm, 80 nm, 90 nm, 110 nm, or 130 nm process technologies at third-party foundries. Smaller process geometries can lead to gains in graphics processing
+performance, lower power consumption and lower per unit manufacturing costs. We are currently in the process of qualifying 28 nm process technology for certain products.
+
+We outsource board-level graphics product manufacturing to third-party manufacturers. These include Foxconn and PC Partner with locations in China. Our facility in Markham, Ontario, Canada is primarily
+devoted to prototyping for new graphics product introductions.
+
+Although we currently purchase substantially all of our
+microprocessor wafers from GF pursuant to the terms of a Wafer Supply Agreement, we own and operate three microprocessor assembly and test facilities. Our microprocessor assembly and test facilities are described in the chart set forth below:
+
+
+
+Facility LocationApproximateManufacturingArea SquareFootageActivityPenang, Malaysia206,000AssemblySingapore380,000Test, Mark & PackagingSuzhou, China44,000Test, Mark & Packaging
+
+Some assembly and final testing of our microprocessor and embedded processor products is performed by subcontractors in the United States and Asia.
+
+Wafers for our graphics products are delivered from the third party foundry to our test, assembly and packaging partners, which include
+Advanced Semiconductor Engineering Group, Amkor, King Yuan Electronics, Siliconware Precision Industries and STATS-Chippac, who package and test the final application-specific integrated circuit.
+
+Intellectual Property and Licensing
+
+We rely on contracts and intellectual property rights to protect our products and technologies from unauthorized third-party copying and use. Intellectual property rights include copyrights, patents, patent applications, trademarks, trade
+secrets and maskwork rights. As of December 26, 2009, we had more than approximately 4,000 patents in the United States and approximately 1,300 patent applications pending in the United States. In certain cases, we have filed corresponding
+applications in foreign jurisdictions. We expect to file future patent applications in both the United States and abroad on significant inventions, as we deem appropriate. We do not believe that any individual patent, or the expiration thereof, is
+or would be material to our business.
+
+As is typical in the semiconductor industry, we have numerous cross-licensing and
+technology exchange agreements with other companies under which we both transfer and receive technology and intellectual property rights. One such agreement is the cross-license agreement that we entered into with Intel on November 11,
+2009, in connection with our settlement of litigation with Intel. Under the cross license agreement, Intel has granted to us and our subsidiaries, and we have granted Intel and its subsidiaries, non-exclusive, royalty-free licenses to all
+patents that are either owned or controlled by the parties at any time that have a first effective filing date or priority date prior to the five-year anniversary of the effective date of the cross license agreement, referred to as
+
+
+
+
+
+
+
+We also have a patent cross license agreement with GF pursuant to which each party granted to the other a non-exclusive license under
+patents filed by a party (or are otherwise acquired by a party) within a certain number of years following the effective date of the agreement. Under the agreements with GF, in 2009 we assigned approximately 3,000 patents and approximately 1,000
+patent applications to GF. GF owns its allocation of patents and applications subject to pre-existing rights, licenses or immunities granted to third parties relating to such patents and applications. The patents and patent applications to be owned
+by each party after the division were licensed to the other party pursuant to the agreement.
+
+In addition, we entered into a
+Non-Patent Intellectual Property and Technology Transfer Agreement with GF pursuant to which we assigned to GF all of our right, title and interest in technology and non-patent intellectual property rights used exclusively in the manufacture,
+sorting and/or intermediate (WIP) testing of semiconductor products. We retained technology and non-patent intellectual property rights used exclusively in the design and/or post-fabrication delivery testing of semiconductors. Technology and
+non-patent intellectual property rights used both in the manufacture, sorting and/or intermediate (WIP) testing of semiconductor products and in the design and/or post-fabrication delivery testing of semiconductor products is owned jointly by us and
+GF.
+
+Backlog
+
+We sell standard lines of products. Consequently, a significant portion of our sales are made from inventory on a current basis. Sales are made primarily pursuant to purchase orders for current delivery or agreements covering purchases over
+a period of time. Some of these orders or agreements may be revised or canceled without penalty. Generally, in light of current industry practice, we do not believe that such orders or agreements provide meaningful backlog figures or are necessarily
+indicative of actual sales for any succeeding period.
+
+Employees
+
+As of December 26, 2009, we had approximately 10,400 employees, and GF had approximately 3,000 employees.
+
+Environmental Regulations
+
+Many aspects of our business operations and products are regulated by domestic and international environmental laws and regulations. These regulations include limitations on discharge of pollutants to air, water, and soil; remediation
+requirements; product chemical content limitations; manufacturing chemical use and handling restrictions; pollution control requirements; waste minimization considerations; and requirements with respect to treatment, transport, storage and disposal
+of solid and hazardous wastes. If we fail to comply with any
+
+
+
+
+
+
+
+of the applicable environmental regulations we may be subject to fines, suspension of production, alteration of our manufacturing processes, import/export restrictions, sales limitations, and/or
+criminal and civil liabilities. Existing or future regulations could require us to procure expensive pollution abatement or remediation equipment; to modify product designs; or to incur other expenses to comply with environmental regulations. Any
+failure to adequately control the use, disposal or storage, or discharge of hazardous substances could expose us to future liabilities that could have a material adverse effect on our business. We believe we are in material compliance with
+applicable environmental requirements and do not expect those requirements to result in material expenditures in the foreseeable future.
+
+Environmental laws are complex, change frequently and have tended to become more stringent over time. For example, the European Union (EU) and China are two among a growing number of jurisdictions that
+have enacted in recent years restrictions on the use of lead, among other chemicals, in electronic products. These regulations affect semiconductor packaging. Other regulatory requirements potentially affecting our manufacturing processes and the
+design and marketing of our products are in development throughout the world. For example, the EU is considering market entry requirements for computers based on the ENERGY STAR specification (Version 5.0) as well as additional limits. The proposed
+requirements, which have not yet been finalized by the EU Commission, could potentially be approved and implemented as early as the fourth quarter of 2011. If such requirements are implemented in the proposed time frame and to the proposed
+specification there is the potential for certain of our microprocessor, chipset and GPU products, as incorporated in desktop and mobile PCs, being excluded from the EU market.
+
+We have management systems in place to identify and ensure compliance with such requirements and have budgeted for foreseeable associated
+expenditures. However, we cannot assure you that future environmental legal requirements will not become more stringent or costly in the future. Therefore, we cannot assure you that our costs of complying with current and future environmental and
+health and safety laws, and our liabilities arising from past and future releases of, or exposure to, hazardous substances will not have a material adverse effect on us.
+
+
+

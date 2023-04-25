@@ -1,0 +1,423 @@
+Item 1.Business
+
+Overview
+
+Akamai provides services for accelerating and improving the delivery of content and applications over the Internet; ranging
+from live and on-demand streaming video capabilities to conventional content on websites, to tools that help people transact business and reach out to new and existing customers. Thousands of customers worldwide use our services to help sell,
+inform, entertain, market, advertise, deliver software and conduct their business online.
+
+Our solutions are designed to help
+companies, government agencies and other enterprises improve communications with people they are trying to reach, enhance their revenue streams and reduce costs by maximizing the performance of their online businesses. We believe that our solutions
+offer the superior reliability, sophistication and insight that businesses with an Internet presence demand. At the same time, by relying on our infrastructure, customers can reduce expenses associated with internal infrastructure build-outs. In
+short, we strive to help our customers efficiently offer better websites that improve visitor experiences and increase the effectiveness of their Internet-focused operations.
+
+We were incorporated in Delaware in 1998 and have our corporate headquarters at 8 Cambridge Center, Cambridge, Massachusetts. We have been
+offering content delivery services and streaming media services since 1999. In subsequent years, we introduced private content delivery networks; Internet-based delivery of applications such as store/dealer locators and user registration;
+large-scale software distribution capabilities; intelligent real-time ad targeting solutions; content targeting technology and enhanced security features.
+
+In 2009, we launched the Akamai HD Network, a new high definition, or HD, streaming delivery platform that is designed to enable our customers to offer live and on-demand HD video online to viewers in one
+format regardless of whether site visitors are using Adobe Flash technology, Microsoft Silverlight or an iPhone. The Akamai HD Network offers adaptive bitrate streaming capabilities across different playback formats and leverages our entire HTTP
+footprint, which includes tens of thousands of servers deployed around the world.
+
+Our Internet website address is
+www.akamai.com. We make available, free of charge, on or through our Internet website our annual reports on Form 10-K, quarterly reports on Form 10-Q, periodic reports on Form 8-K and amendments thereto that we have filed with the Securities and
+Exchange Commission, or the Commission, as soon as reasonably practicable after we electronically file them with the Commission. We are not, however, including the information contained on our website, or information that may be accessed through
+links on our website, as part of, or incorporating it by reference into, this annual report on Form 10-K.
+
+
+
+
+
+
+
+Meeting the Challenges of the Internet
+
+The Internet plays a crucial role in the way companies, government agencies and other entities conduct business and reach the public. The
+Internet, however, is a complex system of networks that was not originally created to accommodate the volume or sophistication of today’s communication demands. As a result, information is frequently delayed or lost on its way through the
+Internet due to many factors, including:
+
+
+
+•inefficient or nonfunctioning peering points, or points of connection, between Internet service providers, or ISPs;
+
+
+
+•traffic congestion at data centers;
+
+
+
+•Internet traffic exceeding the capacity of routing equipment;
+
+
+
+•increasingly dynamic and personalized websites;
+
+
+
+•growth in the transmission of rich content, including HD video, due to the increasingly widespread use of broadband connectivity to the Internet for
+videos, music and games; and
+
+
+
+•Internet bandwidth constraints between an end user and the end user’s network provider, such as an ISP, cable provider or digital subscriber line
+provider.
+
+The challenges inherent in delivering content over the Internet are compounded by the internal
+technology challenges facing enterprises. Driven by competition, globalization and cost-containment strategies, companies need an agile Internet-facing infrastructure that cost-effectively meets real-time strategic and business objectives. For
+example, many companies use the Internet as a key marketing tool for product launches, distribution of promotional videos or contests. These one-time events may draw millions of visitors to a company’s website over a brief period of time so the
+enterprise must have in place the capacity to deal with a flood of visitors seeking to view content or use applications. At the same time, budget limitations may preclude a company from putting in place extensive internal infrastructure, knowing
+that it will not always need such capacity. In addition, as reliance on the Internet has become more pervasive, website operators have been experiencing higher levels of traffic to their sites on a constant basis, which place extensive demands on
+infrastructure.
+
+To address these challenges, we have developed solutions designed to help companies, government agencies and
+other enterprises increase revenues and reduce costs by improving the performance, reliability and security of their Internet-facing operations. We particularly seek to address the following market needs:
+
+Superior Performance. Commercial enterprises invest in websites to attract customers, transact business and provide information
+about themselves. If, however, a company’s Internet site fails to provide visitors with a fast and dependable experience, they will likely abandon that site, potentially leading to lost revenues and damage to the enterprise’s reputation.
+Through a combination of people, processes and technology, we help our customers improve the scalability and predictability of their websites without the need for them to spend a lot of money to develop their own Internet-related infrastructure.
+Instead, we have a presence in more than 900 networks around the world so that content can be delivered from Akamai servers located closer to website visitors — from what we call the “edge” of the Internet. We are thus able to
+reduce the impact of traffic congestion, bandwidth constraints and capacity limitations for our customers. At the same time, our customers have access to control features to enable them to provide content to end users that is current and customized
+for visitors accessing the site from different parts of the world.
+
+Scalability. We believe that scalability is
+one of the keys to reliability. Many Akamai customers experience seasonal or erratic demand for access to their websites and almost all websites experience demand peaks at different points during the day. With the proliferation of HD video and other
+types of rich content, enterprises of all types must be able to cope with rapidly increasing numbers of requests for bandwidth-intensive digital media assets and the storage of those assets. In all of these instances, it can be difficult and
+expensive to plan for, and deploy solutions to meet, such peaks and valleys. With more than 60,000 servers deployed worldwide managed
+
+
+
+
+
+
+
+by our proprietary software technology, our network is designed with the robustness and flexibility to handle planned and unplanned traffic peaks and related storage needs, without additional
+hardware investment and configuration on the part of our customers. As a result, we are able to provide an on-demand solution to address our customers’ capacity needs in the face of unpredictable traffic spikes, which helps them avoid expensive
+investment in a centralized infrastructure.
+
+Security.Security is one of the most significant challenges facing
+use of the Internet for business and government processes. Security threats — in the form of attacks, viruses, worms and intrusions — can impact every measure of performance, including information security, speed, reliability and
+customer confidence. Unlike traditional security strategies that can negatively impact performance, Akamai’s approach is designed to allow for proactive monitoring and rapid response to security incidents and anomalies. We rely on both built-in
+defense mechanisms and the ability to route traffic around potential security issues so performance may not be compromised. Perhaps most significantly, our distributed network of tens of thousands of servers is designed to eliminate a single point
+of failure and can reduce the impact of security attacks.
+
+Functionality.Websites have become increasingly dynamic,
+complex and sophisticated. To meet these challenges, we have added solutions through both internal investment and acquisitions. These solutions have included services designed to help our customers accelerate dynamic content and applications; more
+effectively manage their online media assets; and improve the quality of their online advertising initiatives.
+
+Our Core Solutions
+
+We offer application performance services, services and solutions for digital media and software distribution and storage,
+content and application delivery, online advertising-related services and other specialized Internet-based offerings.
+
+Application
+Performance Solutions
+
+Akamai’s Application Performance Solutions are designed to improve the performance of
+highly dynamic applications used by enterprises to connect with their employees, suppliers and customers. Traditionally, this market has been addressed primarily by hardware and software products. We believe our managed service approach offers a
+more cost-effective and comprehensive solution in this area without requiring customers to make significant infrastructure investments. In addition to reducing infrastructure costs, our Application Performance Solutions are intended for customers
+that want to offer effective and reliable portal applications and other Web-based systems for communicating with their customers, employees and business partners. Our Application Performance Solutions consist of the following:
+
+Web Application Accelerator
+
+Our Web Application Accelerator service is designed to improve the performance of Web-based applications through a combination of dynamic caching, routing and connection optimization, and compression of
+content. This service is appropriate for companies involved in technology, business services, travel and leisure, manufacturing and other industries where there is a movement to Internet-based communication with remote customers, suppliers and
+franchisees. Enterprise customers are using the Web Application Accelerator service to run applications such as online airline reservations systems, training tools, customer relationship management and human resources applications. Akamai’s Web
+Application Accelerator is designed to allow application users to enjoy more reliable performance through connection and route optimization techniques that avoid problem spots on the Internet and otherwise accelerate application performance without
+the enterprise customer needing to undertake significant internal infrastructure build-out.
+
+
+
+
+
+
+
+IP Application Accelerator
+
+With a growing global workforce accessing IP-based applications online and from mobile devices, enterprises that rely on such applications
+find high quality and performance to be crucial. Examples of IP-based applications include voice over IP calling, email hosting services and sales order processing tools. While enterprises have been using the Internet to support communication needs
+for Web-based applications for some time, businesses are increasingly relying on the Internet to support connection needs for IP-based applications. Akamai’s IP Application Accelerator solution is designed to address core Internet weaknesses to
+optimize the performance, availability and real-time sensitivity associated with IP-enabled applications delivered over Internet-related protocols such as SSL, IPSec, UDP and FTP. IP Application Accelerator uses Akamai’s global network of
+servers and optimized routing and connection technologies to improve the stability and reliability of connections between end users and the IP-based application.
+
+Digital Asset Solutions
+
+The Internet provides end users with access
+to new and varied types of media, and content providers continue to seek ways to monetize the content they offer. Akamai’s Digital Asset Solutions are designed to enable enterprises to execute their large file management and distribution
+strategies by improving the end-user experience, boosting reliability and scalability and reducing the cost of Internet-related infrastructure. Within our Digital Asset Solutions, customers can choose from the following:
+
+Akamai Media Delivery
+
+As the demand for Internet access to music, movies, games, streaming news, sports events and social networking communities grows, there are many challenges to profitably offering media assets online,
+particularly with respect to user-generated content and HD video. In particular, media companies need cost-effective means to deliver large files to millions of users in different formats compatible with multiple end-user devices and platforms.
+Akamai Media Delivery addresses these challenges by delivering media content on behalf of our customers. By relying on our technology, customers are able to bypass internal constraints such as traditional server and bandwidth limitations to better
+handle peak traffic conditions and provide their site visitors with access to larger file sizes. We support all major streaming formats, and our technology and breadth of deployment provide capacity levels that individual enterprises or other
+outsourced providers may not be able to cost-effectively replicate on their own. In addition, in 2009, we introduced the Akamai HD Network, which is designed to enable our customers to offer live and on-demand HD video online to viewers in one
+format regardless of whether site visitors are using Adobe Flash technology, Microsoft Silverlight or an iPhone. Our media delivery services leveraging the Akamai HD Platform are designed to improve the quality and reliability of HD streaming.
+
+Customers of our media delivery offerings can also take advantage of complementary features such as digital rights management
+protections, storage, media management tools and reporting functionalities. More specifically, we offer:
+
+
+
+•Content Manager for uploading, storing, managing and editing media files and information about those files;
+
+
+
+•RSS Manager for managing, delivering and distributing content via automatically-generated Really Simple Syndication, or RSS, feeds;
+
+
+
+•Tools for scheduling and provisioning live streaming events; and
+
+
+
+•Digital rights management and profile tools for targeting, protecting and controlling the distribution of content based on business rules, licensing
+terms, geography and other criteria.
+
+Our Akamai Media Delivery solution is primarily used by companies in
+the following industries: entertainment, including television, radio, sports, music and media; gaming; social networking; and Internet search/portal access. The solution can accommodate the many different business models used by our customers
+including pay-per-view, subscription, advertising and syndication.
+
+
+
+
+
+
+
+Electronic Software Delivery
+
+Due to the expanding prevalence of broadband access, distribution of computer software is increasingly occurring over the Internet. As a
+result, companies no longer need to mail CDs with new software to their customers. Internet traffic conditions and high loads can, however, dramatically impact software download speed and reliability. Furthermore, surges in traffic from product
+launches or periodic distributions of anti-virus security updates can overwhelm traditional centralized software delivery infrastructure, adversely affecting website performance and causing users to be unable to download software. Our Electronic
+Software Delivery solution handles the distribution of software for our customers. Our network is designed to withstand large surges in traffic related to software launches and other distributions with a goal of improved customer experiences,
+increased use of electronic delivery and successful online product launches. We also offer a number of tools to enhance the effectiveness of this distribution model including electronic download receipts, storage, a download manager to provide end
+users with control over the handling of files received and reporting. This solution is appropriate for software companies of all types including consumer, enterprise, anti-virus and gaming software companies.
+
+Advertising Decision Solutions (ADS)
+
+Akamai ADS is designed to enable more effective online advertising by helping advertisers reach their target audiences. Our solutions are intended to address some of the fundamental challenges in the
+advertising industry today — enabling advertisers, agencies, publishers, and networks to buy and sell advertising in an effective, scalable, easy-to-use way. At the same time, our platform is architected so that none of the user data tracked by
+us consists of personally identifiable information; therefore, customers can maintain the integrity of their data and privacy policies.
+
+Dynamic Site Solutions
+
+Akamai’s Dynamic Site Solutions — particularly our core Dynamic Site
+Accelerator offering — are designed for accelerating business-to-consumer websites that integrate rich, collaborative content and applications into their online architecture. Leveraging our worldwide network of servers and sophisticated mapping
+and routing technologies, we provide whole-site and object delivery for our customers’ websites. As a result, our customers have access to a more efficient way to implement and maintain a global Internet presence. While site owners maintain a
+source copy of their content and applications, Dynamic Site Accelerator provides global delivery, load balancing and storage of content and applications, enabling businesses to focus valuable resources on strategic matters, rather than on technical
+infrastructure issues.
+
+Our Dynamic Site Solutions include advanced site delivery service features such as:
+
+
+
+•Secure Content Distribution— distribution of content over the Internet using SSL transport, a protocol to secure transmission of content
+over the Internet.
+
+
+
+•Site Failover— delivery of default content in the event that the primary, or source, version of the website of a customer becomes
+unavailable.
+
+
+
+•Content Targeting— a feature that enables content providers to deliver localized content, customized store-fronts, targeted advertising
+and adaptive marketing to their customers.
+
+
+
+•EdgeComputing— a service that enables enterprises to deliver Java (J2EE) Web applications that scale on demand and are designed to perform
+more quickly and reliably than a customer’s own internal information technology, or IT, infrastructure.
+
+
+
+•Cache Optimization— features designed to enhance the cacheability of content including expiration dates and other parameters for the
+handling of stored content.
+
+
+
+•Compression— compression of content before it is sent to an end user in an effort to reduce transfer times for users.
+
+
+
+•Capacity On-Demand— offers dynamic load-balancing decisions that are based on real-time analysis of an end user’s location, Internet
+conditions, server and data center infrastructure capacity and overall demand.
+
+
+
+
+
+
+
+Akamai’s Dynamic Site Accelerator solution is appropriate for any enterprise that has a
+website, particularly, retail and travel companies dependent on their commerce-related websites and enterprises that rely on the Internet for brand-building through research, discussion and other interactive tools for their current and potential
+customers.
+
+Other Solutions
+
+Site Intelligence Offerings
+
+Akamai’s offerings in this area include our network data feeds and our
+website analytics offering, which provide customers with real time data about the performance of their content and applications over the Internet and Akamai’s network. In addition, our business performance management services help customers
+better understand their Web operations with tools that measure all aspects of an application’s performance. For example, a customer could use website data feeds from Akamai’s customer portal to assist in managing its online distribution
+costs and budget.
+
+The core of these site intelligence offerings is our EdgeControl tools, which provide comprehensive
+reporting and management capabilities. The tools are Web-portal based and can be integrated with existing enterprise management systems, allowing our customers to manage their distributed content and applications. EdgeControl also allows integration
+with third-party network management tools, including those offered by IBM, Hewlett-Packard and BMC Software. Having created one of the industry’s first commercially proven utility computing platforms, Akamai now provides a global network of
+servers that can be utilized by customers for troubleshooting, monitoring and reporting, all based on their individual business requirements.
+
+Custom Solutions
+
+In addition to our core commercial services, we are able to leverage the expertise of
+our technology, networks and support personnel to provide custom solutions to both commercial and government customers. These solutions include replicating our core technologies to facilitate content delivery behind the firewall, combining our
+technology with that of other providers to create unique solutions for specific customers and supporting mission-critical applications that rely on the Internet and intranets. Additionally, numerous federal government agencies rely on Akamai for
+tailored solutions to their content delivery needs as well as information about traffic conditions and activity on the Internet.
+
+Our
+Technology and Network
+
+Our expansive network infrastructure and sophisticated technology are the foundation of our
+services. We believe Akamai has deployed the world’s largest globally-distributed computing platform, with more than 60,000 servers located in more than 900 networks around the world. Applying our proprietary technology, we deliver our
+customers’ content and computing applications across a system of widely distributed networks of servers; the content and applications are then processed at the most efficient places within the network. Servers are deployed in networks ranging
+from large, backbone network providers to medium and small ISPs, to cable modem and satellite providers to universities and other networks. By deploying servers within a wide variety of networks, we are better able to manage and control routing and
+delivery quality to geographically diverse users. We also have more than 1,000 peering relationships that provide us with direct paths to end user networks, which reduce data loss, while also potentially giving us more options for delivery at
+reduced cost.
+
+To make this wide-reaching deployment effective, we use specialized technologies, such as advanced routing,
+load balancing, data collection and monitoring. Our intelligent routing software is designed to ensure that website visitors experience fast page loading, access to applications and content assembly wherever they are on the Internet, regardless of
+global or local traffic conditions. Dedicated professionals staff our Network Operations Control Centers on a 24/7 basis to monitor and react to Internet traffic patterns and trends. We frequently deploy enhancements to our software globally to
+strengthen and improve the effectiveness of our network. Customers are also able to control the extent of their use of Akamai services to scale on demand, using
+
+
+
+
+
+
+
+as much or as little capacity of the global platform as they require, to support widely varying traffic and rapid growth without the need for an expensive and complex internal infrastructure.
+
+Business Segments and Geographic Information
+
+We operate in one industry segment: providing services for accelerating and improving delivery of content and applications over the Internet. For the years ended December 31, 2009, 2008 and 2007,
+approximately 28%, 25% and 23%, respectively, of our total revenues was derived from our operations outside the United States, of which 18%, 18% and 17% of overall revenues, respectively, was derived from Europe. No single country outside of the
+United States accounted for 10% or more of our revenues in any of such years. For more segment and geographic information, including total long-lived assets for each of the last two fiscal years, see our consolidated financial statements included
+elsewhere in this annual report on Form 10-K, including Note 19 thereto.
+
+Our long-lived assets primarily consist of
+servers, which are deployed into networks worldwide. As of December 31, 2009, we had approximately $139.8 million and $42.6 million of property and equipment, net of accumulated depreciation, located in the United States and foreign locations,
+respectively. As of December 31, 2008, we had approximately $138.6 million and $35.9 million of property and equipment, net of accumulated depreciation, located in the United States and foreign locations, respectively. As of December 31,
+2007, we had approximately $107.9 million and $26.6 million of property and equipment, net of accumulated depreciation, located in the United States and foreign locations, respectively.
+
+Customers
+
+Our customer base is centered on enterprises. As of
+December 31, 2009, our customers included many of the world’s leading corporations, including Adobe, Apple, Audi, Best Buy, Burger King, EMC, Hitachi, L’Oreal, Microsoft, MTV Networks, MySpace, the National Basketball Association,
+Nintendo, SAP and Victoria’s Secret. We also actively sell to government agencies. As of December 31, 2009, our public sector customers included the Federal Emergency Management Agency, the National Center for Missing and Exploited
+Children, the U.S. Air Force, the U.S. Department of Defense, the U.S. Food and Drug Administration and the U.S. Department of Labor. No customer accounted for 10% or more of total revenues for the years ended December 31,
+2009, 2008 or 2007. Less than 10% of our total revenues in each of the years ended December 31, 2009, 2008 and 2007 were derived from contracts or subcontracts terminable at the election of the federal government, and we do not expect such
+contracts to account for more than 10% of our total revenues in 2010.
+
+Sales, Service and Marketing
+
+Our sales and service professionals are located in more than 20 offices in the United States, Europe and Asia. We market and sell our
+services and solutions domestically and internationally through our direct sales and services organization and through more than 100 active channel partners including Electronic Data Systems Corporation, IBM Corporation, Verizon and Telefonica
+Group. In addition to entering into agreements with resellers, we have several other types of sales- and marketing-focused alliances with entities such as system integrators, application service providers, sales agents and referral partners. By
+aligning with these companies, we believe we are better able to market our services and encourage increased adoption of our technology throughout the industry.
+
+Our sales and service organization includes employees in direct and channel sales, professional services, account management and technical consulting. As of December 31, 2009, we had approximately
+820 employees in our sales and support organization, including 170 direct sales representatives whose performance is measured on the basis of achievement of quota objectives. Our ability to achieve revenue growth in the future will depend in large
+part on whether we successfully recruit, train and retain sufficient global sales, technical and services personnel, and how well we establish and maintain our reseller and strategic alliances. We believe that the complexity of our services will
+continue to require a number of highly trained global sales and services personnel.
+
+
+
+
+
+
+
+To support our sales efforts and promote the Akamai brand, we conduct comprehensive
+marketing programs. Our marketing strategies include an active public relations campaign, print advertisements, online advertisements, participation at trade shows, strategic alliances and on-going customer communication programs. As of
+December 31, 2009, we had 87 employees in our global marketing organization, which is a component of our sales and support organization.
+
+Research and Development
+
+Our research and development personnel are continuously undertaking efforts to
+enhance and improve our existing services, strengthen our network and create new services in response to our customers’ needs and market demand. As of December 31, 2009, we had 437 research and development employees. Our research and
+development expenses were $43.7 million, $39.2 million and $44.1 million for the years ended December 31, 2009, 2008 and 2007, respectively. In addition, for each of the years ended December 31, 2009, 2008 and 2007, we
+capitalized $25.8 million, $23.9 million and $17.8 million, respectively, of external consulting and payroll and payroll-related costs related to the development of internal-use software used by us to deliver our services and operate our
+network. Additionally, during the years ended December 31, 2009, 2008 and 2007, we capitalized $6.2 million, $7.4 million and $6.4 million, respectively, of stock-based compensation attributable to our research and development personnel.
+
+Competition
+
+The market for our services is intensely competitive and characterized by rapidly changing technology, evolving industry standards and frequent new product and service installations. We expect competition for our services to increase both
+from existing competitors and new market entrants. We compete primarily on the basis of:
+
+
+
+•performance of services;
+
+
+
+•return on investment in terms of cost savings and new revenue opportunities for our customers;
+
+
+
+•reduced infrastructure complexity;
+
+
+
+•sophistication and functionality of our offerings;
+
+
+
+•scalability;
+
+
+
+•ease of implementation and use of service;
+
+
+
+•customer support; and
+
+
+
+•price.
+
+We
+compete primarily with companies offering products and services that address Internet performance problems, including companies that provide Internet content delivery and hosting services, streaming content delivery services and equipment-based
+solutions to Internet performance problems, such as load balancers and server switches. Some of our competitors also resell our services. Other companies offer online distribution of digital media assets through advertising-based billing or
+revenue-sharing models that may represent an alternative method for charging for the delivery of content and applications over the Internet. In addition, potential customers may decide to purchase or develop their own hardware, software and other
+technology solutions rather than rely on a provider of externally-managed services like Akamai.
+
+With respect to our ADS
+offerings, we compete with a range of other companies that provide targeted advertising solutions. At the same time, some of the companies that offer competitive solutions have entered into strategic agreements with us that we believe are mutually
+beneficial. We compete on the basis of our technology, the availability of our data co-operative, our predictive analytics capabilities, the ability to leverage existing business relationships and price.
+
+We believe that we compete favorably with other companies in our industry, as well as alternative approaches to content and application
+delivery over the Internet, on the basis of the quality of our offerings, our customer service and price.
+
+
+
+
+
+
+
+Proprietary Rights and Licensing
+
+Our success and ability to compete are dependent on our ability to develop and maintain the proprietary aspects of our technology and operate
+without infringing on the proprietary rights of others. We rely on a combination of patent, trademark, trade secret and copyright laws and contractual restrictions to protect the proprietary aspects of our technology. We currently have numerous
+issued United States and foreign-country patents covering our content and application delivery technology, and we have numerous additional patent applications pending. Our issued patents extend to various dates between approximately 2015 and 2020.
+In October 1998, we entered into a license agreement with the Massachusetts Institute of Technology, or MIT, under which we were granted a royalty-free, worldwide right to use and sublicense the intellectual property rights of MIT under various
+patent applications and copyrights relating to Internet content delivery technology. We seek to limit disclosure of our intellectual property by requiring employees and consultants with access to our proprietary information to execute
+confidentiality agreements with us and by restricting access to our source code.
+
+Employees
+
+As of December 31, 2009, we had a total of approximately 1,750 full-time and part-time employees. Our future success will depend in part
+on our ability to attract, retain and motivate highly qualified technical and management personnel for whom competition is intense. Our employees are not represented by any collective bargaining unit. We believe our relations with our employees are
+good.
+
+
+

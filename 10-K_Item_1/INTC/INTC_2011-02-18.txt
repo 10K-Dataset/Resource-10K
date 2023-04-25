@@ -1,0 +1,1428 @@
+ITEM
+    1.BUSINESS
+
+
+
+Company
+    Overview
+
+
+
+We are the world’s largest semiconductor chip maker, based
+    on revenue. We develop advanced integrated digital technology,
+    primarily integrated circuits, for industries such as computing
+    and communications. Integrated circuits are semiconductor chips
+    etched with interconnected electronic switches. We also develop
+    computing platforms, which we define as integrated hardware and
+    software computing technologies that are designed to provide an
+    optimized solution. Our goal is to be the preeminent computing
+    solutions company that powers the worldwide digital economy. We
+    are transforming from a company with a primary focus on the
+    design and manufacture of semiconductor chips for PCs and
+    servers to a computing company that delivers complete solutions
+    in the form of hardware and software platforms and supporting
+    services.
+
+
+
+We were incorporated in California in 1968 and reincorporated in
+    Delaware in 1989.
+
+
+
+In the first quarter of 2011, we completed the acquisition of
+    the Wireless Solutions (WLS) business of Infineon Technologies
+    AG. See “Acquisitions and Strategic Investments” later
+    in this section for a description of that business.
+
+
+
+Distribution
+    of Company Information
+
+
+
+Our Internet address iswww.intel.com. We publish
+    voluntary reports on our web site that outline our performance
+    with respect to corporate responsibility, including
+    environmental, health, and safety (EHS) compliance.
+
+
+
+We use our Investor Relations web site,www.intc.com,as
+    a routine channel for distribution of important information,
+    including news releases, analyst presentations, and financial
+    information. We post filings as soon as reasonably practicable
+    after they are electronically filed with, or furnished to, the
+    U.S. Securities and Exchange Commission (SEC), including our
+    annual and quarterly reports on Forms10-Kand10-Q(including related filings in XBRL format) and current reports
+    on Form8-K;our proxy statements; and any amendments to those reports or
+    statements. All such postings and filings are available on our
+    Investor Relations web site free of charge. In addition, our web
+    site allows interested persons to sign up to automatically
+    receivee-mailalerts when we post news releases and financial information. The
+    SEC’s web site,www.sec.gov,contains reports, proxy
+    and information statements, and other information regarding
+    issuers that file electronically with the SEC. The content on
+    any web site referred to in this Form10-Kis not
+    incorporated by reference in this Form10-Kunless
+    expressly noted.
+
+
+
+Products
+
+
+
+We design and manufacture computing and communications
+    components, such as microprocessors, chipsets, motherboards, and
+    wireless and wired connectivity products. Our platforms
+    incorporate software to enable and advance these components. We
+    strive to optimize the overall performance of our products by
+    improving energy efficiency, seamless connectivity to the
+    Internet, and security features. Improved energy efficiency is
+    achieved by lowering power consumption in relation to
+    performance capabilities, and may result in longer battery life,
+    reduced system heat output, power savings, and lower total cost
+    of ownership. Increased performance can include faster
+    processing performance and other improved capabilities, such as
+    multithreading, multitasking, and processor graphics.
+    Performance can also be improved by enhancing interoperability
+    among devices, storage, manageability, utilization, reliability,
+    and ease of use.
+
+
+
+Our vision is to create a continuum of personal computing
+    experiences based on
+    Intel®architecture. This continuum would give consumers a set of
+    secure, consistent, and personalized computing experiences with
+    a variety of devices that connect to the Internet and each
+    other. Our goal is to provide consistency and interoperability
+    between devices that are connected seamlessly and require
+    computing capability both locally and in cloud computing. Cloud
+    computing is a group of linked servers that provides a variety
+    of applications and data to users over the Internet.
+
+
+
+Components
+
+
+
+Microprocessors
+
+
+
+A microprocessor—the central processing unit (CPU) of a
+    computer system—processes system data and controls other
+    devices in the system. We offer microprocessors with one or
+    multiple processor cores designed for notebooks, netbooks,
+    desktops, servers, workstations, storage products, embedded
+    applications, communications products, consumer electronics
+    devices, and handheld devices. Multi-core microprocessors can
+    enable improved multitasking and energy-efficient performance by
+    distributing computing tasks across two or more cores.
+
+
+
+
+
+The majority of our microprocessors are manufactured using our
+    32-nanometer (nm) second-generation Hi-k metal gate silicon
+    process technology (32nm process technology). The use of Hi-k
+    metal gate transistors increases performance while
+    simultaneously reducing the leakage of electrical current. In
+    December 2010, we introduced the 2nd generation
+    Intel®Coretmprocessor family (formerly code-named Sandy Bridge), a new
+    microarchitecture based on our 32nm process technology.
+    Microarchitecture refers to the layout, density, and logical
+    design of a microprocessor. Our 2nd generation Intel Core
+    processor family incorporates features designed to increase
+    performance and energy efficiency, such as:
+
+•Integrated processor graphics,which allow for shared
+    resources across processing cores and graphics architectures to
+    enable optimal performance while saving power;•Intel®Advanced Vector Extensions, which allow for faster and
+    simpler performance of computationally intensive tasks, such as
+    digital photo editing, creation of music, and other content
+    creation;•Intel®Turbo Boost Technology 2.0, which automatically
+    increases processor frequency when applications demand higher
+    performance; and•Intel®Quick Sync Video,which accelerates encoding,
+    decoding, and transcoding features, such as conversion of media
+    for portable players and online video-sharing services.
+
+
+
+Our 2nd generation Intel Core processor family integrates
+    graphics functionality onto the processor die. In contrast, some
+    of our previous-generation 32nm processors have incorporated a
+    separate 45nm graphics chip inside the processor package. We
+    also offer graphics functionality as part of a separate chipset
+    outside the processor package. Processor packages may also
+    integrate the memory controller.
+
+
+
+In addition, we offer and are continuing to develop System on
+    Chip (SoC) products that integrate our core processing
+    functionalities with other system components, such as graphics,
+    audio, and video, onto a single chip to form a purpose-built
+    solution. SoC products are designed to reduce total cost of
+    ownership, and provide improved performance due to higher
+    integration, lower power consumption, and smaller form factors.
+
+
+
+Chipsets
+
+
+
+A chipset sends data between the microprocessor and input,
+    display, and storage devices, such as the keyboard, mouse,
+    monitor, hard drive or solid-state drive, and CD, DVD, or
+    Blu-ray* drive. We offer chipsets designed for notebooks,
+    netbooks, desktops, servers, workstations, storage products,
+    embedded applications, communications products, consumer
+    electronics devices, and handheld devices. Chipsets extend the
+    audio, video, and other capabilities of many systems and perform
+    essential logic functions, such as balancing the performance of
+    the system and removing bottlenecks. Some chipsets may also
+    include graphics functionality or both graphics functionality
+    and a memory controller, for use with our microprocessors that
+    do not integrate those system components.
+
+
+
+Motherboards
+
+
+
+We offer motherboard products designed for our desktop, server,
+    and workstation platforms. A motherboard is the principal board
+    within a system, and typically contains the microprocessor,
+    chipset, memory, and other components. The motherboard also has
+    connectors for attaching devices to the bus, which is the
+    subsystem that transfers data among various components of a
+    computer.
+
+
+
+Wireless
+    and Wired Connectivity
+
+
+
+We offer wireless and wired connectivity products, including
+    network adapters and embedded wireless cards, based on
+    industry-standard protocols used to translate and transmit data
+    across networks. Wireless connectivity products based on WiFi
+    technology allow users to wirelessly connect to high-speed local
+    area networks, typically within a close range. We have also
+    developed wireless connectivity products for both mobile and
+    fixed networks based on WiMAX, a standards-based wireless
+    technology providing high-speed broadband connectivity that can
+    link users and networks up to several miles apart.
+
+
+
+Microprocessor
+    and Platform Technologies
+
+
+
+We offer features to improve microprocessor and platform
+    capabilities that can enhance system performance and the user
+    experience. For example, we offer technologies that can help
+    information technology managers maintain, manage, and protect
+    enabled systems that are plugged into a power source and
+    connected to a network, even if a computer is turned off or has
+    a failed hard drive or operating system. We also offer
+    technologies that can enable virtualization, in which a single
+    computer system can function as multiple virtual systems by
+    running multiple operating systems and applications.
+    Virtualization can consolidate workloads and provide increased
+    security and management capabilities. To take advantage of these
+    and other features that we offer, a computer system must have a
+    microprocessor that supports a chipset, BIOS (basic input/output
+    system) that uses the technology, and software that is optimized
+    for the technology. Performance will vary depending on the
+    system hardware and software used. We also offer technology that
+    enables each processor core to process two software tasks or
+    threads simultaneously.
+
+
+
+
+
+Additional
+    Product Offerings
+
+
+
+We offerNAND flash memory,which is a specialized type
+    of memory component primarily used in portable memory storage
+    devices, digital camera memory cards, solid-state drives, and
+    other devices. NAND flash memory retains information even when
+    the power is off, and provides faster access to data than
+    traditional hard drives. Because flash memory does not have any
+    moving parts, it tolerates bumps and shocks better than devices
+    such as rapidly spinning disk drives.
+
+
+
+We offer certainsoftware products,including operating
+    systems, middleware, and tools used to develop, run, and manage
+    a wide variety of enterprise, consumer, embedded, and handheld
+    devices. In addition, we offer software development tools,
+    designed to complement our latest hardware technologies, that
+    help enable the creation of applications.
+
+
+
+Revenue
+    by Major Operating Segment
+
+
+
+Net revenue for the PC Client Group (PCCG) operating segment,
+    the Data Center Group (DCG) operating segment, and the other
+    Intel architecture (Other IA) operating segments is presented as
+    a percentage of our consolidated net revenue. Other IA includes
+    the Embedded and Communications Group, the Digital Home Group,
+    and the Ultra-Mobility Group operating segments. All other
+    includes the NAND Solutions Group, the Wind River Software
+    Group, the Software and Services Group, and the Digital Health
+    Group.
+
+
+
+Percentage
+    of Revenue by Major Operating Segment(Dollars
+    in Millions)
+
+
+
+
+
+
+
+Revenue from sales of microprocessors and revenue from sales of
+    chipsets, motherboards, and other, presented as a percentage of
+    our consolidated net revenue, were as follows:
+
+
+
+Percentage
+    of Revenue from Microprocessor Sales(Dollars
+    in Millions)
+
+
+
+
+
+
+
+For the PCCG and the DCG operating segments, the majority of
+    revenue from sales of chipsets, motherboards, and other was from
+    the sale of chipsets in all periods presented above.
+
+
+
+
+
+For a description of all of our operating segments, see
+    “Note 30: Operating Segment and Geographic
+    Information” in Part II, Item 8 of this Form10-K.Below,
+    we discuss the key products and processor technologies,
+    including some key introductions, of our operating segments. For
+    a discussion of our strategy, see “Strategy” in Part
+    II, Item 7 of this Form10-K.
+
+
+
+PC
+    Client Group
+
+
+
+The PC Client Group (PCCG) offers microprocessors and related
+    chipsets designed for the notebook, netbook, and desktop market
+    segments. In addition, PCCG offers motherboards designed for the
+    desktop market segment and wireless connectivity products based
+    on WiFi and WiMAX technologies.
+
+
+
+We currently offer a range of microprocessors designed for the
+    notebook, netbook, and desktop market segments that includes the:
+
+•Intel®Coretmi3 processor, designed to deliver the performance needed for
+    multitasking;•Intel®Coretmi5 processor, designed to deliver performance for everyday
+    applications, with the ability to boost the speed of PCs as
+    needed for demanding tasks, such as playing games and photo
+    editing;•Intel®Coretmi7 processor, designed to deliver performance for demanding
+    tasks such as multimedia creation and editing, and intense
+    gaming;•Intel®Coretmi7 processor Extreme Edition, designed to deliver performance
+    for the most demanding applications such as high-performance
+    gaming, high-definition content creation, and video encoding and
+    editing;•Intel®Atomtmprocessor, designed for low-power, affordable Internet-focused
+    devices; and•Previous-generation
+    Intel®processors that are designed to deliver performance,
+    reliability, and energy efficiency.
+
+
+
+The various microprocessor packaging options and processor
+    technologies that we offer provide our customers with the
+    flexibility to develop a wide range of system designs and form
+    factors. In the notebook market segment, we offer
+    ultra-low-voltage processors designed for ultra-thin laptop
+    computers. For the notebook and netbook market segments, we
+    offer processor technologies designed to provide high
+    performance with improved multitasking, offer power-saving
+    features to improve battery life, enable smaller form factors,
+    allow for wireless network connectivity, and improve boot times.
+    For the notebook and desktop market segments, we offer
+    Intel®vProtmtechnology, which is designed to provide businesses with
+    increased manageability, upgradeability, energy-efficient
+    performance, and security while lowering the total cost of
+    ownership.
+
+
+
+With our microprocessors, we also offer related chipsets
+    designed for the:
+
+•Notebook and netbook market segments, including Mobile
+    Intel®6 Series Express Chipsets, Mobile
+    Intel®5 Series Express Chipsets, Mobile
+    Intel®4 Series Express Chipsets, Mobile
+    Intel®900 Series Express Chipsets, and the
+    Intel®NM10 Express Chipset; and•Desktop market segment, including
+    Intel®6 Series Express Chipsets,
+    Intel®5 Series Express Chipsets,
+    Intel®4 Series Express Chipsets,
+    Intel®3 Series Express Chipsets, and the
+    Intel®NM10 Express Chipset.
+
+
+
+Our new product offerings in 2010 and early 2011 include:
+
+•2nd generation
+    Intel®Coretmprocessor family, including Intel Core i7 processors, Intel Core
+    i5 processors, and Intel Core i3 processors, which incorporate
+    features designed to increase performance and energy efficiency.
+    These processors are supported by the new Intel 6 Series Express
+    Chipset family.•Intel Core i7 processors, Intel Core i5 processors, and Intel
+    Core i3 processors, manufactured using our 32nm process
+    technology and including integrated high-definition graphics
+    functionality. These processors are supported by the Intel 5
+    Series Express Chipset family.•Six-core Intel Core i7 processor Extreme Edition featuring 12
+    computing threads, designed for digital content creation,3-Drendering, and high-performance gaming.•Intel Atom processors with integrated graphics functionality,
+    designed to enable improved performance and smaller, more
+    energy-efficient form factors.•Ultra-low-voltage processors manufactured using our 32nm process
+    technology, and chipsets designed for ultra-thin laptop
+    computers.•Intel®Centrino®wireless adapters, designed to offer high-speed and reliable
+    connectivity, and consistent coverage, while consuming minimal
+    power.
+
+
+
+
+
+Data
+    Center Group
+
+
+
+The Data Center Group (DCG) offers products that are
+    incorporated into servers, storage, workstations, and other
+    products that help make up the infrastructure for data center
+    and cloud computing environments. DCG’s products include
+    microprocessors and related chipsets, and motherboards and wired
+    connectivity devices.
+
+
+
+Our current server, workstation, and storage microprocessor
+    offerings include the
+    Intel®Xeon®processor and the
+    Intel®Itanium®processor. Our Intel Xeon processor family of products supports
+    a range of entry-level to high-end technical and commercial
+    computing applications such as Internet Protocol data centers.
+    Our Intel Itanium processor family generally supports an even
+    higher level of reliability and computing performance for data
+    processing, and handling high transaction volumes and other
+    compute-intensive applications for enterprise-class servers, as
+    well as supercomputing solutions. Servers usually have multiple
+    microprocessors or cores working together, manage large amounts
+    of data, direct data traffic, perform complex transactions, and
+    control central functions in local and wide area networks and on
+    the Internet. Workstations typically offer higher performance
+    than standard desktop PCs and are used for applications such as
+    engineering design, digital content creation, and
+    high-performance computing. Storage processors range from SoCs
+    for low-cost storage systems to high-performance multi-core
+    processors in mid- to high-end storage systems such as storage
+    area networks.
+
+
+
+Our new product offerings in 2010 and early 2011 include:
+
+•Quad-core Intel Itanium processors with enhanced scalability and
+    reliability features, designed for mission-critical computing.•Dual-core and quad-core Intel Xeon processors designed for
+    entry-level servers for small businesses and educational
+    settings; six-core Intel Xeon processors designed for
+    high-performing computing applications in science and financial
+    services; and eight-core Intel Xeon processors designed for
+    highly parallel, data-demanding, and mission-critical workloads.
+    Many of these processors integrate security capabilities
+    designed to enhance data integrity and server virtualization.
+
+
+
+Other
+    Intel Architecture Operating Segments
+
+
+
+Embedded
+    and Communications Group
+
+
+
+The Embedded and Communications Group (ECG) offers highly
+    scalable microprocessors, including Intel Atom processors, and
+    chipsets for a growing number of embedded applications across
+    numerous market segments, such as industrial, medical, and
+    in-vehicle infotainment.
+
+
+
+Our new product offerings in 2010 and early 2011 include:
+
+•Embedded Intel Core i7 processors, Intel Core i5 processors, and
+    Intel Core i3 processors, all using our 32nm process technology
+    and with integrated high-definition graphics functionality.
+    These processors are supported by the Mobile Intel 5 Series
+    Express Chipset family.•The first six-core Intel Xeon processor for the embedded
+    computing segment, as well as quad-core processors that are
+    built for thermally constrained environments.•Intel Atom processors designed for print imaging, digital
+    security surveillance, in-vehicle infotainment systems, and
+    other industrial applications.•Configurable Intel Atom processors that incorporate
+    field-programmable gate arrays, designed to enable original
+    equipment manufacturers (OEMs) to customize and differentiate
+    their products.
+
+
+
+Digital
+    Home Group
+
+
+
+The Digital Home Group offers products for use in consumer
+    electronics devices designed to access and share Internet,
+    broadcast, optical media (CD, DVD, or Blu-ray), and personal
+    content through a variety of linked digital devices within the
+    home. We offer components for consumer electronics devices such
+    as digital TVs, high-definition media players, cable modems, and
+    set-top boxes, which receive, decode, and convert incoming data
+    signals. In 2010, we introduced Intel Atom processors designed
+    to enable seamless integration of Internet, television, and
+    personal content with search capability.
+
+
+
+Ultra-Mobility
+    Group
+
+
+
+The Ultra-Mobility Group offers energy-efficient Intel Atom
+    processors and related chipsets designed for the handheld market
+    segment. In 2010, we introduced an Intel Atom processor-based
+    platform that provides significantly lower power consumption
+    compared to previous-generation Intel Atom processor-based
+    platforms. The new platform is designed for a range of computing
+    devices, including high-end smartphones and other mobile
+    handheld products.
+
+
+
+
+
+Other
+    Operating Segments
+
+
+
+NAND
+    Solutions Group
+
+
+
+The NAND Solutions Group offers NAND flash memory products
+    primarily used in portable memory storage devices, digital
+    camera memory cards, solid-state drives (SSDs), and other
+    devices. Our SSDs, available in densities ranging from 32
+    gigabytes (GB) to 250 GB, weigh less than traditional hard
+    drives and are designed to enable faster boot times, lower power
+    consumption, increased reliability, and improved performance.
+    Our NAND flash memory products are manufactured by IM Flash
+    Technologies, LLC (IMFT). See “Note 11: Equity Method and
+    Cost Method Investments” in Part II, Item 8 of this Form10-K.
+
+
+
+In 2010 and early 2011, we introduced 40-GB, 120-GB, and 250-GB
+    SSDs based on 34nm NAND flash technology, designed for laptop
+    and desktop computers. In addition, we introduced 40-GB and
+    80-GB small-form-factor SSDs based on 34nm NAND flash
+    technology, designed for dual-drive notebooks andall-in-onedesktops and tablet computers.
+
+
+
+Wind
+    River Software Group
+
+
+
+The Wind River Software Group develops and licenses device
+    software optimization products, including operating systems, for
+    the needs of customers in the embedded and handheld market
+    segments.
+
+
+
+Manufacturing
+    and Assembly and Test
+
+
+
+As of December 25, 2010, 61% of our wafer fabrication, including
+    microprocessors and chipsets, was conducted within the U.S. at
+    our facilities in Arizona, New Mexico, Oregon, and
+    Massachusetts. The remaining 39% of our wafer fabrication was
+    conducted outside the U.S. at our facilities in Israel, Ireland,
+    and China. Our China facility began wafer manufacturing in the
+    fourth quarter of 2010.
+
+
+
+As of December 25, 2010, we primarily manufactured our products
+    in wafer fabrication facilities at the following locations:
+
+
+
+ProductsWafer SizeProcess TechnologyLocationsMicroprocessors300mm32nmOregon, Arizona, New MexicoMicroprocessors300mm45nmIsrael, New MexicoChipsets and microprocessors300mm65nmIreland, Arizona, ChinaChipsets and other products300mm90nmIrelandChipsets and other products200mm130nm and aboveMassachusetts, Ireland
+
+
+
+
+
+As of December 25, 2010, the majority of our microprocessors
+    were manufactured on 300mm wafers using our 32nm process
+    technology. In the second half of 2011, we expect to begin
+    manufacturing microprocessors using our 22nm process technology.
+    As we move to each succeeding generation of manufacturing
+    process technology, we incur significantstart-upcosts to prepare each factory for manufacturing. However,
+    continuing to advance our process technology provides benefits
+    that we believe justify these costs. The benefits of moving to
+    each succeeding generation of manufacturing process technology
+    can include using less space per transistor, reducing heat
+    output from each transistor,and/orincreasing the number of integrated features on each chip. These
+    advancements can result in microprocessors that are higher
+    performing, consume less power,and/orcost
+    less to manufacture.
+
+
+
+We use third-party manufacturing companies (foundries) to
+    manufacture wafers for certain components, including networking
+    and communications products. In addition, we primarily use
+    subcontractors to manufacture board-level products and systems,
+    and purchase certain communications networking products from
+    external vendors in the Asia-Pacific region.
+
+
+
+Following the manufacturing process, the majority of our
+    components are subject to assembly and test. We perform our
+    components assembly and test at facilities in Malaysia, China,
+    Costa Rica, and Vietnam. Our Vietnam facility began production
+    in the first half of 2010. To augment capacity, we use
+    subcontractors to perform assembly of certain products,
+    primarily chipsets and networking and communications products.
+
+
+
+Our NAND flash memory products are manufactured by IMFT, a NAND
+    flash memory manufacturing company that we formed with Micron
+    Technology, Inc. Our NAND flash memory products are manufactured
+    by IMFT using 25nm, 34nm, or 50nm process technology. As of
+    December 25, 2010, we were committed to purchase 49% of the
+    manufactured output of IMFT. Assembly and test of NAND flash
+    memory products is performed by Micron and other external
+    subcontractors. See “Note 11: Equity Method and Cost Method
+    Investments” in Part II, Item 8 of this Form10-K.
+
+
+
+Our employment practices are consistent with, and we expect our
+    suppliers and subcontractors to abide by, local country law. In
+    addition, we impose a minimum employee age requirement as well
+    as progressive EHS requirements, regardless of local law.
+
+
+
+
+
+We have thousands of suppliers, including subcontractors,
+    providing our various materials and service needs. We set
+    expectations for supplier performance and reinforce those
+    expectations with periodic assessments. We communicate those
+    expectations to our suppliers regularly and work with them to
+    implement improvements when necessary. We seek, where possible,
+    to have several sources of supply for all of these materials and
+    resources, but we may rely on a single or limited number of
+    suppliers, or upon suppliers in a single country. In those
+    cases, we develop and implement plans and actions to reduce the
+    exposure that would result from a disruption in supply. We have
+    entered into long-term contracts with certain suppliers to
+    ensure a portion of our silicon supply.
+
+
+
+Our products are typically produced at multiple Intel facilities
+    at various sites around the world, or by subcontractors who have
+    multiple facilities. However, some products are produced in only
+    one Intel or subcontractor facility, and we seek to implement
+    action plans to reduce the exposure that would result from a
+    disruption at any such facility. See “Risk Factors” in
+    Part I, Item 1A of this Form10-K.
+
+
+
+Research
+    and Development
+
+
+
+We are committed to investing in world-class technology
+    development, particularly in the design and manufacture of
+    integrated circuits. Research and development (R&D)
+    expenditures in 2010 were $6.6 billion ($5.7 billion in 2009 and
+    2008).
+
+
+
+Our R&D activities are directed toward developing the
+    technology innovations that we believe will deliver our next
+    generation of products and platforms, which will in turn enable
+    new form factors and usage models for businesses and consumers.
+    Our R&D activities range from designing and developing new
+    products and manufacturing processes to researching future
+    technologies and products.
+
+
+
+We are focusing our R&D efforts on advanced computing
+    technologies, developing new microarchitectures, advancing our
+    silicon manufacturing process technology, delivering the next
+    generation of microprocessors and chipsets, improving our
+    platform initiatives, and developing software solutions and
+    tools to support our technologies. Our R&D efforts enable
+    new levels of performance and address areas such as energy
+    efficiency, security, scalability for multi-core architectures,
+    system manageability, and ease of use. We continue to make
+    significant R&D investments in the development of SoCs to
+    enable growth in areas such as handheld devices, embedded
+    applications, and consumer electronics. In addition, we continue
+    to make significant investments in wireless technologies,
+    graphics, and high-performance computing.
+
+
+
+As part of our R&D efforts, we plan to introduce a new
+    microarchitecture for our notebook, desktop, and Intel Xeon
+    processors approximately every two years and ramp the next
+    generation of silicon process technology in the intervening
+    years. We refer to this as our “tick-tock” technology
+    development cadence. In 2010, we introduced our 2nd generation
+    Intel Core microarchitecture, a new microarchitecture using our
+    existing 32nm process technology. We are currently developing
+    22nm process technology, our next-generation process technology,
+    and expect to begin manufacturing products using that technology
+    in the second half of 2011. Our leadership in silicon technology
+    has enabled us to make “Moore’s Law” a reality.
+    Moore’s Law predicted that transistor density on integrated
+    circuits would double about every two years. Our leadership in
+    silicon technology has also helped expand on the advances
+    anticipated by Moore’s Law by bringing new capabilities
+    into silicon and producing new products and platforms optimized
+    for a wider variety of applications.
+
+
+
+Our R&D model is based on a global organization that
+    emphasizes a collaborative approach to identifying and
+    developing new technologies, leading standards initiatives, and
+    influencing regulatory policies to accelerate the adoption of
+    new technologies. Our R&D initiatives are performed by
+    various internal business groups, and we centrally manage key
+    cross-business group product initiatives to align and prioritize
+    our R&D activities across these groups. In addition, we may
+    augment our R&D initiatives by investing in companies or
+    entering into agreements with companies that have similar
+    R&D focus areas. For example, we have an agreement with
+    Micron for joint development of NAND flash memory technologies.
+
+
+
+Employees
+
+
+
+As of December 25, 2010, we had 82,500 employees worldwide, with
+    approximately 55% of those employees located in the U.S.
+
+
+
+Sales and
+    Marketing
+
+
+
+Customers
+
+
+
+We sell our products primarily to original equipment
+    manufacturers (OEMs) and original design manufacturers (ODMs).
+    ODMs provide designand/ormanufacturing services to branded and unbranded private-label
+    resellers. In addition, we sell our products to other
+    manufacturers, including makers of a wide range of industrial
+    and communications equipment. Our customers also include those
+    who buy PC components and our other products through
+    distributor, reseller, retail, and OEM channels throughout the
+    world.
+
+
+
+
+
+Our worldwide reseller sales channel consists of thousands of
+    indirect customers—systems builders that purchase Intel
+    microprocessors and other products from our distributors. We
+    have a boxed processor program that allows distributors to sell
+    Intel microprocessors in small quantities to these
+    systems-builder customers; boxed processors are also available
+    in direct retail outlets.
+
+
+
+In 2010, Hewlett-Packard Company accounted for 21% of our net
+    revenue (21% in 2009 and 20% in 2008) and Dell Inc. accounted
+    for 17% of our net revenue (17% in 2009 and 18% in 2008). No
+    other customer accounted for more than 10% of our net revenue.
+    For information about revenue and operating income by operating
+    segment, and revenue from unaffiliated customers by geographic
+    region/country, see “Results of Operations” in Part
+    II, Item 7 and “Note 30: Operating Segment and Geographic
+    Information” in Part II, Item 8 of this Form10-K.
+
+
+
+Sales
+    Arrangements
+
+
+
+Our products are sold through sales offices throughout the
+    world. Sales of our products are typically made via purchase
+    order acknowledgments that contain standard terms and conditions
+    covering matters such as pricing, payment terms, and warranties,
+    as well as indemnities for issues specific to our products, such
+    as patent and copyright indemnities. From time to time, we may
+    enter into additional agreements with customers covering, for
+    example, changes from our standard terms and conditions, new
+    product development and marketing, private-label branding, and
+    other matters. Most of our sales are made using electronic and
+    web-based processes that allow the customer to review inventory
+    availability and track the progress of specific goods ordered.
+    Pricing on particular products may vary based on volumes ordered
+    and other factors. We also offer discounts, rebates, and other
+    incentives to customers to increase acceptance of our products
+    and technology.
+
+
+
+Our products are typically shipped under terms that transfer
+    title to the customer, even in arrangements for which the
+    recognition of revenue and related costs of sales is deferred.
+    Our standard terms and conditions of sale typically provide that
+    payment is due at a later date, generally 30 days after shipment
+    or delivery. Our credit department sets accounts receivable and
+    shipping limits for individual customers to control credit risk
+    to Intel arising from outstanding account balances. We assess
+    credit risk through quantitative and qualitative analysis, and
+    from this analysis, we establish credit limits and determine
+    whether we will seek to use one or more credit support devices,
+    such as obtaining some form of third-party guarantee or standby
+    letter of credit, or obtaining credit insurance for all or a
+    portion of the account balance if necessary. Credit losses may
+    still be incurred due to bankruptcy, fraud, or other failure of
+    the customer to pay. For information about our allowance for
+    doubtful receivables, see “Schedule II—Valuation and
+    Qualifying Accounts” in Part IV of this Form10-K.
+
+
+
+Most of our sales to distributors are made under agreements
+    allowing for price protection on unsold merchandise and a right
+    of return on stipulated quantities of unsold merchandise. Under
+    the price protection program, we give distributors credits for
+    the difference between the original price paid and the current
+    price that we offer. On most products, there is no contractual
+    limit on the amount of price protection, nor is there a limit on
+    the time horizon under which price protection is granted. The
+    right of return granted generally consists of a stock rotation
+    program in which distributors are able to exchange certain
+    products based on the number of qualified purchases made by the
+    distributor. We have the option to grant credit for, repair, or
+    replace defective products, and there is no contractual limit on
+    the amount of credit that may be granted to a distributor for
+    defective products.
+
+
+
+Distribution
+
+
+
+Distributors typically handle a wide variety of products,
+    including those that compete with our products, and fill orders
+    for many customers. We also utilize third-party sales
+    representatives who generally do not offer directly competitive
+    products but may carry complementary items manufactured by
+    others. Sales representatives do not maintain a product
+    inventory; instead, their customers place orders directly with
+    us or through distributors. We have several distribution
+    warehouses that are located in close proximity to key customers.
+
+
+
+Backlog
+
+
+
+We do not believe that backlog as of any particular date is
+    meaningful, as our sales are made primarily pursuant to standard
+    purchase orders for delivery of products. Only a small portion
+    of our orders is non-cancelable, and the dollar amount
+    associated with the non-cancelable portion is not significant.
+
+
+
+Seasonal
+    Trends
+
+
+
+Our microprocessor sales generally have followed a seasonal
+    trend. Historically, our sales have been higher in the second
+    half of the year than in the first half of the year,
+    accelerating in the third quarter and peaking in the fourth
+    quarter. Consumer purchases of PCs have historically been higher
+    in the second half of the year, primarily due toback-to-schooland holiday demand. In addition, purchases from businesses have
+    also historically tended to be higher in the second half of the
+    year.
+
+
+
+
+
+Marketing
+
+
+
+Our corporate marketing objectives are to build a strong,
+    well-known Intel corporate brand that connects with businesses
+    and consumers, and to offer a limited number of meaningful and
+    valuable brands in our portfolio to aid businesses and consumers
+    in making informed choices about technology purchases. The Intel
+    Core processor family and the Intel Atom,
+    Intel®Pentium®,
+
+    Intel®Celeron®,
+
+    Intel Xeon, and Intel Itanium trademarks make up our processor
+    brands.
+
+
+
+We promote brand awareness and generate demand through our own
+    direct marketing as well as co-marketing programs. Our direct
+    marketing activities include television, print, and Internet
+    advertising, as well as press relations, consumer and trade
+    events, and industry and consumer communications. We market to
+    consumer and business audiences, and focus on building awareness
+    and generating demand for increased performance, improved energy
+    efficiency, and other capabilities such as Internet connectivity
+    and security.
+
+
+
+Purchases by customers often allow them to participate in
+    cooperative advertising and marketing programs such as the Intel
+    Inside®Program. This program broadens the reach of our brands beyond
+    the scope of our own direct marketing. Through the Intel Inside
+    Program, certain customers are licensed to place Intel logos on
+    computers containing our microprocessors and processor
+    technologies, and to use our brands in their marketing
+    activities. The program includes a market development component
+    that accrues funds based on purchases and partially reimburses
+    the OEMs for marketing activities for products featuring Intel
+    brands, subject to the OEMs meeting defined criteria. These
+    marketing activities primarily include television, print, and
+    Internet marketing. We have also entered into joint marketing
+    arrangements with certain customers.
+
+
+
+Competition
+
+
+
+The semiconductor industry is dynamic, characterized by rapid
+    advances in technology and frequent product introductions. As
+    unit volumes of a product grow, production experience is
+    accumulated and costs typically decrease, further competition
+    develops, and prices decline. The life cycle of our products is
+    very short, sometimes less than a year. These short product life
+    cycles and other factors lead to frequent negotiations with our
+    OEM customers, which typically are large, sophisticated buyers
+    who are also operating in very competitive environments. Our
+    ability to compete depends on our ability to navigate this
+    environment, by improving our products and processes faster than
+    our competitors, anticipating changing customer requirements,
+    developing and launching new products and platforms, pricing our
+    products competitively, and reducing average unit cost. See
+    “Risk Factors” in Part I, Item 1A of this Form10-K.
+
+
+
+Our products compete primarily based on performance, energy
+    efficiency, features, price, quality, reliability, brand
+    recognition, and availability. We are focused on offering
+    innovative products and worldwide support for our customers at
+    competitive prices, including providing improved
+    energy-efficient performance, enhanced security, and Internet
+    connectivity. We believe that our computing platforms, which we
+    define as integrated hardware and software computing
+    technologies that are designed to provide an optimized solution,
+    provide us with a competitive advantage compared to components
+    that are used separately.
+
+
+
+We believe that our network of manufacturing facilities and
+    assembly and test facilities gives us a competitive advantage.
+    This network enables us to have more direct control over our
+    processes, quality control, product cost, volume, timing of
+    production, and other factors. These facilities require
+    significant up-front capital spending and therefore make it
+    difficult for us to reduce our costs in the short term. Many of
+    our competitors do not own such facilities because they may not
+    be able to afford to do so or because their business models
+    involve the use of third-party foundries and assembly and test
+    subcontractors for manufacturing and assembly and test. The
+    third-party foundries and subcontractors may also offer
+    intellectual property, design services, and other goods and
+    services to our competitors. These “fabless”
+    semiconductor companies include Broadcom Corporation, NVIDIA
+    Corporation, QUALCOMM Incorporated, and VIA Technologies, Inc.
+    Some of our competitors, such as Advanced Micro Devices, Inc.
+    (AMD), own portions of such facilities through investment or
+    joint-venture arrangements with other companies.
+
+
+
+We plan to continue to cultivate new businesses and work with
+    the computing and communications industries through standards
+    bodies, trade associations, OEMs, ODMs, and independent software
+    and operating system vendors to help align the industry to offer
+    products that take advantage of the latest market trends and
+    usage models. We frequently participate in industry initiatives
+    designed to discuss and agree upon technical specifications and
+    other aspects of technologies that could be adopted as standards
+    by standards-setting organizations. Our competitors may also
+    participate in the same initiatives and specification
+    development. Our participation does not ensure that any
+    standards or specifications adopted by these organizations will
+    be consistent with our product planning.
+
+
+
+
+
+Microprocessors
+
+
+
+We continue to be largely dependent on the success of our
+    microprocessor business. Our ability to compete depends on our
+    ability to deliver new microprocessor products with increased
+    performance capabilities and improved energy-efficient
+    performance at competitive prices. Some of our microprocessor
+    competitors, such as AMD, market software-compatible products
+    that compete with our processors. We also face competition from
+    companies offering rival architecture designs, such as Cell
+    Broadband Engine Architecture developed jointly by International
+    Business Machines Corporation (IBM), Sony Corporation, and
+    Toshiba Corporation; Power Architecture* offered by IBM; ARM*
+    architecture developed by ARM Limited; and Sun Scalable
+    Processor Architecture (SPARC*) offered by Oracle Corporation.
+    In addition, NVIDIA has begun developing CPUs based on the ARM
+    architecture to combine with its graphics processors and has
+    shifted some of the workload traditionally performed by the
+    microprocessor to its graphics processor.
+
+
+
+AMD has been our primary competitor in the market segments for
+    microprocessors used in notebooks, desktops, and servers, while
+    companies using ARM-based designs are our primary competitors in
+    the growing market segments for microprocessors used in handheld
+    devices and tablets. Companies using ARM-based designs are also
+    targeting the notebook, netbook, and server market segments. ARM
+    does not manufacture microprocessors; they design and license
+    semiconductor intellectual property and offer supporting
+    software and services. Our ability to compete with ARM-based
+    competitors depends on our ability to design and produce
+    high-performance, energy-efficient microprocessors at
+    competitive prices. It also requires us to develop a software
+    ecosystem that appeals to end users and software developers. We
+    have taken a number of steps to build this software ecosystem,
+    including the development of MeeGo*, a Linux-based software
+    platform that will run on multiple hardware platforms; acquiring
+    McAfee, Inc., which we expect to complete in the first quarter
+    of 2011, and Wind River Systems, Inc.; and creating the
+    Intel®AtomtmDeveloper Program.
+
+
+
+The following is a list of our main microprocessor competitors
+    by market segment:
+
+•PC Client: AMD, QUALCOMM, and VIA•Server: AMD, IBM, and Oracle•Application
+    Processors1:
+
+    AMD, Broadcom, Freescale Semiconductor, Inc., MediaTek Inc.,
+    NVIDIA, QUALCOMM, Samsung Electronics Co., Ltd.,
+    STMicroelectronics N.V., and Texas Instruments Incorporated (TI)•Mobile Communications
+    Processors2:
+
+    MediaTek, QUALCOMM, ST-Ericsson N.V., and TI
+
+
+
+
+
+
+
+1The application processors market segment includes
+    microprocessors designed for embedded applications, consumer
+    electronics devices, and tablets.2The mobile communications processors market segment includes
+    microprocessors designed for handheld devices.
+
+
+
+Chipsets
+
+
+
+Our chipsets compete with chipsets produced by companies such as
+    AMD (including chipsets marketed under the ATI Technologies,
+    Inc. brand), Broadcom, NVIDIA, Silicon Integrated Systems
+    Corporation, and VIA. We also compete with companies offering
+    graphics components and other special-purpose products used in
+    the notebook, netbook, desktop, and workstation market segments.
+    One aspect of our business model is to incorporate improved
+    performance and advanced properties into our microprocessors and
+    chipsets, for which demand may increasingly be affected by
+    competition from companies whose business models are based on
+    dedicated chipsets and other components, such as graphics
+    controllers.
+
+
+
+Flash
+    Memory
+
+
+
+Our NAND flash memory products currently compete with NAND
+    products primarily manufactured by Hynix Semiconductor Inc.,
+    Micron, Samsung, SanDisk Corporation, and Toshiba.
+
+
+
+Connectivity
+
+
+
+We offer products designed for wireless and wired connectivity,
+    and network processors. Our WiFi and WiMAX products currently
+    compete with products manufactured by Atheros Communications,
+    Inc., Broadcom, QUALCOMM, and other smaller companies.
+
+
+
+Competition
+    Lawsuits and Government Matters
+
+
+
+We are currently a party to lawsuits and government matters
+    involving our competitive practices. See “Note 29:
+    Contingencies” in Part II, Item 8 of this Form10-K.
+
+
+
+
+
+Acquisitions
+    and Strategic Investments
+
+
+
+We expect to complete the acquisition of McAfee in the first
+    quarter of 2011. McAfee is a provider of security products and
+    services that help secure systems and networks. As a result of
+    the acquisition, we expect to hire approximately 6,400 McAfee
+    employees. McAfee’s offerings will include endpoint
+    security products, system security products, consumer security
+    products, network security products, and risk and compliance
+    products. Many of McAfee’s products are offered under a
+    software-as-a-service delivery model, an online console used to
+    manage and update hardware and software, which reduces
+    on-premise capital expenses. The anticipated acquisition of
+    McAfee reflects our belief that security is a fundamental
+    component of online computing. As we develop future products and
+    services, security considerations will be as important as our
+    continued focus on energy-efficient performance and Internet
+    connectivity.
+
+
+
+In the first quarter of 2011, we completed the acquisition of
+    the WLS business of Infineon. As a result of the acquisition, we
+    expect to hire approximately 3,700 employees from Infineon. The
+    WLS business will operate as Intel Mobile Communications and
+    offer mobile phone components such as baseband processors, radio
+    frequency transceivers, and power management chips. In addition
+    to managing the existing WLS business, the objective of the
+    acquisition is to contribute to our strategy to provide
+    solutions with Internet connectivity to a broad range of
+    computing devices.
+
+
+
+During 2009, we completed the acquisition of Wind River Systems,
+    a vendor of software for embedded devices. The objective of the
+    acquisition of Wind River Systems was to enable the introduction
+    of products for the embedded and handheld market segments,
+    resulting in benefits for our existing operations.
+
+
+
+For further information, see “Note 15: Acquisitions”
+    in Part II, Item 8 of this Form10-K.
+
+
+
+Intellectual
+    Property and Licensing
+
+
+
+Intellectual property rights that apply to our products and
+    services include patents, copyrights, trade secrets, trademarks,
+    and maskwork rights. We maintain a program to protect our
+    investment in technology by attempting to ensure respect for our
+    intellectual property rights. The extent of the legal protection
+    given to different types of intellectual property rights varies
+    under different countries’ legal systems. We intend to
+    license our intellectual property rights where we can obtain
+    adequate consideration. See “Competition” earlier in
+    this section, “Risk Factors” in Part I, Item 1A, and
+    “Note 29: Contingencies” in Part II, Item 8 of this
+    Form10-K.
+
+
+
+We have filed and obtained a number of patents in the U.S. and
+    other countries. While our patents are an important element of
+    our success, our business as a whole is not significantly
+    dependent on any one patent. Because of the fast pace of
+    innovation and product development, our products are often
+    obsolete before the patents related to them expire, and
+    sometimes are obsolete before the patents related to them are
+    even granted. As we expand our product offerings into new
+    industries, we also seek to extend our patent development
+    efforts to patent such product offerings. Established
+    competitors in existing and new industries, as well as companies
+    that purchase and enforce patents and other intellectual
+    property, may already have patents covering similar products.
+    There is no assurance that we will be able to obtain patents
+    covering our own products, or that we will be able to obtain
+    licenses from such companies on favorable terms or at all.
+
+
+
+The majority of the software that we distribute, including
+    software embedded in our component-level and system-level
+    products, is entitled to copyright protection. To distinguish
+    Intel products from our competitors’ products, we have
+    obtained certain trademarks and trade names for our products,
+    and we maintain cooperative advertising programs with certain
+    customers to promote our brands and to identify products
+    containing genuine Intel components. We also protect certain
+    details about our processes, products, and strategies as trade
+    secrets, keeping confidential the information that we believe
+    provides us with a competitive advantage.
+
+
+
+Compliance
+    with Environmental, Health, and Safety Regulations
+
+
+
+Our compliance efforts focus on monitoring regulatory and
+    resource trends and setting company-wide performance targets for
+    key resources and emissions. These targets address several
+    parameters, including product design; chemical, energy, and
+    water use; climate change; waste recycling; and emissions.
+
+
+
+Intel focuses on reducing natural resource use, the solid and
+    chemical waste by-products of our manufacturing processes, and
+    the environmental impact of our products. We currently use a
+    variety of materials in our manufacturing process that have the
+    potential to adversely impact the environment and are subject to
+    a variety of EHS laws and regulations. Over the past several
+    years, we have significantly reduced the use of lead and
+    halogenated flame retardants in our products and manufacturing
+    processes.
+
+
+
+
+
+We work with the U.S. Environmental Protection Agency (EPA),
+    non-governmental organizations, OEMs, and retailers to help
+    managee-waste(which includes electronic products nearing the end of their
+    useful lives) and promote recycling. The European Union requires
+    producers of certain electrical and electronic equipment to
+    develop programs that allow consumers to return products for
+    recycling. Many states in the U.S. have similare-wastetake-back laws. Although these laws are typically targeted at
+    the end electronic product and not the component products that
+    Intel manufactures, the inconsistency of manye-wastetake-back laws and the lack of locale-wastemanagement options in many areas pose a challenge for our
+    compliance efforts.
+
+
+
+Intel seeks to reduce our global greenhouse gas emissions by
+    investing in energy conservation projects in our factories and
+    working with suppliers to improve energy efficiency. We take a
+    holistic approach to power management, addressing the challenge
+    at the silicon, package, circuit, micro/macro architecture,
+    platform, and software levels. We recognize that climate change
+    may cause general economic risk. For further information on the
+    risks of climate change, see “Risk Factors” in Part I,
+    Item 1A of this Form10-K.We see
+    the potential for higher energy costs driven by climate change
+    regulations. This could include items applied to utilities that
+    are passed along to customers, such as carbon taxes or costs
+    associated with obtaining permits for our U.S. manufacturing
+    operations, emission cap and trade programs, or renewable
+    portfolio standards.
+
+
+
+We are committed to sustainability and take a leadership
+    position in promoting voluntary environmental initiatives and
+    working proactively with governments, environmental groups, and
+    industry to promote global environmental sustainability. We
+    believe that technology will be fundamental to finding solutions
+    to the world’s environmental challenges, and we are joining
+    forces with industry, business, and governments to find and
+    promote ways that technology can be used as a tool to combat
+    climate change.
+
+
+
+We have been purchasing wind power and other forms of renewable
+    energy at some of our major sites for several years. At the
+    beginning of 2008, we announced plans to purchase renewable
+    energy certificates under a multi-year contract. The purchase
+    has placed Intel at the top of the EPA’s Green Power
+    Partnership for the past three years and was intended to help
+    stimulate the market for green power, leading to additional
+    generating capacity and, ultimately, lower costs.
+
+
+
+
+
+Executive
+    Officers of the Registrant
+
+
+
+The following sets forth certain information with regard to our
+    executive officers as of February 18, 2011 (ages are as of
+    December 25, 2010):
+
+
+
+
+
+Andy D. Bryant, age 60•   2009 – present,Executive VP, Technology,  Manufacturing, and Enterprise
+    Services,  Chief Administrative Officer•   2007 – 2009,Executive VP, Finance and Enterprise Services, Chief
+    Administrative Officer•   2001 – 2007,Executive VP, Chief Financial and Enterprise Services Officer•   Member of Columbia Sportswear Company
+    Board of Directors•   Member of McKesson Corporation Board of
+    Directors•   Joined Intel 1981William M. Holt, age 58•   2006 – present,Senior VP, GM, Technology and  Manufacturing Group•   2005 – 2006,VP, Co-GM, Technology and Manufacturing Group•   Joined Intel 1974Thomas M. Kilroy, age 53•   2010 – present,Senior VP, GM, Sales and Marketing Group•   2009 – 2010,VP, GM, Sales and Marketing Group•   2005 – 2009,VP, GM, Digital Enterprise Group•   Joined Intel 1990A. Douglas Melamed, age 65•   2009 – present,Senior VP, General Counsel•   2001 – 2009,Partner, Wilmer Cutler Pickering Hale and Dorr LLP•   Joined Intel 2009
+
+
+
+
+
+Paul S. Otellini, age 60•   2005 – present,President, Chief Executive Officer•   Member of Intel Corporation Board of
+    Directors•   Member of Google, Inc. Board of Directors•   Joined Intel 1974David Perlmutter, age 57•   2009 – present,Executive VP, GM, Intel Architecture Group•   2007 – 2009,Executive VP, GM, Mobility Group•   2005 – 2007,Senior VP, GM, Mobility Group•   Joined Intel 1980Stacy J. Smith, age 48•   2010 – present,Senior VP, Chief Financial Officer•   2007 – 2010,VP, Chief Financial Officer•   2006 – 2007,VP, Assistant Chief Financial Officer•   2004 – 2006,VP, Finance and Enterprise Services, Chief Information Officer•   Member of Gevo, Inc. Board of Directors•   Joined Intel 1988Arvind Sodhani, age 56•   2007 – present,Executive VP of Intel, President of Intel Capital•   2005 – 2007,Senior VP of Intel, President of Intel Capital•   Member of Clearwire Corporation Board of
+    Directors•   Member of SMART Technologies, Inc. Board
+    of Directors•   Joined Intel 1981
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

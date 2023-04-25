@@ -1,0 +1,274 @@
+ITEM 1. BUSINESS
+
+
+
+Maxim Integrated Products, Inc. ("Maxim" or the "Company" and also referred to as "we," "our" or "us") designs, develops, manufactures and markets a broad range of linear and mixed-signal integrated circuits, commonly referred to as analog circuits, for a large number of customers in diverse geographical locations. The analog market is fragmented and characterized by diverse applications, numerous product variations and, with respect to many circuit types, relatively long product life cycles. Our objective is to develop and market both proprietary and industry-standard analog integrated circuits that meet the increasingly stringent quality and performance standards demanded by customers.
+
+
+
+We are a Delaware corporation originally incorporated in California in 
+1983. We are headquartered in Sunnyvale, California. The mailing address for our headquarters is 120 San Gabriel Drive, Sunnyvale, California 94086, and our telephone number is (408) 737-7600. Additional information about us is available on our website at www.maxim-ic.com.
+
+
+
+We make available through our website, free of charge, our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and any amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (the "Exchange Act") as soon as reasonably practicable after they are electronically filed with or furnished to the SEC. We assume no obligation to update or revise any forward-looking statements in this Annual Rep
+ort on Form 10-K, whether as a result of new information, future events or otherwise, unless we are required to do so by applicable laws. A copy of this Annual Report on Form 10-K is available without charge upon written request to: Investor Relations, Maxim Integrated Products, Inc., 120 San Gabriel Drive, Sunnyvale, California 94086.
+
+
+
+The Mixed Signal Analog Integrated Circuit Market
+
+
+
+All electronic signals generally fall into one of two categories, linear or digital. Linear (or analog) signals represent real
+ world phenomena, such as temperature, pressure, sound, or speed, and are continuously variable over a wide range of values. Digital signals represent the "ones" and "zeros" of binary arithmetic and are either on or off.
+
+
+
+Three general classes of semiconductor products arise from this distinction between linear and digital signals:
+
+
+
+•digital devices, such as memories and microprocessors that operate primarily in the digital domain;
+
+•linear devices such as amplifiers, references, analog multiplexers and switches that operate primarily in the analog domain; and
+
+•mixed-signal devices such as data converter devices that combine linear and digital functions on the same integrated circuit and interface between the analog and digital domains.
+
+
+
+Our strategy has been to target both the linear and mixed-signal markets, often collectively referred to as the analog market. However, some of our products are exclusively or principally digital. While our fo
+cus continues to be on the linear and mixed signal market, our capabilities in the digital domain enable development of new mixed signal and other products with highly sophisticated digital characteristics. Risks associated with pursuing this strategy are discussed in Item 1A - Risk Factors.
+
+
+
+Our linear and mixed signal products serve four major end-markets. These major end-markets and their corresponding market segments are noted in the table below:
+
+
+
+
+
+
+
+
+
+
+
+
+MAJOR END-MARKETMARK
+ET SEGMENTINDUSTRIALAutomatic Test EquipmentAutomotiveControl & AutomationElectronic InstrumentationMedicalMilitary & AerospaceSecurityUtility & Other MetersOther IndustrialCOMMUNICATIONSBasestationsNetwork & DatacomTelecomOther CommunicationsCONSUMERCell PhonesDigital CamerasHome Entertainment & AppliancesOther ConsumerCOMPUTINGData StorageFinancial TerminalsNotebook ComputersServer & Desktop ComputersPeripherals & Other Computer
+
+
+
+Product Quality
+
+
+
+We employ a system addressing quality and reliability of our products from initial design through wafer fabrication, assembly, testing and final shipment. We have received ISO 9001/2, TS 16949 and ISO 14001 certifications for all wafer fabrication, assembly, final test and shipping facilities. Reliability stress testing is performed on products manufactured and sold by Maxim, based on industry standard requirements, in an effort to detect and accelerate the presence of defects that may arise over the life of a product in order to ensure the reliability of our products.
+
+
+
+Manufacturing
+
+
+
+We primarily manufacture our own wafers and, to a lesser extent, utilize third-party silicon foundries to produce wafers. The majority of processed wafers are subjected to parametric and functional testing at our facilities. The broad range of products demanded by the mixed signal analog integrated circuit market requires multiple manufacturing process technologies. As a result, many different process technologies are currently used for wafer fabrication of our products. Historically, wafer fabrication of analog integrated circuits has not required the state-of-the-art processing equipment necessary for the fabrication of advanced digital integrated circuits, although newer processes do utilize and require such state-of-the-art facilities and equipment. In addition, hybrid and module products are manufactured using a complex multi-chip technology featuring thin-film
+, laser-trimmed resistors and other active or passive components. We primarily rely on our own fabrication technologies and facilities to implement such manufacturing requirements.  We also utilize unaffiliated manufacturing subcontractors.
+
+
+
+During fiscal years 2010, 2009 and 2008, most of our own wafer production occurred at one of our four owned wafer fabrication facilities consisting of the following:
+
+
+
+Facility LocationFiscal Year AcquiredBeaverton, Oregon1994San Jose, California1998Dallas, Texas2001San Antonio, Texas2004
+
+
+
+
+
+
+
+
+
+
+
+
+At the end of fiscal year 2009, we ceased wafer fabrication efforts in our Dallas, Texas facility. In fiscal year 2007, we entered into a five-year supply agreement with Seiko Epson Corporation ("Epson") under which Epson has manufactured some of our mixed-signal semiconductor products. These products are manufactured by Epson under rights and licenses using our proprietary technology at Epson's fabrication facility located in Sakata, Japan. In fiscal years 2010, 2009, and 2008 the products manufactured by Epson represented 19%, 9% and 6% of our total wafer production.  We are adding 300mm and 200mm wafer capacity at foundries in Taiwan, which will increase our output capacity in fiscal year 2011 and beyond.
+
+&nbs
+p;
+
+We have a wafer bump manufacturing facility located in Dallas, Texas. We use this facility to manufacture products that utilize chip scale packaging ("CSP") or wafer level packaging ("WLP"). CSP or WLP (collectively referred to as "CSP") enables integrated circuits to be attached directly to a printed circuit board without the use of a traditional plastic package. In addition, we utilize independent subcontractors to perform wafer bump manufacturing to the extent we do not have the internal capacity or capabilities to perform such services.
+
+
+
+Once wafer manufacturing has been completed, wafers are generally sorted in order to determine which
+ integrated circuits on each wafer are functional and which are defective. We currently perform wafer sort, final test and shipping activities at two facilities located in Cavite, the Philippines, and Chonburi Province, Thailand. Our finished products ship directly from either Cavite, the Philippines or Chonburi Province, Thailand to customers worldwide or to other Company locations for sale to end-customers or distributors.  In addition, we utilize independent subcontractors to perform wafer sort.
+
+
+
+Integrated circuit assembly is performed by foreign assembly subcontractors, located in the Philippines, Malaysia, Thailand, China, Taiwan, Singapore, South Korea and Japan, where wafers are separated into individual integrated circuits and assembled into a variety of
+ packages.
+
+
+
+After assembly has been completed, the majority of the assembled product is shipped back to our facilities located in Cavite, the Philippines or Chonburi Province, Thailand where the packaged integrated circuits undergo final testing and preparation for customer shipment. In addition, we utilize independent subcontractors to perform final testing.
+
+
+
+We currently perform substantially all of our module assembly operations in our facility in Batangas, Philippines. The Batangas, Philippines facility also performs wafer 
+singulation and tape-and-reel of bumped (CSP or WLP) wafers.
+
+
+
+Sales and Marketing
+
+
+
+We market our products worldwide through a direct-sales and applications organization and through our own and other unaffiliated distribution channels to a broad range of customers in diverse industries. Our products typically require a sophisticated technical sales effort. Our sales organization is divided into domestic and international regions. Distributors and direct customers generally buy on an individual purchase order bas
+is, rather than pursuant to long-term agreements.
+
+
+
+Certain distributors have agreements with us which allow for price protection on certain inventory if we lower the price of our products. Certain distributor agreements also generally permit distributors to exchange a portion of certain purchases on a periodic basis. As is customary in the semiconductor industry, our distributors may market products which compete with our products.
+
+
+
+Sales to certain international distributors are made under agreements which permit limited stock
+ return privileges but not sales price rebates.  The agreements generally permit distributors to exchange a portion of their purchases on a periodic basis.  See "Critical Accounting Policies" in Part II, Item 7 - Management's Discussion and Analysis of Financial Condition and Results of Operations and Note 2 to the Consolidated Financial Statements accompanying this Annual Report on Form 10-K, which contains information regarding our revenue recognition policy.
+
+
+
+We operate in one reportable segment - the design, development, marketing and manufacturing of a broad range of linear and mixed signal integrated circuits. Our primary distributor, Avnet Electronics, accounted for approximately 12% of net revenues in fiscal year 2010 and fiscal 2009. Distr
+ibutors are not end customers, but rather serve as a channel of sale to many end users of the Company's products.Samsung accounted for approximately 12% of net revenues in fiscal year 2010, and no other single customer accounted for more than 10% of revenue in fiscal year 2010. No single customer accounted for more than 10% of net revenues in fiscal year 2008. No single product accounted for more than 10% of net revenues in fiscal years 2010, 2009 and 2008. Based on customers' ship-to locations, international sales accounted for approximately85%,82%and81%of net revenues in fiscal years 2010, 2009 and 2008, respectively. See Note 16, "Segment Information" in the Notes to Consolidated Financial Statements accompanying this Annual Report on Form 10-K.
+
+
+
+
+
+
+
+
+
+
+
+
+Backlog
+
+
+
+AtJune 26, 2010andJune 27, 2009, our current quarter backlog was approximately $614million and $278million, respectively. We include in our backlog orders with customer request dates within the next 3 months.
+ As is customary in the semiconductor industry, these orders may be canceled in most cases without penalty to the customers. In addition, our backlog includes orders from domestic distributors for which revenues are not recognized until the products are sold by the distributors. Accordingly, we believe that our backlog at any time should not be used as a measure of future revenues. All backlog numbers have been adjusted for estimated future U.S. distribution ship and debit pricing adjustments.  Please refer to the Risk Factor titled “Incorrect forecasts, reductions, cancellations or delays in orders for our products could adversely affect our results or operations” for the risks associated with backlog.
+
+
+
+Research and Development
+
+
+
+We believe that research and development is critical to our future success. Objectives for the research and development function include:
+
+
+
+•product definition and development of proprietary pro
+ducts;
+
+•design of parts for high yield and reliability;
+
+•development of, and access to, manufacturing processes and advanced packaging; and
+
+•development of hardware and software to support the acceptance and design-in of our products in the end customer's system.
+
+
+
+Our research and development plans require engineering ta
+lent and tools for process technologies, test development, packaging development, product definition, electronic design automation ("EDA"), circuit design, software development and applications support. Research and development expenses were approximately$474.7 million,$520.2 millionand$579.3 millionin fiscal years 2010, 2009 and 2008, respectively.See "Research and Development" under Item 7, Management's Discussion and Analysis of Financial Condition and Results of Operations, for 
+more information.
+
+
+
+Competition
+
+
+
+The mixed signal analog integrated circuit industry is intensely competitive, and virtually all major semiconductor companies presently compete with, or conceivably could compete with, some portion of our business.
+
+We believe the principal elements of competition include:
+
+
+
+•technical innovation, service and support;
+
+•time to market;
+
+•product performance and features;
+
+•quality and reliability;
+
+•product pricing and delivery capabilities;
+
+•customized design and applications;
+
+•business relationship with customers; and
+
+•manufacturing competence and inventory management.
+
+
+
+Our principal competitors include, but are not limited to, Texas Instruments Inc., Analog Devices, Inc., Intersil Corporation, Linear Technology Corporation, and National Semiconductor Corporation. In addition, we expect increased competition in the future from other emerging and established companies. For further description of competitive factors that may affect our future business, please refer to the section entitled "Our Operating Results May Be Adversely Affected by Increasing Competition" contained in Part I, Item 1A of this Annual Report on Form 10-K.
+
+
+
+Patents, Licenses, and Other Intellectual Property Rights
+
+
+
+We rely upon both know-how and patents to develop and maintain our competitive position. There can be no assurance that others will not develop or patent similar technology or reverse engineer our products or that the confidentiality agreements with employees, consultants, silicon foundries and other suppliers and vendors will be adequate to protect our interests. Our products interface with other products, which may require us to obtain licenses that we do not have.
+
+
+
+
+
+
+
+
+
+
+
+
+We hold and pursue intellectual property, including patents, trademarks and trade secrets as appropriate for our markets and technologies. It is our policy to seek patent protection for significant inventions that may be patented, though we may elect, in appropriate cases, not to seek patent protection even for significant inventions if other protection, such as maint
+aining the invention as a trade secret, is considered more advantageous. In addition, we have registered certain of our mask sets under the Semiconductor Chip Protection Act of 1984, as amended. We hold a number of patents worldwide with expiration dates ranging from 2010 to 2030. We have also registered several of our trademarks with the U.S. Patent and Trademark Office and in foreign jurisdictions.   Likewise, we have registered for and received certain copyrights.
+
+
+
+There can be no assurance that any patent will be issued on pending applications or that any patent issued will provide substantive protection for the technology or product covered by it.
+
+;
+
+Employees
+
+
+
+As ofJune 26, 2010, we employed approximately 9,200 people of whom approximately 4,500  were employed in the United States and approximately 4,700 were employed outside the United States. We consider our employee relations worldwide to be favorable.
+
+
+
+Environmental Regulations
+
+
+
+To date, our compliance with foreign, federal, state and local laws and regulations that have been enacted to regulate the environment has not had a material adverse effect on our capital expenditures, earnings, competitive or financial position. However, we could be subject to fines, suspension of production, alteration of our manufacturing processes or cessation of our operations if we fail to comply with present or future statutes and regulations governing the use, storage, handling, discharge or disposal of toxic, volatile or otherwise hazardous materials used in our manufacturing processes.
+
+
+
+Executive Officers
+
+
+
+For information regarding our current executive officers, please see Part III, Item 10 of this Annual Report on Form 10-K.
+
+
+
+
+

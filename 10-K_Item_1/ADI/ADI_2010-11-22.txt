@@ -1,0 +1,1057 @@
+ITEM 1.
+
+BUSINESS
+
+Company
+    Overview
+
+We are a world leader in the design, manufacture and marketing
+    of high-performance analog, mixed-signal and digital signal
+    processing integrated circuits, or ICs, used in virtually all
+    types of electronic equipment. Since our inception in 1965, we
+    have focused on solving the engineering challenges associated
+    with signal processing in electronic equipment. Our signal
+    processing products translate real-world phenomena such as
+    temperature, pressure, sound, light, speed and motion into
+    electrical signals to be used in a wide array of electronic
+    devices. Signal processing technology is a critical element of
+    industrial, automotive, consumer, and communications
+    applications. As new generations of digital applications evolve,
+    they generate new needs for high-performance analog signal
+    processing and digital signal processing technology. We produce
+    a wide range of products that are designed to meet the signal
+    processing technology needs of a broad base of customers.
+
+Used by over 60,000 customers worldwide, our products are
+    embedded inside many types of electronic equipment including:
+
+• Industrial process controls
+
+• Medical imaging equipment
+
+• Factory automation systems
+
+• Portable electronic devices
+
+• Instrumentation
+
+• Cellular basestations
+
+• Energy management systems
+
+• Wireless communications equipment
+
+• Defense electronics
+
+• Digital cameras
+
+• Automobiles
+
+• Digital televisions
+
+The breakdown of our fiscal 2010 revenue by end market is set
+    out in the table below.
+
+Percent of
+
+Total FY2010 ADI
+
+End Market
+
+Revenue*
+
+Industrial
+
+
+%
+
+Automotive
+
+
+%
+
+Consumer
+
+
+%
+
+Communications
+
+
+%
+
+Computer
+
+
+%
+
+*
+
+The sum of the individual percentages do not equal 100% due to
+    rounding.
+
+We sell our products worldwide through a direct sales force,
+    third-party distributors and independent sales representatives
+    and through our website. We have direct sales offices in 17
+    countries, including the United States.
+
+We were founded in 1965 and are incorporated in Massachusetts.
+    Our headquarters are near Boston, in Norwood, Massachusetts, and
+    we have manufacturing facilities in Massachusetts, Ireland, and
+    the Philippines. Our common stock is listed on the New York
+    Stock Exchange, or NYSE, under the symbol ADI and is included in
+    the Standard & Poor’s 500 Index.
+
+We maintain a website with the address www.analog.com. We are
+    not including the information contained on our website as a part
+    of, or incorporating it by reference into, this Annual Report on
+
+Form 10-K.
+
+We make available free of charge through our website our Annual
+    Reports on
+
+Form 10-K,
+
+Quarterly Reports on
+
+Form 10-Q
+
+and Current Reports on
+
+Form 8-K
+
+(including exhibits), and amendments to these reports, as soon
+    as reasonably practicable after we electronically file such
+    material with, or furnish such material to, the Securities and
+    Exchange Commission, or SEC. We also make available on our
+    website our corporate governance guidelines, the charters for
+    our audit committee, compensation committee, and nominating and
+    corporate governance committee, our equity award granting
+    policies, our code of business conduct and ethics which applies
+    to our directors, officers and employees, and our related person
+    transaction policy, and such information is available in print
+    and free of charge to any shareholder of Analog Devices who
+    requests it. In addition, we intend to disclose on our website
+    any amendments
+
+
+
+to, or waivers from, our code of business conduct and ethics
+    that are required to be publicly disclosed pursuant to rules of
+    the SEC or the NYSE.
+
+Industry
+    Background
+
+Electronic signals fall into one of two categories: analog or
+    digital. Analog signals, also known as linear signals, represent
+    real-world phenomena, such as temperature, pressure, sound,
+    light, speed and motion. This information can be detected and
+    measured using analog sensors, which generate an electronic
+    signal of continuously-varying voltages and currents. The
+    signals from these sensors are initially processed using analog
+    methods, such as amplification, filtering and shaping. They are
+    then usually converted to digital form for storage or further
+    manipulation. Digital signals represent the “ones” and
+    “zeros” of binary arithmetic; the further manipulation
+    of the signals after conversion to digital form is called
+    “digital signal processing,” or DSP. Digital signals
+    are often converted back to analog form for functions such as
+    video display, audio output or control. We refer to these
+    manipulations and transformations as “real-world signal
+    processing.” Providing real-world signal processing
+    solutions that achieve the customer’s desired performance
+    generally involves working in multiple technology domains:
+    analog and digital processing, sensors and transducers and power
+    management.
+
+New
+    Organizational Structure in 2009: Product and Market
+    Organizations
+
+We implemented a new organizational structure at the end of 2009
+    with the intention of optimizing our focus on the technologies
+    we create and the markets we serve. We continue to operate with
+    one reporting segment, but under the new organizational
+    structure we have two separate groups, one focused on products
+    and one focused on end markets. The product group is focused on
+    core technology development and leadership in converters,
+    amplifiers and radio frequency, or RF, micro-electromechanical
+    sensors, or MEMS, power management, and DSP. The end
+    market-focused organization is dedicated to understanding,
+    selecting, and resourcing initiatives that are more customized
+    to a particular market or application. The focus of this team is
+    to apply the full expanse of our broad technology portfolio to
+    more integrated and targeted product strategies for the
+    industrial, healthcare, automotive, consumer, and communications
+    infrastructure markets. The end market group includes our sales
+    organization.
+
+These two new groups collaborate at all levels. On the one hand,
+    our product group develops key technology for use by the end
+    market groups, which apply these technologies to specific
+    applications. Equally important, the applications expertise
+    within each end market group is used to enhance core technology
+    development by our product group.
+
+Principal
+    Products
+
+We design, manufacture and market a broad line of
+    high-performance ICs that incorporate analog, mixed-signal and
+    digital signal processing technologies. Our ICs are designed to
+    address a wide range of real-world signal processing
+    applications. Our product portfolio includes both
+    general-purpose products used by a broad range of customers and
+    applications, as well as application-specific products designed
+    for specific clusters of customers in key target markets. By
+    using readily available, high-performance, general-purpose
+    products in their systems, our customers can reduce the time
+    they need to bring new products to market. Given the high cost
+    of developing more customized ICs, our standard products often
+    provide a cost-effective solution for many low to medium volume
+    applications. However, for some industrial, medical, automotive,
+    consumer, and communications products, we focus on working with
+    leading customers to design application-specific solutions. We
+    begin with our existing core technologies in data conversion,
+    amplification, RF, MEMS, power management and DSP, and devise a
+    solution to more closely meet the needs of a specific customer
+    or group of customers. Because we have already developed the
+    core technology for our general-purpose products, we can create
+    application-specific solutions quickly.
+
+
+
+We produce and market several thousand products and operate in
+    one reporting segment. Our ten highest revenue products, in the
+    aggregate, accounted for approximately 9% of our revenue for
+    fiscal 2010. A breakdown of our fiscal 2010 revenue by product
+    category follows.
+
+Percent of
+
+Total FY2010 ADI
+
+Product Category
+
+Revenue
+
+Converters
+
+
+%
+
+Amplifiers/ Radio frequency
+
+
+%
+
+Other analog
+
+
+%
+
+Power management & reference
+
+
+%
+
+Digital signal processing
+
+
+%
+
+Analog
+    Products
+
+Our analog IC technology has been the foundation of our business
+    for over four decades, and we are one of the world’s
+    largest suppliers of high-performance analog ICs. Our analog
+    signal processing ICs are primarily high-performance devices,
+    generally defined today as devices that support a minimum of
+    12-bits of accuracy and a minimum of 50 megahertz of speed. The
+    principal advantages these products have versus
+    competitors’ products include higher accuracy, lower cost
+    per function, smaller size, lower power consumption and fewer
+    components, resulting in improved reliability. Our product
+    portfolio includes several thousand analog ICs, any one of which
+    can have as many as several hundred customers. Our analog ICs
+    typically have long product life cycles. Our analog
+    IC customers include both original equipment manufacturers,
+    or OEMs, and customers who build electronic subsystems for
+    integration into larger systems.
+
+We derive the majority of our analog signal processing IC
+    product revenue from sales of data converters and amplifiers. We
+    are the industry’s leading supplier of data converter
+    products. Data converters translate real-world analog signals
+    into digital data and also translate digital data into analog
+    signals. Data converters remain our largest and most diverse
+    product family and an area where we are continuously innovating
+    to enable our customers to redefine and differentiate their
+    products. With the industry’s leading portfolio of ADCs
+
+(analog-to-digital
+
+converters) and DACs
+
+(digital-to-analog
+
+converters), our converter products combine sampling rates and
+    accuracy with the low noise, power, price and small package size
+    required by industrial, medical, automotive, consumer, and
+    communications electronics. We are also a leading supplier of
+    high-performance amplifiers. Amplifiers are used to condition
+    analog signals and minimize noise. We provide high speed,
+    precision, RF, broadband, instrumentation and other amplifiers.
+    We also offer an extensive portfolio of comparators that are
+    used in a wide variety of applications.
+
+Our analog product line also includes a broad portfolio of RF
+    ICs covering the entire RF signal chain from industry-leading
+    high performance RF function blocks to highly integrated
+    broadband and short-range single chip transceiver solutions. To
+    date, we have sold our RF ICs principally for cellular
+    infrastructure and
+
+point-to-point
+
+applications and have been focused on the high performance end
+    of the market.
+
+Also within our analog technology portfolio are products that
+    use an advanced IC technology known in the industry as surface
+    micromachining, which is used to produce semiconductor products
+    known as micro-electromechanical systems, or MEMS. This
+    technology enables us to build extremely small mechanical
+    sensing elements on the surface of a chip along with supporting
+    circuitry. In addition to incorporating an electromechanical
+    structure, these devices also have analog circuitry for
+    conditioning signals obtained from the sensing element. The
+    integration of signal conditioning and MEMS is a unique feature
+    of our products which we call
+    iMEMS
+
+®
+
+.
+
+    Our iMEMS product portfolio includes accelerometers used to
+    sense acceleration, gyroscopes used to sense rotation, and MEMS
+    microphones used to capture audio sounds. The majority of our
+    current revenue from MEMS products is derived from automotive
+    manufacturers, industrial customers, and consumer customers.
+
+Power management and reference products make up the balance of
+    our analog sales. Whether the product is plugged into the wall
+    or runs on batteries, every electronic device requires some form
+    of power management, which can include converters, battery
+    chargers, charge pumps, and regulators. We leverage our leading
+    analog signal
+
+
+
+technology to devise innovative high-performance power
+    management ICs, high-reliability infrastructure equipment and
+    battery-operated portable medical, communications and consumer
+    devices.
+
+Digital
+    Signal Processing Products
+
+Digital Signal Processors (DSPs) complete our product portfolio.
+    DSPs are optimized for high-speed numeric calculations, which
+    are essential for instantaneous, or real-time, processing of
+    digital data generated, in most cases, from analog to digital
+    signal conversion. Our DSP products are designed to be fully
+    programmable and to efficiently execute specialized software
+    programs, or algorithms, associated with processing digitized
+    real-time, real-world data. Programmable DSPs provide the
+    flexibility to modify the device’s function quickly and
+    inexpensively using software. Our general-purpose DSP IC
+    customers typically write their own algorithms using software
+    development tools that we provide and software development tools
+    they obtain from third-party suppliers. Our DSPs are designed in
+    families of products that share a common architecture and
+    therefore can execute the same software. We support these
+    products with easy-to-use development tools, which are designed
+    to reduce our customers’ product development costs and
+
+time-to-market.
+
+Markets
+    and Applications
+
+The following describes some of the characteristics of, and
+    customer products within, our major end markets:
+
+Industrial
+
+— Our industrial market
+    includes the following sectors:
+
+Industrial and Instrumentation
+
+— Our industrial
+    automation applications generally require ICs that offer
+    performance greater than that available from
+    commodity-level ICs but generally do not have production
+    volumes that warrant custom or application-specific ICs.
+    Combinations of analog, mixed-signal, and DSP ICs are usually
+    employed to achieve the necessary functionality. Our
+    instrumentation applications are usually designed using the
+    highest performance analog and mixed-signal ICs available. Our
+    industrial and instrumentation market includes applications such
+    as:
+
+• Process control systems
+
+• Oscilloscopes
+
+• Robotics
+
+• Lab, chemical, and environmental analyzers
+
+• Environmental control systems
+
+• Weigh scales
+
+Defense/Aerospace
+
+— The defense, commercial
+    avionics and space markets all require high-performance ICs that
+    meet rigorous environmental and reliability specifications. Many
+    of our analog ICs can be supplied in versions that meet these
+    standards. In addition, many products can be supplied to meet
+    the standards required for broadcast satellites and other
+    commercial space applications. Most of our products sold in this
+    market are specifically tested versions of products derived from
+    our standard product offering. Customer products include:
+
+• Navigation systems
+
+• Radar systems
+
+• Space and satellite communications
+
+• Security devices
+
+Energy Management
+
+— The desire to improve
+    energy efficiency, conservation, reliability, and cleanliness is
+    driving investments in renewable energy, power transmission and
+    distribution systems, electric meters, and other innovative
+    areas. The common characteristic behind these efforts is the
+    addition of sensing, measurement, and communication technologies
+    to electrical infrastructure. Our offerings include both
+    standard and application-specific products and are used in
+    applications such as:
+
+• Utility meters
+
+• Wind turbines
+
+• Meter communication modules
+
+• Solar inverters
+
+• Substation relays and automation equipment
+
+• Building energy automation/control
+
+Healthcare
+
+— Two significant trends in the
+    healthcare market today are the increasing need for higher
+    channel counts in medical systems to improve resolution and
+    throughput while achieving a lower cost per channel, and the
+    movement of highly accurate patient monitoring devices to the
+    home, improving patient care and reducing overall healthcare
+    costs. Our innovative technologies are designed into a variety
+    of high performance imaging, patient
+
+
+
+monitoring, medical instrumentation, and home health devices.
+    Our offerings include both standard and application-specific
+    products and are used in applications such as:
+
+• Ultrasound
+
+• Infusion pumps
+
+• CT scanners
+
+• Clinical lab instrumentation
+
+• Digital x-ray
+
+• Surgical instrumentation
+
+• Multi-parameter patient monitors
+
+• Blood analyzers
+
+• Pulse oximeters
+
+• Activity monitors
+
+Automotive
+
+— The automotive industry
+    relies on electronics to bring differentiated features to market
+    quickly. As a result, electronic equipment content is continuing
+    to increase as a percentage of total vehicle cost. In the
+    automotive market, we have achieved significant market
+    penetration through collaboration with manufacturers worldwide
+    to drive innovation in three key areas: safety systems, power
+    train electronics, and infotainment (which includes
+    entertainment, communications and navigation systems). We offer
+    a wide portfolio of analog ICs used in powertrain and body
+    electronics applications designed to help improve fuel
+    efficiency and lower emissions. We have developed products
+    specifically for the automotive market which are used in such
+    applications as:
+
+• Crash sensors in airbag systems
+
+• “Smart” suspension systems
+
+• Roll-over sensing
+
+• Engine control
+
+• Global positioning satellite (GPS)
+
+• In-cabin electronics
+
+• Automotive navigation systems
+
+• Audio
+
+• Anti-lock brakes
+
+• Collision avoidance systems
+
+Consumer
+
+— Market demand for digital
+    entertainment systems and the consumer demand for high quality
+    voice transmissions, music, movies and photographs have allowed
+    us to combine analog and digital design capability to provide
+    solutions that meet the rigorous cost requirements of the
+    consumer electronics market. The emergence of high-performance,
+    feature-rich consumer products has created a market for our
+    high-performance ICs with a high level of specific
+    functionality. These products include:
+
+• Digital camcorders and cameras
+
+• High-performance audio/video equipment
+
+• Home theater systems
+
+• Portable media devices
+
+• High-definition televisions
+
+• High-definition DVD recorders/players
+
+Communications
+
+— The development of
+    broadband, wireless and Internet infrastructures around the
+    world has created an important market for our communications
+    products. Communications technology involves the acquisition of
+    analog signals that are converted from analog to digital and
+    digital to analog form during the process of transmitting and
+    receiving data. The need for higher speed and reduced power
+    consumption, coupled with more reliable, bandwidth-efficient
+    communications, has been creating demand for our products. Our
+    products are used in the full spectrum of signal processing for
+    audio, data, image and video communication. In wireless and
+    broadband communication applications, our products are
+    incorporated into:
+
+•
+
+Cellular basestation equipment
+
+•
+
+Cellular handsets
+
+•
+
+Wired networking equipment
+
+Computer
+
+— Revenues from computer
+    customers now comprise only a small percentage of our total
+    revenue given the limited opportunity for high performance
+    signal processing technology in this market.
+
+See Note 4 in the Notes to our Consolidated Financial
+    Statements contained in Item 8 of this Annual Report on
+
+Form 10-K
+
+for further information about our products by category and end
+    market.
+
+Research
+    and Development
+
+Our markets are characterized by rapid technological changes and
+    advances. Accordingly, we make substantial investments in the
+    design and development of new products and manufacturing
+    processes, and the improvement of existing products and
+    manufacturing processes. We spent approximately
+    $492 million during fiscal 2010 on the design, development
+    and improvement of new and existing products and manufacturing
+    processes, compared to approximately $447 million during
+    fiscal 2009 and approximately $533 million during fiscal
+    2008.
+
+
+
+Our research and development strategy focuses on building
+    technical leadership in core technologies of converters,
+    amplifiers and RF, MEMS, power management, and DSP. In support
+    of our research and development activities, we employ thousands
+    of engineers involved in product and manufacturing process
+    development at 33 design centers and manufacturing sites located
+    throughout the world.
+
+Patents
+    and Other Intellectual Property Rights
+
+We seek to establish and maintain our proprietary rights in our
+    technology and products through the use of patents, copyrights,
+    mask works, trademarks and trade secrets. We have a program to
+    file applications for and obtain patents, copyrights, mask works
+    and trademarks in the United States and in selected foreign
+    countries where we believe filing for such protection is
+    appropriate. We also seek to maintain our trade secrets and
+    confidential information by nondisclosure policies and through
+    the use of appropriate confidentiality agreements. We have
+    obtained a substantial number of patents and trademarks in the
+    United States and in other countries. As of October 30,
+    2010, we held approximately 1,600 U.S. patents and
+    approximately 560 non-provisional pending U.S. patent
+    applications. There can be no assurance, however, that the
+    rights obtained can be successfully enforced against infringing
+    products in every jurisdiction. While our patents, copyrights,
+    mask works, trademarks and trade secrets provide some advantage
+    and protection, we believe our competitive position and future
+    success is largely determined by such factors as the system and
+    application knowledge, innovative skills, technological
+    expertise and management ability and experience of our
+    personnel; the range and success of new products being developed
+    by us; our market brand recognition and ongoing marketing
+    efforts; and customer service and technical support. It is
+    generally our policy to seek patent protection for significant
+    inventions that may be patented, though we may elect, in certain
+    cases, not to seek patent protection even for significant
+    inventions, if we determine other protection, such as
+    maintaining the invention as a trade secret, to be more
+    advantageous. We also have trademarks that are used in the
+    conduct of our business to distinguish genuine Analog Devices
+    products and we maintain cooperative advertising programs to
+    promote our brands and identify products containing genuine
+    Analog Devices components.
+
+Sales
+    Channels
+
+We sell our products globally through a direct sales force,
+    third-party distributors, independent sales representatives and
+    via our website.
+
+We derived approximately 56% of our fiscal 2010 revenue from
+    sales made through distributors. These distributors typically
+    maintain an inventory of our products. Some of them also sell
+    products which compete with our products, including those for
+    which we are an alternate source. In all regions of the world,
+    we defer revenue and the related cost of sales on shipments to
+    distributors until the distributors resell the products to their
+    customers. We make sales to distributors under agreements that
+    allow distributors to receive price adjustment credits and to
+    return qualifying products for credit, as determined by us, in
+    order to reduce the amounts of slow-moving, discontinued or
+    obsolete product from their inventory. These agreements limit
+    such returns to a certain percentage of our shipments to that
+    distributor during the prior quarter. In addition, distributors
+    are allowed to return unsold products if we terminate the
+    relationship with the distributor. Additional information
+    relating to our sales to distributors is set forth in
+    Note 2n. in the Notes to Consolidated Financial Statements
+    contained in Item 8 of this Annual Report on
+
+Form 10-K.
+
+The categorization of sales into geographic regions set forth
+    below is based upon the location of the customer.
+
+Geographic Area
+
+% of 2010 Revenue
+
+Direct Sales Offices
+
+United States
+
+
+%
+
+
+Rest of North/South America
+
+
+%
+
+—
+
+Europe
+
+
+%
+
+
+Japan
+
+
+%
+
+
+China
+
+
+%
+
+
+Rest of Asia
+
+
+%
+
+
+We also have sales representatives
+
+and/or
+
+distributors in over 40 countries outside North America,
+    including countries where we also have direct sales offices. For
+    further detail regarding revenue and financial information
+
+
+
+about our industry, segment and geographic areas, see our
+    Consolidated Financial Statements and Note 4 in the related
+    Notes contained in Item 8 of this Annual Report on
+
+Form 10-K.
+
+We support our worldwide technical direct field sales efforts by
+    an extensive promotional program that includes editorial
+    coverage and paid advertising in trade publications, direct mail
+    programs, promotional brochures, technical seminars and
+    participation in trade shows. We publish and distribute product
+    catalogs, applications guides, technical handbooks and detailed
+    data sheets for individual products. We also provide this
+    information and sell products via our website. We maintain a
+    staff of field application engineers who aid customers in
+    incorporating our products into their products.
+
+We have tens of thousands of customers worldwide. Our largest
+    single customer, excluding distributors, represented
+    approximately 4% of our fiscal 2010 revenue. Our 20 largest
+    customers, excluding distributors, accounted for approximately
+    32% of our fiscal 2010 revenue. These customers used hundreds of
+    different types of our products in a wide range of applications
+    spanning the industrial, automotive, communication, consumer and
+    computer markets.
+
+Seasonality
+
+Sales to customers during our first fiscal quarter may be lower
+    than other quarters due to plant shutdowns at some of our
+    customers during the holiday season. In general, the seasonality
+    for any specific period of time has not had a material impact on
+    our results of operations. In addition, as explained in our risk
+    factors included elsewhere in this report, our revenue is more
+    likely to be influenced on a quarter to quarter basis by
+    cyclicality in the semiconductor industry.
+
+Foreign
+    Operations
+
+Through subsidiaries and affiliates, we conduct business in
+    numerous countries outside the United States. During fiscal
+    2010, we derived approximately 81% of our revenue from customers
+    in international markets. Our international business is subject
+    to risks customarily encountered in foreign operations,
+    including fluctuations in foreign currency exchange rates and
+    controls, import and export controls, and other laws, policies
+    and regulations of foreign governments. Although we engage in
+    hedging transactions to reduce our exposure to currency exchange
+    rate fluctuations, our competitive position may be adversely
+    affected by changes in the exchange rate of the
+    United States dollar against other currencies.
+
+Production
+    and Raw Materials
+
+Monolithic integrated circuit components are manufactured in a
+    sequence of semiconductor production steps that include wafer
+    fabrication, wafer testing, cutting the wafer into individual
+    “chips,” or dice, assembly of the dice into packages
+    and electrical testing of the devices in final packaged form.
+    The raw materials used to manufacture these devices include
+    silicon wafers, processing chemicals (including liquefied
+    gases), precious metals and ceramic and plastic used for
+    packaging.
+
+We develop and employ a wide variety of proprietary
+    manufacturing processes that are specifically tailored for use
+    in fabricating high-performance analog, DSP, mixed-signal and
+    MEMS ICs. We also use bipolar and complementary metal-oxide
+    semiconductor, or CMOS, wafer fabrication processes.
+
+Our IC products are fabricated both at our production facilities
+    and by third-party wafer fabricators. Our products are
+    manufactured in our own wafer fabrication facilities using
+    proprietary processes and at third-party wafer-fabrication
+    foundries using
+
+sub-micron
+
+digital CMOS processes. A significant portion of our revenue in
+    fiscal 2010, 2009 and 2008 was from products fabricated at
+    third-party wafer-fabrication facilities, primarily Taiwan
+    Semiconductor Manufacturing Company, or TSMC. We operate wafer
+    fabrication facilities in Wilmington, Massachusetts and
+    Limerick, Ireland. We closed our wafer fabrication facility in
+    Cambridge, Massachusetts at the end of fiscal 2009. We also
+    operate test facilities located in the Philippines and use
+    third-party subcontractors for the assembly and testing of our
+    products.
+
+Capital spending was $111.6 million in fiscal 2010,
+    compared with $56.1 million in fiscal 2009. We currently
+    plan to make capital expenditures in the range of approximately
+    $120 million to $130 million in fiscal 2011.
+
+
+
+Our products require a wide variety of components, raw materials
+    and external foundry services, most of which we purchase from
+    third-party suppliers. We have multiple sources for many of the
+    components and materials that we purchase and incorporate into
+    our products. However, a large portion of our external wafer
+    purchases and foundry services are from a limited number of
+    suppliers, primarily TSMC. If TSMC or any of our other key
+    suppliers are unable or unwilling to manufacture and deliver
+    sufficient quantities of components to us, on the time schedule
+    and of the quality that we require, we may be forced to seek to
+    engage additional or replacement suppliers, which could result
+    in significant expenses and disruptions or delays in
+    manufacturing, product development and shipment of product to
+    our customers. Although we have experienced shortages of
+    components, materials and external foundry services from time to
+    time, these items have generally been available to us as needed.
+
+Backlog
+
+Backlog at the end of fiscal 2010 was approximately
+    $563 million, up from approximately $411 million at
+    the end of fiscal 2009. We define backlog as of a particular
+    date to mean firm orders from a customer or distributor with a
+    requested delivery date within thirteen weeks. Backlog is
+    impacted by the tendency of customers to rely on shorter lead
+    times available from suppliers, including us, in periods of
+    depressed demand. In periods of increased demand, there is a
+    tendency towards longer lead times that has the effect of
+    increasing backlog and, in some instances, we may not have
+    manufacturing capacity sufficient to fulfill all orders. As is
+    customary in the semiconductor industry, we allow most orders to
+    be cancelled or deliveries to be delayed by customers without
+    significant penalty. Accordingly, we believe that our backlog at
+    any time should not be used as an indication of our future
+    revenue.
+
+We typically do not have long-term sales contracts with our
+    customers. In some of our markets where end-user demand may be
+    particularly volatile and difficult to predict, some customers
+    place orders that require us to manufacture product and have it
+    available for shipment, even though the customer is unwilling to
+    make a binding commitment to purchase all, or even any, of the
+    product. In other instances, we manufacture product based on
+    forecasts of customer demand. As a result, we may incur
+    inventory and manufacturing costs in advance of anticipated
+    sales and are subject to the risk of cancellation of orders
+    leading to a sharp reduction of sales and backlog. Further,
+    those orders or forecasts may be for products that meet the
+    customer’s unique requirements so that those cancelled
+    orders would, in addition, result in an inventory of unsaleable
+    products, resulting in potential inventory write-offs. As a
+    result of lengthy manufacturing cycles for some of our products
+    that are subject to these uncertainties, the amount of
+    unsaleable product could be substantial.
+
+Government
+    Contracts
+
+We estimate that approximately 4% of our fiscal 2010 revenue was
+    attributable to sales to the U.S. government and
+    U.S. government contractors and subcontractors. Our
+    government contract business is predominantly in the form of
+    negotiated, firm fixed-price subcontracts. All such contracts
+    and subcontracts contain standard provisions relating to
+    termination at the election of the U.S. government.
+
+Acquisitions,
+    Divestitures and Investments
+
+An element of our business strategy involves expansion through
+    the acquisition of businesses, assets, products or technologies
+    that allow us to complement our existing product offerings,
+    expand our market coverage, increase our engineering workforce
+    or enhance our technological capabilities. From time to time, we
+    consider acquisitions and divestitures that may strengthen our
+    business.
+
+Additional information relating to our acquisition and
+    divestiture activities during fiscal 2010, fiscal 2009 and
+    fiscal 2008 is set forth in Note 2u. and Note 6 of the
+    Notes to Consolidated Financial Statements included in
+    Item 8 of this Annual Report on
+
+Form 10-K.
+
+
+
+Competition
+
+We compete with a number of semiconductor companies in markets
+    that are highly competitive. Our competitors include:
+
+• Broadcom Corporation
+
+• Microchip Technology, Inc.
+
+• Cirrus Logic, Inc.
+
+• National Semiconductor Corporation
+
+• Freescale Semiconductor, Inc.
+
+• NXP Semiconductors
+
+• Infineon Technologies
+
+• ST Microelectronics
+
+• Intersil Corporation
+
+• Silicon Laboratories, Inc.
+
+• Linear Technology Corporation
+
+• Texas Instruments, Inc.
+
+• Maxim Integrated Products, Inc.
+
+We believe that competitive performance in the marketplace for
+    real-world signal processing components depends upon several
+    factors, including design and quality of products, product
+    performance, features and functionality, and product pricing,
+    availability and capacity, with the relative importance of these
+    factors varying among products, markets and customers. We
+    believe our technical innovation emphasizing product performance
+    and reliability, supported by our commitment to strong customer
+    service and technical support, enables us to compete in our
+    chosen markets against both foreign and domestic semiconductor
+    manufacturers.
+
+Many other companies offer products that compete with our
+    products, and some have greater financial, manufacturing,
+    technical and marketing resources than we have. Some of our
+    competitors may have better established supply or development
+    relationships with our current and potential customers.
+    Additionally, some formerly independent competitors have been
+    purchased by larger companies. Our competitors also include
+    emerging companies selling specialized products into markets we
+    serve. There can be no assurance that we will be able to compete
+    successfully in the future against existing or new competitors,
+    or that our operating results will not be adversely affected by
+    increased price competition.
+
+Environment,
+    Health and Safety
+
+We are committed to protecting the environment and the health
+    and safety of our employees, customers and the public. We
+    endeavor to adhere to applicable environmental, health and
+    safety (EHS) regulatory and industry standards across all of our
+    facilities, and to encourage pollution prevention, reduce our
+    water and energy consumption, reduce waste generation, and
+    strive towards continual improvement. We strive to achieve
+    excellence in EHS management practices as an integral part of
+    our total quality management system.
+
+Our management systems are certified to ISO 14001, OHSAS 18001,
+    ISO 9001 and TS16949. We are an applicant member of the
+    Electronic Industry Citizenship Coalition, or EICC. In fiscal
+    2009, we published our first Sustainability Report, which stated
+    our commitment to consuming less energy and applying fair labor
+    standards, among other things. We are not including the
+    information contained in our Sustainability Report in, or
+    incorporating it by reference into this Annual Report on
+
+Form 10-K.
+
+Our manufacturing facilities are subject to numerous and
+    increasingly strict federal, state local and foreign EHS laws
+    and regulations, particularly with respect to the
+    transportation, storage, handling, use, emission, discharge and
+    disposal of certain chemicals used or produced in the
+    semiconductor manufacturing process. Our products are subject to
+    increasingly stringent regulations regarding chemical content in
+    jurisdictions where we sell products, including the Restriction
+    of Hazardous Substances (RoHS) and Registration, Evaluation,
+    Authorization and Restriction of Chemicals (REACH) directives in
+    the European Union. Contracts with many of our customers reflect
+    these and additional EHS compliance standards. Compliance with
+    these laws and regulations has not had a material impact on our
+    capital expenditures, earnings, financial condition or
+    competitive position. There can be no assurance, however, that
+    current or future environmental laws and regulations will not
+    impose costly
+
+
+
+requirements upon us. Any failure by us to comply with
+    applicable environmental laws, regulations and contractual
+    obligations could result in fines, suspension of production, the
+    need to alter fabrication processes and legal liability.
+
+Employees
+
+As of October 30, 2010, we employed approximately 8,500
+    individuals worldwide. Our future success depends in large part
+    on the continued service of our key technical and senior
+    management personnel, and on our ability to continue to attract,
+    retain and motivate qualified employees, particularly those
+    highly-skilled design, process, test and applications engineers
+    involved in the design, support and manufacture of new and
+    existing products and processes. We believe that relations with
+    our employees are good; however, the competition for such
+    personnel is intense, and the loss of key personnel could have a
+    material adverse impact on our results of operations and
+    financial condition.
+
+

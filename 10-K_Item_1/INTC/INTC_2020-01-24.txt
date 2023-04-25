@@ -1,0 +1,2418 @@
+Item 1. Business
+
+
+
+FUNDAMENTALS OF OUR BUSINESS
+
+
+
+OUR STRATEGY
+
+Data has become a driving force in society. Our customers are asking for solutions to turn data into actionable insights, amazing experiences, and operational efficiencies. Intel platforms provide the foundation for these solutions because we have developed a portfolio of data-centric technologies that span the data center to the edge, enabling us to play a differentiated and growing role in the success of our customers.
+
+MAKE THE WORLD'S BEST SEMICONDUCTORS
+
+Moore’s Law,
+
+a law of economics predicted by Intel’s co-founder Gordon Moore more than 50 years ago,
+
+continues to be a strategic priority and differentiator. We make significant investments and innovations in our silicon manufacturing technologies and platforms. Our proprietary technologies make it possible to integrate products and platforms that address evolving customer needs and expand the markets we serve. However, making the best semiconductors requires more than just the best manufacturing process technologies.
+
+Product leadership is defined by our ability to optimize across six engineering pillars: process technology and packaging, architecture, memory, interconnect, security, and software. With these six pillars, we are accelerating product innovation with a focus on xPU platforms uniquely able to serve diverse new workload opportunities (e.g., CPU, GPU, AI accelerator and FPGA). These innovation efforts will extend Intel’s opportunities to deliver products beyond the CPU that will contribute to the success of our customers.
+
+We manufacture a majority of our products in our own facilities and make significant investments in silicon manufacturing technologies and platforms as an IDM. We are focused on strengthening our IDM position by collaborating with the broader silicon manufacturing and design ecosystem to improve our design efficiency, including increased strategic use of third-party design IP and foundries for certain components to allow us to focus on differentiating technology. We are also pursuing design simplification to accelerate innovation, including a significant reduction of design rules for future process nodes, to allow us to deliver the best solutions for our customer.
+
+LEAD TECHNOLOGY INFLECTIONS
+
+Our strategic intent is to lead in key technology inflections that are fundamentally changing computing and communications. The most important drivers of change we see today are AI, the transformation of networks spearheaded by the transition to 5G, and the rise of the intelligent edge. We see a future where Intel® technologies enable our customers to move faster, store more, and process everything—from large complex applications in the cloud, to autonomous cars and small low-power devices on the edge.
+
+AI helps our customers make sense of big data to unleash its potential. We offer a combination of hardware and software technologies that deliver broad capabilities to support computing, storage, transmission, and tuning in AI. We have taken a multi-architecture approach to AI hardware. Intel
+
+®
+
+Xeon
+
+®
+
+processors provide a foundation for analytics and AI, and software like the OpenVINO™ toolkit significantly simplifies the deployment of solutions. Intel
+
+®
+
+FPGAs allow customers to gain access to leading AI inferencing performance for their models. Similarly, the Intel
+
+®
+
+Nervana™ Neural Network Processors and Intel
+
+®
+
+Movidius™ Myriad™ VPUs are purpose-built for AI and support diverse approaches for innovation in a wide range of applications, from healthcare to autonomous driving to facial recognition. Habana's Gaudi* AI training Processor and Goya* AI Inference Processor offer an easy-to-program development environment to help customers deploy and differentiate their solutions as AI workloads continue to evolve with growing demands on compute, memory, and connectivity.
+
+FUNDAMENTALS OF OUR BUSINESS
+
+
+
+We are optimistic about the opportunity presented to us by the 5G transition and the cloudification
+
+
+of the network. 5G connectivity will transform industries from all business sectors and it continues to be a strategic priority across Intel. We are collaborating with ecosystem and vertical industry partners to define, prototype, test, and deliver 5G standards and solutions, and our team has developed products designed to support 5G network infrastructure and a valuable IP portfolio. With our exit from the 5G smartphone modem business, our 5G efforts are now focused on network infrastructure and other data-centric opportunities.
+
+We provide the automobile industry’s leading solution for ADAS and we continue to build on that leadership in pursuit of higher levels of autonomy, developing Road Experience Management for real-time crowdsourced mapping, and the Responsibility Sensitive Safety model for autonomous vehicle safety. As the data explosion creates new opportunities, we continue to assess other service models that will leverage our product leadership and deep technical expertise to drive more value to our customers.
+
+
+Intel's definition is included in "Key Terms" within the Financial Statements and Supplemental Details.
+
+FUNDAMENTALS OF OUR BUSINESS
+
+
+
+OUR CAPITAL
+
+We deploy various forms of capital to execute our strategy in a way that seeks to reflect our corporate values, h
+
+elp our customers succeed
+
+, and create value for our stakeholders.
+
+FUNDAMENTALS OF OUR BUSINESS
+
+
+
+FINANCIAL CAPITAL
+
+Our financial capital allocation strategy focuses on building stockholder value. We have returned approximately 90% of free cash flow to investors over the past five years and expect to return approximately 100% in 2020.
+
+CASH FROM OPERATING ACTIVITIES $B
+
+■
+
+Capital Investment
+
+■
+
+Free Cash Flow
+
+
+OUR FINANCIAL CAPITAL ALLOCATION DECISIONS ARE DRIVEN BY THREE PRIORITIES
+
+R&D AND CAPITAL INVESTMENTS $B
+
+ACQUISITIONS
+
+CASH TO STOCKHOLDERS $B
+
+■
+
+R&D
+
+■
+
+Logic
+
+■
+
+Memory
+
+—
+
+# of Acquisitions
+
+■
+
+Total Spent $B
+
+■
+
+Buyback
+
+■
+
+Dividend
+
+
+See "Non-GAAP Financial Measures" within MD&A.
+
+FUNDAMENTALS OF OUR BUSINESS
+
+Our Capital
+
+
+
+INTELLECTUAL CAPITAL
+
+RESEARCH AND DEVELOPMENT
+
+R&D is a critical factor in achieving our strategic objectives to make the world's best semiconductors, to lead technology inflections, and to provide leading end-to-end platform solutions. Successful R&D efforts can lead to new products and technologies or improvements to existing ones, which we seek to protect through our IP rights. We may augment our R&D initiatives through the following methods: acquiring or investing in companies, entering into R&D agreements, and directly purchasing or licensing technology.
+
+PRODUCT TECHNOLOGY
+
+Architecture.
+
+We are designing products for four major computing architectures—CPU, GPU, AI accelerator, and FPGA products—as we move toward a model of providing multiple "xPU" compute platforms for a more diverse era of computing. We shipped the 10th generation Intel
+
+®
+
+Core
+
+TM
+
+processors with our next-generation CPU microarchitecture, which has architectural extensions designed for special-purpose computing tasks such as AI and cryptography, among other features. These processors also include the next generation of graphics microarchitecture, with performance and feature upgrades. We also continue to make progress on the development of our first discrete GPU.
+
+Memory.
+
+With our Intel
+
+®
+
+3D NAND technology and Intel
+
+®
+
+Optane™ technology, we are developing products to disrupt the memory and storage hierarchy. The 4th generation of Intel
+
+®
+
+-based SSDs are scheduled to launch in 2020 with 144-layer QLC memory technology. These SSDs are also Intel’s first NAND memory technology created independently by Intel since the conclusion of our partnership with Micron Technology, Inc. (Micron). The 2nd generation Intel
+
+®
+
+Optane
+
+TM
+
+SSDs for data centers are scheduled to start shipping samples in 2020, and are designed to deliver three times the throughput while reducing application latency by four times. In addition, the second-generation Intel
+
+®
+
+Optane
+
+TM
+
+DC persistent memory is expected to achieve PRQ in 2020, and is designed for use with our future Intel
+
+®
+
+Xeon
+
+®
+
+CPUs.
+
+Interconnect.
+
+We have a broad portfolio of interconnect solutions, ranging from silicon to the data center to wireless. Our silicon photonics technology integrates lasers into silicon to create high-speed optical connections that can help remove networking bottlenecks in the data center. We announced two initiatives to help influence the industry
+
+—
+
+USB4 and CXL. USB4 advances the speed and capability for interconnect in client platforms. CXL, an open interconnect technology, creates a high-speed, low latency interconnect between the CPU and accelerators, such as GPUs, FPGAs, and networking.
+
+Security.
+
+We continue to make significant investments in security technologies. We created the Intel Security Architecture and Technologies Group to serve as a center for security architecture across our products to design world-class product security architecture for the years ahead.
+
+Software.
+
+The performance potential of our hardware products is unlocked with software. Our vision is to unify our software abstractions across all our xPU platforms. We are developing a project called oneAPI to simplify programming for developers across our CPU, GPU, FPGA, AI accelerator, and other accelerator products, providing a unified portfolio of developer tools for mapping software to the hardware that can best accelerate the code.
+
+IP RIGHTS
+
+We own and develop significant IP and related IP rights around the world that support our products, services, R&D, and other activities and assets. Our IP portfolio includes patents, copyrights, trade secrets, trademarks, mask work, and other rights. We actively seek to protect our global IP rights and to deter unauthorized use of our IP and other assets. For a detailed discussion of our IP rights, see "Intellectual Property Rights and Licensing" within Other Key Information.
+
+FUNDAMENTALS OF OUR BUSINESS
+
+Our Capital
+
+
+
+MANUFACTURING CAPITAL
+
+We are an IDM. Unlike many other semiconductor companies, we primarily design and manufacture our products in our own manufacturing facilities, and we see our in-house manufacturing as an important advantage. We continue to develop new generations of manufacturing process technology as we seek to realize the benefits from Moore’s Law. Realizing Moore’s Law results in economic benefits as we are able to either reduce a chip's cost as we shrink its size, or increase functionality and performance of a chip while maintaining the same cost with higher density. This makes possible the innovation of new products with higher performance while balancing power efficiency, cost, and size to meet customers' needs. Our ability to optimize and apply our manufacturing expertise to deliver more advanced, differentiated products is foundational to our current and future success.
+
+We are on track to deliver our first 7nm-based
+
+product, a data center-focused discrete GPU, at the end of 2021
+
+. We are approaching next-generation process nodes with a focus on striking an optimal balance between schedule, performance, power, and cost and will continue to drive intra-node advancement.
+
+NETWORK AND SUPPLY CHAIN
+
+We previously announced multiple manufacturing site expansions with multi-year construction activities that began in 2019. In addition to expanding our own manufacturing capability, we are increasing our use of foundries to enable our differentiated manufacturing to produce more CPU products. We use third-party foundries to manufacture wafers for certain components and leverage subcontractors to augment capacity to perform assembly and test in addition to our in-house manufacturing, primarily for chipsets and adjacent products. As we considered the estimated $300 billion TAM
+
+
+opportunity ahead of us, it was imperative that we prepare our global manufacturing network to be responsive to changes in demand. However, despite increasing 14nm wafer capacity,
+
+we did not see a commensurate increase in client CPU unit volume as wafer capacity was largely consumed by increases in modem and chipset volumes, and unit die sizes.
+
+Our focus on capacity expansion and meeting customer expectations is critical as we move into 2020.
+
+We have nine manufacturing sites—six are wafer fabrication and three are assembly/test facilities. The map marks our manufacturing sites and the countries where we have a significant R&D or sales and marketing presence.
+
+The majority of our logic wafer manufacturing is conducted in the U.S. We incur factory start-up costs as we ramp facilities for new process technologies. We ramped the 10nm process node in Oregon and Israel in 2019, and began production in Arizona in our 2020 fiscal year. We also expanded our memory facilities in Dalian, China.
+
+Our manufacturing facilities are primarily used for silicon wafer manufacturing of our platform and memory products. These facilities are built following a “copy exactly” methodology, whereby new process technologies are transferred identically from a central development fab to each manufacturing facility. This enables fast ramp of the operation as well as better quality control. These wafer fabs operate in a network of manufacturing facilities integrated as one factory to provide the most flexible supply capacity, allowing us to better analyze our production costs and adapt to changes in capacity needs.
+
+In 2019, we ramped 96-layer 3D NAND technology and prepared to begin manufacturing our 144-layer 3D NAND technology in 2020 in our facility in Dalian, China. The next generation of Intel
+
+®
+
+Optane™ technology and SSDs are being developed in New Mexico
+
+following
+
+the sale of our non-controlling interest in IMFT to Micron on October 31, 2019. We will continue to purchase product manufactured by Micron at the IMFT facility under established supply agreements.
+
+
+Source: Intel calculated 2024 TAM derived from industry analyst reports.
+
+FUNDAMENTALS OF OUR BUSINESS
+
+Our Capital
+
+
+
+HUMAN CAPITAL
+
+
+E
+
+xecutives refers to salary grades 12+ and equivalent grades. While we present male and female, we acknowledge this is not fully encompassing of all gender identities.
+
+FUNDAMENTALS OF OUR BUSINESS
+
+Our Capital
+
+
+
+SOCIAL AND RELATIONSHIP CAPITAL
+
+We are committed to developing trusted relationships, giving back to our communities, and engaging in corporate responsibility and sustainability initiatives. Collaboration with stakeholders and investments in social impact initiatives, like the United Nations Sustainable Development Goals, led to our reputation as a leading corporate citizen and creates value in the form of consistent stakeholder support.
+
+ECONOMIC, SOCIAL, AND HUMAN RIGHTS IMPACT
+
+The health of our company and local economies depends on continued investments in innovation. We provide high-skill, high-paying jobs around the world. Many of these are manufacturing
+
+and R&D
+
+jobs located in our own domestic and international factories. We also impact economies through our R&D ecosystem spending, sourcing activities, consumer spending by our employees, and tax revenue. We make sizable capital investments and provide leadership in public-private partnerships to spur economic growth and innovation.
+
+We are at the forefront of new technologies that are increasingly being used to empower individuals, companies, and governments around the world to solve major societal challenges. Simultaneously, we are empowering people through education and advancing social impact initiatives to create new career pathways into the technology industry, helping us build trust with key external stakeholders and support the interests of our employees. Our employees actively share their expertise and skills through volunteer initiatives, and contributed 1 million hours of service in the communities where we operate in 2019.
+
+We are committed to maintaining and improving processes to avoid human rights violations related to our operations, supply chain, and products.
+
+While we do not always know nor can we control what products our customers create or the applications end-users may develop, we do not support or tolerate our products being used to violate human rights. Where we become aware of a concern that Intel products are being used by a business partner in connection with abuses of human rights, we will restrict or cease business with the third party until and unless we have high confidence that Intel’s products are not being used to violate human rights.
+
+SUPPLY CHAIN RESPONSIBILITY
+
+We have robust programs to educate and engage suppliers that support our global manufacturing operations to drive responsible and sustainable practices throughout the supply chain. Actively managing our supply chain creates business value for Intel and our customers by helping to reduce risk, improve product quality, achieve environmental and social goals, and raise the overall performance of our suppliers. Over the past five years, we completed more than 600 supplier audits using the Responsible Business Alliance Code of Conduct standard. We actively collaborate with other companies and lead industry initiatives on key issues such as advancing responsible minerals sourcing, improving transparency around climate and water impacts in the global electronics supply chain, and addressing risks of forced and bonded labor. Our commitment to building a diverse and inclusive workforce extends to the expectations we set for our suppliers—a diverse supply chain supports greater innovation and value for our business. We continue working toward our 2020 goal of reaching $1.0 billion in annual spending with diverse-owned suppliers. We also announced the "Intel Rule" to help improve diversity in the legal profession: Beginning in 2021, we will not retain or use outside law firms in the U.S. that are average or below average on diversity for their equity partners. We are applying a similar rule to firms used by our tax department, including non-legal firms.
+
+FUNDAMENTALS OF OUR BUSINESS
+
+Our Capital
+
+
+
+NATURAL CAPITAL
+
+Driving to the lowest environmental footprint possible helps us achieve efficiency, lower costs, and respond to the needs of our stakeholders. We invest in conservation projects and set company-wide environmental targets, seeking to drive reductions in greenhouse gas emissions, energy use, water use, and waste generation. We focus on building energy efficiency into our products to help our customers lower their own emissions and energy costs. We also collaborate with policymakers and other stakeholders to identify opportunities to apply technology to environmental challenges such as climate change and water conservation.
+
+"At Intel, we have long believed that to truly be a leader in manufacturing, we must also advance environmental sustainability and corporate responsibility. For more than two decades, our sustainability practices have enabled us to create significant value for our customers, investors, employees, and community stakeholders."
+
+—Ann Kelleher,
+
+Senior Vice President and General Manager of Manufacturing and Operations
+
+CLIMATE AND ENERGY
+
+We focus on reducing our own direct climate “footprint” and over the past two decades have reduced our direct emissions and electricity-generated emissions. Since 2012, we have invested more than $200 million in energy conservation projects in our global operations, resulting in cumulative savings of more than 4.5 billion kWh and cost savings of more than $500 million.
+
+In addition to conserving energy, we invest in green power and on-site alternative energy projects that provide power directly to our buildings and design all new buildings to LEED* standards. In 2019, we opened a LEED Platinum building in Israel with sensors that monitor lighting, temperature, ventilation, parking, and other building services and systems that enable and foster smart innovation. It also employs stormwater runoff collection and injection wells to avoid groundwater runoff. We also focus on increasing our “handprint”—the ways in which Intel technologies can help others reduce their footprints, including Internet of Things solutions that enable intelligence in machines, buildings, supply chains, and factories, and make electrical grids smarter, safer, and more efficient.
+
+We are leveraging a leading framework developed by TCFD to communicate our approach to climate governance, strategy, risk management, and metrics and targets. In terms of governance and strategy, we follow an integrated approach to addressing climate change, with multiple teams responsible for managing climate-related activities, initiatives, and policies, including manufacturing and operations, government and public affairs, supply chain, and product teams. Strategies and progress toward goals are reviewed with senior executives and the Board’s Corporate Governance and Nominating Committee. We describe our overall risk management processes in our Proxy Statement, and we describe our climate-related risks and opportunities in our annual Corporate Responsibility Report, the Intel Climate Change Policy, and "Risk Factors" within this Form 10-K. Regarding metrics and goals, for two decades we have set aggressive GHG reduction goals, including our 2020 goal to reduce our direct GHG emissions by 10% on a per-unit basis from 2010 levels, which we are on track to achieve. Additional detail on our proactive efforts to address climate change is included in our Corporate Responsibility Report, as well as our CDP Climate Change Survey, both available on our website
+
+
+.
+
+WATER STEWARDSHIP
+
+Water is essential to the semiconductor manufacturing process. We use ultrapure water to remove impurities from our silicon wafers, and we use industrial and reclaimed water to run our manufacturing facility systems. Over the last two decades, our sustainable water management efforts and partnerships have enabled us to conserve billions of gallons of water, and over the last decade we have returned approximately 80% of our water back to our communities. We continue to work toward our goal to restore 100% of our global water use by 2025, with more than 20 projects funded in collaboration with environmental and community partners through the end of 2019. We expect to restore approximately 1.5 billion gallons of water each year to local watersheds once these projects are complete.
+
+CIRCULAR ECONOMY AND WASTE MANAGEMENT
+
+We have long been committed to waste management, recycling, and circular economy strategies
+
+that enable the recovery and productive re-use of waste streams. We achieved our 2020 goal of recycling 90% of our non-hazardous waste ahead of schedule. We continue to work toward our 2020 goal of sending zero hazardous waste to landfills. Our aim is to continue to invest in reducing the amount of waste we generate while increasing the amount recycled and identifying re-use solutions that reduce costs and
+
+environmental impact.
+
+
+The contents of our website and our Corporate Responsibility Report, Climate Change Policy, and CDP Climate Change Survey are referenced for general information only and are not incorporated by reference in this Form 10-K.
+
+FUNDAMENTALS OF OUR BUSINESS
+
+Our Capital
+
+
+
+VALUE WE CREATE
+
+Each of our six forms of capital plays a critical role in our long-term value creation. We consider numerous indicators in determining the success of our capital deployment in creating value. Highlights of value created up to and in 2019 are as follows:
+
+
+See "Non-GAAP Financial Measures" within MD&A.
+
+FUNDAMENTALS OF OUR BUSINESS
+
+Our Capital
+
+
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+
+
+Source: Intel calculated 2024 TAM derived from industry analyst reports.
+
+MD&A
+
+
+
+OUR PRODUCTS
+
+OUR PRODUCTS PROVIDE END-TO-END SOLUTIONS
+
+We are at the forefront of developing new technologies and new products as building blocks for an increasingly smart and connected world. These technologies and products are used as integrated solutions for a broad spectrum of markets. As we transform beyond a PC-centric company to address the needs of the new data-centric world, we have expanded our product offerings to provide end-to-end solutions, scaling from edge computing to the network, the cloud, and the emerging fields of AI and autonomous driving.
+
+WE HAVE A BROAD PRODUCT PORTFOLIO
+
+From processing to transferring, storing, and analyzing data, our broad product portfolio offers innovative solutions to a wide array of customers. These products, such as our gaming CPUs, may be sold directly to end consumers, or they may be further integrated by our customers into end products such as notebooks and storage servers. Combining some of these products—for example, integrating FPGAs and memory with Intel
+
+®
+
+Xeon
+
+®
+
+processors in a data-center solution—enables incremental synergistic value and performance. We introduced new products in 2019 such as 10nm-based 10th generation Intel
+
+®
+
+Core
+
+TM
+
+processors, Intel
+
+®
+
+Agilex
+
+TM
+
+FPGAs, 2nd generation Intel
+
+®
+
+Xeon
+
+®
+
+Scalable processors, and Intel
+
+®
+
+Optane™ DC persistent memory.
+
+Platform products:
+
+Our platform products can be a CPU and chipset, an SoC, or a multichip package, based on Intel
+
+®
+
+architecture that processes data and controls other devices in a system. These products are primarily used in solutions sold through CCG, DCG, and IOTG.
+
+Adjacent products:
+
+Our non-platform, or adjacent products, can be combined with platform products to form comprehensive platform solutions to meet customer needs.
+
+These products are used in solutions sold through each of our businesses
+
+and include the following:
+
+•
+
+Accelerators
+
+- Silicon products that can operate alone or accompany our processors in a system, such as FPGAs, VPUs, and Mobileye EyeQ* SoC
+
+•
+
+Boards and systems
+
+- Server boards and small form factor systems such as Intel
+
+®
+
+NUCs
+
+•
+
+Connectivity products
+
+- Cellular modems, Ethernet controllers, silicon photonics, Wi-Fi, and Bluetooth
+
+®
+
+•
+
+Memory and storage products
+
+- SSD, persistent memory, and memory components
+
+MD&A
+
+
+
+5-YEAR TRENDS
+
+■
+
+Revenue $B
+
+—
+
+Year over Year Growth
+
+■
+
+Op Income $B
+
+—
+
+Year over Year Growth
+
+
+Source: Intel calculated 2024 TAM derived from industry analyst reports.
+
+
+Our Data Platforms Group includes our DCG segment. See "Information About Our Executive Officers" within Other Key Information for more details.
+
+MD&A
+
+
+
+MARKET AND BUSINESS OVERVIEW
+
+Market trends and strategy
+
+Data is a significant force in society, and is being generated at an unprecedented pace. Data center customers want to work with partners who can deliver platforms to address their most important technology challenges. Additionally, as more data is generated, organizations are seeking to analyze data closer to point of origin, giving rise to a data-centric edge environment across industries and providers. We expect the massive growth of data worldwide will increase demand to move, store, and process data and extract value from data. We are one of the few companies that touches every part of the data-centric compute landscape, and we have invested both organically and through acquisitions to capitalize on these demands. We expect these trends to continue to fuel demand in DCG and other data-centric businesses in the long term.
+
+DCG focuses on three market segments: cloud service providers, enterprise and government, and communications service providers. In 2019, cloud revenue grew as service providers continued to invest in infrastructure to meet the explosive demand for digital services, AI, and data analytics. Cloud service provider revenue was down in the first half as customers absorbed capacity and worked through inventory after a historic 2018 platform refresh; this trend stabilized in the second half of 2019. In our enterprise and government market segment, legacy architecture continues to decline on-premise, but enterprises are rapidly embracing cloud as an architecture, and we expect to continue to see growth in hybrid and multi-cloud deployments. In the communications service provider market segment, we gained market segment share as customers chose to virtualize and transform their networks and prepare for the 5G transition using Intel
+
+®
+
+architecture.
+
+Products and competitiveness
+
+We offer customers an unmatched, broad portfolio of platforms and technologies designed to provide workload-optimized performance across compute, storage, and network. These offerings span the full spectrum from the data center core to the network edge. In addition, DCG focuses on lowering the total cost of ownership and on other specific workload optimizations for the enterprise, cloud service provider, and communications service provider market segments, with hardware-enhanced performance optimizations for AI workloads. DCG's platform value can be extended through Intel adjacent products such as FPGAs and SSDs. As a leading provider of data center platforms, we face competition from competitors such as Advanced Micro Devices, Inc. (AMD), providers of GPU products such as NVIDIA Corporation (NVIDIA), companies using ARM* architecture, new entrants developing products customized for specific data center workloads, and from internally developed solutions by cloud service providers and others. We expect an increasingly competitive environment in 2020.
+
+With over 23 million units shipped to date, the Intel
+
+®
+
+Xeon
+
+®
+
+Scalable platform provides the foundation for the data-centric era. In 2019, we launched our 2nd generation Intel
+
+®
+
+Xeon
+
+®
+
+Scalable processors, formerly Cascade Lake, which include Intel
+
+®
+
+Deep Learning Boost. As the industry's only CPUs with built-in AI acceleration, Intel
+
+®
+
+Xeon
+
+®
+
+processors can help customers solve challenging problems and gain insight for future opportunities. We also shipped new generations of our Intel
+
+®
+
+Xeon
+
+®
+
+D processor product family, designed to deliver improved performance in space- and power-constrained environments. Beyond processing everything, we are enhancing users' digital experiences through continued expansion of adjacent product offerings to store and move data more effectively, such as Intel
+
+®
+
+Optane
+
+TM
+
+DC persistent memory and Intel
+
+®
+
+800 series Ethernet adapters.
+
+MD&A
+
+
+
+FINANCIAL PERFORMANCE
+
+DCG REVENUE $B
+
+DCG OPERATING INCOME $B
+
+■
+
+Platform
+
+■
+
+Adjacent
+
+REVENUE SUMMARY
+
+•
+
+Higher platform ASPs from stronger core mix was partially offset by platform volume decline primarily from TAM contraction in the enterprise and government market segment.
+
+•
+
+Adjacent growth driven by the continued expansion of Intel
+
+®
+
+Silicon Photonics in 2019.
+
+•
+
+Comparing 2019 to 2018, revenue from cloud service providers was up 13%, enterprise and government was down 14%, and communications service providers was up 6% (up 40%, up 2%, and up 25%, respectively, comparing 2018 to 2017).
+
+OPERATING INCOME SUMMARY
+
+Operating income
+
+decreased
+
+11%
+
+year over year, and operating margin was
+
+44%
+
+in 2019.
+
+MD&A
+
+
+
+As more intelligence is moving to the edge, more industries are harnessing the power of data to create business value, to innovate, and to grow. We are using our architecture, accelerators, and software assets, combined with scale and partners, to develop a growing Internet of Things portfolio. Our Internet of Things portfolio is comprised of our IOTG and Mobileye businesses. IOTG develops high-performance compute for targeted verticals and embedded markets. Mobileye is the global leader in the development of computer vision and machine learning-based sensing, data analysis, localization, mapping, and driving policy technology for ADAS and autonomous driving.
+
+INTERNET OF THINGS GROUP
+
+MD&A
+
+
+
+5-YEAR TRENDS
+
+■ Revenue $B
+
+—
+
+Year over Year Growth
+
+■
+
+Op Income $B
+
+—
+
+Year over Year Growth
+
+MARKET AND BUSINESS OVERVIEW
+
+Market trends and strategy
+
+The Internet of Things market sits at the center of a global digital transformation. Through a robust network of devices, software, and sensors, the Internet of Things is transforming the way businesses create products, deliver services, and conduct operations—from schools and hospitals, to retailers and smart factories. Internet of Things-based solutions represent one of the fastest growing segments within the semiconductor industry. However, the Internet of Things is a highly fragmented market with a diverse collection of competitors, products, and vertical segments.
+
+Products and competitiveness
+
+We have a long-standing position as a supplier of components and software for embedded products. This marketplace continues to expand significantly, with increasing types and numbers of smart and connected devices for retail, industrial, and consumer uses, including smart video. As this market segment evolves, we face numerous large and small incumbent processor competitors, as well as new entrants that use the ARM* architecture and other operating systems and software. In addition, the Internet of Things requires a broad range of connectivity solutions and we face competition from semiconductor companies providing traditional wireless solutions such as cellular, Wi-Fi, and Bluetooth
+
+®
+
+, as well as several new entrants who are taking advantage of new focused communications protocols.
+
+IOTG utilizes platform and adjacent products across Intel while making the investments needed to adapt products to the specific requirements for our vertical segments. We offer end-to-end solutions with our wide spectrum of products, including Intel
+
+®
+
+Atom
+
+®
+
+, Intel
+
+®
+
+Core
+
+®
+
+, and Intel
+
+®
+
+Xeon
+
+®
+
+processor-based computing, wireless connectivity, FPGAs, Movidius VPUs, and developer tools such as the OpenVINO™ software toolkit. IOTG product development focuses on addressing the key challenges businesses face when implementing Internet of Things solutions, including interoperability, connectivity, safety, security, industrial use conditions, and long-life support.
+
+
+Source: Cisco Visual Networking Index: Forecast and Trends, 2017-2022, updated February 27, 2019.
+
+MD&A
+
+
+
+MOBILEYE
+
+MARKET AND BUSINESS OVERVIEW
+
+Market trends and strategy
+
+The adoption of ADAS is expanding as consumers increasingly consider ADAS a differentiating factor in their automotive purchasing decisions
+
+. The continued growth of ADAS is dependent on various factors, including regulation, market demand, and consumers' recognition of its value. Mobileye's ADAS solutions also serve as a qualification space for our autonomous technology, using vast experience and proliferation to validate and constantly improve AV technology. AV technologies, in turn, make their way into premium ADAS solutions, broadening monetization opportunities and value proposition. The AV-ADAS interplay allows Mobileye to sustain its technology leadership.
+
+Car manufacturers are looking to enhance current L2+ solutions by improving system fidelity, availability, and performance. High-definition maps with constant updates, global coverage, and various semantic features are a prerequisite for L2+ applications and the future deployment of Robotaxi and passenger car autonomy (Consumer AV). Canonical mapping methods rely on extensive manual labor and dedicated mapping vehicles. Mobileye's disruptive REM crowdsource mapping technology provides automatic map creation and updates. REM mapping capabilities are also being leveraged to extend the value of static and dynamic data to businesses in new market segments such as smart cities and infrastructure surveys.
+
+We believe the future of autonomous driving will unfold in two phases: commercial Robotaxi and series-production passenger car Consumer AV. We expect Consumer AV to materialize only after the Robotaxi industry deploys and matures. The main inhibitors of a mass market product offering of Consumer AV are the cost of AV technology, ability to scale at a low cost, regulation structure, and public acceptance. Thus, we see the Robotaxi phase as a necessary corridor to Consumer AV. Mobileye is well positioned to play a significant role in the broader MaaS market with the commercialization of Robotaxi and the future Consumer AV market. Our full-stack self-driving system—geared with our camera-centric backbone and vast experience in productizing cutting-edge technology in the automotive industry—is the foundation for developing an economically competitive AV solution. Proliferation of data-collection vehicles alongside REM technology will allow for low-cost geographic expansion and coverage. Thus, Mobileye is entering the MaaS market segment as an end-to-end service provider at scale.
+
+
+Intel's definition is included in "Key Terms" within the Financial Statements and Supplemental Details.
+
+MD&A
+
+
+
+Products and competitiveness
+
+At its core, Mobileye's offering for ADAS and AV is propelled by our computer vision and AI expertise and software assets, deployed on our EyeQ* SoC family. The tight co-design of hardware and software gives the EyeQ* SoC the ability to support complex and computationally intense tasks and sets it apart from competition because it is purpose-fit for high-compute, low-power, automotive-compliant mission profiles. Mobileye’s 5th generation EyeQ*5 SoC is designed to act as the central computer for fully autonomous driving vehicles. Mobileye has been able to achieve power, performance, and cost targets by employing proprietary computational cores that are optimized for a wide variety of computer vision, signal processing, and machine learning tasks, including deep neural networks. Starting with EyeQ*5, Mobileye is supporting an automotive-grade standard operating system and providing a complete software development kit to allow customers to differentiate their solutions by deploying their algorithms on EyeQ*5. The EyeQ*5 SoC will be in final sampling stages in 2020 and is expected to be in commercial vehicles starting in 2021. The EyeQ*5 SoC is already operational in Mobileye’s autonomous test vehicles.
+
+EyeQ*5 serves as the computational foundation for Mobileye’s scalable camera-only surround sensing system. The system consists of multiple independent computer vision engines and deep networks for algorithmic redundancy. The result is a robust and comprehensive model of the environment that allows end-to-end autonomous driving. The surround computer vision system is the backbone of Mobileye’s autonomous vehicle architecture and the flagship offering for next-generation ADAS.
+
+The next significant building block in Mobileye’s complete offering is REM mapping technology, which compiles crowdsourced mapping data from EyeQ*
+
+SoC-equipped vehicles. Our REM Roadbook™ offering can enhance current ADAS applications through a variety of advanced features, including predictive adaptive cruise control, lane-level localization in all weather and road conditions, hands-free driving application, and real-time alerts, such as for construction activity and road hazards.
+
+The third building block in Mobileye’s full stack offering is our unique formal model for AV safety (RSS). At its core, RSS is a pragmatic method to design and then to efficiently validate the safety of an AV, serving as the governing safety layer for the decision-making system. RSS formalizes human decision making for safe driving under two main principles: First, it acknowledges the need to balance safety with useful driving by making plausible worst-case scenario assumptions for other road users; and second, it provides a technology-neutral model and a transparent framework for the regulatory endeavor of building an industry standard for safety.
+
+MD&A
+
+
+
+FINANCIAL PERFORMANCE
+
+INTERNET OF THINGS REVENUE $B
+
+INTERNET OF THINGS OP INCOME $B
+
+■
+
+IOTG
+
+■
+
+Mobileye
+
+
+REVENUE SUMMARY
+
+2019 – 2018
+
+IOTG net revenue
+
+increased
+
+$366 million
+
+, or
+
+11%
+
+, driven by
+
+$283 million
+
+higher ASPs from stronger core mix and
+
+$92 million
+
+higher
+
+IOTG platform unit sales, partially offset by lower revenue from our divestiture of Wind River in Q2 2018, which negatively impacted the revenue comparison by approximately $153 million in the first half of 2019. After adjusting for Wind River, IOTG revenue grew
+
+$519 million
+
+, or
+
+16%
+
+, year over year.
+
+Mobileye net revenue was
+
+$879 million
+
+,
+
+up
+
+$181 million
+
+due to increasing adoption of ADAS.
+
+2018 – 2017
+
+IOTG net revenue increased
+
+$286 million
+
+, or
+
+9%
+
+, driven by
+
+$632 million
+
+higher IOTG platform unit sales, offset by
+
+$212 million
+
+mix of platform products sold and
+
+$134 million
+
+lower adjacent revenue due to the divestiture of Wind River in Q2 2018. After adjusting for Wind River, IOTG revenue grew
+
+$447 million
+
+, or
+
+16%
+
+, year over year. Revenue grew due to strength across the retail, industrial, video, and other market segments.
+
+OPERATING INCOME SUMMARY
+
+2019 – 2018
+
+IOTG operating income
+
+increased
+
+$117 million
+
+primarily due to higher platform revenue from stronger core mix offset by higher period charges related to reserves taken on legacy products.
+
+Mobileye operating income was
+
+$245 million
+
+,
+
+up
+
+$102 million
+
+driven by growth in revenue partially offset by higher spending.
+
+2018 – 2017
+
+IOTG operating income
+
+increased
+
+$330 million
+
+due to higher revenue
+
+and lower spending as we reprioritized investments within the automotive business and Wind River.
+
+
+Mobileye was acquired in Q3 2017; 2017 figures do not represent full-year results.
+
+MD&A
+
+
+5-YEAR TRENDS
+
+■
+
+Revenue $B
+
+—
+
+Year over Year Growth
+
+■
+
+Op Income $B
+
+
+Source: Intel calculated TAM growth derived from industry analyst reports.
+
+MD&A
+
+
+
+MARKET AND BUSINESS OVERVIEW
+
+Market trends and strategy
+
+As a result of the combination of ever-exploding growth in data and the desire to analyze data for actionable insights, our customers are faced with balancing performance and real-time access and cost. Our technology innovations enable various tiers of memory and storage to ensure that critical, or "hot," data is close to the CPU for rapid access to larger data sets with Intel
+
+®
+
+Optane™-based products and efficient cost-effective capacity storage with Intel
+
+®
+
+3D NAND TLC and QLC technology.
+
+Non-volatile memory bit TAM
+
+
+grew 40% in 2019 as significant increases in storage and memory technologies were required to meet customer needs. Conversely, revenue TAM contracted 23% year over year due to an over-inventoried market through the first half of 2019. Our focus continues to be within the high-performance compute, financial services, cloud service provider, and Internet usage market segments.
+
+Products and competitiveness
+
+We compete against other providers of NAND flash memory products. We focus our efforts primarily on incorporating NAND flash memory into solution products and on our innovative Intel
+
+®
+
+Optane™ technology, which offers a unique combination of performance, density, power, non-volatility, and cost advantages that redefines the memory storage hierarchy between conventional DRAM memory and NAND. We believe that our memory offerings, including our
+
+Intel
+
+®
+
+Optane™
+
+technology, complement our product offerings in our other segments.
+
+The acceleration in data growth across our customer base requires significant innovation in storage and memory technology. Our storage and memory roadmap led the way in re-imagining usages and architecting innovative solutions that have disrupted the industry with 64-layer 3D NAND TLC and QLC solutions. We launched five new products to keep up with the evolving business needs of our customers. These new products have driven our 64-layer products to be more than 90% of 2019 NSG volume and we have seen a meaningful ramp in the
+
+Intel
+
+®
+
+Optane™ technology business.
+
+In 2019 we launched our line of Intel
+
+®
+
+Optane™ DC persistent memory products, available for 2nd generation Intel
+
+®
+
+Xeon
+
+®
+
+processor platforms for data center usages. This technology redefines the memory storage hierarchy and offers the performance of memory with the large capacities and persistence characteristics of storage. We are also leading the way in delivering responsiveness and capacity to the latest generation PCs with the industry’s first drive to combine Intel
+
+®
+
+Optane™ memory and Intel
+
+®
+
+QLC 3D NAND technology. This new technology will enable innovative new form factors and higher capacity drives.
+
+
+Source: Intel calculated TAM growth derived from industry analyst reports.
+
+MD&A
+
+
+
+FINANCIAL PERFORMANCE
+
+NSG REVENUE $B
+
+NSG OPERATING INCOME $B
+
+REVENUE SUMMARY
+
+2019 – 2018
+
+Net revenue
+
+increased
+
+$55 million
+
+, driven by a
+
+$3.9 billion
+
+increase in unit sales due to an increase in demand for NAND products, offset by a
+
+$3.8 billion
+
+impact from lower ASP due to lower NAND market pricing.
+
+2018 – 2017
+
+Net revenue increased
+
+$787 million
+
+, driven by a $2.6 billion increase in unit sales due to strong demand in data center and client SSD and the ramp of Intel
+
+®
+
+Optane™ technology products, partially offset by $1.8 billion lower ASP due to NAND market pricing weakness and
+
+mix of products sold.
+
+OPERATING INCOME SUMMARY
+
+2019 – 2018
+
+NSG had an operating loss of
+
+$1.2 billion
+
+,
+
+down
+
+from an operating loss of
+
+$5 million
+
+in 2018. The operating loss was driven by
+
+$3.8 billion
+
+lower ASPs, partially offset by
+
+$1.6 billion
+
+of improved unit cost and
+
+$1.1 billion
+
+higher unit sales. While we continued to see the ramp at Fab 68 drive cost improvements, the decline in ASP and the absence of $160 million in government grants recognized in Q3 2018 more than offset improved unit cost, resulting in lower gross margin.
+
+2018 – 2017
+
+Operating income improved
+
+$255 million
+
+as our sales mix shifted to our latest 64-layer NAND and we continued to see the cost ramp at Fab 68. The improved unit costs and higher unit sales more than offset the decline in ASP. In addition, we had a total of $160 million earned government grants benefiting 2018.
+
+MD&A
+
+
+
+4-YEAR TRENDS
+
+■
+
+Revenue $B
+
+—
+
+Year over Year Growth
+
+■
+
+Op Income $B
+
+MD&A
+
+
+
+MARKET AND BUSINESS OVERVIEW
+
+Market trends and strategy
+
+With the rise of pervasive connectivity and autonomous transactions, vast networks of devices and systems are linked from the edge through infrastructure to the cloud. The Intel
+
+®
+
+FPGA portfolio enables this transformation with discrete FPGAs and software-defined, hardware-based, multi-function acceleration cards that allow faster development times, high performance, and power efficiency with lower overall total cost of ownership.
+
+PSG enables a broad range of solutions targeting the data center, wireless, networking, military, medical, and industrial market segments. The configurability and efficiency of FPGAs provide advantages to enable transformative applications such as 5G wireless, network function virtualization acceleration, and edge acceleration for video analytics and Industry 4.0. At the edge, where systems ingest large amounts of data, Intel
+
+®
+
+FPGAs are ideal for pre-processing data to accelerate Intel processors. In the network, where data traffic is increasing and network functions are being virtualized to improve transport efficiency, Intel
+
+®
+
+FPGAs are built to deliver high-bandwidth aggregation and processing. In the cloud, where workloads shift dynamically and algorithms change, Intel
+
+®
+
+FPGAs are the ideal solution for adapting to new demands through reconfigurability.
+
+Products and competitiveness
+
+PSG delivers solutions in the PLD market, primarily FPGAs and structured ASICs, to accelerate applications that help secure, power, and connect billions of devices and the infrastructure of the smart, connected, data-centric world.
+
+We face competition from other programmable logic companies, as well as companies that make other types of semiconductor products, such as ASICs, application-specific standard products, GPUs, digital signal processors, and CPUs. Targeted growth areas for our programmable solutions include communications, data center, industrial, and military applications. The FPGA life cycle is long relative to other Intel products. It generally takes three or more years from the time that a design win is secured before a customer starts volume production and we receive the associated revenue.
+
+PSG expanded its FPGA silicon portfolio by offering additional capability with the Intel
+
+®
+
+Stratix
+
+®
+
+10 FPGA family and by introducing the brand-new Intel
+
+®
+
+Agilex™ FPGA family.
+
+The
+
+Intel
+
+®
+
+Agilex™
+
+FPGA family combines FPGA fabric built on Intel’s 10nm process with innovative heterogeneous 3D SiP technology, which provides the capability to integrate analog, memory, custom computing, custom I/O, and
+
+Intel
+
+®
+
+eASIC™
+
+device tiles into a single package with the FPGA fabric.
+
+Intel
+
+®
+
+Agilex™
+
+FPGAs began shipping to early access program customers.
+
+PSG also expanded its Intel
+
+®
+
+PAC portfolio with the introduction of the Intel
+
+®
+
+PAC N3000 and Intel
+
+®
+
+PAC D5005. The Intel
+
+®
+
+PAC portfolio, complete with an acceleration software stack, enables customers to plug cards directly into an Intel
+
+®
+
+Xeon
+
+®
+
+processor-based server for application accelerations in markets such as 5G, finance, genomics, video transcoding, and database acceleration.
+
+PSG continues to invest in the Intel
+
+®
+
+eASIC™ silicon portfolio of structured ASICs. These products serve as an intermediary technology between FPGAs and standard-cell ASICs that provides lower unit cost and lower power compared to FPGAs, and faster time-to-market and lower non-recurring engineering cost compared to standard-cell ASICs. Intel
+
+®
+
+eASIC™ products have growth opportunities through adoption in 5G applications and scale across a wide range of markets.
+
+MD&A
+
+
+
+FINANCIAL PERFORMANCE
+
+PSG REVENUE $B
+
+PSG OPERATING INCOME $B
+
+REVENUE SUMMARY
+
+2019 – 2018
+
+Revenue
+
+decreased
+
+$136 million
+
+,
+
+driven by a decline in our cloud and enterprise market segment, offset by strength in wireless and advanced products.
+
+2018 – 2017
+
+Revenue increased
+
+$221 million
+
+, driven by growth in the data center market segment and our advanced products (28nm, 20nm, and 14nm process technologies), which grew approximately 60% from 2017
+
+.
+
+OPERATING INCOME SUMMARY
+
+2019 – 2018
+
+Operating income
+
+decreased
+
+$148 million
+
+, driven by lower revenue in our cloud and enterprise market segment, offset by strength in wireless and advanced products.
+
+2018 – 2017
+
+Operating income was flat year over year, at
+
+$466 million
+
+. Revenue increased from the growth in the data center and advanced products, but was offset by higher costs from an unfavorable product mix and increased investments.
+
+MD&A
+
+
+5-YEAR TRENDS
+
+■
+
+Revenue $B
+
+—
+
+Year over Year Growth
+
+■
+
+Op Income $B
+
+—
+
+Year over Year Growth
+
+MD&A
+
+
+
+MARKET AND BUSINESS OVERVIEW
+
+Market trends and strategy
+
+Overall market conditions continue to improve, but we are operating in an increasingly competitive market. With continued investment in product and process technology, and in partnership with our customers, we are delivering platform innovation across several key vectors. We were supply constrained particularly at the value-end of the market as higher than expected PC demand outpaced our supply. We made capacity investments to improve our supply throughout the year, increasing our second-half PC CPU supply by double digits compared with the first half of this year. Supply remains tight in our PC business, where we are operating with limited inventory buffers.
+
+Products and competitiveness
+
+We are accelerating the pace of innovation and delivering an annual cadence of leadership products
+
+, including for modern notebooks and high-end enthusiast PCs.
+
+We deliver value to our customers by leveraging our engineering capabilities and working with our partners to deliver technology across every major vector of the computing experience, including performance, battery life, connectivity
+
+,
+
+memory, graphics, and form factors to create the most advanced PC platforms
+
+.
+
+We introduced our 10th Gen Intel
+
+®
+
+Core™ processor, previously referred to as Ice Lake, a highly integrated new CPU core architecture with new Gen11 graphics, first integrated Wi-Fi6 (11AX) and Thunderbolt™ 3 connectivity, and Intel
+
+®
+
+Deep Learning Boost. Built on Intel’s advanced 10nm process technology, these processors deliver increased graphics performance, AI, and new levels of integrated connectivity for thin-and-light laptops and 2-in-1s. Further, they give our OEM partners the freedom to innovate on design and aesthetic by reducing the silicon footprint while still delivering the latest standards and world-class performance.
+
+We also expanded our 9th Gen family with 14 new Intel
+
+®
+
+Core™ vPro
+
+®
+
+processors for high-performance mobile and desktop PCs, bringing the Intel
+
+®
+
+Core™ i9 processor to the best-for-business platform for the first time. We launched Intel
+
+®
+
+Xeon
+
+®
+
+E workstation processors with up to eight cores, 16 threads, 5-GHz turbo frequency, Wi-Fi 6 (Gig+), Intel
+
+®
+
+Optane™ memory; and delivered a special edition i9-9900KS desktop SKU, with 5-GHz all-core turbo and Intel
+
+®
+
+Performance Maximizer.
+
+In May 2019, we launched our multi-year innovation program, Project Athena, with more than 20 verified devices on shelves in time for the holiday season. These devices meet the criteria of our Project Athena 1.0 specification, and are tested and verified in Intel labs to ensure they deliver new experience targets or key experience indicators defined by real-world usage models and innovation across six areas: instant action, performance and responsiveness, intelligence, battery life, connectivity, and form factor.
+
+Our platform products continue to be enhanced by new adjacent technologies. We launched the Wi-Fi6 11X connectivity solution, the first Wi-Fi6 solution in the PC market, featuring faster speeds, increased throughput, and better experiences. We are driving new industry standards for USB-C connector-based products with Thunderbolt™ 3. In addition, we are delivering a new level of performance and high-capacity storage with Intel
+
+®
+
+Optane™ memory H10 with Solid State Storage to enable enhanced SSD experiences.
+
+Our advanced pace of innovation is more important than ever as we are operating in an increasingly competitive market. We face strong competition from AMD, as well as vendors who use applications processors based on ARM* architecture,
+
+such as Qualcomm Inc. (Qualcomm), and customers who internally develop their own semiconductors
+
+. We are expecting an increasingly competitive environment in 2020.
+
+MD&A
+
+
+
+FINANCIAL PERFORMANCE
+
+CCG REVENUE $B
+
+CCG OPERATING INCOME $B
+
+■
+
+Platform
+
+■
+
+Adjacent
+
+REVENUE SUMMARY
+
+•
+
+Decreased unit sales due to supply constraints particularly at the value-end of the market, and lower market share.
+
+•
+
+Increased demand for performance products drove strong product mix and higher ASP as the commercial market segment remained strong.
+
+•
+
+Strength in modem drove higher adjacent revenue.
+
+OPERATING INCOME SUMMARY
+
+Operating income
+
+increased
+
+7%
+
+year over year, and operating margin was
+
+41%
+
+in 2019.
+
+MD&A
+
+
+
+CONSOLIDATED RESULTS OF OPERATIONS
+
+Our transformation to a data-centric company continued in 2019 as we experienced strong demand and reached critical product milestones. Most of our segments experienced continued growth with record total revenue for the fourth year in a row.
+
+MD&A
+
+
+
+REVENUE
+
+Compared to a year ago, data-centric revenue was up
+
+3%
+
+, driven by a strong mix of high-performance product sales in the second half of 2019, partially offset by TAM contraction in the DCG enterprise and government market segment and continued pressure on NAND pricing. Our PC-centric business was flat, driven by a strong mix of higher performance products as the commercial segment of the PC market remained strong, and modem continued to grow, offset by lower year over year platform volume.
+
+Our total revenue grew from $55.4 billion in
+
+
+to
+
+$72.0
+
+billion in
+
+
+, representing
+
+7%
+
+CAGR. Data-centric businesses collectively grew faster than Intel as a whole at
+
+11%
+
+CAGR over the last five years, and are approaching 50% of our revenue.
+
+PC TO DATA-CENTRIC TRANSFORMATION OVER THE LAST 5 YEARS
+
+■
+
+PC-centric $B
+
+■
+
+Data-centric $B
+
+—
+
+Data-centric as a % of total Intel revenue
+
+SEGMENT REVENUE WALK $B
+
+2019 – 2018
+
+In
+
+
+, revenue was
+
+$72.0 billion
+
+,
+
+up
+
+$1.1 billion
+
+, or
+
+2%
+
+, from
+
+
+. Our data-centric businesses collectively grew
+
+3%
+
+year over year and made up nearly half of our total revenue in
+
+
+. Platform ASPs increased due to stronger core mix offset by a decline in NSG ASPs due to lower NAND market pricing and a decrease in DCG platform unit sales as the enterprise and government market segment contracted. Our PC-centric business was flat year over year as ASP strength from richer commercial segment mix and modem growth were offset by declines in platform volume.
+
+2018 – 2017
+
+In
+
+
+, revenue was
+
+$70.8 billion
+
+,
+
+up
+
+$8.1 billion
+
+, or
+
+13%
+
+, from
+
+
+. The increase in revenue was primarily driven by strong performance across our data-centric businesses, which collectively grew
+
+18%
+
+year over year and made up nearly half of our total revenue in
+
+
+. Our Mobileye business had revenue of
+
+$698 million
+
+. Our PC-centric business grew
+
+9%
+
+, above our expectations, due to PC TAM
+
+
+growth and demand for our leadership products. The increase in 2018 revenue was partially offset by the loss of revenue from businesses that were divested, specifically
+
+$534 million
+
+from the divestiture of the ISecG and approximately $165 million from the divestiture of Wind River.
+
+
+S
+
+ource: Intel calculated PC TAM derived from industry analyst reports.
+
+MD&A
+
+
+
+GROSS MARGIN
+
+We derived
+
+most
+
+of our overall gross margin dollars from the sale of platform products in the DCG and CCG operating segments. Our overall gross margin dollars in
+
+
+decreased
+
+by
+
+$1.6 billion
+
+, or
+
+4%
+
+, compared to
+
+
+, and in
+
+
+increased
+
+by
+
+$4.6 billion
+
+, or
+
+12%
+
+, compared to
+
+
+. In 2019, our adjacent products revenue continued to grow primarily due to memory and modem products, which have a lower gross margin percentage than our overall average.
+
+Lower platform unit sales and margin compression on memory products resulted in lower gross margins, which were partially offset by platform ASP strength.
+
+MD&A
+
+
+
+OPERATING EXPENSES
+
+Total R&D and MG&A expenses for
+
+
+were
+
+$19.5 billion
+
+,
+
+down 4%
+
+from
+
+
+. These expenses represented
+
+27.1%
+
+of revenue for
+
+
+and
+
+28.6%
+
+of revenue for
+
+
+.
+
+We continue to invest in R&D to accelerate our growth and profitability while driving operational efficiencies to reduce our MG&A spending. Over the next three years, we plan to continue to reduce our spending as a percentage of revenue down to 25%.
+
+RESEARCH AND DEVELOPMENT
+
+MARKETING, GENERAL AND ADMINISTRATIVE
+
+MD&A
+
+
+
+GAINS (LOSSES) ON EQUITY INVESTMENTS AND INTEREST AND OTHER, NET
+
+GAINS (LOSSES) ON EQUITY INVESTMENTS, NET
+
+Ongoing mark-to-market net gains and losses reported in 2019 and 2018 were primarily driven by ASML Holding N.V. (ASML) and Cloudera Inc. (Cloudera). During 2019 we sold our equity investment in ASML.
+
+In
+
+
+, we recognized
+
+$293 million
+
+in observable price adjustments primarily from one investment.
+
+During 2018, we recognized an impairment charge of
+
+$290 million
+
+in our equity method investment in IMFT. During 2017, we recognized impairment charges in our investments of Cloudera for
+
+$278 million
+
+and Unisoc for
+
+$
+
+308 million
+
+.
+
+Major drivers of sales of equity investments and other in 2019 were dividends of
+
+$632 million
+
+from McAfee and a gain of
+
+$107 million
+
+from our sale of our non-controlling interest in IMFT. In 2017, we recognized
+
+$3.4 billion
+
+in realized gains on sales of a portion of our interest in ASML.
+
+INTEREST AND OTHER, NET
+
+We recognized a higher net gain in interest and other in 2019 compared to 2018, primarily due to lower loss on debt conversions and larger divestiture gains in 2019 compared to 2018.
+
+We recognized a net gain in interest and other in 2018 compared to a net loss in 2017, primarily due to lower losses on debt conversions, higher assets under construction resulting in more capitalized interest, and larger divestiture gains in 2018 compared to 2017.
+
+MD&A
+
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+We consider the following when assessing our liquidity and capital resources:
+
+Cash generated by operations is our primary source of liquidity. When assessing our sources of liquidity, we include investments as shown in the preceding table. We maintain a diverse investment portfolio that we continually analyze based on issuer, industry, and country.
+
+Substantially all
+
+of our investments in debt instruments and financing receivables are in investment-grade securities.
+
+Other potential sources of liquidity include our commercial paper program and our automatic shelf registration statement on file with the SEC, pursuant to which we may offer an unspecified amount of debt, equity, and other securities. Under our commercial paper program, we have an ongoing authorization from our Board of Directors to borrow up to
+
+$10.0 billion
+
+. As of
+
+December 28, 2019
+
+,
+
+no
+
+commercial paper remained outstanding. During
+
+
+,
+
+we issued a total of
+
+$2.8 billion
+
+aggregate principal amount of senior notes and
+
+received proceeds of
+
+$648 million
+
+aggregate principal amount of bonds issued by the Industrial Development Authority of the City of Chandler, Arizona and the State of Oregon Business Development Commission.
+
+We also redeemed our
+
+$915 million
+
+,
+
+4.70%
+
+senior notes due
+
+December 2045
+
+. Additionally, w
+
+e repaid
+
+$170 million
+
+of our
+
+3.25%
+
+senior notes that matured in
+
+December 2019
+
+and paid
+
+$1.5 billion
+
+in cash to satisfy conversion requests for a portion of our
+
+$2.0 billion
+
+2009 Debentures.
+
+In November 2019, we issued a notice of redemption for the remaining
+
+$372 million
+
+of 2009 Debentures with a redemption date of January 9, 2020.
+
+We believe we have sufficient financial resources to meet our business requirements in the next 12 months, including capital expenditures for worldwide manufacturing and assembly and test; working capital requirements; and potential acquisitions, strategic investments, dividends, and common stock repurchases.
+
+"Our finance team plays a fundamental role in partnering with the business to ensure we have the capital and financial resources available to fund our global operations and future growth initiatives."
+
+—Sharon Heck,
+
+Corporate Vice President, Treasurer, and Chief Tax Officer
+
+MD&A
+
+
+
+SOURCES AND USES OF CASH
+
+(In Millions)
+
+In summary, our cash flows for each period were as follows:
+
+MD&A
+
+
+
+OPERATING ACTIVITIES
+
+Cash
+
+provided by
+
+operating activities is net income adjusted for certain non-cash items and changes in assets and liabilities.
+
+For
+
+
+compared to
+
+
+, the
+
+$3.7 billion
+
+increase
+
+in cash provided by operating activities was primarily due to changes in working capital. Changes in working capital were driven by taxes, other assets and liabilities, and accounts receivable, offset by customer utilization of prepaid supply agreement payments and inventory build.
+
+For
+
+
+compared to
+
+
+, the
+
+$7.3 billion
+
+increase
+
+in cash provided by operating activities was primarily due to higher net income, offset by changes in working capital. Changes in working capital were driven by taxes and accounts receivables, offset by relatively flat inventory levels. Income taxes paid, net of refunds, in 2018 compared to 2017 were flat as the benefit of a lower U.S. corporate tax rate was offset by the payment related to the 2017 U.S. Tax Reform transition tax. We received $
+
+1.4 billion
+
+of customer deposits and prepaid supply agreements in 2018, net of customer utilization, compared to $
+
+1.1 billion
+
+in 2017.
+
+INVESTING ACTIVITIES
+
+Investing cash flows consist primarily of capital expenditures; investment purchases, sales, maturities, and disposals; and proceeds from divestitures and cash used for acquisitions. Our capital expenditures were
+
+$16.2 billion
+
+in
+
+
+(
+
+$15.2 billion
+
+in
+
+
+and
+
+$11.8 billion
+
+in
+
+
+).
+
+The
+
+increase
+
+in cash used for investing activities in
+
+
+compared to
+
+
+was primarily due to net trading asset activity, acquisitions, and capital expenditures. The increase was partially offset by net available-for-sale debt investment activity.
+
+The
+
+decrease
+
+in cash used for investing activities in
+
+
+compared to
+
+
+was primarily due to lower cash paid on acquisitions and increased cash from net trading asset activity. This was partially offset by increased capital expenditures, net available-for-sale debt investments activity, decreased proceeds from divestitures, and decreased sales of equity investments (substantially all from ASML sales).
+
+FINANCING ACTIVITIES
+
+Financing cash flows consist primarily of repurchases of common stock, payment of dividends to stockholders, issuance and repayment of short-term and long-term debt, and proceeds from the sale of shares of common stock through employee equity incentive plans.
+
+The
+
+decrease
+
+in cash used for financing activities in
+
+
+compared to
+
+
+was primarily due to increased long-term debt issuance, offset by increased repurchases of common stock. During
+
+
+, we repurchased
+
+$13.6 billion
+
+of common stock under our authorized common stock repurchase program, compared to
+
+$10.7 billion
+
+in
+
+
+. In October 2019, the Board of Directors approved a
+
+$20.0 billion
+
+increase in our authorized stock repurchase program authorization, and we announced that we expect to repurchase $20.0 billion in stock over the next 15 to 18 months. As of
+
+December 28, 2019
+
+,
+
+$23.8 billion
+
+remained available for repurchasing common stock under the repurchase authorization limit. In general, we base our level of common stock repurchases on internal cash management decisions, and this level may fluctuate in the future. Our total dividend payments were
+
+$5.6 billion
+
+in
+
+
+compared to
+
+$5.5 billion
+
+in
+
+
+. We have paid a cash dividend in each of the past
+
+
+quarters. In Q1 2020, the Board of Directors declared a quarterly cash dividend of $0.33 per share of common stock, payable on March 1, 2020 to stockholders of record on February 7, 2020.
+
+The
+
+increase
+
+in cash used for financing activities in
+
+
+compared to
+
+
+was primarily due to decreased long-term debt issuance and increased repurchases of common stock.
+
+MD&A
+
+
+
+CONTRACTUAL OBLIGATIONS
+
+Significant contractual obligations as of
+
+December 28, 2019
+
+were as follows:
+
+
+Operating lease obligations represent the undiscounted lease payments under non-cancelable leases, but exclude non-lease components.
+
+
+Capital purchase obligations represent commitments for the construction or purchase of property, plant and equipment. They were not recorded as liabilities on our Consolidated Balance Sheets as of
+
+December 28, 2019
+
+, as we had not yet received the related goods nor taken title to the property.
+
+
+Other purchase obligations and commitments include payments due under various types of licenses and agreements to purchase goods or services.
+
+
+Tax obligations represent the future cash payments related to Tax Reform enacted in 2017 for the one-time transition tax on our previously untaxed foreign earnings. For further information, see "
+
+Note 9: Income Taxes
+
+" within the Consolidated Financial Statements.
+
+
+Amounts represent principal payments for all debt obligations and interest payments for fixed-rate debt obligations. Interest payments on floating-rate debt obligations, as well as the impact of fixed-rate to floating-rate debt swaps, are excluded. Debt obligations are
+
+classified based on their stated maturity date, regardless of their classification on the Consolidated Balance Sheet
+
+s.
+
+
+Amounts represent future cash payments to satisfy other long-term liabilities recorded on our Consolidated Balance Sheets, including the short-term portion of these long-term liabilities. Derivative instruments are excluded from the preceding table, because they do not represent the amounts that may ultimately be paid.
+
+
+Total excludes contractual obligations already recorded on our Consolidated Balance Sheets as current liabilities, except for the short-term portions of long-term debt obligations and other long-term liabilities.
+
+The expected timing of payments of the obligations in the preceding table is estimated based on current information. Timing of payments and actual amounts paid may be different, depending on the time of receipt of goods or services, or changes to agreed-upon amounts for some obligations.
+
+Contractual obligations for purchases of goods or services included in "Other purchase obligations and commitments" in the preceding table include agreements that are enforceable and legally binding and that specify all significant terms, including fixed or minimum quantities to be purchased; fixed, minimum, or variable price provisions; and the approximate timing of the transaction. For obligations with cancellation provisions, the amounts included in the preceding table were limited to the non-cancelable portion of the agreement terms or the minimum cancellation fee.
+
+For the purchase of raw materials, we have entered into certain agreements that specify minimum prices and quantities based on a percentage of the total available market or based on a percentage of our future purchasing requirements. Due to the uncertainty of the future market and our future purchasing requirements, as well as the non-binding nature of these agreements, obligations under these agreements have been excluded from the preceding table. Our purchase orders for other products are based on our current manufacturing needs and are fulfilled by our vendors within short time horizons. In addition, some of our purchase orders represent authorizations to purchase rather than binding agreements.
+
+Contractual obligations that are contingent upon the achievement of certain milestones have been excluded from the preceding table.
+
+Approximately half
+
+of our milestone-based contracts are tooling related for the purchase of capital equipment. These arrangements are not considered contractual obligations until the milestone is met by the counterparty.
+
+As of
+
+December 28, 2019
+
+, assuming that all future milestones are met, the additional required payments would be approximately
+
+$498 million
+
+.
+
+For the majority of RSUs granted, the number of shares of common stock issued on the date the RSUs vest is net of the minimum statutory withholding requirements that we pay in cash to the appropriate taxing authorities on behalf of our employees. The obligation to pay the relevant taxing authority is excluded from the preceding table, as the amount is contingent upon continued employment. In addition, the amount of the obligation is unknown, as it is based in part on the market price of our common stock when the awards vest.
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We are affected by changes in currency exchange and interest rates, as well as equity and commodity prices. Our risk management programs are designed to reduce, but may not entirely eliminate, the impacts of these risks. All of the following potential changes are based on sensitivity analyses performed on our financial positions as of
+
+December 28, 2019
+
+and
+
+December 29, 2018
+
+. Actual results may differ materially.
+
+MD&A
+
+
+
+CURRENCY EXCHANGE RATES
+
+We are exposed to currency exchange risks of non-U.S.-dollar-denominated investments in debt instruments and loans receivable, and may economically hedge this risk with foreign currency contracts, such as currency forward contracts or currency interest rate swaps. Gains or losses on these non-U.S.-currency investments are generally offset by corresponding losses or gains on the related hedging instruments. We are exposed to currency exchange risks from our non-U.S.-dollar-denominated debt indebtedness and may use foreign currency contracts designated as cash flow hedges to manage this risk.
+
+Substantially all
+
+of our revenue is transacted in U.S. dollars. However, a
+
+significant
+
+portion of our operating expenditures and capital purchases are incurred in other currencies,
+
+primarily the euro, the Japanese yen, the Israeli shekel, and the Chinese yuan
+
+. We have established currency risk management programs to protect against currency exchange rate risks associated with non-U.S. dollar forecasted future cash flows and existing non-U.S. dollar monetary assets and liabilities. We may also hedge currency risk arising from funding of foreign currency-denominated future investments. We may utilize foreign currency contracts, such as currency forwards or option contracts in these hedging programs. We considered the historical trends in currency exchange rates and determined that it was reasonably possible that a weighted average adverse change of 10% in currency exchange rates could be experienced in the near term. Such an adverse change, after taking into account balance sheet hedges only and offsetting recorded monetary asset and liability positions outstanding as of
+
+December 28, 2019
+
+and
+
+December 29, 2018
+
+, would result in an adverse impact on income before taxes of less than
+
+$38 million
+
+and less than
+
+$46 million
+
+, respectively.
+
+INTEREST RATES
+
+We are exposed to interest rate risk related to our fixed-rate investment portfolio and outstanding debt. The primary objective of our investment policy is to preserve principal and the financial flexibility to fund our business while maximizing yields, which generally track the U.S. dollar three-month LIBOR. We generally enter into interest rate contracts to convert the returns on our fixed-rate debt investment with remaining maturities longer than six months into U.S. dollar three-month LIBOR-based returns. We also enter into swaps to convert fixed-rate coupon payments into floating-rate coupon payments for our existing indebtedness. Gains or losses on these instruments are generally offset by corresponding losses or gains on the related hedging instruments.
+
+A hypothetical increase in benchmark interest rates of up to
+
+1.0%
+
+, after taking into account investment hedges, would have resulted in a decrease in the fair value of our investment portfolio of approximately
+
+$88 million
+
+as of
+
+December 28, 2019
+
+(a hypothetical decrease of 1.0% would have resulted in an increase of approximately
+
+$110 million
+
+as of
+
+December 29, 2018
+
+).
+
+Taking into account floating-rate debt and fixed-rate debt that is swapped to floating-rate debt, a hypothetical increase in interest rates of up to
+
+1.0%
+
+would result in an increase in annual interest expense on our indebtedness of approximately
+
+$139 million
+
+from debt outstanding as of
+
+December 28, 2019
+
+(an increase of approximately
+
+$215 million
+
+from debt outstanding as of
+
+December 29, 2018
+
+).
+
+EQUITY PRICES
+
+Our investments include marketable equity securities and equity derivative instruments. We typically do not attempt to reduce or eliminate our equity market exposure through hedging activities at the inception of our investments. In the event we do decide to enter into hedge arrangements, before doing so we evaluate legal, market, and economic factors, as well as the expected timing of disposal, to determine whether hedging is appropriate. Our equity market risk management program may include equity derivatives with or without hedge accounting designation that utilize warrants, equity options, or other equity derivatives.
+
+We also utilize total return swaps to offset changes in liabilities related to the equity market risks of certain deferred compensation arrangements. Gains or losses from changes in fair value of these total return swaps are generally offset by the losses or gains on the related liabilities.
+
+As of
+
+December 28, 2019
+
+, the fair value of our marketable equity investments and our equity derivative instruments, including hedging positions, was
+
+$450 million
+
+(
+
+$1.4 billion
+
+as of
+
+December 29, 2018
+
+).
+
+A substantial majority
+
+of our marketable equity investments portfolio as of
+
+December 29, 2018
+
+was concentrated in our investment in ASML of
+
+$1.1 billion
+
+. During 2019, we fully sold our investment in ASML. To determine reasonably possible decreases in the market value of our marketable equity investments, we have analyzed the historical market price sensitivity of our marketable equity investment portfolio. Assuming a decline of
+
+40%
+
+in market prices, and after reflecting the impact of hedges and offsetting positions, the aggregate value of our marketable equity investments could decrease by approximately
+
+$180 million
+
+, based on the value as of
+
+December 28, 2019
+
+(a decrease in value of approximately
+
+$576 million
+
+, based on the value as of
+
+December 29, 2018
+
+using an assumed decline of
+
+40%
+
+). Beginning in 2018, as explained in "
+
+Note 2: Accounting Policies
+
+" within the Consolidated Financial Statements, changes in the fair value of our marketable equity securities will be measured and recorded at fair value with changes in fair value recorded through the income statement.
+
+MD&A
+
+
+
+Many of the same factors that could result in an adverse movement of equity market prices affect our non-marketable equity investments, although we cannot always quantify the impacts directly. Financial markets are volatile, which could negatively affect the prospects of the companies we invest in, their ability to raise additional capital, and the likelihood of our ability to realize value in our investments through liquidity events such as initial public offerings, mergers, and private sales. These types of investments involve a great deal of risk, and there can be no assurance that any specific company will grow or become successful; consequently, we could lose all or part of our investment. Our non-marketable equity securities had a carrying amount of
+
+$3.5 billion
+
+as of
+
+December 28, 2019
+
+(
+
+$3.0 billion
+
+as of
+
+December 29, 2018
+
+) and included our investment in Unisoc of
+
+$658 million
+
+(
+
+$658 million
+
+for Unisoc as of
+
+December 29, 2018
+
+). The carrying amount of our equity method investments was
+
+$37 million
+
+as of
+
+December 28, 2019
+
+(
+
+$1.6 billion
+
+as of
+
+December 29, 2018
+
+). Substantially all of our equity method investments balance as of
+
+December 29, 2018
+
+was concentrated in our investment in IMFT. During 2019, we sold our non-controlling interest in IMFT to Micron.
+
+COMMODITY PRICE RISK
+
+Although we operate facilities that consume commodities, we are not directly affected by commodity price risk to a material degree. We have established forecasted transaction risk management programs to protect against fluctuations in commodity prices. We may use commodity derivatives contracts, such as commodity swaps, in these hedging programs. In addition, we have sourcing plans in place that are designed to mitigate the risk of a potential supplier concentration for our key commodities.
+
+NON-GAAP FINANCIAL MEASURES
+
+In addition to disclosing financial results in accordance with U.S. GAAP, this document contains references to the non-GAAP financial measures below. We believe these non-GAAP financial measures provide investors with useful supplemental information about the financial performance of our business, enable comparison of financial results between periods where certain items may vary independent of business performance, and allow for greater transparency with respect to key metrics used by management in operating our business and measuring our performance.
+
+Our non-GAAP financial measures reflect adjustments based on one or more of the following items, as well as the related income tax effects where applicable. Income tax effects have been calculated using an appropriate tax rate for each adjustment. These non-GAAP financial measures should not be considered a substitute for, or superior to, financial measures calculated in accordance with U.S. GAAP, and the financial results calculated in accordance with U.S. GAAP and reconciliations from these results should be carefully evaluated.
+
+ACQUISITION-RELATED ADJUSTMENTS
+
+Acquisition-related adjustments exclude charges related to amortization of acquisition-related intangible assets, inventory valuation adjustments, and other acquisition-related charges.
+
+Amortization of acquisition-related intangible assets consists of amortization of intangible assets such as developed technology, brands, and customer relationships acquired in connection with business combinations. Cost of sales and operating expenses in our U.S. GAAP financial statements include amortization charges for intangible assets acquired primarily for the acquisitions of Mobileye in 2017 and Altera in 2016. These charges are inconsistent in size and are significantly impacted by the timing and valuation of our acquisitions.
+
+Business combination accounting principles require us to measure acquired inventory at fair value. The fair value of inventory reflects the acquired company’s cost of manufacturing plus a portion of the expected profit margin. The acquisition-related i
+
+nventory valuation adjustments
+
+exclude the expected profit margin component from cost of sales that was recorded under business combination accounting principles associated with our acquisition of Mobileye.
+
+Other acquisition-related charges primarily include bankers' fees, compensation-related costs, and valuation charges for stock-based compensation incurred in connection with the acquisition of Mobileye.
+
+Our non-GAAP adjustments exclude these charges to facilitate a better evaluation of our current operating performance and comparison to our past operating performance, and provide investors with additional means to reflect costs of sales, gross margin and spending trends.
+
+RESTRUCTURING AND OTHER CHARGES
+
+Restructuring charges are costs associated with a formal restructuring plan and are primarily related to employee severance and benefit arrangements. Other charges include asset impairments, pension charges, and costs associated with the exit of the 5G smartphone modem business and the ISecG divestiture. We exclude restructuring and other charges, including any adjustments to charges recorded in prior periods, for purposes of calculating certain non-GAAP measures. These costs do not reflect our current operating performance. Consequently, our non-GAAP adjustments exclude these charges to facilitate an evaluation of our current operating performance and comparisons to our past operating performance.
+
+GAINS OR LOSSES FROM DIVESTITURE
+
+We divested our 5G smartphone modem business in 2019, Wind River in 2018, and ISecG in 2017. We exclude gains or losses and related tax impacts resulting from divestitures when calculating certain non-GAAP measures. These adjustments facilitate a better evaluation of our current operating performance and comparisons to our past operating performance.
+
+MD&A
+
+
+
+ONGOING MARK-TO-MARKET ON MARKETABLE EQUITY SECURITIES
+
+When calculating certain non-GAAP measures, we exclude gains and losses resulting from ongoing mark-to-market adjustments of our marketable equity securities after the initial mark-to-market adjustment is recorded upon a security becoming marketable, as we do not believe this volatility correlates to our core operational performance. Consequently, our non-GAAP earnings per share figures exclude these impacts to facilitate an evaluation of our current performance and comparisons to our past operating performance.
+
+TAX REFORM ADJUSTMENT
+
+We recognized a higher income tax expense in Q4 2017 as a result of Tax Reform and made adjustments to the original estimate during 2018. We exclude the provisional tax estimate and adjustments when calculating certain non-GAAP measures. These adjustments facilitate a better evaluation of our current operating performance and comparisons to past operating results.
+
+FREE CASH FLOW
+
+We reference a non-GAAP financial measure of free cash flow, which is used by management when assessing our sources of liquidity, capital resources, and quality of earnings. This non-GAAP financial measure is helpful to investors in understanding our capital requirements and provides an additional means to reflect the cash flow trends of our business.
+
+Following are the reconciliations of our most comparable U. S. GAAP measures to our non-GAAP measures presented:
+
+OTHER KEY INFORMATION
+
+
+
+OTHER KEY INFORMATION
+
+SELECTED FINANCIAL DATA
+
+
+In Q1 2018, we adopted "Retirement Benefits - Improving the Presentation of Net Periodic Pension Cost and Net Periodic Postretirement Benefit Cost" on a retrospective basis. As a result of the adoption of this standard, cost of sales, operating expenses, and interest and other, net for periods 2017 and 2016 in the preceding table have been restated.
+
+
+In Q4 2017, we recognized a
+
+$5.4 billion
+
+higher income tax expense as a result of one-time impacts from Tax Reform. In 2018, our effective tax rate benefited from the reduction of the U.S. statutory federal tax rate.
+
+OTHER KEY INFORMATION
+
+
+
+SALES AND MARKETING
+
+CUSTOMERS
+
+We sell our products primarily to OEMs, ODMs, and cloud service providers. ODMs provide design and manufacturing services to branded and unbranded private-label resellers. In addition, our customers include other manufacturers and service providers, such as industrial and communication equipment manufacturers and cloud service providers, who buy our products through distributor, reseller, retail, and OEM channels throughout the world. For more information about our customers, including customers who accounted for greater than 10% of our net consolidated revenue, see "
+
+Note 4: Operating Segments
+
+" within the Consolidated Financial Statements.
+
+Our worldwide reseller sales channel consists of thousands of indirect customers—systems builders that purchase Intel
+
+®
+
+processors and other products from our distributors. We have incentive programs that allow distributors to sell our microprocessors and other products in small quantities to systems integrators. Our microprocessors and other products are also available in direct retail outlets.
+
+SALES ARRANGEMENTS
+
+Our products are sold through distribution channels throughout the world. Sales of our products are frequently made via purchase order acknowledgments that contain standard terms and conditions covering matters such as pricing, payment terms, and warranties, as well as indemnities for issues specific to our products, such as patent and copyright indemnities. From time to time, we may enter into additional agreements with customers covering, for example, changes from our standard terms and conditions, new product development and marketing, and private-label branding. Our sales are routinely made using electronic and web-based processes that allow the customer to review inventory availability and track the progress of specific goods ordered. Pricing on particular products may vary based on volumes ordered and other factors. We also offer discounts, rebates, and other incentives to customers to increase acceptance of our products and technology.
+
+In accordance with contract terms, revenue for product sales is recognized at the time of product shipment from our facilities or delivery to the customer location, as determined by the agreed-upon shipping terms
+
+. Our standard terms and conditions of sale typically provide that payment is due at a later date, 30 days after shipment or delivery.
+
+We assess credit risk through quantitative and qualitative analysis. From this analysis, we establish shipping and credit limits, and determine whether we will seek to use one or more credit support protection devices, such as obtaining a parent guarantee, standby letter of credit, or credit insurance.
+
+Credit losses may still be incurred due to bankruptcy, fraud, or other failure of the customer to pay.
+
+Our sales to distributors are typically made under agreements allowing for price protection on unsold merchandise and a right of return on stipulated quantities of unsold merchandise. Under the price protection program, we give distributors credits for the difference between the original price paid and the current price that we offer. Our products typically have no contractual limit on the amount of price protection, nor is there a limit on the time horizon under which price protection is granted. The right of return granted generally consists of a stock rotation program in which distributors are able to exchange certain products based on the number of qualified purchases made by the distributor.
+
+DISTRIBUTION
+
+Distributors typically handle a wide variety of products, including those that compete with our products, and fill orders for many customers. Customers may place orders directly with us or through distributors. We have several distribution warehouses that are located in proximity to key customers.
+
+SEASONAL TRENDS
+
+Historically, our net revenue has typically been higher in the second half of the year than in the first half of the year, accelerating in the third quarter and peaking in the fourth quarter.
+
+MARKETING
+
+Our global marketing objectives are to build a strong, well-known, differentiated, and meaningful Intel corporate brand that drives preference with businesses and consumers, and to offer a limited number of meaningful and valuable brands in our portfolio to aid businesses and consumers in making informed choices about technology purchases. The Intel
+
+®
+
+Core™ processor family and the Intel
+
+®
+
+Quark™, Intel Atom
+
+®
+
+, Celeron
+
+®
+
+, Pentium
+
+®
+
+, Intel
+
+®
+
+Xeon
+
+®
+
+, and Itanium
+
+®
+
+trademarks make up our CPU brands.
+
+We promote brand awareness and preference, and generate demand through our own direct marketing, as well as through co-marketing programs. Our direct marketing activities primarily include advertising through digital and social media and television, as well as consumer and trade events, industry and consumer communications, and press relations. We market to consumer and business audiences, and focus on building awareness and generating demand for our products. Our key messaging focuses on increased performance, improved energy efficiency, and other capabilities such as connectivity and communications.
+
+OTHER KEY INFORMATION
+
+
+
+Certain customers participate in cooperative advertising and marketing programs. These cooperative advertising and marketing programs broaden the reach of our brands beyond the scope of our own direct marketing. Certain customers are licensed to place Intel
+
+®
+
+logos on computing devices containing our microprocessors and processor technologies, and to use our brands in their marketing activities. The program partially reimburses customers for marketing activities for products featuring Intel
+
+®
+
+brands, subject to customers meeting defined criteria. These marketing activities primarily include advertising through digital and social media and television, as well as press relations. We have also entered into joint marketing arrangements with certain customers.
+
+COMPETITION
+
+We discuss competitive conditions in our businesses, the market segments in which we compete, our competitors, and the principal methods of competition in the "Segment Trends and Results" section of MD&A, particularly under the heading "Market and Business Overview" for each business, as well as in "Risk Factors," particularly in the risk factors "We face significant competition" and "Our investments in new businesses, products, and technologies are inherently risky and do not always succeed."
+
+Our key competitive advantages include those discussed in "Our Strategy" and "Our Capital" within Fundamentals of our Business, and the "Our Products" section of MD&A, particularly the discussions of our broad product portfolio and in-house manufacturing capabilities. Our competitive challenges include those discussed in Risk Factors, particularly in the risk factors "We face significant competition"; "Our investments in new businesses, products, and technologies are inherently risky and do not always succeed"; and "We are subject to risks associated with the development and implementation of new manufacturing process technology."
+
+INTELLECTUAL PROPERTY RIGHTS AND LICENSING
+
+Intel owns and develops significant IP and related IP rights around the world that relate to our products, services, R&D, and other activities and assets. Our IP portfolio includes patents, copyrights, trade secrets, trademarks, trade dress rights, and mask work rights. We actively seek to protect our global IP rights and to deter unauthorized use of our IP and other assets. Such efforts can be difficult, however, particularly in countries that provide less protection to IP rights and in the absence of harmonized international IP standards. For a discussion of the risks related to IP and our IP rights, please see “We are subject to IP risks and risks associated with litigation and regulatory proceedings” in "Risk Factors" within Other Key Information. While our IP rights are important to our success, our business as a whole is not significantly dependent on any single patent, copyright, or other IP right.
+
+We have obtained patents in the U.S. and other countries. Because of the fast pace of innovation and product development, and the comparative pace of governments’ patenting processes, our products are often obsolete before the patents related to them expire; in some cases, our products may be obsolete before the patents related to them are granted. As we expand our product offerings into new industries, we also seek to extend our patent development efforts to patent such products. In addition to developing patents based on our own R&D efforts, we may purchase or license patents from third parties. Established competitors in existing and new industries, as well as companies that purchase and enforce patents and other IP, may already have patents covering similar products. There is no assurance that we will be able to obtain patents covering our own products, or that we will be able to obtain licenses from other companies on favorable terms or at all.
+
+The software that we distribute, including software embedded in our component-level and platform products, is entitled to copyright and other IP protection. To distinguish our products from our competitors’ products, we have obtained trademarks and trade names for our products, and we maintain cooperative advertising programs with customers to promote our brands and to identify products containing genuine Intel components. We also protect details about our processes, products, and strategies as trade secrets, keeping confidential the information that we believe provides us with a competitive advantage.
+
+"Intel carefully protects its innovations, and we have a long history of vigilantly enforcing our IP rights against infringement. Strong IP protections make it possible for Intel to continue to invest the enormous resources required to innovate and advance our strategic goals to make the world’s best semiconductors, lead technology inflections, and be the leading end-to-end platform provider for the new data world."
+
+—Steve Rodgers,
+
+Executive Vice President and General Counsel
+
+OTHER KEY INFORMATION
+
+
+
+CRITICAL ACCOUNTING ESTIMATES
+
+The methods, assumptions, and estimates that we use in applying our accounting policies may require us to apply judgments regarding matters that are inherently uncertain. We consider an accounting policy to be a critical estimate if: (1) we must make assumptions that were uncertain when the judgment was made, and (2) changes in the estimate assumptions, or selection of a different estimate methodology, could have a significant impact on our financial position and the results that we report in our Consolidated Financial Statements. While we believe that our estimates, assumptions, and judgments are reasonable, they are based on information available when the estimate was made.
+
+Refer to "
+
+Note 2: Accounting Policies
+
+" within the Consolidated Financial Statements for further information on our critical accounting estimates and policies, which are as follows:
+
+•
+
+Inventories
+
+—the transition of manufacturing costs to inventory, excluding factory excess capacity costs. Inventory reflected at the lower of cost or net realizable value considering future demand and market conditions;
+
+•
+
+Long-lived assets
+
+—the valuation methods and assumptions used in assessing the impairment of property, plant and equipment, identified intangibles, and goodwill, including the determination of asset groupings and the identification and allocation of goodwill to reporting units;
+
+•
+
+Non-marketable equity investments
+
+—the valuation estimates and assessment of impairment and observable price adjustments; and
+
+•
+
+Loss contingencies
+
+—the estimation of when a loss is probable and reasonably estimable.

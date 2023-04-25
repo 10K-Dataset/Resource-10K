@@ -1,0 +1,383 @@
+Item 1. Business
+
+We urge you to consider these factors carefully in evaluating the forward-looking statements contained in
+this Annual Report on Form 10-K. All subsequent written or oral forward-looking statements attributable to our company or persons acting on our behalf are expressly qualified in their entirety by these cautionary statements. The forward-looking
+statements included in this Annual Report on Form 10-K are made only as of the date of this Annual Report on Form 10-K. We do not intend, and undertake no obligation, to update these forward-looking statements.
+
+Overview
+
+We develop
+software, hardware and intellectual property which are used by semiconductor and electronic system customers to develop and design integrated circuits and electronic devices. We license our software, and two categories of intellectual property, or
+IP, commonly referred to as verification IP, or VIP, and Design IP. In addition, we sell and lease hardware technology. We provide maintenance for our product offerings and provide engineering services related to methodology, education, and hosted
+design solutions which help customers manage and accelerate their electronics product development processes.
+
+We were organized
+as a Delaware corporation in June 1988. Our headquarters is located at 2655 Seely Avenue, San Jose, California 95134. Our telephone number is (408) 943-1234. We use our website atwww.cadence.comas a channel for distribution of
+important information about our company, including news releases and financial information. Our website permits investors to subscribe to e-mail notification alerts when we post new material information on our website. We also make available on our
+investor relations webpage, free of charge, copies of our SEC filings and submissions as soon as reasonably practicable after electronically filing or furnishing such documents with the SEC. Stockholders may also request copies of these documents by
+writing to our Corporate Secretary at the address above. Information on our website is not incorporated by reference in this Annual Report on Form 10-K unless expressly noted.
+
+Factors Driving the Electronic Design Automation Industry
+
+We deliver
+products and services that allow our customers to develop highly complex electronics systems and integrated circuit, or IC, products. The electronic design automation, or EDA, industry depends on continued investment by semiconductor and electronics
+systems companies in new designs and new products. According to a leading industry source, the semiconductor industry grew in 2010, but did not materially grow overall in 2011. Research firms are anticipating that 2012 semiconductor revenues will
+grow on average by 5%, which we believe may drive moderate growth for the EDA industry.
+
+
+
+
+
+
+
+In order to be competitive and profitable in the price-sensitive markets they serve, our
+customers demand high levels of productivity from their design teams, better predictability in their development schedules and high quality products. Semiconductor and electronics systems companies are responding to demand for increased
+functionality and miniaturization by combining subsystems — such as radio frequency, or RF, wireless communication, video signal processing and microprocessors — onto a single silicon chip, creating a system-on-chip, or SoC, or combining
+multiple chips into a single chip package in a format referred to as system-in-package, or SiP. The trend toward subsystem integration have required these chip makers to find solutions to challenges previously addressed by system companies, such as
+verifying system-level functionality and hardware-software interoperability.
+
+Our offerings address many of the challenges
+associated with developing unique silicon circuitry, integrating that circuitry with Design IP developed by us or third parties to create SoCs, and combining ICs and SoCs with software to create electronic systems. Our strategy is to provide our
+customers with the ability to address the broad range of issues that arise at the silicon, SoC, and system levels.
+
+The most
+significant issues that our customers face in creating their products include optimizing energy consumption, manufacturing microscopic circuitry, verifying device functionality, and achieving technical performance targets, all while meeting
+aggressive cost requirements. Our semiconductor and systems customers deliver a wide range of products in segments such as smart phones, tablets, televisions, communications and internet infrastructure, and computing platforms. Providers of EDA
+solutions must deliver products that address the technical challenges while improving the productivity, predictability, reliability and profitability of the design processes and products of their customers.
+
+Products and Product Strategy
+
+Our products are engineered to improve our customers’ design productivity and design quality by providing a comprehensive set of EDA solutions and a differentiated portfolio of Design IP and VIP.
+Product revenues include all fees earned from granting licenses to use our software and IP, and from sales and leases of our hardware products. See “Product Licensing Arrangements” for a discussion of our license types.
+
+We combine our products and technologies into categories related to major design activities:
+
+
+
+•Digital IC Design;
+
+•Functional Verification and Design IP;
+
+•Custom IC Design;
+
+•Design for Manufacturing, or DFM; and
+
+•System Interconnect Design.
+
+The major Cadence®design platforms are branded as Incisive®functional verification, Encounter®digital IC design, Virtuoso®custom design and Allegro®system interconnect design. Our functional verification offerings include VIP
+products and are supplemented by our Design IP offerings. In addition, we augment these platform product offerings with a set of DFM products that service both the digital and custom IC design flows.
+
+The products and technologies included in these categories are combined with services, ready-to-use packages of technologies assembled
+from our broad portfolio and other associated components that provide comprehensive solutions for low power, mixed signal and advanced-node designs, as well as popular designs based on intellectual property owned and licensed by ARM Holdings, Plc.
+These solutions and their constituent elements are marketed to users who specialize in areas such as system design and verification, functional verification, logic design, digital implementation, custom IC design and printed circuit board, or PCB,
+and IC package and SiP design.
+
+Digital IC Design
+
+Digital IC Design offerings are used by our customers to create logical representations of a digital circuit or an IC that can be verified
+for correctness prior to implementation (see the discussion under the Functional
+
+
+
+
+
+
+
+Verification section below). Once the logic is verified, the design representation is implemented, or converted to a format ready for silicon manufacturing, using additional software tools within
+this category. The manufacturing representation is also analyzed and verified (see the discussion under the Design for Manufacturing section below). Our Digital IC offerings include two major categories: Logic Design and Physical Implementation.
+
+Our Logic Design offering is comprised of formal verification, equivalency checking, synthesis and test capabilities within
+the Encounter digital IC design platform and are typically used by customers in conjunction with certain Functional Verification capabilities. This offering provides chip planning, design, verification and test technologies and services to
+customers. Logic Design capabilities are aggregated into solutions that address our customers’ needs in areas such as power efficiency and advanced process nodes.
+
+Our Physical Implementation offering is comprised of a range of the Encounter digital IC design platform capabilities. The Physical Implementation offering includes timing analysis, signal integrity,
+power analysis, extraction, physical verification, and place and route capabilities within the Encounter digital IC design platform. This offering enables customers to create a physical representation of logic models, analyze electrical and physical
+characteristics of a design and prepare a design for manufacturing.
+
+Functional Verification and Design IP
+
+Functional Verification products are used by our customers to efficiently and effectively verify that the circuitry they have designed
+will perform as intended. This is accomplished in advance of actually implementing or manufacturing the circuitry, which reduces the risk of discovering an error in the completed product. Our Functional Verification offerings are comprised of three
+major categories: Logic Verification, System Design and Verification, and Design IP.
+
+Our Logic Verification offering consists
+of planning, property checking, testbench simulation, VIP, memory models and environment capabilities within the Incisive functional verification platform. This offering enables our customers to employ methodology-driven enterprise-level
+verification process automation, including metric-driven verification planning, process tracking and management that allow the coordination of verification activities across multiple teams and various specialists for rapid verification planning and
+closure.
+
+Our System Design and Verification offerings consist of hardware-assisted verification with
+emulation and acceleration, including the verification computing platform Palladium®XP, Palladium and Xtreme®platforms, system-level design capabilities, VIP, estimation of SoC cost and performance, consulting services, and
+methodologies that provide customers with automation for hardware-software verification and effective system design. In addition, this offering provides system power exploration, analysis and optimization. The QuickCycles®offering allows customers access to our simulation acceleration and emulation products, either on their secure
+intranet site or remotely over a high-speed, secure network connection.
+
+Our Design IP offerings consist of verified
+standards-based functional blocks which customers integrate into their ICs to accelerate the development process. Cadence offers many types of Design IP — both Controllers and Physical Connections (PHY) — for protocols such as Ethernet,
+PCI Express, DDR and NAND Flash Memory Controllers.
+
+The products obtained through the 2010 acquisition of Denali Software,
+Inc., or Denali, including VIP, memory models, and Design IP, are included in this category of our offerings.
+
+Custom IC
+Design
+
+Custom IC Design and Verification offerings are used by our customers to create schematic representations of
+circuits down to the transistor level for analog, mixed-signal, custom digital, memory and RF designs. These logical representations are verified using simulation tools optimized for each type of design. The offering includes the environment, IC
+layout and simulation capabilities within the Virtuoso custom design platform. Other tools in the Custom IC portfolio are used to prepare the designs for manufacturing.
+
+
+
+
+
+
+
+Design for Manufacturing
+
+Our primary focus in DFM is to address manufacturing effects as early in the product development process as possible. As a result, we
+are enhancing the DFM awareness of our core Encounter Digital IC and Virtuoso Custom IC product offerings. In addition to upstream integration of DFM technologies, we also offer stand-alone DFM products.
+
+With the advent of silicon manufacturing technologies at geometries of 65 nanometer and below, our customers are concerned with the
+manufacturability and yield of their designs. The physical layout of each IC requires detailed analysis and optimization to ensure that the design can be manufactured in volume while performing as expected. Some of our DFM capabilities include
+electrical and physical lithography checking, chemical-mechanical polishing analysis and optimization, pattern matching, double patterning, and optical proximity checking.
+
+System Interconnect Design
+
+Our System Interconnect
+Design offerings are used by our customers to develop PCBs and IC packages. The offerings include the following capabilities within the Allegro system interconnect design platform: PCB authoring and implementation, IC package / SiP signal and power
+integrity analysis, PCB library design management and collaboration. Certain offerings also include the simulation capability within the Virtuoso custom design platform. These offerings enable engineers who are responsible for the capture, layout
+and analysis of advanced PCB and IC packages to design high-performance electronic products across the domains of IC, IC package and PCB, to increase functional density and to manage design complexity while reducing cost and time to market. For the
+mainstream PCB customers, where individual or small team productivity is a focus, we provide the OrCAD®family
+of offerings that is marketed worldwide through a network of resellers.
+
+Third-Party Programs and Initiatives
+
+In addition to our products, many customers use internally developed design tools or design tools
+provided by other EDA companies, as well as Design IP available from multiple suppliers. We support the use of third-party design products and Design IP through vehicles such as our Connections®program and through our participation in industry groups such as the Silicon Integration Initiative and Acellera System Initiative. We contribute to the development
+and deployment of EDA industry standards.
+
+Maintenance
+
+Customer service and support is critical to the adoption and successful use of our products. We provide our customers with technical support to facilitate their use of our software, IP and hardware
+solutions.
+
+We offer maintenance to our customers as an integral, non-cancelable component of our subscription and most term
+license agreements, as a component of certain other term license agreements subject to annual renewal, or as a separate agreement subject to annual renewal for our perpetual license customers.
+
+Services
+
+We offer a
+number of fee-based services, including engineering, methodology, education and Hosted Design Solutions. These services may be sold separately or sold and performed in conjunction with the sale, lease or license of our products. As part of our
+services offerings we design advanced ICs and address industry design issues that may not be solved adequately by today’s EDA technologies. This enables us to target and accelerate the development of new software technology and products to
+satisfy current and future design requirements.
+
+We offer engineering services to collaborate with our customers in the design
+of complex ICs and the implementation of key design capabilities, including low power, IC packaging and board design, mixed-signal design, functional verification, digital implementation, analog/mixed-signal and system-level. The customers for these
+services primarily consist of semiconductor and systems companies developing products for the consumer, communications, military and aerospace and computing markets. These ICs range from digital SoCs, analog and RF designs to complex mixed-signal
+ICs.
+
+
+
+
+
+
+
+In delivering methodology services, we leverage our experience and knowledge of design
+techniques, our products, leading practices and different design environments to improve the productivity of our customers’ engineering teams. Depending on the customers’ projects and needs, we work with customers using outsourcing,
+consultative and collaborative offerings.
+
+Our Hosted Design Solutions enable our engineering teams at one or more of our
+locations to assist our customers’ teams located elsewhere in the world during the course of their design and engineering projects through a secure network infrastructure. They also enable us to deliver software-as-a-service to those customers
+who do not have their own infrastructure.
+
+Our education services offerings can be customized and include training programs
+that are conducted via the internet or in a classroom setting. The content of these offerings ranges from the latest IC design techniques to methodologies for using the most recent features of our EDA products. The primary focus of education
+services is to accelerate our customers’ path to productivity in the use of our products.
+
+Product, Maintenance and Services Revenue
+
+Revenue, and revenue as a percentage of total revenue, from our product, services and maintenance offerings for the last
+three fiscal years were as follows:
+
+
+
+201120102009(In millions, except percentages)Product$640.856%$471.650%$400.847%Services116.710%100.911%106.513%Maintenance392.334%363.539%345.340%Total revenue$1,149.8$936.0$852.6
+
+For an additional description of our product, services and maintenance revenue, see the discussion under
+the heading “Results of Operations” under Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+
+Marketing and Sales
+
+We generally market our products and provide
+maintenance and services to existing and prospective customers through a direct sales force consisting of sales people and applications engineers. Applications engineers provide technical pre-sales and post-sales support for software products. Due
+to the complexity of many of our EDA products and the electronic design process, the sales cycle is generally long, requiring three to six months or more. During the sales cycle, our direct sales force generally provides technical presentations,
+product demonstrations and support for on-site customer evaluation of our solutions. We also promote our products and services through advertising, direct mail, trade shows, public relations and the internet. We selectively utilize value-added
+resellers to broaden our reach and reduce cost of sales. All OrCAD and selected Incisive products are primarily marketed through these channels. With respect to international sales, we generally market and support our products and services through
+our subsidiaries. We also use a third-party distributor to sell our products and services to certain customers in Japan.
+
+Product
+Arrangements
+
+We sell software using three license types: subscription, term and perpetual. Customers who prefer to license
+technology for a specified, limited period of time will choose either a subscription or term license, and customers who prefer to have the right to use the technology continuously without time restriction will choose a perpetual license. Customers
+who desire to use new software technology during the life of the contract will select a subscription license, which allows them limited access to unspecified new technology on a when-and-if-available basis, as opposed to a term or perpetual license,
+which does not include rights to use new technology. Payment terms for subscription and term licenses generally provide for payments to be made in installments over the license period and payment terms for perpetual licenses generally are net 30
+days.
+
+
+
+
+
+
+
+Our hardware products are either sold to customers or leased to them.
+
+We generally license our Design IP under nonexclusive license agreements that provide usage rights for specific applications. Fees under
+these licenses are typically charged on a per-design basis.
+
+For a further description of our license agreements, our hardware
+sale or lease agreements, revenue recognition policies and results of operations, please refer to the discussion under the heading “Critical Accounting Estimates” under Item 7, “Management’s Discussion and Analysis of
+Financial Condition and Results of Operations.”
+
+Backlog
+
+Our backlog was approximately $1.7 billion as of both December 31, 2011 and January 1, 2011. Although our total backlog as of December 31, 2011 has not changed significantly from the
+balance as of January 1, 2011, we believe our backlog has improved because our backlog as of December 31, 2011 contained contracts with a shorter weighted-average duration. Our backlog as of December 31, 2011 consisted of revenue to
+be recognized in fiscal periods after December 31, 2011 for fully executed arrangements with effective dates commencing no later than December 31, 2011, and from a variety of license types, which generally include, but are not limited to:
+
+
+
+•Licenses for software products and Design IP;
+
+•Maintenance contracts on hardware and software products;
+
+•Bookings for the sale of hardware products that have expected delivery dates after December 31, 2011 and prior to March 31, 2012;
+
+•Leases of hardware products;
+
+•Licenses with payments that are outside our customary terms; and
+
+•The undelivered portion of engineering services contracts.
+
+The substantial majority of our backlog is generated by our product and maintenance businesses because customer licenses generally include both product and maintenance components. Historically, we have
+not experienced significant cancellations of our contracts with customers. However, we occasionally reschedule the required completion dates of engineering services contracts, deferring revenue recognition under those contracts beyond the original
+anticipated completion date. Changes in customer license types or payment terms also can affect the timing of revenue recognition. During fiscal 2011, approximately 75% of our revenue came from backlog as of January 1, 2011. We expect
+approximately 80% of our fiscal 2012 revenue to come from backlog as of December 31, 2011. The actual percentage of revenue coming from backlog in fiscal 2012 may change if our actual business levels in fiscal 2012 are different than our
+current expectations.
+
+Revenue Seasonality
+
+As a result of our transition to a more ratable license mix, our overall exposure to short term revenue seasonality has generally been reduced.
+
+Research and Development
+
+Our research and development expense was $400.7
+million during fiscal 2011, $376.4 million during fiscal 2010 and $354.7 million during fiscal 2009.
+
+The primary areas of our
+research and development include SoC design, the design of silicon devices, high-performance IC packaging, SiP and PCB design, system-level modeling and verification, high-performance logic verification technology, VIP, Design IP and
+hardware/software co-verification. The electronics industry combines rapid innovation with rapidly increasing design and manufacturing complexity, so we make significant investments in enhancing our current products, as well as creating new products
+and technologies and integrating those products and technologies together into differing solutions.
+
+Our future performance
+depends largely on our ability to maintain and enhance our current product development and commercialization of newly developed products or capabilities, and to offer solutions that meet increasingly demanding productivity, quality, predictability
+and cost requirements. Our offerings must keep pace with our customers’ technical developments and industry standards.
+
+
+
+
+
+
+
+Manufacturing and Software Distribution
+
+We perform final assembly and testing of our verification, acceleration and emulation hardware products at our headquarters in San Jose,
+California. Subcontractors manufacture all major subassemblies, including all individual PCBs and custom ICs, and supply them for qualification and testing before their incorporation into the assembled product.
+
+Software and documentation are primarily distributed to customers by secure electronic delivery or on DVD.
+
+Proprietary Technology
+
+Our success depends, in part, upon our proprietary technology. We generally rely on patents, copyrights, trademarks and trade secret laws,
+licenses and restrictive agreements to establish and protect our proprietary rights in technology and products. Many of our products include software or other intellectual property licensed from third parties. We may have to seek new licenses or
+renew existing licenses for third-party software and other intellectual property in the future. As part of performing engineering services for customers, our engineering services business uses certain software and other intellectual property
+licensed from third parties, including that of our competitors.
+
+Competition
+
+We compete in EDA software products and maintenance most frequently with Synopsys, Inc., Mentor Graphics Corporation and Magma Design
+Automation, Inc., but also with numerous other EDA providers (such as Ansys, Inc., Atrenta, Inc., ATopTech, Inc., Berkeley Design Automation, Inc., EVE SA, SpringSoft, Inc. and Zuken Ltd., and many others offering “point solutions”), with
+manufacturers of electronic devices that have developed, acquired or have the capability to develop their own EDA products, and with numerous electronics design and consulting companies. Synopsys recently closed its acquisition of Magma, which will
+impact the competitive landscape of the industry. In the area of Design IP, we compete with Synopsys and numerous smaller IP companies. We generally compete on the basis of quality, product features, level of integration or compatibility with other
+tools, price, payment terms and maintenance offerings.
+
+It is our strategy to use engineering services as a differentiator to
+further promote our products and maintenance businesses. Certain competitive factors in the engineering services business differ from those of the products and maintenance businesses. While we do compete with other EDA companies in the engineering
+services business, our principal competitors include independent engineering service businesses. These companies vary greatly in focus, geographic location, capability, cost structure and pricing. Business models of these companies range from
+services-only engineering work to delivery of completed ICs. Many of these companies are also customers, and therefore use our product offerings in the delivery of their services or products. We compete with these companies by focusing on the design
+of complex analog, digital and mixed-signal ICs and SoCs.
+
+International Operations
+
+We have 48 sales offices, design centers and research and development facilities, approximately 60% of which are located outside of the
+United States. We consider customer sales and support requirements, the availability of a skilled workforce, and costs and efficiencies, among other relative benefits, when determining what operations to locate internationally. For an additional
+description of our international operations, see the discussion under the heading “The effect of foreign exchange rate fluctuations and other risks to our international operations may seriously harm our financial condition” under
+Item 1A, “Risk Factors” and Note 21 in our Notes to Consolidated Financial Statements.
+
+Employees
+
+As of December 31, 2011, we employed approximately 4,700 individuals.
+
+
+
+
+
+
+
+Executive Officers of the Registrant
+
+The following table provides information regarding our executive officers as of February 23, 2012:
+
+
+
+NameAgePositions and OfficesLip-Bu Tan52President, Chief Executive Officer and DirectorJames J. Cowie47Senior Vice President, General Counsel and SecretaryChi-Ping Hsu56Senior Vice President, Research and DevelopmentCharlie Huang48Senior Vice President, Worldwide Field OperationsNimish H. Modi49Senior Vice President, Research and DevelopmentGeoffrey G. Ribar53Senior Vice President and Chief Financial Officer
+
+Our executive officers are appointed by the Board of Directors and serve at the discretion of the Board of
+Directors.
+
+LIP-BU TAN has served as President and Chief Executive Officer of Cadence since January 2009. Mr. Tan has been
+a member of the Cadence Board of Directors since February 2004. In 1987, Mr. Tan founded Walden International, an international venture capital firm, and since that time has served as its Chairman. Mr. Tan also serves as a director of
+Flextronics International Ltd., Inphi Corporation, Semiconductor Manufacturing International Corporation and SINA Corporation. Mr. Tan received an M.S. in nuclear engineering from the Massachusetts Institute of Technology, an MBA from the University
+of San Francisco, and a B.S. from Nanyang University in Singapore.
+
+JAMES J. COWIE has served as Senior Vice President and
+General Counsel of Cadence since April 2008 and Secretary of Cadence since May 2008. From August 2000 to March 2008, Mr. Cowie held several positions at Cadence, most recently as Corporate Vice President — Business Development, Associate
+General Counsel and Assistant Secretary. Mr. Cowie holds a bachelor’s degree in economics from Duke University and a J.D. from Stanford Law School.
+
+CHI-PING HSU has served as Senior Vice President, Research and Development of Cadence since November 2008. From April 2003 to November 2008, Mr. Hsu held several positions at Cadence, most recently
+as Corporate Vice President, IC Digital and Power Forward. Before joining Cadence, Mr. Hsu served as President and Chief Operating Officer of Get2Chip Inc., a supplier of high-performance system-on-chip synthesis that was acquired by Cadence in
+April 2003. Mr. Hsu also serves as a director of MoSys, Inc. Mr. Hsu holds a Ph.D. degree in EECS from the University of California, Berkeley, and a BSEE degree from National Taiwan University.
+
+CHARLIE HUANG has served as Senior Vice President, Worldwide Field Operations of Cadence since April 2011. From January 2009 to April
+2011, Mr. Huang served as Senior Vice President and Chief Strategy Officer of Cadence. From April 2010 to April 2011, Mr. Huang also served as Chief of Staff. From April 2007 to January 2009, Mr. Huang served as Senior Vice President
+— Business Development of Cadence. Mr. Huang was General Partner at Telos Venture Partners, a Cadence-affiliated venture capital firm, from 2004 to 2005. From 2001 to March 2007, Mr. Huang held several positions at Cadence in
+engineering management and business development. Before joining Cadence, Mr. Huang co-founded and was Chief Executive Officer of CadMOS Design Technology, Inc., an EDA company that was acquired by Cadence in 2001. Mr. Huang holds a
+B.S.E.E. from Shanghai Jiao Tong University and a Ph.D. from Carnegie Mellon University.
+
+NIMISH H. MODI has served as Senior
+Vice President, Research and Development of Cadence since November 2008. From August 2006 to November 2008, Mr. Modi served as Corporate Vice President, Front-End Design. Before joining Cadence, from May 1988 to August 2006, Mr. Modi held
+several positions at Intel Corporation, a semiconductor company, most recently as Vice President in the Enterprise Platforms Group. Mr. Modi holds a Bachelor of Engineering degree in electrical engineering from the University of Bombay and a Masters
+degree in electrical engineering from Virginia Tech.
+
+GEOFFREY G. RIBAR has served as Senior Vice President and Chief
+Financial Officer of Cadence since November 2010. Before joining Cadence in October 2010, Mr. Ribar served as Chief Financial Officer of Telegent Systems, Inc., a semiconductor company, from May 2008 to October 2010. From January 2006 to
+April
+
+
+
+
+
+
+
+2008, Mr. Ribar served as Chief Financial Officer at SiRF Technology, Inc., a semiconductor company that was acquired by CSR plc in 2009. Mr. Ribar served as Chief Financial Officer
+at other semiconductor companies including Asyst Technology, Inc., Matrix Semiconductor, Inc., and nVidia Corporation. Mr. Ribar also held various positions including Corporate Controller at Advanced Micro Devices, Inc., a microchip
+manufacturing company. Mr. Ribar received his Bachelor of Science degree in Chemistry, as well as an MBA, from the University of Michigan.
+

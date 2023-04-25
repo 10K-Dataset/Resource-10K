@@ -1,0 +1,516 @@
+ITEM 1.BUSINESS
+
+The words
+“Equinix”, “we”, “our”, “ours”, “us” and the “Company” refer to Equinix, Inc. All statements in this discussion that are not historical are forward-looking statements within the meaning of
+Section 21E of the Securities Exchange Act of 1934, as amended, including statements regarding Equinix’s “expectations”, “beliefs”, “hopes”, “intentions”, “strategies” or the like. Such
+statements are based on management’s current expectations and are subject to a number of factors and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Equinix cautions
+investors that there can be no assurance that actual results or business conditions will not differ materially from those projected or suggested in such forward-looking statements as a result of various factors, including, but not limited to, the
+risk factors discussed in this Annual Report on Form 10-K. Equinix expressly disclaims any obligation or undertaking to release publicly any updates or revisions to any forward-looking statements contained herein to reflect any change in
+Equinix’s expectations with regard thereto or any change in events, conditions, or circumstances on which any such statements are based.
+
+Overview
+
+Equinix provides global network neutral data center services. Global enterprises,
+content providers, financial services companies and network service providers rely upon Equinix’s insight and expertise to protect and connect their most valued information assets. We operate 49 International Business Exchange®(IBX) centers, or IBX data centers, across 18 markets in North America, Europe and Asia-Pacific where customers
+directly interconnect with a networked ecosystem of partners and customers. More than 360 network service providers offer access to more than 90% of the world’s Internet routes inside Equinix’s IBX data centers. This access to Internet
+routes provides Equinix customers improved reliability and streamlined connectivity for optimized business transactions, while significantly reducing costs by reaching a critical mass of networks within a centralized physical location.
+
+As the world becomes increasingly more information-driven, businesses choose Equinix for the delivery of high levels of operational
+availability, the optimized delivery of their most critical data assets and the leading insight of Equinix’s expert staff. Based on our network-neutral model, our ability to enable business ecocystems across various industries and the quality
+of our IBX data centers, Equinix has established a critical mass of customers which continues to drive new and existing customer growth and bookings. A supply and demand imbalance in the data center market has contributed to Equinix’s revenue
+growth. In addition, as a result of a largely fixed cost model, any growth in revenue would likely drive incremental margins and increased operating cash flow; however, the costs of a new IBX data center at initial opening have a negative effect on
+earnings until the data center generates sufficient revenues to cover these costs.
+
+Our network-neutral business model
+contributes to our success in the market. We offer customers direct interconnection to an aggregation of bandwidth providers rather than focusing on selling a particular network, including the world’s top carriers, Internet Service Providers
+(ISPs), broadband access networks (DSL / cable) and international carriers. AOL, at&t, British Telecom, Cable & Wireless, Comcast, Level 3, NTT, Qwest, SingTel, Sprint and Verizon Business are all currently located within our IBX data
+centers. Access to such a wide variety of networks has attracted a variety of customers, in various business sectors, including:
+
+
+
+•Content Providers (eBay, Hulu, MSN, MySpace, Sony, Yahoo!, Zynga Game Network)
+
+
+
+•Enterprise (Amazon.com, Capgemini, Deloitte & Touche, NASA, Salesforce.com, The McGraw-Hill Companies, United Stationers)
+
+
+
+•Financial Companies (ACTIV Financial, BOX, Chi-X, Deutsche Börse Group, DirectEdge, Quantlab, Thomson Reuters)
+
+
+
+
+
+
+
+Equinix services are primarily enabled through a global service delivery platform comprised
+of all 49 IBX data centers for colocation, interconnection and managed IT infrastructure services.
+
+
+
+•Colocation services include cabinets, power, operations space and storage space for customers’ colocation needs.
+
+
+
+•Interconnection services include cross connects, as well as switch ports on the Equinix Exchange service. These services provide scalable and reliable
+connectivity that allows customers to exchange traffic directly with the service provider of their choice or directly with each other, creating an optimized performing business ecosystem for the exchange of data between strategic partners.
+
+
+
+•Managed IT infrastructure services allow customers to leverage Equinix’s significant telecommunications expertise, maximize the benefits of our
+IBX data centers and optimize their infrastructure and resources.
+
+The market for Equinix’s services
+has historically been served by large telecommunications carriers which have bundled their telecommunications and managed services with their colocation offerings. In addition, some Equinix customers, such as AOL and MSN, build and operate their own
+data centers for their large infrastructure deployments, called server farms. However, these customers rely upon Equinix IBX data centers for many of their critical interconnection relationships.
+
+The need for large, wholesale outsourced data centers is also, more recently, being addressed by real estate investment trusts (REITs) that
+build large data centers to meet customers’ needs for standalone data centers, a different customer segment than Equinix serves. However, with the increasing cost and complexity of the power and cooling requirements of today’s data center
+equipment, there continues to be a supply and demand imbalance in the market. Demand continues to outpace supply as a result of the current credit contraction, which is creating a financial strain on many data center operators, limiting their
+ability to create new supply. We have continued to fund our own planned expansion program, while many other data center operators have slowed or halted their data center builds altogether.
+
+The supply and demand imbalance in the industry has, to date, created a favorable pricing environment for Equinix, as well as an opportunity
+to increase market share. Equinix has gained many customers that have outgrown their existing data centers or that have realized the benefits of a network-neutral model and the ability to create their own optimized business ecosystems for the
+exchange of data. Strategically, we will continue to look at attractive opportunities to grow market share and selectively expand our footprint and service offerings. We continue to leverage our global reach and depth to differentiate based upon our
+ability to support truly global customer requirements in all our markets.
+
+Several factors contribute to this growth in
+demand, including:
+
+
+
+•The continuing growth of consumer Internet traffic from new bandwidth-intensive services, such as video, VoIP, social media, mobile data, gaming,
+data-rich media, Ethernet and wireless services.
+
+
+
+•Significant increases in power and cooling requirements for today’s data center equipment. Servers have increased the overall level of power
+consumed and heat generation by more than two times since 2000 and many legacy-built data centers are unable to accommodate new power and cooling demands.
+
+
+
+•The growth of enterprise applications, such as Software-as-a-Service (SaaS), and disaster recovery, and the adoption of cloud computing technology
+services.
+
+
+
+•The financial services market is experiencing tremendous growth with the shift to electronic trading and increased volume of peak messages
+(transactions per second), requiring optimized data exchange through business ecosystems.
+
+
+
+•The growth of “proximity communities” that rely on immediate physical colocation with their strategic partners and customers, such as
+financial exchange ecosystems for electronic trading and settlement.
+
+
+
+
+
+
+
+•The high capital costs associated with building and maintaining “in-sourced” data centers creates an opportunity for capital savings by
+leveraging an outsourced model.
+
+Industry Background
+
+The Internet is a collection of numerous independent networks interconnected to form a network of networks. Users on different networks are
+able to communicate with each other through interconnection services between these networks. For example, when a person sends an email to someone that uses a different provider for his or her connectivity (e.g., Comcast versus Verizon), the email
+must pass from one network to the other in order to get to its final destination. Equinix provides a physical point at which that interconnection can occur.
+
+In order to accommodate the rapid growth of Internet traffic, an organized approach for network interconnection was needed. The exchange of traffic between these networks became known as peering. Peering
+is when networks trade traffic at relatively equal amounts and set up agreements to trade traffic often at no charge to the other party. At first, government and non-profit organizations established places where these networks could exchange
+traffic, or peer, with each other—these points were known as network access points, or NAPs. Over time, many NAPs became a natural extension of carrier services and were run by such companies as MFS (now a part of Verizon Business), Sprint,
+Ameritech and Pacific Bell (both now known as at&t).
+
+Ultimately, these NAPs were unable to scale with the growth of the
+Internet, and the lack of “neutrality” by the carrier owners of these NAPs created a conflict of interest with the participants. This created a market need for network-neutral interconnection points that could accommodate the rapidly
+growing need to increase performance for enterprise and consumer users of the Internet, especially with the rise of important content providers such as AOL, Google, Microsoft, Yahoo! and others. In addition, the providers, as well as a growing
+number of enterprises, required a more secure and reliable solution for direct connection to a variety of telecommunications networks as the importance of their Internet operations continued to grow.
+
+To accommodate Internet traffic growth, the largest of these networks left the NAPs and began trading traffic by placing private circuits
+between each other. Peering, which once occurred at the NAP locations, was moved to these private circuits. Over the years, these circuits became expensive to expand and could not be built quickly enough to accommodate traffic growth. This led to a
+need by the large carriers to find a more efficient way to exchange network traffic or peer. As a result, many customers satisfy their requirements for peering through data center service providers like Equinix because it permits them to peer with
+the networks they require within one location, using simple direct connections. Their ability to peer across the room, instead of across a metro area, has increased the scalability of their operations while decreasing network costs.
+
+The interconnection model has further evolved over the years to include new services offerings. Starting with the peering and network
+communities, interconnection has since been used for new network services including carrier Ethernet, MPLS VPN and mobility services, in addition to traditional international private line and voice services. The industry continues to evolve with a
+set of new service offerings where interconnection is often used to solve the network-to-network interconnection challenges.
+
+In addition, the enterprise customer segment is also evolving. In the past, most enterprises opted to keep their data center requirements in house. However, several recent trends have led more and more enterprise CIOs to consider and/or
+choose to outsource some or all of their data center requirements. The combination of globalization, the proliferation of bandwidth intensive Internet-facing applications and rich media content, the rise of virtualization and cloud computing,
+business continuity and disaster recovery needs, and most importantly the current economic crisis, have meant that enterprise CIOs must increasingly try to do more with less. Meanwhile, the biggest challenge for data center and operations managers
+is being out of DC space and power. With the typical in-house datacenter ranging in size from 2,000 to 40,000 square feet, and with very limited optical fiber availability, many CIOs struggle to find the necessary capital, in the current economic
+environment, to build out and connect their existing facilities. This is why many industry analysts forecast the colocation market to grow over the next three years at more than a 20% compounded annual growth rate. Thus the scope of the industry for
+colocation has expanded in terms of market opportunity.
+
+
+
+
+
+
+
+Equinix Value Proposition
+
+More than 2,600 companies, including a diversified mix of content providers, financial companies, global enterprises and network service
+providers, currently operate within Equinix IBX data centers. These companies derive specific value from the following elements of the Equinix service offering:
+
+
+
+•Comprehensive global service offering:With 49 IBX data centers in 18 markets in the U.S., Europe and Asia-Pacific, Equinix offers a
+consistent global service.
+
+
+
+•Premium data centers:Equinix IBX data centers feature advanced design, security, power and cooling elements to provide customers with
+industry-leading reliability. While others in the market have business models that include additional offerings, Equinix is focused on data center services and interconnection as our core competency.
+
+
+
+•Dynamic business ecosystems:Equinix’s network-neutral model has enabled us to attract a critical mass of networks that, in turn,
+attracts other businesses seeking to interconnect within a single location. This ecosystem model, versus connecting to multiple partners in disparate locations, reduces costs and optimizes the performance of data exchange. As Equinix grows and
+attracts an even more diversified base of customers, the value of Equinix’s IBX data center offering increases.
+
+
+
+•Improved economics:Customers seeking to outsource their data center operations rather than build their own capital-intensive data
+centers enjoy significant capital cost savings in this credit-challenged economic environment. Customers also benefit from improved economics on account of the broad access to networks that Equinix provides. Rather than purchasing costly local loops
+from multiple transit providers, customers can connect directly to more than 360 networks inside Equinix’s IBX data centers.
+
+
+
+•Leading insight:With more than 10 years of industry experience, Equinix has a specialized staff of industry experts who helped build and
+shape the interconnection infrastructure of the Internet. This specialization and industry knowledge base offer customers a unique consultative value and a competitive advantage.
+
+Our Strategy
+
+Our objective
+is to expand our global leadership position as the premier network neutral data center operator for content providers, financial companies and global enterprises seeking to protect and connect their most valued information assets. Key components of
+our strategy include the following:
+
+Continue to build upon our critical mass of network providers and content companies
+and grow our position within the enterprise and financial sectors.We have assembled a critical mass of premier network providers and content companies and have become one of the core hubs of the information-driven
+world. This critical mass is a key selling point for companies that want to connect with a diverse set of networks to provide the best connectivity to their end-customers and network companies that want to sell bandwidth to companies and
+interconnect with other networks in the most efficient manner available. Currently, we service more than 360 unique networks, including all of the top tier networks, allowing our customers to directly interconnect with providers that serve more than
+90% of global Internet routes. We have a growing mass of key players in the enterprise and financial sectors, such as Bank of America, The Gap, Gannett, IBM, Salesforce.com, Sony and others. We expect the content provider and financial segments to
+continue to serve as the principal driver of our growth.
+
+Promote our IBX data centers as the most reliable data centers
+in the industry.Data center reliability, power availability and network choice are the most important attributes considered by our customers when they are choosing a data center provider. Our IBX data centers are leading new
+business models and offer customers advanced security, reliability, optimized delivery performance of dynamic applications and rich content, and redundancy. Our security design in the U.S. IBX data centers includes five levels of biometrics security
+to access
+
+
+
+
+
+
+
+customer cages. Our power infrastructure in the U.S. includes N+1 redundancy for all systems and has delivered 99.999% uptime over the period January 1, 2002 through December 31,
+2009. We provide access to more than 360 network service providers. Our global support staff, trained to aid customers with operational support, is available 24 hours a day, 365 days a year.
+
+Leverage the network ecosystem.As networks, content providers, financial services providers and other enterprises locate
+in our IBX data centers, it benefits their suppliers and business partners to do so as well to gain the full economic and performance benefits of direct interconnection. These partners, in turn, pull in their business partners, creating a
+“network effect” of customer adoption. Our interconnection services enable scalable, reliable and cost-effective interconnection and optimized traffic exchange thus lowering overall cost and increasing flexibility. The ability to directly
+interconnect with a wide variety of companies is a key differentiator for us in the market.
+
+Provide new products and
+services within our IBX data centers.We plan to continue to offer additional products and services that are most valuable to our customers as they manage their Internet and network businesses and, specifically, as they attempt to
+effectively utilize multiple networks. Examples include our IBXLink services, which allow customers to easily move traffic between IBX data centers located in the same metro area, or the Financial Exchange service, which allows direct
+interconnection with electronic financial exchanges, such as the Chicago Mercantile Exchange, NASDAQ and ICAP in markets such as Chicago, Frankfurt, London, New York, Hong Kong and Paris.
+
+Pursue growth in response to customer demand.We continue to evaluate expansion opportunities in select markets based on
+customer demand. We expect to open new IBX data centers, or IBX data center expansions, in 11 of our 18 markets in 2010. In addition, in October 2009, we entered into a definitive agreement to acquire Switch and Data Facilities Company, Inc.
+(“Switch and Data”) which will extend our presence into 16 new markets in the U.S. and Canada. Completion of the merger remains subject to the satisfaction or waiver of closing conditions, including the clearance of the transaction by the
+Department of Justice under the Hart-Scott-Rodino Act.
+
+Our strategy is to continue to grow in select existing markets and
+possibly expand to additional markets where demand and financial return potential warrant. We expect to execute this expansion strategy in a cost-effective and disciplined manner through a combination of acquiring existing data centers through lease
+or purchase, and building new IBX data centers based on key criteria, such as demand and potential financial return, in each market.
+
+Our
+Customers
+
+Our customers include carriers and other bandwidth providers, content providers, financial companies and global
+enterprises. We offer each customer a choice of business partners and solutions based on their colocation, interconnection and managed IT service needs. As of December 31, 2009, we had 2,612 customers worldwide.
+
+Typical customers in our four key customer categories include the following:
+
+
+
+EnterpriseCarriers/NetworksContent ProvidersFinancial CompaniesAmazon.comCapGeminiDeloitte & ToucheNASASalesforce.comThe
+McGraw-Hill CompaniesUnited Stationersat&tBTComcastDeutsche TelecomQwestSprintVerizoneBayHuluMSNMySpaceSonyYahoo!Zynga Game NetworkACTIV FinancialBOXChi-XDeutsche Borse GroupDirectEdgeQuantlabThompson Reuters
+
+Customers typically sign renewable contracts of one or more years in length. No single customer accounted for 10% or more of our revenues for the years ended December 31, 2009, 2008 or 2007.
+
+
+
+
+
+
+
+Our Services
+
+Equinix provides a choice of data center services primarily comprised of colocation, interconnection and managed IT infrastructure services.
+
+Colocation Services
+
+Our IBX data centers provide our customers with
+secure, reliable and fault-tolerant environments that are necessary for optimum Internet commerce interconnection. Our IBX data centers include multiple layers of physical security, scalable cabinet space availability, on-site trained staff 24 hours
+per day, 365 days a year, dedicated areas for customer care and equipment staging, redundant AC/DC power systems and multiple other redundant and fault-tolerant infrastructure systems. Some specifications or services provided may differ in our
+Asia-Pacific and European locations in order to properly meet the local needs of customers in these markets.
+
+Within our IBX
+data centers, customers can place their equipment and interconnect with a choice of networks or other business partners. We also provide customized solutions for customers looking to package our IBX services as part of their complex solutions. Our
+colocation products and services include:
+
+Cabinets.Our customers have several choices for colocating
+their networking, server and storage equipment. They can place the equipment in one of our shared or private cages or customize their space. In Europe, customers can purchase their own private “suite” which is walled off from the rest of
+the data center. As customers’ colocation requirements increase, they can expand within their original cage (or suite) or upgrade into a cage that meets their expanded requirements. Customers buy the hardware they place in our IBX data centers
+directly from their chosen vendors. Cabinets (or suites) are priced with an initial installation fee and an ongoing recurring monthly charge.
+
+Power.Power is an element of increasing importance in customers’ colocation decisions. We offer both AC and DC power circuits at various amperages and phases customized to a
+customer’s individual power requirements. Power is priced with an initial installation fee and an ongoing recurring monthly charge.
+
+IBXflex.IBXflex allows customers to deploy mission-critical operations personnel and equipment on-site at our IBX data centers. Because of the close proximity to their infrastructure
+within our IBX data centers, IBXflex customers can offer a faster response and quicker troubleshooting solution than those available in traditional colocation facilities. This space can also be used as a secure disaster recovery point for
+customers’ business and operations personnel. This service is priced with an initial installation fee and an ongoing recurring monthly charge.
+
+Interconnection Services
+
+Our interconnection services enable scalable, reliable and cost-effective
+interconnection and traffic exchange between Equinix customers. These interconnection services are either on a one-to-one basis with direct cross connects or one-to-many through one of our Equinix Exchange services. In the peering community, we
+provide an important industry leadership role by acting as the relationship broker between parties who would like to interconnect within our IBX data centers. Our staff holds significant positions in many leading industry groups, such as the North
+American Network Operators’ Group, or NANOG, and the Internet Engineering Task Force, or IETF. Members of our staff have published industry-recognized white papers and strategy documents in the areas of peering and interconnection, many of
+which are used by other institutions worldwide in furthering the education and promotion of this important set of services. We expect to continue to develop additional services in the area of traffic exchange that will allow our customers to
+leverage the critical mass of networks now available in our IBX data centers. Our current exchange services are comprised of the following:
+
+Physical Cross-Connect/Direct Interconnections.Customers needing to directly and privately connect to another IBX data center customer can do so through single or multi-mode fiber.
+These cross connections are the physical link between customers and can be implemented within 24 hours of request. Cross-connect services are priced with an initial installation fee and an ongoing monthly recurring charge.
+
+
+
+
+
+
+
+Equinix Exchange.Customers may choose to connect to and peer through our
+Equinix Exchange via a central switching fabric rather than purchase a direct physical cross connection. With a connection to this switch, a customer can aggregate multiple interconnects over one physical connection with up to 10 gigabits of
+capacity instead of purchasing individual physical cross connects. The Exchange service is offered as a bundled service that includes a cabinet, power, cross connects and port charges. The service is priced per IBX data center with an initial
+installation fee and an ongoing monthly recurring charge. Individual IBX data center prices increase as the number of participants on the exchange service grows.
+
+Equinix IBXLink.Customers who are located in one IBX data center may need to interconnect with networks or other customers located in an adjacent or nearby IBX data center in the same metro
+area. IBXLink allows customers to seamlessly interconnect between IBX data centers at capacities up to an OC-192, or 10 gigabits per second level. IBXLink services are priced with an initial installation fee and an ongoing monthly recurring charge
+dependent on the capacity the customer purchases.
+
+Internet Connectivity Services.Customers who are
+installing equipment in our IBX data centers generally require IP connectivity or bandwidth services. Although many large customers prefer to contract directly with carriers, we offer customers the ability to contract for these services through us
+from any of the major bandwidth providers in that data center. This service, which is provided in our Asia-Pacific region, is targeted to customers who require a single bill and a single point of support for their entire services contract through
+Equinix for their bandwidth needs. Internet connectivity services are priced with an initial installation fee and an ongoing monthly recurring charge based on the amount of bandwidth committed.
+
+Carrier Ethernet Exchange Services.We have announced the development of a new Carrier Ethernet Exchange service similar to
+the Equinix Exchange in four initial markets where customers will be able to connect via a central switching fabric to interconnect between multiple Carrier Ethernet Providers rather than creating individual Network to Network interfaces (NNIs)
+between individual carriers. The service will build on the benefits of the Internet community and extend the ability to interconnect the high growth Ethernet industry. The new service will be priced per IBX data center with an initial fee and a
+monthly recurring charge.
+
+Managed IT Infrastructure Services
+
+With the continued growth in Internet traffic, networks, service providers, enterprises and content providers are challenged to deliver fast
+and reliable service, while lowering costs. With more than 360 Internet Service Providers (ISPs) and carriers located in our IBX data centers, we leverage the value of network choice with our set of multi-network management and other outsourced IT
+services, including:
+
+Professional Services.Our IBX data centers are staffed with Internet and
+telecommunications specialists who are on-site and/or available 24 hours a day, 365 days a year. These professionals are trained to perform installations of customer equipment and cabling. Professional services are custom-priced depending on
+customer requirements.
+
+Smart Hands Services.Our customers can take advantage of our professional
+“Smart Hands” service, which gives customers access to our IBX data center staff for a variety of tasks, when their own staff is not on site. These tasks may include equipment rebooting and power cycling, card swapping and performing
+emergency equipment replacement. Services are available on-demand or by customer contract and are priced on an hourly basis.
+
+Equinix Direct.Equinix Direct is a managed multi-homing service that allows customers to easily provision and manage multiple network connections over a single interface. Customers can choose branded networks on a
+monthly basis with no minimums or long-term commitments. This service is priced with an initial installation fee and ongoing monthly recurring charges, depending on the bandwidth used by the customer.
+
+
+
+
+
+
+
+Sales and Marketing
+
+Sales.We use a direct sales force and channel marketing program to market our services to global enterprises, content providers, financial companies and network service providers. We
+organize our sales force by customer type as well as by establishing a sales presence in diverse geographic regions, which enables efficient servicing of the customer base from a network of regional offices. In addition to our worldwide headquarters
+located in Silicon Valley, we have established an Asia-Pacific regional headquarters in Hong Kong, and a European regional headquarters in London. Our U.S. sales offices are located in Boston, Chicago, Los Angeles, New York, Reston, Virginia and
+Silicon Valley. Our Asia-Pacific sales offices are located in Hong Kong, Singapore, Sydney and Tokyo. Our European sales offices are located in Amsterdam, Dusseldorf, Frankfurt, Geneva, London, Munich, Paris and Zurich.
+
+Our sales team works closely with each customer to foster the natural network effect of our IBX model, resulting in access to a wider
+potential customer base via our existing customers. As a result of the IBX interconnection model, IBX data center participants often encourage their customers, suppliers and business partners to also locate in our IBX data centers. These customers,
+suppliers and business partners, in turn, encourage their business partners to locate in our IBX data centers resulting in additional customer growth. This network effect significantly reduces our new customer acquisition costs. In addition, large
+network providers or managed service providers may refer customers to Equinix as a part of their total customer solution. Equinix also focuses vertical sales specialists selling to support specific industry requirements for network and content
+providers, financial services, cloud computing and systems integrators and enterprise customer segments.
+
+Marketing.To support our sales effort and to actively promote our brand in the U.S., Asia-Pacific and Europe, we conduct comprehensive marketing programs. Our marketing strategies include active public relations and
+ongoing customer communications programs. Our marketing efforts are focused on major business and trade publications, online media outlets, industry events and sponsored activities. Our staff holds leadership positions in key networking
+organizations, and we participate in a variety of Internet, Carrier Ethernet, computer and financial industry conferences, placing our officers and employees in keynote speaking engagements at these conferences. We also regularly measure customer
+satisfaction levels and host key customer forums to ensure customer needs are understood and incorporated in product and service planning efforts. From a brand perspective, we build recognition through sponsoring or leading industry technical forums
+and participating in Internet industry standard-setting bodies. We continue to develop and host industry educational forums focused on peering technologies and practices for ISPs and content providers.
+
+Our Competition
+
+While a
+large number of enterprises own their own data centers, many others outsource some or all of their requirements to multi-tenant Internet data center facilities, such as those owned and operated by Equinix. With the current challenging economic
+environment, we believe that the outsourcing trend is likely to not only continue but also to grow in the coming years. It is estimated that Equinix is one of over 650 companies that provide Internet data center services around the world, ranging in
+size from firms with a single data center in a single market to firms in over 20 markets. Equinix competes with these firms, which vary in terms of their data center offerings:
+
+Colocation Providers
+
+Colocation data centers are a type of Internet
+data center that can also be referred to as ‘retail’ data center space. Typically, colocation data center space is sold on the basis of individual racks/cabinets or cages ranging from 500 to 5,000 square feet in size. Typical customers of
+colocation providers include:
+
+
+
+•Large enterprises with significant IT expertise and requirements
+
+
+
+•Small and medium businesses looking to outsource data center requirements
+
+
+
+•Internet application providers
+
+
+
+
+
+
+
+•Major Internet content, entertainment and social networking providers
+
+
+
+•Shared, dedicated and managed hosting providers
+
+
+
+•Telecommunications carriers
+
+
+
+•Content delivery networks
+
+Full facility maintenance and systems, including fire suppression, security, power backup and HVAC, are routinely included in managed colocation offerings. A variety of additional services is typically
+available in colocation facilities, including remote hands technician services and network monitoring services.
+
+In addition
+to Equinix, providers that offer colocation services both globally and locally include firms such as Savvis, Verizon Business, ATT, Level 3, Qwest, NTT and COLT.
+
+Carrier-Neutral Colocation
+
+In addition to data center space and
+power, colocation providers also offer interconnection services. Certain of these providers, known as network or carrier-neutral colocation providers, can offer customers the choice of hundreds of network service providers, or ISPs, to choose from.
+Typically, customers use interconnection services to buy Internet connectivity, connect voice over IP (VoIP) telephone networks, perform financial exchange and settlement functions or perform business-to-business e-commerce. Carrier-neutral data
+centers are often located in key network hubs around the world like New York; Ashburn, Virginia; London; Amsterdam; Singapore, and Hong Kong. Two types of data center facilities offering carrier-neutral colocation are used for many
+network-to-network interconnections:
+
+
+
+•A Meet Me Room (MMR) is typically a smaller space, generally 5,000 square feet or less, located in a major carrier hotel and often found in a wholesale
+data center facility.
+
+
+
+•A carrier-neutral data center is generally larger than a MMR and may be a stand-alone building separate from existing carrier hotels.
+
+In addition to Equinix, other providers that, we believe could be defined as offering carrier-neutral
+colocation include CoreSite, Interxion, Telecity, Telx, Global Switch, Telehouse, Terremark and Switch and Data.
+
+Wholesale Data Center
+Providers
+
+Wholesale data center providers lease data center space that is typically sold in cells or pods (i.e.,
+individual white-space rooms) ranging in size from 10,000 to 20,000 square feet, or larger. Wholesale data center providers sell to both enterprises and to colocation providers. These data centers primarily provide space and power without additional
+services like technicians, remote hands services or network monitoring (although other tenants might offer such services). Wholesale data center providers are typically classified as REITs. Their offerings are conceptually similar to a landlord who
+provides empty space and basic maintenance services to warehouse tenants.
+
+Sample wholesale data center providers include
+Digital Realty Trust and Dupont Fabros.
+
+Managed Hosters
+
+Managed hosting services are provided by several firms that also provide data center colocation services. Typically, managed hosting
+providers can manage server hardware that is owned by either the hosting provider or the customer. They can also provide a combination of comprehensive systems administration, database administration and sometimes application management services.
+Frequently, this results in managed hosting providers “running” the customer’s servers, although such administration is frequently shared. The provider may manage such functions as operating systems, databases, security and patch
+management, while the customer will maintain management of the applications riding on top of those systems.
+
+
+
+
+
+
+
+The full list of potential services that can be offered as part of managed hosting is
+substantial and includes services such as remote management, custom applications, helpdesk, messaging, databases, disaster recovery, managed storage, managed virtualization, managed security, managed networks and systems monitoring. Managed hosting
+services are typically used for:
+
+
+
+•Application hosting by organizations of any size, including large enterprises
+
+
+
+•Hosted or managed messaging, including Microsoft Exchange and other complex messaging applications
+
+
+
+•Complex or highly scalable web hosting or e-commerce web sites
+
+
+
+•Managed storage solutions (including large drive arrays or backup robots)
+
+
+
+•Server disaster recovery and business continuity, including clustering and global server load balancing
+
+
+
+•Database servers, applications and services
+
+Examples of managed hosters include Rackspace, Verizon Business, AT&T, SAVVIS, SunGard and Navisite.
+
+Unlike other providers whose core businesses are bandwidth or managed services, we focus on neutral interconnection hubs for content providers, financial companies and global enterprises. As a result, we
+are free of the limited choices found commonly at other hosting/colocation companies. We compete based on the quality of our IBX data centers, our ability to provide a one-stop global solution in our U.S., European and Asia-Pacific locations, the
+performance and diversity of our network-neutral strategy, and the economic benefits of the aggregation of top networks and Internet businesses under one roof. We expect to continue to benefit from several industry trends including the consolidation
+of supply in the colocation market, the need for contracting with multiple networks due to the uncertainty in the telecommunications market, customers’ increasing power requirements, enterprise customers’ growth in outsourcing, the
+continued growth of broadband and significant growth in Ethernet as a network alternative, and mobile applications.
+
+Our Business Segment
+Financial Information
+
+We currently operate in three reportable segments, comprised of our U.S., Europe and Asia-Pacific
+geographic regions. Information attributable to each of our reportable segments is set forth in Note 16 of Notes to Consolidated Financial Statements in Item 8 of this Annual Report on Form 10-K.
+
+Employees
+
+As of
+December 31, 2009, we had 1,301 employees. We had 718 employees based in the U.S., 348 employees based in Europe and 235 employees based in Asia-Pacific. Of those employees, 577 were in engineering and operations, 211 were in sales and
+marketing and 513 were in management, finance and administration.
+
+Available Information
+
+We were incorporated in Delaware in June 1998. We are required to file reports under the Securities Exchange Act of 1934, as amended, with
+the Securities and Exchange Commission. You may read and copy our materials on file with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Washington, DC 20549. You may obtain information regarding the SEC’s Public Reference
+Room by calling the SEC at 1-800-SEC-0330. The SEC also maintains an Internet website at http://www.sec.gov that contains reports, proxy and information statements and other information.
+
+You may also obtain copies of our annual report on Form 10-K, our quarterly reports on Form 10-Q and our current reports on Form 8-K, and
+any amendments to such reports, free of charge by visiting the Investor Relations page on our website, www.equinix.com. These reports are available as soon as reasonably practical after we file them with the SEC. Information contained on our website
+is not part of this Annual Report on Form 10-K.
+
+
+
+
+
+
+

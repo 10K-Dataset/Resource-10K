@@ -1,0 +1,390 @@
+Item 1.Business
+
+Overview
+
+MasterCard is a technology company in the global payments industry that connects consumers, financial institutions, merchants, governments and businesses worldwide, enabling them to use electronic forms of payment instead of cash and checks.  As the operator of the world’s fastest payments network, we facilitate the processing of payment transactions, including authorization, clearing and settlement, and deliver related products and services.  We make payments easier and more efficient by creating a wide range of payment solutions and services using our family of well-known brands, including MasterCard®, Maestro® and Cirrus®.  We also provide value-added offerings such as loyalty and reward programs, information services and consulting.  Our network is designed to ensure safety and security for the global payments system.A typical transaction on our network involves four participants in addition to us:  cardholder, merchant, issuer (the cardholder’s financial institution) and acquirer (the merchant’s financial institution).  We do not issue cards, extend credit, determine or receive revenue from interest rates or other fees charged to cardholders by issuers, or establish the “merchant discount” rate charged in connection with the acceptance of cards and other payment devices that carry our brands.   In most cases, cardholder relationships belong to, and are managed by, our financial institution customers.
+
+Our ability to grow is influenced by personal consumption expenditure growth, driving paper-based forms of payment toward electronic forms of payment and increasing our share in electronic payments and providing other value-added products and services.  We continue to drive growth by:
+
+•Growing our core businesses globally, both as to our products - credit, debit, prepaid and commercial - and increasing the number of payment transactions we process;
+
+•Diversifying our business by seeking new areas of growth in markets around the world by focusing on:
+
+◦Existing and new markets;
+
+◦Encouraging consumers and businesses to use MasterCard products for new payment areas, such as transit, parking, person-to-person transfers and paying bills;
+
+◦Small merchants and merchants who have not historically accepted MasterCard products; and
+
+◦Financial inclusion for the unbanked and underbanked; and
+
+•Building our business by:
+
+◦taking advantage of the opportunities presented by the ongoing convergence of the physical and digital worlds; and
+
+◦using our data analytics, loyalty solutions and fraud protection and detection services to add value.
+
+Our technology, expertise and data make payments safe, simple and fast.  We work with merchants to help them enable new sales channels, create better purchase experiences, increase revenues and fight fraud.  We help national, state and local governments drive increased financial inclusion and efficiency, reduce costs, increase transparency to reduce crime and corruption and advance social programs.  For consumers, we provide better, safer and more convenient ways to pay. We provide financial institutions with solutions to help them increase revenue and increase preference for their MasterCard-branded products.
+
+We generate revenue by charging fees to issuers and acquirers for providing transaction processing and other payment-related products and services, as well as by assessing these customers based, primarily, on the dollar volume of activity, or gross dollar volume (“GDV”), on the cards and other devices that carry our brands.
+
+MasterCard operates in a dynamic and rapidly evolving legal and regulatory environment with heightened regulatory and legislative scrutiny and other legal challenges, particularly with respect to interchange fees.  See “Risk Factors-Legal and Regulatory Risks” in Part I, Item 1A of this Report.
+
+Payment Services and Solutions
+
+We provide transaction processing and a wide range of payment-related products and services to enable the design, packaging and implementation of our products and programs.  Our payment solutions are built upon our expertise in payment programs, product
+
+
+
+
+
+
+
+
+
+
+
+development, payment processing technology, loyalty and rewards solutions, payment security, consulting and information services and marketing.
+
+Our Operations and Transaction Processing Network
+
+Introduction.We operate the MasterCard Network, our unique and proprietary global payments network that links issuers and acquirers around the globe to facilitate the processing of transactions, permitting MasterCard cardholders to use their cards and other payment devices at millions of merchants worldwide.  Our network facilitates an efficient and secure means for merchants to receive payments, and a convenient, quick and secure payment method for consumers and businesses that is accepted worldwide.  We process transactions through our network for our issuer customers in more than 150 currencies in more than 210 countries and territories.
+
+Typical Transaction.  With a typical transaction involving four participants in addition to us, our network supports what is often referred to as a “four-party” payments network.  The following diagram depicts a typical point-of-interaction transaction:
+
+
+
+
+
+
+
+In a typical transaction, a cardholder (or an account holder who may not be using a physical card) purchases goods or services from a merchant using a card or other payment device.  After the transaction is authorized by the issuer, the issuer pays the acquirer an amount equal to the value of the transaction, minus the interchange fee (described below), and then posts the transaction to the cardholder's account.  The acquirer pays the amount of the purchase, net of a discount (referred to as the “merchant discount” rate, as further described below), to the merchant.  The merchant discount rate, among other things, takes into consideration the amount of the interchange fee.
+
+Interchange Fees.Interchange fees represent a sharing of a portion of payments system costs among the issuers and acquirers participating in our four-party payments system.  They reflect the value merchants receive from accepting our products and play a key role in balancing the costs consumers and merchants pay.  We  do not earn revenues from interchange fees.  Generally, interchange fees are collected from acquirers and paid to issuers to reimburse the issuers for a portion of the costs incurred by them in providing services that benefit all participants in the system, including acquirers and merchants.  In some circumstances, such as cash withdrawal transactions, this situation is reversed and interchange fees are paid by issuers to acquirers.  We or financial institutions establish “default interchange fees” that apply when there are no other established settlement terms in place between an issuer and an acquirer.  We administer the collection and remittance of interchange fees through the settlement process.  Interchange fees can be a significant component of the merchant discount rate, and therefore of the costs that merchants pay to accept electronic payments.  These fees are currently subject to regulatory, legislative and/or legal challenges in a number of jurisdictions.  See “Risk Factors-Legal and Regulatory Risks” in Part I, Item 1A.
+
+Merchant Discount Rate.The merchant discount rate is established by the acquirer to cover its costs of both participating in the four-party system and providing services rendered to merchants.  The rate takes into consideration the amount of the interchange fee which the acquirer generally pays to the issuer.
+
+
+
+
+
+
+
+
+
+
+
+Additional Fees and Economic Considerations.Among the parties in a four-party system, various types of fees may be charged to different constituents for various services.  Acquirers may charge merchants processing and related fees in addition to the merchant discount rate.  Issuers may also charge cardholders fees for the transaction, including, for example, fees for extending revolving credit.  As described below, we charge issuers and acquirers fees for the transaction processing and related services we provide.
+
+In a four-party payments system, the economics of a payment transaction relative to MasterCard vary widely depending on such factors as whether the transaction is domestic (and, if it is domestic, the country in which it takes place) or cross-border, whether it is a point-of-sale purchase transaction or cash withdrawal, and whether the transaction is processed over our network or a third-party network or is handled solely by a financial institution that is both the acquirer for the merchant and the issuer to the cardholder (an “on-us” transaction).
+
+MasterCard Network Architecture.  The MasterCard Network features a globally integrated structure that provides scale for our issuer customers, enabling them to expand into regional and global markets.  It features an intelligent architecture that enables the network to adapt to the needs of each transaction by blending two distinct processing structures-distributed (peer-to-peer) and centralized (hub-and-spoke):
+
+•Transactions that require fast, reliable processing, such as those submitted using a contactless card or device at a toll booth, can use the network's distributed processing structure, ensuring they are processed close to where the transaction occurred.
+
+•Transactions that require value-added processing, such as real-time access to transaction data for fraud scoring or rewards at the point-of-sale, or customization of transaction data for unique consumer-spending controls, use the network's centralized processing structure, ensuring advanced processing services are applied to the transaction.
+
+Our network’s architecture enables us to connect all parties regardless of whether the transaction is occurring at a traditional physical location, at an ATM, on the internet or through a connected device. It has 24-hour a day availability and world-class response time.  The network incorporates multiple layers of protection, both for continuity purposes and to address cyber-security challenges.  We engage in multiple efforts to mitigate against such challenges, including regularly testing our systems to address potential vulnerabilities.
+
+Participation Standards.  We establish, apply and enforce standards surrounding participation in the MasterCard payments system.  We grant licenses that provide issuers and acquirers that meet specified criteria with certain rights, including access to the network and usage of cards and payment devices carrying our brands.  As a condition of our licenses, issuers and acquirers agree to comply with our standards surrounding participation and brand usage and acceptance.  We monitor areas of risk exposure and enforce our standards to combat fraudulent, illegal and brand-damaging activity.  Issuers and acquirers are also required to report instances of fraud to us in a timely manner so that we can monitor trends and initiate action when appropriate.
+
+Customer Risk Management.We guarantee the settlement of many of the transactions between our issuers and acquirers to ensure the integrity of our network (“settlement exposure”).  We do not, however, guarantee payments to merchants by their acquirer, or the availability of unspent prepaid cardholder account balances.  As a guarantor of certain obligations of principal customers, we are exposed to customer credit risk arising from the potential financial failure of any principal customers of MasterCard, Maestro and Cirrus, and affiliate debit licensees.  Principal customers participate directly in MasterCard programs and are responsible for the settlement and other activities of their sponsored affiliate customers. To minimize the contingent risk to MasterCard of a failure of a customer to meet its settlement obligations, we monitor the financial health of, economic and political operating environments of, and compliance with our standards by, our customers.  We employ various strategies to mitigate against these risks.
+
+Processing Services
+
+Transaction Switching - Authorization, Clearing and Settlement.Through the MasterCard Network, we enable the routing of a transaction to the issuer for its approval, facilitate the exchange of financial transaction information between issuers and acquirers after a successfully-conducted transaction, and help to settle the transaction by facilitating the exchange of funds between parties via settlement banks chosen by us and the customer.
+
+
+
+
+
+
+
+
+
+
+
+Cross-Border and Domestic Processing.The MasterCard Network processes transactions throughout the world  where the merchant country and issuer country are different (cross-border transactions), providing cardholders with the ability to use, and merchants to accept, MasterCard cards and other payment devices across multiple country borders.  We also provide domestic (or intra-country) transaction processing services to customers in every region of the world, which allow issuer customers to facilitate payment transactions between cardholders and merchants within a particular country.  We process approximately half of all transactions using MasterCard-branded cards, including most cross-border transactions.  We process the majority of MasterCard-branded domestic transactions in the United States, United Kingdom, Canada, Brazil and a select number of other countries.  Outside of these countries, most domestic transaction activity on our products is processed without our involvement.
+
+Extended Processing.We extend our processing capabilities in the payments value chain in various regions and across the globe with an expanded suite of issuer, prepaid, acquirer, third-party, gateway and mobile processing solutions.  Our offerings include:
+
+•MasterCard Integrated Processing Solutions® (“IPS”), a debit and prepaid issuer processing platform designed to provide medium to large global issuing customers with a complete processing solution to help create differentiated products and services and allow quick deployment of payments portfolios across banking channels, including authorizing transactions and assisting issuers in managing both their risk and the cards issued to their customers.
+
+•Payment gateways, including: (1) DataCash® and MasterCard Internet Gateway Service (MiGs), which offer a single interface to provide e-commerce merchants with the ability to process secure payments and offer value-added solutions, including outsourced electronic payments, fraud prevention and alternative payment options, and (2) the MasterCard Mobile Payments Gateway, a platform that facilitates transaction routing and prepaid processing for mobile-initiated transactions for our customers.
+
+MasterCard Programs and Solutions
+
+We provide a wide variety of payment solutions that support payment products that customers can offer to their cardholders.  These services facilitate transactions on the MasterCard Network among cardholders, merchants, financial institutions and governments in markets globally.  The following chart provides GDV and number of cards featuring our logos in 2013 for select programs and solutions:
+
+Year Ended December 31, 2013As of December 31, 2013GDV in billions% of Total GDVCards in millionsPercent Increase from December 31, 2012MasterCard Branded GDV1Consumer Credit$1,99048%7034%Commercial Credit3228%3813%Debit and Prepaid1,79244%54028%
+
+1Excludes volume generated by Maestro and Cirrus cards.  As of December 31, 2013, the Maestro logo appeared on706 millioncards, representing2%growth from December 31, 2012.
+
+Consumer Credit and Charge.We offer a number of programs that enable issuers to provide consumers with cards that enable them to defer payment, either by permitting them to carry a balance in a revolving credit account or  requiring payment of the full balance within a specified period.  These programs are designed to meet the needs of our customers around the world and address specific consumer segments, including:
+
+•Standard- general purpose products for consumers with basic credit card needs, featuring revolving credit, security and everyday convenience.
+
+•Premium- products designed for more affluent consumers and featuring higher credit lines and spending limits and a varying level of enhanced services, including insurance coverage and access benefits.
+
+•Affluent- product offerings for the most affluent consumers worldwide that feature our highest purchasing capacity, as well as a comprehensive range of premium access benefits and top-tier services, and travel, concierge and cardholder protection insurance in some regions.
+
+
+
+
+
+
+
+
+
+
+
+Debit.We support a range of payment solutions that allow our customers to provide consumers with convenient access to funds in deposit and other accounts.  Our debit and deposit access programs can be used to make purchases and to obtain cash in bank branches, at ATMs and, in some cases at the point of sale.
+
+•MasterCard-branded Debit.MasterCard-branded debit programs provide functionality for both signature-based and PIN-based authenticated transactions, and are designed to meet the needs of consumers with standard, premium and affluent offerings.
+
+•Maestro-branded Debit.Maestro is our global PIN-based debit program, and is the only PIN-based solution that operates globally.  Maestro has a leading position among PIN-based debit brands in many markets throughout the world, particularly in Europe.
+
+•ATM.Cirrus is our primary global cash access solution, providing domestic and cross-border access for transactions at ATMs that participate in the MasterCard Network, including cash access (withdrawal, advance and drawdown), balance inquiries, account transfers and deposits.
+
+Prepaid.Prepaid programs involve a balance that is funded with monetary value prior to use. Cardholders access funds via a traditional magnetic stripe or chip-enabled payment card or other device (such as mobile) that may leverage our contactless functionality.  MasterCard customers may implement prepaid payment programs using any of our brands, and we support these programs with processing services.  We provide and customize programs to meet unique commercial and consumer needs in all prepaid segments, with a focus on:
+
+•Government, which includes programs targeted to achieve financial inclusion, cost savings and efficiencies by moving traditional paper disbursement methods to electronic solutions in programs such as Social Security payments, unemployment benefits and others;
+
+•Commercial, which includes programs targeted to achieve cost savings and efficiencies by moving traditional paper disbursement methods to electronic solutions in business applications such as payroll, health savings accounts, employee benefits and others; and
+
+•Consumer reloadable, which includes programs to address the payment needs of individuals without formal banking relationships, individuals who are not traditional users of credit or debit cards or devices or individuals who want to segment funds for security or convenience purposes, such as travel.
+
+We also provide prepaid card program management services through Access Prepaid Worldwide (“Access”).  Through Access, we manage and deliver consumer and commercial prepaid travel cards to business partners around the world, including financial institutions, retailers, telecommunications companies, travel agents, foreign exchange bureaus, colleges and universities, airlines and governments.  Combined with MasterCard's processing assets (such as IPS) and other strategic alliances, these services augment and support issuers of prepaid cards around the world, with a focus outside of the United States.  Access enables us to offer end-to-end prepaid solutions encompassing branded switching, issuer processing and program management services, primarily focused on the travel sector.
+
+Commercial.We offer commercial payment solutions that help large corporations, mid-sized companies, small businesses and government entities streamline their procurement and payment processes, manage information and expenses and reduce administrative costs.  Our offerings and platforms include:
+
+•Corporate cards (including premium, purchasing and fleet cards, as well as cards that combine these functionalities) that allow corporations to manage travel and entertainment expenses, streamline the procurement process and provide corporations with additional transactional detail.
+
+•SmartData, a MasterCard-powered tool that provides information reporting and expense management capabilities.
+
+•Procurement, travel, purchasing, fleet and other payment programs for government entities.
+
+•Credit and debit programs targeted at the small-business segment that offer the ability to gain access to working capital, to extend payments and to separate business expenses from personal expenses.
+
+
+
+
+
+
+
+
+
+
+
+Payment Innovations.  The continued adoption of mobile devices (such as smartphones and tablets) has resulted in the ongoing convergence of the physical and digital worlds, where consumers are increasingly choosing to pay remotely.  Leveraging our global innovations capability, we are developing new and innovative platforms, products, and solutions that take advantage of this convergence and give us the opportunity to lead the transition to digital payments. We do this in a number of ways, including:
+
+•Creating Better Shopping and Selling Experiences.We are focused on offering platforms and products to make shopping and selling experiences simpler, faster, and safer for both consumers and merchants.  Through MasterPass™, a globally interactive platform, we provide a digital wallet service to make online shopping safe and easy for all types of transactions - in-store, online and via mobile devices - by storing payment and shipping information in one convenient and secure place.  We launch innovations that make it easier for merchants to accept payments and expand their customer base.  As an example, Simplify Commerce allows merchants to quickly accept mobile and e-commerce payments, regardless of brand.  We are also developing products and practices to facilitate the growth of acceptance through mobile point-of-sale.  In these cases, mobile devices are used as point-of-sale terminals.
+
+•Engaging with New Partners.Through numerous active partnerships with mobile leaders around the world-including Samsung, Deutsche Telekom, and Isis (a joint venture formed in the United States by AT&T, Verizon, and T-Mobile)-we enable consumers to securely use their smartphones to make digital payments. Through our Open API Services, developers can innovate and create applications using financial and data services offered through the MasterCard Developer Zone.
+
+•Facilitating the Sending and Receiving of Money.We provide money transfer and global remittance solutions to enable consumers, particularly in developing markets, to send and receive money quickly and securely around the world.  We continue to enhance our personal payments capabilities through partnerships with companies such as Western Union, expanding our money transfer technology capabilities and providing financial institutions connected to our network with additional endpoints to send funds domestically and globally.
+
+Safety and Security
+
+Utilizing the MasterCard Network, we work to ensure the safety and security of the overall  payments system.  We offer products and services to detect, prevent and respond to fraud and ensure the safety of transactions made on our products.  In many markets, many of our products provide consumers with the benefit of "zero liability", or no responsibility for losses, in the event of fraud, and we continue to focus on extending this benefit for other consumers around the world.  Safety is a key factor in the design of our products, including our digital and mobile technologies.
+
+Our solutions to prevent and detect fraud and enhance the safety of transactions include:
+
+•MasterCard SecureCode®, a global internet authentication solution that permits cardholders to authenticate themselves to their issuer using a unique, personal code;
+
+•MasterCard Site Data Protection Service®, which assists customers, merchants and third-party service providers in protecting commercial sites from hacker intrusions and subsequent account data compromises;
+
+•Fraud Rule Manager, our suite of fraud detection and management products and services;  and
+
+•DataCash Gatekeeper 2.0, fraud prevention tools that we provide for merchants.
+
+We have been leading the development of industry standards to ensure that high payment security standards are put in place for the global payments system.  We continue to work with our customers around the world to encourage the replacement of  traditional magnetic-stripe based cards and terminals with chip-enabled products that offer increased security and fraud protection, among other things.  We have been a leader in evolving a roadmap for the migration to EMV, the international standard for chip technology.  In January 2012, we endorsed EMV as the payments platform technology for the U.S. market,  and we are now engaged at all levels in the industry to bring the benefits of this technology, including fraud prevention,  to our U.S. customers and consumers.  While EMV provides protection in the physical space, we also have been leading the development of standards for safety and security for digital payments.  These efforts include the development of a standard for tokenization, which helps protect sensitive cardholder information by generating a unique identifier used only for a specific transaction.
+
+As part of our leadership on safety and security, we work with many payments industry associations:
+
+•We are on the PCI Security Standards Council, which develops comprehensive standards and supporting materials to enhance payment card data security;
+
+•We are a part owner of and key contributor to EMV Co, which develops standards for chip technology; and
+
+
+
+
+
+
+
+
+
+
+
+•We are on the board of the FIDO Alliance, a group focused on secure online authentication.
+
+We also work with governments around the world to help develop safe and secure transactions for the global payments system.
+
+Value-Added Services and Solutions
+
+MasterCard Advisors.  MasterCard Advisors is our global professional services group which provides proprietary analysis, data-driven consulting and marketing services solutions to help clients optimize, streamline and grow their businesses.  With analyses based on billions of anonymous transactions processed globally, we leverage aggregated information and a consultative approach to help financial institutions, merchants, media companies, governments and other organizations grow their businesses or otherwise achieve efficiencies.
+
+Our information services provide a suite of data analytics and products (including reports, benchmarks, models and insights) that enable customers to make better business decisions.  Our consulting services group combines professional problem-solving skills with payments expertise to provide solutions that address the challenges and opportunities of clients with respect to payments.  The managed services group provides solutions via data-driven acquisition of accounts, activation of portfolios, conversion of cards, marketing promotions activities and other customer management services.
+
+Loyalty and Rewards Solutions.  We focus on providing value for consumers on MasterCard payment cards and devices through a combination of benefits and services, both paid for and arranged by MasterCard on behalf of our customers.  Our services for issuers include a scalable rewards platform that enables issuers to provide their consumers with personalized offers and rewards, access to a global airline lounge network, global and local concierge services, a wide range of individual insurance coverages, emergency card replacement, emergency cash advance services and a 24-hour cardholder service center to provide information related to benefits and rewards programs.  Our suite of services for merchants include a targeted offers and rewards campaign management service for publishing offers, as well as opportunities for holders of a co-brand or a merchant's loyalty card or a member of a third-party-managed rewards program to obtain reward points faster.  We support these services with program management capabilities.
+
+Marketing
+
+We manage and promote our brands through advertising, promotions, sponsorships and digital, mobile and social media initiatives in order to increase consumer preference for our brands and usage of our products.  We sponsor a variety of sporting, entertainment and charity-related marketing properties to align with consumer segments important to us and our customers.  Our advertising plays an important role in building brand visibility, usage and overall preference among cardholders globally.  Our “Priceless®” advertising campaign, which has run in 53 languages in 112 countries worldwide, promotes MasterCard usage benefits and acceptance, markets MasterCard payment products and solutions and provides MasterCard with a consistent, recognizable message that supports our brand around the globe.  Our consumer marketing approach uses consumer-centric research and insights focused on consumers' spending preferences.  Priceless Cities®, in more than 35 cities across all of our regions, seeks to increase preference for the MasterCard brand by connecting consumers to their interests and offering them access to special experiences and offers when they are in their home city or traveling.
+
+MasterCard Revenue Sources
+
+We generate revenues by assessing our customers primarily based on GDV on the cards and other devices that carry our brands and from the fees we charge to our customers for providing transaction processing and other payment-related products and services.  Our net revenues are classified into the following five categories:
+
+•Domestic assessments:Domestic assessments are fees charged to issuers and acquirers based primarily on the dollar volume of activity on cards and other devices that carry our brands where the merchant country and the issuer country are the same.
+
+•Cross-border volume fees:Cross-border volume fees are charged to issuers and acquirers based on the dollar volume of activity on cards and other devices that carry our brands where the merchant country and issuer country are different.
+
+•Transaction processing fees:Transaction processing fees are charged for both domestic and cross-border transactions and are primarily based on the number of transactions.
+
+•Other revenues:Other revenues consist of other payment-related products and services and primarily include fees associated with consulting and research, fraud products and services, loyalty and rewards solutions, program management services and a variety of other payment-related products and services.
+
+
+
+
+
+
+
+
+
+
+
+•Rebates and incentives (contra-revenue):Rebates and incentives are provided to certain MasterCard customers and are recorded as contra-revenue.
+
+Pricing varies among our regions, and can be modified for our customers through customer-specific rebate and incentive agreements, which provide customers with financial incentives and other support benefits to issue, accept, route, prioritize and promote our branded products and other payment programs.  These financial incentives may be based on GDV or other performance-based criteria, such as issuance of new payment products, increased acceptance of our products, launch of new programs or execution of marketing initiatives.
+
+See “Management's Discussion and Analysis of Financial Condition and Results of Operations - Revenues” in Part II, Item 7 for more detail about our revenue, GDV and processed transactions.
+
+Intellectual Property
+
+We own a number of valuable trademarks that are essential to our business, including MasterCard®, Maestro® and Cirrus®, through one or more affiliates.  We also own numerous other trademarks covering various brands, programs and services offered by MasterCard to support our payment programs.  Trademark and service mark registrations are generally valid indefinitely as long as they are used and/or properly maintained.  Through license agreements with our customers, we authorize the use of our trademarks in connection with our customers'  issuing and merchant acquiring businesses.  In addition, we own a number of patents and patent applications relating to payments solutions, transaction processing, smart cards, contactless, mobile, electronic commerce, security systems and other matters, many of which are important to our business operations.  Patents are of varying duration depending on the jurisdiction and filing date.
+
+Competition
+
+We compete in the global payments industry against all forms of payment including:
+
+•Paper-based payments  (principally cash and checks);
+
+•Card-based payments, including credit, charge, debit, ATM and prepaid products, and limited use products such as private-label;
+
+•Contactless, mobile and e-commerce payments; and
+
+•Other electronic payments, including wire transfers, electronic benefits transfers, bill payments and automated clearing house payments.
+
+We face a number of competitors in the global payments industry:
+
+•Cash and Check.  Cash and check continue to represent the most widely-used forms of payment, constituting approximately 85% of the world’s retail payment transactions.  However, electronic forms of payment are increasingly displacing paper forms of payment around the world, benefiting electronic payment brands.
+
+•General Purpose Payment Networks.  We compete worldwide with payment networks such as Visa, American Express and Discover, among others.  Among global networks, Visa has significantly greater volume than we do.  Outside of the United States, networks such as JCB in Japan and UnionPay in China have leading positions in their domestic markets.  In the case of UnionPay, it operates the sole domestic payment switch in China.  In addition, several governments are promoting, or considering promoting, local networks for domestic processing.
+
+•Debit.We compete with ATM and point-of-sale debit networks in various countries, such as Interlink®, Plus® and Visa Electron® (owned by Visa Inc.), Star® (owned by First Data Corporation), NYCE® (owned by FIS), and Pulse® (owned by Discover), in the United States; Interac in Canada; EFTPOS in Australia; and Bankserv in South Africa.  In addition, in many countries outside of the United States, local debit brands serve as the main brands while our brands are used mostly to enable cross-border transactions, which typically represent a small portion of overall transaction volume.
+
+•End-to-End Payments Networks.Our competitors include operators of proprietary end-to-end payments networks, such as American Express and Discover, that have direct acquiring relationships with merchants and direct issuing relationships with account holders.  These competitors have certain competitive advantages over four-party payments systems such as ours.  Among other things, these networks do not require formal interchange fees to balance payment system costs between the issuing and acquiring sides of their business, even though they have the ability to internally transfer costs
+
+
+
+
+
+
+
+
+
+
+
+in a manner similar to interchange fees.  As a result, to date, operators of end-to-end payments networks have generally avoided the same regulatory and legislative scrutiny and litigation challenges we face.
+
+•Competition for Customer Business.  We compete intensely with other payments networks for customer business.  Globally, financial institutions typically issue both MasterCard and Visa-branded payment products, and we compete with Visa for business on the basis of individual portfolios or programs.  In addition, a number of our customers issue American Express and/or Discover-branded payment cards in a manner consistent with a four-party system.We continue to face intense competitive pressure on the prices we charge our issuers and acquirers, and we seek to enter into business agreements with them through which we offer incentives and other support to issue and promote our payment products.  We also compete for non-financial institution partners, such as merchants, governments and telecommunication companies.
+
+•Third-Party Processors.  We face competition, and potential displacement, from transaction processors throughout the world, such as First Data Corporation and Total System Services, Inc., which are seeking to enhance their networks that link issuers directly with point-of-sale devices for payment transaction authorization and processing services.
+
+•Alternative Payments Systems and New Entrants.  As the global payments industry becomes more complex, we may face increasing competition from emerging payment providers, including networks and others that have developed less traditional payment models.  Many of these networks have developed payments systems focused on online activity in e-commerce and mobile channels, however they either have or may expand to other channels.  These competitors include digital wallet providers such as PayPal®, Google and Amazon, mobile operators such as Isis, handset manufacturers, and  social networks such as Facebook®.  We compete with these providers in some circumstances, but in some cases they may also be our customers or partner with us.
+
+We compete successfully as a technology-driven company that operates a global payments network within the four-party model, providing a critical link between consumers, financial institutions, businesses and merchants worldwide.  We offer secure, unsurpassed acceptance via a highly-adaptable network that is the world's fastest.  We maintain and grow our leadership position in payments with the adoption of innovative products and platforms like MasterPass and MasterCard inControl® (our platform featuring an array of advanced authorization, transaction routing and alert controls).  We are at the forefront of the effort to reduce the incidence of fraud in global payments, leading industry efforts such as EMV migration and tokenization.  Our MasterCard Advisors group is a professional services organization dedicated solely to the payments industry.  Our expanded on-soil presence in individual markets and a heightened focus on working with governments has improved our ability to serve a broad array of participants in global payments.
+
+Government Regulation
+
+General.Government regulation impacts key aspects of our business.  We are subject to regulations that affect the payments industry in the many countries in which our cards and payment devices are used.  See “Risk Factors-Legal and Regulatory Risks” in Part I, Item 1A of this Report.
+
+Interchange Fees.Interchange fees associated with four-party payments systems like ours are being reviewed or challenged in various jurisdictions around the world.  Examples include:
+
+•legislation to regulate interchange fees (such the Dodd-Frank Act in the United States and the legislation proposed by the European Commission in July 2013);
+
+•competition-related regulatory proceedings (such as the European Commission's December 2007 decision restricting our cross-border interchange fees, which is pending appeal, as well as proceedings in several jurisdictions, including several European Union member states);
+
+•central bank regulation (such as in Australia); and
+
+•litigation (such as the merchant litigations in the United States and private lawsuits in Canada and the United Kingdom).
+
+For more detail, see our risk factors in “Risk Factors - Legal and Regulatory Risks” in Part I, Item 1A  of this Report related to interchange fees and related practices receiving significant and increasingly intense legal, regulatory and legislative scrutiny worldwide, and the Dodd-Frank Act.  Also see Note 18 (Legal and Regulatory Proceedings) to the consolidated financial statements included in Part II, Item 8.
+
+No-Surcharge Rules.We have historically implemented policies in certain regions that prohibit merchants from charging higher prices to consumers who pay using MasterCard products instead of other means.  Authorities in several jurisdictions have acted
+
+
+
+
+
+
+
+
+
+
+
+to end or limit the application of these no-surcharge rules (or indicated interest in doing so), including the Reserve Bank of Australia (the “RBA”) and the Canadian Competition Bureau (the “CCB”).  Additionally, pursuant to the terms of settlement of the U.S. merchant class litigation, in January 2013 we modified our no-surcharge rules to permit U.S. merchants to surcharge credit cards, subject to certain limitations.
+
+Data Protection and Information Security.Aspects of our operations or business are subject to privacy and data protection regulation in the United States, the European Union and elsewhere.  For example, in the United States, we and our customers are respectively subject to Federal Trade Commission and federal banking agency information safeguarding requirements under the Gramm-Leach-Bliley Act that require the maintenance of a written, comprehensive information security program.  Regulatory authorities around the world are considering numerous legislative and regulatory proposals concerning privacy and data protection. In addition, the interpretation and application of these privacy and data protection laws in the United States, Europe and elsewhere are often uncertain and in a state of flux.  See our risk factor in "Risk Factors - Legal and Regulatory Risks" in Part I, Item 1A of this Report related to regulation in the areas of consumer privacy, data use and/or security.
+
+Anti-Money Laundering.MasterCard is subject to anti-money laundering (“AML”) laws and regulations, including the regulatory requirements of Section 352 of the USA PATRIOT Act.  We have implemented a comprehensive AML program designed to prevent our payment network from being used to facilitate money laundering and other illicit activity.  Our AML compliance program is comprised of policies, procedures and internal controls, including the designation of a compliance officer, and is designed to address these legal and regulatory requirements and assist in managing money laundering and terrorist financing risks.
+
+Economic Sanctions.  We are subject to regulations imposed by the U.S. Office of Foreign Assets Control (“OFAC”) restricting financial transactions and other dealings with Cuba, Iran, Syria and Sudan and with persons and entities included in OFAC's list of Specially Designated Nationals and Blocked Persons (the “SDN List”).  Cuba, Iran, Syria and Sudan have been identified by the U.S. State Department as terrorist-sponsoring states.  We have no offices, subsidiaries or affiliated entities located in these countries and do not license financial institutions domiciled in these countries.  We have established a risk-based compliance program that includes policies, procedures and controls that are designed to prevent us from having business dealings with prohibited countries, individuals or entities.  This includes obligating issuers and acquirers to screen cardholders and merchants, respectively, against the SDN list.
+
+Banking Agency Supervision.  We are or may be subject to regulations related to our role in the financial industry and our relationship with our financial institution customers.  Certain of our operations are periodically reviewed by the U.S. Federal Financial Institutions Examination Council under its authority to examine financial institutions' technology service providers.
+
+Consumer Financial Protection Bureau and Financial Stability Oversight Council.  The Consumer Financial Protection Bureau (the “CFPB”) has significant authority to regulate consumer financial products in the United States, including consumer credit, deposit, payment, and similar products.  In addition, the Financial Stability Oversight Council (“FSOC”) is tasked with, among other things, identifying payment, clearing and settlement systems in the United States that are “systemically important” under the applicable statutory standard.  Such systems will be subject to new regulation, supervision and examination requirements.  It is not entirely clear whether and/or to what extent the CFPB will regulate broader aspects of payment card network operations, and to date, MasterCard has not been designated “systemically important.”  See our risk factor in "Risk Factors - Legal and Regulatory Risks" in Part I, Item 1A related to the Dodd-Frank Act.
+
+Retail Payments System Regulation.  Regulators in several countries around the world either have, or are seeking to establish, authority to regulate certain aspects of the payments systems in their countries.  Such authority could result in regulation of various aspects of our business.  Payment system oversight also could be used to provide resources or preferential treatment or other protection to selected domestic payments and processing providers, such as in Russia and Ukraine.  See our risk factor in "Risk Factors - Legal and Regulatory Risks" in Part I, Item 1A related to government actions that may prevent us from competing effectively against providers of domestic payments or processing services in certain countries.
+
+Issuer Practice Regulation.Our customers are subject to numerous regulations and investigations applicable to banks and other financial institutions in their capacity as issuers and otherwise, impacting MasterCard as a consequence.  Such regulations and investigations have related to bank overdraft practices and issuance and other practices related to prepaid cards.
+
+Regulation of Internet Transactions.  Under the Unlawful Internet Gambling Enforcement Act, payment transactions must be coded and blocked for certain types of Internet gambling transactions.  The legislation applies to payments system participants, including MasterCard and our U.S. customers, and is implemented through a federal regulation.  In addition, the U.S. Congress (and some states) continues its consideration of regulatory initiatives in digital-related areas, such as cyber-security, copyright and trademark infringement and privacy.
+
+
+
+
+
+
+
+
+
+
+
+Additional Regulatory Developments.Various regulatory agencies also continue to examine a wide variety of issues, including campus cards, virtual currencies, payment card add-on products, identity theft, account management guidelines, privacy, disclosure rules, security and marketing that would impact our customers directly.
+
+Seasonality
+
+See “Management's Discussion and Analysis of Financial Condition and Results of Operations-Seasonality” in Part II, Item 7 of this Report.
+
+Financial Information About Geographic Areas
+
+See Note 21 (Segment Reporting) to the consolidated financial statements included in Part II, Item 8 of this Report for certain geographic financial information.
+
+Employees
+
+As of December 31, 2013, we employed approximately 8,200 persons, of which approximately 3,800 were employed outside of the United States.  We consider our relationship with employees to be good.
+
+Additional Information
+
+MasterCard Incorporated was incorporated as a Delaware stock corporation in May 2001.  We conduct our business principally through MasterCard Incorporated's principal operating subsidiary, MasterCard International Incorporated (“MasterCard International”), a Delaware non-stock (or membership) corporation that was formed in November 1966.  In May 2006, we completed a plan for a new ownership and governance structure for MasterCard Incorporated (including an initial public offering of a new class of common stock (the “IPO”)).  For more information about our capital structure, including our Class A common stock (our voting stock) and Class B common stock (our non-voting stock), see Note 13 (Stockholders' Equity) to the consolidated financial statements included in Part II, Item 8.
+
+Website and SEC Reports
+
+The Company's internet address is www.mastercard.com.  From time to time, we may use our website as a channel of distribution of material company information.  Financial and other material information is routinely posted and accessible on the investor relations section of our corporate website.  In addition, you may automatically receive e-mail alerts and other information about MasterCard by enrolling your e-mail address by visiting “E-Mail Alerts” in the investor relations section of our corporate website.
+
+Our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports are available, without charge, for review on the investor relations section of our corporate website as soon as reasonably practicable after they are filed with, or furnished to, the U.S. Securities and Exchange Commission.  The information contained on our website is not incorporated by reference into this Report.
+
+
+

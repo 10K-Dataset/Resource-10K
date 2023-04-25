@@ -1,0 +1,663 @@
+Item 1.Business
+
+General
+
+F5 Networks is a
+leading provider of Application Delivery Networking (ADN) technology that optimizes the delivery of network-based applications and the security, performance and availability of servers, data storage devices and other network resources. As strategic
+points of control within a network, our products collectively function as a dynamic control plane that simplifies the management of data center operations and the delivery of services across diverse data center resources.
+
+Founded in 1996, F5 Networks pioneered load-balancing technology that distributes internet traffic evenly across multiple servers, making
+them appear like a single device. Today, our BIG-IP application delivery controllers (ADCs) are generally positioned in front of web and application servers, balancing traffic and performing compute-intensive functions such as encrypting and
+un-encrypting transmissions, screening traffic for security threats, maintaining open connections with servers, speeding the flow of traffic, managing access to applications and data and a variety of other functions that improve the security,
+performance, and availability of applications.
+
+By offloading functions from servers, BIG-IP ADCs make servers more efficient,
+reduce the number of servers needed to run specific applications, lower the cost of power and cooling, and drive down operating costs by simplifying the management of servers and applications. In virtual environments, this allows customers to
+increase the density of virtual servers running on physical servers and reduces the added complexity of managing a dynamic environment.
+
+The core of our ADN technology is our full-proxy Traffic Management Operating System (TMOS) that enables our products to inspect and modify traffic flows to and from servers at network speed and supports
+a broad and growing array of functions that enhance the security, performance and availability of applications. iRules, a scripting language based on Tool Command Language (TCL), is a unique feature of TMOS that enables customers and third parties
+to write customized rules to inspect and modify traffic.
+
+
+
+
+
+
+
+TMOS also supports a common software interface called iControl, which enables our products to communicate with one another and with third-party products, including custom and commercial
+enterprise applications. TMOS is designed to support the addition of new functionality as software modules and to exploit the performance-enhancing features of our purpose-built hardware platforms. Correspondingly, our hardware architecture
+integrates industry standard components with components we design ourselves to optimize TMOS and deliver performance that is demonstrably superior to competing products.
+
+Just as our ADCs make many servers look like one, ARX storage virtualization products sit in front of network attached storage (NAS), making multiple storage devices from different vendors look like a
+single device to the individual clients, servers and applications that use them. In addition, ARX products simplify the migration of data between storage devices, the addition of new storage devices, and the distribution of files across tiers of
+storage, including cloud storage services, that reflect their relative immediacy or importance.
+
+In connection with our
+products, we offer a broad range of services including consulting, training, installation, maintenance and other technical support services.
+
+F5 Networks was incorporated on February 26, 1996 in the State of Washington. Our headquarters is in Seattle, Washington, and our mailing address is 401 Elliott Avenue West, Seattle, Washington
+98119. The telephone number at our executive offices is (206) 272-5555. We have subsidiaries or branch offices in Australia, Belgium, Brazil, Canada, China, Denmark, France, Germany, Hong Kong, India, Indonesia, Italy, Japan, Malaysia, Mexico,
+Netherlands, New Zealand, Norway, the Philippines, Singapore, South Africa, South Korea, Spain, Sweden, Taiwan, Thailand, the United Arab Emirates, the United Kingdom and Vietnam. Our annual reports on Form 10-K, quarterly reports on
+Form 10-Q, current reports on Form 8-K and all amendments to those reports are available free of charge on our website, www.f5.com, as soon as reasonably practicable after such material is electronically filed with the Securities and
+Exchange Commission.
+
+Industry Background
+
+Growth and Evolution of IP-Based Infrastructures
+
+Internet Protocol (IP) is
+a communications language used to transmit data over the Internet. For more than two decades, large business and government organizations have been gradually replacing older data center architectures with IP-based infrastructures, deploying new
+IP-based applications and replacing or upgrading legacy applications with new IP-enabled versions. At the same time, organizations have become more geographically dispersed, and increasingly mobile workforces depend on access to corporate
+applications and data from remote locations and a variety of client devices including smartphones, tablets and laptops.
+
+Within the past three years, the information technology landscape has changed dramatically as organizations have responded to the
+slowdown in the global economy by using technologies such as virtualization and the growing availability and sophistication of cloud computing to reduce capital and operating costs and enhance the flexibility and efficiency of their information
+infrastructures. These efforts are reflected in the ongoing trend toward data center consolidation that includes a reduction in both the number and size of data centers. In addition, a growing number of organizations are turning to social networking
+and other online vehicles to help target customers and compete more effectively in an environment of reduced consumer spending. The rapid growth of social networks such as Facebook and Twitter, coupled with the explosion of mobile devices and
+applications, has challenged the abilities of content and service providers to keep up with growing demand.
+
+Along with the
+growth of Internet traffic, the proliferation of unstructured data such as voice, video, images, email, spreadsheets and formatted text files continues to present an enormous and increasing challenge to IT organizations. Historically, IT
+organizations have responded to this challenge primarily by adding more storage. File virtualization is a relatively new technology that enables organizations to store and manage files across a heterogeneous array of storage devices and lower their
+overall cost of storage.
+
+Emergence of the Dynamic Data Center
+
+From a broad perspective, the goal of IT organizations is to optimize the secure delivery of applications and data to users wherever they are and whenever they need them. In a recent survey by a leading
+industry research firm, global CIOs ranked developing or managing a flexible IT infrastructure as their number one priority. To achieve these goals, IT organizations are embracing virtualization technologies that enable them to group or partition
+data center resources to meet user demand and reconfigure these virtual resources easily and quickly as demand changes. Many are also taking advantage of the growing availability of external cloud resources as a flexible, secure and reliable
+alternative to owning and managing everything themselves. As a result, IT infrastructure
+
+
+
+
+
+
+
+has become increasingly dynamic, complex and reliant on IP-based networks for the delivery of applications and data. At the same time, these changes have created new challenges to the security of
+IP networks and the applications and data accessible over the Internet. Within the past year, sophisticated denial of service attacks have exposed a major vulnerability in the security perimeter of corporate networks by overwhelming firewalls and
+effectively shutting down the networks. In addition, many network-level security threats are directly related to the improper use of the same protocols applications depend on to transmit data over the wire. Intrusion detection and prevention
+devices, which rely on signature databases of known threats, afford some protection against these types of attack. However, they offer no protection against many of the most common threats, including information leakage, content spoofing, cross-site
+request forgery or “day zero” attacks designed to exploit a variety of application vulnerabilities.
+
+In addition to
+preventing the threat of attacks designed to disrupt, destroy or block access to network applications, organizations are faced with the equally daunting challenge of controlling access to applications and data. The proliferation of mobile devices
+has given users with smart phones, tablets, and laptops the ability to access corporate data centers from virtually anywhere. This, in turn, has increased the difficulty of ensuring that mobile users are able to access applications and data for
+which they are authorized, and that applications and data are protected from access by unauthorized users.
+
+Need to
+Optimize the Secure Delivery of Applications and Data
+
+With the ongoing evolution and increasing complexity of IT
+infrastructures, there is a growing need to optimize the secure delivery of applications and data over IP networks. IP-based traffic passing between client devices and servers is divided into discrete packets that travel by multiple routes to their
+destination where they are reassembled. The disassembly, routing, and reassembly of transmissions are relatively straightforward and require little intelligence. By contrast, managing, inspecting, modifying, redirecting and securing application
+traffic going to and from servers requires intelligent systems capable of performing a broad array of functions. Broadly speaking, all of those functions are aspects of application delivery networking.
+
+Along with other
+types of IP traffic, the volume of file-based information created and accessed by Internet users and network applications is growing rapidly. File virtualization allows IT organizations to map individual users and applications to a single device
+that can distribute files across a heterogeneous array of storage devices, keep track of their location, and retrieve them as needed. File virtualization devices maximize storage utilization and simplify the migration of data from one vendor’s
+storage devices to another’s. They can also be programmed to allocate files across tiers of storage systems, matching the cost, capacity, and performance of the storage devices to the type of information being stored, frequency of usage, and
+relative importance, substantially reducing both the capital and operating costs associated with file storage.
+
+F5’s Strategy
+
+Our objective is to lead the industry in delivering network architectures that integrate IP networks with applications and
+data, enabling the delivery of dynamic services in the data center. Those services include security, optimization and orchestration of data center operations and resources, as well as coordination of services spanning multiple data centers. Our
+products are designed to be strategic points of control in the IT infrastructure that allow business policies to be implemented where information is exchanged. This enables organizations to respond quickly to changing business needs, improve costly
+and time consuming business processes and develop new sources of revenue through highly differentiated offerings. Key components of our strategy include:
+
+
+
+
+
+
+
+Offering a complete, integrated application delivery product suite.
+
+Since the introduction of our TMOS architecture for application delivery networking, we have developed TMOS-based
+versions of our own legacy products, such as GTM and Link Controller, and acquired technology, including ASM, WebAccelerator, WAN Optimization Module (WOM), Edge Gateway and Application Policy Manager (APM). All of these products are currently
+available as integrated software modules on our BIG-IP family of ADCs. We believe this approach sharply differentiates our products from our competitors’ offerings and provides customers with an expanding array of integrated application
+delivery networking solutions that can be customized to meet their specific needs.
+
+Investing in technology to meet
+evolving customer needs.
+
+We continue to invest in research and development to provide our customers with
+comprehensive, integrated solutions. In application delivery networking, our product development efforts leverage the unique attributes of our software-based platforms to deliver new features and functions that address the complex, changing needs of
+our customers. Although the bulk of our investment in application delivery and file virtualization technologies is software development, concurrent development of tightly integrated, high-performance hardware is a key part of our investment
+strategy. We also look for opportunities to acquire technologies that will enable us to broaden the scope of our offerings and expand into adjacent markets.
+
+Continuing to build and expand relationships with strategic technology partners.
+
+To compete successfully against Cisco Systems, Inc. and other large competitors who have an established presence in our target accounts, we have developed strategic technology partnerships with enterprise
+software vendors, such as Microsoft, Oracle, VMware and SAP, who often have an established or growing presence in those accounts. By taking advantage of our open application programming interface, called iControl, these vendors can equip their
+applications to control our products in the network, enhancing overall application performance. In return, they provide us significant leverage in the selling process by recommending our products to their customers. We have also worked closely with
+several of these vendors to develop configurations of our products, called iApps, that are specifically designed to simplify deployment and optimize the performance of their applications. These solutions are available as templates which allow quick
+and easy configuration of our products for specific applications. We plan to continue building on our existing relationships and to extend our competitive edge by developing new relationships with other strategic partners.
+
+Leveraging DevCentral, our online community of network architects and developers.
+
+Customization of our products using iRules enhances their “stickiness” by allowing customers to solve problems in both their
+applications and their networks that would be difficult if not impossible to solve by other means. To promote the use of iRules, we host an online community, DevCentral, where network architects and developers can discuss and share the ways in which
+they use iRules to solve problems and enhance the security, performance and availability of applications. A corollary benefit is that many of the iRules solutions posted by DevCentral participants have become standard features in new releases of
+TMOS. DevCentral also provides a valuable window into our customers’ constantly evolving needs.
+
+F5 Solutions
+
+We design integrated software products that run on purpose-built hardware and are also available as virtual (software only) editions. Our
+products function as strategic points of control in IP networks, inspecting, modifying and directing traffic to optimize the security, availability and delivery of applications and data to any user, anywhere. We believe our products offer the most
+intelligent architecture and advanced functionality in the marketplace along with performance and flexibility that enable organizations to simplify management of their data center operations and integrate disparate resources to reduce operating
+costs, enhance productivity and improve service to employees, customers and partners.
+
+Application Delivery Networking
+
+Since 2004 we have expanded the breadth of features and functionality we offer well beyond the scope of application
+delivery networking as it has been traditionally defined. Today, we offer solutions that include application security, secure remote access, WAN optimization and access policy management, opening up large opportunities in several adjacent markets.
+Many of the features and functions that differentiate our products are built into TMOS, our full-proxy operating system. Others are available as software modules that run on TMOS.
+
+
+
+
+
+
+
+Software
+
+The core of our technology is TMOS, our Traffic Management Operating System, introduced in September 2004. The full-proxy characteristics of the TMOS architecture enable our products to intercept, inspect
+and act on the contents of traffic from virtually every type of IP-enabled application. In addition, the modularity of the TMOS architecture allows us to deliver tightly integrated solutions that secure, optimize and ensure the availability of
+applications and the networks they run on.
+
+Traffic Management Operating System (TMOS)
+
+Since TMOS was launched, we have introduced two major upgrades, adding hundreds of new features designed to interpret and act on specific
+content in the traffic passing between users and applications. TMOS Version 11.0, announced in July 2011, includes enhancements to iRules, a built-in programming language, that allows customers to create or modify policies that provide direct,
+granular control over how our products act on traffic at any moment within the application transaction or flow. In addition, Version 11.0 includes several new features and functions that are unique to our products:
+
+
+
+•iApps is a set of portable, customizable, reusable templates that enable the rapid and predictable deployment of our products in front of more than 20
+applications from vendors including Microsoft, Oracle, VMware, BEA, and SAP. iApps also allows customers and partners to create templates that simplify the deployment and provisioning of their own applications.
+
+
+
+•ScaleNis a set of three unique capabilities that enhance the flexibility of our products:
+
+
+
+•Clustered Multiprocessing (CMP) allows customers to cluster and aggregate multiple processors (cores) within a BIG-IP appliance and across blades in
+our VIPRION chassis products.
+
+
+
+•Virtual Clustered Multiprocessing (vCMP) enables the creation of separate virtual ADCs within an appliance or chassis, each running a separate instance
+of TMOS with a different configuration and assigned to a different application.
+
+
+
+•Device Service Clustering (DSC) gives customers the ability to group devices and services across an array of ADCs (appliances, VIPRION chassis, or
+virtual editions). Devices can be added to or removed from a DSC without disrupting application services, and application services can be independently managed within the cluster.
+
+TMOS Version 11.0 also includes a number of new security features that enhance the ability of our products to protect networks and
+applications against denial of service attacks and other types of security threats. Other enhancements include centralized management of multiple devices and improved visibility that allows customers to monitor and record the performance of
+applications and users.
+
+Feature Modules
+
+Many of the basic network functions our products perform are embedded as standard features in TMOS and available to our customers at no extra cost. These features include:
+
+
+
+•Advanced Client Authentication: Reduces costs and frees up server cycles by eliminating the need to manage and enforce authentication individually
+across applications.
+
+
+
+•Advanced Routing: Allows our products to manage the routing information used by traffic traversing networks and to share that information with other
+devices.
+
+
+
+•Fast Cache: Improves server and application performance by eliminating the need for servers to handle repeated requests for identical content.
+
+
+
+•Intelligent Compression: Reduces the volume of outgoing traffic as necessary to optimize transmission to individual users.
+
+
+
+•IPv6 Gateway: Provides complete translation and load-balancing between v4 and v6 networks, and directs traffic across mixed IPv6 and IPv4 devices.
+
+
+
+•L7 Rate Shaping: Reserves bandwidth for higher priority applications to ensure that low-priority traffic doesn’t interfere with critical business
+applications.
+
+
+
+•Protocol Security: Prevents security attacks directed at HTTP, SMTP and FTP servers.
+
+
+
+
+
+
+
+•SSL Acceleration: Frees up valuable space on physical and virtual servers by offloading compute-intensive SSL encryption and decryption. Basic SSL
+Acceleration is included with every product. Depending on the hardware platform, customers can purchase up to 200,000 transactions per second of incremental performance.
+
+Product Modules
+
+In addition to the features and functions embedded in
+TMOS, we offer a family of integrated software solutions that cover a broad range of application-aware network functions from load-balancing to application security. Depending on a number of factors, including the hardware platform they have
+purchased, the application they are running, and their performance and security requirements, customers may purchase one or more of these modules in addition to Local Traffic Manager (LTM), which is included with every hardware product. The
+following software modules are currently available on all BIG-IP and VIPRION products except BIG-IP 1600:
+
+
+
+•Local Traffic Manager (LTM): LTM, which provides intelligent load-balancing and traffic management, is standard on all BIG-IP appliances and VIPRION
+chassis-based systems. As a strategic point of control between servers and users, LTM manages the flow and distribution of all traffic passing through our products, ensuring that applications are secure, fast and available.
+
+
+
+•Global Traffic Manager (GTM): GTM automatically directs users to the closest or best-performing data center based on business policy, geolocation, and
+volume spikes, regardless of their cause. When users try to access a data center that is overloaded or unreachable, GTM automatically and seamlessly directs them to a secondary data center. It also automates the process of tracking and managing
+interdependencies among individual services in distributed applications. In addition, GTM enhances DNS security by automatically scaling to absorb a rapid increase in queries resulting from a denial of service attack.
+
+
+
+•Access Policy Manager (APM): APM provides secure, granular, context-aware control of access to applications while simplifying authentication,
+authorization, and accounting (AAA) management. An optional endpoint security service validates client devices to protect organizations from viruses or malware infections, accidental data loss, and rogue device access. This allows users to apply
+repeatable access policies across many applications and servers with centralized visibility of their authorization infrastructure. APM’s Visual Policy Editor makes it easy to create individual and group access policies for many different
+identities, locations, and web authentication environments. APM also provides dynamic access control by creating access control lists based on user identity, IP address, and attributes such as group membership pulled from standard directory
+services.
+
+
+
+•Application Security Manager (ASM): ASM is an application firewall that provides comprehensive, proactive, application-layer protection against both
+generalized and targeted attacks. Combining a positive security model (“deny all unless allowed”) with signature-based detection, ASM can prevent “day-zero” attacks in addition to known security threats.
+
+
+
+•Link Controller: For organizations with more than one Internet Service Provider (ISP), Link Controller monitors the health and availability of each
+connection. In the event of a failure, traffic is dynamically directed across other available links so users and external customers stay connected. Link Controller includes an optional compression feature that reduces WAN link bandwidth for lower
+ISP costs and cuts down on bandwidth bottlenecks for faster application delivery.
+
+
+
+•WAN Optimization Manager (WOM): WOM integrates application delivery with WAN optimization technologies, enabling traditional acceleration functions,
+such as SSL offloading, compression, caching, and traffic prioritization, to combine with optimization technologies like symmetric adaptive compression and application quality of service. As the foundation for site-to-site communication, iSessions,
+a basic feature of TMOS, allows any two BIG-IP devices to be deployed symmetrically, creating a secure site-to-site connection, improving transfer rates and bandwidth usage, and offloading applications for more efficient data center to data center
+WAN communication.
+
+
+
+•WebAccelerator: WebAccelerator speeds web transactions by optimizing individual network object requests, connections, and end-to-end transactions from
+the browser through to databases. WebAccelerator enhances web application performance from any location, speeding up interactive performance, improving download times, utilizing bandwidth more efficiently, and dramatically reducing the cost and
+response time of delivering Web-enabled applications to distributed users where it is not possible to deploy an end-point device. Devices running WebAccelerator can also be placed at key remote locations to provide acceleration to end-users above
+and beyond TCP optimizations and HTTP compression.
+
+
+
+•Message Security: Reputation-based, perimeter anti-spam solution that extends security for message applications to the edge of the corporate network
+and eliminate unwanted e-mail.
+
+Virtual ADCs
+
+Currently, Local Traffic Manager (LTM), Global Traffic Manager (GTM), Application Security Manager (ASM), Access Policy Manager (APM), and WAN Optimization Manager (WOM) are also available as virtual
+editions of BIG-IP, designed to run on standard servers and to supplement our other products in hybrid environments. BIG-IP VEs also give our customers a cost-effective way to test and configure our products and help determine which systems and
+modules will best meet their specific needs.
+
+
+
+
+
+
+
+Hardware
+
+All of our purpose-built hardware platforms are designed to enhance the performance of our software. Currently we offer two lines of ADN products: our BIG-IP family of ADCs; and our scalable,
+chassis-based VIPRION ADCs. Both BIG-IP and VIPRION run TMOS and support all of our product software modules. We also sell specialty appliances that integrate specific software services and are only available as standalone products.
+
+Data sheets for all of our hardware platforms are available in the products section of our website.
+
+BIG-IP Application Delivery Controllers
+
+Products in our family of BIG-IP application delivery controllers differ primarily in their performance characteristics resulting from the hardware components and configurations that make up each system.
+Our current family of BIG-IP appliances includes BIG-IP 1600, BIG-IP 3600, BIG-IP 3900, BIG-IP 6900, BIG-IP 8900, BIG-IP 8950, and BIG-IP 11050.
+
+VIPRION Application Delivery Controllers
+
+Currently we offer two products
+in our line of chassis-based application delivery controllers. VIPRION 4400 and VIPRION 2400 both consist of a chassis with slots for one to four blades, each equipped with two dual-core processors. VIPRION’s unique architecture distributes
+traffic across all available processors and allows customers to add or remove blades without disrupting traffic. It also helps customers simplify their networks by consolidating ADCs, saving management costs as well as power, space, and cooling in
+the datacenter.
+
+VIPRION 4400 was introduced in January 2008 and has remained the high end of our application delivery
+controller product family in both performance and price. The current P200 blades, introduced in January 2010, doubled the overall performance of the platform.
+
+VIPRION 2400, introduced in June 2011, was designed to make the VIPRION architecture available to customers who want the features and benefits of the platform but do not require the top-end performance of
+VIPRION 4400. A VIPRION 2400 chassis with one blade has a retail price comparable to the mid-range of our BIG-IP product family. A fully-loaded VIPRION 2400 (chassis with four blades) delivers approximately half the throughput of a fully-loaded
+VIPRION 4400 at roughly half the price.
+
+Both VIPRION products support all the features, functions and capabilities of TMOS
+Version 11.0, including clustered multiprocessing (CMP), virtual clustered multiprocessing (vCMP), and device service clustering (DSC).
+
+Specialty Appliances
+
+FirePass
+
+FirePass appliances provide SSL VPN access for remote users of IP networks and any applications connected to those networks from any
+standard Web browser on any device. The components of FirePass include a dynamic policy engine, which manages user authentication and authorization privileges, and special components that enable corporations to give remote users controlled access to
+the full array of applications and resources within the network. FirePass also supports Application Ready Access, providing full reverse-proxy services for market-leading application portals including those of SAP, Oracle, Microsoft, and others.
+
+The FirePass appliance is available in three configurations — FirePass 1200, FirePass 4100 and FirePass 4300 —
+designed to support up to 2,000 concurrent users. In addition, we offer FirePass Virtual Edition, which runs in a VMware virtual environment.
+
+Edge Gateway
+
+BIG-IP Edge Gateway is an advanced remote access product that
+provides context-aware, policy controlled, secure remote access to applications at LAN speed. Edge Gateway integrates our SSL VPN remote access technology with application acceleration and optimization services at the edge of the network, giving
+customers remote access, access control, site-to-site security, and application acceleration on one efficient, scalable, cost-effective platform. An optional endpoint security service validates client devices with policy to protect organizations
+from viruses or malware infections, accidental data loss, and rogue device access.
+
+
+
+
+
+
+
+Edge Gateway is available as a standalone solution on the BIG-IP 1600, 3600, 3900, 6900 and
+8900 platforms.
+
+Enterprise Manager
+
+Enterprise Manager provides a single, centralized management console for our application delivery controllers. Enterprise Manager allows customers with dozens or hundreds of our products to discover and
+view those products in a single window, and to upgrade or modify the software on those products simultaneously. This lowers the cost and simplifies the task of deploying, managing and maintaining our products and reduces the likelihood of error when
+blanket changes are implemented.
+
+Enterprise Manager is available on three hardware platforms — Enterprise Manager 4000,
+Enterprise Manager 3000, and Enterprise Manager 500 — and as a virtual edition.
+
+Data Solutions
+
+F5’s data solutions products address many of the problems associated with managing today’s rapidly expanding file storage
+infrastructure. The ARX product family is a series of high performance, enterprise-class, intelligent file virtualization devices that simplify the management of file storage environments and lower total storage costs by automating data management
+tasks and eliminating the disruption associated with storage management operations. Unique capabilities of our ARX products include:
+
+
+
+•Non-disruptive Data Migration. Automated movement of files between heterogeneous storage devices without affecting access or requiring client
+reconfiguration.
+
+
+
+•Automated Storage Tiering.Automated storage of data on tiers of heterogeneous storage devices.
+
+
+
+•Dynamic Load-balancing.Dynamic distribution of files across multiple file storage devices, eliminating “hotspots” or
+bottlenecks.
+
+
+
+•Efficient Data Replication.Replication of files between heterogeneous storage platforms for efficient and cost effective disaster recovery
+and centralized backup applications.
+
+
+
+•Centralized Data Management.Data Manager, a Windows-based reporting tool, simplifies file virtualization deployments and helps
+organizations monitor multiple file storage resources through a centralized and extensible storage management platform.
+
+Currently, the ARX series includes three products. ARX 500 and ARX 2000 are stand-alone devices that can support up to 600 and 6,000 users, respectively. ARX 4000 is a fixed form-factor device supporting
+10 gigabit Ethernet, capable of managing more than 2 billion files, and able to support up to 12,000 users. ARX is also available in a virtual edition.
+
+To enable our customers to take advantage of inexpensive cloud storage alternatives, we offer ARX Cloud Extender, a software solution that works in concert with the automated storage tiering capabilities
+of ARX to extend the file storage infrastructure seamlessly from the data center to the cloud.
+
+Product Development
+
+We believe our future success depends on our ability to maintain technology leadership by continuing to improve our products and by
+developing new products to meet the changing needs of our customers. Our product development organization employs a standard process for the development, documentation and quality control of software and systems that is designed to meet these goals.
+This process includes working with our business development and marketing teams, product managers, customers and partners to identify new or improved solutions that meet the evolving needs of our addressable markets.
+
+Our principal software engineering team is located in our headquarters in Seattle, Washington. Product development for FirePass, APM, WOM
+and WebAccelerator is located in San Jose, California. ASM product development is located in Tel Aviv, Israel. ARX product development is located in Lowell, Massachusetts. Our hardware engineering team is located in Spokane, Washington. In
+addition, we maintain a dedicated facility for product testing and quality control in Tomsk, Russia. Members of all our product development teams collaborate closely with one another to ensure the interoperability and performance of our hardware and
+software systems.
+
+
+
+
+
+
+
+During the fiscal years ended September 30, 2011, 2010 and 2009, we had research and
+product development expenses of $138.9 million, $118.3 million, and $103.7 million, respectively.
+
+Customers
+
+Our customers include a wide variety of enterprise customers and service providers among Fortune 1000 and Business Week Global
+1000 companies, including those in technology, telecommunications, financial services, transportation, education, manufacturing and healthcare, along with government customers. In fiscal year 2011, international sales represented 41.2% of our
+net revenues. Refer to Note 10 of our consolidated financial statements included in this Annual Report on Form 10-K for additional information regarding our revenues by geographic area.
+
+Sales and Marketing
+
+Sales
+
+We sell our products and services to large enterprise customers and service providers through a variety of channels,
+including distributors, value-added resellers (VARs) and systems integrators. A substantial amount of our revenue for fiscal year 2011 was derived from these channel sales. Our sales teams work closely with our channel partners and also sell our
+products and services directly to major accounts.
+
+F5 sales teams.Our inside sales team generates and qualifies
+leads for regional sales managers and helps manage accounts by serving as a liaison between the field and internal corporate resources. Our field sales personnel are located in major cities in four sales regions: the Americas (primarily the United
+States); Europe, the Middle East, and Africa (EMEA); Japan; and the Asia Pacific region (APAC). Field sales personnel work closely with our channel partners to assist them, as necessary, in the sale of our products and services to their customers.
+We also sell our products and services directly to customers, primarily large enterprises, whose accounts are managed by our major account services team. Field systems engineers support our regional sales managers and channel partners by
+participating in joint sales calls and providing pre-sale technical resources as needed.
+
+Distributors and
+VARs.As a key component of our sales strategy, we have established relationships with a number of large national and international distributors, local and specialized distributors and VARs. We derive a majority of our product sales from
+these distributors and VARs.
+
+Our agreements with these channel partners are not exclusive and do not prevent them from
+selling competitive products. These agreements typically have terms of one year with no obligation to renew, and typically do not provide for exclusive sales territories or minimum purchase requirements.
+
+For fiscal year 2011, sales to two of our worldwide distributors, Avnet Technology Solutions and Ingram Micro, represented 18.1% and
+10.7% of our total revenues, respectively. Our agreements with these distributors are standard, non-exclusive distribution agreements that renew automatically on an annual basis and can be terminated by either party with 30 days prior written
+notice. The agreements grant Avnet Technology Solutions and Ingram Micro the right to distribute our products to resellers in North America and certain other territories internationally, with no minimum purchase requirements.
+
+Systems integrators.We also market our products through strategic relationships with systems integrators, including Dell
+Services, HP Enterprise Services and IBM Global Services, who include our products as core components of application or network-based solutions they deploy for their customers. In most cases, systems integrators do not directly purchase our products
+for resale to their customers. Instead they typically recommend our products as part of broader solutions, such as enterprise resource planning (ERP) or customer relationship management (CRM) solutions that incorporate our products for high
+availability and enhanced performance.
+
+Marketing
+
+Our marketing strategy is driven by the belief that our continued success depends on our ability to understand and anticipate the dynamic needs of our addressable markets and to develop valuable solutions
+that meet those needs. In line with this belief, our marketing organization works directly with customers, partners and our product development teams to identify and create innovative solutions to further enhance our leadership position. In
+addition, our business development team, which is a component of our marketing organization, closely monitors technology companies in adjacent and complementary markets for opportunities to acquire or partner with those whose solutions are
+complementary to ours and could enable us to expand our addressable market.
+
+
+
+
+
+
+
+Another key component of our marketing strategy is to develop and expand our iControl
+partnerships. Working closely with our partners, we have developed customizable solutions templates called iApps that help ensure the successful deployment and delivery of their applications over the network. These solution templates have been
+integrated into TMOS Version 11.0 and allow customers to configure our products quickly and easily to optimize the performance of specific applications from major software vendors such as Microsoft, Oracle, SAP and VMware.
+
+To support the growing number of developers using our products, including network and application architects, we continue to promote and
+expand DevCentral, our on-line community website that provides technical resources to customers, prospects and partners wanting to extend and optimize F5 solutions using iRules. A key aspect of DevCentral is an on-line forum where developers as well
+as application and network architects discuss and share solutions they have written with iRules. At the end of fiscal year 2011, DevCentral had more than 87,500 registered members.
+
+We also engage in a number of marketing programs and initiatives aimed at promoting our brand and creating market awareness of our
+technology and products. These include actively participating in industry trade shows and joint marketing events with channel and technology partners, and briefing industry analysts and members of the trade press on our latest products, business
+relationships and technology partnerships. In addition, we market our products to chief information officers and other information technology professionals through targeted advertising, direct mail and high-profile Web events.
+
+Backlog
+
+At the end of
+fiscal years 2011 and 2010, we had product backlog of approximately $40.9 million and $50.3 million, respectively. Backlog represents orders confirmed with a purchase order for products to be shipped generally within 90 days to
+customers with approved credit status. Orders are subject to cancellation, rescheduling by customers or product specification changes by customers. Although we believe that the backlog orders are firm, purchase orders may be cancelled by the
+customer prior to shipment without significant penalty. For this reason, we believe that our product backlog at any given date is not a reliable indicator of future revenues.
+
+Customer Service and Technical Support
+
+We believe that our ability to
+provide consistent, high-quality customer service and technical support is a key factor in attracting and retaining large enterprise customers. Accordingly, we offer a broad range of support services that include installation, phone support,
+hardware repair and replacement, software updates, online tools, consulting and training services.
+
+We provide these services
+directly to end users and also utilize a multi-tiered support model, leveraging the capabilities of our channel partners when applicable. Our technical support staff is strategically located in regional service centers to support our global customer
+base.
+
+Prior to the installation of our products, our services personnel work with customers to analyze their network needs
+and determine the best way to deploy our products and configure product features and functions to meet those needs. Our services personnel also provide on-site installation and training services to help customers make optimal use of product features
+and functions.
+
+Our customers typically purchase a one-year maintenance contract which entitles them to an array of services
+provided by our technical support team. Maintenance services provided under the contract include online updates, software error correction releases, hardware repair and replacement, and, in the majority of cases, round-the-clock call center support.
+Free updates of our software are available to customers with a current maintenance contract. Our technical support team also offers seminars and training classes for customers on the configuration and use of products, including local and wide area
+network system administration and management. In addition, we have a professional services team able to provide a full range of fee-based consulting services, including comprehensive network management, documentation and performance analysis, and
+capacity planning to assist in predicting future network requirements.
+
+As part of our maintenance service, we offer an
+online, automated, self-help customer support function called “Ask F5” that provides answers to many commonly asked questions, allowing customers to get information and solve problems quickly while significantly reducing the number of
+calls to our support desk. This enables us to provide comprehensive customer support while keeping our support-related expenses at a manageable, consistent level. We also offer an online service called iHealth, which allows
+
+
+
+
+
+
+
+customers to diagnose up-to-the-minute snapshots of their BIG-IP systems. Diagnoses include tailored feedback about configuration issues or code defects, a description of the issue,
+recommendations for resolution, and a link to further information in the AskF5™ Knowledge Base.
+
+Manufacturing
+
+We outsource the manufacturing of our pre-configured hardware platforms to third party contract manufacturers for assembly according to
+our specifications.
+
+Flextronics manufactures our ADC product line, and Sanmina-SCI manufactures our ARX product line. The
+subcontracting activity at Flextronics and Sanmina-SCI encompasses prototype builds, full production and direct fulfillment. Our contract manufacturers perform the following activities on our behalf; material procurement, PCB assembly and test,
+final assembly, system test, quality control, direct shipment and warranty repairs. We provide a rolling forecast that allows our contract manufacturers to stock component parts and other materials, plan capacity and build finished goods inventory
+in anticipation of end user demand. Each of the contract manufacturers procures components in volumes consistent with our forecast, necessary to assemble the products and tests the products according to our specifications. Products are then shipped
+to our distributors, value-added resellers, or end users. Generally, we do not own the components. Title to the products transfers from the contract manufacturers to us and then to our customers upon delivery at a designated shipment location. If
+the components are unused or the products are not sold within specified periods of time, we may incur carrying charges or obsolete material charges for components that our contract manufacturers purchased to build products to meet our forecast or
+customer orders.
+
+Hardware platforms for our products consist primarily of commodity parts and certain custom components
+designed and approved by our hardware engineering group. Most of our components are purchased from sources which we believe are readily available from other suppliers. However, several components used in the assembly of our products are purchased
+from a single or limited source.
+
+During fiscal year 2010, we transitioned certain sub-assembly and testing processes of our
+BIG-IP products from Flextronics’s facilities in Milpitas, California, to the Flextronics facility in ZhuHai, China. All sub-assemblies are configured and final tested at Flextronics’s Milpitas, California for distribution to our end
+users.
+
+Competition
+
+The expanding capabilities of our product offerings have enabled us to address a growing array of market opportunities, many of which are outside the bounds of the application delivery networking market
+as defined and measured by industry analysts such as Gartner Group, Dell’Oro and others. In addition to server load-balancing and other functions normally associated with application delivery, our suite of integrated product modules has
+expanded our addressable market into security, WAN optimization, and policy management, where we compete with a growing number of companies not included among traditional ADC vendors. The ability to create custom network services using iRules has
+also enabled us, our customers, and our partners to design solutions to problems for which there is no off-the-shelf solution. As a result, we believe the traditional definitions of our market do not encompass all of the features, functions and
+capabilities of our products or accurately represent the addressable market for those products.
+
+Within the more narrowly
+defined traditional ADC market, several companies sell server load-balancing products. These include Brocade Communications Systems, Inc., Cisco Systems, Inc., Citrix Systems, Inc., Radware Ltd., and a number of smaller competitors: A10 Networks,
+Array Networks, Inc., Barracuda Networks, Inc., and Riverbed Technology, which recently acquired Zeus Technology Ltd.
+
+While
+file virtualization remains an early-stage market, we believe our ARX products are unique in terms of technology and functionality and are well positioned within this emerging market.
+
+The principal competitive factors in the markets in which we compete include product features and performance, customer support, brand
+recognition, the scope of distribution and sales channels and pricing. Certain of our competitors have and may in the future adopt aggressive pricing policies to gain market share. However, because of the superior performance, broad functionality
+and unique capabilities of our products, which have resulted in high levels of customer satisfaction and growing brand awareness, we believe that we can and will compete effectively against such pricing policies.
+
+
+
+
+
+
+
+Intellectual Property
+
+We rely on a combination of patent, copyright, trademark and trade secret laws and restrictions on disclosure to protect our intellectual property rights. We have obtained 95 patents in the United States,
+10 foreign patents and have applications pending for various aspects of our technology. Our future success depends in part on our ability to protect our proprietary rights to the technologies used in our principal products. Despite our efforts
+to protect our proprietary rights, unauthorized parties may attempt to copy aspects of our products or to obtain and use trade secrets or other information that we regard as proprietary. In addition, the laws of some foreign countries do not protect
+our proprietary rights as fully as do the laws of the United States. Any issued patent may not preserve our proprietary position, and competitors or others may develop technologies similar to or superior to our technology. Our failure to enforce and
+protect our intellectual property rights could harm our business, operating results and financial condition.
+
+In addition to
+our own proprietary software, we incorporate software licensed from several third-party sources into our products. These licenses generally renew automatically on an annual basis. We believe that alternative technologies for these licenses are
+available both domestically and internationally.
+
+Employees
+
+As of September 30, 2011, we had 2,488 full-time employees, including 610 in product development, 1,080 in sales and marketing, 528 in professional services and technical support and 270 in
+finance, administration and operations. None of our employees is represented by a labor union. We have experienced no work stoppages and believe that our employee relations are good.
+
+Executive Officers of the Registrant
+
+The following table sets forth
+certain information with respect to our executive officers as of November 22, 2011:
+
+
+
+NameAgePositionJohn McAdam60President, Chief Executive Officer and DirectorMark Anderson49Senior Vice President of Worldwide SalesJeffrey A. Christianson54Senior Vice President and General CounselEdward J. Eames53Senior Vice President of Business OperationsDan Matte45Senior Vice President of Marketing and Business DevelopmentAndy Reinland47Senior Vice President and Chief Finance OfficerManuel F. Rivelo47Senior Vice President of Security and Strategic SolutionsJohn Rodriguez51Senior Vice President and Chief Accounting OfficerKarl Triebes44Senior Vice President of Product Development and Chief Technical Officer
+
+John McAdamhas served as our President, Chief Executive Officer and a director since July 2000.
+Prior to joining us, Mr. McAdam served as General Manager of the Web server sales business at International Business Machines Corporation from September 1999 to July 2000. From January 1995 until August 1999, Mr. McAdam served as the
+President and Chief Operating Officer of Sequent Computer Systems, Inc., a manufacturer of high-end open systems, which was sold to International Business Machines Corporation in September 1999. Mr. McAdam holds a B.S. in Computer Science from
+the University of Glasgow, Scotland.
+
+Mark Andersonhas served as our Senior Vice President of Worldwide Sales since
+October 2007. He joined F5 Networks in October 2004 as Vice President of North American Sales. Prior to joining F5, Mr. Anderson served as Executive Vice President of North American Sales at Lucent Technologies from 2003 to 2004. From 2002
+through 2003, Mr. Anderson was Vice President of Business Development at RadioFrame Networks. From 1997 to 2001, he served as a Sales Director at Cisco Systems, Inc. From 1986 to 1996, he was Vice President of Western U.S. Sales at
+Comdisco. Mr. Anderson holds a B.A. in Business and Economics from York University in Toronto.
+
+Jeffrey A.
+Christiansonhas served as our Senior Vice President and General Counsel of the Company since December 2006. From February 2000 to July 2006, Mr. Christianson was Sr. Vice President and General Counsel of Western Wireless Corporation, a
+wireless service provider. From March 1996 to January 2000, Mr. Christianson served as Sr. Vice President of Business Development, General Counsel and Corporate Secretary at Wizards of the Coast, Inc., a game and software company. From
+September 1992 to March 1996, he served as General Counsel and Secretary of Heart Technology, Inc., a medical device company. From September 1990 to September 1992, he was Vice-President and General Counsel of Spider Staging Corporation and Vice
+President of Administration and Corporate Counsel for Flow International Corporation after its acquisition of Spider Staging Corporation. Mr. Christianson holds a B.A. from Whitman College and a J.D. from the University of Washington, and
+serves on the Board of Overseers of Whitman College and the Board of Directors of the Humane Society for Seattle/King County.
+
+
+
+
+
+
+
+Edward J. Eameshas served as our Senior Vice President of Business Operations since
+January 2001 and as our Vice President of Professional Services from October 2000 to January 2001. From September 1999 to October 2000, Mr. Eames served as Vice President of e-Business Services for International Business Machines Corporation.
+From June 1992 to September 1999, Mr. Eames served as the European Services Director and the Worldwide Vice President of Customer Service for Sequent Computer Systems, Inc., a manufacturer of high-end open systems. Mr. Eames holds a Higher
+National Diploma in Business Studies from Bristol Polytechnic and in 1994 completed the Senior Executive Program at the London Business School.
+
+Dan Mattehas served as our Senior Vice President of Marketing since June 2004, and as Vice President of Product Marketing and Management from March 2002 through May 2004. He served as our Senior
+Director of Product Marketing and Management from February 2001 through February 2002. From March 1999 to February 2001, Mr. Matte served as our Director of Product Management. Mr. Matte joined F5 in February 1997. He holds a Bachelor of
+Commerce from Queens’s University and an MBA from the University of British Columbia.
+
+Andy Reinlandhas served as
+our Senior Vice President and Chief Finance Officer since October 2005. Mr. Reinland joined F5 in 1998, serving as a senior financial analyst and, most recently, Vice President of Finance. Prior to joining F5, Mr. Reinland was Chief
+Financial Officer for RTIME, Inc., a developer of real-time 3D software for Internet applications, which was acquired by Sony. Mr. Reinland started his career in public accounting. Mr. Reinland holds a B.A. in Business from Washington
+State University.
+
+Manuel F. Rivelohas served as Senior Vice President of Security and Strategic Solutions at F5
+Networks since October 2011. Prior to joining F5, Mr. Rivelo served as Senior Vice President — Engineering Operations and Systems for Cisco Systems, Inc. During his 19-year career at Cisco, Rivelo was a member of the Cisco Development
+Counsel, the senior leadership team of the Cisco Development Organization. While at Cisco, he also served as head of the worldwide systems engineering organization. His managerial career spans over 25 years in product engineering, strategic
+planning, business operations, field engineering sales and IT. Rivelo serves on the board of directors of Apollo Group, Inc., one of the world’s largest private education providers. He holds a bachelor’s and master’s degree in
+Electrical Engineering from the Stevens Institute of Technology.
+
+John Rodriguezhas served as our Senior Vice
+President and Chief Accounting Officer since October 2005. For SEC reporting purposes, Mr. Rodriguez is the principal financial officer. Rodriguez joined F5 in 2001 as Corporate Controller. His most recent position held was Vice President and
+Corporate Controller. Prior to F5, Mr. Rodriguez was Vice President and Chief Financial Officer of CyberSafe, a security solutions company, and Senior Director of Finance and Operations at Mosaix, which was acquired by Lucent Technologies.
+Mr. Rodriguez started his career in public accounting. Mr. Rodriguez holds a B.A. in Business from the University of Washington.
+
+Karl Triebeshas served as our Senior Vice President of Product Development and Chief Technical Officer since August 2004. Prior to joining us, Mr. Triebes served as Chief Technology Officer
+and Vice President of Engineering of Foundry Networks, Inc. from January 2003 to August 2004. From June 2001 to January 2003, he served as Foundry’s Vice President of Hardware Engineering. From May 2000 to June 2001, Mr. Triebes was Vice
+President of Engineering at Alcatel U.S.A., a telecommunications company. From December 1999 to May 2000, he was Assistant Vice President of Newbridge Networks Corp., a networking company subsequently acquired by Alcatel. Mr. Triebes holds a
+B.S. in Electrical Engineering from San Diego State University.
+
