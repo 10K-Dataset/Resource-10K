@@ -1,0 +1,1175 @@
+
+10-K
+
+
+PAGE 1
+===============================================================================
+                                UNITED STATES
+                    SECURITIES AND EXCHANGE COMMISSION
+                           Washington, D.C. 20549
+
+                                  FORM 10-K
+(Mark One)
+[X]  Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange 
+     Act of 1934 (Fee Required) For the fiscal year ended December 31, 1994, OR
+
+[ ]  Transition Report Pursuant to Section 13 or 15(d) of the Securities 
+     Exchange Act of 1934 (No Fee Required) For the transition period 
+     from____to____
+
+Commission File Number 0-6217
+
+                              INTEL CORPORATION
+           (Exact name of registrant as specified in its charter)
+               Delaware                                    94-1672743
+   (State or other jurisdiction of                      (I.R.S. Employer
+    incorporation or organization)                     Identification No.)
+
+     2200 Mission College Boulevard, Santa Clara, California, 95052-8119
+             (Address of principal executive offices, Zip Code)
+
+      Registrant's telephone number, including area code (408) 765-8080
+
+          Securities registered pursuant to Section 12(b) of the Act:
+
+     Title of each class                             Name of each exchange on
+                                                         which registered
+                                      NONE
+
+            Securities registered pursuant to Section 12(g) of the Act:
+
+                         Common Stock, $.001 par value
+                1998 Step-Up Warrants to Purchase Common Stock
+
+Indicate by check mark whether the registrant (1) has filed all reports 
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the 
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. YES__X__NO_____
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 
+of Regulation S-K is not contained herein, and will not be contained, to the 
+best of registrant's knowledge, in definitive proxy or information statements 
+incorporated by reference in Part III of this Form 10-K or any amendment to 
+this Form 10-K. [X]
+
+                  Aggregate market value of voting stock held
+          by non affiliates of the registrant as of February 25, 1995
+
+                                 $30.43 billion
+
+   414.5 million shares of Common Stock outstanding as of February 25, 1995
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+(1)     Portions of Annual Report to Stockholders for fiscal year ended 
+        December 31, 1994-Items  5, 6, 7, 8 and 14.
+(2)     Portions of Proxy Statement dated March 14, 1995 -Items 10, 11, 12, 
+        and 13.
+===============================================================================
+
+
+
+PAGE 2
+                                   PART I
+                                   ------
+ITEM 1. BUSINESS
+
+INDUSTRY
+
+Intel Corporation and its subsidiaries (collectively called "Intel," the 
+"Company" or the "Registrant") operate in one dominant industry segment. The 
+Company designs, develops, manufactures and markets microcomputer components 
+and related products at various levels of integration.
+
+Intel components consist of silicon-based semiconductors etched with complex
+patterns of transistors. Each one of these integrated circuits (ICs) can 
+perform the functions of thousands--even millions--of individual transistors, 
+diodes, capacitors and resistors.
+
+
+PRODUCTS
+
+Intel's product strategy is twofold: the Company offers OEMs (original 
+equipment manufacturers) a wide range of PC (personal computer) building-block
+products to meet their needs, and offers PC users products that expand the 
+capabilities of their systems and networks.
+
+The Company's major products include microprocessors, chipsets, embedded 
+processors and microcontrollers, flash memory chips, computer modules and 
+boards, network and communications products, personal conferencing products and
+scalable parallel processing computers.
+
+MICROPROCESSORS. A microprocessor is the central processing unit of a PC. It 
+processes system data and controls other devices in the system, acting as the 
+brains of a PC. Intel's 32-bit processors include the flagship Pentium(R)
+processor family and the Intel486(TM) microprocessor family. Pentium processors
+are the latest extension of an architecture that is pervasive worldwide; the 
+market research firm Dataquest estimates that approximately 134 million PCs 
+based on the Intel architecture are currently in use (compared to fewer than 20 
+million PCs based on other architectures). The Company's strategy is to develop
+products in the Intel architecture family that are compatible with the 
+installed base of software applications.
+
+Intel's developments in the art of semiconductor design and manufacturing have 
+made it possible to decrease the feature size of circuits etched into silicon.
+This permits a greater number of transistors to be fit on each silicon wafer,
+resulting in microprocessors that are smaller, faster running, more energy 
+efficient, and less expensive to make. These developments have also led to 
+increasingly complex designs. Despite rigorous testing standards, the Company
+cannot give assurances that any particular design will be flawless.
+
+The Pentium processor family, fully binary compatible with previous generations
+of the Intel architecture, was introduced in 1993 with 60- and 66-MHz versions
+In 1994 Intel extended the family with 3.3V 75-, 90- and 100-MHz Pentium 
+processors with enhanced power management features and performance of up to 166
+MIPS.  These processors have enabled a broad variety of mainstream mobile, 
+desktop, and server systems based on the Pentium processor, and the PC market 
+is transitioning rapidly to Pentium processor-based systems.  Intel sells its 
+microprocessor products, including Pentium processors, at various levels of 
+integration (chips, boards, systems and modules) depending on the OEM's 
+requirements (see "Computer Modules and Boards").  Intel expects to introduce
+higher performance versions of the Pentium processor in 1995.
+
+In early 1995, Intel previewed its sixth-generation processor, codenamed the 
+P6, at the International Solid State Circuits Conference.  The 5.5-million-
+transistor P6, initially operating at 133 MHz, is projected to deliver 
+approximately two times the performance of the 100-MHz Pentium processor while
+maintaining binary software compatibility with previous generations of the 
+Intel architecture.  P6 technology is expected to deliver workstation 
+performance on the desktop while also enabling a new generation of 
+multiprocessor servers. Systems based on the P6 processor are expected to be 
+available in the second half of 1995.
+
+
+
+PAGE 3
+Within the Intel486 microprocessor product family, certain designations such as
+SX, DX, DX2 and DX4 differentiate the processors from one another. SX, DX and 
+DX2 are used to designate the earlier generations of the family. Introduced
+in 1994, the IntelDX4(TM) processor, the fastest member of the Intel486 
+microprocessor family, is popular in both entry-level home and business desktop
+systems and in mobile computers.  The IntelDX4 processor family offers up to 50
+percent more performance than the 66-MHz IntelDX2(TM) microprocessor.
+
+The OverDrive(R) family of processors provides CPU performance enhancements to 
+Intel486 and Pentium processor-based systems. In early 1995, Intel introduced
+the Pentium OverDrive processor technology to Intel486 microprocessor-based 
+systems.
+
+Sales of the Intel486 microprocessor family comprised a majority of the 
+Company's revenues and a substantial majority of its gross margin in 1992, 
+1993 and 1994.  A significant and growing portion of the Company's sales 
+and margins were derived from sales of the Pentium processor family in 1994.  
+As part of its strategic goal to double processor performance at major system 
+price points, the Company cut microprocessor prices aggressively and 
+systematically in 1994, and this trend may continue in 1995. Future distortion 
+of price maturity curves could occur as imitation products enter the market 
+in significant volume or alternative architectures gain market acceptance. 
+
+The outlook for Pentium processor shipments in 1995 is dependent on several 
+business factors, including the manufacturing ramp and market demand. The 
+Pentium processor family comprised 23% of the Company's microprocessor unit 
+shipments to the desktop market segment in the fourth quarter of 1994. If 
+current trends continue, quarterly unit volumes of the Pentium processor family
+could surpass those of the Intel486 microprocessor family during 1995.
+
+CHIPSETS. Based on the industry accepted PCI bus, the Company's core logic 
+chipsets support and extend the graphic and other capabilities of Intel486 and 
+Pentium processors. Early in 1995, Intel introduced the Triton chipset, a 
+third-generation Pentium processor chipset targeted at 75-, 90- and 100-MHz 
+systems.
+
+EMBEDDED PRODUCTS. Embedded chips provide the computing power in devices other
+than PCs and workstations. Embedded products are dedicated to specific 
+application functions and are found in wireless communications, printers, 
+copiers, fax machines, VCRs, cable converter boxes and other TV equipment, 
+commercial and military avionics, medical instrumentation, and factory 
+automation control products.
+
+Intel's embedded product line consists of 32-bit processors, including the 
+i960(R) processor family, which are the best selling RISC (reduced instruction 
+set computing) chips in the world in terms of units sold (according to 
+Dataquest); embedded Intel386(TM) processors that primarily use the DOS 
+operating system; the 80C186 microprocessor family; 16-bit microcontrollers, 
+such as the 8096 and the 80C196; and 8-bit microcontrollers, such as the MCS(R)
+51 microcontroller family. The Company introduced several embedded processor 
+products in 1994, including the 80960JX family and the 80C196NP 16-bit 
+microcontroller.
+
+FLASH MEMORY CHIPS. Memory components are used to store computer programs and 
+data entered by users. Flash memories are nonvolatile and do not require 
+power to retain information.
+
+Intel supplies a broad line of flash memory components that are used across a 
+broad range of applications, including BIOS storage in many personal computers,
+printers and networking devices, medical instrumentation and industrial 
+controllers.
+
+In 1994, Intel introduced SmartVoltage memories, providing users with increased
+flexibility in optimizing their systems for lower power consumption and higher
+performance. Manufacturers of wireless communications devices, handheld 
+terminals and other battery-operated devices have seen improved systems value 
+from these chips.  The Company also introduced the 16 Mbit Flash RAM chip 
+enabling non volatile, updatable memory for embedded code storage plus the 
+industry's highest speed execution.  This product enabled many system designers
+to replace two kinds of memory--DRAM and ROM--with one: Flash RAM.
+
+
+
+PAGE 4
+COMPUTER MODULES AND BOARDS.  Hundreds of microcomputer platforms and single-
+board computers based on Intel components are now widely accepted as basic 
+building blocks for technical and commercial applications. Many OEMs build 
+their own PCs, microcomputers, real-time control systems and other products 
+based on these modules.  
+
+A significant portion of Intel's Pentium processors are sold at higher levels 
+of integration incorporated into boards, systems and modules to OEMs. OEM 
+customers buy at these levels of integration to accelerate the time to get 
+their products to market. With the growth of the Pentium processor business, 
+Intel has become one of the largest manufacturers of populated PC motherboards.
+
+The Company cannot always predict the level of integration at which customers 
+will request microprocessor products. In addition, the manufacture of boards 
+and systems requires DRAMs and other components that may be in short supply.  
+Although the Company has entered into supply agreements with manufacturers of 
+these components, there can be no assurances of adequate supply.
+
+NETWORK AND COMMUNICATIONS PRODUCTS.  Sold to PC users through retail channels,
+these hardware and software products improve the performance or capabilities of
+PC systems and networks.
+
+Intel's networking products are designed to make PC networks easier for LAN 
+administrators to install and manage. The architecture that delivers this 
+management capability is called Smart Network Services.
+
+Intel's networking products consist of LAN products, such as the 
+EtherExpress family of adapters; and network management products, including
+the LANDesk(R) product line.
+
+Supporting the Smart Network Services strategy are new or upgraded LAN 
+products: EtherExpress(TM) Pro adapters that use flash memory for one-step 
+installation and configuration; EtherExpress Pro/100, a 100 MB ethernet adapter 
+that supports the new 100 MB standard 100-based T; StorageExpress(TM) back up 
+servers;  NETSatisFAXtion(R) software; NetportExpress(TM) print servers; and 
+LANDeskManager Suite V. 2.0 software, which combines management of desktop 
+systems, servers, wire segments and services on LANs.
+
+PERSONAL CONFERENCING PRODUCTS. PC users can install Intel software and cards 
+that let two users view and manipulate the same documents simultaneously and, 
+in some cases, see each other. Personal conferencing products merge the power 
+of the PC with the real-time immediacy of the telephone.  In 1994, Intel
+introduced its ProShare(TM) personal conferencing products, including the 
+ProShare Video System 200 and ProShare Video System 150, which were certified 
+in 22 countries. During 1994, these products were updated to provide the 
+following enhancements: ISDN and LAN transfer support, increased video quality
+and expanded serviceability.
+
+SCALABLE PARALLEL PROCESSING SYSTEMS.  Scalable parallel processing (SPP) 
+systems use the processing power of multiple microprocessors working 
+simultaneously to solve large-scale computing, data and image manipulation 
+problems.  Intel offers SPP systems for both commercial and technical market 
+segments.  For the enterprise computing and interactive multimedia market 
+segments, Intel architecture-based server building blocks and platforms are 
+offered through OEMs.  For the supercomputer market segment, the Paragon( 
+MP XP/S massively parallel supercomputer is scalable from compute-intensive 
+embedded applications to systems with over 1,000 i860(R) XR multiprocessor 
+compute nodes. In 1994, a linked system based on two Intel Paragon XP/S 140 
+supercomputers beat the existing world record for computing performance by more
+than 50 percent.
+
+
+
+PAGE 5
+MANUFACTURING
+
+A majority of the Company's wafer production and some assembly and final 
+testing of VLSI (very large scale integration) components are conducted at 
+domestic Intel facilities in Chandler, Arizona; Aloha, Oregon; Santa Clara and 
+Folsom, California; and Rio Rancho, New Mexico.  A majority of Intel's 
+production of microcomputers and memory boards and systems takes place at 
+facilities in Hillsboro, Oregon and Las Piedras, Puerto Rico.
+
+Outside the United States, a significant portion of Intel's VLSI wafer 
+production, including some microprocessor fabrication, is conducted at plants 
+in Jerusalem, Israel and Leixlip, Ireland.  A significant portion of Pentium 
+processor production is conducted at the Ireland site.  Most of the Company's 
+VLSI component assembly and testing is performed at facilities in Penang, 
+Malaysia and Manila, Philippines.  A significant and growing portion of Intel's
+production of microcomputers and memory boards and systems is conducted at
+facilities in Leixlip, Ireland, and Penang, Malaysia.
+
+In general, if Intel were unable to assemble, test or perform wafer fabrication
+on its products abroad, or if air transportation between its foreign facilities
+and the United States were disrupted, there could be a materially adverse 
+effect upon the Company's operations.  In addition to normal manufacturing 
+risks, foreign operations are subject to certain additional exposures, 
+including political instability, currency controls and fluctuations, and tariff
+and import restrictions.  To date, Intel has not experienced significant 
+difficulties related to these foreign business risks.
+
+To augment capacity, Intel uses subcontractors to perform assembly of certain 
+products and wafer fabrication for certain VLSI components, primarily flash 
+memory and chipsets.  The Company cannot give assurances that it will be able 
+to fully satisfy demand for certain of these products.
+
+The manufacture of integrated circuits is a complex process.  Normal 
+manufacturing risks include errors in the fabrication process, defects in raw 
+materials, as well as other factors, all of which can affect yields.
+
+
+EMPLOYEES
+
+At December 31, 1994, the Company employed approximately 32,600 people 
+worldwide.
+
+
+SALES
+
+Most of Intel's products are sold or licensed through sales offices located 
+near major concentrations of users throughout the United States, Europe, Japan,
+Asia-Pacific and other parts of the world.  
+
+The Company also uses distributors (industrial and retail) and representatives 
+to distribute its products both in the United States and overseas.  Typically,
+distributors handle a wide variety of products, including those competitive 
+with Intel products, and fill orders for many customers.  Most of Intel's sales
+to distributors are made under agreements allowing for price protection and/or
+the right of return on unsold merchandise.  Sales representatives generally do 
+not offer directly competitive products, but may carry complementary items 
+manufactured by others.  Representatives do not maintain a product inventory; 
+instead, their customers place large quantity orders directly with Intel and 
+are referred to distributors for smaller orders.  Intel sold products to 
+thousands of customers worldwide in 1994, none of which represented more than 
+10% of total revenues.
+
+
+
+PAGE 6
+BACKLOG
+
+Intel's sales are made primarily pursuant to standard purchase orders for 
+delivery of standard products.  Intel has some agreements that give a customer 
+the right to purchase a specific number of products during a time period.  
+Although not generally obligating the customer to purchase any particular 
+number of such products, some of these agreements do contain billback clauses. 
+As a matter of industry practice, billback clauses are difficult to enforce.  
+The quantity actually purchased by the customer, as well as the shipment 
+schedules, are frequently revised during the agreement term to reflect changes 
+in the customer's needs.  In light of industry practice and experience, Intel 
+does not believe that such agreements are meaningful for determining backlog 
+figures.  Intel believes that only a small proportion of its order backlog is 
+noncancellable and that the dollar amount associated with the noncancellable 
+portion is immaterial.  Therefore, Intel does not believe that backlog as of 
+any particular date is necessarily indicative of future results.
+
+
+COMPETITION
+
+The Company competes in different product lines to various degrees on the basis
+of price, performance, availability and quality.  Many companies compete with 
+Intel and are engaged in the same basic fields of activity, including research 
+and development.  Both foreign and domestic, these competitors range in size 
+from large multinationals to smaller companies competing in specialized market 
+segments.  Intel is engaged in a rapidly advancing field of technology in which
+its ability to compete depends upon the continuing improvement of its products 
+and processes, continuing cost reductions, and the development of new products 
+to meet changing customer requirements.
+
+Prices decline rapidly in the semiconductor industry as unit volume grows, as 
+competition develops, and as production experience is accumulated.  In the 
+microcomputer and board and systems area, Intel competes with board 
+manufacturers and microprocessor-based computer manufacturers.  Some of these 
+competitors are also Intel customers.
+
+A number of competitors have developed products that imitate some of the 
+Company's key products.  Some of these products obtained market acceptance and 
+Intel's revenues and margins with respect to certain of these products were 
+adversely affected and may continue to be adversely affected.  Based on the 
+current case law, Intel's competitors can design microprocessors which are 
+compatible with Intel microprocessors and avoid Intel patent rights through the
+use of foundry services that have licenses with Intel.  Furthermore, as part of
+a recent settlement between Intel and AMD to settle all outstanding legal 
+disputes between the two companies, Intel licensed AMD to copy the microcode in
+the Intel386 and Intel486 microprocessors.  However, AMD agreed that it has no 
+right to copy the microcode in the Pentium processor and future 
+microprocessors.  The net effect of this situation (i.e., case law and the AMD 
+settlement) is that while it is possible for competitors to imitate the 
+functionality of Intel processors, future imitations are not expected to be as 
+close an imitation as were the Am386* and Am486* products from AMD.  
+Competitors' products may add features and increase performance.  The Company 
+also faces significant competition from companies that offer rival 
+microprocessor architectures.  The Company cannot predict whether such rival 
+architectures will gain market acceptance or provide increased competition to 
+the Company's products.  Future distortion of price maturity curves could occur
+as imitation products enter the market in significant volume or alternative 
+architectures gain market acceptance.
+
+It continues to be Intel's strategy to maintain its competitive advantage 
+through aggressive investments in manufacturing capacity and the development 
+and marketing of advanced products which provide greater functionality to its 
+customers than is provided by competitive products.  Intel also is committed to
+the protection of its intellectual property rights against illegal use.  There 
+can be no assurance, however, that competitors will not introduce new products 
+(either imitative or of rival architectural designs) or reduce prices on 
+existing products.  Such developments could have an adverse effect on Intel's 
+revenues and margins.
+
+________________________
+* Other brands and names are the property of their respective owners
+
+
+PAGE 7
+RESEARCH AND DEVELOPMENT
+
+The Company's competitive position has developed to a large extent because of 
+its emphasis upon research and development.  This emphasis has enabled Intel to
+deliver products before they have become available from competitors, and thus 
+has permitted Intel's customers to commit to the use of these new products in 
+the development of their own products.  Intel's research and development 
+activities are directed toward developing new products, hardware technologies 
+and processes and improving existing products and lowering their cost.  The 
+Company also develops "enabling" software, such as open software 
+specifications and software tools, to enhance the functionality and acceptance
+of the personal computer platform Intel's expenditures for research and 
+development were $1,111 million, $970 million and $780 million in fiscal years 
+1994, 1993 and 1992, respectively.  As of December 31, 1994, Intel had 
+approximately 6,400 employees engaged in research and development.  The results
+of Intel's research and development activities depend upon competitive 
+circumstances and Intel's ability to transfer new products to production in a 
+timely and cost-effective manner.
+
+Most design and development of VLSI components and other products is performed 
+at Intel's facilities in Santa Clara and Folsom, California; Aloha and 
+Hillsboro, Oregon; Chandler, Arizona; and Haifa, Israel.
+
+In June 1994, Intel and Hewlett-Packard Company announced a joint research and 
+development project covering a wide range of activities, including 
+semiconductor processes, software optimization and microprocessor design 
+technologies. New 64-bit processors based on the jointly developed architecture
+are expected to be initially targeted at server, workstation and enterprise 
+computing products, probably in the late 1990's.
+
+INTELLECTUAL PROPERTY AND LICENSING
+
+Intellectual property rights which apply to various Intel products include 
+patents, copyrights, trade secrets, trademarks and maskwork rights.  Because of
+the rapidly changing technology and a broad distribution of patents in the 
+semiconductor industry, Intel's present intention is not to rely primarily on 
+intellectual property rights to protect or establish its market position.  
+However, Intel has established an active program to protect its investment in 
+technology by enforcing all of its intellectual property rights.  Intel does 
+not intend to broadly license its intellectual property rights unless it can 
+obtain adequate consideration.  Reference is also made to the headings 
+"Competition," and "Management's Discussion and Analysis of Financial Condition
+and Results of Operations."
+
+Intel has filed and obtained a number of patents in the United States and 
+abroad.  Intel has entered into patent cross license agreements with many of 
+its major competitors.
+
+Intel protects many of its computer programs by copyrighting them.  Intel has 
+registered numerous copyrights with the United States Copyright Office.  The 
+ability to protect or to copyright software in some foreign jurisdictions is 
+not clear.  However, Intel has a policy of requiring customers to sign a 
+software license contract before providing a customer with certain computer 
+programs.  Certain VLSI components have computer programs embedded in them, and
+Intel has obtained copyright protection for some of these programs as well. 
+Beginning in 1985, Intel has obtained protection for the maskworks for a number
+of its components under the Chip Protection Act of 1984.
+
+Intel has obtained certain trademarks and trade names for its products to 
+distinguish genuine Intel products from those of its competitors and is 
+currently engaged in a cooperative program with OEMs to identify personal 
+computers that incorporate genuine Intel microprocessors with the Intel 
+Inside(R) logo.  Intel maintains certain details about its processes, products 
+and strategies as trade secrets.
+
+As is the case with many companies in the semiconductor industry, Intel has, 
+from time to time, been notified of claims that it may be infringing certain 
+patent rights of others.  These claims have been referred to counsel and they 
+are in various stages of evaluation and negotiation.  If it appears necessary 
+or desirable, Intel may seek licenses for these intellectual property rights.  
+Intel can give no assurance that licenses will be offered by all claimants or 
+that the terms of any offered licenses will be acceptable to Intel or that in 
+all cases the dispute will be resolved without litigation.
+
+PAGE 8
+COMPLIANCE WITH ENVIRONMENTAL REGULATIONS
+
+To Intel's present knowledge, compliance with federal, state and local 
+provisions enacted or adopted for protection of the environment has had no 
+material effect upon its operations.  However, reference is made to Item 3., 
+Legal Proceedings, of this Form 10-K.
+
+
+EXECUTIVE OFFICERS
+
+The following sets forth certain information with regard to executive officers 
+of Intel (ages are as of December 31, 1994):
+
+Craig R. Barrett (age 55) has been Chief Operating Officer since 1993; a 
+director of Intel Corporation since 1992;  Executive Vice President since 
+1992; and Vice President and General Manager of the Microcomputer Components 
+Group from 1989 to 1992.
+
+Andrew S. Grove (age 58) has been a director of Intel Corporation since 1974; 
+President since 1979; and Chief Executive Officer since 1987.
+
+Gordon E. Moore (age 66) has been a director of Intel Corporation since 1968 
+and Chairman of the Board since 1979.
+
+Leslie L. Vadasz (age 58) has been a director of Intel Corporation since 1988; 
+Senior Vice President, Director of Corporate Business Development since 1991; 
+and Senior Vice President and General Manager of the Systems Group from 1986 to
+1990.
+
+Frank C. Gill (age 51) has been Senior Vice President and General Manager, 
+Intel Products Group since 1991; Senior Vice President and President of the 
+Systems Group from 1990 to 1991; and Senior Vice President and Director of 
+Sales from 1989 to 1990.
+
+David L. House (age 51) has been Senior Vice President and Director, Corporate 
+Strategy since 1991; Senior Vice President and President of Microcomputer 
+Components Group from 1990 to 1991; and Senior Vice President and General 
+Manager, Microcomputer Components Group from 1987 to 1990.
+
+Paul S. Otellini (age 44) has been Senior Vice President, Director, Sales since
+May 1994; Senior Vice President and General Manager, Microprocessor Products 
+Group, from 1993 to 1994; Vice President and General Manager, Microprocessor 
+Products Group from 1991 to 1992; Vice President and General Manager, Micro 
+Products Group from 1990 to 1991; and Vice President and Assistant to the 
+President from 1989 to 1990.
+
+Gerhard H. Parker (age 51) has been Senior Vice President and General Manager, 
+Technology & Manufacturing Group, since 1992; Vice President and Director, 
+Technology & Manufacturing Group from 1991 to 1992; Vice President and 
+Director, Technology Group from 1990 to 1991; Vice President and General 
+Manager, Technology and Manufacturing Group during 1990; and Vice President and
+General Manager, Component Technology and Development Group from 1989 to 1990.
+
+
+PAGE 9
+Robert W. Reed (age 48) has been Senior Vice President and General Manager, 
+Semiconductor Products Group, since 1991; Senior Vice President and Chief 
+Financial Officer from 1990 to 1991; and Senior Vice President, Chief Financial
+Officer and Director of Administration from 1989 to 1990.
+
+Ronald J. Whittier (age 58) has been Senior Vice President and General Manager,
+Intel Architecture Laboratories, since January 1993; Vice President and General
+Manager, Software Technology Group from 1991 to 1992; Vice President and 
+Director of Marketing from 1990 to 1991; and Vice President and Director of 
+Corporate Marketing from 1985 to 1990.
+
+Albert Y.C. Yu (age 53) has been Senior Vice President and General Manager, 
+Microprocessor Products Group since January 1993; Vice President and General 
+Manager, Microprocessor Products Group from 1991 to 1992; Vice President and 
+General Manager, Micro Products Group from 1990 to 1991; and Vice President and
+General Manager, Component Technology and Development Group from 1989 to 1990. 
+
+Michael A. Aymar (age 47) has been Vice President and General Manager, 
+Intel486(TM) Microprocessor Division, since January 1994; Vice President and 
+General Manager, Mobile Computing Group, from 1991 to 1994; and Vice President 
+and General Manager, Santa Clara Microcomputer Division from 1989 to 1991.
+Andy D. Bryant (age 44) has been Vice President and Chief Financial Officer 
+since February 1994; Vice President, Intel Products Group from 1990 to 1994; 
+and Director of Finance from 1987 to 1990.
+
+F. Thomas Dunlap, Jr. (age 43) has been Vice President, General Counsel and 
+Secretary since 1987.
+
+G. Carl Everett, Jr. (age 44) has been Senior Vice President and General 
+Manager, Microprocessor Products Group since May 1994; Vice President and 
+Director, Worldwide Sales Group from 1990 to 1994; Vice President and Director 
+of North American Sales during 1990; and Vice President, Sales and Marketing 
+Group from 1987 to 1990.
+
+Stephen P. Nachtsheim (age 50) has been Vice President and General Manager, 
+Mobile and Home Products Group since January 1995.  Prior to that time, from 
+January 1994 to January 1995, he was an appointed vice president of the same 
+group.  He held the positions of General Manager of European Intel Products 
+Group from 1992 to 1994; General Manager of ASIC from 1990 to 1992; and General
+Manager of Intel Europe from 1988 to 1990.
+
+
+
+PAGE 10
+ITEM 2.  PROPERTIES
+
+At December 31, 1994, Intel owned the major facilities described below:
+
+At December 31, 1994, Intel also leased 21 major facilities in the U.S. 
+totaling approximately 609,000 square feet and 11 facilities in other countries
+totaling approximately 246,000 square feet.  These leases expire at varying 
+dates through 2002, including renewals at the option of Intel.
+
+Intel believes that its existing facilities are suitable and adequate, and the 
+productive capacity in such facilities is in general being utilized.  Intel has
+other facilities available that it can equip to meet future demand as such 
+demand materializes.  These include 4.5 million square feet of building space 
+under various stages of construction in the United States and abroad for 
+manufacturing and administrative purposes.
+
+
+_________________________
+(A)     Includes an idle, 131,000-square-foot facility formerly utilized for 
+        wafer fabrication and administration, which is currently for sale.
+(B)     The lease on a portion of the land used for these facilities expires 
+        in 2032.
+(C)     Leases on land expire in 1998, 2002 and 2008.
+(D)     This facility is currently for sale.
+
+
+
+
+PAGE 11
+ITEM 3.  LEGAL PROCEEDINGS
+
+A. LITIGATION
+
+                   Intel vs. Advanced Micro Devices, Inc. ("AMD")
+         U.S. District Court for the Northern District of California
+              (C90-20237) - Intel287 Copyright Infringement Suit
+         -----------------------------------------------------------
+
+In a letter dated March 23, 1990 from AMD, AMD asserted a right to copy and 
+distribute Intel-copyrighted microcode in an AMD 80C287 math coprocessor.  
+In response to the letter, Intel filed a suit on April 23, 1990 in the U.S. 
+District Court for the Northern District of California, alleging that AMD 
+infringed Intel's copyright on the microcode for the Intel287(TM) math 
+coprocessor.  In its defense, AMD claimed a license to copy and distribute 
+Intel copyrighted microcode based on a clause in a 1976 patent cross-license 
+agreement which gives AMD the right "...to copy microcodes contained in Intel 
+microcomputers and peripheral products sold by Intel."
+
+On January 11, 1995, in connection with the settlement of various legal matters
+between the two companies, the parties agreed to dismiss all claims, 
+counterclaims and defenses raised in this action.  AMD has agreed to abide by 
+the terms of the preliminary injunction entered August 7, 1990, and Intel has 
+granted AMD a license to Intel code contained in Intel287, Intel386 and 
+Intel486 microprocessors.  AMD has agreed that it has no right to copy the 
+microcode in the Pentium processor and future microprocessors.  
+
+
+                   Intel vs. Advanced Micro Devices, Inc. ("AMD")
+         U.S. District Court for the Northern District of California
+              (C92-20039) - Intel386 Copyright Infringement Suit
+         -----------------------------------------------------------
+
+On October 9, 1991, Intel filed another copyright infringement suit against 
+AMD, alleging that AMD copied the Intel386 microcode and a control program 
+which is stored in a programmable logic array.
+
+On January 11, 1995, in connection with the settlement of various legal matters
+between the two companies, the parties agreed to dismiss all claims, 
+counterclaims and defenses raised in this action.
+
+
+                    Intel vs. Advanced Micro Devices, Inc. ("AMD")
+           U.S. District Court for the Northern District of California
+              (C93-20301) - Intel486 Copyright Infringement Suit
+         ----------------------------------------------------------
+
+On April 28, 1993, the Company filed a complaint in the U.S. District Court for
+the Northern District of California covering numerous copyright infringement 
+claims on AMD's versions of Intel486 microprocessors.
+
+On October 11, 1994, Judge Trumbull ruled that AMD is not licensed to copy or 
+distribute the Company's 486 ICE(TM) system microcode, and entered an 
+injunction which prohibits AMD from shipping Am486s which contain the Company's
+486 ICE system microcode after January 15, 1995.
+
+On January 11, 1995, in connection with the settlement of various legal matters
+between the two companies, the parties agreed to dismiss all claims, 
+counterclaims and defenses raised in this action.  The 486 ICE system microcode
+injunction will remain in effect, and AMD agreed to pay Intel $58 million as 
+settlement for past damages for its 486 ICE system microcode infringement.  
+As part of the settlement, AMD will have the right to use foundries for up to 
+20% of its Am486 production.
+
+
+PAGE 12
+          Advanced Micro Devices, Inc. ("AMD") vs. Intel Corporation
+         U.S. District Court for the Northern District of California
+                         (C91-20541) - Antitrust Suit
+         -----------------------------------------------------------
+
+On August 29, 1991, AMD filed a lawsuit against Intel in the U.S. District 
+Court for the Northern District of California, alleging that Intel violated the
+Sherman Act by committing unlawful acts and conspiring with customers and 
+distributors to secure and maintain monopoly positions in microprocessor and 
+math coprocessor markets.
+
+On January 11, 1995, in connection with the settlement of various legal matters
+between the two companies, the parties agreed to dismiss all claims, 
+counterclaims and defenses raised in this action. 
+
+                       Consumer Class Action Suits
+                       ---------------------------
+          Machtinger vs. Intel, Cook Co. Circuit Court, IL (94-C-7300)
+     Anthony Uzzo & Co. vs. Intel, Santa Clara Co. Superior Court (CV745729)
+    Liberty Bell Equip. vs. Intel, Santa Clara Co. Superior Court (CV745803)
+          Sloane vs. Intel, Santa Clara Co. Superior Court (CV745876)
+          Klein vs. Intel, Santa Clara Co. Superior Court (CV745895)
+          Scalzo vs. Intel, Santa Clara Co. Superior Court (CV745924)
+                 Rep. Electronic Products vs. Intel and Dell,
+                   Wayne Co. Circuit Court, MI (94-435132CK)
+          Fingold vs. Intel, Santa Clara Co. Superior Court (CV746031)
+        Lees et al vs. Intel, Camden Co. Superior Court, NJ (L 11508 94)
+        Kurtz, Orman vs. Intel, Santa Clara Co. Superior Court (CV746116)
+      Data Technology Services vs. Intel, U.S.D.C., Dist. of CO (94-N-2886)
+          Carney vs. Intel, Santa Clara Co. Superior Court (CV746128)
+          -----------------------------------------------------------
+
+During the period from November 29, 1994 through December 19, 1994, numerous 
+civil consumer lawsuits were filed in state courts in various states against 
+the Company.  Although the complaints differ, these actions generally allege 
+that Intel breached express and implied warranties, engaged in deceptive 
+advertising and otherwise committed consumer fraud by shipping Pentium 
+processors which contained a divide problem in the floating point unit, and by 
+failing to disclose it.  The suits seek compensatory and punitive damages of 
+unspecified amounts. One of the actions has since been withdrawn.  A 
+Stipulation of Settlement covering all remaining pending actions was filed in 
+the Santa Clara Superior Court on March 22, 1995.  Preliminary approval was 
+granted by the Court on March 24, 1995.
+
+
+
+Weisberg vs. C. Barrett, W.H. Chen, A. Grove, D.J. Guzy, G. Moore, M. Palevsky,
+          A. Rock, J. Shaw, L. Vadasz, D. Yoffie, C. Young and Intel
+                       Southern District, NY (C95-0674)
+                       --------------------------------
+
+On January 31, 1995, the plaintiff brought this suit in Federal Court in New 
+York (Southern District) as both a derivative and stockholder action to 
+invalidate the Company's Executive Officer Bonus Plan, alleging that the plan 
+is so vague and misleading as to be ambiguous.  Plaintiff seeks (i) 
+cancellation of the stockholders' approval of the Plan, (ii) unspecified 
+damages to Intel by the Board of Directors, and (iii) to enjoin implementation 
+of the Plan and the payment of any bonuses under the Plan.
+
+Although the ultimate outcome of any outstanding claims cannot be determined 
+at this time, management, including internal counsel, does not believe that the
+ultimate outcome will have a material adverse effect on Intel's financial 
+position or overall trends in results of operations.
+
+
+
+
+
+PAGE 13
+B. ENVIRONMENTAL PROCEEDINGS
+
+Intel has been named to the California and U.S. federal Superfund lists for 
+three of its sites and has completed, along with two other companies, a 
+Remedial Investigation/Feasibility study with the U.S. Environmental Protection
+Agency (EPA) to evaluate the ground water in areas adjacent to its Mountain 
+View, California site.  The EPA has issued a Record of Decision with respect to
+a groundwater cleanup plan at that site.  Under the California and U.S. federal
+Superfund statutes, liability for cleanup of the Mountain View site and 
+adjacent area is joint and several.  The Company has reached agreement in 
+principle with those same two companies which should significantly limit the 
+Company's liabilities under the proposed cleanup plan.  Also, the Company has 
+completed extensive studies at its other sites and is engaged in cleanup at 
+several of these sites.  In the opinion of management, including internal 
+counsel, the potential losses to the Company in excess of amounts already 
+accrued arising out of these matters would not have a material adverse effect 
+on the Company's financial position, even if joint and several liability were 
+to be assessed.
+
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+None.
+
+
+
+PAGE 14
+                                 PART II
+                                 -------
+
+ITEM 5.     MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER 
+            MATTERS
+
+    (a)     Reference is made to the information regarding market, market price
+            range and dividend information appearing under "Financial 
+            Information by Quarter (Unaudited)" on page 31 of the Registrant's 
+            Annual Report to Stockholders which information is hereby 
+            incorporated by reference. 
+
+    (b)     As of February 25, 1995, there were 43,262 holders of record of the
+            Registrant's Common Stock.
+
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+Reference is made to the information regarding selected financial data for the 
+fiscal years 1990 through 1994, including the related footnotes, under the 
+heading "Financial Summary" on page 28 of the Registrant's Annual Report to 
+Stockholders, which information is hereby incorporated by reference.  
+
+In addition, the ratios of earnings to fixed charges for each of the five years
+in the period ended December 31, 1994 are as follows:
+
+                              Fiscal Year
+      --------------------------------------------------------
+            1990      1991      1992      1993      1994
+
+            9.2x      12.4x     20.7x     54.4x     39.5x
+
+Fixed charges consist of interest expense and the estimated interest component 
+of rent expense.
+
+
+
+
+PAGE 15
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+         OF OPERATIONS
+
+Reference is made to the information appearing under the heading "Management's 
+Discussion and Analysis of Financial Condition and Results of Operations" on 
+pages 29 through 31 of the Registrant's 1994 Annual Report to Stockholders, 
+which information is hereby incorporated by reference.
+
+Subsequent to December 31, 1994, Intel repurchased 2.0 million shares of Common
+Stock under the Company's authorized stock repurchase program at a cost of $150
+million. The Company also sold 3.5 million put warrants, receiving proceeds of 
+$16 million, while 3.0 million previously outstanding put warrants expired. As 
+of March 22, 1995, the Company had the potential obligation to repurchase 13.0 
+million shares of Common Stock at an aggregate price of $821 million under 
+outstanding put warrants. After reserving shares to cover these outstanding put
+warrants, 15.4 million shares remained available under the stock repurchase 
+program authorization.
+
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+Consolidated financial statements of Intel Corporation at December 31, 1994 and
+December 25, 1993 and for each of the three years in the period ended December 
+31, 1994 and the Report of Independent Auditors thereon and Intel Corporation's
+unaudited quarterly financial data for the two-year period ended December 31, 
+1994 are incorporated by reference from the Registrant's 1994 Annual Report to 
+Stockholders, on pages 14 through 31.
+
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND 
+         FINANCIAL DISCLOSURE
+
+Not applicable.
+
+
+
+PAGE 16
+                                   PART III
+                                   --------
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+Reference is made to the information regarding Directors and Executive Officers
+appearing under the headings "Election of Directors" and "Name and Principal 
+Occupation" on pages 1 through 3 of the Registrant's Proxy Statement dated 
+March 14, 1995, which information is hereby incorporated by reference, and to 
+the information under the heading "Executive Officers" in Part I hereof.
+
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+Reference is made to the information appearing under the headings "Executive 
+Compensation," "Directors' Compensation," and "Compensation Committee 
+Interlocks and Insider Participation," on pages 8 through 11 of the 
+Registrant's Proxy Statement dated March 14, 1995, which information is hereby 
+incorporated by reference.
+
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+Reference is made to information appearing in the Registrant's Proxy Statement 
+dated March 14, 1995, under the heading "Security Ownership of Certain 
+Beneficial Owners and Management," on pages 13 and 14, which information is 
+hereby incorporated by reference.
+
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+Reference is made to the information appearing under the heading "Certain 
+Relationships and Related Transactions" on page 14 of the Registrant's Proxy 
+Statement dated March 14, 1995, which information is hereby incorporated by 
+reference.
+
+
+
+PAGE 17
+                                   PART IV
+                                   -------
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+    (a)   1.   Financial Statements
+
+               The financial statements listed in the accompanying index to 
+               financial statements and financial statement schedules are filed
+               or incorporated by reference as part of this annual report.
+
+          2.   Financial Statement Schedule
+
+               The financial statement schedule listed in the accompanying 
+               index to financial statements and financial statement schedules 
+               is filed as part of this annual report.
+
+          3.   Exhibits
+
+               The exhibits listed in the accompanying index to exhibits are 
+               filed or incorporated by reference as part of this annual 
+               report.
+
+    (b)        Reports on Form 8-K
+
+               On December 21, 1994, Intel filed a report on Form 8-K relating 
+               to the adoption of an upon-request replacement policy on Pentium
+               processors and a then-unspecified material charge against 
+               earnings to be taken in the fourth quarter of 1994.
+
+
+
+PAGE 18
+                         INDEX TO FINANCIAL STATEMENTS
+                       AND FINANCIAL STATEMENT SCHEDULES
+                                 (Item 14 (a))
+                                                               Reference Page
+                                                               --------------
+                                                                       Annual
+                                                         Form       Report to
+                                                         10-K    Stockholders
+
+Consolidated Balance Sheets-
+  December 31, 1994 and December 25, 1993 . . . . . . . . . . . . . . . . .15
+Consolidated Statements of Income for
+  the years ended December 31, 1994, 
+  December 25, 1993 and December 26, 1992 . . . . . . . . . . . . . . . . .14
+Consolidated Statements of Cash Flows 
+  for the years ended December 31, 1994
+  December 25, 1993 and December 26, 1992 . . . . . . . . . . . . . . . . .16
+Consolidated Statements of Stockholders' 
+  Equity for the years ended December 31, 1994, 
+  December 25, 1993 and December 26, 1992 . . . . . . . . . . . . . . . . .17
+Notes to Consolidated Financial Statements- 
+  December 31, 1994, December 25, 1993 and 
+  December 26, 1992 . . . . . . . . . . . . . . . . . . . . . . . . . . 18-26
+Report of Independent Auditors . . . . . . . . . . . . . . . . . . . . . . 27
+Supplementary Information (unaudited)
+  Financial Information by Quarter . . . . . . . . . . . . . . . . . . . . 31
+Schedule for years ended December 31, 1994, 
+  December 25, 1993 and December 26, 1992:
+II- Valuation and Qualifying Accounts . . . . . . . . . . .19
+
+Schedules other than the one listed above are omitted for the reason that they 
+are not required or are not applicable, or the required information is shown in
+the financial statements or notes thereto.
+
+The consolidated financial statements listed in the above index which are 
+included in the Company's Annual Report to Stockholders are hereby incorporated
+by reference.  With the exception of the pages listed in the above index and 
+the portions of such report referred to in Items 5, 6, 7, and 8 of this Form 
+10-K, the 1994 Annual Report to Stockholders is not to be deemed filed as part 
+of this report.
+
+Page references to the 1994 Annual Report to Stockholders relate to the bound, 
+printed version of the report.
+
+
+
+
+PAGE 19
+                            INTEL CORPORATION
+                     --------------------------------
+              SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+
+         December 26, 1992, December 25, 1993 and December 31, 1994
+                              (In Millions)
+
+
+
+
+
+
+                                              Additions
+                                 Balance at  Charged to                 Balance
+                                  Beginning   Costs and                  at End
+                                    of Year    Expenses  Deductions (A) of Year
+                                 ----------  ----------  -------------  -------
+
+
+Allowance for Doubtful Receivables      $ 9         $29            $12      $26
+                                        ---         ---            ---      ---
+
+Allowance for Doubtful Receivables      $26         $ 4            $ 8      $22
+                                        ---         ---            ---      ---
+
+Allowance for Doubtful Receivables      $22         $10            $--      $32
+                                        ---         ---            ---      ---
+
+(A)  Uncollectible accounts written off, net of recoveries.
+
+
+
+
+PAGE 20
+                            INDEX TO EXHIBITS
+
+                              (Item 14 (a))
+
+      Description
+
+3.1   Intel Corporation Certificate of Incorporation (incorporated by reference
+      to Exhibit 3.1 of Registrant's Form 10-Q for the quarter ended June 26, 
+      1993 [Commission File No. 0-6217] as filed on August 10, 1993)
+
+3.2   Intel Corporation Bylaws as amended, (incorporated by reference to 
+      Exhibit 3.2 of Registrant's Registration Statement on Form 10-Q for the 
+      quarter ended September 25, 1993 [Commission File No. 0-6217] as filed on
+      November 9, 1993).
+
+4.1   Agreement to Provide Instruments Defining the Rights of Security Holders 
+      (incorporated by reference to Exhibit 4.1 of Registrant's Form 10-K 
+      [Commission File No. 0-6217] as filed on March 28, 1986).
+
+4.2   Indenture dated as of May 1, 1985 among Intel Overseas Corporation, Intel
+      Corporation and Wachovia Bank Trust Company N.A. related to $236,500,000 
+      principal amount of zero coupon notes due 1995 issued by Intel Overseas 
+      Corporation and guaranteed by Intel Corporation (incorporated by 
+      reference to Exhibit 4.1 of Registrant's Form 10-Q for the quarter ended 
+      June 29, 1985 [Commission File No. 0-6217] as filed on August 13, 1985).
+
+4.3   Warrant agreement dated as of March 1, 1993, as amended between the 
+      Registrant and Harris Trust and Savings Bank (as successor Warrant Agent)
+      related to the issuance of 1998 Step-Up Warrants to purchase Common Stock
+      of Intel Corporation (incorporated by reference to Exhibit 4.6 of 
+      Registrant's Form 10-K [Commission File No. 0-6217] as filed on March 25,
+      1993), together with the First Amendment to Warrant Agreement dated as of
+      October 18, 1993 and the Second Amendment to Warrant Agreement dated as 
+      of January 17, 1994 (incorporated by reference to Exhibit 4.4 of the 
+      Registrant's Form 10-K [Commission File No. 0-6217] as filed on March 
+      25, 1994).
+
+10.1* Intel Corporation 1984 Stock Option Plan, as amended and restated 
+      (incorporated by reference to Exhibit 10.2 of Registrant's Form 10-Q for 
+      the quarter ended April 2, 1994 [Commission File No. 0-6217] as filed on 
+      May 16, 1994). 
+
+10.2  Intel Corporation Profit-Sharing Retirement Plan dated April 20, 1990 as 
+      amended and restated effective January 1, 1989 (incorporated by reference
+      to Exhibit 10.3 of Registrant's Form 10-K [Commission File No. 0-6217] as
+      filed on March 26, 1992).
+
+10.3  Second Amendment dated March 2, 1992 to Intel Corporation Profit-Sharing 
+      Retirement Plan dated April 20, 1990 as amended and restated effective 
+      January 1, 1989  (incorporated by reference to Exhibit 10.4 of 
+      Registrant's Form 10-K [Commission File No. 0-6217] as filed on March 26,
+      1993).
+
+10.4  Intel Corporation Defined Benefit Pension Plan and Trust dated September 
+      7, 1988 as amended (incorporated by reference to Exhibit 10.5 of 
+      Registrant's Form 10-K [Commission File No. 0-6217] as filed on March 28,
+      1990).
+
+10.5* Intel Corporation 1988 Executive Long Term Stock Option Plan as amended 
+      and restated (incorporated by reference to Exhibit 10.6 of Form 10-Q for 
+      the quarter ended April 2, 1994 [Commission File No. 0-6217] as filed on 
+      May 16, 1994). 
+
+10.6* Intel Corporation Sheltered Employee Retirement Plan Plus dated December 
+      1, 1991 (incorporated by reference to Exhibit 10.6 of Registrant's Form 
+      10-K [Commission File No. 0-6217] as filed on March 26, 1992).
+
+
+
+PAGE 21
+10.7* Intel Corporation Executive Officer Bonus Plan dated January 1, 1994 
+      (incorporated by reference to Exhibit 10.8 of Registrant's Form 10-K 
+      [Commission File No. 0-6217] as filed on March 25, 1994).
+
+11.   Computation of Per Share Earnings.
+
+12.   Statement Setting Forth the Computation of Ratios of Earnings to Fixed 
+      Charges.
+
+13.   Portions of the Annual Report to Stockholders for fiscal year ended 
+      December 31, 1994 expressly incorporated by reference herein.
+
+21.   Intel Subsidiaries.
+
+23.   Consent of Ernst & Young LLP, Independent Auditors.
+
+27.   Financial Data Schedule.
+
+
+
+
+
+
+
+
+
+
+
+* Compensation plans or arrangements in which officers and directors are 
+  eligible to participate.
+
+PAGE 22
+SIGNATURESPursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this Annual Report to be 
+signed on its behalf by the undersigned, thereunto duly authorized.
+
+INTEL CORPORATION
+Registrant By 
+/s/ F. Thomas Dunlap, Jr.
+- -------------------------
+F. Thomas Dunlap, Jr.   
+Vice President and Secretary
+March 24, 1995
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this 
+report has been signed below by the following persons on behalf of the 
+Registrant and in the capacities and on the dates indicated.
+
+/s/ Craig R. Barrett                           /s/ Max Palevsky
+- --------------------                           ----------------
+Craig R. Barrett                               Max Palevsky
+Director                                       Director
+March 24, 1995                                 March 24, 1995
+
+/s/ Andy D. Bryant                             /s/ Arthur Rock
+- ------------------                             ---------------
+Andy D. Bryant                                 Arthur Rock
+Vice President, Principal                      Director
+Accounting and Chief Financial Officer         March 24, 1995
+March 24, 1995
+                                               /s/ Jane E. Shaw
+/s/ Winston H. Chen                            ----------------
+- -------------------                            Jane E. Shaw
+Winston H. Chen                                Director
+Director                                       March 24, 1995
+March 24, 1995
+                                               /s/ Leslie L. Vadasz
+/s/ Andrew S. Grove                            --------------------
+- -------------------                            Leslie L. Vadasz
+Andrew S. Grove                                Director
+Principal Executive Officer                    March 24, 1995
+President and Director
+March 24, 1995                                 /s/ David B. Yoffie
+                                               -------------------
+/s/ D. James Guzy                              David B. Yoffie
+- -----------------                              Director
+D. James Guzy                                  March 24, 1995
+Director
+March 24, 1995                                 /s/ Charles E. Young
+                                               --------------------
+/s/ Gordon E. Moore                            Charles E. Young
+- -------------------                            Director
+Gordon E. Moore                                March 24, 1995
+Chairman of the Board
+March 24, 1995
+
+

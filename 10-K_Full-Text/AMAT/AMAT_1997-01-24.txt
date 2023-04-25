@@ -1,0 +1,906 @@
+
+10-K
+FORM 10-K FOR PERIOD ENDED OCTOBER 27, 1996
+
+
+
+ 
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+ 
+                UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+ 
+                                   FORM 10-K
+MARK ONE
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+    OF 1934
+ 
+                   FOR THE FISCAL YEAR ENDED OCTOBER 27, 1996
+ 
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934
+ 
+ FOR THE TRANSITION PERIOD FROM                       TO
+                         COMMISSION FILE NUMBER 0-6920
+ 
+                            APPLIED MATERIALS, INC.
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+ 
+
+ 
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  Yes [X]  No [ ].
+ 
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.  [ ]
+ 
+     Aggregate market value of the voting stock held by nonaffiliates of the
+registrant as of December 27, 1996: $6,490,391,240
+ 
+     Number of shares outstanding of the issuer's Common Stock, $.01 par value,
+as of December 27, 1996: 180,916,829
+ 
+                      DOCUMENTS INCORPORATED BY REFERENCE:
+ 
+     Portions of Applied Materials 1996 Annual Report for the year ended October
+27, 1996 are incorporated by reference into Parts I, II and IV of this Form
+10-K.
+ 
+     Portions of the definitive Proxy Statement for the Company's Annual Meeting
+of Stockholders to be held on March 19, 1997 are incorporated by reference into
+Part III of this Form 10-K.
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+ 
+                                     PART I
+ 
+ITEM 1:  BUSINESS
+ 
+     Organized in 1967, Applied Materials, Inc. ("Applied Materials" or the
+"Company") develops, manufactures, markets and services semiconductor wafer
+fabrication equipment and related spare parts. The Company's worldwide customers
+include both companies which manufacture semiconductor devices for use in their
+own products and companies which manufacture semiconductor devices for sale to
+others. Applied Materials operates exclusively in the semiconductor wafer
+fabrication equipment industry. The Company is also a fifty percent stockholder
+in Applied Komatsu Technology, Inc., a joint venture corporation which develops,
+manufactures, markets and services thin film transistor fabrication systems used
+to produce active-matrix liquid crystal displays. On November 24, 1996, the
+Company announced that it had entered into agreements to acquire two companies
+in the metrology and inspection semiconductor equipment market. Opal, Inc. is a
+leading supplier of critical dimension scanning electron microscope systems that
+measure certain critical dimensions of integrated circuits at various stages of
+the manufacturing process. Orbot Instruments, Ltd. is a supplier of wafer and
+reticle inspection systems with leading-edge technologies. Both acquisitions
+were completed during the Company's first fiscal quarter of 1997 ending on
+January 26, 1997.
+ 
+PRODUCTS
+ 
+     Applied Materials' products are sophisticated systems that utilize
+state-of-the-art technology in wafer processing chemistry and physics,
+particulate management, process control, software and automation. Many of the
+Company's technologies are complementary and can be applied across all of its
+product offerings. The Company's products, which provide enabling technology,
+productivity and yield enhancements to semiconductor manufacturers, are used to
+fabricate semiconductor devices on a substrate of semiconductor material
+(primarily silicon). A finished device consists of thin film layers which can
+form anywhere from one to millions of tiny electronic components that combine to
+perform desired electrical functions. The fabrication process must control film
+and feature quality to ensure proper device performance while meeting yield and
+throughput goals. The Company currently manufactures equipment that addresses
+three major steps in wafer fabrication: deposition, etch and ion implantation.
+The Company also manufactures a Rapid Thermal Processing (RTP) system that
+provides versatility and broad application to many areas of semiconductor
+manufacturing, a Chemical Mechanical Polishing (CMP) system that planarizes
+wafers after various processing steps, and systems for metrology and inspection.
+ 
+  Single-wafer, multi-chamber architecture
+ 
+     Recognizing the trend toward more stringent process requirements and larger
+wafer sizes, Applied Materials developed a single-wafer, multi-chamber system
+called the Precision 5000. The Company introduced the Precision 5000 with
+dielectric chemical vapor deposition (DCVD) processes in 1987, etch processes in
+1988 and tungsten CVD (WCVD) processes in 1989. The Precision 5000's
+single-wafer, multi-chamber architecture features several processing chambers,
+each of which is attached to a central handling system, and is designed for both
+serial and integrated processing. The Precision 5000's integrated processing
+capability makes it possible to perform multiple process steps on a wafer in a
+controlled environment, thus reducing the risk of particulate contamination. The
+Company leveraged its expertise in single-wafer, multi-chamber architecture to
+develop an evolutionary platform in 1990 called the Endura 5500 PVD (Physical
+Vapor Deposition), which features a staged, ultra-high vacuum (UHV) architecture
+for the rapid sputtering of aluminum and other metal films used to form the
+circuit interconnections on advanced devices. In October 1991, the Company
+announced its second-generation Precision 5000 system,
+ 
+
+ 
+the Precision 5000 Mark II, with numerous enhancements to the platform, process
+chambers and remote support equipment. The Precision 5000 Mark II is used to
+manufacture advanced devices, such as 16 megabit DRAMs (Dynamic Random Access
+Memories), on 200mm (8-inch) wafers. In September 1992, the Company announced
+its latest generation single-wafer, multi-chamber platform, the Centura, to
+target the high temperature thin films market and future process applications
+with 0.5-micron and below specifications. This platform improves upon the
+Precision 5000 by incorporating high vacuum capabilities and advanced robotics
+that provide significantly higher throughput.
+ 
+  Deposition
+ 
+     A fundamental technology in semiconductor fabrication, deposition is a
+process in which a layer of either electrically insulating (dielectric) or
+electrically conductive material is deposited on a wafer. Deposition can be
+divided into several different categories, of which Applied Materials currently
+participates in three: chemical vapor deposition (CVD), physical vapor
+deposition (PVD), and epitaxial and polysilicon deposition.
+ 
+          CVD.  Chemical vapor deposition is a process used in semiconductor
+     fabrication in which thin films (insulators, conductors and semiconductors)
+     are deposited from gaseous sources. In 1987, the Company introduced the
+     Precision 5000 CVD platform for DCVD which, with its automated
+     multi-chamber architecture, provides the flexibility to perform a broad
+     range of deposition processes utilizing up to four individual chambers on a
+     single system. In 1989, the Company entered the tungsten (W) CVD market
+     with the introduction of a system for blanket tungsten deposition, the
+     Precision 5000 WCVD. The Company has continued to add functionality to this
+     system, including integrated tungsten plug fabrication capability which
+     combines WCVD deposition and etchback capabilities in the same system. The
+     Company has also added tungsten silicide and titanium nitride processes to
+     further extend its offerings. In 1992, the Company introduced the
+     single-wafer, multi-chamber Centura platform. The Centura platform
+     accommodates both DCVD and metal CVD processes. In 1994, the Company
+     introduced the Precision 5000 Mark II CVD platform with sub-atmospheric
+     process technologies that address applications to 0.35-microns. Also in
+     1994, the Company announced a new chamber technology called "xZ" on the
+     Centura platform, which provides a significant enhancement by improving
+     system throughput, providing no consumable parts and reducing operating
+     costs. Most of the mainstream CVD applications offered by the Company are
+     now available using this technology, with the exception of the HDP-CVD
+     (High-Density Plasma CVD) Centura. Launched in February, the HDP-CVD
+     Centura system is aimed at the most advanced sectors of the semiconductor
+     market, including emerging semiconductor production, research and
+     development and pilot lines. In April 1996, the Company entered a new
+     market with a high-productivity silane-based CVD process for
+     anti-reflective coating (ARC) applications. ARC films are typically used to
+     enhance photolithography.
+ 
+          PVD.  Physical vapor deposition sputters metals on wafers during
+     semiconductor fabrication to form the circuit interconnects. Unlike CVD,
+     the sources of the deposited materials are solid sources called targets.
+     Applied Materials entered the PVD market in April 1990 with the Endura 5500
+     PVD system. This system utilizes a modular, single-wafer, multi-chamber
+     platform which accommodates UHV processes like PVD, and conventional high
+     vacuum processes like CVD and etch. In July 1993, the Company introduced
+     the Endura HP (High Productivity) PVD system, an enhanced version of the
+     Endura 5500 PVD system. In November 1993, the Centura HP PVD was introduced
+     in order to offer customers a choice of platforms using the Company's PVD
+     technology.
+ 
+
+ 
+          In November 1994, the Endura VHP (Very High Productivity) PVD system
+     was launched, further enhancing the wafer transfer system to raise
+     throughput. A key advance in process technology was announced in July 1996
+     with the Vectra IMP (Ion Metal Plasma) chamber for titanium (Ti) and
+     titanium nitride (TiN) deposition. This technology creates metal ions from
+     the materials sputtered from the target, whose directionality can then be
+     controlled in the chamber for dramatically improved step coverage
+     performance in very small contacts and vias. In September 1996, the Liner
+     TxZ Centura system was launched. This system combines a new CVD TiN chamber
+     with a Coherent PVD Ti chamber, and allows for deposition of sequential
+     layers of Ti and CVD TiN in high-aspect-ratio metal structures under
+     vacuum.
+ 
+          Epitaxial and polysilicon deposition.  Epitaxial (Epi) and polysilicon
+     deposition involve depositing layers of high-quality, silicon-based
+     compounds on the surface of a silicon wafer to change its electrical
+     properties and, in the case of epi, to form the base on which the
+     integrated circuit is built. In 1989, the Company introduced the Precision
+     7700 Epi system for advanced silicon deposition. The 7700 system extends
+     the capabilities of radiantly-heated "barrel" technology and incorporates
+     fully automated wafer handling as well as many features for particulate
+     control. In September 1992, the Company announced the Poly Centura, a
+     single-wafer, multi-chamber platform targeted at the high temperature thin
+     film deposition of polysilicon on wafers up to 200mm (8 inches) in
+     diameter. The Epi Centura, which features deposition of epitaxial silicon,
+     was announced in March 1993. In December 1993, the Company launched the
+     Polycide Centura which combines chambers for polysilicon and tungsten
+     silicide deposition on the Centura platform.
+ 
+  Etch
+ 
+     Prior to etch processing, a wafer is patterned with photoresist during the
+photolithography process. Etching then selectively removes material from areas
+which are not covered by the photoresist pattern. Applied Materials entered the
+etch market in 1981 with the introduction of the AME 8100 Etch system, which
+utilized a batch process technology for dry plasma etching. In 1985, the Company
+introduced the Precision Etch 8300, which featured improved levels of automation
+and particulate control. The Company continues to sell the Precision Etch 8300
+product. Applied Materials' first single-wafer, multi-chamber system for the dry
+etch market was the Precision 5000 Etch, introduced in 1988. In 1990, the
+Company introduced a metal etch system based on the Precision 5000 architecture
+which provides single-wafer, aluminum etch capabilities. In 1993, the Company
+introduced its next generation etch platform, the Centura HDP Dielectric Etcher,
+designed for critical high density plasma oxide etch applications requiring
+sub-0.5-micron design rules, and the Precision 5000 Mark II Etch MxP, a new
+model of the Precision 5000-series etch system with several enhancements
+including process capability for 0.35-micron applications. In July 1994, Applied
+Materials introduced the Metal Etch MxP Centura, which combines sub-0.5-micron
+process technology with improved throughput. The Company launched a new
+dielectric etch system in April 1995, combining its latest Centura platform with
+an enhanced etch chamber, called the Dielectric Etch MxP+ Centura. The Remote
+Plasma Source (RPS) Centura, introduced in June 1995, extended the Company's
+range of dielectric dry etch process technologies to several isotropic etch
+steps. Two new etch systems were launched in 1996 for HDP etching of metal and
+silicon films, using the Company's new DPS (Decoupled Plasma Source) technology.
+The DPS Metal Etch Centura and DPS Silicon Etch Centura are aimed at very
+advanced applications, primarily for deep submicron devices (0.25-micron). In
+addition, the products deliver very high throughput, for superior cleanroom
+space utilization.
+ 
+
+ 
+  Ion Implantation
+ 
+     During ion implantation, silicon wafers are bombarded by a high-velocity
+beam of electrically charged ions. These ions are embedded within a wafer at
+selected sites and change the electrical properties of the implanted area.
+Applied Materials entered the high-current portion of the implant market in 1985
+with the Precision Implant 9000 and introduced the Precision Implant 9200 in
+1988. In 1989, the Company added enhancements to the 9200 series, including a
+new option for automated selection of implant angles and new hardware/software
+options that enable customers to perform remote monitoring and diagnostics. In
+1991, the Company announced an enhanced version of its high-current ion
+implanter and designated it the Precision Implant 9200XJ. In November 1992, the
+Company introduced a new high-current ion implantation system, the Precision
+Implant 9500, to address the production of high-density semiconductor devices,
+such as 16 megabit and 64 megabit memory devices and advanced microprocessors.
+In November 1994, the 9500xR model was introduced, further extending the range
+of the 9500 system into the traditional medium-current area with enhanced
+low-dose, low-energy implant performance. In October 1995, the Company
+introduced its latest implant system, the Precision Implant xR80. This system
+features low-energy and a very small system footprint, while maintaining high
+throughput. Two extensions of the basic xR80 architecture were introduced in
+1996: the Precision Implant xR LEAP (Low Energy Advanced Processing) in May and
+the xR120 in July. Both of these systems extend the energy range of the xR80
+system for customers needing those capabilities.
+ 
+  Rapid Thermal Processing
+ 
+     In June 1995, Applied Materials introduced a new system, the Rapid Thermal
+Processing (RTP) Centura, into the emerging RTP market. RTP uses very rapid
+heating cycles to perform high-temperature processes traditionally done by
+slower-heating batch furnace technologies. The system is designed to solve the
+limiting technical issues -- temperature measurement and control and uniformity
+and process repeatability -- that have historically kept RTP from becoming a
+production technology. The RTP Centura's implant annealing processes offer
+chipmakers improved device performance, with demonstrated potential for
+significant yield improvements and faster factory cycle time.
+ 
+  Chemical Mechanical Processing
+ 
+     In December 1995, the Company entered a new market with the introduction of
+a Chemical Mechanical Polishing (CMP) system. CMP uses a combination of
+corrosive slurry and mechanical pressure to flatten or "planarize" the
+topography on semiconductor wafers. The Company's Mirra CMP system uses a unique
+multi-station "carousel" design, within which several wafers can be processed
+simultaneously.
+ 
+  Metrology and Inspection
+ 
+     In fiscal 1997, the Company entered into the metrology and inspection
+market with the acquisitions of two companies, Opal, Inc., and Orbot
+Instruments, Ltd. Opal, Inc. is a supplier of advanced scanning electron
+microscopes (SEMs) for the automated measurement of sub-micron circuit features,
+or critical dimensions (CDs), to verify the performance of critical lithography
+and patterning processes. Orbot Instruments manufactures two types of optical
+inspection equipment: one product locates and identifies defects in the wafer
+circuitry and is used in the in-line examination of patterned wafers; another
+product assures that the masks and reticles used in the lithography process are
+error free.
+ 
+
+ 
+CUSTOMER SERVICE AND SUPPORT
+ 
+     The demand for improved production yields of integrated circuits requires
+that semiconductor wafer processing equipment operate reliably, with maximum
+uptime and within very precise tolerances. Applied Materials installs its
+equipment and provides warranty service worldwide through offices located in
+North America, Europe (including Israel), Japan, Korea and Asia-Pacific (Taiwan,
+China and Singapore). Applied Materials maintains 70 sales/service offices
+worldwide, with 24 offices in North America, 10 offices in Europe, 25 offices in
+Japan, 6 offices in Korea and 5 offices in Asia-Pacific. The Company offers a
+variety of service contracts to customers for maintenance of installed equipment
+and provides a comprehensive training program for all customers.
+ 
+BACKLOG
+ 
+     At October 27, 1996, the Company's backlog totaled $1.4 billion, compared
+to $1.5 billion at October 29, 1995. The Company schedules production of its
+systems based upon order backlog and customer commitments. The backlog includes
+orders for which written authorizations have been accepted and shipment dates
+within 12 months have been assigned. Due to possible changes in customer
+delivery schedules and cancellations of orders, the Company's backlog at any
+particular date is not necessarily indicative of actual sales for any succeeding
+period.
+ 
+MANUFACTURING, RAW MATERIALS AND SUPPLIES
+ 
+     The Company's manufacturing activities consist primarily of assembling
+various commercial and proprietary components into finished systems, principally
+in the United States, with additional operations in England, Japan, Korea and
+Taiwan. Production requires some raw materials and a wide variety of mechanical
+and electrical components, which are manufactured to the Company's
+specifications. Multiple commercial sources are available for most components.
+The Company has consolidated the number of sources for several key purchased
+items for purposes of improving its position with suppliers, resulting in
+improved on-time delivery, lower inventory levels and better pricing to the
+Company. There have been no significant delays in receiving components from sole
+source suppliers; however, the unavailability of any of these components could
+disrupt scheduled deliveries to customers.
+ 
+MARKETING AND SALES
+ 
+     Because of the highly technical nature of its products, the Company markets
+its products worldwide through a direct sales force, with sales, service and
+spare parts offices in North America, Japan, Europe, Korea and Asia-Pacific. For
+the fiscal year ended October 27, 1996, sales to customers in North America,
+Europe, Japan, Korea and Asia-Pacific were approximately 31%, 16%, 24%, 14% and
+15%, respectively, of the Company's net sales. For the fiscal year ended October
+29, 1995, sales to customers in North America, Europe, Japan, Korea and
+Asia-Pacific were approximately 32%, 15%, 26%, 17% and 10%, respectively, of the
+Company's net sales. The Company's business is not seasonal in nature, but it is
+subject to the capital equipment investment patterns of major semiconductor
+manufacturers located throughout the world. Each region in the global
+semiconductor equipment market exhibits unique characteristics that cause
+capital equipment investment patterns to vary from period to period. While
+international markets provide the Company with significant growth opportunities,
+periodic economic downturns, trade balance issues, political instability and
+fluctuations in interest and foreign currency exchange rates are all risks that
+could affect global product and service demand.
+ 
+
+ 
+RESEARCH AND DEVELOPMENT
+ 
+     The market served by the Company is characterized by rapid technological
+change. The Company's research and development efforts are global in nature.
+Engineering organizations are located in the United States, Japan, England and
+Israel, with process support and customer demonstration laboratories in the
+United States, Japan, England, Taiwan and Korea. Since 1984, the Company has
+operated a large-scale technology center in Narita, Japan, which has been
+expanded several times to meet the requirements of its Japanese customer base.
+In 1996, additional technology centers were opened in Korea and Taiwan to better
+serve customers in the Korea and Asia-Pacific regions. The Company also operates
+a technology center in Israel to develop controller configuration and software
+tools for its semiconductor processing systems. Applied Materials works closely
+with its global customers to design systems that meet their planned technical
+and production requirements. The Company's research and development activities
+are primarily directed toward the development of new wafer processing systems
+and new process applications for existing products. The Company is also
+investing in the development of new products in conjunction with the
+semiconductor industry's move to the next-generation 300mm wafer size. Together
+with today's standard 200mm wafers, 300mm wafers will be used to produce
+semiconductor devices with geometries of 0.25 micron and below, probably
+including the 256Mbit generation of DRAMs.
+ 
+     To meet emerging customer requirements for advanced manufacturing
+solutions, the Company is developing a capability called Process Sequence
+Integration (PSI). Choosing from Applied Materials' broad lineup of process
+technologies, customers will be able to order "process modules" which consist of
+multiple systems whose sequential processes can create complete structures
+within the semiconductor device, such as the interconnect structure found in
+multi-level metal device designs.
+ 
+COMPETITION
+ 
+     The global semiconductor equipment industry is highly competitive and is
+characterized by increasingly rapid technological advancements and demanding
+worldwide service requirements. Each of the Company's products competes in
+markets defined by the particular wafer fabrication process it performs. There
+are several companies that compete with Applied Materials in each of these
+markets. Competition is based on many factors, primarily technological
+advancements, productivity and cost-effectiveness, customer support,
+contamination control and overall product quality. Management believes that the
+Company's competitive advantage in each of its served markets is based on the
+ability of its products and services to address customer requirements as they
+relate to these competitive factors.
+ 
+     Applied Materials is a principal supplier in each of its served markets.
+The Company faces strong competition throughout the world from other
+semiconductor equipment manufacturers as well as semiconductor manufacturers who
+design and produce fabrication equipment for their own internal uses and, in
+some cases, for resale. Management believes that the Company is a strong
+competitor with respect to its products, services and resources. However, new
+products, pricing pressures and other competitive actions from both new and
+existing competitors could adversely affect the Company's market position.
+ 
+JOINT VENTURE
+ 
+     In September 1991, the Company announced its plans to develop thin film
+transistor (TFT) manufacturing systems for Active-Matrix Liquid Crystal Displays
+(AMLCDs). The AMLCD market currently includes screens for laptop, notebook and
+palmtop computers, desktop monitors, digital/video cameras, portable televisions
+and instrument displays. The Company believes that this market in the future may
+include
+high-resolution workstations and direct view wall television. In September 1993,
+a joint
+ 
+
+ 
+venture was formed with Applied Materials, Inc. and Komatsu, Ltd. of Japan
+sharing a 50-50 ownership. The joint venture, Applied Komatsu Technology, Inc.
+(AKT), is accounted for using the equity method. The Company's management
+believes that systems developed by AKT have the potential to lower the
+manufacturing costs of AMLCDs and provide new process technologies to enhance
+flat panel capabilities. The Company has granted to AKT an exclusive license to
+use the Company's intellectual property to develop, manufacture and sell
+products for the production of flat panel displays, in exchange for royalties in
+respect thereof. AKT has recently broadened its product offerings, and now has
+process capability in CVD, PVD and Etch for a wide range of substrate sizes.
+Investment in research and development will continue in 1997 on next generation
+systems to further lower AMLCD manufacturing costs and increase substrate size
+capability.
+ 
+PATENTS AND LICENSES
+ 
+     Management believes that the Company's competitive position is primarily
+dependent upon skills in engineering, production, and marketing rather than its
+patent position. However, protection of the Company's technology assets by
+obtaining and enforcing patents is increasingly important. Consequently, the
+Company has an active program to file applications in the United States and
+other countries on inventions which the Company considers significant. The
+Company has a number of patents in the United States and other countries and
+additional applications are pending for new developments in its equipment and
+processes. In addition to patents, the Company also possesses other proprietary
+intellectual property, including trademarks, know-how, trade secrets and
+copyrights.
+ 
+     The Company enters into patent and technology licensing agreements with
+others when management determines it is in the Company's best interest to do so.
+The Company pays royalties under existing patent license agreements for the use,
+in several of its products, of certain patents which are licensed to the Company
+for the life of the patents.
+ 
+     The Company has made its technology, including patents, available to AKT
+through a license arrangement which permits AKT to use the Company's technology
+to develop, manufacture and sell equipment for the flat panel display industry.
+ 
+     In the normal course of business, the Company from time to time receives
+and makes inquiries with regard to possible patent infringement. In dealing with
+such inquiries, it may become necessary or useful for the Company to obtain and
+grant licenses or other rights. However, there can be no assurance that such
+license rights will be available to the Company on commercially reasonable
+terms. While there can be no assurance about the outcome of such inquiries, the
+Company believes that it is unlikely that their resolution will have a material
+adverse effect on its financial condition or results of operations.
+ 
+ENVIRONMENTAL MATTERS
+ 
+     Although one of the Company's locations has been designated as a Superfund
+site by the United States Environmental Protection Agency, neither compliance
+with Federal, State and local provisions regulating discharge of materials into
+the environment, nor remedial agreements or other actions relating to the
+environment, has had, or is expected to have, a material effect on the Company's
+capital expenditures, results of operations, financial condition or competitive
+position.
+ 
+
+ 
+EMPLOYEES
+ 
+     At October 27, 1996, the Company employed approximately 11,403 regular
+full-time employees. In the high technology industry, competition for highly
+skilled employees is intense. The Company believes that a great part of its
+future success depends on its continued ability to attract and retain qualified
+employees. None of the Company's employees are represented by a trade union.
+Management considers its relations with its employees to be good.
+ 
+INCORPORATION BY REFERENCE
+ 
+     The following portions of the Company's 1996 Annual Report are incorporated
+herein by reference: "Management's Discussion and Analysis of Financial
+Condition and Results of Operations," pages 27 through 30, and the Consolidated
+Financial Statements and accompanying notes thereto, pages 31 through 48.
+ 
+
+ 
+ITEM 2:  PROPERTIES
+ 
+     Certain information concerning the Company's principal properties at
+October 27, 1996 is set forth below:
+ 
+
+ 
+- ---------------
+* Subject to loans totaling $73 million secured by property and equipment having
+  an approximate net book value of $79 million at October 27, 1996.
+ 
+     The Company also leases office space for 70 sales and service offices
+throughout the world: 24 offices are located in North America, 10 in Europe, 25
+in Japan, 6 in Korea and 5 in Asia-Pacific.
+ 
+     The Company currently owns 875,000 square feet of manufacturing and other
+operating facilities in California that have not yet been completed and placed
+in service. In addition, the Company is currently constructing 258,000 square
+feet of manufacturing facilities in Texas.
+ 
+     The Company also owns 108 acres in Austin, Texas and 30 acres in Santa
+Clara, California, of buildable land. The Austin and Santa Clara land can
+accommodate approximately 1,000,000 and 865,000 square feet, respectively, of
+additional building space to help satisfy the Company's current and future
+needs.
+ 
+     Management considers the above facilities suitable and adequate to meet the
+Company's requirements.
+ 
+
+ 
+ITEM 3:  LEGAL PROCEEDINGS
+ 
+     In the first of two lawsuits filed by the Company, captioned Applied
+Materials, Inc. v. Advanced Semiconductor Materials America, Inc., Epsilon
+Technology, Inc. (doing business as ASM Epitaxy) and Advanced Semiconductor
+Materials International N.V. (collectively "ASM") (case no. C-91-20061-RMW),
+Judge William Ingram of the United States District Court for the Northern
+District of California ruled on April 26, 1994 that ASM's Epsilon I epitaxial
+reactor infringed three of the Company's United States patents and issued an
+injunction against ASM's use and sale of the ASM Epsilon I in the United States.
+On October 28, 1996, the U.S. Court of Appeals for the Federal Circuit decided
+ASM's appeal of this decision, affirming the trial court's judgment that one of
+the Company's patents is valid and infringed. Permanent injunctions are now
+effective to halt ASM's manufacture, use and sale of its epitaxial reactors in
+the United States. The trial of the Company's second patent infringement lawsuit
+against ASM, captioned Applied Materials, Inc. v. ASM (case no. C-92-20643-RMW),
+was concluded before Judge Whyte in May 1995. On November 1, 1995, the Court
+issued its judgment holding that two of the Company's United States patents were
+valid and infringed by ASM's reduced pressure epitaxial reactors. ASM appealed
+this decision. On December 17, 1996, the U.S. Court of Appeals for the Federal
+Circuit rejected ASM's appeal, and affirmed the District Court's ruling. The
+permanent injunction entered on March 7, 1996 prohibiting ASM's use or sale of
+its ribbed quartz epitaxial reactors within the United States is now effective.
+Trial in the District Court has been set for July 28, 1997 to determine ASM
+International's liability, damages and wilfulness, for both case no.
+C-91-20061-RMW and C-92-20643-RMW.
+ 
+     In a separate lawsuit filed by ASM against the Company involving one patent
+relating to the Company's single wafer epitaxial product line, captioned ASM
+America, Inc. v. Applied Materials, Inc. (case no. C-93-20853-RMW), the Court
+granted three motions for summary judgment in favor of the Company which
+eliminate the Company's liability on this patent. ASM has not indicated whether
+it intends to appeal this matter. The Company's counterclaims against ASM for
+inequitable conduct were tried by the Court in July 1996. The Company is
+awaiting a decision. A separate action severed from ASM's case, captioned ASM
+America, Inc. v. Applied Materials, Inc. (case no. C-95-20169-RMW), involves one
+United States patent which relates to the Company's Precision 5000 product. A
+prior trial date has been vacated; no trial date is currently set. In these
+cases, ASM seeks injunctive relief, damages and such other relief as the Court
+may find appropriate.
+ 
+     Further, the Company has filed a Declaratory Judgment action against ASM,
+captioned Applied Materials, Inc. v. ASM (case no. C-95-20003-RMW), requesting
+that an ASM United States patent be held invalid and not infringed by the
+Company's single wafer epitaxial product line. No trial date has been set. On
+April 10, 1996, the Court denied ASM's motion for summary judgment and granted
+the Company's motion for summary judgment finding several independent grounds
+why the Company's reactors do not literally infringe ASM's patent. With this
+ruling, the Company's liability has been substantially eliminated on this
+patent. ASM has not indicated whether it intends to appeal this decision. On
+July 7, 1996, ASM filed a lawsuit, captioned ASM America, Inc. v. Applied
+Materials, Inc. (case no. C95-20586-RMW), concerning alleged infringement of a
+United States patent by susceptors in chemical vapor deposition chambers.
+Discovery is proceeding.
+ 
+     On January 13, 1997, the Company filed a patent infringement suit against
+ASM's newly released Epsilon 2000 reactor. Discovery has not yet commenced.
+ 
+
+ 
+     In September 1994, General Signal Corporation filed a lawsuit against the
+Company (case no. 94-461-JJF) in the United States District Court, District of
+Delaware. General Signal alleges that the Company infringes five of General
+Signal's United States patents by making, using, selling or offering for sale
+multi-chamber wafer fabrication equipment, including for example, the Precision
+5000 series machines. General Signal seeks an injunction, multiple damages and
+costs, including reasonable attorneys' fees and interest, and such other relief
+as the court may deem appropriate. This lawsuit is currently in active discovery
+and pre-trial preparation. A January 1997 trial date has been postponed, and
+will be rescheduled for later in 1997.
+ 
+     In January 1995, the Company filed a lawsuit against Novellus Systems, Inc.
+in the United States District Court, Northern District of California (case no.
+C-95-0243-MMC). This lawsuit alleges that Novellus' Concept One, Concept Two,
+and Maxxus F TEOS systems infringe the Company's United States patent relating
+to the TEOS-based, plasma enhanced CVD process for silicon oxide deposition. The
+lawsuit seeks an injunction, damages and costs, including reasonable attorneys'
+fees and interest, and such other relief as the court may deem appropriate.
+Damages and counterclaims have been bifurcated for separate trial. A jury trial
+has been scheduled for March 24, 1997 before Judge Charles A. Legge. The Court
+recently ruled on a number of substantive motions finding, on the issues raised,
+that the Company's patent in suit is valid and definite. On September 15, 1995,
+the Company filed another lawsuit against Novellus alleging that Novellus' then
+newly announced blanket tungsten interconnect process infringes the Company's
+United States patent relating to a tungsten CVD process. The Company also sought
+a declaration that a Novellus United States patent for a gas purge mechanism is
+not infringed by the Company and/or is invalid. Novellus answered by denying the
+allegations and counterclaimed by alleging that the Company's plasma enhanced
+TEOS CVD systems infringe Novellus' United States patents concerning gas purge
+and gas debubbler mechanisms. Novellus also filed a separate lawsuit as a
+plaintiff before the same court which contains the same claims as those stated
+in Novellus' defense of the Company's lawsuit. Both cases have been assigned to
+Judge Legge. Discovery has commenced, and trial which had been set for August
+1997 has been postponed and will be rescheduled.
+ 
+     In the normal course of business, the Company from time to time receives
+and makes inquiries with regard to possible patent infringement. Management
+believes that it has meritorious defenses and intends to vigorously pursue these
+matters.
+ 
+ITEM 4:  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS IN FOURTH QUARTER
+OF FISCAL 1996
+ 
+     None.
+ 
+
+ 
+                      EXECUTIVE OFFICERS OF THE REGISTRANT
+ 
+     The following table and notes thereto identify and set forth information
+about the Company's seven executive officers:
+ 
+
+ 
+- ---------------
+(1) Mr. Morgan, age 58, has been Chief Executive Officer since 1977 and Chairman
+    of the Board of Directors since 1987. Mr. Morgan also served as President of
+    the Company from 1976 to 1987.
+ 
+(2) Mr. Bagley, age 58, was appointed Vice Chairman of the Board of Directors in
+    December 1993. Mr. Bagley was Chief Operating Officer of the Company from
+    1987 through October 1995, and served as President of the Company from
+    December 1987 to December 1993. Prior to that, Mr. Bagley served as Senior
+    Vice President of the Company since 1981. Mr. Bagley is a director of
+    Kulicke and Soffa Industries, Inc. and Tencor Instruments. Mr. Bagley
+    resigned as Vice Chairman of the Board and Chief Operating Officer of the
+    Company on May 17, 1996.
+ 
+(3) Dr. Maydan, age 61, was appointed President of the Company in December 1993.
+    Dr. Maydan served as Executive Vice President from 1990 to December 1993.
+    Prior to that, Dr. Maydan had been Group Vice President since February 1989.
+    Dr. Maydan joined Applied Materials in 1980 as a Director of Technology.
+ 
+(4) Mr. Taylor, age 56, has been Chief Financial Officer of the Company since
+    1984. Mr. Taylor has also been a Senior Vice President of the Company since
+    1991 and was previously Vice President of Finance from 1984 to 1991.
+ 
+(5) Dr. Somekh, age 50, was appointed Senior Vice President of the Company in
+    December 1993. Dr. Somekh served as Group Vice President from 1990 to 1993.
+    Prior to that, Dr. Somekh had been a divisional Vice President. Dr. Somekh
+    joined Applied Materials in 1980 as a Project Manager.
+ 
+(6) Dr. Wang, age 50, was appointed Senior Vice President of the Company in
+    December 1993. Dr. Wang served as Group Vice President from 1990 to 1993.
+    Prior to that, Dr. Wang had been a divisional Vice President. Dr. Wang
+    joined Applied Materials in 1980 as a Manager, Process Engineering and
+    Applications.
+ 
+(7) Mr. Yawata, age 62, was appointed President and Chief Executive Officer of
+    Applied Materials Japan, effective January 1, 1995. From 1985 through 1994,
+    Mr. Yawata was a Vice President, and from 1993 through 1994, he was
+    Executive Advisor to the Chairman of LSI Logic Corp. From 1985 through 1992,
+    Mr. Yawata was President, and from 1992 through 1993, he was Chairman, of
+    LSI Logic K.K.
+ 
+
+ 
+                                    PART II
+ 
+ITEM 5:  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+ 
+     "Stock Price History" on page 50 of the Applied Materials' 1996 Annual
+Report is incorporated herein by reference.
+ 
+     The Company's common stock is traded on the Nasdaq over-the-counter market.
+As of December 27, 1996, there were approximately 3,832 holders of record of the
+common stock.
+ 
+     To date, the Company has paid no cash dividends to its stockholders. The
+Company has no plans to pay cash dividends in the near future.
+ 
+ITEM 6:  SELECTED CONSOLIDATED FINANCIAL DATA
+ 
+     "Selected Consolidated Financial Data" on page 26 of the Applied Materials
+1996 Annual Report is incorporated herein by reference.
+ 
+ITEM 7:  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+         OF OPERATIONS
+ 
+     "Management's Discussion and Analysis" on pages 27 through 30 of the
+Applied Materials 1996 Annual Report is incorporated herein by reference.
+ 
+ITEM 8:  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+ 
+     The consolidated financial statements, together with the report thereon of
+Price Waterhouse LLP, Independent Accountants, dated November 20, 1996 and
+appearing on pages 31 through 48, and page 50 of the Applied Materials 1996
+Annual Report, are incorporated herein by reference.
+ 
+ITEM 9:  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+         FINANCIAL DISCLOSURE
+ 
+     None.
+ 
+
+ 
+                                    PART III
+ 
+     Pursuant to Paragraph G(3) of the General Instructions to Form 10-K,
+portions of the information required by Part III of Form 10-K are incorporated
+by reference from the Company's Proxy Statement to be filed with the Commission
+in connection with the 1997 Annual Meeting of Stockholders ("the Proxy
+Statement").
+ 
+ITEM 10:  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+ 
+     (a) Information concerning directors of the Company appears in the
+         Company's Proxy Statement, under Item 1 -- "Election of Directors."
+         This portion of the Proxy Statement is incorporated herein by
+         reference.
+ 
+     (b) For information with respect to Executive Officers, see Part I of this
+         Form 10-K.
+ 
+ITEM 11:  EXECUTIVE COMPENSATION
+ 
+     Information concerning executive compensation appears in the Company's
+Proxy Statement, under Item 1 -- "Election of Directors," and is incorporated
+herein by reference.
+ 
+ITEM 12:  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+ 
+     Information concerning the security ownership of certain beneficial owners
+and management appears in the Company's Proxy Statement, under Item
+1 -- "Election of Directors," and is incorporated herein by reference.
+ 
+ITEM 13:  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+ 
+     Information concerning certain relationships and related transactions
+appears in the Company's Proxy Statement, under Item 1 -- "Election of
+Directors," and is incorporated herein by reference.
+ 
+
+ 
+                                    PART IV
+ 
+ITEM 14:  EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+ 
+(A)  1.  FINANCIAL STATEMENTS
+ 
+        The consolidated financial statements listed in the accompanying index
+        to financial statements and financial statement schedule are filed or
+        incorporated by reference as part of this annual report on Form 10-K.
+ 
+     2. FINANCIAL STATEMENT SCHEDULE
+ 
+        The financial statement schedule listed in the accompanying index to
+        financial statements and financial statement schedule is filed as part
+        of this annual report on Form 10-K.
+ 
+     3. EXHIBITS
+ 
+        The exhibits listed in the accompanying index to exhibits are filed or
+        incorporated by reference as part of this annual report on Form 10-K.
+ 
+(B) Report on Form 8-K was filed on August 13, 1996. The report contains the
+    Company's financial statements for the period ended July 28, 1996, as
+    attached to its press release dated August 13, 1996.
+ 
+
+ 
+                         INDEX TO FINANCIAL STATEMENTS
+                        AND FINANCIAL STATEMENT SCHEDULE
+                                  (ITEM 14(A))
+ 
+
+ 
+
+ 
+     Schedules not listed above have been omitted because they are not required
+or the information required to be set forth therein is included in the
+Consolidated Financial Statements or Notes to Consolidated Financial Statements.
+ 
+     The consolidated financial statements listed in the above index that are
+included in the Company's Annual Report to Stockholders are hereby incorporated
+by reference. With the exception of the pages listed in the above index and the
+portion of such report referred to in items 1, 5, 6, 7 and 8 of this Form 10-K,
+the 1996 Annual Report to Stockholders is not to be deemed filed as part of this
+report.
+ 
+
+ 
+                               INDEX TO EXHIBITS
+ 
+     These Exhibits are numbered in accordance with the Exhibit Table of Item
+601 of Regulation S-K:
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+                                   SIGNATURES
+ 
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+ 
+                                          APPLIED MATERIALS, INC.
+ 
+                                          By /s/ JAMES C. MORGAN
+                                            ------------------------------------
+                                            James C. Morgan
+                                            Chairman of the Board and
+                                            Chief Executive Officer
+ 
+Dated: January 23, 1997
+ 
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+ 
+
+ 
+**By authority of powers of attorney filed herewith.
+ 
+
+ 
+                      REPORT OF INDEPENDENT ACCOUNTANTS ON
+                          FINANCIAL STATEMENT SCHEDULE
+ 
+To the Board of Directors of Applied Materials, Inc.
+ 
+     Our audits of the consolidated financial statements referred to in our
+report dated November 20, 1996 appearing on page 50 of the 1996 Annual Report to
+Stockholders of Applied Materials, Inc., (which report and consolidated
+financial statements are incorporated by reference in this Annual Report on Form
+10-K) also included an audit of the Financial Statement Schedule listed in Item
+14(a) of this Form 10-K. In our opinion, this Financial Statement Schedule
+presents fairly, in all material respects, the information set forth therein
+when read in conjunction with the related consolidated financial statements.
+ 
+/s/  PRICE WATERHOUSE LLP
+- ----------------------------------
+Price Waterhouse LLP
+ 
+San Jose, California
+November 20, 1996
+ 
+
+ 
+                                  SCHEDULE II
+ 
+                       VALUATION AND QUALIFYING ACCOUNTS
+ 
+                        ALLOWANCE FOR DOUBTFUL ACCOUNTS
+                                 (IN THOUSANDS)
+ 
+
+ 
+

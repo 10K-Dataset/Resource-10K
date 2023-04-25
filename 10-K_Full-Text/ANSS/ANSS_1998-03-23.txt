@@ -1,0 +1,813 @@
+
+10-K
+FORM 10-K
+
+
+
+ 
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C. 20549
+                                   FORM 10-K
+ (Mark One)
+   [ X ]   ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+           EXCHANGE ACT OF 1934 [FEE REQUIRED]
+
+           For the Fiscal Year Ended December 31, 1997
+
+
+   [   ]   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+           EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+
+           Commission file number: 0-20853
+
+                                  ANSYS, Inc.
+            (Exact name of registrant as specified in its charter)
+
+                        DELAWARE                     04-3219960
+             (State or other jurisdiction of      (I.R.S. Employer
+              incorporation or organization)     Identification No.)
+
+           275 Technology Drive, Canonsburg, PA         15317
+         (Address of principal executive offices)    (Zip Code)
+
+                                 724-746-3304
+             (Registrant's telephone number, including area code)
+
+          Securities registered pursuant to Section 12(b) of the Act:
+
+              None                                 None
+      (Title of each class)       (Name of exchange on which registered)
+
+          Securities registered pursuant to Section 12(g) of the Act:
+                    Common Stock, $.01 par value per share
+                               (Title of class)
+
+  Indicate by a check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X] No [ ]
+
+  Indicate by a check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein and will not be contained, to the
+best of the registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in PART III of this Form 10-K, or any
+amendment to this Form 10-K. [ ]
+
+  The aggregate market value of the voting stock held by non-affiliates of the
+Registrant, based upon the closing sale price of the Common Stock on March 18,
+1998 as reported on the Nasdaq National Market, was approximately $64,648,479.
+Shares of Common Stock held by each officer and director and by each person
+who owns 5% or more of the outstanding Common Stock have been excluded in that
+such persons may be deemed to be affiliates. This determination of affiliate
+status is not necessarily a conclusive determination for other purposes.
+
+   The number of shares of the Registrant's Common Stock, par value $.01 per
+share, outstanding as of March 18, 1998 was 16,309,776 shares.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+   Portions of the Annual Report to Stockholders for the fiscal year ended
+December 31, 1997 are incorporated by reference into Parts I, II and IV.
+Portions of the Proxy Statement for the Registrant's 1998 Annual Meeting of
+Stockholders to be held on May 6, 1998 are incorporated by reference into Part
+III.
+
+
+ 
+Important Factors Regarding Future Results
+
+Information provided by ANSYS, Inc. ("the Company), including information
+contained in this Annual Report on Form 10-K, or by its spokespersons may from
+time to time contain forward-looking statements concerning such matters as
+projected financial performance, market and industry segment growth, product
+development and commercialization or other aspects of future operations. Such
+statements, made pursuant to the safe harbor established by the securities laws,
+are based on the assumptions and expectations of the Company's management at the
+time such statements are made. The Company cautions investors that its
+performance (and, therefore, any forward-looking statements) is subject to risks
+and uncertainties. Various important factors, including but not limited to those
+discussed herein, may cause the Company's future results to differ materially
+from those projected in any forward-looking statement. Important information
+about the basis for those assumptions is contained in "Important Factors
+Regarding Future Results" included in Item 7, "Management's Discussion and
+Analysis of Financial Condition and Results of Operations," incorporated by
+reference to pages 12 through 17 of the Company's 1997 Annual Report to
+Stockholders. All information presented is as of December 31, 1997 unless
+otherwise indicated.
+
+                                    PART I
+
+ITEM 1: BUSINESS
+
+ANSYS, Inc. develops, markets and supports software solutions for design
+analysis and optimization. Engineering analysts and design engineers use the
+Company's software to accelerate product time to market, reduce production
+costs, improve engineering processes and optimize product quality and safety for
+a variety of manufactured products. The ANSYS product family features open,
+flexible architecture that permits easy integration into its customers'
+enterprise-wide engineering systems.
+
+Since its founding in 1970 as Swanson Analysis Systems, Inc. ("Swanson
+Analysis"), the Company has become a technology leader in the market for
+computer-aided engineering ("CAE") analysis software. The Company has
+longstanding relationships with customers in many industries, including
+automotive, aerospace and electronics. Using the Company's products, engineers
+can construct computer models of structures, compounds, components or systems to
+simulate performance conditions and physical responses to varying levels of
+stress, pressure, temperature and velocity. This helps reduce the time and
+expense of physical prototyping and testing.
+
+The Company's product line ranges from ANSYS/Multiphysics, a sophisticated
+multi-disciplinary CAE tool for engineering analysts, to its DesignSpace(R)
+products, innovative computer-aided design ("CAD")-integrated design
+optimization products for design engineers. The Company's individual design and
+analysis software programs, all of which are included in the ANSYS/Multiphysics
+program, are available as subsets or standalone products. The Company's
+multiphysics products comprise the core of its business and accounted for
+substantially all of the Company's revenue in 1997, 1996 and 1995. The Company's
+CAD integration products provide design optimization tools for use directly
+within a particular CAD product. CAD integration products are accessed from the
+graphical user interface of, and operate directly on the geometry produced
+within, the CAD product. The output from these programs may be read into any of
+the products in the ANSYS product family. The Company's product family features
+a unified database, a wide range of analysis functionality, a consistent, easy-
+to-use graphical user interface, support for multiple hardware platforms and
+operating systems (including Windows 95, Windows NT and Unix), effective user
+customization tools and integration with leading CAD systems. The Company's
+products are developed using the Company's ISO 9001-certified quality system.
+
+The Company markets its products principally through its global network of 36
+independent regional ANSYS Support Distributors ("ADSs"), which have 64 offices
+in 31 countries.
+
+PRODUCT DEVELOPMENT
+
+The Company makes significant investments in research and development and
+emphasizes a policy of accelerated new product releases. The Company's product
+development strategy centers on ongoing development and innovation of new
+technologies to increase productivity and provide solutions that customers can
+integrate into enterprise-wide engineering systems. The Company's product
+development efforts focus on extensions of the ANSYS product family with new
+functional modules, further integration with CAD products and the development of
+new products based on object-oriented technology. The Company's products run on
+the most widely used
+
+
+ 
+engineering computing platforms and operating systems, including Windows 95,
+Windows NT and most UNIX workstations, as well as on supercomputers such as the
+Cray.
+
+During 1997, the Company achieved the following with respect to major product
+development activities and releases:
+
+ . The release of ANSYS 5.4, a new and enhanced version of the Company's flagship
+  multiphysics product, and all component products. Major enhancements in this
+  release included improved robustness and usability, improved meshing
+  capabilities, newly added two-dimensional (2D) and 3D rigid-to-flexible
+  contact capabilities which increase the solution power of ANSYS software for
+  highly nonlinear analyses.
+
+ . ANSYS/ProFEA and ANSYS Connection for Pro/ENGINEER enhancement releases were
+  available subsequent to Parametric Technology Corporation's ("Parametric
+  Technology") release of its new versions of Pro/ENGINEER. These products
+  enable users to access Pro/ENGINEER geometry directly from ANSYS products.
+
+ . The Company released commercial versions of DesignSpace(R) 3.0. These products
+  are developed using a C++ object-oriented product development environment.
+  The DesignSpace(R) products improve the effectiveness of product development
+  by giving engineers a sounding board inside Autodesk's Mechanical Desktop(TM)
+  and SolidWorks(R). The software allows engineers to quickly and easily
+  simulate design performance and provides tighter integration between design
+  and analysis, as well as enhanced solving capabilities and parametric support.
+
+The Company's total research and development expense was $11.0 million, $9.8
+million and $8.3 million in 1997, 1996 and 1995, or 21.8%, 20.8% and 21.0% of
+total revenue, respectively. As of December 31, 1997, the Company's product
+development staff consisted of 99 full time employees, most of whom hold
+advanced degrees and have industry experience in engineering, mathematics,
+computer science or related disciplines.
+
+The Company uses multi-functional teams to develop its products and develops
+them simultaneously on multiple platforms to reduce subsequent porting costs. In
+addition to developing source code, these teams create and perform highly
+automated software verification tests; develop on-line documentation and help
+for the products; implement development enhancement tools, software
+configuration management and product licensing processes; and conduct regression
+tests of ANSYS products for all supported platforms.
+
+PRODUCT QUALITY
+
+During 1997, the Company continued to maintain ISO 9001 certification for its
+quality system. This standard applies to all of the Company's commercial
+software products and covers all product-related activities, from establishing
+product requirements to customer service practices and procedures. The ISO
+certification has also been extended to ANSYS Customer Services.
+
+In accordance with its ISO 9001 certification for its quality system, the
+Company's employees perform all product development and support tasks according
+to predefined quality plans, procedures and work instructions. These plans
+define for each project the methods to be used, the responsibilities of project
+participants and the quality objectives to be met. To ensure that the Company
+meets or surpasses the IS0 9001 standards, the Company establishes quality plans
+for all products and services, subjects product designs to multiple levels of
+testing and verification, and selects development subcontractors in accordance
+with processes established under the Company's quality system.
+
+SALES AND MARKETING
+
+The Company distributes its multiphysics products and services primarily through
+its global ASD network. This network provides the Company with a cost-effective,
+highly specialized channel of distribution and technical support. Approximately
+97% of the Company's revenue in 1997 was derived through the ASDs. All software
+licenses for the Company's products are directly between the Company and the end
+user.
+
+At December 31, 1997, the ASD network consists of 36 independent distributors in
+64 locations in 31 countries, including 16 in North America, eight in Europe, 11
+in the Asia Pacific Region and one in Brazil. The ASDs sell ANSYS and
+DesignSpace(R) products to new customers, expand installations within the
+existing customer base, offer
+
+
+ 
+consulting services and provide the first line of ANSYS technical support. The
+Company's ASD certification process helps to ensure that each ASD has the
+capacity on an ongoing basis to adequately represent the Company's product line
+and provide an acceptable level of services and consultation.
+
+The Company also has a sales management infrastructure in place to work with the
+ASDs to develop a more focused sales approach and to implement a worldwide major
+account strategy. As of December 31, 1997, the Company's sales management
+organization consisted of a North American Vice President of Sales, supported by
+four Regional Sales Directors and three Major Account Representatives, and an
+International Vice President of Sales, supported by a European Managing Director
+and five Regional Sales Directors.
+
+During 1997, the Company expanded its investment in its global sales and
+marketing organization through the establishment of strategic sales offices in
+the United Kingdom, Michigan and Japan. In total, these offices employ
+approximately twelve persons who are responsible for the implementation of sales
+and marketing initiatives in those geographic areas designed to support the
+Company's overall revenue growth and market share expansion strategies.
+
+During 1997, the Company also continued its efforts to expand the reseller
+channel for its CAD integrated products because these products are sold
+primarily to design engineers rather than engineering analysts. This channel
+compliments the ASD network by establishing a broader user base for the
+Company's CAD integrated products. As of December 31, 1997, the Company had
+signed agreements with 121 resellers. All resellers are required to meet the
+Company's standards for sales and customer support by ensuring they have
+appropriately trained marketing and technical personnel.
+
+The Company's products have an installed base of approximately 45,000 seats at
+commercial sites and approximately 76,000 seats at university sites worldwide.
+The Company's products are utilized by organizations ranging in size from small
+consulting firms to the world's largest industrial companies. No single customer
+accounted for more than 1.7% of the Company's revenue in fiscal 1997.
+
+Information with respect to foreign and domestic revenues may be found in Note
+15 to the Consolidated Financial Statements and the section entitled 
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations" of the Annual Report to Stockholders for the year ended December 31.
+1997 ("1997 Annual Report to Stockholders"), which financial statements are
+included in Exhibit 13.1 to this Annual Report on Form 10-K and incorporated
+herein by reference.
+
+Additionally, countries in the Asia Pacific region, including Japan, have
+recently experienced weaknesses in their currency, banking and equity markets.
+These weaknesses could adversely affect consumer demand for the Company's
+products and ultimately the Company's financial position or results of
+operations.
+
+STRATEGIC ALLIANCES AND MARKETING RELATIONSHIPS
+
+The Company has established and continues to pursue strategic alliances with
+advanced technology suppliers and marketing relationships with hardware vendors,
+specialized application developers and CAD providers. The Company believes these
+relationships allow it to accelerate the incorporation of advanced technology
+into the ANSYS product family, gain access to important new markets, expand the
+Company's sales channel, develop specialized product applications and provide
+direct integration with leading CAD systems.
+
+One such example is the Company's software license agreement with Livermore
+Software Corporation under which Livermore has provided LS/DYNA software for
+explicit dynamics solutions used in applications such as crash test simulation
+in the automotive and other industries. Under this arrangement, Livermore
+assists in the integration of the LS/DYNA software with the Company's pre- and
+postprocessing capabilities and provides updates and problem resolution in
+return for a share of revenue from sales of ANSYS/LS-DYNA.
+
+The Company has technical and marketing relationships with leading CAD vendors,
+such as Parametric Technology, Autodesk, Computervision, Intergraph,
+EDS/Unigraphics, SolidWorks and Dassault Systemes, to provide direct links
+between the vendors' CAD packages. These links facilitate the transfer of
+electronic data models between the CAD system and ANSYS products.
+
+The Company has established relationships with leading suppliers of computer
+hardware, including Hewlett-Packard, Compaq, Silicon Graphics/Cray, Sun
+Microsystems, Intergraph, IBM and Intel. The relationships typically
+
+
+ 
+provide the Company with joint marketing and advertising, Internet links with
+the hardware partner's home page and reduced equipment costs.
+
+The Company's Enhanced Solution Provider Program actively encourages specialized
+developers of niche software solutions to use ANSYS as a development platform
+for their applications. For example, Silverado Software and Consulting uses the
+Company's API to develop Silverado's vertical drop shock application that
+simulates the dropping of products onto an unyielding surface, such as an
+electronic appliance onto concrete. Other Enhanced Solution Providers include
+COMET Acoustics, which uses ANSYS/PrepPost to run its acoustic solver for the
+automobile industry, and AC Technologies, which provides an interface to ANSYS
+in connection with its plastic injection mold flow analysis product. In many
+cases, the sale of the Enhanced Solution Providers' products is accompanied by
+the sale of an ANSYS product.
+
+COMPETITION
+
+The CAD, CAE and computer-aided manufacturing ("CAM") markets are intensely
+competitive. In the traditional CAE market, the Company's primary competitors
+include MacNeal-Schwendler Corporation, Hibbitt, Karlsson and Sorensen, Inc. and
+MARC Analysis Research Corporation. The Company also faces competition from
+smaller vendors of specialized analysis applications in fields such as
+computational fluid dynamics. In addition, certain integrated CAD suppliers such
+as Parametric Technology and Structural Dynamics Research Corporation provide
+varying levels of design analysis and optimization and verification capabilities
+as part of their product offerings.
+
+The entrance of new competitors would be likely to intensify competition in all
+or a portion of the overall CAD, CAE and CAM market. Some of the Company's
+current and possible future competitors have greater financial, technical,
+marketing and other resources than the Company, and some have well-established
+relationships with current and potential customers of the Company. It is also
+possible that alliances among competitors may emerge and rapidly acquire
+significant market share or that competition will increase as a result of
+software industry consolidation. Increased competition may result in price
+reductions, reduced profitability and loss of market share, any of which would
+materially adversely affect the Company's business, financial condition and
+results of operations.
+
+The Company believes that the principal competitive factors affecting its market
+include product features and functionality, such as ease of use; flexibility;
+quality; ease of integration into CAD systems; file compatibility across
+computer platforms; range of supported computer platforms; performance; price
+and cost of ownership; customer service and support; company reputation and
+financial viability; and effectiveness of sales and marketing efforts. Although
+the Company believes that it currently competes effectively with respect to such
+factors, there can be no assurance that the Company will be able to maintain its
+competitive position against current and potential competitors. There also can
+be no assurance that CAD software companies will not develop their own analysis
+software, acquire analysis software from companies other than the Company or
+otherwise discontinue their relationships with the Company. If any of these
+events occurred, the Company's business, financial condition and results of
+operations could be materially adversely affected.
+
+PROPRIETARY RIGHTS AND LICENSES
+
+The Company regards its software as proprietary and relies on a combination of
+trade secret, copyright and trademark laws, license agreements, nondisclosure
+and other contractual provisions and technical measures to protect its
+proprietary rights in its products. The Company distributes its ANSYS software
+under software license agreements that grant customers nonexclusive licenses for
+the use of the Company's products, which are typically nontransferable. Although
+the Company distributes its products primarily through the ASDs, licenses of the
+Company's products are directly between the Company and end users. Use of the
+licensed software is usually restricted to the customer's internal operations on
+designated computers at specified sites unless the customer obtains a site
+license for their use of the software. Software and hardware security measures
+are also employed to prevent unauthorized use of the Company's software, and the
+licensed software is subject to terms and conditions prohibiting unauthorized
+reproduction of the software. Customers may either purchase a paid-up perpetual
+license of the technology with the right to purchase annually ongoing
+maintenance, support and updates, or may lease the product on an annual basis
+for a fee which includes the license, maintenance, support and upgrades.
+
+For certain software such as DesignSpace(R) and ANSYS/ED, the Company primarily
+relies on "shrink-wrapped" licenses that are not signed by licensees and
+therefore may be unenforceable under the laws of certain jurisdictions.
+
+
+ 
+The Company also seeks to protect the source code of its software as a trade
+secret and as unpublished copyrighted work. The Company has obtained a federal
+trademark protection for ANSYS and a number of other trademarks and logos. The
+Company has also obtained trademark registrations of ANSYS in a number of
+foreign countries and is in the process of seeking such registration in other
+foreign countries.
+
+Most employees of the Company have signed a Covenant Agreement under which they
+have agreed not to disclose trade secrets or confidential information or to
+engage in or become connected with any business which is competitive with the
+Company anywhere in the world while employed by the Company (and in some cases
+for specified periods thereafter), and that any products or technology created
+by them during their term of employment is the property of the Company. In
+addition, the Company requires all ASDs to enter into agreements not to disclose
+the Company's trade secrets and other proprietary information.
+
+Despite these precautions, there can be no assurance that misappropriation of
+the Company's technology will not occur. Further, there can be no assurance that
+copyright and trade secret protection will be available for the Company's
+products in certain countries, or that restrictions on competition will be
+enforceable.
+
+The software development industry is characterized by rapid technological
+change. Therefore, the Company believes that factors such as the technological
+and creative skills of its personnel, new product developments, frequent product
+enhancements, name recognition and reliable product maintenance are more
+important to establishing and maintaining a technology leadership position than
+the various legal protections of its technology which may be available.
+
+The Company is not aware that any of its products infringe the proprietary
+rights of third parties. There can be no assurance, however, that third parties
+will not claim in the future such infringement by the Company or its licensers
+or licensees with respect to current or future products. The Company expects
+that software product developers will increasingly be subject to such claims as
+the number of products and competitors in the Company's market segment grows and
+the functionality of products in different market segments overlaps. Any such
+claims, with or without merit, could be time-consuming, result in costly
+litigation, cause product shipment delays or require the Company to enter into
+royalty or licensing agreements. Such royalty or licensing agreements, if
+required, may not be available on terms acceptable to the Company.
+
+BACKLOG
+
+The Company generally ships its products within 30 days after acceptance of an
+order and execution of a software license agreement. Accordingly, the Company
+does not believe that its backlog at any particular point in time is indicative
+of future sales levels.
+
+EMPLOYEES
+
+As of December 31, 1997, the Company had 243 full time employees. At that date,
+there were also approximately six contract personnel and co-op students
+providing development services and technical support on an ongoing basis. The
+Company believes that its relationship with its employees is good.
+
+ITEM 2: PROPERTIES
+
+The Company's executive offices and those related to product development,
+marketing, production and administration are located in a 107,000 square foot
+office facility in Canonsburg, Pennsylvania, which is leased for an annual rent
+of approximately $1,227,000. The Company also leases office space in various
+locations throughout the world. ANSYS' foreign subsidiary leases office space
+for its operations. The Company owns substantially all equipment used in its
+facilities. Management believes that its facilities allow for sufficient space
+to support not only its present needs, but also allow for expansion and growth
+as the business may require in the foreseeable future.
+
+ITEM 3: LEGAL PROCEEDINGS
+
+None.
+
+
+ 
+ITEM 4: SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+No matters were submitted to a vote of security holders during the fourth
+quarter of fiscal year 1997.
+
+                                    PART II
+
+ITEM 5: MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED
+        STOCKHOLDER MATTERS
+
+The information required by this Item is incorporated by reference to page 35
+and the section captioned "Corporate Information" appearing in the Company's
+1997 Annual Report to Stockholders.
+
+ITEM 6: SELECTED FINANCIAL DATA
+
+The information required by this Item is incorporated by reference to page 1 of
+the Company's 1997 Annual Report to Stockholders.
+
+ITEM 7: MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+        RESULTS OF OPERATIONS
+
+The information required by this Item is incorporated by reference to pages 12
+through 17 of the Company's 1997 Annual Report to Stockholders, including the
+Important Factors Regarding Future Results.
+
+ITEM 8: FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+The information required by this Item is incorporated by reference to pages 18
+through 34 of the Company's 1997 Annual Report to Stockholders.
+
+ITEM 9: CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURE
+
+None.
+
+                                   PART III
+
+ITEM 10: DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+The information concerning the Company's directors and executive officers
+required by this Item is incorporated by reference to the Company's 1998 Proxy
+Statement and is set forth under "Information Regarding Directors" and
+"Information Regarding Executive Officers" therein.
+
+ITEM 11: EXECUTIVE COMPENSATION
+
+The information required by this Item is incorporated by reference to the
+Company's 1998 Proxy Statement and is set forth under "Executive Compensation"
+therein.
+
+ITEM 12: SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+The information required by this Item is incorporated by reference to the
+Company's 1998 Proxy Statement and is set forth under "Principal and Management
+Stockholders" therein.
+
+        
+
+
+ 
+ITEM 13: CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+The information required by this Item is incorporated by reference to the
+Company's 1998 Proxy Statement and is set forth under "Certain Transactions"
+therein.
+
+                                    PART IV
+
+ITEM 14: EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+(a) Documents Filed as Part of this Annual Report on Form 10-K:
+
+    1. Financial Statements. The following Consolidated Financial Statements of
+       ANSYS, Inc. and Report of Coopers & Lybrand L.L.P., Independent
+       Accountants, are incorporated by reference to pages 18 through 33 of the
+       Registrant's 1997 Annual Report to Stockholders:
+
+
+          -Report of Coopers & Lybrand L.L.P., Independent Accountants
+          -Consolidated Balance Sheets as of December 31, 1997 and 1996
+          -Consolidated Statements of Operations for the years ended December
+            31, 1997, 1996 and 1995
+          -Consolidated Statements of Cash Flows for the years ended December
+            31, 1997, 1996 and 1995
+          -Consolidated Statements of Stockholders' Equity for the years ended
+            December 31, 1997, 1996 and 1995
+          -Notes to Consolidated Financial Statements
+
+    2. Financial Statement Schedules. The following financial statement schedule
+       for ANSYS, Inc. is filed on page 12 of this Annual Report and should be
+       read in conjunction with the Consolidated Financial Statements of ANSYS,
+       Inc.
+
+
+          Schedule II - Valuation and Qualifying Accounts
+
+       Schedules not listed above have been omitted because they are not
+       applicable or are not required or the information required to be set
+       forth therein is included in the Consolidated Financial Statements or
+       Notes thereto.
+
+    3. Exhibits:
+
+       The Exhibits listed on the accompanying Exhibit Index immediately
+       following the financial statement schedules are filed as part of, or
+       incorporated by reference into, this Annual Report.
+
+(b) Reports on Form 8-K:
+
+The Registrant did not file any reports on Form 8-K during the last quarter of
+the period covered by this Annual Report.
+
+(c) Exhibits
+
+The Company hereby files as part of this Annual Report on Form 10-K the Exhibits
+listed in the attached Exhibit Index on page 10 of this Annual Report.
+
+(d) Financial Statement Schedules
+
+The Company hereby files as part of this Annual Report on Form 10-K the
+financial statement schedule listed in Item 14(a)2 as set forth above.
+
+
+ 
+                                  SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+                                 ANSYS, Inc.
+
+Date: March 24, 1998           By: /S/ Peter J. Smith
+                                  --------------------------------------------- 
+                                              Peter J. Smith
+                                 Chairman, President and Chief Executive Officer
+
+Date: March 24, 1998           By: /S/ John M. Sherbin II
+                                  --------------------------------------------- 
+                                              John M. Sherbin II
+                                 Chief Financial Officer, Senior vice President,
+                                       Finance and Administration, Secretary
+
+                               POWER OF ATTORNEY
+
+KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears
+below constitutes and appoints Peter J. Smith and John M. Sherbin II, joint and
+severally, his or her attorneys-in-fact, each with the power of substitution,
+for such person in any and all capacities, to sign any amendments to this Report
+on Form 10-K, and to file the same, with exhibits thereto and other documents in
+connection therewith, with the Securities and Exchange Commission, hereby
+ratifying and confirming all that each of said attorneys-in-fact, or substitute
+or substitutes, may do or cause to be done by virtue hereof.
+
+Pursuant to the requirements of the Securities and Exchange Act of 1934, this
+Report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated below.
+
+     Signature                          Title                         Date
+     ---------                          -----                         ----
+/S/ Peter J. Smith       Chairman of the Board of Directors,     March 24, 1998
+- -------------------      President and Chief Executive Officer 
+Peter J. Smith           (Principal Executive Officer)
+
+/S/  John M. Sherbin II  Chief Financial Officer, Senior Vice    March 24, 1998
+- -----------------------  President, Finance and Administration; 
+John M. Sherbin II       Secretary (Principal Financial Officer
+                         and Accounting Officer)
+
+/S/ Dr. John A. Swanson  Chief Technologist and Director         March 24, 1998
+- ----------------------- 
+Dr. John A. Swanson
+
+/S/ Jacqueline C. Morby  Director                                March 24, 1998
+- ----------------------- 
+Jacqueline C. Morby
+
+/S/ Roger B. Kafker      Director                                March 24, 1998
+- ----------------------- 
+Roger B. Kafker
+
+/S/ Gary B. Eichhorn     Director                                March 24, 1998
+- ----------------------- 
+Gary B. Eichhorn
+
+/S/ Roger J. Heinen, Jr. Director                                March 24, 1998
+- ----------------------- 
+Roger J. Heinen, Jr.
+
+/S/ John F. Smith        Director                                March 24, 1998
+- ----------------------- 
+John F. Smith
+
+
+ 
+                                 EXHIBIT INDEX
+                                 -------------
+Exhibit No.                               Exhibit
+- -----------                               -------
+   3.1       Restated Certificate of Incorporation of the Company (filed as
+             Exhibit 3.1 to the Quarterly Report on Form 10-Q for the fiscal
+             quarter ended June 30, 1996 and incorporated herein by reference).
+
+   3.2       By-laws of the Company (filed as Exhibit 3.3 to the Company's
+             Registration Statement on Form S-1 (File No. 333-4278) and
+             incorporated herein by reference).
+
+  10.1       1994 Stock Option and Grant Plan, as amended (filed as Exhibit 10.1
+             to the Company's Registration Statement on Form S-1 (File No. 333-
+             4278) and incorporated herein by reference).*
+
+  10.2       1996 Stock Option and Grant Plan, as amended (filed as Exhibit 10.1
+             to the Quarterly Report on Form 10-Q for the fiscal quarter ended
+             June 30, 1996 and incorporated herein by reference).*
+
+  10.3       1996 Stock Purchase Plan, as amended (filed as Exhibit 10.2 to the
+             Quarterly Report on Form 10-Q for the fiscal quarter ended June 30,
+             1996 and incorporated herein by reference).*
+
+  10.4       Investment and Stockholders' Agreement dated as of February 7, 1994
+             by and among SAS Acquisition Corp., SAS Software, Inc. and Dr. John
+             Swanson, the TA Investors (as defined) and Marcia S. Morton, as
+             amended (filed as Exhibit 10.5 to the Company's Registration
+             Statement on Form S-1 (File No. 333-4278) and incorporated herein
+             by reference).*
+
+  10.5       Investment Agreement among SAS Holdings, Inc., the Present
+             Investors (as defined), Peter J. Smith and the Parametric Investors
+             (as defined) dated July 8, 1994, as amended (filed as Exhibit 10.6
+             to the Company's Registration Statement on Form S-1 (File No. 333-
+             4278) and incorporated herein by reference).
+
+  10.6       Employment Agreement among the Registrant, a subsidiary of the
+             Registrant and Dr. John A. Swanson dated February 7, 1994 (filed as
+             Exhibit 10.7 to the Company's Registration Statement on Form S-1
+             (File No. 333-4278) and incorporated herein by reference).*
+
+  10.7       Incentive Stock Option Agreement between the Registrant and Dr.
+             John A. Swanson dated March 14, 1994, as amended (filed as Exhibit
+             10.8 to the Company's Registration Statement on Form S-1 (File No.
+             333-4278) and incorporated herein by reference).*
+
+  10.8       Agreement Regarding Inventions, Confidentiality and Competitive
+             Activities between the Registrant, subsidiaries of the Registrant
+             and Dr. John A. Swanson dated February 7, 1994 (filed as Exhibit
+             10.9 to the Company's Registration Statement on Form S-1 (File No.
+             333-4278) and incorporated herein by reference).*
+
+  10.9       Employment Agreement between a subsidiary of the Registrant and
+             Peter J. Smith dated as of March 28, 1994 (filed as Exhibit 10.10
+             to the Company's Registration Statement on Form S-1 (File No. 333-
+             4278) and incorporated herein by reference).*
+
+  10.10      Restricted Stock Agreement between the Registrant and Peter J.
+             Smith dated July 12, 1994 (filed as Exhibit 10.11 to the Company's
+             Registration Statement on Form S-1 (File No. 333-4278) and
+             incorporated herein by reference).*
+- ---------
+* Indicates management contract or compensatory plan, contract or arrangement.
+
+
+ 
+  10.11      Pledge Agreement between the Registrant and Peter J. Smith dated
+             July 12, 1994 (filed as Exhibit 10.12 to the Company's Registration
+             Statement on Form S-1 (File No. 333-4278) and incorporated herein
+             by reference).*
+
+  10.12      Letter Agreement between a subsidiary of the Registrant and Peter
+             J. Smith dated July 12, 1994 (filed as Exhibit 10.13 to the
+             Company's Registration Statement on Form S-1 (File No. 333-4278)
+             and incorporated herein by reference).*
+
+  10.13      Promissory Note between the Registrant and Peter J. Smith dated
+             July 12, 1994, as amended (filed as Exhibit 10.14 to the Company's
+             Registration Statement on Form S-1 (File No. 333-4278) and
+             incorporated herein by reference).*
+
+  10.14      Restricted Stock Agreement between the Registrant and Peter J.
+             Smith dated February 29, 1996, as amended.*
+
+  10.15      Incentive Option Agreement between the Registrant and Peter J.
+             Smith dated February 29, 1996, as amended.*
+
+  10.16      Key-Man Executive Life Insurance Policies for Peter J. Smith and
+             Dr. John A. Swanson (filed as Exhibit 10.17 to the Company's
+             Registration Statement on Form S-1 (File No. 333-4278) and
+             incorporated herein by reference).
+
+  10.17      Lease between National Build to Suit Washington County, L.L.C. and
+             the Registrant for the Southpointe property (filed as Exhibit 10.19
+             to the Company's Registration Statement on Form S-1 (File No. 333-
+             4278) and incorporated herein by reference).
+
+  10.18      Registrant's Pension Plan and Trust, as amended (filed as Exhibit
+             10.20 to the Company's Registration Statement on Form S-1 (File No.
+             333-4278) and incorporated herein by reference).*
+
+  10.19      Form of Director Indemnification Agreement (filed as Exhibit 10.21
+             to the Company's Registration Statement on Form S-1 (File No. 333-
+             4278) and incorporated herein by reference).*
+
+  13.1       Annual Report to Stockholders for the fiscal year ended December
+             31, 1997 (which is not deemed to be "filed" except to the extent
+             that portions thereof are expressly incorporated by reference in
+             this Annual Report on Form 10-K); filed herewith.
+
+  21         Subsidiaries of the Registrant; filed herewith.
+
+  23.1       Report of Coopers & Lybrand L.L.P.; filed herewith.
+
+  23.2       Consent of Coopers & Lybrand L.L.P.; filed herewith.
+
+  24.1       Powers of Attorney. Contained in page 9 of this Annual Report on
+             Form 10-K and incorporated herein by reference.
+
+  27.1       Financial Data Schedule; filed herewith.
+
+  27.2       Financial Data Schedule Amendment 10Q296; filed herewith.
+
+  27.3       Financial Data Schedule Amendment 10Q396; filed herewith.
+
+  27.4       Financial Data Schedule Amendment 10K96; filed herewith.
+
+  27.5       Financial Data Schedule Amendment 10Q197; filed herewith.
+
+  27.6       Financial Data Schedule Amendment 10Q297; filed herewith.
+
+  27.7       Financial Data Schedule Amendment 10Q397; filed herewith.
+
+  99         1996 Stock Purchase Plan Annual Report on Form 11-K.
+
+- ---------
+* Indicates management contract or compensatory plan, contract or arrangement.
+
+
+ 
+                                                                     SCHEDULE II
+
+                                  ANSYS, INC.
+
+                       Valuation and Qualifying Accounts
+
+ 
+
+

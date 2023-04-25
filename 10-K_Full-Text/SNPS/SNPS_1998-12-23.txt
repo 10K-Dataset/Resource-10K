@@ -1,0 +1,1628 @@
+
+10-K
+FORM 10-K FOR THE FISCAL YEAR ENDED SEPT. 30, 1998
+
+
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                             ----------------------
+
+                                    FORM 10-K
+
+                             ----------------------
+
+(Mark One)
+
+         [X]      ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                  SECURITIES EXCHANGE ACT OF 1934
+
+                  For the fiscal year ended September 30, 1998
+
+                                       OR
+
+         [ ]      TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                  SECURITIES EXCHANGE ACT OF 1934
+
+                        For the transition period from to
+
+                         Commission file number: 0-45138
+                                 SYNOPSYS, INC.
+             (Exact name of registrant as specified in its charter)
+
+            Delaware                                  56-1546236
+  (State or other jurisdiction           (I.R.S. Employer Identification Number)
+of incorporation or organization)
+
+                            700 East Middlefield Road
+                      Mountain View, California 94043-4033
+          (Address of Principal Executive Offices, including ZIP Code)
+
+       Registrant's telephone number, including area code: (650) 962-5000
+
+           Securities registered pursuant to Section 12(b) of the Act:
+
+                                                      Name of each exchange
+            Title of each class                       on which registered
+            -------------------                       -------------------
+                   None                                        None
+
+           Securities registered pursuant to Section 12(g) of the Act:
+                          Common Stock, $0.01 par value
+                         Preferred Share Purchase Rights
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. [X] Yes [ ] No
+
+        Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [ ]
+
+        The aggregate market value of voting stock held by non-affiliates of the
+registrant as of December 4, 1998, was approximately $3,364,251,000.
+
+        On December 4, 1998, approximately 68,361,000 shares of the registrant's
+Common Stock, $0.01 par value, were outstanding.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+        (1) Portions of the registrant's 1998 Annual Report to Stockholders for
+the fiscal year ended September 30, 1998 are incorporated by reference into
+Parts I, II and IV hereof.
+
+        (2) Portions of the registrant's Notice of Annual Meeting and Proxy
+Statement for the registrant's annual meeting of stockholders to be held on
+March 1, 1999 are incorporated by reference into Part III hereof.
+
+
+
+
+
+        Except for the historical information presented, the matters discussed
+in this Form 10-K include forward looking statements within the meaning of
+Section 27A of the Securities Exchange Act of 1933 and Section 21E of the
+Securities Exchange of 1934. The Company's actual results could differ
+materially from those projected in the forward looking statements as a result of
+risk factors that include, but are not limited to, those discussed under the
+caption "Factors That May Affect Future Results" under "Management's Discussion
+and Analysis of Financial Condition and Results of Operations" in the Company's
+1998 Annual Report to Stockholders, which is incorporated by reference in this
+Form 10-K and is included in Exhibit 13.1 hereto, as well as factors discussed
+elsewhere in this Form 10-K.
+
+
+
+                                     PART I
+
+ITEM 1. BUSINESS
+
+INTRODUCTION
+
+        Synopsys, Inc. ("Synopsys," or the "Company") is a leading supplier of
+electronic design automation (EDA) solutions to the global electronics industry.
+The Company develops, markets, and supports a wide range of integrated circuit
+(IC) design, verification and analysis products that are used by designers of
+advanced ICs, including system-on-a-chip ICs, and electronic systems. The
+Company also provides consulting services to help its customers improve their IC
+design processes and, where requested, to assist them with their IC designs. The
+Company's products and services offer its customers the opportunity to improve
+the productivity of their IC designers and enhance their design quality of
+results, thereby lowering IC development and manufacturing costs and reducing
+the time to market for new products. Synopsys also provides training and support
+services for its customers. Synopsys was incorporated in Delaware in 1987.
+
+ADDRESSING SEMICONDUCTOR CHALLENGES WITH EDA PRODUCTS
+
+        Over the past three decades the semiconductor industry has developed
+technology that has dramatically increased the number of transistors that can be
+placed on a chip while simultaneously reducing the cost of manufacturing each
+chip. In addition to allowing a particular chip to do more than before, each
+chip also runs faster. A state-of-the-art IC may have several million
+transistors on it, many of which are smaller than one percent of the width of a
+human hair, and run at 1 gigahertz, a speed that was unheard of even two years
+ago. Increasingly, functions that formerly were performed by multiple ICs
+attached to a printed circuit board are being combined in a single chip,
+referred to as a system-on-a-chip. The increased capacity of ICs has fostered
+the development of computers, communications networks, consumer electronics,
+navigation systems, and many other goods and services with tremendous
+capabilities at relatively low cost.
+
+        Exploiting this increased capacity presents challenges for the
+semiconductor and electronics industries. It takes substantial skill, time and
+effort on the part of chip designers to design a highly complex IC, running the
+risk that the product design and development cycle for a new product will
+lengthen while, at the same time, competition has shortened the life cycle of
+the product.
+
+        The rapid pace of semiconductor technology advancement has created both
+a "designer productivity gap" and a "silicon performance gap." EDA products play
+a critical role in addressing these problems by providing IC designers with
+tools and techniques to (a) reduce the time and manual effort required to
+design, analyze and verify individual ICs, (b) improve the performance and
+density of complex IC designs, and (c) enhance the reliability of the IC design
+and manufacturing process.
+
+        The designer productivity gap occurs because chip capability is
+increasing faster than the electronics industry is developing and deploying IC
+designers with skills required to make use of that capability. "High level" EDA
+tools help increase the productivity of designers by allowing them to specify
+the desired chip behavior using higher levels of abstraction than transistors,
+such as gates and Register-Transfer-Language descriptions, and deriving
+automatically the detailed final design from the higher level description. EDA
+tools also permit designers to analyze and verify the chip at these higher
+levels of abstraction. Additionally, as the electronics industry increasingly
+produces system-on-a-chip ICs, the EDA industry is developing tools and
+techniques for reusing
+
+
+
+
+
+
+existing IC designs and integrating disparate IC blocks onto a single chip, both
+of which offer the potential for significant time savings in the design cycle.
+
+        The silicon performance gap occurs because the design effort required to
+develop a chip that fully exploits a new semiconductor technology increases as
+the size of the transistors shrink. A gap has developed between potential
+performance that can be provided by new semiconductor technology and what a
+designer can readily take advantage of. As ICs have increased in complexity, the
+problems faced by IC designers have changed. An IC designer has always had to
+accommodate the effects of certain physical phenomena such as delay, power
+consumption, cross-talk, and metal migration into an IC design. At larger
+transistor sizes, designers could essentially ignore some phenomena until late
+in the design process and use relatively simple approximations to estimate the
+effects of others. As transistor size has dropped, these problems became more
+acute. To help manage the silicon performance gap, the EDA industry has
+developed more accurate physical analysis tools to provide the designer with
+insight into a wide range of physical phenomena plaguing IC designs, and to help
+them devise design techniques that avoid these obstacles. As system-on-a-chip
+designs become more prevalent, the development of these types of tools will grow
+more important in closing the silicon performance gap.
+
+SYNOPSYS PRODUCT OVERVIEW
+
+        Synopsys provides products and services that help customers meet the
+challenges of producing leading edge ICs and the products that incorporate them.
+Synopsys' design tools include an extensive line of logic synthesis and system
+design and analysis products that allow an IC designer to describe chip behavior
+in a high-level language, convert that description into a gate-level
+representation, and analyze the expected performance of the chip at the gate
+level. Synopsys' design tools also include tools to facilitate testing of an IC
+after the IC is built, as well as design reuse products that help reduce design
+time by permitting the straight-forward reuse of previously-proven circuit
+"blocks." Synopsys is also actively extending its product line to include
+floor-planning, placement, and routing tools.
+
+        Synopsys' verification products are used in several stages of the system
+and IC design process to ensure that the resulting IC performs the function that
+the IC designer intended. Synopsys' simulation products permit IC designers to
+simulate their designs at various levels of abstraction (behavioral, register
+transfer, gate-level, and switch logic level) and to explore tradeoffs between
+incorporating functionality in hardware or software. In addition, Synopsys is a
+leading provider of software and hardware models, which are used to test an IC
+design within the context of the system in which the IC will eventually be used.
+
+        Synopsys' EPIC Technology Group offers an extensive line of software
+tools to analyze power, timing and reliability concerns in an IC design at the
+transistor level. As semiconductor technology advances and IC complexity
+increases, transistor-level tools are becoming increasingly important in helping
+to close the silicon performance gap.
+
+        Synopsys offers its customers an extensive array of professional
+services, which can be tailored to meet their specific needs. These services may
+include methodology consulting, aimed at helping a customer improve its design
+process; design reuse consulting, which helps a customer modify its inventory of
+designs to facilitate their reuse in newer designs; and design assistance, which
+helps a customer design, verify or test a discreet portion of a chip or an
+entire chip. Synopsys' consulting services also include the provision of
+semiconductor libraries for IC vendors and their customers.
+
+        The Company markets its products on a worldwide basis and offers
+comprehensive customer service, education, consulting, and support as integral
+components of its product offerings. Products primarily are marketed through its
+direct sales force. The Company has licensed its products to many of the world's
+leading semiconductor, computer, communications and electronics companies.
+
+
+
+
+
+
+
+
+
+STRATEGY
+
+        Synopsys' strategy is to develop and offer to its customers the tools
+and methodologies required to enable large-scale deep submicron and
+system-on-a-chip design. The Company is seeking to develop a balanced portfolio
+of products that address both the designer productivity gap and the silicon
+performance gap. While continuing to enhance the performance of its current
+logic design products, Synopsys intends to enter the market for physical design
+tools by introducing design planning and top level routing products, both of
+which will be tightly linked with its logic synthesis tools. Synopsys also is
+continuing to expand the range and performance of its verification and
+transistor-level analysis products, and continuing its development of tools and
+techniques for enhancing design reuse. Finally, the Company will expand its
+ability to offer consulting services to its customers to assist them in taking
+full advantage of advances in semiconductor technology.
+
+MERGER WITH VIEWLOGIC SYSTEMS
+
+        In December 1997, the Company merged with Viewlogic Systems, Inc.
+(Viewlogic). Viewlogic's product portfolio included both IC design software and
+design and analysis software for printed circuit boards (PCBs) and electronic
+systems. After the merger, the IC related business of Viewlogic was fully
+integrated into the Synopsys business unit structure, with some products forming
+the core of a new business unit and others becoming part of an existing Synopsys
+business unit.
+
+        The PCB/Systems business of Viewlogic was operated as a separate
+subsidiary for fiscal year 1998. On October 2, 1998, the Company sold the
+PCB/Systems business to a group led by the management of that business. A
+summary of the transaction terms and a more detailed explanation of the reasons
+for the transaction can be found on pages 18 and 19 of the Synopsys 1998 Annual
+Report to Stockholders, which has been filed as Exhibit 13.1 to this Form 10-K
+report.
+
+        Although these changes took place over the course of the fiscal year,
+for clarity the discussion in this section describes the Company's organization
+as it existed at the end of the year.
+
+        Synopsys' merger with Viewlogic was accounted for as a
+pooling-of-interests. Accordingly, the Company's consolidated financial
+statements have been restated to include the financial position and results of
+Viewlogic for all periods presented. As a result, financial information
+presented in this Part I for fiscal years 1997 and 1996 may differ from the
+amounts for such years that appeared in the Company's Form 10-K reports for
+fiscal years 1997 and 1996.
+
+ORGANIZATION AND PRODUCTS
+
+        Synopsys is currently organized into three tool development groups --
+the Design Tools Group, the High-Level Verification Group and the EPIC
+Technology Group -- and a services group -- the Professional Services Group.
+Synopsys sells its products and services primarily through its direct sales
+force, although some products are sold through distributors in limited
+geographical areas, and some specific products are sold through OEM
+relationships.
+
+DESIGN TOOLS GROUP
+
+        The Design Tools Group (DTG) produces a variety of products focused on
+the high-level aspects of designing an IC. In the fourth quarter of fiscal 1998,
+DTG was divided into five business units.
+
+        Synthesis & Design Planning Business Unit
+
+        The Synthesis & Design Planning Business Unit maintains and extends
+Synopsys' logic synthesis products. Logic synthesis is key technology that maps
+a high-level description of desired chip behavior into a connected collection of
+logic gates and other circuit elements that performs the desired behavior.
+Design Compiler(TM) is the market-leading logic synthesis tool and is currently
+used by a broad range of companies engaged in the design of
+
+
+
+
+
+
+ICs to optimize their designs for performance and chip area. Design Compiler was
+introduced in 1988 and has been updated regularly since then. In fiscal year
+1998, Synopsys released Design Compiler(TM) 98 as the latest generation in the
+Design Compiler family. Design Compiler 98 provides customers with an average
+13% improvement in circuit timing while running three times faster than previous
+versions of Design Compiler. Design Compiler 98 also provides automated
+techniques for developing time budgets for the design process -- customers
+historically had to spend weeks for each design developing this type of
+information manually.
+
+        The Synthesis & Design Planning Business Unit also offers other tools to
+provide designers with a comprehensive design environment. RTL Analyzer(TM) lets
+IC designers analyze and improve their source code before synthesis and
+simulation runs. Power Compiler(TM) allows a designer to optimize their designs
+for power consumption. Module Compiler(TM) generates optimized general-purpose
+functions for an IC and permits optimization for size, performance and power
+consumption.
+
+        The Synthesis & Design Planning Business Unit is also developing better
+links between the logic synthesis process and the layout process, by enhancing
+its floor-planning management product, and developing various new physical
+design tools. As part of this development effort, in November 1998 Synopsys
+merged with Everest Design Automation, Inc. which has developed new gridless
+high-level routing technology. By mutual agreement, Synopsys and SEMATECH have
+ended their relationship that began in fiscal year 1996.
+
+        In February 1996, Synopsys entered into a six-year joint development and
+license agreement with International Business Machines Corporation (IBM),
+pursuant to which the two companies agreed to develop certain new products.
+During fiscal year 1997, the first joint product resulting from the alliance,
+PrimeTime(R), was introduced, and the parties agreed to terminate efforts to
+develop a product in one of the product areas covered by the Agreement. Synopsys
+expects to introduce a second joint product in January 1999. The development of
+the fourth product has been suspended. Synopsys and IBM are currently discussing
+the future of the alliance. There can be no assurance that joint development
+will continue, or that the products developed by the alliance will be
+successful.
+
+        Test and Static Verification Business Unit
+
+        The Test and Static Verification Business Unit develops products for
+developing test strategies for chips.
+
+        Accurate analysis of timing is critical to ensuring successful chip
+design. PrimeTime is a full-chip static timing analysis tool that provides
+customers with essential design verification capabilities. PrimeTime ensures
+that as a design advances from synthesis (high-level design) to transistor-level
+implementation, all timing-critical paths in the chip can be clearly understood
+and verified. During fiscal 1998, the Company announced that it would phase out
+Motive(TM), timing analysis software offered by Viewlogic, and Motive licensees
+were offered incentives to migrate to PrimeTime. In addition, certain features
+of Motive have been integrated into PrimeTime.
+
+        In fiscal year 1998, Synopsys introduced a new formal verification
+product---Formality(TM). Formality lets IC designers compare a design at
+different stages in the design process to determine whether they are
+functionally equivalent. Thus, if the original design was functionally correct,
+Formality permits the designer to detect errors introduced during implementation
+of the design. Historically, such errors have been detected by simulating the
+modified design using simulation test patterns validated with the functionally
+correct design. This approach is time-consuming. Formality provides an
+alternative method for detecting any functional differences without simulating
+the design, permitting the detection of errors earlier in the design process.
+Formality was designed to be tightly integrated with PrimeTime and Design
+Compiler. When used together as part of a new verification methodology, these
+tools can reduce the amount of gate-level simulation runs, thus enabling
+designers to complete their designs faster and with a higher level of
+confidence.
+
+        Synopsys provides software tools to help customers design into their ICs
+features that will facilitate the testing of chips after manufacture. After
+fabrication, an IC is typically subjected to time-consuming tests using
+expensive automatic testers to determine if it is free of manufacturing defects.
+Synopsys test synthesis software allows a designer to add circuitry to a design
+that will facilitate the post-fabrication testing. Synopsys also provides
+
+
+
+
+
+
+software to generate and evaluate test patterns that are ultimately used by the
+testers. Synopsys is currently integrating the Sunrise technology from the 1997
+Viewlogic merger into the Synopsys test product line.
+
+        System Level Design Business Unit
+
+        The System-Level Design Business Unit offers three principal products:
+
+        COSSAP(R) is a digital signal processing (DSP) design system targeted at
+designers of digital communications devices such as cellular telephones. COSSAP
+can simulate large, complex, high-level systems that would be hard to model with
+standard cycle-based or event-driven simulators, and includes a library of DSP
+building blocks.
+
+        Behavioral Compiler(TM) permits designers to create complex circuits in
+a high-level shorthand and then helps them explore design tradeoffs and pick the
+best architecture, thereby permitting them to work at a higher level of
+abstraction than does Design Compiler. In fiscal 1998, Synopsys added behavioral
+clock gating capability to Behavioral Compiler. This allows designers to develop
+and evaluate low power-consuming designs efficiently. Such low power designs are
+particularly important in portable telecommunications systems.
+
+        Protocol Compiler(TM), introduced in fiscal year 1998, facilitates the
+design and implementation of protocol control logic - a critical aspect of
+asynchronous transfer mode (ATM), Synchronous Optical Network (SONET) and
+Synchronous Digital Hierarchy (SDH) equipment for networking and
+telecommunications applications. Protocol Compiler enables control logic design
+at the behavioral level, generating output that is optimized for Synopsys'
+flagship Design Compiler tool. By taking protocol control logic design up to the
+behavioral level, Protocol Compiler greatly simplifies the process of designing
+complex chips targeted at networking applications.
+
+        FPGA Business Unit
+
+        The FPGA Business Unit provides logic synthesis products for
+high-density field programmable gate arrays (FPGAs) and complex programmable
+logic devices (CPLDS). In fiscal year 1998, Synopsys announced new versions of
+FPGA Compiler II(TM) and FPGA Express(TM). The new versions provide better
+support of the VHDL '93 language, new visual analysis tools, improved circuit
+timing, reduced circuit area, and support of fourteen new FPGA device families.
+
+        Design Reuse Business Unit
+
+        In June 1998, Synopsys and Mentor Graphics announced the publication of
+the Reuse Methodology Manual. The Reuse Methodology Manual provides designers
+with detailed guidelines on planning, specifications, design practices, coding,
+testing and documentation for creating reusable intellectual property (IP)
+blocks. The manual also provides users of third party design components
+descriptions of the deliverables designers should look for in reusable designs.
+
+        The Design Reuse Business Unit offers a wide range of reusable design
+modules, tools for creating reusable design blocks and, working through the
+Professional Services Group, design reuse consulting services based on the
+principles set forth in the Reuse Methodology Manual.
+
+        Synopsys' DesignWare(R) products provide IC designers with libraries of
+pre-designed, pre-verified Synopsys synthesizable (i.e., usable by Synopsys'
+design tools in optimizing a design), off-the-shelf design modules to
+incorporate into their own designs. DesignWare foundation libraries include
+commonly used functions. By the end of fiscal year 1998, 130 design modules were
+available in DesignWare libraries. DesignWare Macrocells include two commonly
+used but complex design components - an 8051 microcontroller block and a PCI 2.1
+bus interface block. The reuse of these building blocks represents a significant
+shift from traditional IC design, in which designs have been intimately tied to
+a particular semiconductor process technology or design methodology and not
+easily transferred from one chip design to the next. As IC designs get larger,
+the use of reusable design blocks will be an important method for helping to
+reduce overall design time.
+
+
+
+
+
+
+
+        DesignWare(R) Developer helps customers develop their own DesignWare
+components from which they can build an inventory of designs that can be used by
+multiple development teams or in subsequent design cycles.
+
+HIGH-LEVEL VERIFICATION GROUP
+
+        The High-Level Verification Group provides a range of products that
+allow IC designers to determine, at different levels of design and at various
+stages of the design process, whether an IC will perform as intended.
+Verification is becoming increasingly important in the design process, because
+as the complexity of chip design increases, the complexity of verification
+increases exponentially. A verification bottleneck is developing, with designers
+of complex chips spending half or more of their total design time performing
+verification. Synopsys verification products are intended to provide an
+integrated solution for customers that is accurate, exhaustive and fast.
+
+        Simulation Tools Group
+
+        In the simulation process, simulation software "exercises" an IC design
+by running it through a series of tests and comparing the actual outputs from
+the design with the expected output. The goal of simulation is to make sure that
+the functionality and timing performance of the design meet the original
+specifications of the chip. The Simulation Tools Group provides designers with
+several products for high-level simulation, including VCS(TM) for designs
+written in Verilog, VSS(TM) for designs written in VHDL, and Cyclone(R) for
+evaluating designs on a clock-cycle basis. The Company believes that VCS,
+acquired in connection with the acquisition of Viewlogic, is the fastest Verilog
+simulator on the market. VCS has gained market share in recent years; sales of
+VCS grew substantially in fiscal year 1998. VCS is supported by the all of the
+major semiconductor manufactures. In fiscal 1998, Synopsys (as part of the
+acquisition of Viewlogic) acquired Radiant Design Tools, a private company which
+had developed an optimization tool for VCS, which has now been incorporated into
+VCS to reduce the simulation time substantially for certain classes of designs.
+VSS and Cyclone are optimized for use with Design Compiler and the Company's
+other design tools.
+
+        VERA Group
+
+        The VERA Group was formed following Synopsys' acquisition of Systems
+Science, Inc. (SSI) in July 1998. The Company estimates that approximately half
+of the time spent in the verification phase of IC design is spent designing
+testbenches, which are the set of test vectors that are used by simulation tools
+in verifying that a chip design functions properly. The VERA Group provides
+software that helps generate, manage, and evaluate the data flowing between the
+simulator and the IC design. VERA(TM), the principal product of the Group,
+automates the design of testbenches, thereby offering the IC designer
+significant potential reductions in overall verification time. VERA is being
+integrated into the rest of Synopsys' simulation, modeling and hardware/software
+co-verification products.
+
+        Large Systems Technology Group
+
+        The Large Systems Technology Group provides high-level models and tools
+to facilitate the modeling and verification of complex electronic systems. The
+Group manages the Company's hardware and software modeling products as well as
+the Eagle hardware/software co-design tools acquired in the Viewlogic merger.
+
+        Since Synopsys' February 1994 merger with Logic Modeling Corporation,
+Synopsys has offered a full range of hardware and software modeling solutions.
+Synopsys' ModelSource(TM) 3000 series is a family of hardware modeling systems
+for ASIC and board level design which provide a flexible means for designers to
+model complex devices. ModelSource 3000 systems use the actual integrated
+circuit to model its own behavior. Synopsys' SmartModels(R) Libraries offer
+models for more than 13,000 commercially available ICs, including a wide range
+of microprocessors, controllers, DSPs, FPGAs, CPLDs, peripherals, memories and
+standard logic. Synopsys' bus interface models are used to verify that designs
+comply with established industry standards. Models are available for most
+popular standards. In addition, Synopsys offers modeling technologies to allow
+designers to create models
+
+
+
+
+
+of both standard and proprietary devices. These models support all major EDA
+simulation environments and a wide range of EDA platforms, giving designers
+access to a broad range of models to assist them with verification of their
+designs.
+
+        Success in the modeling business depends, in part, upon making available
+a wide range of models and model types. Synopsys continues to focus its modeling
+development efforts on enhancing its ability to quickly and efficiently produce
+and distribute new models to meet rising verification needs. Synopsys seeks to
+maintain close relationships with leading semiconductor vendors to ensure model
+accuracy and the earliest possible availability. Synopsys believes that future
+design verification methodologies, including those for system-on-a-chip, will
+require the availability of accurate, high performance models of complex
+components and intellectual property blocks.
+
+        The Large Systems Technology Group's Eagle Design Automation tools help
+shorten the development time of embedded systems through hardware/software
+(HW/SW) co-development. The term "embedded systems" describes ICs or PCBs that
+include a microprocessor or microcontroller. The use of embedded systems is
+growing, in part due to the growth of system-on-a-chip designs, which include
+logic, memory and at least one processor on the same chip. An important decision
+in embedded system design is the allocation of functions between hardware and
+software. An estimated 50% of the overall embedded systems design time is spent
+in HW/SW design and debug, and prototype debug. As a result, hardware and
+software development for embedded systems are becoming more interdependent, and
+given the costs of design cycle iterations, there are advantages to consider
+hardware and software interaction earlier in the design cycle. By helping IC
+designers consider this interaction early in the design cycle, the Company's
+Eaglei(TM) product, which is used for full system integration testing, and its
+EagleV(TM) product, which is used for verification of embedded processors within
+an ASIC, can help reduce the overall costs of embedded system designs.
+
+EPIC TECHNOLOGY GROUP
+
+        Advanced electronics products -- most notably in the consumer
+electronics and wireless communications markets -- require chips that operate at
+very high speeds, use very little power and last for an extended period of time.
+Designers of the complex ICs used in these devices rely heavily on analysis and
+verification tools that operate at the transistor level. Since Synopsys'
+February 1997 merger with EPIC Design Technology, Inc., Synopsys has offered its
+customers a complete line of transistor-level tools -- characterization,
+simulation, modeling, analysis, extraction and physical verification -- which
+enable designers to address timing, power, and reliability requirements of mixed
+signal, high performance and low power ICs.
+
+        Transistor level analysis and verification is important for two
+principal reasons. First, speed, power consumption and reliability often require
+tradeoffs - for example, fast chips tend to consume more power and produce more
+heat (which hurts reliability) than slower chips. It is at the transistor level
+that the designer has the last chance to optimize a design for speed, power and
+reliability, and the last chance to analyze and correct design flaws that can
+result in the failure of a chip to function as intended. Second, as ICs become
+more powerful and more complex, the size of the transistors and wires contained
+in those ICs shrinks below one quarter micron (250 nanometers), and the total
+length of wire connecting the transistors lengthens, in some cases to as much as
+one mile. At these dimensions, ICs exhibit unique electrical effects; having the
+ability to analyze these effects is central to the success of an advanced IC
+design.
+
+        The EPIC Technology Group's principal software tools include:
+
+        TimeMill(R) is a transistor-level simulator and dynamic timing analyzer.
+Used interactively in the prelayout phase, TimeMill helps designers optimize the
+performance of transistor-level blocks, memories and data paths. TimeMill allows
+the designer to quickly explore changes in voltage levels, temperature or
+process parameters to improve design quality. After layout, TimeMill detects
+problems such as charge sharing and race conditions that are more prevalent in
+advanced IC design.
+
+        PowerMill(R) simulates block and full chip current and power behavior,
+providing fast and accurate current and power analysis and power diagnostics.
+PowerMill offers static and dynamic diagnostics to identify design flaws
+
+
+
+
+
+
+that cause unnecessary power consumption. After layout, PowerMill helps
+designers confirm that power consumption is acceptable before committing the
+design to silicon.
+
+        The Analog Circuit Engine (ACE(TM)) is an analog simulation option
+available for TimeMill and PowerMill tools. When used with TimeMill or
+PowerMill, ACE provides a high speed, accurate, mixed analog/digital circuit
+simulation solution.
+
+        PathMill(R) is a static timing tool that provides a detailed critical
+path analysis and static timing verification capability. PathMill provides
+accurate and flexible modeling for mixed level static timing analysis.
+PathMill's behavioral-, gate- and transistor-level models allow accurate
+analysis at each level of the design hierarchy, allowing the user to mix
+top-down design and bottom-up implementation.
+
+        Arcadia(R) provides full chip and net-by-net resistance and capacitance
+(RC) extraction, and thereby permits designers to focus design analysis effort
+on critical paths and spend less time on the segments that do not require
+in-depth analysis. Beginning in July 1998, Arcadia offers a distributed
+processing capability that enables designers to extract and analyze data from
+very large designs in a short amount of time.
+
+        AMPS(R) is the transistor-level tool that simultaneously optimizes
+power, delay and area in digital CMOS circuits. AMPS automatically resizes
+transistors, making individual transistors larger or smaller to find the
+combination that will best meet user-defined power, speed and area goals without
+changing the functionality of the design.
+
+        DelayMill(R) enables accurate timing verification at the transistor
+level. DelayMill is an advanced delay calculation system for IC, which
+calculates layout parasitics and interconnect delay effects, and is especially
+useful for IC designers working with multi-million transistor designs in
+nanometer silicon.
+
+        RailMill(R) evaluates the reliability of power, clock and signal
+networks in a design. Evaluating reliability issues during the design process
+helps prevent field failures by accurately locating EM and voltage-drop
+violations on full-chip and block-level power networks. RailMill also pinpoints
+potential failures on signal nets, performs what-if analysis for proper-pad
+placement, and offers recommendations for correct bus widths.
+
+        PowerArc(TM) is a stand-alone cell library power characterization tool
+that generates highly accurate gate-level power libraries in the Synopsys
+Liberty(TM) library format. Very low power ASIC and cell-based designers seeking
+longer battery life, proper package selection and lower system noise levels use
+PowerArc.
+
+        PowerGate(TM) is a dynamic gate-level power analysis tool used in an
+ASIC or structured custom design flow. It determines peak power consumption,
+isolates excessive power dissipation problems, and identifies power-hungry
+vectors and instructions.
+
+        The EPIC Technology Group also offers the Direct Silicon Access(TM)
+silicon characterization services (DSA), which provides accurate models for
+nanometer processes to customers. The DSA methodology correlates expected chip
+behavior with measurements performed on actual silicon test circuits, which then
+provides a reliable source of data for customers to create accurate technology
+files for RC extraction and circuit simulation tools.
+
+PROFESSIONAL SERVICES GROUP
+
+        The Professional Services Group (PSG) provides customized high-level
+design support for IC and systems designs. Synopsys consultants are experienced
+designers who provide customers with in-depth technical expertise in the use of
+Synopsys' design tools, design methodology and Reuse Methodology Manual
+principles. Synopsys offers both methodology and project consulting. Methodology
+consulting is aimed at increasing customer productivity, promoting the adoption
+of the Synopsys' design methodology and reuse principles and solving immediate
+needs of customers' design teams. Project consulting involves Synopsys experts
+working with customer design teams from design implementation through
+simulation, synthesis and tape-out.
+
+
+
+
+
+
+
+        PSG also provides design reuse consulting services. Customers for this
+service typically have many IC designs for performing a variety of functions.
+Ideally, to decrease the time to get a new product to market, where feasible,
+the customer would like to incorporate its existing older designs into the new
+product. However, those designs may not currently be in a form that is
+well-suited for redeployment. Based on the principles of the Reuse Methodology
+Manual, the focus of a typical consulting engagement is to modify the customer's
+designs and design techniques and to organize them into easily accessible
+electronic libraries, in order to facilitate later reuse.
+
+        The Library Services Group within PSG develops and supports silicon
+libraries of logic functions used in developing ICs. The Library Services Group
+develops silicon libraries that are optimized to our customer's semiconductor
+process. The silicon libraries contain the models that are required by the EDA
+design tools in order to design an IC. Since Synopsys' acquisition of Silicon
+Architects in May 1995, Synopsys has offered a proprietary gate array IC
+architecture, known as Cell-Based Array (CBA(TM)). This includes Macrocell
+Libraries which are collections of low level elements that are combined together
+to make a complete IC. Synopsys has entered into CBA license agreements with
+many of the world's leading ASIC vendors and vertically integrated semiconductor
+companies. In addition to licensing semiconductor manufacturers, Synopsys also
+licenses a CBA design system to independent design houses and end users in order
+to facilitate and increase the number of designs that target CBA technology.
+Synopsys has expanded its offering of silicon libraries to include standard
+cells and memories. The libraries developed by the Library Services Group within
+PSG are optimized to work with the Synopsys EDA tools.
+
+CUSTOMER SERVICE AND SUPPORT
+
+        Synopsys devotes substantial resources to providing customers with
+technical support, customer education, and consulting services. The Company
+believes that a high level of customer service and support is critical to the
+adoption and successful utilization of its high-level design automation
+methodology.
+
+        As a result of the continued growth of Synopsys' installed base, as well
+as customer requests for education, support and consulting services, Synopsys'
+service revenue has increased as a percentage of total revenue, representing
+40%, 37% and 34% of total revenue in fiscal 1998, 1997 and 1996, respectively.
+
+TECHNICAL SUPPORT
+
+        Technical support for the Company's products is provided through both
+field- and corporate-based technical application engineering groups. Synopsys
+provides customers with software updates and a formal problem identification and
+resolution process through the Synopsys Technical Support Center. Synopsys'
+central entry point of all customer inquiries is SolvNET(SM), a direct-access
+service available worldwide, 24 hours per day, through electronic mail and the
+World Wide Web that lets customers quickly seek answers to design questions or
+more insight into design problems. SolvNET combines Synopsys' complete design
+knowledge database with sophisticated information retrieval technology. Updated
+daily, it includes documentation, design tips, and answers to user questions.
+
+CUSTOMER EDUCATION SERVICES
+
+        Synopsys offers a number of workshops focused on high-level design,
+simulation, behavioral synthesis, logic synthesis, and test. Regularly scheduled
+workshops are offered in Mountain View, California; Austin, Texas; Burlington,
+Massachusetts; Reading, England; Rungis, France; Munich, Germany; Tokyo and
+Osaka, Japan; and Seoul, Korea. On-site workshops are available on a worldwide
+basis at customers' facilities. To date, over 24,000 design engineers have been
+trained in the use of Synopsys' products through participation in Synopsys
+workshops.
+
+PRODUCT WARRANTIES
+
+        Synopsys generally warrants its products to be free from defects in
+media and to substantially conform to material specifications for a period of 90
+days. Synopsys has not experienced significant returns to date.
+
+
+
+
+
+
+
+SUPPORT FOR INDUSTRY STANDARDS
+
+        Synopsys actively supports standards that it believes will help its
+customers increase productivity and solve design problems, including support for
+key standards that promote system-on-a-chip design and facilitate
+interoperability of tools from different vendors.
+
+        Synopsys' products support the two most commonly used hardware
+description languages, VHDL and Verilog HDL, and industry standard data formats
+for the exchange of data between Synopsys' tools and other EDA products.
+
+        Synopsys is a member of the Virtual Socket Interface Alliance (VSIA), an
+industry group formed to promote standards that facilitate the integration and
+reuse of functional blocks of intellectual property, and has representatives on
+the VSIA's Steering Working Group and several Development Working Groups. A
+representative of Synopsys is on the Board of Directors of the standards groups
+Open Verilog International, VHDL International, Open Model Forum, and the
+steering committee of the Electronics Industry Association/EDIF. Synopsys
+participates in standards activities conducted by these and other leading EDA
+industry bodies.
+
+        To enhance interoperability, in fiscal 1998, Synopsys launched the
+Tap-In program to provide open access to selected interfaces for Synopsys tools.
+Synopsys has made its text-based synthesis library format, Liberty, as well as
+its timing constraint format, SDC, available to all, including the Company's
+competitors, on reasonable terms.
+
+        Synopsys' products are written mainly in the C language and utilize the
+Motif and X11 standards for graphical user interfaces. Synopsys' software runs
+principally under the UNIX operating system and is offered on the most widely
+used workstation platforms, including those from Sun Microsystems,
+Hewlett-Packard, IBM, Digital Equipment Corporation and Sony. Many of Synopsys'
+products now run on the Windows 95/98 and Windows NT operating systems.
+
+SALES, DISTRIBUTION AND BACKLOG
+
+        Synopsys markets its products and services primarily through its direct
+sales and service force in over 30 offices in the United States and principal
+international markets. Synopsys employs highly skilled engineers and technically
+proficient sales persons capable of serving the sophisticated needs of the
+customers' engineering and management staffs.
+
+        For fiscal years 1998, 1997 and 1996, international sales represented
+39%, 41% and 42%, respectively, of Synopsys' total revenue. Additional
+information relating to domestic and foreign operations is contained in Note 7
+of Notes to Synopsys' Consolidated Financial Statements.
+
+        The Company has 21 sales/support centers throughout the United States.
+Internationally, the Company has sales/support offices in Canada, Finland,
+France, Germany, Hong Kong, India, Israel, Italy, Japan, Korea, the People's
+Republic of China, Singapore, Sweden, Taiwan and the United Kingdom, including
+regional headquarters offices in Germany, Japan and Singapore. On a limited
+basis, the Company also utilizes manufacturer's representatives and
+distributors. The Company has established such relationships in Australia,
+Brazil, Hong Kong, India, Korea, Malaysia and Singapore.
+
+        Synopsys' backlog on November 1, 1998 was approximately $241.1 million,
+compared to approximately $213.9 million on November 1, 1997. Upon consummation
+of Synopsys' merger with Viewlogic, Viewlogic's backlog was added to that of
+Synopsys. Viewlogic orders received subsequent to the merger were accepted under
+the Synopsys order acceptance policy. No adjustments have been made to the
+November 1, 1997 backlog number to account for differences between Viewlogic's
+and Synopsys' methods of calculating backlog.
+
+
+
+
+
+
+        Backlog consists of orders for system and software products sold under
+perpetual and time-based licenses with customer requested ship dates within
+three months, orders for customer training and consulting services which are
+expected to be completed within one year, and subscription services, maintenance
+and support with contract periods extending up to fifteen months.
+
+        The Company has not historically experienced significant cancellations
+of orders. Customers frequently reschedule or revise the requested ship dates of
+orders, however, which can have the effect of deferring recognition of revenue
+for these orders beyond the expected time period.
+
+
+RESEARCH AND DEVELOPMENT
+
+        The Company believes that its future performance will depend in large
+part on its ability to maintain and enhance its current product lines, develop
+new products, maintain technological competitiveness, and meet an expanding
+range of customer requirements. In addition to product development teams, the
+Company maintains an advanced research group that is responsible for exploring
+new directions and applications of its core technologies, migrating new
+technologies into the existing product lines, and maintaining strong research
+relationships outside the Company within both industry and academia.
+
+        During fiscal years 1998, 1997 and 1996, research and development
+expenses, net of capitalized software development costs, were $154.4 million,
+$146.6 million and $120.0 million, respectively. Synopsys capitalized software
+development costs of approximately $2.1 million, $4.2 million and $3.7 million
+in fiscal 1998, 1997 and 1996, respectively. The Company anticipates that it
+will continue to commit substantial resources to research and development in the
+future.
+
+MANUFACTURING
+
+        Synopsys' manufacturing operations consist of assembling, testing,
+packaging and shipping its system and software products and documentation needed
+to fulfill each order. Manufacturing is currently performed in Synopsys'
+Mountain View, California and Beaverton, Oregon, facilities. Outside vendors
+provide tape and CD-ROM duplication, printing of documentation and manufacturing
+of packaging materials. Synopsys employees manufacture and test the hardware
+modeling system products, with some sub-assembly performed by outside vendors.
+Synopsys typically ships its software products, with either a permanent or
+temporary access key, within 10 days of acceptance of customer purchase orders
+and execution of software license agreements, unless the customer has requested
+otherwise. For its hardware modeling products, Synopsys buys components and
+assemblies in anticipation of orders and configures units to match orders,
+typically shipping within one to ten weeks of order acceptance, unless the
+customer has requested otherwise.
+
+COMPETITION
+
+        The EDA industry is highly competitive. Synopsys competes against other
+EDA vendors, and with customers' internally developed design tools and internal
+design capabilities, for a share of the overall EDA budgets of the customers.
+Synopsys' competitors include companies that offer a broad range of products and
+services, such as Cadence Design Systems, Inc. (Cadence), Mentor Graphics, Inc.
+(Mentor) and Avant! Corporation (Avant!), as well as companies, including
+numerous start-up companies, that offer products focused on a discrete phase of
+the IC design process. In order to remain successful against such competition,
+Synopsys must continue to enhance its current products and bring to market new
+products that address the increasingly sophisticated needs of its customers on a
+timely and cost-effective basis. Synopsys also will have to expand its ability
+to offer consulting services. The failure to enhance existing products, develop
+or acquire new products, or to expand Synopsys' ability to offer such services
+would have a material adverse effect on Synopsys' business, financial condition
+and results of operations.
+
+        Technology advances and customer requirements are causing a change in
+the nature of competition among EDA vendors. Increasingly, EDA companies compete
+on the basis of "design flows" involving a broad range of
+
+
+
+
+
+
+products (including both logic and physical design tools) and services rather
+than on the basis of individual "point" tools performing a discrete phase of the
+design process. No single EDA company currently offers its customers
+industry-leading products in a complete design flow, although the Company and
+its principal competitors are taking steps to fill gaps in their respective
+design flows.
+
+        Synopsys offers a wide range of logic design tools but currently offers
+a relatively limited range of physical design tools. In November 1998, Synopsys
+merged with Everest Design Automation, Inc., a private company developing
+physical design software. Synopsys will need to develop or acquire additional
+physical design tools in order to offer a complete design flow. Synopsys is also
+attempting to expand its capacity to offer professional services, but for the
+foreseeable future will continue to have less capacity than Cadence to provide
+such services.
+
+        The market for physical design tools is dominated by Cadence and Avant!,
+both of which are attempting to complete their design flows. Cadence recently
+acquired a private company offering synthesis and other logic design products
+and certain physical design verification products from Lucent Technologies, both
+of which will increase the direct competition between Synopsys and Cadence. In
+addition, Cadence's acquisition of logic design products may lead to reductions
+in purchases of Synopsys' logic design software by Cadence, which was one of
+Synopsys' largest customers in fiscal 1998. Avant! also recently acquired a
+private company offering logic synthesis software, which will increase the
+direct competition between Synopsys and Avant!.
+
+        To meet competition, Synopsys will continue to enhance its product line
+and promote the adoption of new products and methodologies. However, there can
+be no assurance that Synopsys will be able to compete successfully against
+current and future competitors or that competitive pressure faced by Synopsys
+will not materially adversely affect its business, operating results and
+financial condition.
+
+PRODUCT SALES AND LICENSING AGREEMENTS
+
+        Synopsys typically licenses its software to customers under
+non-exclusive license agreements that transfer title to the media only and that
+restrict use of the software to internal purposes at specified sites. The
+Company currently licenses the majority of its software as a network license
+that allows a number of individual users to access the software on a defined
+network. Software is available under a perpetual license or a time-based
+license, usually with a term of one year. License fees are dependent on the type
+of license, product mix and number of copies of each product required. On
+certain products and services, the Company will collect royalty payments in
+addition to license fees.
+Synopsys offers its system products for sale or lease.
+
+PROPRIETARY RIGHTS
+
+        The Company primarily relies upon a combination of copyright, patent,
+trademark and trade secret laws and license and nondisclosure agreements to
+establish and protect proprietary rights in its products. The source code for
+Synopsys' products is protected both as a trade secret and as an unpublished
+copyrighted work. However, it may be possible for third parties to develop
+similar technology independently, provided they have not violated any
+contractual agreements or intellectual property laws. In addition, effective
+copyright and trade secret protection may be unavailable or limited in certain
+foreign countries. Because the EDA industry is characterized by rapid
+technological change, the Company believes that factors such as the
+technological and creative skills of its personnel, new product developments,
+frequent product enhancements, name recognition and reliable product
+maintenance, coupled with the various forms of legal protection that are
+available for its technology, provide an effective means for the Company to
+establish and maintain a technology leadership position. The Company currently
+holds several U.S. and foreign patents on some of the technologies included in
+its products and will continue to pursue additional patents in the future.
+
+        Although the Company believes that its products, trademarks and other
+proprietary rights do not infringe on the proprietary rights of third parties,
+there can be no assurance that infringement claims will not be asserted against
+the Company in the future or that any such claims will not require the Company
+to enter into royalty arrangements or result in costly and time-consuming
+litigation.
+
+
+
+
+
+
+
+EMPLOYEES
+
+        As of September 30, 1998, Synopsys had a total of 2,592 employees, of
+whom 2,040 were based in the United States and 552 were based internationally.
+Synopsys' future financial results depend, in part, upon the continued service
+of its key technical and senior management personnel and its continuing ability
+to attract and retain highly qualified technical and managerial personnel.
+Competition for such personnel is intense. Experience at Synopsys is highly
+valued in the EDA industry, and the Company's employees are recruited
+aggressively by competitors and by start-up companies. The Company's salaries
+are competitive in the market, but under certain circumstances, start-up
+companies can offer more attractive stock option packages. As a result, the
+Company has experienced, and may continue to experience, significant employee
+turnover. There can be no assurance that Synopsys can retain its key managerial
+and technical employees or that it can attract, assimilate or retain other
+highly qualified technical and managerial personnel in the future. None of
+Synopsys' employees is represented by a labor union. Synopsys has not
+experienced any work stoppages and considers its relations with its employees to
+be good.
+
+ITEM 2. PROPERTIES
+
+        Synopsys' principal offices are located in four adjacent buildings in
+Mountain View, California, which together provide approximately 400,000 square
+feet of available space. This space is leased through February 2003. Within one
+half mile of these buildings, in Sunnyvale, California, Synopsys occupies
+approximately 200,000 square feet of space in two adjacent buildings, which is
+under lease through 2007, and approximately 70,000 square feet of space in a
+third building, which is under lease until April 2002.
+
+        To meet the Company's foreseeable expansion needs, Synopsys has acquired
+seven acres between its Sunnyvale and Mountain View campuses and twenty-four
+acres of undeveloped land in San Jose, California. In November 1998, Synopsys
+acquired an additional nine acres of undeveloped land in San Jose for $9.5
+million.
+
+        The Company leases approximately 67,000 square feet of space in
+Beaverton, Oregon for administrative, marketing, research and development and
+support activities. This facility is leased through March 2002.
+
+        The Company currently leases 21 other domestic sales offices throughout
+the United States, as well as three remote engineering locations. Synopsys
+currently leases international sales and service offices in Canada, Finland,
+France, Germany, Hong Kong, India, Israel, Italy, Japan, Korea, the People's
+Republic of China, Singapore, Sweden, Taiwan, and the United Kingdom. The
+Company also leases a research and development facility in India.
+
+        The Company believes that its existing facilities are adequate for its
+current needs and that additional space will be available as needed on
+commercially acceptable terms.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+        There are no material legal proceedings pending against the Company.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+        No matters were submitted for a vote of security holders during the
+fourth quarter of the fiscal year covered by this Report.
+
+
+
+
+
+
+
+
+EXECUTIVE OFFICERS OF THE COMPANY
+
+        The executive officers of the Company and their ages, as of September
+30, 1998, are as follows:
+
+
+
+
+        Dr. Aart J. de Geus co-founded Synopsys and currently serves as Chief
+Executive Officer and Chairman of the Board of Directors. Since the inception of
+Synopsys in December 1986 he has held a variety of positions including Senior
+Vice President of Engineering and Senior Vice President of Marketing. From 1986
+to 1992 Dr. de Geus served as Chairman of the Board. He served as President from
+1992 to 1998. Dr. de Geus has served as Chief Executive Officer since January
+1994 and has held the additional title of Chairman of the Board since February
+1998. He has served as a Director since 1986. From 1982 to 1986, Dr. de Geus was
+employed by General Electric Corporation, where he was the Manager of the
+Advanced Computer-Aided Engineering Group. Dr. de Geus holds an M.S.E.E. from
+the Swiss Federal Institute of Technology in Lausanne, Switzerland and a Ph.D.
+in electrical engineering from Southern Methodist University.
+
+        Dr. Chi-Foon Chan joined Synopsys as Vice President of Application
+Engineering & Services in May 1990. Since April 1997 he has served as Chief
+Operating Officer and since February 1998 he has held the additional title of
+President. Dr. Chan also became a Director of the Company in February 1998. From
+September 1996 to February 1998 he served as Executive Vice President, Office of
+the President. From February 1994 until April 1997 he served as Senior Vice
+President, Design Tools Group and from October 1996 until April 1997 as Acting
+Senior Vice President, Design Reuse Group. Additionally, he has held the titles
+of Vice President, Engineering and General Manager, DesignWare Operations and
+Sr. Vice President, Worldwide Field Organization. From March 1987 to May 1990,
+Dr. Chan was employed by NEC Electronics, where his last position was General
+Manager, Microprocessor Division. From 1977 to 1987, Dr. Chan held a number of
+senior engineering positions at Intel Corporation. Dr. Chan holds an M.S. and
+Ph.D. in computer engineering from Case Western Reserve University.
+
+        Dr. William W. Lattin is an Executive Vice President of Synopsys and has
+been a Director of Synopsys since July 1995. Dr. Lattin joined Synopsys in
+February 1994 in connection with Synopsys' merger with Logic Modeling
+Corporation (LMC). He has served as Executive Vice President since July 1995.
+From October 1994 to July 1995 he served as Senior Vice President, Corporate
+Marketing, and from February 1994 until October 1994 as Senior Vice President,
+Logic Modeling Group. From December 1992 to February 1994, Dr. Lattin served as
+President, Chief Executive Officer and Director of LMC, and from May 1992 to
+December 1992 he served as Chairman of the Board and Chief Executive Officer of
+LMC. From 1986 to 1992, Dr. Lattin served as Chairman of the Board of Directors,
+President and Chief Executive Officer of Logic Automation Inc., a predecessor of
+LMC. Dr. Lattin holds a B.S.E.E. and an M.S.E.E. from the University of
+California at Berkeley, and a Ph.D. in electrical engineering from Arizona State
+University. Dr. Lattin is a Director of RadiSys Corporation, a supplier of
+embedded computers, as well as a Director of Easy Street Online Services, an
+internet service provider and a Trustee of the Oregon Graduate Institute.
+
+
+
+
+
+
+        David P. Burow joined Synopsys in connection with the Company's merger
+with Viewlogic in December 1997 and currently serves as Senior Vice President,
+High Level Verification Group. He served as Sr. Vice President, Simulation Tools
+Group from December 1997 to August 1998. Mr. Burow had served as Vice President
+of Viewlogic's ASIC Group since October 1996. He joined Viewlogic in August 1995
+as Vice President of the High Level Design Group after serving in a number of
+key management positions from October 1991 through August 1995 at Silicon
+Architects, which was acquired by Synopsys in May 1995. Preceding Silicon
+Architects, Mr. Burow held other management positions within the EDA and
+semiconductor industries, including President of CrossCheck, a test company;
+General Manager of the Analog division at Dazix; and President of Simucad, Inc.,
+a simulation company. Mr. Burow holds a B.S. in Engineering from Purdue
+University and an M.B.A. from the University of Chicago.
+
+        Dr. Raul Camposano joined Synopsys in January 1994 and currently serves
+as Senior Vice President, General Manager of the Design Tools Group and Chief
+Technical Officer. From January 1997 to December 1997 he served as Senior Vice
+President and General Manager, Design Tools Group. From May 1996 until January
+1997 he served as Vice President, Engineering, Design Tools Group. From January
+1996 until May 1996 he served as General Manager and Senior Director, Design
+Planning Group, and from January 1994 until January 1996 as Director of
+Engineering, Design Environment Group. Prior to joining Synopsys, Dr. Camposano
+concurrently served as the Design Technology Director for the German National
+Research Center for Computer Science and as Professor of Computer Science at the
+University of Paderborn, Germany. Between 1986 and 1991, Dr. Camposano led the
+project on high-level synthesis at the IBM T.J. Watson Research Center. Active
+in the EDA professional community, he also serves on various technical program
+committees and editorial boards worldwide and has published over 70 articles and
+three books on electronic design automation. Dr. Camposano holds a B.S.E.E. from
+the University of Chile, and a Ph.D. in computer science from the University of
+Karlsruhe.
+
+        Ernst W. Hirt joined Synopsys in November 1997 and serves as Senior Vice
+President, Human Resources and Facilities. Mr. Hirt was Vice President of Human
+Resources at VLSI Technology, Inc. from March 1984 until he joined Synopsys. He
+has also worked in high level Human Resources positions at Intel, Siemens,
+Honeywell and General Electric. Mr. Hirt holds a Masters Degree in Economics
+from the University of Cincinnati.
+
+        Gary A. Larsen, Senior Vice President and General Manager, EPIC
+Technology Group, joined Synopsys nearly two years ago when EPIC Design
+Technology (EPIC) merged with Synopsys. Prior to his current position, from July
+1997 to March 1998, he was the Senior Vice President and Co-General Manager of
+the EPIC Technology Group. From February 1997, the time of the Synopsys/EPIC
+merger, to July 1997, he was Vice President, Marketing of the EPIC Technology
+Group. From August 1994 to February 1997, Mr. Larsen held the position of Vice
+President, Worldwide Sales of EPIC. Prior to that he was Vice President of the
+ASIC Solutions Group at Cadence where he held a variety of managerial positions
+from 1984 to 1994. Mr. Larsen holds a B.A. in Economics from Stanford
+University.
+
+        Paul Lippe joined Synopsys in October 1992 and currently serves as
+Senior Vice President, Business and Market Development (since May 1997) and as
+Corporate Secretary (since 1992). From November 1996 until May 1997 he served as
+Senior Vice President, Business Development and Legal, and from January 1995
+until November 1996 as Vice President, Business Development and Legal. Prior to
+1992, Mr. Lippe was employed by Solbourne Computer as Vice President, Corporate
+Development, General Counsel and Secretary, and also served as Chairman of the
+Colorado Air Quality Control Commission. Mr. Lippe holds a B.A. from Yale
+College and a J.D. from Harvard Law School.
+
+        Dr. Edward Ross joined Synopsys in July 1998 as Senior Vice President
+and General Manager of the Professional Services Group. Prior to joining
+Synopsys, Dr. Ross served as President of Technology and Manufacturing at Cirrus
+Logic since 1995, and President and Chief Executive Officer of Power
+Integrations, Inc. from 1989 to 1995. Dr. Ross holds a B.S. in electrical
+engineering from Drexel University and an M.S., M.A., and Ph.D., also in
+electrical engineering, from Princeton University.
+
+
+
+
+
+
+        Robert Russo joined Synopsys in April 1993 and currently serves as
+Senior Vice President, Worldwide Sales and Services. From June 1997 to April
+1998 he served as Senior Vice President, Sales and Services for the Americas and
+Europe. From April 1993 until June 1997 Mr. Russo served as Vice President,
+North America Sales. Prior to joining Synopsys Mr. Russo held senior-level
+management positions in sales and marketing with Cray Research, Stardent
+Computers and Votan. Mr. Russo holds degrees in mechanical and aeronautical
+engineering from New York Institute of Technology.
+
+        Faysal Sohail serves as Senior Vice President of Corporate Strategic
+Planning. He previously served as Senior Vice President and General Manager,
+Design Architects Group from January 1997 to September 1998. From June 1996 to
+January 1997 he served as Vice President and General Manager of the Design Reuse
+Group. Mr. Sohail is one of the founders of Silicon Architects, acquired by
+Synopsys in 1995. Prior to the acquisition, he was Director of Marketing for
+Silicon Architects. Prior to founding Silicon Architects, Mr. Sohail held
+various managerial positions in development and marketing at Actel from 1986 to
+1990 and LSI Logic from 1985 to 1986. Mr. Sohail holds a B.S. in computer
+engineering from the University of Illinois.
+
+        David Sugishita joined Synopsys in June 1997 and currently serves as
+Senior Vice President, Finance and Operations and Chief Financial Officer. From
+1995 to 1997 he served as Senior Vice President of Finance and Administration
+and Chief Financial Officer for Actel, and from 1994 to 1995 Mr. Sugishita was
+Senior Vice President of Finance and Administration, Chief Financial Officer and
+Treasurer for Micro Component Technology. From 1991 to 1994, he was Vice
+President and Corporate Controller and Chief Accounting Officer for Applied
+Materials. From 1982 to 1991 he served as Vice President of Finance,
+Semiconductor Group for National Semiconductor. He holds a B.S. in finance from
+San Jose State University and an M.B.A. from Santa Clara University. Mr.
+Sugishita currently serves as a Director for Micro Component Technology, as well
+as being active in the community by serving on two school boards.
+
+        There are no family relationships among any executive officers of the
+Company.
+
+
+                                     PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+        The information required by this item is set forth on page 46 of the
+Synopsys 1998 Annual Report to Stockholders and is incorporated herein by
+reference.
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+        Information required by Item 201 of Regulation S-K is set forth on page
+1 of the Synopsys 1998 Annual Report to Stockholders and is incorporated herein
+by reference.
+
+        In November 1998, the Company acquired all of the outstanding shares of
+Everest Design Automation, Inc. (Everest), pursuant to a merger of a newly
+formed, wholly-owned subsidiary of the Company with and into Everest in exchange
+for 1.4 million shares of the Company's common stock and the assumption of
+options to purchase (after conversion) 100,000 shares of the Company's common
+stock. Such shares were not registered under the Securities Act of 1933 as
+amended (the 1933 Act) in reliance upon the exemptions provided by Section 4(2)
+of the 1933 Act and/or Regulation D promulgated thereunder as a transaction by
+an issuer not involving a public offering.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+        The information required by this item is set forth on pages 14 through
+25 of the Synopsys 1998 Annual Report to Stockholders and is incorporated herein
+by reference.
+
+
+
+
+
+
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK.
+
+        Information relating to quantitative and qualitative disclosure about
+market risk is set forth in Synopsys' 1998 Annual Report to Stockholders under
+the captions "Interest Rate Risk" and "Foreign Currency Risk" in Management's
+Discussion and Analysis of Financial Condition and Results of Operations, and
+"Foreign Exchange Hedging" in Note 1 of the Notes to Consolidated Financial
+Statements. Such information is incorporated herein by reference.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+        The consolidated financial statements required by this item are included
+on pages 27 through 46 of the Synopsys 1998 Annual Report to Stockholders and
+are incorporated herein by reference. With the exception of the aforementioned
+information and the information incorporated in Items 5, 6 and 7, the Synopsys
+1998 Annual Report to Stockholders is not to be deemed filed as part of this
+Annual Report on Form 10-K. The report of Synopsys' Independent Auditors on
+Synopsys' consolidated financial statements is included on page 26 of the
+Synopsys 1998 Annual Report to Stockholders and is incorporated herein by
+reference. The report of Synopsys' Independent Auditors on the consolidated
+financial statement schedule required by this item is included in Exhibit 23
+hereto.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+
+Not applicable.
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+        Information with respect to Directors is included under the caption
+"Proposal One --Election of Directors" in Synopsys' Notice of Annual Meeting and
+Proxy Statement for Synopsys' annual meeting of stockholders to be held on March
+1, 1999 (the "Proxy Statement") and is incorporated herein by reference.
+Information with respect to Executive Officers is included under the heading
+"Executive Officers of the Company" in Part I hereof after Item 4.
+
+        Information regarding delinquent filers pursuant to Item 405 of
+Regulation S-K is included under the heading "Section 16(a) Beneficial Ownership
+Reporting Compliance" under the caption "Additional Information" in the Proxy
+Statement and is incorporated herein by reference.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+        The information required by this item is included under the heading
+"Executive Compensation" under the caption "Proposal One -- Election of
+Directors" in the Proxy Statement and is incorporated herein by reference.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+        The information required by this item is included under the heading
+"Security Ownership of Certain Beneficial Owners and Management" under the
+caption "Proposal One --Election of Directors" in the Proxy Statement and is
+incorporated herein by reference.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+        The information required by this item is included under the caption
+"Proposal One --Election of Directors" in the Proxy Statement and is
+incorporated herein by reference.
+
+                                     PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+(a) The following documents are filed as part of this Annual Report on Form
+10-K:
+
+
+
+
+
+
+
+1. FINANCIAL STATEMENTS
+
+        The following documents are included in the Synopsys 1998 Annual Report
+to Stockholders and incorporated by reference in Item 8:
+
+
+
+
+
+2. FINANCIAL STATEMENT SCHEDULE
+
+        The following schedule of the Company is included herein:
+
+        Valuation and Qualifying Accounts and Reserves (Schedule II)
+
+All other schedules are omitted because they are not applicable or the amounts
+are immaterial or the required information is presented in the consolidated
+financial statements or notes thereto.
+
+The following documents are included in Exhibit 23 hereto:
+
+Exhibit 23.1   Report on Financial Statement Schedule of Synopsys, Inc.
+Exhibit 23.2   Report of Deloitte and Touche LLP, Independent Auditors
+Exhibit 23.3   Consent of KPMG Peat Marwick LLP, Independent Auditors
+Exhibit 23.4   Consent of Deloitte and Touche LLP, Independent Auditors
+
+3. EXHIBITS
+
+        See Item 14(c) below. The following compensatory plans are required to
+be filed as exhibits. Certain of such plans have been incorporated by reference
+from prior filings, as indicated under Item 14(c):
+
+Exhibit 99.1 --  1992 Stock Option Plan as restated and amended
+Exhibit 99.2 --  Employee Stock Purchase Program, as restated and amended
+Exhibit 99.3 --  International Employee Stock Purchase Program, as restated and 
+                 amended
+Exhibit 99.4 --  Synopsys deferred compensation plan dated September 30, 1996
+Exhibit 99.5 --  1994 Non-Employee Directors Stock Option Plan, as restated and
+                 amended
+Exhibit 99.6 --  Form of Executive Employment Agreement dated October 1, 1997
+Exhibit 99.7 --  Schedule of Executive Employment Agreements
+Exhibit 99.8 --  1998 Nonstatutory Stock Option Plan
+
+(b) Reports on Form 8-K
+
+        Report on Form 8-K, filed on November 16, 1998 for the purpose of filing
+the Company's press release announcing its financial results for the quarter and
+fiscal year ended September 30, 1998, including condensed consolidated
+statements of income and balance sheets.
+
+
+
+
+
+
+(c) Exhibits
+
+
+
+
+
+
+
+
+
+- ---------------
+
+(1) Incorporated by reference to an exhibit of the same number filed with the
+Company's Registration Statement on Form S-1 (File No. 33-45138) which became
+effective February 24, 1992
+
+(2) Incorporated by reference to an exhibit of the same number filed with the
+Company's Report on Form 10-K for the year ended September 30, 1992
+
+(3) Incorporated by reference to an exhibit of the same number filed with the
+Company's Report on Form 10-K for the year ended September 30, 1993
+
+(4) Incorporated by reference to an exhibit of the same number filed with the
+Company's Report on Form 10-K for the year ended September 30, 1995
+
+(5) Incorporated by reference to an exhibit of the same number filed with the
+Company's Report on Form 10-Q for the quarterly period ended December 31, 1995
+
+(6) Incorporated by reference to an exhibit of the same number filed with the
+Company's Report on Form 10-Q for the quarterly period ended March 31, 1996
+
+(7) Incorporated by reference to the Company's Registration Statement on Form
+S-8, filed on May 3, 1996
+
+(8) Incorporated by reference to an exhibit to the Registration Statement on
+Form S-4 (File No. 333-21129) of Synopsys, Inc. as filed with the Securities and
+Exchange Commission on February 5, 1997
+
+(9) Incorporated by reference to Exhibit 1 to the Company's Registration
+Statement on Form 8-A (File No. 000-19807) of Synopsys, Inc. as filed with the
+Securities and Exchange Commission on October 31, 1997
+
+(10) Incorporated by reference to Annex A to the form of prospectus contained in
+the Registration Statement on Form S-4 (File No. 333-39713) of Synopsys, Inc. as
+filed with the Securities and Exchange Commission on November 7, 1997
+
+(11) Incorporated by reference to Exhibit 10.29(a) in the Company's quarterly
+report on Form 10-Q (File No. 000-19807) as filed with the Securities and
+Exchange Commission on February 13, 1998
+
+(12) Incorporated by reference to Exhibit 10.29(a) in the Company's quarterly
+report on Form 10-Q (File No. 000-19807) as filed with the Securities and
+Exchange Commission on February 13, 1998
+
+(13) Incorporated by reference to an exhibit with the same number filed with the
+Company's Annual Report on Form 10-K for the fiscal year ended September 30,
+1997 (File no. 000-198007)
+
+(14) Incorporated by reference to Exhibit 10.3 in the Company's Registration
+Statement on Form S-8 (File No. 333-50947) as filed with the Securities and
+Exchange Commission on April 24, 1998
+
+
+
+
+                                   SIGNATURES
+
+Pursuant to the requirements of section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+
+                              SYNOPSYS, INC.
+
+
+                              By /s/ AART J. DE GEUS
+                                 ----------------------------------------------
+                                 Aart J. de Geus
+                                 Chief Executive Officer and Chairman
+                                 of the Board of Directors
+                                 (Principal Executive Officer)
+
+
+                              By /s/ DAVID SUGISHITA
+                                 ----------------------------------------------
+                                 David Sugishita
+                                 Senior Vice President, Finance and Operations,
+                                 and Chief Financial Officer
+                                 (Principal Financial and Accounting Officer)
+
+
+
+Date: December 23, 1998
+
+
+
+
+                                POWER OF ATTORNEY
+
+        KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature
+appears below constitutes and appoints Aart J. de Geus and David Sugishita, and
+each of them, as his true and lawful attorneys-in-fact and agents, with full
+power of substitution and resubstitution, for him and in his name, place and
+stead, in any and all capacities, to sign any and all amendments (including
+post-effective amendments) to this Report on Form 10-K, and to file the same,
+with all exhibits thereto, and other documents in connection therewith, with the
+Securities and Exchange Commission, granting unto said attorneys-in-fact and
+agents, and each of them, full power and authority to do and perform each and
+every act and thing requisite and necessary to be done in connection therewith,
+as fully to all intents and purposes as he might or could do in person, hereby
+ratifying and confirming all that said attorneys-in-fact and agents, or any of
+them, or their or his substitute or substitutes, may lawfully do or cause to be
+done by virtue hereof. Pursuant to the requirements of the Securities Exchange
+Act of 1934, this report has been signed below by the following persons on
+behalf of the registrant and in the capacities and on the dates indicated:
+
+
+
+
+
+
+
+                                   SCHEDULE II
+
+                                 SYNOPSYS, INC.
+                              --------------------
+
+                 VALUATION AND QUALIFYING ACCOUNTS AND RESERVES
+                                 (in thousands)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- --------------------
+
+(1) Includes $830 and $1,576 charged to other income in fiscal 1997 and 1996,
+    respectively.
+
+(2) Fiscal 1998 includes a $2,049 reduction due to the sale of Viewlogic
+    Systems, Inc. Other amounts are translation and other adjustments.
+
+(3) Accounts written off, net of recoveries.
+
+
+
+
+
+
+
+
+
+
+
+
+
+- ---------------
+
+(1) Incorporated by reference to an exhibit of the same number filed with the
+Company's Registration Statement on Form S-1 (File No. 33-45138) which became
+effective February 24, 1992
+
+(2) Incorporated by reference to an exhibit of the same number filed with the
+Company's Report on Form 10-K for the year ended September 30, 1992
+
+(3) Incorporated by reference to an exhibit of the same number filed with the
+Company's Report on Form 10-K for the year ended September 30, 1993
+
+(4) Incorporated by reference to an exhibit of the same number filed with the
+Company's Report on Form 10-K for the year ended September 30, 1995
+
+(5) Incorporated by reference to an exhibit of the same number filed with the
+Company's Report on Form 10-Q for the quarterly period ended December 31, 1995
+
+(6) Incorporated by reference to an exhibit of the same number filed with the
+Company's Report on Form 10-Q for the quarterly period ended March 31, 1996
+
+(7) Incorporated by reference to the Company's Registration Statement on Form
+S-8, filed on May 3, 1996
+
+(8) Incorporated by reference to an exhibit to the Registration Statement on
+Form S-4 (File No. 333-21129) of Synopsys, Inc. as filed with the Securities and
+Exchange Commission on February 5, 1997
+
+(9) Incorporated by reference to Exhibit 1 to the Company's Registration
+Statement on Form 8-A (File No. 000-19807) of Synopsys, Inc. as filed with the
+Securities and Exchange Commission on October 31, 1997
+
+(10) Incorporated by reference to Annex A to the form of prospectus contained in
+the Registration Statement on Form S-4 (File No. 333-39713) of Synopsys, Inc. as
+filed with the Securities and Exchange Commission on November 7, 1997
+
+(11) Incorporated by reference to Exhibit 10.29(a) in the Company's quarterly
+report on Form 10-Q (File No. 000-19807) as filed with the Securities and
+Exchange Commission on February 13, 1998
+
+(12) Incorporated by reference to Exhibit 10.29(a) in the Company's quarterly
+report on Form 10-Q (File No. 000-19807) as filed with the Securities and
+Exchange Commission on February 13, 1998
+
+(13) Incorporated by reference to an exhibit with the same number filed with the
+Company's Annual Report on Form 10-K for the fiscal year ended September 30,
+1997 (File no. 000-198007)
+
+(14) Incorporated by reference to Exhibit 10.3 in the Company's Registration
+Statement on Form S-8 (File No. 333-50947) as filed with the Securities and
+Exchange Commission on April 24, 1998
+

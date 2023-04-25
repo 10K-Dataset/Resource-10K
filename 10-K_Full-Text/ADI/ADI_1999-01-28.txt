@@ -1,0 +1,1281 @@
+
+10-K
+ANALOG DEVICES, INC.
+
+
+
+================================================================================
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                                    FORM 10-K
+
+(MARK ONE)
+    [X]        ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                     SECURITIES EXCHANGE ACT OF 1934 FOR THE
+                       FISCAL YEAR ENDED OCTOBER 31, 1998
+
+                                       OR
+
+    [ ]      TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+        FOR THE TRANSITION PERIOD FROM_______________ TO ________________
+
+                           COMMISSION FILE NO. 1-7819
+
+                              ANALOG DEVICES, INC.
+
+             (Exact name of registrant as specified in its charter)
+
+             MASSACHUSETTS                                        04-2348234
+    (State or other jurisdiction of                           (I.R.S. Employer
+     incorporation or organization)                          Identification No.)
+
+    ONE TECHNOLOGY WAY, NORWOOD, MA                               02062-9106
+(Address of principal executive offices)                          (Zip Code)
+
+                                 (781) 329-4700
+
+              (Registrant's telephone number, including area code)
+
+                             ----------------------
+
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+
+COMMON STOCK $.16 2/3 PAR VALUE                NEW YORK STOCK EXCHANGE
+
+      Title of Each Class              Name of Each Exchange on Which Registered
+
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT:
+
+                                      NONE
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ ]
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or such shorter period that the registrant
+was required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. YES X NO
+
+     The aggregate market value of the voting stock held by non-affiliates of
+the registrant was approximately $4,932,238,195 based on the closing price of
+the Common Stock on the New York Stock Exchange Composite Tape reporting system
+on December 31, 1998.
+
+     As of December 31, 1998, there were 160,576,413 shares of $.16 2/3 par
+value Common Stock outstanding.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+                     DOCUMENT DESCRIPTION                             10-K PART
+                     --------------------                             ---------
+     Portions of Annual Report to Shareholders for the 
+        fiscal year ended October 31, 1998                             I and II
+     Portions of the Registrant's Proxy Statement for the 
+        Annual Meeting of Stockholders to be held March 9, 1999           III
+
+================================================================================
+
+
+
+
+
+
+                                     PART I
+
+ITEM 1.   BUSINESS
+
+COMPANY OVERVIEW
+
+Analog Devices, Inc. (Analog, ADI or the Company) is a semiconductor company
+that designs, manufactures and markets precision high-performance integrated
+circuits (ICs) used in analog and digital signal processing. Virtually all of
+ADI's products are components, which are typically incorporated by original
+equipment manufacturers (OEMs) in a wide range of equipment and systems for use
+in communications, computer, industrial, instrumentation, military/aerospace,
+automotive and high-performance consumer electronics applications.
+
+The Company's principal products include general-purpose, standard-function
+analog and mixed-signal ICs and DSP ICs. DSP ICs include general-purpose digital
+signal processing ICs (DSPs) and application-specific devices that typically
+incorporate analog and mixed-signal circuitry and a DSP core.
+
+The Company sells its products worldwide through a direct sales force,
+third-party industrial distributors and independent sales representatives.
+Approximately 50% of fiscal 1998 revenue was derived from customers in North
+America, while most of the balance was derived from customers in Western Europe
+and the Far East.
+
+ADI is headquartered near Boston in Norwood, Massachusetts, and has
+manufacturing facilities in Massachusetts, California, North Carolina, Ireland,
+the Philippines and Taiwan. Founded in 1965, ADI employs approximately 7,200
+persons worldwide.
+
+INDUSTRY BACKGROUND
+
+Real-world phenomena, such as temperature, pressure, sound, images, speed and
+acceleration are inherently analog in nature, consisting of continuously varying
+information. This information can be detected and measured using analog sensors,
+which represent real-world phenomena by generating continuously varying voltages
+and currents. The signals from these sensors are initially processed using
+analog methods, such as amplification, filtering and shaping. They are then
+usually converted to digital form for input to a microprocessor, which is used
+to manipulate, store or display the information. In many cases the signals are
+further processed after conversion to digital form using a technology called
+"digital signal processing," or DSP. In addition, digital signals are frequently
+converted to analog form to provide signals for analog display, sound, or
+control functions. These manipulations and transformations are known
+collectively as "real-world signal processing."
+
+Significant advances in semiconductor technology over the past 10 to 15 years
+have led to substantial increases in the performance and functionality of ICs
+used in signal processing applications. These advances include the ability to
+create VLSI (Very Large Scale Integration) mixed-signal ICs that contain both
+high-performance analog circuitry and large amounts of high-density digital
+circuitry. The analog circuitry portion of the IC is used for manipulating
+real-world signals while still in analog form and for converting analog signals
+into digital form (or vice versa), and the digital portion is used for further
+processing analog signals subsequent to their conversion to digital form. The
+ICs resulting from these advances are used as components in equipment and
+systems to achieve higher performance and more efficient signal processing.
+
+MARKETS AND APPLICATIONS
+
+The Company's products are sold primarily to OEMs for incorporation into
+equipment, instruments and systems sold to end users for a wide variety of
+applications, including engineering, medical and scientific instruments;
+industrial equipment; communications equipment; computers and computer
+peripherals; military/aerospace equipment; high-end consumer electronics
+products and automotive products. The Company's growth has been aided both by
+the expansion of these markets and the increasing need for high-performance
+real-time signal processing.
+
+
+
+
+
+
+
+
+Listed below are some of the characteristics of each of the Company's major
+markets:
+
+COMMUNICATIONS--includes data and fax modems, digital cellular telephones and
+portable, wireless communication base station equipment and broadband wired
+applications. The need for ever higher speed, coupled with more reliable, more
+bandwidth-efficient communications is creating increasing demand for systems
+that include both digital and analog signal processing capability. Demand for
+signal processing ICs for this market is also being driven by the equipment
+manufacturers' need for components that enable them to develop cost-effective
+products that feature high performance, small size, low weight and minimal power
+consumption.
+
+INDUSTRIAL--includes data acquisition systems, automatic process control
+systems, robotics, environmental control systems and automatic test equipment
+(ATE). These products generally require ICs that offer performance greater than
+that available from commodity-level ICs, but generally do not have production
+volumes that warrant custom or application-specific ICs. Combinations of analog
+ICs are therefore usually employed to achieve the necessary functionality,
+except in ATE applications where the high level of electronic circuitry required
+per tester has created opportunities for the design of system-level ICs for this
+application.
+
+INSTRUMENTATION--includes engineering, medical and scientific instruments. These
+products are usually designed using the highest performance analog ICs
+available, where production volumes generally do not warrant custom or
+application-specific ICs.
+
+COMPUTERS AND COMPUTER PERIPHERALS--includes high-performance personal
+computers, workstations and peripheral devices such as displays and scanners.
+The Company currently supplies a variety of ICs used in this market for
+functions such as graphic displays; interfaces between PCs and peripherals such
+as modems and printers; power and battery management; and enhanced sound input
+and output capability for business and entertainment applications.
+
+MILITARY/AEROSPACE--includes military, commercial avionics and space markets,
+all of which require high-performance ICs that meet rigorous environmental and
+reliability specifications. Nearly all of the Company's analog ICs can be
+supplied in versions that meet appropriate military standards. In addition, many
+products can be supplied to meet the standards required for broadcast satellites
+and other commercial space applications. Most of the Company's products sold in
+this market are derived from standard commercial grade ICs, although the Company
+sometimes develops products expressly for military/aerospace applications.
+
+CONSUMER ELECTRONICS--The emergence of high-performance consumer products, such
+as compact disc players, DVD players and digital camcorders and cameras, has led
+to the need for high-performance system-level ICs with a high level of specific
+functionality. Although the Company's revenue from this market has not been
+significant, the Company now supplies ICs for sophisticated products used by
+consumers for computing, communications and entertainment applications, and
+believes that many of these applications will involve digital signal processing.
+
+AUTOMOTIVE--Although the automotive market has historically been served with
+low-cost, low-performance ICs, demand has emerged for higher performance devices
+for a wide range of applications. In response, the Company is developing
+products specifically for the automotive market. The Company supplies a
+micromachined IC used as a crash sensor in airbag systems, which serves as an
+alternative to an electromechanical sensor. The Company believes that other
+micromachined devices derived from this product may be suitable for other
+automotive applications, such as roll-over sensing, Global Positioning Satellite
+(GPS) automotive navigation systems, anti-lock brakes and "smart" suspension
+systems and other applications including earthquake detectors and Microsoft
+high-end joysticks.
+
+PRINCIPAL PRODUCTS
+
+The Company's business predominantly comprises the design, manufacture and
+marketing of a broad line of high-performance linear, mixed-signal and digital
+integrated circuits that address a wide range of real-world signal processing
+applications. The Company's IC products include analog ICs, DSP ICs,
+micromachined products and assembled products.
+
+A substantial portion of the Company's products are proprietary, while
+equivalents to other products are available from a limited number of other
+suppliers.
+
+
+
+
+
+
+
+
+INTEGRATED CIRCUITS (ICS)
+
+ANALOG ICS
+
+Analog IC products have been the foundation of the Company's business for more
+than 20 years, and the Company believes it is one of the world's largest
+suppliers of analog ICs. Analog ICs sales represent approximately 75% of the
+Company's total sales. The Company's analog ICs are primarily high-performance,
+single-function devices. The majority of the Company's analog IC product revenue
+is attributable to sales of data converters (analog-to-digital and
+digital-to-analog) and amplifiers. Other analog IC products offered by the
+Company include analog signal-processing devices (such as analog multipliers),
+voltage references and comparators. Over the past few years the Company has been
+expanding its analog IC product offerings into product areas where its focus was
+previously limited, principally interface circuits and power management ICs. It
+is also expanding its analog IC product line to include a much larger number of
+products designed to operate from single-supply 3 or 5 volt power sources to
+better meet the needs of customers designing portable battery-operated
+equipment.
+
+ADI's analog ICs products tend to be general purpose in nature, which allows
+customers to incorporate them in a wide variety of equipment and systems. ADI's
+product portfolio includes several hundred analog ICs, any one of which can have
+as many as several hundred customers. Analog ICs typically have long product
+life cycles. The Company's analog ICs customers include both OEMs and customers
+who build equipment for their own use. Historically, most analog ICs have been
+purchased by OEMs that serve the instrumentation, industrial and
+military/aerospace markets, but they are now also being used for applications in
+communications, computers, camcorders, scanners, automatic test equipment,
+imaging and other consumer applications requiring high-performance real-world
+signal processing. By using standard, high-performance, readily available,
+off-the-shelf components in their designs, ADI's customers can reduce the time
+required to develop and bring new products to market. Given the high cost of
+developing customized ICs, analog ICs usually provide the most cost-effective
+solutions for low to medium volume applications. In addition, combinations of
+analog ICs connected together on a printed circuit board can provide
+functionality not currently achievable using a single IC.
+
+Other analog ICs include circuits that are designed to serve the needs of
+particularly demanding applications, e.g. very high speed analog timing and pin
+driver circuits needed by OEMs in the automatic test equipment business.
+Manufacturers of portable instrumentation need analog ICs designed to address
+demanding battery life requirements, and need similar kinds of functions
+available in analog IC products integrated into a single, very low power chip.
+Other principal requirements can include higher accuracy, lower cost per
+function, smaller size, lower weight, and fewer components for improved
+reliability. These application specific products allow ADI's customers to design
+smaller, lighter, higher performance, more power-efficient and lower-cost end
+products. The Company believes that these benefits have become more important to
+the Company's OEM customers as they increase their focus on high-performance,
+small, lightweight products, many of which are battery powered.
+
+DSP ICS
+
+Analog's DSP ICs include general-purpose DSP ICs and multi-function mixed-signal
+devices that feature high levels of functional integration on a single chip. In
+the preceding three years, sales of these products represented between 18% and
+23% of the Company's total sales.
+
+The Company's general-purpose DSP ICs are designed to efficiently execute
+specialized programs (algorithms) associated with processing digitized
+real-time, real-world data. General-purpose DSP IC customers typically write
+their own algorithms using software tools provided by the Company and software
+tools obtained from third-party suppliers. All of these devices share a common
+architecture which allows system designers to address cost, performance and
+time-to-market constraints. ADI supports these products with specialized
+applications and easy-to-use, low-cost design tools, which reduce product
+development costs and time to market.
+
+ADI's DSP ICs, other than its general-purpose DSPs, are multi-function
+mixed-signal devices, some of which include a DSP core. Examples of these
+devices include chipsets for communication applications (GSM cellular phones,
+remote access servers, data and fax modems), audio input/output devices for
+computer applications and devices designed to control motors.
+
+
+
+
+
+
+
+
+MICROMACHINED PRODUCTS
+
+The Company's technology base includes a number of new products using an
+advanced IC technology known in the industry as surface micromachining. This
+technology enables extremely small mechanical structures to be built on the
+surface of a chip along with supporting circuitry. Specialized manufacturing
+processes in wafer fabrication, packaging and testing are required to produce
+these products.
+
+The first series of micromachined products from ADI are accelerometers used in a
+wide variety of applications. The majority of current revenues from ADI's
+micromachined products derive from accelerometers used by automotive
+manufacturers in airbag applications. Emerging applications include GPS
+Automobile Navigation systems, earthquake detectors and Microsoft high-end
+joysticks. Sales of these products represent less than 5% of the Company's total
+sales.
+
+ASSEMBLED PRODUCTS
+
+The Company's assembled products include multi-chip modules (MCMs), hybrids and
+printed circuit board modules. A MCM is a device made up of several IC chips
+assembled in an automated fashion in a multilayer package that provides high
+interconnect density at low cost. A hybrid consists of several chips and
+discrete components mounted and wired together on a substrate, which is then
+enclosed in a package. A printed-board module consists of surface-mount
+components assembled on a small printed board that is then encapsulated in a
+small plastic case.
+
+Revenues from this product group have been declining for several years,
+primarily because hybrids are being replaced in many new designs with smaller,
+lower-cost monolithic ICs that offer higher levels of performance and
+integration at lower cost. Sales of these products have declined to less than 5%
+of the Company's total sales.
+
+RESEARCH AND DEVELOPMENT
+
+The markets served by Analog are characterized by rapid technological changes
+and advances. Accordingly, the Company makes substantial investments in the
+design and development of new products and processes, and for significant
+improvement of existing products and processes. ADI spent $219 million during
+fiscal 1998 on the design, development and improvement of new and existing
+products and processes, compared to $196 million and $178 million during fiscal
+1997 and 1996 respectively.
+
+In support of its research and development activities, the Company employs
+hundreds of engineers involved in product and process development at several
+design centers and manufacturing sites located throughout the world.
+
+As of October 31, 1998, the Company owned approximately 500 U.S. patents and had
+175 patent applications on file with the United States patent office. The
+Company believes that while its patents may provide some advantage, its
+competitive position is largely determined by such factors as the knowledge,
+ability and experience of the Company's personnel, new product development,
+market recognition and ongoing marketing efforts, customer service and technical
+support.
+
+SALES CHANNELS
+
+ADI sells its products in both North America and internationally through a
+direct sales force, third-party distributors and independent sales
+representatives. Approximately 50% of fiscal 1998 revenue was derived from
+customers in North America. As of December 1, 1998, the Company had 14 sales
+offices in the United States, and its third-party distribution channel consisted
+of six national and regional third-party distributors and several independent
+sales representatives at numerous locations throughout the U.S. and Canada.
+
+Approximately 26% of the Company's fiscal 1998 revenue was derived from sales to
+customers in Europe; 13% to customers in Japan; and 11% to customers in other
+international markets. As of December 1, 1998, the Company had direct sales
+offices in Australia, Austria, China, Denmark, France, Germany, Hong Kong,
+India, Israel, Italy, Japan, Korea, the Netherlands, Singapore, Sweden, Taiwan
+and the United Kingdom. The Company also had sales representatives and/or
+distributors in approximately 40 countries outside North America, including
+countries where the Company also has direct sales offices. For further detail
+regarding geographic information, see Note 3 in the Notes to the Company's
+Consolidated Financial Statements incorporated herein by reference to the 1998
+Annual Report to Shareholders and filed herewith as part of Exhibit 13.2.
+
+
+
+
+
+
+Approximately 42% of ADI's fiscal 1998 revenue was derived from sales made
+through distributors. The Company's distributors typically maintain an inventory
+of Analog products. Some of these distributors also sell products competitive
+with the Company's products, including those for which the Company is an
+alternate source. Sales to certain distributors are made under agreements which
+provide protection to the distributors for their inventory of Company products
+against price reductions and products that are slow-moving or have been
+discontinued by the Company.
+
+The Company's worldwide sales efforts are supported by an extensive promotional
+program that includes editorial coverage and paid advertising in trade
+publications; direct mail programs; promotional brochures; technical seminars
+and participation in trade shows. The Company publishes and distributes
+full-length databooks, short-form catalogs, applications guides, technical
+handbooks and detailed data sheets for individual products. The Company also
+provides products and application information via its worldwide web site on the
+Internet. The Company also maintains a staff of application engineers who aid
+customers in incorporating Analog's products into their products during their
+product development cycles.
+
+For fiscal 1998, Analog's 20 largest customers accounted for approximately 30%
+of the Company's net sales. The largest single customer represented
+approximately 6% of net sales.
+
+PRODUCTION AND RAW MATERIALS
+
+Monolithic integrated circuit components are manufactured in a sequence of
+semiconductor production steps that include wafer fabrication, wafer testing,
+cutting the wafer into individual "chips" (or dice), assembly of the dice into
+packages and electrical testing of the devices in final packaged form. The raw
+materials used to manufacture these devices include silicon wafers, processing
+chemicals (including liquefied gases), precious metals, ceramic packages and
+plastic used for plastic packaging.
+
+ADI employs a wide variety of Company-developed proprietary processes
+specifically tailored for use in fabricating high-performance linear and
+mixed-signal and system-level ICs. The Company also uses industry-standard
+bipolar and CMOS wafer fabrication processes.
+
+ADI's IC products are fabricated both at the Company's production facilities and
+by third-party wafer fabricators. The Company relies primarily on its own
+facilities for fabricating wafers that require linear and mixed-signal
+processes. The Company operates wafer fabrication facilities in Wilmington and
+Cambridge, Massachusetts; Santa Clara and Sunnyvale, California; and Limerick,
+Ireland. The Company also operates assembly and test facilities located in the
+United States, Ireland, the Philippines and Taiwan and also uses third-party
+subcontractors. The Company uses Taiwan Semiconductor Manufacturing Company,
+(TSMC) and Chartered Semiconductor Manufacturing Pte., Ltd., (CSM) for the
+production of digital and VLSI mixed-signal devices. To provide access to
+advanced process technology at competitive costs, the Company has entered into a
+joint venture agreement (WaferTech, LLC) with TSMC, Altera, Integrated Silicon
+Solutions and several individual investors to build an eight-inch wafer
+fabrication facility in Camas, Washington. Subsequent to the year ended October 
+31, 1998, the Company concluded an agreement to sell 14% of its 18% equity 
+ownership in WaferTech, for cash equal to the carrying value of the 14% equity 
+ownership at October 31, 1998, to other WaferTech partners. This sale is 
+expected to be completed by the end of the first quarter of fiscal 1999.
+
+Hybrid products are manufactured by mounting and connecting together several
+integrated circuit chips in a single package. Some of the chips used in the
+Company's hybrids are manufactured by the Company and some are purchased from
+outside suppliers. The production process for modular components, subsystems and
+systems consists primarily of assembly, packaging and testing. Some of the
+Company's assembled products are assembled and tested within the Company's U.S.
+manufacturing facilities, while others are assembled and tested at Company-owned
+facilities outside the United States or by subcontractors, principally in the
+Far East.
+
+To respond to production capacity requirements, the Company significantly
+expanded its manufacturing capacity during the last three years. Major wafer
+fabrication expansions have been completed in Wilmington and Cambridge,
+Massachusetts; Sunnyvale, California and Limerick, Ireland. In addition, the
+Company has completed construction of an additional assembly and test facility
+in Cavite, Philippines.
+
+
+
+
+
+
+
+
+BACKLOG
+
+Backlog at the end of fiscal 1998 was approximately $174 million, down from
+approximately $280 million at the end of fiscal 1997. While backlog has declined
+primarily as a result of the lower level of demand for the Company's products
+from the year earlier period, it is also impacted by the tendency of its
+customers to rely on shorter lead times available from suppliers, including ADI,
+in periods of depressed demand. Additionally, the Company may allow customers to
+revise the quantities or delivery schedules of products ordered to reflect
+changes in their needs. As is customary in the semiconductor industry, in
+certain circumstances, the Company allows such orders to be canceled or
+deliveries delayed by customer without significant penalty. Accordingly, the
+Company believes that its backlog at any time should not be used as a measure of
+future revenues.
+
+GOVERNMENT CONTRACTS
+
+The Company estimates that approximately 11% of its fiscal 1998 total worldwide
+revenue was attributable to sales to the U.S. government and government
+contractors and subcontractors. Analog's government contract related business is
+predominantly in the form of negotiated, firm fixed-price subcontracts. All such
+contracts and subcontracts contain standard provisions relating to termination
+at the election of the United States government.
+
+COMPETITION
+
+ADI competes with a large number of semiconductor companies in markets that are
+highly competitive. The Company believes it is one of the largest suppliers of
+high-performance linear and mixed-signal signal-processing components.
+Competitors for the Company's linear and mixed-signal products include
+Burr-Brown Corp., Cirrus Logic Inc., Harris Corp., Linear Technology Corp.,
+Maxim Integrated Products, Inc., National Semiconductor Corp., Sierra
+Semiconductor Corp., Siliconix Inc., Texas Instruments, Inc. and others.
+
+ADI's competitors in the DSP IC market include Lucent Technologies Inc.,
+Motorola Semiconductor Products and Texas Instruments, Inc.
+
+Sales of the Company's micromachined products currently comprise acceleration
+sensors, and its main competitors are Bosch, Motorola and Denso. All three
+competitors use a hybrid (two chip) solution whereas ADI uses a single chip
+solution which the Company believes provides cost, reliability and functional
+advantages in the marketplace.
+
+Many other companies offer components that compete with ADI's products; some
+also offer other electronic products, and some have financial resources
+substantially larger than ADI's. Also, some formerly independent competitors
+have been purchased by larger companies. However, to the Company's knowledge, no
+manufacturer competes with ADI across all of the product types offered by the
+Company in its signal-processing components product line.
+
+The Company believes that competitive performance in the marketplace for
+real-world signal-processing components depends upon several factors, including
+product price, technical innovation, product quality and reliability, range of
+products, customer service and technical support. The Company believes its
+aggressive technical innovation emphasizing product performance and reliability,
+supported by its commitment to strong customer service and technical support,
+enables the Company to continue to compete successfully in its chosen markets
+against both foreign and domestic semiconductor manufacturers.
+
+ENVIRONMENT
+
+Analog's manufacturing facilities are subject to numerous environmental laws and
+regulations, particularly with respect to industrial waste and emissions.
+Compliance with these laws and regulations has not had a material impact on the
+Company's capital expenditures, earnings or competitive position.
+
+
+
+
+
+
+
+
+EMPLOYEES
+
+As of October 31, 1998, the Company employed approximately 7,200 persons. The
+Company's future success depends in large part on the continued service of its
+key technical and senior management personnel, and on its ability to continue to
+attract, retain and motivate qualified employees, particularly those highly
+skilled design, process and test engineers involved in the manufacture of
+existing products and the development of new products and processes. The
+competition for such personnel is intense, and the loss of key employees could
+have a material adverse effect on the Company. The Company believes that
+relations with its employees are good.
+
+
+
+
+
+
+
+ITEM 2.   PROPERTIES
+
+The Company's corporate headquarters is located in Norwood, Massachusetts.
+Manufacturing and other operations are conducted in several locations worldwide.
+The following tables provide certain information as to the Company's principal
+general offices and manufacturing facilities:
+
+PLANT LOCATION
+- --------------
+     OWNED:                              USE                       FLOOR SPACE
+     ------                              ---                       -----------
+
+Wilmington,         Wafer fabrication, components assembly       265,200 sq. ft.
+Massachusetts       and testing, engineering and 
+                    administrative offices
+
+Wilmington,         Engineering, marketing and                   108,000 sq. ft.
+Massachusetts       administrative offices
+
+Wilmington,         Components engineering, marketing and         65,500 sq. ft.
+Massachusetts       administrative offices
+
+Westwood,           Components and subsystems assembly and       100,500 sq. ft.
+Massachusetts       testing, engineering and administrative 
+                    offices
+
+Limerick,           Wafer fabrication, wafer probe and           315,400 sq. ft.
+Ireland             testing, engineering and administrative 
+                    offices
+
+Greensboro,         Components and board assembly and            122,600 sq. ft.
+North Carolina      testing, engineering and administrative 
+                    offices
+
+Cavite,             Components assembly and testing,             168,300 sq. ft.
+Philippines         engineering and administrative offices
+
+Manila,             Components assembly and testing,              75,300 sq. ft.
+Philippines         engineering and administrative offices
+
+
+
+
+
+
+
+
+
+
+
+ITEM 2.   PROPERTIES -- (CONTINUED)
+
+In addition to the principal leased properties listed in the previous table, the
+Company also leases sales offices and other premises at 28 locations in the
+United States and 37 locations overseas under operating lease agreements. These
+leases expire at various dates through the year 2030. The Company anticipates no
+difficulty in retaining occupancy of any of its manufacturing, office or sales
+facilities through lease renewals prior to expiration or through month-to-month
+occupancy, or in replacing them with equivalent facilities. For information
+concerning the Company's obligations under all operating and capital leases see
+Note 10 in the Notes to the Company's Consolidated Financial Statements
+incorporated herein by reference to the 1998 Annual Report to Shareholders and
+filed herewith as part of Exhibit 13.2.
+
+ITEM 3.   LEGAL PROCEEDINGS
+
+The information required by this item is set forth in Note 11 in the Notes to
+the Company's Consolidated Financial Statements incorporated herein by reference
+to the 1998 Annual Report to Shareholders and filed herewith as part of Exhibit
+13.2.
+
+ITEM 4.   SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+No matters were submitted to a vote of the Company's security holders during the
+last quarter of the fiscal year ended October 31, 1998.
+
+
+
+
+
+
+
+
+                        EXECUTIVE OFFICERS OF THE COMPANY
+
+The following table sets forth (i) the name and age of each present executive
+officer of the Company; (ii) the position(s) presently held by each person
+named; and (iii) the principal occupations held by each person named for at
+least the past five years.
+
+
+
+
+
+
+
+
+
+
+
+There is no family relationship among the named officers.
+
+
+
+
+
+
+
+
+
+                                     PART II
+
+ITEM 5.   MARKET FOR REGISTRANT'S COMMON STOCK AND RELATED STOCKHOLDER MATTERS
+
+The Company's Common Stock is listed on the New York Stock Exchange ("NYSE")
+under the symbol ADI. The table below sets forth the NYSE high and low sale
+prices of the Common Stock during the two most recent fiscal years.
+
+                               FISCAL 1998               FISCAL 1997
+                           ------------------        --------------------
+          PERIOD            HIGH         LOW          HIGH          LOW
+          ------           ------      ------        ------       ------
+     First Quarter         $33.56      $23.75        $29.25       $19.63
+     Second Quarter        $39.63      $27.13        $29.25       $21.00
+     Third Quarter         $39.00      $21.44        $33.75       $23.88
+     Fourth Quarter        $24.38      $12.00        $36.69       $26.00
+
+The Company's $60,000,000 credit agreement restricts the aggregate of all cash
+dividend payments declared or made subsequent to November 2, 1996 to an amount
+not exceeding $150,000,000 plus 50% of the consolidated net income of the
+Company for the period from November 3, 1996 through the end of the Company's
+then most recent fiscal quarter. At October 31, 1998 this amount was equal to
+$280,314,000. The Company has never paid any cash dividends on its Common Stock
+and currently has no intentions to do so.
+
+The approximate number of holders of record of the Company's Common Stock at
+December 31, 1998 was 6,100. This number does not include shareholders for whom
+shares are held in a "nominee" or "street" name.
+
+ITEM 6.   SELECTED FINANCIAL DATA
+
+
+
+    *  Data was not available in sufficient detail to provide pro forma 
+       information for these years
+
+
+
+
+
+
+
+
+
+ITEM 7.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND 
+          RESULTS OF OPERATIONS
+
+The information required by this item is incorporated herein by reference to the
+"Management Analysis" set forth on pages 1 through 8 of the 1998 Annual Report
+to Shareholders and is filed herewith as part of Exhibit 13.1.
+
+ITEM 7A.  QUALITATIVE AND QUANTITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The information required by this item is incorporated herein by reference to the
+"Management Analysis" set forth on pages 1 through 8 of the 1998 Annual Report
+to Shareholders and is filed herewith as part of Exhibit 13.1.
+
+
+
+
+
+
+
+
+ITEM 8.   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+The information required by this item is incorporated herein by reference to the
+Company's 1998 Annual Report to Shareholders under the headings "Financial
+Section - Consolidated Statements of Income, - Consolidated Balance Sheets, -
+Consolidated Statements of Stockholders' Equity, - Consolidated Statements of
+Cash Flows, - Notes to Consolidated Financial Statements, - Report of Ernst &
+Young LLP, Independent Auditors and - Supplementary Financial Information," and
+is filed herewith as Exhibit 13.2.
+
+ITEM 9.   CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND 
+          FINANCIAL DISCLOSURE
+
+Not applicable.
+
+
+                                    PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+The response to this item is contained in part under the caption "EXECUTIVE
+OFFICERS OF THE COMPANY" in Part I hereof, and the remainder is contained in the
+Company's Proxy Statement for the Annual Meeting of Stockholders to be held on
+March 9, 1999 (the "1999 Proxy Statement") under the caption "Election of
+Directors" and is incorporated herein by reference. Information relating to a
+delinquent filing of a Form 4 by an Executive Officer of the Company is
+contained in the Company's 1999 Proxy Statement under the caption "Beneficial
+Ownership Reporting Compliance."
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+The response to this item is contained in the Company's 1999 Proxy Statement
+under the captions "Directors' Compensation," "Executive Compensation," and
+"Severance and Other Agreements," and is incorporated herein by reference.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+The response to this item is contained in the Company's 1999 Proxy Statement
+under the caption "Security Ownership of Certain Beneficial Owners and
+Management" and is incorporated herein by reference.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+The response to this item is contained in the Company's 1999 Proxy Statement
+under the caption "Transactions with Related Parties," and is incorporated
+herein by reference.
+
+
+
+
+
+
+
+
+                                     PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+(a) 1.  FINANCIAL STATEMENTS
+
+     The following consolidated financial statements are included in the
+     Company's 1998 Annual Report to Shareholders and are incorporated herein by
+     reference pursuant to Item 8:
+
+      -   Consolidated Statements of Income for the years ended October 31,
+          1998, November 1, 1997 and 
+      -   November 2, 1996
+      -   Consolidated Balance Sheets as of October 31, 1998 and November 1,
+      -   Consolidated Statements of Stockholders' Equity for the years ended
+          October 31, 1998, November 1, 1997 and November 2, 1996
+      -   Consolidated Statements of Cash Flows for the years ended October 31,
+          1998, November 1, 1997 and November 2, 1996
+
+(a) 2.  FINANCIAL STATEMENT SCHEDULES
+
+     The following consolidated financial statement schedule is included in 
+     Item 14(d):
+
+      Schedule II - Valuation and Qualifying Accounts
+
+     All other schedules have been omitted since the required information is not
+     present, or not present in amounts sufficient to require submission of the
+     schedule, or because the information required is included in the
+     consolidated financial statements or the notes thereto.
+
+(a) 3.  LISTING OF EXHIBITS
+
+ EXHIBIT
+    NO.                              DESCRIPTION
+ -------                             -----------
+
+    3.1     Restated Articles of Organization of Analog Devices, Inc., as
+            amended, filed as an exhibit to the Company's Form S-8 (File No. 
+            333-04821) filed on May 30, 1996 regarding the Company's amended
+            1988 Stock Option Plan, and incorporated herein by reference.
+
+    3.2     By-laws of Analog Devices, Inc. as amended, filed as an exhibit to
+            the Company's Form 10-K for the fiscal year ended November 1, 1997
+            and incorporated herein by reference.
+
+    4.1     Rights Agreement, as amended, between Analog Devices, Inc. and The
+            First National Bank of Boston, as Rights Agent, filed as an exhibit
+            to a Form 8 filed on June 27, 1989 amending the Registration
+            Statement on Form 8-A relating to Common Stock Purchase Rights, and
+            incorporated herein by reference.
+
+    4.2     Indenture dated as of March 1, 1993 between Analog Devices, Inc. and
+            The First National Bank of Boston, filed as an exhibit to the
+            Company's Form 10-K for the fiscal year ended October 29, 1994 and
+            incorporated herein by reference.
+
+    4.3     Indenture dated as of December 18, 1995 between Analog Devices, Inc.
+            and State Street Bank and Trust Company, as Trustee, filed as an
+            exhibit to the Company's Form 10-K for the fiscal year ended October
+            28, 1995 and incorporated herein by reference.
+
+ *  4.4     Analog Devices, Inc. Deferred Compensation Plan, filed as an exhibit
+            to a Form S-8 filed on December 8, 1995 and incorporated herein by
+            reference, as amended by Amendment No. 1 and Amendment No. 2, filed
+            as Exhibits to Post-Effective Amendment No. 1 to Form S-8 filed on
+            April 15, 1997, and Amendment No. 3, filed as an Exhibit to
+            Post-Effective Amendment No. 2 to form S-8 filed on November 12,
+            1997.
+
+
+
+
+
+
+
+
+ EXHIBIT
+    NO.                              DESCRIPTION
+ -------                             -----------
+
+    4.5     Rights Agreement, dated as of March 18, 1998 between Analog Devices
+            Inc. and BankBoston, N.A., as Rights agent, filed as and exhibit and
+            incorporated herein by reference to Analog Devices Inc.'s
+            Registration Statement of Form 8-A (File No. 011-07819) filed on
+            March 19, 1998.
+
+ * 10.1     Bonus Plan of Analog Devices, Inc., filed as an exhibit to the
+            Company's Form 10-K for the fiscal year ended November 1, 1997 and
+            incorporated herein by reference
+
+ * 10.2     1991 Restricted Stock Plan of Analog Devices, Inc., filed as an
+            exhibit to the Company's Form 10-K for the fiscal year ended
+            November 1, 1997 and incorporated herein by reference
+
+ * 10.3     1998 Stock Option Plan of Analog Devices, Inc., filed on February 
+            6, 1998 as an appendix to the Company's Definitive Proxy 
+            Statement on Schedule 14A and incorporated herein by reference.
+
+ * 10.4     Restated 1988 Stock Option Plan of Analog Devices, Inc., filed as an
+            exhibit to the Company's Form 10-Q for the fiscal quarter ended May
+            3, 1997 and incorporated herein by reference.
+
+ * 10.5     1989 Director Stock Option Plan of Analog Devices, Inc., as amended,
+            filed as an exhibit to the Company's Form 10-K for the fiscal year
+            ended November 2, 1996 and incorporated herein by reference.
+
+ * 10.6     1992 Director Option Plan of Analog Devices, Inc., filed as an
+            exhibit to the Company's Form 10-K for the fiscal year ended
+            November 1, 1997 and incorporated herein by reference
+
+ * 10.7     1994 Director Option Plan of Analog Devices, Inc., as amended, filed
+            as an exhibit to the Company's Form 10-Q for the fiscal quarter
+            ended February 1, 1997 and incorporated herein by reference, as 
+            amended by Amendment No. 2, filed as an exhibit to the Company's 
+            Form S-8 (File No. 333-47789), filed on March 11, 1998 and
+            incorporated herein by reference.
+
+   10.8     Amended and restated lease agreement dated May 1, 1992 between
+            Analog Devices, Inc. and the trustees of Everett Street Trust
+            relating to the premises at 3 Technology Way, Norwood,
+            Massachusetts, filed as an exhibit to the Company's Form 10-K for
+            the fiscal year ended November 1, 1997 and incorporated herein by
+            reference.
+
+   10.9     Guaranty dated as of May 1, 1994 between Analog Devices, Inc. and
+            Metropolitan Life Insurance Company relating to the premises at 3
+            Technology Way, Norwood, Massachusetts, filed as an exhibit to the
+            Company's Form 10-Q for the fiscal quarter ended April 30, 1994 and
+            incorporated herein by reference.
+
+   10.10    Letter Agreement dated as of May 18, 1994 between Analog Devices,
+            Inc. and Metropolitan Life Insurance Company relating to the
+            premises at 3 Technology Way, Norwood, Massachusetts, filed as an
+            exhibit to the Company's Form 10-Q for the fiscal quarter ended
+            April 30, 1994 and incorporated herein by reference.
+
+   10.11    Reimbursement Agreement dated May 18, 1992 between Analog Devices,
+            Inc. and the trustees of Everett Street Trust, filed as an exhibit
+            to the Company's Form 10-K for the fiscal year ended November 1,
+            1997 and incorporated herein by reference.
+
+   10.12    Lease agreement dated August 8, 1990 between Precision Monolithics,
+            Inc. and Bourns, Inc. relating to the premises at 1525 Comstock
+            Road, Santa Clara, California, filed as an exhibit to the Company's
+            Form 10-K for the fiscal year ended November 2, 1996 and
+            incorporated herein by reference.
+
+   10.13    Lease amendment dated May 1, 1996 to the Lease Agreement dated
+            August 8, 1990 between Analog Devices, Inc. and Bourns, Inc.,
+            relating to premises located at 1525 Comstock Road, Santa Clara,
+            California, filed as an exhibit to the Company's Form 10-Q for the
+            fiscal quarter ended May 4, 1996 and incorporated herein by
+            reference.
+
+
+
+
+
+
+
+
+
+ EXHIBIT
+    NO.                              DESCRIPTION
+ -------                             -----------
+
+   10.14    Lease agreement dated August 8, 1990, as amended, between Precision
+            Monolithics, Inc. and Bourns, Inc. relating to the premises at 1500
+            Space Park Drive, Santa Clara, California, filed as an exhibit to
+            the Company's Form 10-K for the fiscal year ended November 2, 1996
+            and incorporated herein by reference.
+
+   10.15    Lease amendment dated May 1, 1996 to the Lease Agreement dated
+            August 8, 1990 between Analog Devices, Inc. and Bourns, Inc.,
+            relating to premises located at 1500 Space Park Drive, Santa Clara,
+            California, filed as an exhibit to the Company's Form 10-Q for the
+            fiscal quarter ended May 4, 1996 and incorporated herein by
+            reference.
+
+   10.16    Credit Agreement dated as of March 12, 1993 among Analog Devices,
+            Inc. and Morgan Guaranty Trust Company of New York, Bank of America
+            National Trust and Savings Association, Continental Bank, N.A., The
+            First National Bank of Boston and Morgan Guaranty Trust Company of
+            New York, as Agent, filed as an exhibit to the Company's Form 10-Q
+            for the fiscal quarter ended May 1, 1993 and incorporated herein by
+            reference.
+
+   10.17    Amendment No. 1 dated as of May 18, 1993 to the Company's Credit
+            Agreement dated March 12, 1993, filed as an exhibit to the Company's
+            Form 10-Q for the fiscal quarter ended July 31, 1993 and
+            incorporated herein by reference.
+
+   10.18    Amendment No. 2 dated as of September 8, 1994 to the Company's
+            Credit Agreement dated March 12, 1993, filed as an exhibit to the
+            Company's Form 10-K for the fiscal year ended October 29, 1994 and
+            incorporated herein by reference.
+
+   10.19    Amendment No. 3 dated as of October 25, 1996 to the Company's Credit
+            Agreement dated March 12, 1993, filed as an exhibit to the Company's
+            Form 10-K for the fiscal year ended November 2, 1996 and
+            incorporated herein by reference.
+
+ * 10.20    Form of Employee Retention Agreement, as amended, filed as an
+            exhibit to the Company's Form 10-K for the fiscal year ended
+            November 1, 1997 and incorporated herein by reference.
+
+ * 10.21    Employee Change in Control Severance Policy of Analog Devices, Inc.,
+            as amended, filed as an exhibit to the Company's 10-K for the fiscal
+            year ended October 30, 1993 and incorporated herein by reference.
+
+ * 10.22    Senior Management Change in Control Severance Policy of Analog
+            Devices, Inc., as amended, filed as an exhibit to the Company's 10-K
+            for the fiscal year ended October 30, 1993 and incorporated herein
+            by reference.
+
+ * 10.23    Description of Consulting Arrangement between Analog Devices, Inc.
+            and John L. Doyle, filed as an exhibit to the Company's Form 10-K
+            for the fiscal year ended November 2, 1996 and incorporated herein
+            by reference.
+
+ * 10.24    Letter agreement between Analog Devices, Inc. and Jerald G. Fishman
+            dated December 15, 1994 relating to acceleration of stock options
+            and restricted stock awards upon termination of employment, filed as
+            an exhibit to the Company's Form 10-K for the fiscal year ended
+            October 29, 1994 and incorporated herein by reference.
+
+** 10.25    Option Agreement dated as of May 16, 1995 between Analog Devices
+            B.V. and Taiwan Semiconductor Manufacturing Company, Ltd., filed as
+            an exhibit to the Company's Form 10-Q for the fiscal quarter ended
+            July 29, 1995 and incorporated herein by reference.
+
+** 10.26    Wafer Production Agreement dated as of May 16, 1995 between Taiwan
+            Semiconductor Manufacturing Company, Ltd. and Analog Devices B.V.,
+            filed as an exhibit to the Company's Form 10-Q for the fiscal
+            quarter ended July 29, 1995 and incorporated herein by reference.
+
+
+
+
+
+
+
+
+ EXHIBIT
+    NO.                              DESCRIPTION
+ -------                             -----------
+
+   10.27    Lease Agreement dated June 16, 1995 between Analog Devices, Inc. and
+            Ferrari Brothers, relating to the premises at 610 Weddell Drive,
+            Sunnyvale, California, filed as an exhibit to the Company's Form
+            10-K for the fiscal year ended November 2, 1996 and incorporated
+            herein by reference.
+
+   10.28    Lease amendment dated March 1, 1996 to the Lease Agreement dated
+            June 16, 1995 between Analog Devices, Inc. and Ferrari Brothers,
+            relating to premises located at 610 Weddell Drive, Sunnyvale,
+            California, filed as an exhibit to the Company's Form 10-Q for the
+            fiscal quarter ended May 4, 1996 and incorporated herein by
+            reference.
+
+** 10.29    Manufacturing Agreement dated as of March 17, 1995 between Chartered
+            Semiconductor Manufacturing Pte. Ltd. and Analog Devices B.V., filed
+            as an exhibit to the Company's Form 10-Q for the fiscal quarter
+            ended February 3, 1996 and incorporated herein by reference.
+
+** 10.30    Deposit Agreement dated January 30, 1996 between Chartered
+            Semiconductor Manufacturing Pte. Ltd. and Analog Devices B.V., filed
+            as an exhibit to the Company's Form 10-Q for the fiscal quarter
+            ended February 3, 1996 and incorporated herein by reference.
+
+   10.31    Lease Agreement dated February 8, 1996 between Analog Devices, Inc.
+            and Massachusetts Institute of Technology, relating to premises
+            located at 21 Osborn Street, Cambridge, Massachusetts, filed as an
+            exhibit to the Company's Form 10-Q for the fiscal quarter ended
+            February 3, 1996 and incorporated herein by reference.
+
+** 10.32    Amended and Restated Limited Liability Company Agreement of
+            WaferTech, LLC, a Delaware limited liability company, dated as of
+            August 9, 1996. Filed as Exhibit 10.47 to the Form 10-Q of Altera
+            Corporation (File No. 0-16617) for the fiscal quarter ended June 30,
+            1996, and incorporated herein by reference.
+
+** 10.33    Purchase Agreement by and between Taiwan Semiconductor Manufacturing
+            Co., Ltd., as seller and Analog Devices, Inc., Altera Corporation
+            and Integrated Silicon Solutions, Inc., as buyers dated as of June
+            25, 1996. Filed as Exhibit 10.48 to the Form 10-Q of Altera
+            Corporation (File No. 0-16617) for the fiscal quarter ended June 30,
+            1996, and incorporated herein by reference.
+
+ * 10.34    Trust Agreement for Deferred Compensation Plan, filed as an exhibit
+            to the Company's Post Effective Amendment No. 2 to Form S-3 filed
+            November 12, 1997 and incorporated herein by reference.
+
+   10.35    Lease agreement dated September 19, 1996 between Ren Min Company
+            Limited and Analog Devices Taiwan, Limited relating to the premises
+            at Five-Kung-Five Road, Taipei, Taiwan, filed as an exhibit to the
+            Company's Form 10-K for the fiscal year ended November 1, 1997 and
+            incorporated herein by reference.
+
+ + 13.1     Management Analysis corresponding to pages 1 through 8
+            of the 1998 Annual Report to Shareholders for the fiscal year ended 
+            October 31, 1998.
+
+ + 13.2     Financial Statements and Notes thereto, Report of Ernst & Young LLP,
+            Independent Auditors and Supplementary Financial Information,
+            corresponding to pages 9 through 33 of the 1998 Annual Report to
+            Shareholders, for the fiscal year ended October 31, 1998.
+
+ + 18       Letter from Ernst & Young, LLP re: Change in Accounting Principle
+
+ + 21       Subsidiaries of the Company.
+
+
+ + 23       Consent of Ernst & Young LLP.
+
+
+
+
+
+
+
+
+
+   27       Financial Data Schedule.
+
+- ----------------
+*    Management contracts and compensatory plan or arrangements required to be 
+     filed as an Exhibit pursuant to Item 14(c) of Form 10-K.
+
+
+**   Confidential treatment has been granted as to certain portions of these 
+     Exhibits.
+
++    Filed herewith.
+
+(b)  REPORTS ON FORM 8-K
+
+     The Company filed no reports on Form 8-K with the Securities and Exchange
+     Commission during the fiscal quarter ended October 31, 1998.
+
+
+
+
+
+
+
+
+
+                                   SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15 (d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+ANALOG DEVICES, INC.
+(Registrant)
+
+By: /s/ Jerald G. Fishman                By: /s/ Joseph E. McDonough            
+    -------------------------------          -----------------------------------
+    Jerald G. Fishman                        Joseph E. McDonough
+    President                                Vice President-Finance
+    Chief Executive Officer                  and Chief Financial Officer
+    and Director                             (Principal Financial and
+    (Principal Executive Officer)            Accounting Officer)
+
+
+Date: January 28, 1999                   Date: January 28, 1999                 
+      -----------------------------            ---------------------------------
+
+
+Pursuant to the requirements of the Securities and Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+           NAME                          TITLE                        DATE
+           ----                          -----                        ----
+
+/s/ Ray Stata                    Chairman of the Board          January 28, 1999
+- -----------------------------                                   ----------------
+    Ray Stata
+
+/s/ Jerald G. Fishman                 President,                January 28, 1999
+- -----------------------------   Chief Executive Officer         ----------------
+    Jerald G. Fishman                and Director
+
+/s/ John L. Doyle                      Director                 January 28, 1999
+- -----------------------------                                   ----------------
+    John L. Doyle
+
+/s/ Charles O. Holliday                Director                 January 28, 1999
+- -----------------------------                                   ----------------
+    Charles O. Holliday
+
+/s/ Joel Moses                         Director                 January 28, 1999
+- -----------------------------                                   ----------------
+    Joel Moses
+
+/s/ F. Grant Saviers                   Director                 January 28, 1999
+- -----------------------------                                   ----------------
+    F. Grant Saviers
+
+/s/ Lester C. Thurow                   Director                 January 28, 1999
+- -----------------------------                                   ----------------
+    Lester C. Thurow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              ANALOG DEVICES, INC.
+
+                           ANNUAL REPORT ON FORM 10-K
+
+                           YEAR ENDED OCTOBER 31, 1998
+
+                                   ITEM 14(d)
+
+                          FINANCIAL STATEMENT SCHEDULE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              ANALOG DEVICES, INC.
+                 SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+
+       YEARS ENDED OCTOBER 31, 1998, NOVEMBER 1, 1997 AND NOVEMBER 2, 1996
+                                   (THOUSANDS)
+
+
+
+    *  Amount reflects reclassification of certain reserves from accounts
+       receivable to accrued liabilities made in connection with the Company's
+       accounting change (see Notes 2(l) and 4 to the consolidated financial
+       statements).
+
+
+
+
+
+
+
+
+
+
+
+
+

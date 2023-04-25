@@ -1,0 +1,3452 @@
+
+10-K405
+d10k405.txt
+FORM 10-K405
+
+
+
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C. 20549
+
+                               -----------------
+
+                                   FORM 10-K
+
+   (MARK ONE)
+
+[X]      ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+          THE SECURITIES EXCHANGE ACT OF 1934
+
+                  For the fiscal year ended December 31, 2001
+
+                                      OR
+
+[_]      TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+          THE SECURITIES EXCHANGE ACT OF 1934
+
+                         Commission file number 1-6462
+
+                                TERADYNE, INC.
+            (Exact name of registrant as specified in its charter)
+
+                    MASSACHUSETTS              04-2272148
+                   (State or other
+                    jurisdiction of         (I.R.S. Employer
+                  incorporation or
+                     organization)       Identification Number)
+
+                321 HARRISON AVENUE,
+                BOSTON, MASSACHUSETTS             02118
+                (Address of principal
+                  executive offices)           (Zip Code)
+
+      Registrant's telephone number, including area code: (617) 482-2700
+
+          Securities registered pursuant to Section 12(b) of the Act:
+
+                                        Name of each exchange on
+                 Title of each class        which registered
+                 -------------------        ----------------
+               Common Stock, par value
+                   $0.125 per share      New York Stock Exchange
+                Common Stock Purchase
+                        Rights           New York Stock Exchange
+
+   Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to the
+filing requirements for the past 90 days.   Yes  [X]     No   [_]
+
+   Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained to the
+best of the registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or in any
+amendment to this Form 10-K.   [X]
+
+   The aggregate market value of the voting stock held by nonaffiliates of the
+registrant as of February 24, 2002 was $5.4 billion based upon the composite
+closing price of the registrant's Common Stock on the New York Stock Exchange
+on that date.
+
+   The number of shares outstanding of the registrant's only class of Common
+Stock as of February 24, 2002 was 182,358,506 shares.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+   Portions of the registrant's proxy statement in connection with its 2002
+annual meeting of shareholders are incorporated by reference into Part III.
+
+
+
+                                TERADYNE, INC.
+
+                                   FORM 10-K
+
+                                    PART I
+
+Item 1:  Business
+
+   Teradyne, Inc. is the world's largest supplier of automatic test equipment
+and is also a leading provider of high performance interconnection systems and
+electronic manufacturing services.
+
+   Teradyne's automatic test equipment products include systems that:
+
+    .  test semiconductors ("Semiconductor Test Systems");
+    .  test and inspect circuit-boards ("Circuit Board Test and Inspection
+       Systems"); and
+    .  test high speed voice and data communication ("Broadband Test Systems").
+
+   Teradyne's interconnection systems products and services ("Connection
+Systems") include:
+
+    .  high bandwidth backplane assemblies and associated connectors used in
+       electronic systems; and
+    .  electronic manufacturing services of assemblies that include Teradyne
+       backplanes and connectors.
+
+   On October 26, 2001 Teradyne completed its acquisition of GenRad, Inc. of
+Westford, MA, a leading manufacturer of automatic test equipment, related
+software and diagnostic solutions. GenRad's business has been made part of the
+Circuit Board Test and Inspection Systems operating segment. GenRad activity is
+reflected in Teradyne's results of operations since the acquisition date. See
+"Note F: Acquisitions and Divestitures" and "Note S: Operating Segment and
+Geographic Information" in Notes to Consolidated Financial Statements for
+further information.
+
+   Broadband Test Systems, Diagnostic Solutions, and, prior to 2001, Software
+Test Systems have been combined into "Other Test Systems" for purposes of
+reporting Teradyne's operating segments. For financial information concerning
+Teradyne's operating segments, see "Note S: Operating Segment and Geographic
+Information" in Notes to Consolidated Financial Statements.
+
+   Statements in this Annual Report on Form 10-K which are not historical
+facts, so called "forward looking statements," are made pursuant to the safe
+harbor provisions of the Private Securities Litigation Reform Act of 1995.
+Investors are cautioned that all forward looking statements involve risks and
+uncertainties, including those detailed in Teradyne's filings with the
+Securities and Exchange Commission. See also "Item 7: Management's Discussion
+and Analysis of Financial Condition and Results of Operations--Certain Factors
+That May Affect Future Results" and "Note E: Risks and Uncertainties" in Notes
+to Consolidated Financial Statements.
+
+Products
+
+Semiconductor Test Solutions
+
+   Semiconductor Test Systems produced by Teradyne are used by electronic
+component manufacturers in the design and testing of a wide variety of
+semiconductor devices, including logic, memory, mixed signal, and "system on a
+chip" integrated circuits. Semiconductor Test Systems are sold to semiconductor
+manufacturers, often referred to as "Integrated Device Manufacturers," and
+subcontractors to the semiconductor industry who may perform design and/or
+manufacturing functions, often referred to as "Fabless/Subcons." Customers use
+Teradyne's Semiconductor Test Systems to:
+
+    .  measure product performance;
+    .  control and improve product quality;
+    .  improve device design;
+    .  reduce time to market;
+    .  enhance manufacturability;
+
+
+
+
+    .  minimize labor costs; and
+    .  increase production yields,
+
+with the overall benefit of comprehensively testing advanced performance
+devices while reducing total costs associated with testing.
+
+   The semiconductor test market is comprised of two sub-markets. The first
+sub-market is memory device testing, which includes the testing of dynamic
+random access memory ("DRAMs") of all types (synchronous, double data rate
+("DDR") and Rambus(TM)), static random access memory ("SRAMs") and flash
+memory. The second sub-market is non-memory device testing, which includes the
+testing of analog, mixed-signal and system-on-a-chip devices, high performance
+logic devices and logic devices produced in high volumes.
+
+   Teradyne products within the Semiconductor Test Systems market include:
+
+Memory Test Solutions
+
+   Reducing cost of test is especially crucial in the highly price sensitive
+memory device market. Wafer probing, or contacting the silicon die to test it
+prior to packaging, has become an increasingly popular means to increase yield
+and reduce test costs. Teradyne's Probe-One memory test system delivers one of
+the shortest possible test times per wafer and one of the lowest test costs.
+The Probe-One's Flex-Die(TM) architecture delivers the ability to test multiple
+memory arrays in parallel, further increasing test productivity and reducing
+test cost. The Probe-One was introduced in 2001. The testing of packaged memory
+devices remains an important market, as well. Teradyne's J996 memory test
+system provides high throughput package test solutions for next generation
+memory devices. The J996 has the accuracy and waveform fidelity to test 250
+MegaHertz devices, and is able to test sixty-four 16 Input/Output devices in
+parallel with a minimal amount of floor space. Teradyne's Aires test system is
+designed for newest-generation memory devices such as DDR, Direct Rambus(TM)
+DRAMs and fast SSRAMs. Accurately delivering the high speed, complex patterns
+required for characterization of these emerging devices, Aires' FlexSystem
+architecture combines full function memory and logic pattern generators with a
+per-pin timing system.
+
+System-on-a-Chip / Mixed Signal / Analog Test Solutions
+
+   Semiconductor devices that employ both analog and digital circuits are
+referred to as "mixed-signal devices." Recent mixed-signal devices called
+"system on chip," such as those employed in consumer electronics and wireless
+communication products, include significantly increased functionality compared
+to earlier mixed-signal devices. The introduction of Teradyne's Catalyst test
+systems in 1996 began the system-on-a-chip test revolution, providing a single,
+integrated test environment for system-on-a-chip testing. Teradyne's Catalyst
+Tiger test system, introduced in 2000, extends component and functional test
+capability to very high device operating speeds. Catalyst and Catalyst Tiger
+test systems reduce time to market and cost to test across the customer
+spectrum, from Integrated Device Manufacturers to Fabless/Subcons. With a
+market share nearly double its nearest competitor, a majority of people who use
+a personal computer, surf the Internet, or watch a DVD, are using a product
+whose semiconductor device was tested with the Catalyst test systems. Teradyne
+also estimates that 75% of the world's cell phones include devices tested on
+Teradyne system-on-a-chip / mixed-signal test systems. As of December 31, 2001,
+more than 1,000 Catalyst test systems have been shipped to customers worldwide.
+Teradyne's predecessor to the Catalyst test systems, the A5 test systems of
+advanced mixed-signal test systems has a worldwide installed base of more than
+1,000 systems and covers a wide range of device applications, including
+automotive and telecommunications.
+
+High Performance Test Solutions
+
+   High performance devices such as microprocessors require high performance
+automatic test equipment for both functional ("Does it function properly?") and
+structural ("Is it constructed properly?") testing. Very Large Scale
+Integration ("VLSI") test systems offer solutions for the broadest range of
+high performance devices used in today's electronics and Internet products,
+such as personal computers and video game consoles, Internet routers and
+switches, and network servers. Almost every type of high-end microprocessor,
+integrated processor,
+
+
+
+
+and graphic device in the world today is tested on a Teradyne high performance
+logic test system. Teradyne's J973EP is one of the only VLSI test systems
+designed for the wide range of testing capability needed for structural to
+functional testing in a single test system. This product's flexible
+configuration provides the ability to switch between functional and structural
+test in real time, minimizing test cost by matching test performance to device
+test requirements only when needed. The J973EP expands the performance curve on
+accuracy, precision device power, and differential bus testing.
+
+High Volume Device Test Solutions
+
+   Devices tested in high volume, such as microcontrollers, are at the heart of
+almost every consumer electronics product, from small appliances to automotive
+engine controllers. Produced in enormous quantities where every penny matters,
+delivering the lowest cost of test at very high production throughput rates is
+essential. Teradyne's Integra test systems combine compact packaging, high
+performance, and ease of use into a system designed to meet the high volume /
+low cost requirements of microcontroller production test. Increasing the level
+of integration in the system is key to reducing system cost and size. Teradyne
+is the first automatic test equipment vendor to combine four channels of
+automatic test equipment timing functionality into a single custom
+semiconductor device. Teradyne's design team created an innovative technique
+that enabled integration of a full 64 channels of test capability onto a single
+printed circuit board. This design approach eliminated the mainframe and
+interconnection cabling resulting in a complete test system housed in a compact
+test head-only configuration. Its "zero footprint" design reduces the total
+cost of ownership and allows for more efficient use of production floor space.
+Teradyne's Integra test systems include the J750 and J750k. Using the same
+compact, low cost architecture Teradyne's IP750 CCD Image Sensor test system
+enjoys the world's largest shipment volume and installed base in the image
+sensor device test market, driven by the burgeoning popularity of digital
+cameras and other imaging products.
+
+Connection Systems Solutions
+
+   Connection Systems is a global supplier of high-performance components and
+electronic manufacturing services. Connection System's component technology can
+be found in such diverse products as Internet routers, computer servers, mass
+data storage and telecom switches. Connection Systems offers a total
+interconnect solution with a broad suite of technologically differentiated
+capabilities including printed circuit boards, high-speed, high-density
+connectors, multi-gigabit backplane assemblies and complete systems integration
+and test.
+
+   A backplane plays the crucial roll of locating and supporting printed
+circuit boards within a system, enabling them to "talk" to each other and to
+the outside world. Connection Systems produces custom, large format backplanes,
+up to .400 inches thick and 24 inches x 54 inches in size with up to 64 layers.
+Connectors are devices that allow the backplane and other printed circuit
+boards (sometimes called daughter cards) to plug together. High bandwidth
+capability packed in a small amount of space is an important technological
+advantage of Teradyne's connectors. Connection System's VHDM(R) and
+VHDM-HSD(TM) connector families have become a standard in the industry for
+high-speed, high-density interconnect. The GbX(TM) connector was introduced in
+2001 to achieve even higher data rates and greater interconnection density. The
+Connection Systems organization also provides electronic manufacturing
+services, including backplane assembly, electro-mechanical integration of
+sub-assemblies, and complete systems integration and test.
+
+   An essential element of the Connection Systems business is its design and
+applications engineering expertise at every step in the process. This expertise
+helps customers balance critical cost and performance needs during system
+design. In addition, by providing program management services, Connection
+Systems becomes an extension of the customer's operation, delivering quick turn
+prototypes and high technology production volumes.
+
+Circuit Board Test and Inspection Solutions
+
+   The central element of almost every electronic product is a printed circuit
+board. A circuit board includes all the components and their interconnections
+that cause the board to perform its intended functions. As more and more
+product functionality is packed into smaller packages, such as PDAs, phone
+handsets and laptop computers, both the circuit boards and their components are
+increasingly complex. The circuit board manufacturing process
+
+
+
+
+is also complex and demands a number of inspection and test steps. Teradyne
+circuit board test and inspection equipment is used throughout the
+manufacturing process to ensure high production yields, to maintain overall
+product quality, to diagnose faults quickly where and when they occur, and to
+reduce total manufacturing cost. The Teradyne circuit board and inspection
+product range includes the following products:
+
+In-Circuit Test
+
+   In-circuit test systems examine the assembled and soldered circuit board for
+proper construction under both power-off and power-on conditions. Faulty
+components or solder problems are identified quickly and precisely. Because of
+their relatively low cost, high throughput and diagnostic accuracy, in-circuit
+testers are used universally in every electronics production line. Teradyne
+in-circuit products support a full range of circuit board test applications,
+including prototype and ramp up, high-volume production, selective or sample
+test and final or system test. Accordingly, Teradyne offers a wide variety of
+capabilities and options with its Spectrum 8000-series, Z1800-series and GR
+TestStation product lines. Specialized systems such as the GR Pilot and Javelin
+"flying probers" round out one of the industry's broadest and most capable
+product families.
+
+Imaging Inspection
+
+   As circuit boards become increasingly dense and complex, achieving the
+electrical contact required for the traditional in-circuit test method is
+becoming more difficult, time-consuming and expensive. "Loss of (electrical)
+access" is a primary driver behind the increasing popularity of imaging
+inspection systems, which examine the circuit board for physical qualities
+including correct component presence and orientation, the absence of electrical
+opens and solder quality. Teradyne's imaging inspection systems employ one of
+two technologies: automated optical inspection ("AOI"), whereby a visual image
+of the board is captured and analyzed; and automated x-ray inspection ("AXI"),
+which captures an x-ray image of the board. Each technology has particular
+strengths in analyzing various board defect classes. For example, AOI is the
+preferred technology for evaluating and diagnosing component-related defects,
+while AXI is the preferred technology for analyzing solder-related defects.
+Teradyne's Optima 7000-series AOI systems employ advanced and patented
+lighting, camera, software, and mechanics, resulting in highly reliable,
+repeatable, and accurate optical inspection at high line speeds. The AXI
+product line offers fast throughput with high resolution on both its
+two-dimensional (2D) and three-dimensional (3D) models, and is the only product
+line that includes a combined 2D/3D capability.
+
+Functional Test
+
+   Functional test systems examine the circuit board to determine whether it
+will meet its performance specifications and whether it will properly perform
+its intended "function." Functional testing is typically employed at the
+conclusion of the manufacturing process, as the final check step, to ensure the
+product will work as designed. Teradyne's functional test product line
+encompasses a full range of functional test applications, including high-volume
+production, final or system test, and field or depot diagnosis and repair.
+Available products range from VXI and PXI open architecture instruments and
+systems, to fully configured platforms for a wide range of manufacturing and
+depot test applications. Teradyne functional test systems include focused
+solutions for the communications, computer, and automotive markets, addressing
+functional test requirements for products such as automotive engine control
+units, telecom/datacom infrastructure equipment, wireless handheld devices, and
+complex/mission critical military/aerospace products. All Teradyne functional
+test solutions are designed specifically for the production test environment,
+which helps ensure that the test system has been optimized for throughput,
+reliability, and repeatability.
+
+Design to Build Software
+
+   Electronics manufacturers employ a variety of circuit board test and
+inspection equipment throughout their production lines. This broad range of
+circuit board test and inspection choices requires extensive test planning and
+preparation, often referred to as "design to build" or "D2B". Teradyne's
+Strategist software tool enables users to model, simulate, optimize and execute
+a cost-effective test and inspection strategy, which optimally
+
+
+
+
+divides test and inspection tasks among the imaging inspection, in-circuit and
+functional systems used on the manufacturing line. Once the strategy is
+determined, the user then employs Teradyne's Alchemist software to generate
+test software and documentation for the test and inspection equipment being
+used in the manufacturing line.
+
+Broadband Test Solutions
+
+   Broadband Test Systems test the capacity and quality of telephone and cable
+television lines connected to homes and businesses. These state-of-the-art
+testing capabilities support cable and telephone company service provider's
+goals to sell and deploy broadband services sooner and improve the efficiency
+of qualification, provisioning, and customer care. Broadband Test Systems
+provide voice network maintenance solutions for the communications industry.
+Testing more than 120 million access lines worldwide for many of the world's
+largest telecommunications companies, including British Telecommunications,
+Deutsche Telecom and Verizon, Teradyne's 4TEL access network maintenance
+systems reduce operating cost and increase customer satisfaction by reliably
+detecting and identifying line faults within a telecommunications access
+network. With ten years of Internet protocol testing experience, Teradyne also
+provides products to telecommunications companies such as local exchange
+carriers for Internet testing, customer care and voice network maintenance.
+
+   Teradyne products within the Broadband Test Systems market include:
+
+4TEL & 4TEL II Voice Test Systems
+
+   Teradyne's 4TEL voice test system precisely identifies and isolates faults
+within a telecommunications network, inside or outside customer premises,
+without the need for customer isolation equipment. The 4TEL II voice test
+system accurately isolates faults to such zones as exchange hardware, exchange
+wiring, access cable, inside premises wiring and customer equipment.
+
+   The 4TEL system quickly locates the precise geographic location of a fault,
+enabling service providers to dispatch craftspeople to fix a fault, rather than
+dispatching them to find the fault. The 4TEL voice test system also reliably
+identify when a dispatch is not needed, such as when the problem exists in
+customer-owned equipment. Teradyne's 4TEL system currently tests one seventh of
+the world's voice lines.
+
+NetFlare(TM) End-to-End Internet Testing
+
+   Cable and telephone company service providers can reduce broadband service
+call handling time with Teradyne's NetFlare system. This newly developed
+technology allows the consumer or call center representative to emulate the
+consumer's network experience and determine the source of a problem. For
+example, NetFlare technology automatically measures throughput as the consumer
+experiences it, determines whether the broadband service provider commitment is
+met, and identifies the network source of the problem. NetFlare significantly
+reduces average call handling time and reduces the necessity for further
+technical support.
+
+Celerity(TM) Speed Provisioning and Qualification Products
+
+   Service providers need to know which cable lines between the central office
+and the end user are qualified for digital subscriber lines ("DSL") and which
+are not. Existing cable records are typically insufficient. Teradyne's Celerity
+product qualifies millions of lines for DSL capability in hours, and develops a
+database immediately showing which lines are qualified, which lines require
+conditioning and which lines are disqualified. Celerity performs real time
+testing that provides detailed loop qualification information and tests
+in-service DSL lines, identifying the presence and dispatch location of faults
+that affect data transmission. Celerity customers are able to significantly
+reduce costs of deployment and identify new lines and high-speed lines for
+increased revenue.
+
+Diagnostic Solutions
+
+   Diagnostic Solutions is a major supplier of automotive manufacturing test
+and service bay diagnostic systems supporting vehicle electronics systems
+throughout their lifecycle, from design through manufacturing to service.
+Diagnostic Solutions products are used by automotive and transportation
+original equipment manufacturers, as well as by independent service providers.
+
+
+
+
+Software Test Solutions
+
+   Software Test Systems, which Teradyne divested in December 2000, are used by
+a number of industries to test communications networks, computerized
+telecommunication systems, and web based applications.
+
+Summary of Net Sales by Operating Segment
+
+   Teradyne's four principal operating segments accounted for the following
+percentage of consolidated net sales for each of last three years:
+
+
+
+Sales and Distribution
+
+   Teradyne's systems are extremely complex and require extensive support both
+by the customer and by Teradyne. Prices for Teradyne's systems can reach $3
+million or more. In 2001, no single customer accounted for more than 10% of
+Teradyne's consolidated net sales. In 2001, Teradyne's three largest customers
+accounted for 24% of consolidated net sales.
+
+   Direct sales to United States government agencies accounted for less than 1%
+of consolidated net sales in 2001, 2000, and 1999. Approximately 5% of Circuit
+Board Test and Inspection Systems sales in 2001 were to the United States
+government agencies. Sales were also made within each of Teradyne's segments to
+customers who are government contractors. Approximately 3% of Connection
+Systems sales and approximately 27% of Circuit Board Test and Inspection
+Systems sales fell into that category in 2001. On June 22, 2001, Teradyne sold
+its aerospace and defense connector and backplane business to Amphenol
+Corporation of Wallingford, Connecticut.
+
+   Teradyne has sales and service offices located throughout North America,
+South East Asia, Europe, Taiwan, Japan, and Korea as Teradyne's customers
+outside the United States are located primarily in these geographic areas.
+Teradyne sells in these areas predominantly through a direct sales force.
+Primarily all of Teradyne's manufacturing activities are conducted in the
+United States. Sales to customers outside the United States accounted for 49%
+of consolidated net sales in 2001, 54% in 2000, and 52% in 1999. Sales to
+customers located in Taiwan were 10% in 2001 and 2000. Sales are attributed to
+geographic areas based on the location of the customer site.
+
+   Teradyne is subject to the inherent risks involved in international trade,
+such as:
+
+    .  political and economic instability and acts of terrorism;
+    .  restrictive trade policies;
+    .  controls on funds transfer;
+    .  currency fluctuations;
+    .  difficulties in managing distributors;
+    .  potentially adverse tax consequences; and
+    .  the possibility of difficulty in accounts receivable collection.
+
+   Teradyne attempts to reduce the effects of currency fluctuations by hedging
+those currency exposures associated with certain assets and liabilities
+denominated in non-functional currencies and by conducting some of its
+international transactions in U.S. dollars or dollar equivalents. See also
+"Item 7A. Quantitative and Qualitative Disclosures About Market Risks" and
+"Note G: Financial Instruments" in Notes to Consolidated Financial Statements.
+
+
+
+
+Competition
+
+   Teradyne faces substantial competition, throughout the world in each of its
+operating segments. Some of these competitors have substantial financial and
+other resources to pursue engineering, manufacturing, marketing and
+distribution of their products. Teradyne also faces competition from internal
+suppliers at several of its customers. Some of Teradyne's competitors have
+introduced or announced new products with certain performance characteristics
+that may be considered equal or superior to those Teradyne currently offers.
+Teradyne expects its competitors to continue to improve the performance of
+their current products and to introduce new products or new technologies that
+provide improved cost of ownership and performance characteristics. New product
+introductions by competitors could cause a decline in sales or loss of market
+acceptance of Teradyne's products. Moreover, increased competitive pressure
+could lead to intensified price based competition, which could materially
+adversely affect Teradyne's business, financial condition and results of
+operations.
+
+Backlog
+
+   At December 31, 2001 and 2000, Teradyne's backlog of unfilled orders in each
+of its four principal operating segments was as follows:
+
+
+
+
+   Of the backlog at December 31, 2001, approximately 97% of the Semiconductor
+Test Systems backlog, 100% of the Connection Systems backlog, 92% of Circuit
+Board Test and Inspection Systems backlog, and 59% of the Other Test Systems
+backlog is expected to be delivered in 2002. Teradyne's experience indicates
+that a portion of orders included in the backlog may be canceled or
+rescheduled. During 2001, Teradyne experienced an increase in the rescheduling
+of delivery dates by some of its customers, and thus the timing of the delivery
+of a significant portion of Teradyne's backlog is uncertain. In 2001, Teradyne
+experienced cancellations of $285.5 million. Teradyne may experience additional
+cancellations in the future. There are no seasonal factors related to the
+backlog.
+
+Raw Materials
+
+   Teradyne's products require a wide variety of electronic and mechanical
+components. Teradyne can experience occasional delays in obtaining timely
+delivery of certain items. Additionally, Teradyne could experience a temporary
+adverse impact if any of its sole source suppliers ceased to deliver products.
+Any prolonged inability to obtain adequate supplies, or any other circumstances
+that would require Teradyne to seek alternative sources of supply could have a
+material adverse effect on its business, financial condition, and results of
+operations.
+
+Patents and Licenses
+
+   Teradyne's development of its products, both hardware and software, is
+largely based on proprietary information. Teradyne protects its rights in
+proprietary information through various methods such as:
+
+    .  copyrights;
+    .  trademarks;
+    .  patents and patent applications;
+    .  software license agreements; and
+    .  employee agreements.
+
+   Any invalidation of Teradyne's intellectual property rights could have a
+material adverse effect on its business.
+
+
+
+
+Employees
+
+   As of December 31, 2001, Teradyne employed approximately 8,400 people. Since
+the inception of Teradyne's business, there have been no work stoppages or
+other labor disturbances. Teradyne has no collective bargaining contracts.
+
+Engineering and Development Activities
+
+   The highly technical nature of Teradyne's products requires a large and
+continuing engineering and development effort. Engineering and development
+expenditures were approximately $288.7 million in 2001, $348.0 million in 2000,
+and $261.9 million in 1999. These expenditures amounted to approximately 20% of
+consolidated net sales in 2001, 11% in 2000, and 15% in 1999.
+
+Environmental Affairs
+
+   Teradyne's manufacturing facilities are subject to numerous laws and
+regulations designed to protect the environment, particularly from
+manufacturing plant wastes and emissions. These laws include:
+
+    .  The Comprehensive Environmental Response, Compensation, and Liability
+       Act;
+    .  The Superfund Amendment and Reauthorization Act of 1986;
+    .  The Occupational Safety and Health Act;
+    .  The Clean Air Act;
+    .  The Clean Water Act;
+    .  The Resource Conservation and Recovery Act of 1976; and
+    .  The Hazardous and Solid Waste Amendments of 1984.
+
+   In the opinion of management, the costs associated with complying with these
+laws and regulations have not had and are currently not expected to have a
+material effect upon the financial position or results of operations of
+Teradyne.
+
+   In 2001, Teradyne was designated as a "potentially responsible party"
+("PRP") at two clean-up sites, one in California and one in Rhode Island.
+Teradyne does not believe that it has any liability for the cleanup of the
+California site, and has requested the state of California to remove Teradyne's
+name from the list of PRPs, however, Teradyne has not yet received a reply. In
+the opinion of management, the costs associated with complying with the
+clean-up of this site, if required, are not expected to have a material effect
+upon the financial position or results of operations of Teradyne. However,
+Teradyne cannot predict what its liability, if any, may be for the clean-up of
+this site and can give no assurance that it will not materially adversely
+affect Teradyne's financial condition or results of operations. With respect to
+the second site, in Rhode Island, additional information is currently being
+collected to better understand Teradyne's financial obligations, if any, for
+its portion of the clean-up of this site.
+
+
+
+
+                       EXECUTIVE OFFICERS OF THE COMPANY
+
+   The following table sets forth the names of all executive officers of
+Teradyne and certain other information relating to their positions held with
+Teradyne and other business experience. Executive officers of Teradyne do not
+have a specific term of office but rather serve at the discretion of the Board
+of Directors.
+
+
+
+*Mr. Sulman retired from Teradyne on December 31, 2001.
+
+
+
+
+Item 2:  Properties
+
+   Teradyne's executive offices are in Boston, Massachusetts. Manufacturing and
+other operations are carried on in several locations. The following table
+provides certain information as to Teradyne's principal general offices and
+manufacturing facilities.
+
+
+
+*This space is unoccupied and therefore available for future expansion.
+
+Item 3:  Legal Proceedings
+
+   In connection with the August 2000 acquisition of each of Herco Technology
+Corp., a California company, and Perception Laminates, Inc., a California
+company, a complaint was filed by the former owners of those companies on or
+about September 5, 2001 naming as defendants Teradyne and two of its executive
+officers. The case was originally filed in the Superior Court in San Diego
+County, California, and was subsequently removed by the defendants to federal
+court. On or about November 14, 2001, Teradyne and the two individual
+defendants filed a motion to dismiss the amended complaint in its entirety. The
+federal court granted in part and denied in part that motion to dismiss. The
+claims that were dismissed were dismissed with prejudice. At the federal
+court's request, the plaintiffs filed a second amended complaint on March 4,
+2002 setting forth their remaining claims. The second amended complaint
+alleges, among other things, that the sale of Teradyne's common stock to the
+former owners violated certain California securities statutes and common law,
+and that Teradyne breached certain contractual obligations in the agreements
+relating to the acquisitions. The second amended complaint seeks unspecified
+damages, including compensatory, consequential and punitive damages, and
+recovery of reasonable attorneys' fees and costs. On March 25, 2002, Teradyne
+and the two individual defendants filed their answer to the second amended
+complaint.
+
+   Teradyne and two of its executive officers are named as defendants in three
+purported class action complaints that were filed in the United States District
+Court for the District of Massachusetts, Boston, Massachusetts, on or about
+October 16, 2001, October 19, 2001 and November 7, 2001. The complaints allege,
+among other things, that the defendants violated Sections 10(b) and 20(a) of
+the Securities Exchange Act of 1934, by making, during the period from July 14,
+2000 until October 17, 2000, material misrepresentations and omissions to the
+investing public regarding Teradyne's business operations and future prospects.
+The complaints seek unspecified damages, including compensatory damages and
+recovery of reasonable attorneys' fees and costs.
+
+
+
+
+   Teradyne disputes all of the claims above and believes they are without
+merit, and intends to defend vigorously against the lawsuits. However, an
+adverse resolution of any of the lawsuits could have a material adverse effect
+on Teradyne's financial position or results of operations. Teradyne is not
+presently able to reasonably estimate potential losses, if any, related to any
+of the lawsuits and therefore has not accrued for any potential losses from the
+lawsuits.
+
+   In addition, Teradyne is subject to legal proceedings and claims that arise
+in the ordinary course of business. Management does not believe these actions
+will have a material adverse effect on Teradyne's financial position or results
+of operations.
+
+Item 4:  Submission of Matters to a Vote of Security Holders.
+
+   None.
+
+                                    PART II
+
+Item 5:  Market for Registrant's Common Equity and Related Shareholder Matters
+
+   The following table shows the market range for Teradyne's Common Stock based
+on reported sale prices on the New York Stock Exchange.
+
+
+
+   The number of record holders of Teradyne's Common Stock at February 22, 2002
+was 891.
+
+   Teradyne has never paid cash dividends because it has been Teradyne's policy
+to use earnings to finance expansion and growth. Payment of future cash
+dividends will rest within the discretion of the Board of Directors and will
+depend, among other things, upon Teradyne's earnings, capital requirements, and
+financial condition. Teradyne presently expects to retain all of its earnings
+for use in the business.
+
+Item 6:  Selected Financial Data
+
+
+
+   *Note: Previously published financial data prior to 2000 has not been
+restated to give the pro forma effect of the adoption of the provisions of SAB
+101. See "Note C: Change in Accounting Principle" in Notes to Consolidated
+Financial Statements for further information.
+
+
+
+
+Item 7:  Management's Discussion and Analysis of Financial Condition and
+         Results of Operations
+
+   The following discussion should be read in conjunction with the consolidated
+financial statements and notes thereto included elsewhere in this Annual Report
+on Form 10-K. In addition to the historical information contained in this
+document, the discussion in this Annual Report on Form 10-K contains
+forward-looking statements, made pursuant to the Private Securities Litigation
+Reform Act of 1995, that involve risks and uncertainties, such as statements of
+Teradyne's plans, expectations and intentions. The cautionary statements made
+in this Annual Report on Form 10-K should be read as being applicable to all
+related forward-looking statements whenever they appear in this Annual Report
+on Form 10-K. Teradyne's actual results could differ materially from the
+results contemplated by these and any other forward-looking statements. Factors
+that could contribute to such differences include those discussed below as well
+as those cautionary statements and other factors set forth in "Certain Factors
+That May Affect Future Results" and elsewhere herein.
+
+Critical Accounting Policies and Estimates
+
+   Teradyne has identified the policies discussed below as critical to
+understanding its business and its results of operations. The impact and any
+associated risks related to these policies on its business operations is
+discussed throughout Management's Discussion and Analysis of Financial
+Condition and Results of Operations where such policies affect its reported and
+expected financial results.
+
+   The preparation of consolidated financial statements requires Teradyne to
+make estimates and judgments that affect the reported amounts of assets,
+liabilities, revenues and expenses, and related disclosure of contingent
+liabilities. On an on-going basis, Teradyne evaluates its estimates, including
+those related to inventories, investments, intangible and other long-lived
+assets, bad debts, income taxes, pensions, warranties, contingencies and
+litigation. Teradyne bases its estimates on historical experience and on
+appropriate and customary assumptions that are believed to be reasonable under
+the circumstances, the results of which form the basis for making judgments
+about the carrying values of assets and liabilities that are not readily
+apparent from other sources. Actual results may differ from these estimates
+under different assumptions or conditions.
+
+   Teradyne recognizes revenue when there is persuasive evidence of an
+arrangement, title and risk of loss have passed, delivery has occurred or the
+services have been rendered, the sales price is fixed or determinable and
+collection of the related receivable is reasonably assured. It is Teradyne's
+policy to require an arrangement with its customers, either in the form of a
+written or electronic contract or purchase order containing all of the terms
+and conditions governing the arrangement, prior to the recognition of revenue.
+Title and risk of loss generally passes to the customer at the time of delivery
+of the product to a common carrier. At the time of the transaction, Teradyne
+assesses whether the sales price is fixed or determinable based upon the
+payment terms of the arrangement. If a significant portion of the sales price
+is not due with normal payment terms, the sales price may not be deemed fixed
+and revenue would be recognized as the amounts become due. Teradyne does not
+offer a right of return on its products.
+
+   Teradyne assesses collectibility based on a number of factors, including
+past transaction and collection history with a customer and the
+credit-worthiness of the customer. Teradyne performs on-going credit
+evaluations of its customer's financial condition but generally does not
+require collateral from its customers. If Teradyne determines that
+collectibility of the sales price is not reasonably assured, revenue is
+deferred until such time as collection becomes reasonably assured, which is
+generally upon receipt of payment from the customer.
+
+   Revenue is recognized upon delivery provided that customer acceptance
+criteria can be demonstrated prior to shipment. Where the criteria cannot be
+demonstrated prior to shipment, or in the case of new products, revenue is
+deferred until acceptance has been received. For multiple element arrangements,
+Teradyne defers the greater of the fair value of any undelivered elements of
+the contract or the portion of the sales price which is not payable until the
+undelivered elements are delivered. Teradyne also defers the portion of the
+sales price that is not due until acceptance, which represents deferred profit.
+Fair value is the price charged when the element is sold separately. In order
+to recognize revenue the functionality of the undelivered element must not be
+essential to the delivered element. Installation is not considered essential to
+the functionality of the product as these services do not alter the product
+capabilities, do not require specialized skills or tools and can be performed
+by the customers or other vendors. In addition to installation, other elements
+may include service arrangements and undelivered products. Teradyne's products
+are generally subject to warranty and related costs are provided for in cost of
+sales when product revenue is recognized.
+
+
+
+
+   Interconnection systems and electronic manufacturing assembly services
+revenue is recognized upon shipment or delivery according to the shipping terms
+of the arrangement as there is no installation required and there are no
+contractual acceptance requirements.
+
+   For certain contracts eligible for contract accounting under Statement of
+Accounting Position No. 81-1, "Accounting for Performance of Construction-Type
+and Certain Production-Type Contracts," revenue is recognized using the
+percentage-of-completion accounting method based upon an efforts-expended
+method. The software in these arrangements requires significant production,
+modification or customization. In all cases, changes to total estimated costs
+and anticipated losses, if any, are recognized in the period in which
+determined. To date revenue under contract accounting has not been material.
+
+   Inventories which include materials, labor and manufacturing overhead are
+stated at the lower of cost (first-in, first-out basis) or net realizable
+value. On a quarterly basis, Teradyne uses consistent methodologies to evaluate
+all inventory for net realizable value. Teradyne records a provision for excess
+and obsolete inventory when such an impairment is identified through the
+quarterly review process. Excess and obsolete inventory, consisting of on-hand
+and non-cancelable on-order inventory, in excess of estimated usage over the
+next 12 months is written down to its estimated net realizable value, if less
+than cost. The excess and obsolescence evaluation is based upon assumptions
+about future demand, product mix and possible alternative uses. In 2001,
+Teradyne recorded an inventory provision for excess and obsolete inventory of
+$139.7 million which includes a writedown for discontinued product lines of
+$34.5 million. If actual demand, product mix or possible alternative uses are
+less favorable than those projected by management, additional inventory
+write-downs may be required.
+
+   On a quarterly basis, Teradyne evaluates the realizability of its deferred
+tax assets and assesses the need for a valuation allowance. Realization of
+Teradyne's net deferred tax assets is dependent on its ability to generate
+approximately $415 million of future taxable income. Teradyne believes that it
+is more likely than not that its net deferred tax assets will be realized based
+on forecasted income, however, there can be no assurance that Teradyne will be
+able to meet its expectations of future income. If Teradyne continues to incur
+significant losses for an extended period of time, Teradyne could be required
+to establish a valuation allowance against all or a significant portion of its
+net deferred tax assets. To the extent Teradyne establishes a valuation
+allowance, an expense will be recorded within the provision for income taxes
+line in the statement of operations.
+
+   Teradyne assesses the impairment of identifiable intangibles, long-lived
+assets and related goodwill whenever events or changes in circumstances
+indicate that the carrying value may not be recoverable. Factors Teradyne
+considers important which could indicate an impairment include significant
+underperformance relative to expected historical or projected future operating
+results, significant changes in the manner of Teradyne's use of the acquired
+asset or the strategy for Teradyne's overall business and significant negative
+industry or economic trends. When Teradyne determines that the carrying value
+of intangibles, long-lived assets and related goodwill may not be recoverable
+based upon the existence of one or more of the above indicators of impairment,
+Teradyne measures any impairment based on a projected discounted cash flow
+method using a discount rate determined by its management to be commensurate
+with the risk inherent in its current business model. During 2001, Teradyne
+recorded charges of $32.3 million related to the impairment of certain excess
+facilities and long-lived assets. Intangible assets, long-lived assets, and
+goodwill amounted to $1.1 billion as of December 31, 2001.
+
+   The volatility of the industries that Teradyne serves can cause certain of
+its customers to experience shortages of cash flows, which can impact their
+ability to make required payments. Teradyne maintains allowances for doubtful
+accounts for estimated losses resulting from the inability of its customers to
+make required payments. At December 31, 2001, this allowance for doubtful
+accounts amounted to $6.3 million. Estimated allowances for doubtful accounts
+are reviewed periodically taking into account the customer's current payment
+history, the customer's current financial statements and other information
+regarding the customer's credit worthiness. If the financial condition of
+Teradyne's customers were to deteriorate, resulting in an impairment of their
+ability to make payments, additional allowances may be required.
+
+
+
+
+
+                SELECTED RELATIONSHIPS WITHIN THE CONSOLIDATED
+                           STATEMENTS OF OPERATIONS
+
+
+
+   On October 26, 2001, Teradyne completed its acquisition of GenRad, Inc. of
+Westford, MA, a leading manufacturer of electronic automatic test equipment,
+related software, and diagnostic solutions. GenRad's business has been made a
+part of the Circuit Board Test and Inspection Systems operating segment. GenRad
+activity is reflected in Teradyne's results of operations since the acquisition
+date. See "Note F: Acquisitions and Divestitures" in Notes to Consolidated
+Financial Statements for further information.
+
+Results of Operations:
+
+2001 compared to 2000
+
+Revenue
+
+   Teradyne's four principal operating segments accounted for the following
+percentages of consolidated net sales for each of last three years:
+
+
+
+
+
+
+
+   Sales decreased 53% in 2001 to $1,440.6 million from $3,043.9 million in
+2000. Semiconductor Test Systems sales decreased 65%, to $717.7 million in 2001
+from $2,044.0 million in 2000, Connection Systems sales to unaffiliated
+customers decreased 26%, to $540.8 million in 2001 from $734.6 million in 2000,
+and Circuit Board Test and Inspection Systems sales decreased 6%, to $132.4
+million in 2001 from $141.2 million in 2000. These decreases reflect the
+overall economic and industry market conditions described below. Circuit Board
+Test and Inspection Systems sales include the two-month impact of the GenRad
+acquisition which contributed sales of $19.0 million. Other Test Systems sales
+decreased 60%, to $49.7 million in 2001 from $124.1 million in 2000, which
+principally reflects the divestiture of Software Test Systems at the end of
+2000 as well as the overall economic and industry market conditions described
+below. During the fourth quarter of 2000, Teradyne implemented Staff Accounting
+Bulletin No. 101 "Revenue Recognition in Financial Statements" (SAB 101)
+retroactive to the beginning of the year. Included in 2001 sales was $98.7
+million related to shipments of customer orders in 2000 where title was
+retained by Teradyne until customer payment in order to perfect a security
+interest. Teradyne no longer retains title until customer payment.
+
+   Teradyne's business has been adversely impacted by the slowdown in economies
+worldwide including the effects of the hostilities begun in September 2001.
+Teradyne has also been adversely affected by the cyclical nature of the
+electronics and semiconductor industries, which experience recurring periods of
+oversupply of products and equipment of the type Teradyne sells. These factors
+have resulted in a downturn in the demand for Teradyne's products. During 2001,
+orders declined significantly across all of Teradyne's product lines when
+compared with the orders Teradyne received during 2000. The reduction in net
+orders across Teradyne for 2001 compared with 2000 was approximately $2,512.7
+million. Teradyne's experience in previous downturns has been that orders
+improve as Teradyne's customers' capital expenditures increase. At present,
+however, Teradyne cannot say how long the current downturn will last or when
+the situation will improve. In the absence of significant improvement, orders
+could remain low or decline further, and the amount of Teradyne's inventory,
+deferred tax assets, and certain long-lived assets considered realizable could
+be significantly reduced.
+
+   In 2001 and 2000, no single customer accounted for more than 10% of
+consolidated net sales. In 2001, Teradyne's three largest customers accounted
+for 24% of consolidated net sales.
+
+Bookings
+
+   Net orders decreased 76% to $808.2 million in 2001 from $3,320.9 million in
+2000. Net orders decreased in all operating segments and were led by a 85%
+decrease in Semiconductor Test Systems net orders. Connection Systems net
+orders, Circuit Board Test and Inspection Systems net orders, and Other Test
+Systems net orders decreased 64%, 33%, and 78%, respectively. Teradyne
+experienced cancellations of $285.5 million during 2001. Teradyne's net orders
+for its four principal operating segments for 2001 and 2000 were as follows:
+
+
+
+   Teradyne's backlog decreased 45% to $763.0 million in 2001 from $1,382.1
+million in 2000. At December 31, 2001 and 2000, Teradyne's backlog of unfilled
+orders for its four principal operating segments was as follows:
+
+
+
+
+
+
+   Customers may delay delivery of products or cancel orders suddenly and
+without significant notice, subject to possible cancellation penalties. Due to
+possible customer changes in delivery schedules and cancellation of orders,
+Teradyne's backlog at any particular date is not necessarily indicative of the
+actual sales for any succeeding period. Delays in delivery schedules and/or
+cancellations of backlog during any particular period could have a material
+adverse effect on Teradyne's business and results of operations.
+
+Gross Margin
+
+   Certain costs in 2001 and 2000 have been reclassified from cost of sales
+into engineering and development and selling and administrative. These
+reclassified costs consist of new product development costs incurred in
+manufacturing engineering, test technology and applications engineering costs
+supporting sales. The costs reclassified from cost of sales to engineering and
+development represent work performed to develop and implement manufacturing and
+test processes focused on the introduction of new product platforms. The costs
+reclassified from cost of sales to selling and administrative represent the
+development of applications programming used to demonstrate new product
+capabilities. The impact of the reclassifications is detailed below:
+
+
+
+   Cost of sales, excluding the charges described below, increased to 71% of
+sales in 2001 from 53% of sales in 2000. The percentage increase in 2001 was
+attributable to the decreased utilization of Teradyne's manufacturing capacity,
+as sales volume decreased while certain components of costs of sales remained
+fixed. The increase in the percentage of cost of sales was also impacted to a
+lesser extent by increased competitive price pressure as current semiconductor
+products mature and the mix of Teradyne's business changes as Connection
+Systems and Circuit Board Test and Inspection System sales, which have lower
+gross margins, become a larger percentage of Teradyne's business.
+
+   Teradyne introduced a number of new products in 2001. Generally, Teradyne's
+new products begin their product life with lower gross margins and margins
+improve as volume purchases increase and cost reduction activities are
+implemented. There can be no assurance that significant improvements in gross
+margins will be achieved on current or new Teradyne products through either
+volume purchases or cost reduction activities.
+
+   Cost of sales related to inventory provisions and other charges for asset
+impairments and vacated leases was $159.8 million in 2001. Inventory provision
+for excess and obsolete inventory was $105.2 million in 2001, which excludes
+the inventory writedowns for product line discontinuance, compared to $27.5
+million in 2000, included in cost of sales, representing a 5% increase. The
+increase in the inventory provision was caused by the worldwide economic
+slowdown during 2001. Between 2000 and 2001, orders declined by approximately
+$2,512.7 million, a 76% decrease. This drop in orders combined with lead time
+requirements for inventory procurement and Teradyne's new product introduction
+plans necessitated additional charges for excess and obsolete inventory. During
+2001, Teradyne recorded an inventory writedown in Semiconductor Test Systems
+due to the discontinuance of the Flash 750 product line of $32.3 million and
+related asset impairments of $4.6 million. In the third and fourth quarters of
+2001, Teradyne recorded a charge of $15.4 million for certain impaired
+manufacturing assets and vacated space under operating leases at Connection
+Systems.
+
+Engineering and Development
+
+   Engineering and development expenses, as a percentage of sales, increased to
+20% in 2001 from 11% in 2000, with spending decreasing by $59.4 million. This
+spending decrease was primarily due to lower material costs and the impact of
+workforce reductions, salary cuts, and furloughs in Semiconductor Test Systems
+and Circuit Board Test and Inspection Systems, excluding the impact of the
+GenRad acquisition. Connection Systems engineering and development spending
+increased 5% from 2000 to 2001.
+
+
+
+
+
+Selling and Administrative
+
+   Selling and administrative expenses increased to 19% of sales in 2001 from
+12% of sales in 2000, with spending decreasing by $107.7 million. The decrease
+in spending was principally due to certain cost containment programs such as
+workforce reductions, salary cuts, and furloughs.
+
+Restructuring and Other Charges
+
+   Restructuring and other charges include a workforce reduction and early
+retirement provision of $37.3 million, a charge for a Connection Systems
+impaired facility of $12.0 million, a charge for impaired assets of $1.9
+million relating to the discontinuance of the Flash 750 product line in
+Semiconductor Test Systems, and a charge for vacated space under certain
+operating leases of $1.7 million in Circuit Board Test and Inspection Systems.
+There were approximately 2,900 employees terminated in 2001 across all
+functional groups. These terminations will result in future cost savings in
+2002 of approximately $132.0 million. Teradyne has paid $23.8 million in
+severance benefits during 2001. All remaining severance benefits for employees
+terminated in 2001 will be paid by the fourth quarter of 2002.
+
+   Below is a table summarizing activity relating to restructuring and other
+charges:
+
+
+
+   The accrual for severance and benefits is reflected in accrued employees'
+compensation and withholdings and the accrual for lease payments on vacated
+facilities is reflected in other accrued liabilities.
+
+Interest income and expense
+
+   Interest income decreased by $2.4 million to $22.7 million in 2001 compared
+to $25.1 million in 2000. The decrease in 2001 was attributable to decreases in
+the average invested balances and lower interest rates. Interest expense
+increased by $2.3 million as a result of interest expense for two months
+associated with Teradyne's convertible notes.
+
+Other income and expense
+
+   Included in other income in 2001 is a gain from the sale of Connections
+Systems aerospace and defense business of $14.8 million. Included in other
+expense for 2001 is Teradyne's proportionate share of a loss related to an
+equity method investment of $7.0 million.
+
+Income before taxes
+
+   (Loss) income before income taxes and cumulative effect of change in
+accounting principle was a loss of $326.2 million in 2001 compared to income of
+$739.6 million in 2000. Semiconductor Test Systems, Connection Systems, Circuit
+Board Test and Inspection Systems, and Other Test Systems income before income
+taxes decreased $907.2 million, $167.5 million, $40.3 million, and $3.3
+million, respectively in 2001 due to decreased sales in each group and the
+market conditions described above.
+
+
+
+
+Income taxes
+
+   Teradyne's effective tax rate benefit was 38% in 2001. The effective tax
+rate provision for the year ended 2000 was 30%. The change in the tax rate is a
+result of a loss in 2001. In 2000, Teradyne was able to reduce its effective
+tax rate with tax benefits from its foreign sales corporation and Ireland
+manufacturing operations.
+
+   On a quarterly basis, Teradyne evaluates the realizability of its deferred
+tax assets and assesses the need for a valuation allowance. Realization of
+Teradyne's net deferred tax assets is dependent on its ability to generate
+approximately $415 million of future taxable income. Teradyne believes that it
+is more likely than not that its net deferred tax assets will be realized based
+on forecasted income. However, if Teradyne continues to incur significant
+losses for an extended period of time, it could be required to establish a
+valuation allowance against all or a significant portion of its net deferred
+tax assets. To the extent Teradyne establishes a valuation allowance, an
+expense will be recorded within the provision for income taxes line in the
+statement of operations.
+
+   In response to an adverse World Trade Organization (WTO) finding that the
+U.S. Foreign Sales Credit (FSC) tax provisions were a prohibited export
+subsidy, the U.S. repealed FSC and enacted replacement legislation
+(Extraterritorial Income Exclusion Act of 2000). The European Union filed a WTO
+challenge to the new law and the WTO has upheld the European Union's challenge.
+The U.S. has decided to appeal and the appellate process and final resolution
+of this matter could extend beyond 2002. The U.S. government and industry
+groups are evaluating options. It is not possible to predict what impact, if
+any, this issue will have on future earnings pending final resolution of the
+challenge. During the years ended December 31, 2001, 2000, and 1999, the FSC
+benefited Teradyne's effective tax rate as follows:
+
+
+
+2000 compared to 1999
+
+Revenue
+
+   Sales increased 70% in 2000 to a record $3,043.9 million from $1,790.9
+million in 1999. Semiconductor Test Systems shipments increased by 69% due to
+increased sales to semiconductor manufacturers and subcontractors as these
+customers increased capacity to meet their customer's requirements. Sales of
+Connection Systems to unaffiliated customers grew 97% as a result of
+significant growth in demand from networking, data storage, and other high
+technology customers. Circuit Board Test and Inspection Systems sales increased
+by 19% from 1999. Other Test Systems sales increased 40% from 1999 with
+increases in Broadband Test Systems of 10% and Software Test Systems of 64%.
+Due to the sale of a majority interest in the software test business in
+December 2000, Software Test Systems revenue will not be reflected on an
+on-going basis.
+
+Bookings
+
+   Incoming net orders increased 52% from $2,190.6 million in 1999 to a record
+$3,320.9 million in 2000. Net orders increased in all operating segments and
+were led by a 159% increase in Connection Systems net orders. Semiconductor
+Test Systems net orders increased 24%. Broadband Test Systems net orders
+increased 77% and Circuit Board Test and Inspection Systems and Software Test
+Systems increased 26% and 70%, respectively. Teradyne's backlog increased 41%
+to a record $1,382.1 million.
+
+Gross Margin
+
+   Certain costs in 2000 and 1999 have been reclassified from cost of sales
+into engineering and development and selling and administrative. These
+reclassified costs consist of new product development costs incurred in
+manufacturing engineering, test technology and applications engineering costs
+supporting sales. The costs
+
+
+
+
+reclassified from cost of sales to engineering and development represent work
+performed to develop and implement manufacturing and test processes focused on
+the introduction of new product platforms. The costs reclassified from cost of
+sales to selling and administrative represent the development of applications
+programming used to demonstrate new product capabilities. The impact of the
+reclassifications is detailed below:
+
+
+
+   Costs of sales as a percentage of sales decreased from 56% of sales in 1999
+to 53% of sales in 2000. The decrease in cost of sales was primarily due to the
+increased utilization of Teradyne's manufacturing overhead as sales volume
+increased while certain components of cost of sales remained fixed.
+
+Engineering and Development
+
+   Engineering and development expenses decreased from 15% of sales in 1999 to
+11% of sales in 2000, even though spending increased $86.2 million. The
+increase in spending was primarily due to new product development expenses in
+Semiconductor Test Systems, and, to a lesser extent, increased expenses related
+to product development in Connection Systems, Circuit Board Test and Inspection
+Systems, and Software Test Systems.
+
+Selling and Administrative
+
+   Selling and administrative expenses as a percentage of sales decreased from
+15% in 1999 to 12% in 2000. Spending increased by $111.1 million year over year
+in support of increased Semiconductor Test Systems, Connection Systems, and
+Software Test Systems sales.
+
+Interest income and expense
+
+   Interest income increased $7.8 million to $25.1 million in 2000 compared to
+$17.3 million in 1999. Interest income increased due to an increase in
+Teradyne's average invested balances and higher interest rates.
+
+Other income and expense
+
+   Included in other income in 2000 is an immaterial gain relating to the
+divestiture of the software test business.
+
+Income before taxes
+
+   Income before income taxes and cumulative effect of change in accounting
+principle increased $465.8 million from $273.8 million in 1999 to $739.6
+million in 2000. Semiconductor Test Systems, Connection Systems, Circuit Board
+Test and Inspection Systems, and Other Test Systems income before income taxes
+increased $387.4 million, $91.8 million, $7.0 million, and $9.5 million,
+respectively in 2000 due to increased sales in each group.
+
+Income taxes
+
+   Teradyne's effective tax rate was 30% in 2000 and 1999. Teradyne continued
+to utilize export sales corporation benefits and other tax benefits to operate
+below the U.S. statutory rate of 35%.
+
+
+
+
+Liquidity and Capital Resources
+
+   Teradyne's cash, cash equivalents and marketable securities balance
+increased $121.8 million in 2001, to $586.2 million. Teradyne used cash from
+operating activities of $79.0 million in 2001 and generated cash from operating
+activities in 2000 and 1999 of $470.9 million and $367.5 million, respectively.
+Net income (loss), adjusted to exclude the effects of non-cash items, used cash
+of $77.1 million in 2001, and provided cash of $501.6 million and $279.7
+million in 2000 and 1999, respectively. Changes in operating assets and
+liabilities net of businesses sold and acquired used cash of $1.9 million in
+2001 as accounts payable and accruals balances decreased as purchases slowed.
+The decrease in accounts payable and accruals was partially offset by reduced
+accounts receivable and inventory balances. Changes in operating assets and
+liabilities used cash of $30.7 million in 2000 and generated cash of $87.7
+million in 1999.
+
+   Teradyne used $247.3 million of cash for investing activities in 2001,
+$312.3 million in 2000, and $244.8 million in 1999. Investing activities
+consist of purchases, sales, and maturities of marketable securities, proceeds
+from the sale of businesses, cash acquired in business acquisitions, and
+purchases of capital assets to support long-term growth. Capital expenditures
+decreased by $56.8 million in 2001 compared with 2000, primarily in the
+Semiconductor Test Systems segment. This was due to the actions taken by
+Teradyne in 2001 to reduce planned capital expenditures due to current market
+conditions. Capital expenditures were $241.4 million in 2001, $298.2 million in
+2000, and $151.2 million in 1999.
+
+   Teradyne generated $401.5 million of cash from financing activities in 2001,
+used $97.5 million in 2000, and used $126.8 million in 1999. Financing
+activities include the issuance of convertible notes, mortgage borrowings,
+sales and repurchases of Teradyne's common stock, as well as repayments of
+debt. In 2001, Teradyne assumed debt of $89.7 million from the GenRad
+acquisition which Teradyne repaid on October 26, 2001. During 2001, 2000, and
+1999 issuances of common stock under stock option and stock purchase plans
+generated $58.5 million, $55.3 million, and $82.3 million, respectively.
+Teradyne used cash for the acquisition of treasury stock of $147.5 million and
+$207.8 million in 2000 and 1999, respectively. Since 1996, Teradyne has used
+$540.8 million of cash to repurchase 20.0 million shares of its common stock on
+the open market though no cash was used in 2001 to repurchase shares of common
+stock.
+
+   On October 24, 2001, Teradyne sold $400 million principal amount of 3.75%
+Convertible Senior Notes due 2006 (the "Notes") in a private placement and
+received net proceeds of $389 million. The Notes are convertible at the option
+of the holders at a rate which is equivalent to a conversion price of
+approximately $26.00 per share, which is equal to a conversion rate of
+approximately 38.4615 shares of common stock per $1,000 principal amount of
+Notes. The Notes are redeemable by Teradyne at any time after October 18, 2004
+at specified prices. Teradyne will begin making annual interest payments of up
+to $15 million, paid semi-annually, on the Notes commencing on April 15, 2002.
+The Notes are senior unsecured obligations of Teradyne that rank equally with
+Teradyne's existing and future unsecured and unsubordinated indebtedness. In
+the event of a change in control by which Teradyne merges with or sells
+substantially all of its assets to a third party, the holders of the Notes may
+be able to require Teradyne to redeem some or all of the Notes either in
+discounted Teradyne common stock or in cash. On February 8, 2002, the
+Securities and Exchange Commission declared effective a Registration Statement
+on Form S-3 covering both the Notes and the shares of common stock into which
+they can be converted.
+
+   On December 19, 2001, Teradyne obtained a loan of approximately $45 million
+in the form of a 7.5% mortgage loan maturing on January 1, 2007, (the
+"Mortgage"). Principal payments are made according to a twenty-year
+amortization schedule through December 2006, with the remaining principal due
+on January 1, 2007. Teradyne began making monthly principal and interest
+payments of $0.4 million on February 1, 2002.
+
+   On October 26, 2001, Teradyne completed its acquisition of GenRad, Inc. of
+Westford, MA, a leading manufacturer of electronic automatic test equipment,
+related software and diagnostic solutions. GenRad's business has been made part
+of the Circuit Board Test and Inspection Systems operating segment. Under the
+terms of the acquisition, each outstanding share of GenRad common stock was
+converted into 0.1733 shares of Teradyne common stock. The total number of
+Teradyne shares exchanged for the shares of GenRad, based on the shares of
+GenRad outstanding as of the closing, was approximately 5.0 million.
+
+
+
+
+   The following table reflects Teradyne's current contractual obligations:
+
+
+
+   Teradyne believes its cash, cash equivalents, and marketable securities
+balance of $586.2 million, together with a tax refund of $85.2 million received
+in March 2002, will be sufficient to meet working capital and expenditure needs
+for the foreseeable future. Depending on market conditions and funding
+requirements, Teradyne may seek additional external financing.
+
+   Inflation has not had a significant long-term impact on earnings.
+
+Recently Issued Accounting Pronouncements
+
+   In July 2001, the Financial Accounting Standards Board ("FASB") issued
+Statement of Financial Accounting Standards No. 141 ("SFAS 141"), "Business
+Combinations." SFAS 141 requires the purchase method of accounting for business
+combinations initiated after June 30, 2001 and eliminates the
+pooling-of-interest method.
+
+   In July 2001, FASB issued SFAS 142, "Goodwill and Other Intangible Assets",
+which is effective for Teradyne on January 1, 2002. SFAS 142 requires, among
+other things, the discontinuance of goodwill amortization and includes
+provisions for the reclassification of certain existing recognized intangibles
+as goodwill, reassessment of the useful lives of existing recognized
+intangibles, and reclassification of certain intangibles out of previously
+reported goodwill. In 2001, Teradyne recorded goodwill amortization of
+approximately $3.9 million. At December 31, 2001 Teradyne had $190.3 million of
+goodwill which will not be amortized. In 2002, Teradyne will record
+amortization of approximately $7.4 million relating to other intangibles
+primarily in connection with the GenRad acquisition. SFAS 142 also requires
+Teradyne to complete a transitional goodwill impairment test six months from
+the date of adoption. Teradyne has completed a preliminary evaluation of the
+impact of SFAS 142 and currently does not expect to record a goodwill
+impairment.
+
+   In August 2001, FASB issued SFAS 143, "Accounting for Obligations Associated
+with the Retirement of Long-Lived Assets." SFAS 143 provides the accounting
+requirements for retirement obligations associated with tangible long-lived
+assets. SFAS 143 is effective for financial statements for fiscal years
+beginning after June 15, 2002. Teradyne has determined that SFAS 143 will not
+have an impact on its financial position and results of operations.
+
+   In October 2001, FASB issued SFAS 144, "Accounting for the Impairment or
+Disposal of Long-Lived Assets." SFAS 144 requires one method of accounting for
+long lived assets disposed of by sale. SFAS 144 is effective for financial
+statements issued for fiscal years beginning after December 15, 2001. Teradyne
+has adopted SFAS 144 effective January 1, 2002. SFAS 144 did not have an impact
+on Teradyne's financial position or results of operations.
+
+
+
+
+Certain Factors That May Affect Future Results
+
+   From time to time, information provided by Teradyne, statements made by its
+employees or information included in its filings with the Securities and
+Exchange Commission (including this Form 10-K and Teradyne's Annual Report to
+Shareholders) contain statements which are not purely historical facts, but are
+forward looking statements, made under the Safe Harbor provisions of the
+Private Securities Litigation Reform Act of 1995, which involve risks and
+uncertainties. In particular, forward looking statements are contained in "Item
+1: Business", and in "Item 7: Management's Discussion and Analysis of Financial
+Condition and Results of Operations" relating to projections, plans, and
+objectives for Teradyne's business, financial condition, operating results,
+future economic performance or statements relating to the sufficiency of
+capital to meet working capital, planned capital expenditures, and expectations
+as to customer orders. Teradyne's actual future results may differ
+significantly from those stated in any forward looking statements. Factors that
+may cause such differences include, but are not limited to, the factors
+discussed below. Each of these factors, and others, are discussed from time to
+time in Teradyne's filings with the Securities and Exchange Commission.
+
+Teradyne's Business Is Impacted by the Slowdown in Economies Worldwide.
+
+   Teradyne's business has been negatively impacted by the slowdown in the
+economies of the United States, Asia and elsewhere that began in the second
+half of 2000. The uncertainty regarding the growth rate of the worldwide
+economies has caused companies to reduce capital investment and may cause
+further reduction of such investments. These reductions have been particularly
+severe in the electronics and semiconductor industry which Teradyne serves and
+have contributed to Teradyne incurring losses in recent periods. Teradyne
+cannot predict if or when the growth rate of worldwide economies will rebound,
+whether the growth rate of its business will rebound when the worldwide
+economies begin to grow, or if or when Teradyne will return to profitability.
+While Teradyne's diverse business may allow it to perform better than some
+companies in periods of economic decline, the effects of the economic decline
+are being felt across all of Teradyne's business segments and have
+significantly slowed customer orders.
+
+Teradyne's Business is Dependent on the Current and Anticipated Market for
+Electronics.
+
+   Teradyne's business and results of operations depend in significant part
+upon capital expenditures of manufacturers of semiconductors and other
+electronics, which in turn depend upon the current and anticipated market
+demand for those products. The current and anticipated market demand for
+electronics has been impacted by the economic slowdown that began in the latter
+portions of 2000 and the effects of the hostilities begun in September 2001.
+Historically, the electronic and semiconductor industry has been highly
+cyclical with recurring periods of over-supply, which often have had a severe
+negative effect on demand for test equipment, including systems manufactured
+and marketed by Teradyne. Teradyne believes that the markets for newer
+generations of electronic products such as those that Teradyne manufactures and
+markets will also be subject to similar fluctuations. Teradyne is dependent on
+the timing of customer orders and the deferral or cancellation of previous
+customer orders could have an adverse effect on its results of operations.
+Teradyne cannot assure you that the downward trend in new orders will turn
+around in the future or that any increase in sales or new orders for a calendar
+quarter will be sustained in subsequent quarters. In addition, any factor
+adversely affecting the electronics industry or particular segments within the
+electronics industry may adversely affect Teradyne's business, financial
+condition and operating results.
+
+Teradyne Has Taken and Expects to Continue to Take Measures to Address the
+Current Slowdown in the Market for Its Products Which Could Have Long-term
+Negative Effects on Teradyne's Business.
+
+   Teradyne has taken and expects to take additional measures to address the
+current slowdown in the market for its products. In particular, Teradyne has
+reduced its workforce, frozen hiring, delayed salary increases, reduced the pay
+of substantially all employees, implemented furloughs, discontinued its Flash
+750 memory product line, recorded asset impairment charges and reduced its
+planned capital expenditures and expense
+
+
+
+
+budgets. These measures have reduced expenses in the face of decreased revenues
+due to decreased or cancelled customer orders. However, each measure Teradyne
+has taken and any additional measures taken in the future to contain
+expenditures could have long-term negative effects on Teradyne's business by
+reducing its pool of technical talent, decreasing or slowing improvements in
+its products, and making it more difficult for Teradyne to respond to customers
+or competitors.
+
+Teradyne's Business May Be Adversely Impacted by Acquisitions Which May Affect
+Its Ability to Manage and Maintain Its Business.
+
+   Since Teradyne's inception, it has acquired a number of businesses. In the
+future, Teradyne may undertake additional acquisitions of businesses that
+complement its existing operations. Such past or future acquisitions could
+involve a number of risks, including:
+
+    .  the possibility that one or more such acquisitions may not close due to
+       closing conditions in the acquisition agreements, the inability to
+       obtain regulatory approval, or the inability to meet conditions imposed
+       for government or court approvals for the transaction;
+    .  the diversion of the attention of management and other key personnel;
+    .  the inability to effectively integrate an acquired business into
+       Teradyne's culture, product and service delivery methodology and other
+       standards, controls, procedures and policies;
+    .  the inability to retain the management, key personnel and other
+       employees of an acquired business;
+    .  the inability to retain the customers of an acquired business;
+    .  the possibility that Teradyne's reputation will be adversely affected by
+       customer satisfaction problems of an acquired business;
+    .  potential known or unknown liabilities associated with an acquired
+       business, including but not limited to regulatory, environmental and tax
+       liabilities;
+    .  the amortization of acquired identifiable intangibles, which may
+       adversely affect Teradyne's reported results of operations; and
+    .  litigation which has or which may arise in the future in connection with
+       such acquisitions.
+
+   For example, in connection with the August 2000 acquisition of each of Herco
+Technology Corp., a California company, and Perception Laminates, Inc., a
+California company, a complaint was filed by the former owners of those
+companies on or about September 5, 2001 naming as defendants Teradyne and two
+of its executive officers. This case is further described in "Item 3: Legal
+Proceedings" on this Form 10-K. Teradyne cannot predict the outcome of the
+lawsuit at this time, and can give no assurance that it will not materially
+adversely affect Teradyne's financial position or results of operations.
+
+   In addition to the foregoing, any acquired business could significantly
+underperform relative to Teradyne's expectations.
+
+Teradyne Currently Faces, and in the Future May Be the Subject of, Securities
+Class Action Litigation Due to Past or Future Stock Price Volatility.
+
+   When the market price of a stock has been volatile, holders of that stock
+sometimes institute securities class action litigation against the company that
+issued the stock. Currently, Teradyne and two if its executive officers are
+named as defendants in three purported class action complaints that were filed
+in the United States District Court for the District of Massachusetts, Boston,
+Massachusetts, on or about October 16, 2001, October 19, 2001 and November 7,
+2001. The complaints allege, among other things, that the defendants violated
+Sections 10(b) and 20(a) of the Securities Exchange Act of 1934, by making,
+during the period from July 14, 2000 until October 17, 2000, material
+misrepresentations and omissions to the investing public regarding Teradyne's
+business operations and future prospects. The complaints seek unspecified
+damages, including compensatory damages and recovery of reasonable attorneys'
+fees and costs. Teradyne strongly believes that the purported class action
+complaints lack merit and it intends to defend against the claims vigorously.
+However, Teradyne could
+
+
+
+
+incur substantial costs defending the lawsuits. The lawsuits could also divert
+the time and attention of Teradyne's management. Teradyne cannot predict the
+outcome of the lawsuits at this time, and can give no assurance that they will
+not materially adversely affect Teradyne's financial position or results of
+operations.
+
+Teradyne's Business May be Adversely Impacted by Divestitures of Lines of
+Business Which May Affect Its Ability to Manage and Maintain Its Business.
+
+   Since Teradyne's inception, it has divested itself of certain lines of
+business. In the future, Teradyne may undertake additional such divestitures.
+Such past or future divestitures could involve a number of risks, including:
+
+    .  the diversion of the attention of management and other key personnel;
+    .  disruptions and other effects caused by the divestiture of a line of
+       business on Teradyne's culture, product and service delivery methodology
+       and other standards, controls, procedures and policies;
+    .  customer satisfaction problems caused by the loss of a divested line of
+       business; and
+    .  the decreased diversification of Teradyne's product lines caused by the
+       divestiture of a line of business which may make Teradyne's operating
+       results subject to increased market fluctuations.
+
+If Teradyne Is Unable to Protect Its Intellectual Property, Teradyne May Lose a
+Valuable Asset or May Incur Costly Litigation to Protect Its Rights.
+
+   Teradyne's products incorporate technology that it protects in several ways,
+including patents, copyrights and trade secrets. While Teradyne believes that
+its patents, copyrights and trade secrets have value in general, no single one
+is in itself essential. At times, Teradyne has been notified that it may be in
+violation of patents held by others. An assertion of patent infringement
+against Teradyne, if successful, could have a material adverse effect on its
+ability to sell its products, or could require a lengthy and expensive defense
+which could adversely affect its operating results.
+
+If Teradyne Fails to Develop New Technologies to Adapt to Its Customers' Needs
+and if Its Customers Fail to Accept Its New Products, Teradyne's Revenues Will
+Be Adversely Affected.
+
+   Teradyne believes that its technological position depends primarily on the
+technical competence and creative ability of its engineers. Teradyne's
+development of new technologies, commercialization of those technologies into
+products, and market acceptance and customer demand for those products is
+critical to Teradyne's success. Successful product development and introduction
+depends upon a number of factors, including:
+
+    .  new product selection;
+    .  development of competitive products by competitors;
+    .  timely and efficient completion of product design;
+    .  timely and efficient implementation of manufacturing; and
+    .  assembly processes and product performance at customer locations.
+
+Intense Competition in Teradyne's Industry May Affect Its Revenues.
+
+   Teradyne faces substantial competition throughout the world in each of its
+operating segments. Some of Teradyne's competitors have substantial financial
+and other resources to pursue engineering, manufacturing, marketing and
+distribution of their products. Teradyne also faces competition from internal
+suppliers at several of its customers. Some of Teradyne's competitors have
+introduced or announced new products with certain performance characteristics
+which may be considered equal or superior to those Teradyne currently offers.
+Teradyne expects its competitors to continue to improve the performance of
+their current products and to introduce new products or new technologies that
+provide improved cost of ownership and performance characteristics. New
+
+
+
+
+product introductions by competitors could cause a decline in sales or loss of
+market acceptance of Teradyne's products. Moreover, increased competitive
+pressure could lead to intensified price based competition, which could
+materially adversely affect Teradyne's business, financial condition and
+results of operations.
+
+Teradyne Is Subject to Risks of Operating Internationally.
+
+   Teradyne derives a significant portion of its total revenue from customers
+outside the United States. Teradyne's international sales are subject to
+significant risks and difficulties, including:
+
+    .  unexpected changes in legal and regulatory requirements and in policy
+       changes affecting international markets;
+    .  changes in tariffs and exchange rates;
+    .  political and economic instability and acts of terrorism;
+    .  difficulties in accounts receivable collection;
+    .  difficulties in staffing and managing international operations; and
+    .  potentially adverse tax consequences, such as the World Trade
+       Organization's dispute against the U.S. Foreign Sales Credit.
+
+Teradyne May Incur Significant Liabilities if It Fails to Comply With
+Environmental Regulations.
+
+   Teradyne is subject to environmental regulations relating to the use,
+storage, discharge, site cleanup, and disposal of hazardous chemicals used in
+its manufacturing processes. If Teradyne fails to comply with present and
+future regulations, or is required to perform site remediation, Teradyne could
+be subject to future liabilities or the suspension of production. Present and
+future regulations may also:
+
+    .  restrict Teradyne's ability to expand its facilities;
+    .  require Teradyne to acquire costly equipment; or
+    .  require Teradyne to incur other significant costs and expenses.
+
+Teradyne Has Substantially Increased Its Indebtedness.
+
+   On October 24, 2001, Teradyne completed a private placement of $400 million
+principal amount of 3.75% Convertible Senior Notes (the "Notes") due 2006 and
+received net proceeds of $389 million. On December 19, 2001, Teradyne obtained
+a loan of approximately $45 million in the form of a 7.5% mortgage loan
+maturing on January 1, 2007 (the "Mortgage"). As a result, Teradyne has
+incurred approximately $445 million principal amount of additional
+indebtedness, substantially increasing its ratio of debt to total
+capitalization. Teradyne may incur substantial additional indebtedness in the
+future. The level of Teradyne's indebtedness, among other things, could:
+
+    .  make it difficult for Teradyne to make payments on its debt and other
+       obligations;
+    .  make it difficult for Teradyne to obtain any necessary future financing
+       for working capital, capital expenditures, debt service requirements or
+       other purposes;
+    .  require the dedication of a substantial portion of any cash flow from
+       operations to service for indebtedness, thereby reducing the amount of
+       cash flow available for other purposes, including capital expenditures;
+    .  limit Teradyne's flexibility in planning for, or reacting to changes in,
+       its business and the industries in which Teradyne competes;
+    .  place Teradyne at a possible competitive disadvantage with respect to
+       less leveraged competitors and competitors that have better access to
+       capital resources; and
+    .  make Teradyne more vulnerable in the event of a further downturn in its
+       business.
+   There can be no assurance that Teradyne will be able to meet its debt
+service obligations, including its obligations under the Notes and the Mortgage.
+
+
+
+
+Teradyne May Not Be Able to Satisfy a Change in Control Offer.
+
+   The indenture governing the Notes contains provisions that apply to a change
+in control of Teradyne. If someone triggers a change in control as defined in
+the indenture, Teradyne may be required to offer to purchase the Notes with
+cash. If Teradyne has to make that offer, Teradyne cannot be sure that it will
+have enough funds to pay for all the Notes that the holders could tender.
+
+   In the event of a change in control of Teradyne, the mortgage lender may
+elect to declare all amounts due under the Mortgage to be immediately due and
+payable, and may elect to take possession of or sell the property subject to
+the Mortgage.
+
+Teradyne May Not Be Able to Pay Its Debt and Other Obligations.
+
+   If Teradyne's cash flow is inadequate to meet its obligations, Teradyne
+could face substantial liquidity problems. If Teradyne is unable to generate
+sufficient cash flow or otherwise obtain funds necessary to make required
+payments on the Notes, the Mortgage, or certain of its other obligations,
+Teradyne would be in default under the terms thereof, which would permit the
+holders of those obligations to accelerate their maturity and also could cause
+defaults under future indebtedness Teradyne may incur. Any such default could
+have a material adverse effect on Teradyne's business, prospects, financial
+position and operating results. In addition, Teradyne cannot assure that it
+would be able to repay amounts due in respect of the Notes or the Mortgage if
+payment of those obligations were to be accelerated following the occurrence of
+any other event of default as defined in the instruments creating those
+obligations. Moreover, Teradyne cannot assure that it will have sufficient
+funds or will be able to arrange for financing to pay the principal amount due
+on the Notes or the Mortgage at their respective maturities.
+
+Teradyne May Need Additional Financing, Which Could Be Difficult to Obtain.
+
+   Teradyne expects that its existing cash and marketable securities, cash
+generated from operations, the proceeds of the Notes offering in October 2001
+and the proceeds from the Mortgage financing in December 2001, will be
+sufficient to meet Teradyne's cash requirements to fund operations and expected
+capital expenditures for the foreseeable future. In the event Teradyne may need
+to raise additional funds, Teradyne cannot be certain that it will be able to
+obtain such additional financing on favorable terms, if at all. Further, if
+Teradyne issues additional equity securities, stockholders may experience
+additional dilution or the new equity securities may have rights, preferences
+or privileges senior to those of existing holders of common stock. Future
+financings may place restrictions on how Teradyne operates its business. If
+Teradyne cannot raise funds on acceptable terms, if and when needed, Teradyne
+may not be able to develop or enhance its products and services, take advantage
+of future opportunities, grow its business or respond to competitive pressures,
+which could seriously harm Teradyne's business.
+
+Provisions of Teradyne's Charter and By-Laws and Massachusetts Law Make a
+Takeover of Teradyne More Difficult.
+
+   Teradyne's basic corporate documents, its stockholder rights plan, and
+Massachusetts law contain provisions that could discourage, delay or prevent a
+change in the control of Teradyne, even if a change of control might be
+regarded as beneficial to some or all of Teradyne's stockholders.
+
+Teradyne's Operating Results Are Likely to Fluctuate Significantly.
+
+   Teradyne's quarterly and annual operating results are affected by a wide
+variety of factors that could materially adversely affect revenues and
+profitability, including:
+
+    .  competitive pressures on selling prices;
+    .  the timing of customer orders and the deferral or cancellation of orders
+       previously received;
+    .  provisions for excess and obsolete inventory;
+    .  changes in product mix;
+    .  Teradyne's ability to introduce new products and technologies on a
+       timely basis;
+    .  the introduction of products and technologies by Teradyne's competitors;
+
+
+
+
+    .  market acceptance of Teradyne's and its competitors' products;
+    .  fulfilling backlog on a timely basis;
+    .  reliance on sole source suppliers;
+    .  potential retrofit costs;
+    .  the level of orders received which can be shipped in a quarter; and
+    .  the timing of investments in engineering and development.
+
+   In particular, due to Teradyne's introduction of a number of new, complex
+test systems in 2001 and the planned introduction of other such systems in
+2002, there can be no assurance that Teradyne will not experience delays in
+shipment of its products or that its products will achieve customer acceptance.
+
+   As a result of the foregoing and other factors, Teradyne has and may
+continue to experience material fluctuations in future operating results on a
+quarterly or annual basis which could materially and adversely affect its
+business, financial condition, operating results and stock price.
+
+Item 7a:  Quantitative and Qualitative Disclosures About Market Risks
+
+Concentration of Credit Risk
+
+   Financial instruments which potentially subject Teradyne to concentrations
+of credit risk consist principally of cash investments, forward currency
+contracts, and accounts receivable. Teradyne maintains cash investments
+primarily in U.S. Treasury and government agency securities and corporate debt
+securities, rated AA or higher, which have minimal credit risk. Teradyne places
+forward currency contracts with high credit-quality financial institutions in
+order to minimize credit risk exposure. Concentrations of credit risk with
+respect to accounts receivable are limited due to the large number of
+geographically dispersed customers. Teradyne performs ongoing credit
+evaluations of its customers' financial condition and does not require
+collateral to secure accounts receivable.
+
+Exchange Rate Risk Management
+
+   Teradyne regularly enters into forward contracts in European and Japanese
+currencies to hedge its overseas net monetary position and has in the past
+entered into forward contracts to hedge non-U.S. currency forecasted
+transactions. Forward currency contracts generally have maturities of less than
+one year. These contracts are used to reduce Teradyne's risk associated with
+exchange rate movements, as gains and losses on these contracts are intended to
+offset exchange losses and gains on underlying exposures. Teradyne does not
+engage in currency speculation.
+
+   At December 31, 2001, the face amount of outstanding forward currency
+contracts to buy U.S. dollars to hedge those currency exposures associated with
+certain assets and liabilities denominated in non-functional currencies was
+$11.0 million. A 10% fluctuation in exchange rates for these currencies would
+change the fair value by approximately $1.3 million. However, since these
+contracts hedge non-U.S. currency assets and liabilities, any change in the
+fair value of the contracts would be offset by opposite changes in the
+underlying value of these assets and liabilities being hedged. The hypothetical
+movement was estimated by calculating the fair value of the forward currency
+contracts at December 31, 2001 and comparing that with those calculated using
+hypothetical forward currency exchange rates.
+
+Interest Rate Risk Management
+
+   At December 31, 2001, the fair value of outstanding short and long-term
+marketable securities was approximately $270.0 million. A hypothetical 10%
+increase in interest rates for securities contained in the investment portfolio
+would change the fair value by approximately $2.3 million. Market risk was
+estimated as the potential decrease in the fair value resulting from a
+hypothetical increase in interest rates for issues contained in the investment
+portfolio.
+
+
+
+
+                             REPORT OF MANAGEMENT
+
+   Management is responsible for the preparation and integrity of the
+consolidated financial statements appearing in this Annual Report on Form 10-K.
+The financial statements were prepared in conformity with accounting principles
+generally accepted in the United States of America appropriate in the
+circumstances and, accordingly, include some amounts based on management's best
+judgments and estimates. Financial information in this Annual Report on Form
+10-K is consistent with that in the financial statements.
+
+   Management is responsible for maintaining a system of internal business
+controls and procedures to provide reasonable assurance, at an appropriate
+cost/benefit relationship, that assets are safeguarded and that transactions
+are authorized, recorded and reported properly. The internal control system is
+augmented by appropriate reviews by management, written policies and
+guidelines, careful selection and training of qualified personnel and a written
+code of business ethics applicable to all employees of Teradyne and its
+subsidiaries. Management believes that Teradyne's internal controls provide
+reasonable assurance that assets are safeguarded against material loss from
+unauthorized use or disposition and that the financial records are reliable for
+preparing financial statements and other data and maintaining accountability
+for assets.
+
+   The Audit Committee of the Board of Directors, composed solely of Directors
+who are not employees or officers of Teradyne, meets periodically with the
+independent accountants, internal auditors and management to discuss internal
+business controls, auditing and financial reporting matters. The Audit
+Committee reviews with the independent accountants the scope and results of the
+audit. The Audit Committee also meets with the independent accountants without
+management present to ensure that the independent accountants have free access
+to the Audit Committee.
+
+   The independent accountants, PricewaterhouseCoopers LLP, are engaged to
+audit the consolidated financial statements of Teradyne and to conduct such
+tests and related procedures as they deem necessary in accordance with auditing
+standards generally accepted in the United States of America. The opinion of
+the independent accountants, based upon their audits of the consolidated
+financial statements, is contained in this Annual Report on Form 10-K.
+
+/S/ GEORGE W. CHAMILLARD
+- ------------------------------------------
+George W. Chamillard
+Chairman, President and Chief Executive Officer
+
+/S/ GREGORY R. BEECHER
+- ------------------------------------------
+Gregory R. Beecher
+Vice President and Chief Financial Officer
+March 29, 2002
+
+
+
+
+Item 8:  Financial Statements and Supplementary Data
+
+                       REPORT OF INDEPENDENT ACCOUNTANTS
+
+   To the Directors and Shareholders of Teradyne, Inc.:
+
+   In our opinion, the consolidated financial statements listed in the index
+appearing under Item 14(a)(1) present fairly, in all material respects, the
+financial position of Teradyne, Inc. and its subsidiaries at December 31, 2001
+and 2000, and the results of their operations and their cash flows for each of
+the three years in the period ended December 31, 2001 in conformity with
+accounting principles generally accepted in the United States of America. In
+addition, in our opinion, the financial statement schedule listed in the index
+appearing under Item 14(a)(2) presents fairly, in all material respects, the
+information set forth therein when read in conjunction with the related
+consolidated financial statements. These financial statements and financial
+statement schedule are the responsibility of the Company's management; our
+responsibility is to express an opinion on these financial statements and
+financial statement schedule based on our audits. We conducted our audits of
+these statements in accordance with auditing standards generally accepted in
+the United States of America, which require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements,
+assessing the accounting principles used and significant estimates made by
+management, and evaluating the overall financial statement presentation. We
+believe that our audits provide a reasonable basis for our opinion.
+
+   As discussed in Note C to the consolidated financial statements, during the
+year ended December 31, 2000 the Company changed its method of recognizing
+revenue.
+
+                                             PricewaterhouseCoopers LLP
+
+Boston, Massachusetts
+January 15, 2002
+
+
+
+
+                                TERADYNE, INC.
+                          CONSOLIDATED BALANCE SHEETS
+                          DECEMBER 31, 2001 AND 2000
+
+
+
+   The accompanying notes are an integral part of the consolidated financial
+                                  statements.
+
+
+
+
+                                TERADYNE, INC.
+
+                     CONSOLIDATED STATEMENTS OF OPERATIONS
+
+
+
+
+
+   The accompanying notes are an integral part of the consolidated financial
+                                  statements.
+
+
+
+
+                                TERADYNE, INC.
+
+                CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+                 YEARS ENDED DECEMBER 31, 2001, 2000 AND 1999
+
+
+
+
+   The accompanying notes are an integral part of the consolidated financial
+                                  statements.
+
+
+
+
+                                TERADYNE, INC.
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+
+
+   The accompanying notes are an integral part of the consolidated financial
+                                  statements.
+
+
+
+
+                                TERADYNE, INC.
+
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+A.   THE COMPANY
+
+   Teradyne, Inc. is the world's largest supplier of automatic test equipment
+and is also a leading provider of high performance interconnection systems and
+electronic manufacturing services.
+
+   Teradyne's automatic test equipment products include systems that:
+
+    .  test semiconductors ("Semiconductor Test Systems");
+    .  test and inspect circuit-boards ("Circuit Board Test and Inspection
+       Systems"); and
+    .  test high speed voice and data communication ("Broadband Test Systems").
+
+   Teradyne's interconnection systems products and services ("Connection
+Systems") include:
+
+    .  high bandwidth backplane assemblies and associated connectors used in
+       electronic systems; and
+    .  electronic manufacturing services of assemblies that include Teradyne
+       backplanes and connectors.
+
+   Broadband Test Systems, Diagnostic Solutions, and, prior to 2001, Software
+Test Systems have been combined into "Other Test Systems" for purposes of
+disclosing Teradyne's reportable segments.
+
+B.   ACCOUNTING POLICIES
+
+Basis of Presentation
+
+   The consolidated financial statements include the accounts of Teradyne and
+its subsidiaries. All significant intercompany balances and transactions are
+eliminated. Certain prior years' amounts were reclassified to conform to the
+current year presentation.
+
+   Certain costs in 2001, 2000, and 1999 have been reclassified from cost of
+sales into engineering and development and selling and administrative. These
+reclassified costs consist of new product development costs incurred in
+manufacturing engineering, test technology and applications engineering costs
+supporting sales. The costs reclassified from cost of sales to engineering and
+development represent work performed to develop and implement manufacturing and
+test processes focused on the introduction of new product platforms. The costs
+reclassified from cost of sales to selling and administrative represent the
+development of applications programming used to demonstrate new product
+capabilities.
+
+   On October 26, 2001 Teradyne completed its acquisition of GenRad, Inc. of
+Westford, MA, a leading manufacturer of electronic automatic test equipment,
+related software and diagnostic solutions. The GenRad business has been made
+part of the Circuit Board Test and Inspection Systems operating segment. GenRad
+activity is reflected in Teradyne's results of operations since the acquisition
+date.
+
+Preparation of Financial Statements and Use of Estimates
+
+   The preparation of consolidated financial statements requires Teradyne to
+make estimates and judgments that affect the reported amounts of assets,
+liabilities, revenues and expenses, and related disclosure of contingent
+liabilities. On an on-going basis, Teradyne evaluates its estimates, including
+those related to inventories, investments, intangible and other long-lived
+assets, bad debts, income taxes, pensions, warranties, contingencies and
+litigation. Teradyne bases its estimates on historical experience and on
+appropriate and customary assumptions that are believed to be reasonable under
+the circumstances, the results of which form the basis for making judgments
+about the carrying values of assets and liabilities that are not readily
+apparent from other sources. Actual results may differ from these estimates
+under different assumptions or conditions.
+
+
+
+
+                                TERADYNE, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+B.  ACCOUNTING POLICIES--(Continued)
+
+Revenue Recognition
+
+   In accordance with the guidance provided by the Securities and Exchange
+Commission's Staff Accounting Bulletin No. 101, "Revenue Recognition in
+Financial Statements", Teradyne recognizes revenue when there is persuasive
+evidence of an arrangement, title and risk of loss have passed, delivery has
+occurred or the services have been rendered, the sales price is fixed or
+determinable and collection of the related receivable is reasonably assured.
+
+   For equipment where there is hardware and software that is incidental to the
+product, revenue is recognized upon shipment provided that customer acceptance
+criteria can be demonstrated prior to shipment. Where the criteria cannot be
+demonstrated prior to shipment, or in the case of new products, revenue is
+deferred until acceptance has been received. For multiple element arrangements,
+Teradyne defers the greater of the fair value of any undelivered elements of
+the contract or the portion of the sales price which is not payable until the
+undelivered elements are delivered. Teradyne also defers the portion of the
+sales price that is not due until acceptance, which represents deferred profit.
+Fair value is the price charged when the element is sold separately. In order
+to recognize revenue the functionality of the undelivered element must not be
+essential to the delivered element. Installation is not considered essential to
+the functionality of the product as these services do not alter the product
+capabilities, do not require specialized skills or tools and can be performed
+by the customers or other vendors. In addition to installation, other elements
+may include service arrangements and undelivered products. Teradyne's products
+are generally subject to warranty and related costs are provided for in cost of
+sales when product revenue is recognized.
+
+   Interconnection systems and electronic manufacturing assembly services
+revenue is recognized upon shipment or delivery according to the shipping terms
+of the arrangement as there is no installation required and there are no
+contractual acceptance requirements.
+
+   For transactions involving the sale of software which is not incidental to
+the product, revenue is recognized in accordance with American Institute of
+Certified Public Accountants ("AICPA") Statement of Position No. 97-2 (SOP No.
+97-2), "Software Revenue Recognition", as amended by SOP No. 98-9 "Modification
+of SOP 97-2, Software Revenue Recognition, With Respect to Certain
+Transactions." Teradyne recognizes revenue when there is persuasive evidence of
+an arrangement, delivery has occurred, the sales price is fixed or determinable
+and collectibility is probable. Revenue is deferred in instances when vendor
+specific objective evidence of fair value of undelivered elements is not
+determinable. Vendor specific evidence of fair value is the price charged when
+the element is sold separately. Revenue for the separate elements is only
+recognized where the functionality of the undelivered element is not essential
+to the delivered element.
+
+   For certain contracts eligible for contract accounting under SOP No. 81-1
+"Accounting for Performance of Construction-type and Certain Production-Type
+Contracts", revenue is recognized using the percentage-of-completion accounting
+method based upon an efforts-expended method. The software in these
+arrangements requires significant production, modification or customization. In
+all cases, changes to total estimated costs and anticipated losses, if any, are
+recognized in the period in which determined.
+
+Inventories
+
+   Inventories which include materials, labor and manufacturing overhead are
+stated at the lower of cost (first-in, first-out basis) or net realizable
+value. On a quarterly basis, Teradyne uses consistent methodologies to evaluate
+all inventory for net realizable value. Teradyne records a provision for excess
+and obsolete inventory when such an impairment is identified through the
+quarterly review process. Excess and obsolete inventory, consisting of on-hand
+and non-cancelable on-order inventory, in excess of estimated usage over the
+next 12 months is written down to its estimated net realizable value, if less
+than cost. The excess and obsolescence evaluation is based upon assumptions
+about future demand, product mix and possible alternative uses.
+
+
+
+
+                                TERADYNE, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+B.  ACCOUNTING POLICIES--(Continued)
+
+Property, Plant, and Equipment
+
+   Property, plant, and equipment are stated at cost and depreciated over the
+estimated useful lives of the assets. Leasehold improvements and major renewals
+are capitalized and included in property, plant, and equipment accounts while
+expenditures for maintenance and repairs and minor renewals are charged to
+expense. When assets are retired, the assets and related allowances for
+depreciation and amortization are removed from the accounts and any resulting
+gain or loss is reflected in operations.
+
+   Teradyne provides for depreciation of its assets principally on the
+straight-line method with the cost of the assets being charged to expense over
+their useful lives as follows:
+
+
+
+Goodwill and Intangible and Other Assets
+
+   Goodwill and intangible assets are amortized over their estimated useful
+economic life using the straight line method and are carried at cost less
+accumulated amortization. Goodwill resulting from the GenRad acquisition which
+was completed after June 30, 2001 is not being amortized in accordance with the
+requirements of SFAS No. 142, "Goodwill and Other Intangible Assets". Beginning
+January 1, 2002 all other goodwill amortization will cease in accordance with
+SFAS No. 142.
+
+   In accordance with Statement of Financial Accounting Standards No. 121
+("SFAS 121") "Accounting for the Impairment of Long-Lived Assets and for
+Long-Lived Assets to Be Disposed Of", Teradyne reviews long-lived assets for
+impairment whenever events or changes in business circumstances indicate that
+the carrying amount of the assets may not be fully recoverable or that the
+useful lives of these assets are no longer appropriate. Each impairment test is
+based on a comparison of the estimated undiscounted cash flows to the recorded
+value of the asset. If an impairment is indicated, the asset is written down to
+its estimated fair value based on a discounted cash flow analysis. The cash
+flow estimates used to determine the impairment, if any, contain management's
+best estimates using appropriate assumptions and projections at that time.
+
+Engineering and Development Costs
+
+   Teradyne's products are highly technical in nature and require a large and
+continuing engineering and development effort. Software development costs
+incurred prior to the establishment of technological feasibility are charged to
+expense. Software development costs incurred subsequent to the establishment of
+technological feasibility are capitalized until the product is available for
+release to customers. To date, the period between achieving technological
+feasibility and general availability of the product has been short and software
+development costs eligible for capitalization have not been material.
+Engineering and development costs are expensed as incurred.
+
+
+
+
+                                TERADYNE, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+B.  ACCOUNTING POLICIES--(Continued)
+
+Advertising Costs
+
+   Teradyne expenses all advertising costs as incurred. Advertising costs were
+$10.3 million, $16.8 million, and $9.0 million in 2001, 2000, and 1999,
+respectively.
+
+Investments in Other Companies
+
+   Teradyne holds minority interests in public and private companies having
+operations or technology in areas within its strategic focus. These investments
+are included in other long-term assets and include investments accounted for at
+cost and under the equity method of accounting. Under the equity method of
+accounting, which generally applies to investments that represent a 20 to 50
+percent ownership of the equity securities of the investees, Teradyne's
+proportionate share of the earnings or losses of the investees is included in
+other income and expense. Teradyne records an impairment charge when it
+believes an investment has experienced a decline in value that is
+other-than-temporary. At December 31, 2001, these investments were $14.4
+million.
+
+Income Taxes
+
+   Deferred tax assets and liabilites are determined based on differences
+between financial reporting and tax bases of assets and liabilities and are
+measured using the enacted tax rates and laws that will be in effect when the
+differences are expected to reverse. The measurement of deferred tax assets is
+reduced by a valuation allowance if, based upon weighted available evidence, it
+is more likely than not that some or all of the deferred tax assets will not be
+realized.
+
+   U.S. Federal taxes are provided for on the retained earnings of non-U.S.
+sales and service subsidiaries whose earnings are expected to be remitted to
+the United States. U.S. Federal taxes are not provided for on the earnings of a
+non-U.S. manufacturing subsidiary which are expected to be reinvested
+indefinitely in operations outside the U.S.
+
+Translation of Non U.S. Currencies
+
+   Assets and liabilities of non U.S. subsidiaries, which are denominated in
+currencies other than the U.S. dollar, are remeasured into U.S. dollars at
+rates of exchange in effect at the end of the fiscal year except nonmonetary
+assets and liabilities which are remeasured using historical exchange rates.
+Revenue and expense amounts are remeasured using an average of exchange rates
+in effect during the year, except those amounts related to nonmonetary assets
+and liabilities, which are remeasured at historical exchange rates. Net
+realized gains and losses resulting from currency remeasurement are included in
+operations.
+
+Net Income (Loss) per Common Share
+
+   Basic net income (loss) per common share is calculated by dividing net
+income (loss) by the weighted average number of common shares outstanding
+during the period. Diluted net income (loss) per common share is calculated by
+dividing net income (loss) by the sum of the weighted average number of common
+shares plus
+
+
+
+
+                                TERADYNE, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+B.  ACCOUNTING POLICES--(Continued)
+
+additional common shares that would have been outstanding if potential dilutive
+common shares had been issued for granted stock option and stock purchase
+rights.
+
+Other Comprehensive Income (Loss)
+
+   Teradyne reports comprehensive income (loss) in accordance with Statement of
+Financial Accounting Standards No. 130, "Reporting Comprehensive Income" (SFAS
+130). Comprehensive income (loss) includes net income (loss), minimum pension
+liability adjustments, and unrealized gains and losses on certain investments
+in debt and equity securities.
+
+C.  CHANGE IN ACCOUNTING PRINCIPLE
+
+   In December 1999, the Securities and Exchange Commission issued Staff
+Accounting Bulletin No. 101, "Revenue Recognition in Financial Statements" (SAB
+101). SAB 101 summarizes certain areas of the Staff's views in applying
+generally accepted accounting principles to revenue recognition in financial
+statements. During the fourth quarter of 2000, Teradyne implemented the SEC's
+SAB 101 guidelines, retroactive to the beginning of the year. This was reported
+as a cumulative effect of a change in accounting principle as of January 1,
+2000. The cumulative effect of the change in accounting principle on prior
+years resulted in a charge to income of $64.1 million (net of income taxes of
+$27.5 million) or $0.35 per diluted share which has been included in income for
+the fiscal year ending December 31, 2000. For the fiscal year ending December
+31, 2000, Teradyne recognized $126.1 million in revenue that is included in the
+cumulative effect adjustment as of January 1, 2000. The results for the first
+three quarters of fiscal year ending December 31, 2000 have been restated in
+accordance with SAB 101. Included in 2001 sales was $98.7 million which
+resulted in $48.8 million of income (net of tax of $20.9 million) related to
+shipments in 2000 where title was retained until payment. Title is no longer
+retained until payment as a normal business practice. Prior years do not
+reflect the change in accounting principle as the effect could not be
+reasonably determined.
+
+D.  RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS
+
+   In July 2001, the Financial Accounting Standards Board ("FASB") issued
+Statement of Financial Accounting Standards No. 141 ("SFAS 141"), "Business
+Combinations." SFAS 141 requires the purchase method of accounting for business
+combinations initiated after June 30, 2001 and eliminates the
+pooling-of-interest method.
+
+   In July 2001, FASB issued SFAS 142, "Goodwill and Other Intangible Assets",
+which is effective for Teradyne on January 1, 2002. SFAS 142 requires, among
+other things, the discontinuance of goodwill amortization and includes
+provisions for the reclassification of certain existing recognized intangibles
+as goodwill, reassessment of the useful lives of existing recognized
+intangibles, and reclassification of certain intangibles out of previously
+reported goodwill. In 2001, Teradyne recorded goodwill amortization of
+approximately $3.9 million. At December 31, 2001 Teradyne had goodwill of
+$190.3 million which will not be amortized. In 2002, Teradyne will record
+amortization of approximately $7.4 million relating to other intangibles
+primarily in connection with the GenRad acquisition. SFAS 142 also requires
+Teradyne to complete a transitional goodwill impairment test six months from
+the date of adoption. Teradyne has completed a preliminary evaluation of the
+impact of SFAS 142 and currently does not expect to record a goodwill
+impairment.
+
+   In August 2001, FASB issued SFAS 143, "Accounting for Obligations Associated
+with the Retirement of Long-Lived Assets." SFAS 143 provides the accounting
+requirements for retirement obligations associated with tangible long-lived
+assets. SFAS 143 is effective for financial statements for fiscal years
+beginning after June 15, 2002. Teradyne has determined that SFAS 143 will not
+have an impact on its financial position and results of operations.
+
+
+
+
+                                TERADYNE, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+D.  RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS--(Continued)
+
+   In October 2001, FASB issued SFAS 144, "Accounting for the Impairment or
+Disposal of Long-Lived Assets." SFAS 144 requires one method of accounting for
+long lived assets disposed of by sale. SFAS 144 is effective for financial
+statements issued for fiscal years beginning after December 15, 2001. Teradyne
+has adopted SFAS 144 effective January 1, 2002. SFAS 144 did not have an impact
+on Teradyne's financial position or results of operations.
+
+E.  RISKS AND UNCERTAINTIES
+
+   Teradyne's future results of operations involve a number of risks and
+uncertainties. These factors include, but are not limited to, the slowdown in
+economies worldwide, the effects of the hostilities begun in September 2001,
+the current and anticipated market for electronics, risks associated with any
+measures Teradyne takes to address the current slowdown in the market,
+enforcement of Teradyne's intellectual property rights, failure to develop new
+technologies, risks associated with acquisitions and divestitures, securities
+class action litigation due to past or future stock activity, competition,
+risks of operating internationally, risks associated with obligations and
+potential liabilities under environmental regulations, Teradyne's debt service
+obligations with respect to its recent sale of convertible senior notes and a
+mortgage financing with respect to certain of its owned real estate assets, the
+difficulty in obtaining future financing if needed, provisions of Teradyne's
+charter and by-laws and Massachusetts law that make a takeover of Teradyne more
+difficult, competitive pricing pressures, changes in product mix, timing of
+customer orders or any deferral or cancellation of orders previously received,
+market acceptance of Teradyne's products, new product introductions from
+Teradyne's competitors, reliance on sole source suppliers, potential retrofit
+costs, and the timing of investments in engineering and development. At
+present, Teradyne cannot say how long the current business downturn will last
+or when the situation will improve. In the absence of significant improvement,
+orders could remain low or decline further, and the amount of Teradyne's
+inventory, deferred tax assets, and certain long-lived assets considered
+realizable could be significantly reduced.
+
+F.  ACQUISITIONS AND DIVESTITURES
+
+   On October 26, 2001 Teradyne completed its acquisition of GenRad, Inc. of
+Westford, MA, a leading manufacturer of electronic automatic test equipment,
+related software, and diagnostic solutions. GenRad's business has been made
+part of the Circuit Board Test and Inspection Systems operating segment. Under
+the terms of the acquisition, each outstanding share of GenRad common stock was
+converted into 0.1733 shares of Teradyne common stock. Under the terms of the
+acquisition, Teradyne assumed approximately $89.7 million of debt which
+Teradyne repaid on October 26, 2001. The results of GenRad have been included
+since the acquisition date.
+
+   The primary reasons for Teradyne's acquisition of GenRad, and the factors
+that contributed to a purchase price that resulted in recognition of goodwill,
+are:
+
+    .  the combination of Teradyne's circuit board test systems with GenRad
+       will strengthen Teradyne's product offerings;
+    .  Teradyne's global presence in Europe and Asia among large electronics
+       manufacturing services companies and original equipment manufacturers in
+       the circuit board test and inspection markets will be strengthened as a
+       result of the acquisition; and
+    .  to enable Teradyne to compete more effectively in the circuit board test
+       and inspection markets.
+
+   Based on the exchange ratio of 0.1733 shares of Teradyne common stock for
+each GenRad share, Teradyne issued approximately 5.0 million common shares and
+1.2 million vested employee stock options in the exchange, which increased
+common stockholders' equity by approximately $185.5 million. The common stock
+was valued at $34.90 per share, which was Teradyne's average common stock price
+over a five-day trading period, which
+
+
+
+
+                                TERADYNE, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+F.  ACQUISITIONS AND DIVESTITURES--(Continued)
+
+included the public announcement date of August 2, 2001 and two days before and
+after the public announcement date. The employee stock options were valued
+using the Black-Scholes option pricing model, based on following assumptions
+prevalent at the August 2001 announcement date:
+
+
+
+   This transaction was accounted for using the purchase method of accounting
+as required by SFAS 141, "Business Combinations," which was issued in the
+second quarter of 2001.
+
+   The purchase price allocation is preliminary and subject to future
+adjustment based on the completion of facility exit and restructuring plans.
+Based on the purchase price allocation, the following table summarizes the fair
+values of the assets acquired and liabilities assumed on October 26, 2001:
+
+
+
+   The $44.7 million of intangible assets consists of $35.6 million of
+completed technology, $5.3 million of service and software maintenance
+contracts and customer relationships, and $3.8 million of tradenames and
+trademarks. The intangible assets are subject to amortization with a weighted
+average amortization period of 7 years.
+
+
+
+
+                                TERADYNE, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+F.  ACQUISITIONS AND DIVESTITURES--(Continued)
+
+   Goodwill related to the GenRad acquisition is reported as part of the
+Circuit Board Test and Inspection Systems segment.
+
+   The following unaudited pro forma data presents information as if GenRad had
+been acquired at the beginning of each period presented. The pro forma amounts
+include an adjustment for amortization of intangibles of $5.1 million in 2001
+and $6.2 million in 2000. The pro forma amounts do not reflect any benefits
+from economies which might be achieved from combining the operations. The pro
+forma information does not necessarily reflect the actual results that would
+have occurred had the companies been combined during the periods presented, nor
+is it necessarily indicative of the future results of operations of the
+combined companies:
+
+
+
+   On June 22, 2001, Teradyne sold its aerospace and defense connector and
+backplane business to Amphenol Corporation of Wallingford, Connecticut for cash
+proceeds of $26.3 million. This transaction resulted in a pre-tax gain of $14.8
+million which has been recorded in other income and expense.
+
+   On August 15, 2000, Teradyne acquired two California-based companies, both
+in the printed circuit board (PCB) industry: Herco Technology Corp. of San
+Diego, California, a fabricator of printed circuit boards, and Perception
+Laminates, Inc. of La Verne, California, which supplies PCB laminates and is a
+major supplier to Herco. The acquisitions are part of the Connection Systems
+operating segment. The cost of the acquired companies was $104.5 million with
+approximately 1.8 million shares of common stock issued. The acquisitions were
+accounted for using the purchase method of accounting and accordingly, the
+results have been included in our consolidated results of operations from the
+date of acquisition. Goodwill resulting from the acquisitions will no longer be
+amortized beginning in 2002.
+
+   The components of the purchase price allocation are as follows:
+
+
+
+   On December 29, 2000, Teradyne sold a controlling interest in its software
+test business to an investor group led by Matrix Partners of Waltham,
+Massachusetts for approximately $28.7 million. The gain from the sale was
+immaterial. Teradyne has retained an ownership position of approximately 21% in
+the new company called Empirix. Teradyne has accounted for its investment in
+Empirix under the equity method of accounting. At December 31, 2001, the
+carrying value of Teradyne's investment in Empirix was zero.
+
+
+
+
+                                TERADYNE, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+G.  FINANCIAL INSTRUMENTS
+
+Cash Equivalents
+
+   Teradyne considers all highly liquid investments with original maturities of
+three months or less at the date of acquisition to be cash equivalents.
+
+Marketable Securities
+
+   Teradyne classifies investments in marketable securities as trading,
+available-for-sale or held-to-maturity at the time of purchase and periodically
+re-evaluates such classification. There were no securities classified as
+trading at December 31, 2001 or 2000. Securities are classified as
+held-to-maturity when Teradyne has the positive intent and ability to hold the
+securities to maturity. Held-to-maturity securities are stated at cost with
+corresponding premiums or discounts amortized over the life of the investment
+to interest income. Securities classified as available-for-sale are reported at
+fair value. Realized gains and losses and declines in value judged to be
+other-than-temporary on available-for-sale securities are included in interest
+income. Unrealized gains and losses are included in accumulated other
+comprehensive income. The cost of securities sold is based on the specific
+identification method.
+
+   The short-term marketable securities mature in less than one year. Long-term
+marketable securities have maturities of one to five years. At December 31,
+2001 and 2000 these investments are reported as follows (in thousands):
+
+
+
+Other
+
+   As of December 31, 2001, the estimated fair value of Teradyne's convertible
+notes was approximately $547 million compared to the carrying value of $400
+million. The estimated fair value of the convertible notes is based on the
+quoted market price of the convertible notes on December 31, 2001. The quoted
+market price for the convertible notes primarily reflects the conversion value
+of the notes into Teradyne's common stock.
+
+   Fair values for Teradyne's non-convertible debt were determined based on
+interest rates that are currently available to Teradyne for the issuance of
+debt with similar terms and remaining maturities for debt issues and
+approximate carrying values.
+
+
+
+
+                                TERADYNE, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+G.  FINANCIAL INSTRUMENTS--(Continued)
+
+   For all other balance sheet financial instruments, the carrying amount
+approximates fair value.
+
+Derivatives
+
+   Teradyne adopted SFAS 133, "Accounting for Derivative Instruments and
+Hedging Activities," as amended by SFAS 137 and SFAS 138 in the first quarter
+of 2001. SFAS 133 requires Teradyne to recognize all derivatives on the balance
+sheet at fair value. Adoption of SFAS 133 did not have a material impact on
+Teradyne's financial position or results of operations.
+
+   Teradyne conducts business in a number of foreign countries, with certain
+transactions denominated in local currencies. The purpose of Teradyne's foreign
+currency management is to minimize the effect of exchange rate fluctuations on
+certain foreign denominated net monetary assets and anticipated cash flows. The
+terms of currency instruments used for hedging purposes are consistent with the
+timing of the transactions being hedged. Teradyne does not use derivative
+financial instruments for trading or speculative purposes.
+
+   Teradyne enters into foreign currency forward contracts to hedge currency
+exposures associated with monetary assets and liabilities denominated in
+non-functional currencies. These contracts are used to reduce Teradyne's risk
+associated with exchange rate movements, as gains and losses on these contracts
+are intended to offset exchange losses and gains on underlying exposures.
+Changes in the fair value of these derivatives are recorded immediately in
+earnings which are used to offset the changes in the underlying net monetary
+position being hedged.
+
+   Teradyne periodically hedges certain forecasted foreign currency denominated
+sales, over a maximum period of twelve months. The derivatives are designated
+as cash-flow hedges, and changes in their fair value are carried in accumulated
+other comprehensive income until the underlying transaction occurs. Once the
+underlying forecasted transaction occurs, the appropriate gain or loss from the
+derivative designated as a hedge of the transaction is reclassified from
+accumulated other comprehensive income to net sales. During 2001 the amount of
+net realized gains from cash-flow hedges was immaterial. As of December 31,
+2001, there were no outstanding cash-flow hedges and therefore there is no
+amount to be reclassified from accumulated other comprehensive income.
+
+   At December 31, 2001, Teradyne had the following forward currency contracts
+to buy U.S. dollars for non U.S. currencies with the following notional amounts
+totaling $11.0 million; $2.4 million Japanese Yen, $3.6 million Euro, $4.4
+million British pound sterling, and $0.6 million Swedish Krona. At December 31,
+2000, the face amount of outstanding forward currency contracts to buy U.S.
+dollars for non U.S. currencies was $73.0 million. The fair value of the
+outstanding contracts at December 31, 2001 was $0.2 million. Realized gains
+related to forward contracts hedging net monetary position were $4.1 million,
+$7.0 million, and $0.1 million for 2001, 2000, and 1999, respectively. Both the
+contract gains and losses and the gains and losses on the items being hedged
+are included in selling and administrative expenses.
+
+   Teradyne holds warrants to purchase 0.3 million shares of common stock of
+LogicVision, a public technology company, at an exercise price of $4.86 per
+share. In accordance with SFAS 133, Teradyne recorded a gain of $2.0 million in
+other income for the fair value of the warrants for the year ended December 31,
+2001. The fair value of the warrant is included in other assets.
+
+Concentration of Credit Risk
+
+   Financial instruments which potentially subject Teradyne to concentrations
+of credit risk consist principally of marketable securities, forward currency
+contracts, and accounts receivable. Teradyne maintains cash investments
+primarily in U.S. Treasury and government agency securities and corporate debt
+securities, rated
+
+
+
+
+                                TERADYNE, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+G.  FINANCIAL INSTRUMENTS--(Continued)
+
+AA or higher, which have minimal credit risk. Teradyne places forward currency
+contracts with high credit-quality financial institutions in order to minimize
+credit risk exposure. Concentrations of credit risk with respect to accounts
+receivable are limited due to the large number of geographically dispersed
+customers. Teradyne performs ongoing credit evaluations of its customers'
+financial condition but does not require collateral to secure accounts
+receivable.
+
+
+H.  DEBT
+   Long-term debt at December 31, 2001 and 2000 consisted of the following (in
+thousands):
+
+
+
+   The total maturities of long-term debt for the succeeding five years and
+thereafter are: 2002 -- $1.3 million; 2003 -- $1.3 million; 2004 -- $1.4
+million; 2005 -- $1.5 million; 2006 -- $401.5 million; and $45.9 million
+thereafter.
+
+Convertible Senior Notes
+
+   In 2001, Teradyne sold $400 million principal amount of 3.75% Convertible
+Senior Notes due 2006 (the "Notes") in a private placement and received net
+proceeds of $389 million. The Notes are convertible at the option of the
+holders at a rate which is equivalent to a conversion price of approximately
+$26.00 per share, which is equal to a conversion rate of approximately 38.4615
+shares of common stock per $1,000 principal amount of Notes. On or after
+October 18, 2004, Teradyne may redeem the Notes in whole or in part at the
+prices set forth below. The redemption price, expressed as a percentage of
+principal amount, is as follows for the following periods:
+
+
+
+and thereafter equal to 100% of the principal amount.
+
+   Teradyne will begin making annual interest payments of up to $15 million,
+paid semi-annually, on the Notes commencing on April 15, 2002. The Notes are
+senior unsecured obligations of Teradyne that rank equally with Teradyne's
+existing and future unsecured and unsubordinated indebtedness. In the event of
+a change in control by which Teradyne merges with or sells substantially all of
+its assets to a third party, the holders of the Notes may be able to require
+Teradyne to redeem some or all of the Notes either in discounted Teradyne
+common stock or in cash.
+
+Mortgage Notes Payable
+
+   On December 19, 2001, Teradyne obtained a loan of approximately $45 million
+in the form of a 7.5% mortgage loan maturing on January 1, 2007. This loan is
+collateralized by certain Teradyne California real estate properties. Principal
+payments are made according to a twenty-year amortization schedule through
+December 2006, with the remaining principal due on January 1, 2007. Teradyne
+began making monthly principal and interest payments of $0.4 million on
+February 1, 2002.
+
+
+
+
+                                TERADYNE, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+H.  DEBT--(Continued)
+
+   In 1983, Teradyne obtained a loan of $4.5 million from the Boston
+Redevelopment Authority in the form of a 3% mortgage loan maturing March 31,
+2013. This loan is collateralized by Teradyne's property at 321 Harrison
+Avenue, which may, at Teradyne's option, become subordinated to another
+mortgage up to a maximum of $5.0 million. Interest for the first 4 1/2 years of
+the loan was capitalized up to a principal amount of $5.0 million. Since
+September 30, 1987, Teradyne has been making semi-annual interest payments.
+
+Short-term Borrowings
+
+   The weighted average interest rates on short-term borrowings outstanding as
+of December 31, 2001 and 2000 was 1.2% for both years.
+
+I.  GOODWILL AND INTANGIBLE AND OTHER ASSETS
+
+   At December 31, 2001 and 2000, the goodwill and intangible and other assets
+were:
+
+
+
+J.  COMMITMENTS AND CONTINGENCIES
+
+   Rental expense for the years ended December 31, 2001, 2000, and 1999 was
+$26.0 million, $21.3 million, and $18.8 million, respectively.
+
+   The following table reflects Teradyne's current non-cancelable operating
+lease commitments:
+
+
+
+
+
+
+                                TERADYNE, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+J.  COMMITMENTS AND CONTINGENCIES--(Continued)
+
+   In connection with the August 2000 acquisition of each of Herco Technology
+Corp., a California company, and Perception Laminates, Inc., a California
+company, a complaint was filed by the former owners of those companies on or
+about September 5, 2001 naming as defendants Teradyne and two of its executive
+officers. The case was originally filed in the Superior Court in San Diego
+County, California, and was subsequently removed by the defendants to federal
+court. An amended complaint was filed in the federal court on October 12, 2001.
+On or about November 14, 2001, Teradyne and the two individual defendants filed
+a motion to dismiss the amended complaint in its entirety. The federal court
+granted in part and denied in part that motion to dismiss. The claims that were
+dismissed were dismissed with prejudice. At the federal court's request, the
+plaintiffs filed a second amended complaint on March 4, 2002 setting forth
+their remaining claims. The second amended complaint alleges, among other
+things, that the sale of Teradyne's common stock to the former owners violated
+certain California securities statutes and common law, and that Teradyne
+breached certain contractual obligations in the agreements relating to the
+acquisitions. The amended complaint seeks unspecified damages, including
+compensatory, consequential and punitive damages, and recovery of reasonable
+attorneys' fees and costs. On March 25, 2002, Teradyne and the two individual
+defendants filed their answer to the second amended complaint.
+
+   Teradyne and two of its executive officers are named as defendants in three
+purported class action complaints that were filed in the United States District
+Court for the District of Massachusetts, Boston, Massachusetts, on or about
+October 16, 2001, October 19, 2001 and November 7, 2001. The complaints allege,
+among other things, that the defendants violated Sections 10(b) and 20(a) of
+the Securities Exchange Act of 1934, by making, during the period from July 14,
+2000 and October 17, 2000, material misrepresentations and omissions to the
+investing public regarding Teradyne's business operations and future prospects.
+The complaints seek unspecified damages, including compensatory damages and
+recovery of reasonable attorneys' fees and costs.
+
+   Teradyne disputes all of the claims above and believes they are without
+merit, and intends to defend vigorously against the lawsuits. However, an
+adverse resolution of any of the lawsuits could have a material adverse effect
+on Teradyne's financial position or results of operations. Teradyne is not
+presently able to reasonably estimate potential losses, if any, related to any
+of the lawsuits and therefore has not accrued for any potential losses from the
+lawsuits.
+
+   In addition, Teradyne is subject to legal proceedings and claims that arise
+in the ordinary course of business. Management does not believe these actions
+will have a material adverse effect on Teradyne's financial position or results
+of operations.
+
+   In 2001, Teradyne was designated as a "potentially responsible party"
+("PRP") at two clean-up sites, one in California and one in Rhode Island.
+Teradyne does not believe that it has any liability for the cleanup of the
+California site and has requested the state of California to remove Teradyne's
+name from the list of PRPs, however, Teradyne has not as yet received a reply.
+In the opinion of management, the costs associated with complying with the
+clean-up of this site, if required, are not expected to have a material effect
+upon the financial position or results of operations of Teradyne. With respect
+to the second site, in Rhode Island, additional information is currently being
+collected to better understand Teradyne's financial obligations, if any, for
+its portion of the clean-up of this site.
+
+K.  NET INCOME (LOSS) PER COMMON SHARE
+
+   The following table sets forth the computation of basic and diluted net
+income (loss) per common share (in thousands, except per share amounts):
+
+
+
+
+                                TERADYNE, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+K.  NET INCOME (LOSS) PER COMMON SHARE--(Continued)
+
+
+
+   All options and equivalent shares related to the convertible notes
+outstanding in 2001 were excluded from the calculation of diluted net loss per
+share because the effect would have been antidilutive. As of December 31, 2001,
+there were 16.4 million options outstanding. As of December 31, 2001, there
+were 15.4 million equivalent shares related to the convertible notes shares
+outstanding. For purposes of computing diluted earnings per share, weighted
+average common share equivalents do not include stock options with an exercise
+price that exceed the average fair market value of Teradyne's common stock.
+Accordingly, options to purchase 1.5 million shares of common stock in 2000 and
+0.1 million shares of common stock in 1999 were not included in the calculation
+of diluted net income per share.
+
+L.  INVENTORY PROVISIONS AND SPECIAL CHARGES
+
+   The charges described below have been recorded as follows in the Statement
+of Operations during 2001:
+
+
+
+
+
+
+
+                                TERADYNE, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+L.  INVENTORY PROVISIONS AND SPECIAL CHARGES--(Continued)
+
+   During 2001, Teradyne recorded charges of $37.3 million in connection with
+workforce reductions and an early retirement program. The provision for
+severance and early retirement benefits was recorded in restructuring charges
+and related asset impairments. There were approximately 2,900 employees
+terminated in 2001 across all functional groups. Teradyne has paid $23.8
+million in severance benefits during 2001. All remaining severance benefits for
+the terminations in 2001 will be paid by the fourth quarter of 2002.
+
+   During 2001, Teradyne recorded a provision of $139.7 million for excess and
+obsolete inventory and for discontinued product lines. The total inventory
+provision for excess and obsolete inventory, excluding the discontinued product
+lines, was $105.2 million in 2001 and was principally due to the sharp decline
+in incoming Semiconductor Test Systems and Connection Systems orders. During
+the third quarter of 2001, Teradyne recorded a charge of $40.2 million related
+to the discontinuance of its Flash 750 memory product. The Flash 750 memory
+product charge included an inventory writedown of $32.3 million and the
+impairment of long-lived assets directly related to the support of the Flash
+memory product line of $7.9 million. During the fourth quarter of 2001,
+Teradyne recorded a charge of $2.3 million for obsolete inventory due to
+overlapping product lines as a result of the consummation of the GenRad
+acquisition.
+
+   During the third and fourth quarters of 2001, management concluded that
+certain Connection Systems long-lived assets held for disposal were impaired as
+the estimated fair value was less than the carrying value of these assets. The
+impaired assets charge included a $12.0 million writedown related to a
+partially completed manufacturing facility held for sale and a writedown of
+$12.4 million for certain manufacturing assets that were taken out of
+operations and are held for disposal. Fair value of the impaired facility was
+determined by a market appraisal.
+
+   During the fourth quarter of 2001, Teradyne recorded charges for vacated
+office space under operating leases at Connection Systems and Circuit Board
+Test and Inspection Systems of $3.1 million and $1.7 million, respectively.
+
+   The table below summarizes activity relating to restructuring and other
+charges:
+
+
+
+   The accrual for severance and benefits is reflected in accrued employees'
+compensation and withholdings and the accrual for lease payments on vacated
+facilities is reflected in other accrued liabilities.
+
+M.  RETIREMENT PLANS
+
+   Teradyne has defined benefit pension plans covering a majority of domestic
+employees and employees of certain non U.S. subsidiaries. Benefits under these
+plans are based on employees' years of service and compensation. Teradyne's
+funding policy is to make contributions to the plans in accordance with local
+laws and to the extent that such contributions are tax deductible. The assets
+of these plans consist primarily of equity and fixed income securities. In
+addition, Teradyne has an unfunded supplemental executive defined benefit plan
+in the United States to provide retirement benefits in excess of levels allowed
+by the Employment Retirement Income Security Act (ERISA) and the Internal
+Revenue Code (the "IRC").
+
+
+
+
+                                TERADYNE, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+M.  RETIREMENT PLANS--(Continued)
+
+   During the fourth quarter of 1999, Teradyne offered all eligible domestic
+employees participating in the U.S. plan a choice: to continue to have benefits
+accumulate in the U.S. plan and continue to be eligible for the then current
+Savings Plan match described in "Note P: Savings Plans" or to stop accumulating
+benefits in the U.S plan and be eligible for an increased match in the Savings
+Plan. The accrued benefit of those employees who selected the enhanced Savings
+Plan match was frozen on January 1, 2000 resulting in an insignificant
+curtailment gain.
+
+   The expense of these defined benefit pension plans and the December 31
+balances of plan assets and obligations are shown below (in thousands):
+
+
+
+
+
+
+
+                                TERADYNE, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+M.  RETIREMENT PLANS--(Continued)
+
+   The impact of the GenRad acquisition and an early retirement program
+increased the projected benefit obligation by $15.9 million. GenRad had its own
+retirement plan for its employees which was merged into Teradyne's plan during
+2001. In the third quarter of 2001, Teradyne provided certain employees the
+option to retire early.
+
+   The following table provides amounts recognized in the statement of
+financial position as of December 31, (in thousands):
+
+
+
+   The projected benefit obligation, accumulated benefit obligation, and fair
+value of plan assets for pension plans with accumulated benefit obligations in
+excess of plan assets for 2001 and 2000 were as follows:
+
+
+
+   An additional minimum pension liability adjustment of $22 million was
+required during 2001 as the accumulated benefit obligation of $155 million
+exceeded the $115 million of pension plan assets at year end. The $40 million
+difference was reduced by an accrued benefit liability of $18 million resulting
+in an additional minimum pension liability of $22 million.
+
+N.  COMMON STOCK REPURCHASE PROGRAM
+
+   Teradyne's Board of Directors has authorized the repurchase of 30.0 million
+shares of Teradyne's stock on the open market. During 1999, Teradyne
+repurchased 5.6 million shares at a cost of $207.8 million. During 2000,
+Teradyne repurchased 3.8 million shares at a cost of $147.5 million, increasing
+the cumulative shares purchased under this program through 2000 to 20.0 million
+shares at an aggregate cost of $540.8 million. During 2001, Teradyne did not
+repurchase any stock. Teradyne records treasury stock at its acquisition cost.
+
+O.  STOCK BASED COMPENSATION
+
+   Teradyne has both employee and non-employee stock option plans and an
+employee stock purchase plan. Teradyne previously adopted the disclosure
+requirements of SFAS No. 123, "Accounting for Stock-Based Compensation"
+(SFAS 123), and as permitted by this standard, will continue to apply
+Accounting Principles Board (APB) Opinion 25 and related interpretations in
+accounting for its plans. Teradyne is required to disclose the pro forma net
+income and net income per common share amounts as if compensation costs for
+Teradyne's
+
+
+
+
+                                TERADYNE, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+O.  STOCK BASED COMPENSATION--(Continued)
+
+stock based compensation plans had been determined based on the fair value at
+the grant dates for awards under those plans. Had compensation expense for the
+stock based compensation plans been accounted for at fair value according to
+SFAS 123, amounts reported in the Statement of Operations for 2001, 2000, and
+1999, respectively would have been:
+
+
+
+Stock Option Plans
+
+   Under its stock option plans, all of which are fixed accounting plans,
+Teradyne granted options to directors, officers, certain employees, and other
+individuals entitling them to purchase common stock at 100% of the fair market
+value on the date of grant. Options granted to employees prior to 2001 vest in
+equal installments over four years and have a maximum term of five years.
+Beginning in September 2001 options granted to employees also vest in equal
+installments over four years but have a maximum term of seven years. In 2001,
+Teradyne had a one-time option grant for all employees that vests over two
+years and has a term of seven years.
+
+   Stock option plan activity for the years 2001, 2000, and 1999 follows (in
+thousands):
+
+
+
+   Weighted average option exercise price information for the years 2001, 2000
+and 1999 follows:
+
+
+
+
+
+
+                                TERADYNE, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+O.  STOCK BASED COMPENSATION--(Continued)
+
+   Significant option groups outstanding at December 31, 2001 and related
+weighted average price and remaining contractual life information follows
+(options in thousands):
+
+
+
+   The weighted average grant date fair value for options granted during 2001,
+2000 and 1999 was $11.90, $15.34 and $16.21 per option, respectively. The fair
+value of options at date of grant was estimated using the Black-Scholes option
+pricing model with the following weighted average assumptions:
+
+
+
+Employee Stock Purchase Plan
+
+   Under the Teradyne Employee Stock Purchase Plan, eligible employees may
+purchase shares of common stock through regular payroll deductions of up to 10%
+of their compensation. The price paid for the common stock is equal to 85% of
+the lower of the fair market value of Teradyne's common stock on the first
+business day in January (July for new hires) or the last business day of
+December. In January 2002, Teradyne issued 0.9 million shares of common stock
+to employees who participated in the plan during 2001 at a weighted-average
+price of $25.60 per share. Currently, there are 0.4 million shares reserved for
+issuance.
+
+   The weighted-average fair value of employee stock purchase rights granted in
+2001, 2000 and 1999 was $12.56, $17.98 and $8.18, respectively. The fair value
+of the employees' purchase rights was estimated using the Black-Scholes option
+pricing model with the following assumptions for 2001, 2000 and 1999,
+respectively:
+
+
+
+
+
+
+                                TERADYNE, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+P.  SAVINGS PLANS
+
+   Teradyne sponsors an employee retirement Savings Plan covering substantially
+all U.S. employees. Under Teradyne's savings plan, employees may contribute up
+to 15% of their compensation (subject to Internal Revenue Service limitations).
+For employees that elected in 1999 to continue to accrue benefits under
+Teradyne's defined benefit plan, as described in "Note M: Retirement Plans,"
+Teradyne annually matches employee contributions up to 6% of such compensation
+at rates ranging from 50% to 100%. Employees that elected in 1999 to stop
+accruing benefits under Teradyne's defined benefit plan, as described in "Note
+M: Retirement Plans," are eligible for an increased Teradyne match of 100% to
+150% on employee contributions up to 5% of compensation. Teradyne's
+contributions vest after two years, although contributions for those employees
+with five years of service vest immediately. Teradyne has also established an
+unfunded Supplemental Savings Plan to provide savings benefits in excess of
+those allowed by ERISA and the IRC. The provisions of this plan are the same as
+the Savings Plan. Under Teradyne's savings plans, amounts charged to operations
+were $14.6 million in 2001, $16.6 million in 2000, and $9.8 million in 1999.
+
+Q.  STOCKHOLDER RIGHTS PLAN
+
+   Teradyne's Board of Directors adopted a Stockholder Rights Plan on November
+16, 2000, under which a dividend of one Common Stock Purchase Right (each a
+"Right") was distributed for each outstanding share of Common Stock. The plan
+entitles Right holders to purchase shares of Teradyne's common stock for $540
+per share subject to adjustment (the "Purchase Price") in certain events, such
+as a tender offer to acquire 20% or more of Teradyne's outstanding shares.
+Under some circumstances, such as a determination by continuing Directors that
+an acquiring party's interests are adverse to those of Teradyne, the Plan
+entitles such holders (other than an acquiring party or adverse party) to
+purchase Common Stock (or other securities or consideration owned by Teradyne)
+having a value equal to two times the Purchase Price of the Right for the
+Purchase Price. The Rights expire on November 27, 2010.
+
+R.  INCOME TAXES
+
+   The components of (loss) income before income taxes and the (benefit)
+provision for income taxes as shown in the consolidated statements of income
+are as follows (in thousands)
+
+
+
+
+
+
+                                TERADYNE, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+R.  INCOME TAXES--(Continued)
+
+   Significant components of Teradyne's deferred tax assets (liabilities) as of
+December 31, 2001 and 2000 are as follows (in thousands):
+
+
+
+   At December 31, 2001 Teradyne had U.S. Federal operating loss carryforwards
+of approximately $113.5 million primarily due to the operating loss
+carryforwards related to the GenRad acquisition that expire in the years 2003
+through 2020, state operating loss carryforwards of $88.5 million that expire
+in the years 2006 through 2021, and foreign operating loss carryforwards of
+$9.6 million. These losses are limited in their use by "change in ownership"
+rules as defined in the Internal Revenue Code of 1986.
+
+   Teradyne believes that it is more likely than not that its net deferred tax
+assets will be realized.
+
+   Teradyne has approximately $33.9 million of tax credit carryforwards that
+expire in years 2003 through 2019. Business tax credits of approximately $24.1
+million expire in the years 2003 through 2019. Foreign tax credits of
+approximately $7.7 million expire in the years 2005 through 2006. Alternative
+minimum tax credits of $2.1 million do not expire.
+
+   A reconciliation of the effective tax rate for the years 2001, 2000, and
+1999 follows:
+
+
+
+   U.S. federal taxes have not been provided for approximately $63.1 million,
+$59.0 million, and $30.0 million of cumulative undistributed earnings of a
+non-U.S. manufacturing subsidiary in 2001, 2000, and 1999, respectively.
+Teradyne intends to reinvest these earnings indefinitely in operations outside
+the US.
+
+
+
+
+                                TERADYNE, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+S.  OPERATING SEGMENT AND GEOGRAPHIC INFORMATION
+
+   Teradyne has four principal operating segments which are the design,
+manufacturing and marketing of Semiconductor Test Systems, Connection Systems,
+Circuit Board Test and Inspection Systems, and Other Test Systems. These
+operating segments were determined based upon the nature of the products and
+services offered. The Other Test Systems segment in 2001 is comprised of
+Broadband Test Systems and Diagnostic Solutions. In 2000 and 1999, the Other
+Test Systems segment is comprised of Broadband Test Systems and Software Test
+Systems.
+
+   Teradyne evaluates performance based on several factors, of which the
+primary financial measure is business segment income before taxes. The
+accounting policies of the business segments are the same as those described in
+"Note B: Accounting Policies." Intersegment sales are accounted for at fair
+value as if sales were to third parties. During 2001 and 2000 no individual
+customer accounted for more than 10% of consolidated net sales. During 1999,
+principally all of Teradyne's operating segments reported sales to one customer
+accounting for a total of 11% of consolidated net sales.
+
+
+
+
+
+
+                                 TERADYNE, INC
+
+            NOTES TO FINANCIAL CONSOLIDATED STATEMENT--(Continued)
+
+
+
+S.   OPERATING SEGMENT AND GEOGRAPHIC INFORMATION--(Continued)
+
+
+(1) Income before taxes of the principal businesses exclude the effects of
+    employee profit sharing, management incentive compensation, other
+    unallocated expenses, and net interest and other income.
+
+(2) Total business assets are directly attributable to each business. Corporate
+    assets consist of cash and cash equivalents, marketable securities,
+    unallocated fixed assets of support divisions and common facilities and
+    certain other assets.
+
+(3) Corporate property additions and depreciation and amortization expense
+    include items attributable to the unallocated fixed assets of support
+    divisions and common facilities.
+
+(4) Corporate adjustment reflects the impact of SAB 101 on sales, income before
+    taxes, and total assets in 2000. During the fourth quarter of 2000 Teradyne
+    implemented SAB 101. Segments reflect their results before the change in
+    accounting principle.
+
+   Information as to Teradyne's sales in different geographical areas is as
+follows (in thousands):
+
+
+- --------
+
+(1) Sales are attributable to geographic areas based on location of customer
+    site.
+
+   Because a substantial portion of Teradyne's sales are derived from the sales
+of product manufactured in the United States, long-lived assets located outside
+the United States are less than 10% of total assets.
+
+
+
+
+                           SUPPLEMENTARY INFORMATION
+                                  (Unaudited)
+
+   The following sets forth certain unaudited consolidated quarterly statements
+of operations data for each of Teradyne's last eight quarters. In management's
+opinion, this quarterly information reflects all adjustments, consisting only
+of normal recurring adjustments, necessary for a fair statement for the periods
+presented. Such quarterly results are not necessarily indicative of future
+results of operations and should be read in conjunction with the audited
+consolidated financial statements of Teradyne and the notes thereto included
+elsewhere herein.
+
+
+
+
+
+
+                    SUPPLEMENTARY INFORMATION--(Continued)
+                                  (Unaudited)
+
+
+
+
+Item 9:  Changes and disagreements with accountants on accounting and financial
+disclosure
+
+   None.
+
+
+
+
+                                   PART III
+
+Item 10:  Directors and executive officers of the registrant.
+
+   Certain information relating to directors and executive officers of
+Teradyne, executive compensation, security ownership of certain beneficial
+owners and management, and certain relationships and related transactions is
+incorporated by reference herein from Teradyne's definitive proxy statement in
+connection with its Annual Meeting of Shareholders to be held on May 23, 2002,
+which proxy statement will be filed with the Securities and Exchange Commission
+not later than 120 days after the close of the fiscal year. For this purpose,
+the Management Compensation and Development Committee Report and Performance
+Graph included in such proxy statement are specifically not incorporated
+herein. (Also see "Item 1 -- Executive Officers of the Company" elsewhere in
+this report.)
+
+Item 11:  Executive compensation.
+
+   Certain information relating to directors and executive officers of
+Teradyne, executive compensation, security ownership of certain beneficial
+owners and management, and certain relationships and related transactions is
+incorporated by reference herein from Teradyne's definitive proxy statement in
+connection with its Annual Meeting of Shareholders to be held on May 23, 2002,
+which proxy statement will be filed with the Securities and Exchange Commission
+not later than 120 days after the close of the fiscal year. For this purpose,
+the Management Compensation and Development Committee Report and Performance
+Graph included in such proxy statement are specifically not incorporated herein.
+
+Item 12:  Security ownership of certain beneficial owners and management.
+
+   Certain information relating to directors and executive officers of
+Teradyne, executive compensation, security ownership of certain beneficial
+owners and management, and certain relationships and related transactions is
+incorporated by reference herein from Teradyne's definitive proxy statement in
+connection with its Annual Meeting of Shareholders to be held on May 23, 2002,
+which proxy statement will be filed with the Securities and Exchange Commission
+not later than 120 days after the close of the fiscal year. For this purpose,
+the Management Compensation and Development Committee Report and Performance
+Graph included in such proxy statement are specifically not incorporated herein.
+
+Item 13:  Certain relationships and related transactions.
+
+   Certain information relating to directors and executive officers of
+Teradyne, executive compensation, security ownership of certain beneficial
+owners and management, and certain relationships and related transactions is
+incorporated by reference herein from Teradyne's definitive proxy statement in
+connection with its Annual Meeting of Shareholders to be held on May 23, 2002,
+which proxy statement will be filed with the Securities and Exchange Commission
+not later than 120 days after the close of the fiscal year. For this purpose,
+the Management Compensation and Development Committee Report and Performance
+Graph included in such proxy statement are specifically not incorporated herein.
+
+
+
+
+                                    PART IV
+
+Item 14:  Exhibits, Financial Statement Schedules And Reports On Form 8-K.
+
+(a) 1.  Financial Statements
+
+   The following consolidated financial statements are included in Item 8:
+
+       Report of Independent Accountants Balance Sheets as of December 31, 2001
+       and 2000 Statements of Operations for the years ended December 31, 2001,
+       2000, and 1999
+      Statements of Shareholders' Equity for the years ended December 31, 2001,
+   2000, and 1999
+      Statements of Cash Flows for the years ended December 31, 2001, 2000, and
+
+(a) 2.  Financial Statement Schedules
+
+   The following consolidated financial statement schedule is included in Item
+14(d):
+
+      Schedule II -- Valuation and Qualifying Accounts
+
+      Schedules other than those listed above have been omitted since they are
+   either not required or information is otherwise included.
+
+(a) 3.  Listing Of Exhibits
+
+   The Exhibits which are filed with this report or which are incorporated by
+reference herein are set forth in the Exhibit Index.
+
+(b) Reports On Form 8-K
+
+   A Current Report on Form 8-K dated October 18, 2001, was filed with the
+Securities and Exchange Commission on October 18, 2001 relating to (i)
+Teradyne's third quarter financial results and its interim financial statements
+and (ii) two legal complaints filed against Teradyne.
+
+   A Current Report on Form 8-K dated October 19, 2001, was filed with the
+Securities and Exchange Commission on October 19, 2001 relating to (i)
+Teradyne's intent to offer Convertible Senior Notes due 2006 in a private
+placement and (ii) the pricing terms of the offering.
+
+   A Current Report on Form 8-K dated October 24, 2001, was filed with the
+Securities and Exchange Commission on October 24, 2001 relating to Teradyne's
+completion of its offering of Convertible Senior Notes due 2006 in a private
+placement.
+
+
+
+
+Item 14(d)  Financial Statement Schedules
+
+                                TERADYNE, INC.
+
+               SCHEDULE II -- VALUATION AND QUALIFYING ACCOUNTS
+
+
+
+
+
+
+                                 EXHIBIT INDEX
+
+   The following designated exhibits are, as indicated below, either filed
+herewith or have heretofore been filed with the Securities and Exchange
+Commission and are referred to and incorporated by reference to such filings.
+
+
+
+
+
+
+
+
+
+
+
+
+
+   * Indicates management contracts or compensatory plans
+
+
+
+
+                                  SIGNATURES
+
+   Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized this 29th day of
+March, 2002.
+
+                                            TERADYNE, INC.
+
+                                            By:    /s/  GREGORY R. BEECHER
+                                                -----------------------------
+                                                     Gregory R. Beecher,
+                                                    Vice President and Chief
+                                                       Financial Officer
+
+   Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+          Signature                       Title                   Date
+          ---------                       -----                   ----
+
+  /s/  GEORGE W. CHAMILLARD   Chairman of the Board,         March 29, 2002
+- -----------------------------   President,
+    George W. Chamillard        and Chief Executive Officer
+                                (Principal Executive
+                                 Officer)
+
+   /s/  GREGORY R. BEECHER    Vice President and             March 29, 2002
+- -----------------------------   Chief Financial Officer
+     Gregory R. Beecher         (Principal Financial
+                                 Officer)
+
+  /s/  G. RICHARD MACDONALD   Controller, Principal          March 29, 2002
+- -----------------------------   Accounting Officer
+    G. Richard MacDonald
+
+    /s/  JAMES W. BAGLEY      Director                       March 29, 2002
+- -----------------------------
+       James W. Bagley
+
+    /s/  ALBERT CARNESALE     Director                       March 29, 2002
+- -----------------------------
+      Albert Carnesale
+
+    /s/  DANIEL S. GEGORY     Director                       March 25, 2002
+- -----------------------------
+      Daniel S. Gegory
+
+   /s/  DWIGHT H. HIBBARD     Director                       March 28, 2002
+- -----------------------------
+      Dwight H. Hibbard
+
+    /s/  JOHN P. MULRONEY     Director                       March 26, 2002
+- -----------------------------
+      John P. Mulroney
+
+  /s/  VINCENT M. O'REILLY    Director                       March 27, 2002
+- -----------------------------
+     Vincent M. O'Reilly
+
+    /s/  RICHARD J. TESTA     Director                       March 29, 2002
+- -----------------------------
+      Richard J. Testa
+
+     /s/  ROY A. VALLEE       Director                       March 29, 2002
+- -----------------------------
+        Roy A. Vallee
+
+  /s/  PATRICIA S. WOLPERT    Director                       March 25, 2002
+- -----------------------------
+     Patricia S. Wolpert
+
+
+

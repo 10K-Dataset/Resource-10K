@@ -1,0 +1,3452 @@
+
+10-K
+ANNUAL REPORT ON FORM 10-K
+
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+      (X) ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES
+                              EXCHANGE ACT OF 1934
+                   For the fiscal year ended December 31, 1999
+                                -----------------
+
+                                       OR
+
+          ( ) TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+           For the transition period from _____________ to ___________
+
+                         Commission File Number: 0-18645
+
+                           TRIMBLE NAVIGATION LIMITED
+             (Exact name of Registrant as specified in its charter)
+
+          California                                   94-2802192
+ --------------------------------           ----------------------------------
+ (State or other jurisdiction of           (I.R.S. Employer Identification No.)
+ incorporation or organization)
+
+  645 North Mary Avenue, Sunnyvale, CA                   94088
+  --------------------------------------        ----------------------
+ (Address of principal executive offices)              (Zip Code)
+
+       Registrant's telephone number, including area code: (408) 481-8000
+
+        Securities registered pursuant to Section 12(b) of the Act: NONE
+
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                                  Common Stock
+                         Preferred Share Purchase Rights
+                                (Title of Class)
+
+     Indicate  by check mark  whether the  registrant  (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the  Securities  Exchange  Act of
+1934  during  the  preceding  12 months  (or for such  shorter  period  that the
+registrant was required to file such reports),  and (2) has been subject to such
+filing requirements for the past 90 days. Yes X No
+
+     Indicate by check mark if disclosure of delinquent  filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's  knowledge,  in definitive proxy or information  statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [X]
+
+     The  aggregate  market  value  of the  registrant's  Common  Stock  held by
+non-affiliates of the registrant was approximately  $673,572,000 as of March 13,
+2000,  based on the closing  sale price of the common  stock on the Nasdaq Stock
+Market for that date.
+
+     There were 22,930,113  shares of the  registrant's  Common Stock issued and
+outstanding as of March 13, 2000.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+     Items 10, 11, 12 and 13 of Part III  incorporate  information  by reference
+from  the   registrant's   Proxy  Statement  for  its  2000  Annual  Meeting  of
+Shareholders  to be held on May 11,  2000.  Except with  respect to  information
+specifically  incorporated by reference into this Form 10-K, the Proxy Statement
+is not deemed to be filed as a part hereof.
+
+
+
+     This  report  contains  forward-looking  statements  within the  meaning of
+Section 27A of the  Securities  Act of 1933 and  Section  21E of the  Securities
+Exchange  Act of  1934.  Actual  results  could  differ  materially  from  those
+indicated in the forward-looking  statements as a result of the risk factors set
+forth in, or  incorporated  by reference into, this report and other reports and
+documents that the Company files with the  Securities  and Exchange  Commission.
+The Company has attempted to identify forward-looking  statements in this report
+by placing an asterisk (*) before paragraphs containing such material.
+
+                                     PART I
+
+Item 1.           Business
+
+General
+
+     Trimble  Navigation  Limited,  a California  corporation  ("Trimble" or the
+"Company"),  develops,  markets, and distributes innovative products and systems
+enabled by Global Positioning System ("GPS") technology. We provide end-user and
+original  equipment   manufacturer  (OEM)  solutions  for  diverse  applications
+including Architecture/Engineering/Construction,  Asset Management and Tracking,
+Agriculture,  and  GPS  Component  Technologies.  Trimble  designs  and  markets
+electronic  products that determine precise geographic  location.  Our principal
+products,  which  utilize  proprietary  software and  firmware,  are  integrated
+systems  for  collecting,  analyzing  and  displaying  position  data  in  forms
+optimized for specific end-user applications.
+
+Background
+
+     Precise determination of locations both on and above the earth's surface is
+a fundamental  requirement in many applications.  For example,  position data is
+used for navigation on land, sea and air, and to conduct  surveys and draw maps.
+Previous  technologies have limited users to simultaneous  determination of only
+two  dimensions--latitude  and  longitude--while   altitude  and  time  required
+separate  measurements with different  equipment.  GPS technology provides users
+with all of these measurements, using a single instrument. GPS is a system of 27
+orbiting Navstar satellites  established and funded by the U.S.  Government.  On
+April 27, 1995,  GPS was  declared by the U.S.  Air Force Space  Command to have
+achieved Full Operational  Capability.  GPS can complement or replace many other
+forms of  electronic  navigation  and position  data  systems.  GPS offers major
+advantages  over  prior  technologies  in terms of ease of use,  precision,  and
+accuracy,  with worldwide coverage in three dimensions,  and does so in addition
+to providing time and velocity measurement capabilities.
+
+     GPS  positioning  is  based on a  triangulation  technique  that  precisely
+measures  distances  from  three  or more  Navstar  satellites.  The  satellites
+continuously  transmit  precisely timed radio signals using  extremely  accurate
+atomic clocks. A GPS receiver  calculates  distances from the satellites in view
+by  determining  the travel time of a signal from the satellite to the receiver.
+The receiver  then  triangulates  its  position  using its known  distance  from
+various  satellites,  and  calculates  latitude,  longitude and altitude.  Under
+normal  circumstances,  a current  stand-alone GPS receiver is able to calculate
+its position at any point on earth, in the earth's atmosphere, or in lower earth
+orbit, to within 100 meters, 24 hours a day. When a GPS receiver is coupled with
+a reference  receiver with known precise  position,  accuracies of less than ten
+centimeters  are  possible.  In addition,  GPS  provides  highly  accurate  time
+measurement.
+
+     * The usefulness of GPS is dependent upon the locations of the receiver and
+the GPS  satellites  that are above the horizon at any given  time.  The current
+deployment  of 27 satellites  permits  three-dimensional  worldwide  coverage 24
+hours a day. However, reception of GPS signals requires line-of-sight visibility
+between  the  Navstar  satellites  and the  receiver,  which can be  blocked  by
+buildings,  hills and dense  foliage.  For the  receiver to collect a sufficient
+signal,  each satellite must be above the horizon,  and the receiver must have a
+line of sight to at least three satellites in order to determine its location in
+two   dimensions--latitude  and  longitude--and  at  least  four  satellites  to
+determine its location in three  dimensions-latitude,  longitude,  and altitude.
+The  accuracy  of GPS may also be  limited by  distortion  of GPS  signals  from
+ionospheric  and other  atmospheric  conditions,  and intentional or inadvertent
+signal  interference or Selective  Availability  (SA).  Selective  Availability,
+which is the largest  component of GPS  distortion,  is  controlled  by the U.S.
+Department  of Defense and is a  currently  activated,  intentional  system-wide
+degradation of stand-alone  GPS accuracy from  approximately  twenty-five to one
+hundred meters. Selective Availability may be implemented by the U.S. Department
+of Defense in order to deny hostile forces the highly  accurate  position,  time
+and  velocity  information  supplied by GPS. In certain  military  applications,
+classified  devices  are  utilized  to  decode  the SA  degradation  and  return
+accuracies to their original levels.
+
+
+
+
+
+     By using a technique  called  "differential  GPS" involving two or more GPS
+receivers,  accuracies can currently be improved to  approximately  one to three
+meters for navigation,  sub-meter for precision  positioning,  and less than ten
+centimeters  for  survey  and  machine  guidance  applications,   even  with  SA
+activated.  This  technique  compensates  for a number of potential  measurement
+distortions,  including  distortions caused by ionospheric and other atmospheric
+conditions,  as well as distortions  intentionally introduced into the satellite
+data itself,  such as SA.  Differential  GPS involves  placing one receiver at a
+known location and continuously comparing its calculated location with its known
+location to measure  distortions  in the signal  transmission  and errors in the
+satellite  data. At any one time,  such  distortions  and errors are  reasonably
+constant  over large  areas,  so that one or more remote GPS  receivers  can use
+these  measurements  to correct  their own  position  calculations.  Measurement
+corrections can be transmitted either in-real time over a suitable communication
+link such as radio or telephone,  or integrated later with accumulated  data, as
+is frequently the practice in survey applications.
+
+     Each of  Trimble's  GPS  products  is based  on  proprietary  GPS  receiver
+technology.  Trimble's GPS  receivers are capable of tracking all  satellites in
+view and automatically selecting the optimum combination of satellites necessary
+to provide the most accurate set of measurements  possible.  Communications  and
+computational modules, such as databases, database management systems, radio and
+other communication equipment,  and various user interfaces,  are added to these
+receivers to create fully integrated application-specific solutions.
+
+     Navstar  satellites and their ground support systems are complex electronic
+systems subject to electronic and mechanical failures and possible sabotage. The
+satellites were  originally  designed to have lives of 7.5 years and are subject
+to damage by the hostile space  environment in which they operate.  However,  of
+the current  deployment  of 27  satellites  in place,  some have already been in
+place for 11 years and have an  average  age of 6 years.  To repair  damaged  or
+malfunctioning   satellites  is  currently  not  economically   feasible.  If  a
+significant  number of satellites  were to become  inoperable,  there could be a
+substantial  delay before they are replaced with new satellites.  A reduction in
+the number of operating  satellites  would impair the current utility of the GPS
+system  and the  growth of  current  and  additional  market  opportunities.  In
+addition,  there  can be no  assurance  that the  U.S.  government  will  remain
+committed to the operation and maintenance of GPS satellites over a long period,
+or that the policies of the U.S.  Government  for the use of GPS without  charge
+will remain unchanged. However, a 1996 Presidential Decision Directive marks the
+first time in the  evolution  of GPS that  access for  civilian  use has a solid
+foundation in law. Because of  ever-increasing  commercial  applications of GPS,
+other U.S.  Government agencies may become involved in the administration or the
+regulation of the use of GPS signals.  Any of the foregoing factors could affect
+the willingness of buyers of the Company's  products to select GPS-based systems
+instead of products  based on competing  technologies.  Any resulting  change in
+market demand for GPS products could have a material adverse effect on Trimble's
+financial results. In 1995, certain European government  organizations expressed
+concern  regarding  the  susceptibility  of  GPS  equipment  to  intentional  or
+inadvertent  signal  interference.  Such concern  could  translate  into reduced
+demand for GPS products in certain geographic regions in the future.
+
+Business Strategy
+
+     Trimble sees GPS as an  information  utility.  In order to exploit the wide
+range  of  applications  made  possible  by  this  information  utility,  we are
+implementing the following strategies:
+
+     * Targeted Markets.  Trimble targets a number of specific markets, based on
+end-user   applications.    The   markets   that   we   currently   target   are
+Architecture/Engineering/Construction,    Asset    Management    and   Tracking,
+Agriculture   and  GPS   Component   Technology.   We  believe  that  by  adding
+application-specific  features and  functionality  to our core GPS technology we
+can deliver  value-added  products  and  enhance  productivity  in our  targeted
+markets. In the Architecture/Engineering/Construction market, Trimble focuses on
+the centimeter positioning, data collection management,  wireless communication,
+and machine  guidance and control.  In the Asset  Management and Tracking market
+Trimble focuses on asset tracking, fleet management,  intelligent transportation
+systems,  and public safety through integration of GPS,  information  technology
+and  wireless  communication.  In the  Agriculture  market  we focus on  precise
+machine guidance, yield monitoring,  and variable rate application of fertilizer
+and  chemicals.  We intend to continue to leverage our GPS component  technology
+directly to Original Equipment Manufacturers (OEMs) for integration into various
+applications.
+
+     Differentiated  Product  Solutions.  Trimble seeks to establish and sustain
+leadership in its targeted markets by offering products that are  differentiated
+through software, firmware,  customized user interfaces, and quality service and
+support.  Where feasible, we emphasize  application-specific  systems that solve
+end-user problems in our targeted markets. We believe that a substantial portion
+of the value of our products is derived  from the  firmware  that is embedded in
+the product or software  provided to enable superior  performance.  In addition,
+Trimble  incorporates
+
+
+
+
+other   technologies   into  many  of  its   products,   such  as  wireless
+communications, information technologies and non-GPS positioning technologies in
+order to optimize product features for our end-users.
+
+     Multichannel  Distribution  and Strategic  Alliances.  Trimble seeks direct
+communication  with its  customers  in order to develop  and modify its  product
+designs as necessary to maximize  utility and payback to the user. We have built
+a  worldwide  sales  and  service  organization  made up of  Company  employees,
+distributors  and  dealers.  In  addition,  we intend to continue to develop new
+alliances and to strengthen existing alliances and OEM relationships to increase
+our leverage of GPS component  technologies.  Trimble has pursued such alliances
+with  several  companies,  including  VDO Car  Communication  (a division of the
+Mannesmann Group),  Pioneer Electronics  Corporation,  Seiko Epson, Blaupunkt (a
+wholly owned subsidiary of Robert Bosch GmbH), NortelNetworks,  British Telecom,
+E-systems, Honeywell, and Intel in the Mobile and Timing Technology segment; and
+Caterpillar,  Inc.,  Topcon,  and CNH Global (formerly Case  Corporation) in the
+Precision Positioning segment.
+
+INDUSTRY SEGMENTS
+
+     Trimble  operates in a single industry segment as a leader in designing and
+developing  innovative  products enabled by GPS technology.  We provide end-user
+and Original  Equipment  Manufacture  solutions for diverse  applications in our
+target markets. These applications include:
+
+     o Architecture/Engineering/Construction  --  surveying,  mapping,  machine
+       guidance/control;
+     o Asset Management and Tracking -- fixed asset mapping and fleet management
+       using mobile positioning;
+     o Agriculture -- mapping, yield monitoring,  variable rate applications and
+       machine guidance/control; and
+     o GPS Component  Technologies  -- automotive  navigation,  timing  systems,
+       commercial avionics, and military systems.
+
+     We design,  market,  and  distribute  electronic  products  that  determine
+precise geographic  location combined with data  communications and applications
+software.  We sell our products through a direct-sales  force located in fifteen
+countries,  as well as through a worldwide network of dealers,  distributors and
+authorized representatives.
+
+     Research and development  activities are conducted at Trimble's  facilities
+in Sunnyvale,  California,  and Christchurch,  New Zealand.  Solectron currently
+manufactures most of Trimble's  products.  In addition,  we have a manufacturing
+facility in Austin,  Texas,  focused  primarily  on  FAA-certified  products for
+commercial aviation and military systems.
+
+     To achieve distribution,  marketing,  production, and technology advantages
+for our targeted  markets,  we manage our industry  segment  within two Business
+Units:  the  Precision  Positioning  Group  (PPG)  and  the  Mobile  and  Timing
+Technologies  Group  (MTT).  Each  Business  Unit is  managed  by a senior  vice
+president who is responsible for strategy,  marketing,  product  development and
+financial performance.
+
+     The  Precision   Positioning  Group  derives  its  revenue  from  precision
+positioning  solutions for the architecture,  engineering,  construction,  asset
+management,  and agriculture  markets.  These markets require  sub-centimeter to
+meter  3D   positioning   accuracy   for   surveying,   mapping,   and   machine
+guidance/control  applications. The Mobile and Timing Technologies Group derives
+its revenues from automotive, timing, fleet management, commercial aviation, and
+military  systems,  as well as from  development of software  licenses and other
+rights for the use of our GPS technology to third parties.
+
+     Although we believe that these  Business  Units have growth  potential  for
+sales of GPS products,  there can be no assurance  that such Business Units will
+continue to develop,  particularly  given that GPS-based systems are still in an
+early stage of adoption in some of these markets.  Our future growth will depend
+on the timely  development  of the industry  markets in which Trimble  currently
+competes, and on our ability to continue to identify and exploit new markets for
+our products.
+
+Precision Positioning Group
+
+     The  Precision  Positioning  Group focuses its efforts in markets where the
+distribution chain uses independent distributors or a direct sales force to sell
+directly to the  end-users.  The  products  are  typically  system  solutions in
+high-end, value-added markets.
+
+
+
+
+
+     A key  business  strategy of PPG is  interoperability,  which  involves the
+focus on, and  development  of systems that integrate  sensors  utilizing a wide
+variety  of  technologies   and   communications   with  GPS.  We  believe  this
+interoperability  developed by Trimble is an extremely  important advantage over
+any of the competition. The emphasis is on providing solutions for applications,
+which combine GPS and other technologies,  and results in a higher real value to
+the  customer.  The  concept  of  interoperability  applies  to  electronic  and
+mechanical  accommodations of other technologies,  together with GPS, to solve a
+problem.  Probably the most  important area of  interoperability,  and often the
+least recognizable until the integrated solution is put into use, is in the area
+of data interchange.
+
+Products
+
+The following is a table of some of the Precision Positioning Group products.
+
+- ----------------------------------- --------------------------------------------
+PRODUCT                             BRIEF DESCRIPTION
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+4000 Series                         GPS   receiver  and   associated   antennas
+                                    that  provide   position information for
+                                    surveying.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+4600 LS(TM)                         Low-cost single-frequency survey system.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+4700/4800 GPS Total Station         Real time surveying system that incorporates
+                                    dual   frequency    receiver   and antenna
+                                    with a  radio  modem  and antenna.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+4000 MSGR P/Y Survey System         Turnkey solution for military land survey
+                                    applications.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+TTS(TM)300/500 Total Station        Optical extension of the GPS Total Station
+                                    utilizing, reflectorless technology  for
+                                    surveying in areas where GPS signals are
+                                    obstructed.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+Trimble   Geomatics   Office(TM)    Application   software  for  GPS
+and Survey Controller               postprocessing, survey project management,
+                                    and field data collection.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+TRIMTALK(TM), TRIMMARK(TM),         Radio   modems  used  for
+and   TRIMCOMM(TM) Radios           real-time  GPS  applications  that
+                                    provide   broadcast   and  receive
+                                    functions  for VHF,  UHF,  and 900
+                                    MHz    spread     spectrum    data
+                                    transmissions.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+MS750(TM)                           Real-time Kinematic GPS technology
+                                    that provides precise  positioning
+                                    to  hydrographic  survey,   marine
+                                    construction,      and     machine
+                                    guidance/control applications.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+4000RSi(TM)/ DSi                    Uses advanced GPS technology
+                                    to      create      high-precision
+                                    Differential GPS (DGPS) system for
+                                    marine  survey,   navigation,  and
+                                    positioning.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+DSM(TM)                             Sub-meter marine survey sensor.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+Beacon Control System               A complete solution for   establishing  a
+                                    network of remote stations for the broadcast
+                                    of  differential   GPS  correction data.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+GeoExplorer(R)3                     Rugged handheld GIS data collection and
+                                    maintenance system.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+Pathfinder Pro Family               GIS data collection and maintenance  systems
+                                    that provide real-time sub-meter accuracy.
+                                    The systems  are used in a wide  range off
+                                    applications,  such as utility asset
+                                    management,   environmental monitoring
+                                    and scientific research, hazardous waste
+                                    cleanup, and natural resource and land
+                                    management.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+Pathfinder Office   Microsoft       Windows-based application  provides fast,
+                                    simple data  processing  and export  from
+                                    data     collected,      including planning,
+                                    data     dictionary creation,  batch
+                                    processing,  and sophisticated  editing and
+                                    output of collected data.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+Pathfinder Card                     Easy-to-use  mobile GIS data collection and
+                                    maintenance  system that works with a
+                                    standard pen and notebook PCs.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+Pathfinder Tools(TM) Software       Powerful software  development kit (SDK)
+Development Kit                     designed   to   integrate Trimble GPS
+                                    receivers  with custom mapping and GIS
+                                    applications.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+BenchGuide(TM)                      Provides mining machine  operators with
+                                    precision  GPS-based guidance in  locating
+                                    correct   bench  or terrain  elevations
+                                    without using survey stakes.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+CAES                                Machine guidance system for mining
+                                    applications.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+TrimFlight GPS(TM)                  An advanced aerial guidance  and  mapping
+                                    tool  that provides highly accurate guidance
+                                    suitable for many precise airborne
+                                    operations.
+- ----------------------------------- --------------------------------------------
+
+
+
+
+- ----------------------------------- --------------------------------------------
+AgGPS(R)132                         High-performance GPS receiver used
+                                    to calculate  sub-meter  positions
+                                    in real  time.  Used by farmers to
+                                    tag soil type, insect infestation,
+                                    or crop yield.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+AgGPS(R)170 Field Computer          Rugged  mobile  computing  platform  that
+                                    adds data  logging and field mapping  to
+                                    AgGPS  receivers  and enhanced  guidance to
+                                    the  AgGPS Parallel  Swathing Option. The
+                                    AgGPS 170 Field Computer is a tool for
+                                    custom  applicators  who desire  top-of-the-
+                                    line  field  guidance with data storage for
+                                    environmental reporting, and customer
+                                    billing.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+SiteVision(TM)GPS                   Earthmoving   grade  control system   that
+                                    enables    machine operators to view the
+                                    site plan in the cab.
+- ----------------------------------- --------------------------------------------
+
+Mobile and Timing Technologies
+
+     The Mobile and Timing  Technologies  Group  focuses  its efforts in markets
+where  the  majority  of its  products  are  sold  directly  to OEMs  or  system
+integrators.   The  products  are  designed  to  support  system   solutions  in
+high-volume applications.  In some instances the Business Unit's products are in
+the form of software  and chipset  licenses  and other rights for the use of our
+GPS technology by third parties.
+
+     This  Business  Unit  focuses  on  product  lines  that  address  the fleet
+management market, and leverage GPS component technologies for use in automotive
+navigation,  timing for  telecommunications,  commercial  aviation  and military
+systems.   The   product   lines  in  these   markets   involve   full-function,
+high-performance  embedded  GPS  engines  that are  frequently  utilized in some
+markets with integrated  communication systems such as cellular,  satellite, and
+special  mobile radio systems.  The GPS equipment  provides  accurate  position,
+velocity,  and timing  information  for use in such diverse  applications as car
+navigation,  airborne  navigation,  munitions  guidance,  vehicle and high-value
+cargo tracking.
+
+     Trimble supplies GPS boards and chipsets,  and licenses  technology to some
+of the leading automotive electronics suppliers,  including Pioneer Electronics,
+Magneti Marelli, VDO Car Communication (a division of the Mannesmann Group), and
+Blaupunkt (a wholly owned subsidiary of Robert Bosch GmbH). Trimble is also part
+of the  reference  design  for  Intel's  initiative  to develop  in-car  Pentium
+processor-based  computing,  and Microsoft's Auto PC platform.  Trimble airborne
+navigation products are flown by more than 100 of the world's major airlines.
+
+     Trimble supplies timing products to major telecommunications infrastructure
+suppliers,  including  NortelNetworks,  AT&T Wireless,  Qualcomm,  and Glenayre.
+These products include frequency synthesis hardware, which is timed by precision
+GPS  receiver and is used to control  most of the time and  frequency  functions
+within  wireless  base  stations.  Cellular  telephones,  paging  networks,  and
+wireless  local loop  telephony  use these base  stations.  Precision  timing is
+expected to become even more important as wireless  traffic  migrates from voice
+centric to data centric applications.
+
+Products
+
+The  following  is a table of some of the Mobile and Timing  Technologies  Group
+products.
+
+- ----------------------------------- --------------------------------------------
+PRODUCT                             BRIEF DESCRIPTION
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+ACE II   GPS(TM)   Module           Powerful miniature  8-channel  GPS  board
+                                    designed    for     applications requiring
+                                    high  performance  at low cost.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+Lassen(TM)-SKII                     Miniature 8-channel GPS receiver ideal for
+                                    in-car  navigation and telemetric systems.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+SveeEight  Plus GPS Module          8-channel GPS  technology  in a convenient
+                                    plug-and play-form factor.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+CrossCheck(TM) Family               Integrates GPS, wireless cellular, and
+                                    computing technologies   into   a   single
+                                    low-cost mobile  positioning and
+                                    communications     system    for
+                                    commercial fleet management.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+Placer(TM)Family and                Mobile positioning and communication system
+Placer(TM)GPS 450/455               with various communications interfaces.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+Galaxy Immarsat-C/GPS(TM)           The   first commercial    product     which
+                                    integrates    two-way   wireless satellite
+                                    communications  with GPS location  data for
+                                    long-haul trucking and marine applications.
+- ----------------------------------- --------------------------------------------
+
+
+
+
+- ----------------------------------- --------------------------------------------
+Trimble GPS/AVL Subsystem           A system which combines radio communications
+                                    and GPS technologies to enable public safety
+                                    agencies to decrease emergency response call
+                                    times  and  improve  operational efficiency.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+FleetVision(R)3.2                   Microsoft  Windows-based  application which
+                                    provides fleet operators with cost-effective
+                                    and easy-to-use solution for tracking mobile
+                                    assets.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+Palisade(TM) NTP                    High-performance, cost-effective reference
+Synchronization Kit                 time source that uses GPS  technology  to
+                                    synchronize computers, servers, and internet
+                                    applications.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+ThunderBolt(TM) GPS Disciplined     GPS clock designed  specifically  for
+Clock                               precision timing and synchronization  of
+                                    wireless networks.   Variations  of  this
+                                    basic  design  are used by major
+                                    telecommunication infrastructure providers
+                                    such as NortelNetworks,  AT&T  Wireless,
+                                    and Qualcomm.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+ACE UTC GPS                         A unit that integrates GPS timing technology
+                                    into the ACE   form   factor,   which  is
+                                    slightly  bigger than a business card.
+                                    Ideal for precision timing applications.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+Bullet(TM) II/Bullet(TM)II HE       Rugged GPS antenna for timing systems
+                                    installed outdoors.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+Trimble 8100                        An IFR-certified C129-A1 aviation navigation
+                                    system that provides GPS position, velocity,
+                                    and course data,  plus flight  management
+                                    information for the business, commercial and
+                                    air transport markets.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+HT9100(TM)                          A  product   created   from  the Trimble/
+                                    Honeywell partnership combines Trimble's GPS
+                                    technology   with    Honeywell's flight
+                                    management  technology to create  a complete
+                                    system  for Communications,  Navigation, and
+                                    Surveillance/Air Traffic Management for  air
+                                    transport operations.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+Trimble  2101  Approach  Plus and   Is a Dzus  rail-mount,  GPS-based flight
+I/O Approach Plus                   management  and  navigation system for
+                                    corporate,  helicopter and regional commuter
+                                    aviation.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+Force(TM) TM GPS Module  Series     A  GPS module  that has been  developed
+                                    for  embedded  integration  into
+                                    high-performance land, sea, aircraft and
+                                    missile applications.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+TA-12                               High-performance,   all-in-view, PPS GPS
+                                    receiver  for  military aircraft operating
+                                    within the US National  Airspace  System.
+                                    The TA-12  receiver is FAA TSO-C129A
+                                    certified  and  designed   for integration
+                                    with Flight Management  Systems  (FMS)  that
+                                    require  Instrument Flight Rules (IFR) -
+                                    certified operations.
+- ----------------------------------- --------------------------------------------
+- ----------------------------------- --------------------------------------------
+Cargo Utility GPS Receiver (CUGR)   A  complete  GPS-based   navigation  system
+                                    for  military  aircraft operations.
+- ----------------------------------- --------------------------------------------
+
+Sales and Marketing
+
+     Trimble  currently has nine regional sales offices in the United States and
+six in Europe, as well as offices in Australia,  Canada,  China, Japan,  Mexico,
+New Zealand,  Russia, and Singapore.  We have substantial variation in the needs
+of our sales and distribution channels, which are rapidly changing.
+
+     Domestic. Trimble sells its products in the United States primarily through
+dealers,   distributors,   and  authorized  representatives,   supplemented  and
+supported  by our direct  salesforce.  We have also  pursued  alliances  and OEM
+relationships  with established  foreign and domestic  companies to assist us in
+penetrating certain markets.
+
+     International.  Trimble markets to end-users through a network of more than
+100 dealers and distributors in more than 85 countries.  Distributors  carry one
+or more product lines and are generally limited to selling either in one country
+or in a portion of a country.  Trimble  occasionally  grants exclusive rights to
+market certain products within specified countries.
+
+     Sales  to   unaffiliated   customers  in  foreign   locations   represented
+approximately 52%, 46%, and 46% of Trimble's total revenue in fiscal years 1999,
+1998  and  1997,  respectively.   Sales  to  unaffiliated  customers  in  Europe
+represented  25%,  25%,  and 22% of net  revenue in such  periods,  and sales to
+unaffiliated  customers in the Far East  represented  14%, 13%, and 15% of total
+revenue in such periods, respectively.
+
+
+
+
+     Support.  Trimble's  general terms and conditions for sales of its products
+include  a  one-year  warranty.   Commercial  Aviation  products,  however,  are
+generally  sold  with a basic  three-year  warranty  period  with an  additional
+two-year  warranty sold with some units;  select  military  programs may require
+extended warranty periods.  We support our products on a board replacement level
+from locations in the United Kingdom, Singapore, Japan, and New Zealand, as well
+as  Sunnyvale,  California.  Trimble's  dealers and  distributors  also  provide
+factory-trained  third-party  maintenance,  including  warranty and non warranty
+repairs.  We reimburse  dealers and  distributors  for all  authorized  warranty
+repairs  they  perform.  Trimble  does not derive a  significant  portion of its
+revenues from support activities.
+
+Competition
+
+     * In the segments  currently  being  addressed by Trimble,  competition  is
+intense. Within each of its segments, Trimble has encountered direct competition
+from both foreign and domestic  suppliers,  and expects  that  competition  will
+continue  to  intensify.  Indirect  competition  is also  beginning  to  emerge,
+particularly from semiconductor and consumer  electronic  manufacturers that are
+anticipating the emergence of high-volume, customer-oriented GPS applications.
+
+     The PPG segment faces  competition from Leica AG, Spectra Precision (Thermo
+Electron),  Topcon,  Sokkia,  Ashtech Precision Products (part of Magellan Corp.
+via Orbital Sciences Corp.),  Novatel (Canadian Marconi),  Allen Osborne,  Javad
+Positioning   Systems,    Communications   Systems   International,    Corvallis
+Microtechnology, Inc., and Tripod Data Systems.
+
+     The MTT segment faces ongoing competition from Motorola,  Inc.; Japan Radio
+Corporation,  Rockwell International Corporation,  Symmetricom,  Datum, Odetics,
+Rockwell Collins, Universal Navigation Corporation,  Canadian Marconi Company (a
+subsidiary  of  the  General  Electric  Company  plc),   Northstar  Avionics  (a
+subsidiary of Canadian  Marconi),  and UPS Aviation  Technologies (a division of
+United Parcel Service of America,  Inc.), The New Honeywell Incorporated (Merged
+Allied Signal and Honeywell),  Smiths Industries,  ARNAV, Interstate Electronics
+(subsidiary of Figgie International),  Raytheon, and Litton Industries,  Orbital
+Sciences Corp., and Wireless Link.
+
+     A  number  of  Trimble's  markets  are also  served  primarily  by  non-GPS
+technologies,  many of which are currently more accepted and less expensive than
+GPS-based  systems.  The success of GPS-based  systems  against these  competing
+technologies  depends  in part on  whether  GPS  systems  can offer  significant
+improvements in  productivity,  accuracy,  and  reliability in a  cost-effective
+manner, as well as continued market education about such products.
+
+     The  principal  competitive  factors in the markets that Trimble  addresses
+include ease of use, physical characteristics (including size, weight, and power
+consumption),   product   features   (including   differential   GPS),   product
+performance,   product  reliability,  price,  size  of  installed  base,  vendor
+reputation,  and  financial  resources.  We believe that our products  currently
+compete favorably with other products on most of the foregoing  factors,  though
+we may be at a competitive  disadvantage  against other companies having greater
+financial, marketing, and service and support resources.
+
+     * Trimble  believes that its ability to compete  successfully in the future
+against  existing and additional  competitors will depend largely on its ability
+to provide systems products and services that have significantly  differentiated
+features with improved  cost/benefit  ratios to our  end-users.  There can be no
+assurances that we will be able to implement this strategy successfully, or that
+our competitors, many of whom have substantially greater resources than Trimble,
+will not apply those resources to compete  successfully  against us on the basis
+of system features and end-user cost/benefit ratios.
+
+Research and Development
+
+     Trimble's  leadership  position in its targeted  markets is the result,  in
+large part,  of its strong  commitment  to  research  and  development.  Trimble
+invests  heavily in developing  positioning  and  information  technologies  and
+wireless  communications,  including  the  design of  proprietary  software  and
+integrated circuits for GPS receivers.  Moreover,  Trimble develops  substantial
+systems expertise and user interfaces for a variety of applications.  Below is a
+table of Trimble's  expenditures on research and development over the last three
+fiscal years.
+
+
+
+
+
+                                                 Fiscal Years ended
+                            ----------------------------------------------------
+                               December 31,       January 1,         January 2,
+                                   1999             1999               1998
+- --------------------------------------------------------------------------------
+(In thousands)
+
+Research and development        $ 36,493          $ 45,763             $ 38,242
+
+
+     Often a new product is developed  initially for an individual  customer who
+is willing to purchase  development-stage  products.  We have used feedback from
+such  initial  customers as a primary  source of  information  in designing  and
+refining our products and in defining, with greater precision, customer needs in
+emerging market areas.  During 1996, Trimble  established an advanced technology
+laboratory  where we devote a portion of our corporate  research and development
+expenditures to advance core GPS technology and its integration into synergistic
+technologies  such as  communications,  sensors,  and information  technologies.
+These  technological   advances  are  sometimes  supported  financially  through
+strategic alliances and partnerships.
+
+     * Trimble  expects that a  significant  portion of future  revenues will be
+derived  from  sales of newly  introduced  products.  Consequently,  our  future
+success  depends in part on our ability to  continue to develop new  competitive
+products with timely market  introduction.  Advances in product  technology will
+require continued substantial investment in research and development in order to
+maintain  and  enhance  our  market  position.   Development  and  manufacturing
+schedules for technology products are difficult to predict,  and there can be no
+assurance that we will achieve  timely  initial  customer sales of new products.
+The timely  availability  of these products in volume,  and their  acceptance by
+customers,  are important to Trimble's future success. In addition,  some of our
+products are subject to governmental and similar  certifications before they can
+be sold. For example,  CE certification  for radiated  emissions is required for
+most GPS receiver  products sold in the European  Union.  An inability to obtain
+such  certifications  in a timely  manner  could have an  adverse  effect on our
+operating results.
+
+Manufacturing
+
+     Trimble  seeks to be a low-cost  provider and to serve the growth in demand
+for GPS-based products and systems through the outsourcing of manufacturing, and
+the design of products around a common core of receivers.
+
+     On August  10,  1999,  Trimble  signed  an Asset  Purchase  Agreement  with
+Solectron  Corporation  and  Solectron  Federal  Systems,  Inc.   (collectively,
+"Solectron"). The closing of the transaction occurred on August 13, 1999. At the
+closing  of the Asset  Purchase  Agreement,  Trimble  transferred  to  Solectron
+substantially all of our tangible  manufacturing assets located at the Company's
+Sunnyvale,  California,  campus.  These  assets  include  but are not limited to
+equipment,  fixtures and work in progress, as well as certain contract and other
+intangible  assets  and  rights,  together  with  certain  related  obligations,
+including  but  not  limited  to  real  property  subleases  covering  Trimble's
+manufacturing floor space, and outstanding purchase order commitments. The Asset
+Purchase Agreement also provided for Solectron's  subsequent purchase, on August
+30, 1999, of Trimble's entire component inventory on hand as of August 13, 1999.
+
+     Concurrent  with the closing of the Asset Purchase  Agreement,  Trimble and
+Solectron also entered into a Supply  Agreement.  The Supply Agreement  provides
+for the exclusive  manufacture by Solectron of almost all Trimble products for a
+period of three years. In addition,  Trimble maintains a manufacturing  facility
+in Austin,  Texas,  primarily  focused on FAA certified  products for commercial
+aviation and military systems.
+
+     Solectron offered  employment to approximately  230 Trimble  manufacturing,
+engineering  and  related  support  personnel,   and  Trimble  understands  that
+substantially  all  such  employees  initially  accepted  such  employment  with
+Solectron.
+
+     * The  utilization of Electronic  Manufacturing  Services (EMS) provided by
+Solectron  will  enable  the  management  of  Trimble  to focus on the true core
+competencies  of Trimble's  business,  while still  deriving the benefits from a
+world-class manufacturing organization.  Benefits which Trimble hopes to receive
+from this outsourcing of manufacturing include:
+
+     o The purchasing power of a company with a multibillion-dollar  procurement
+       budget.
+     o Supply chain management and order fulfillment models developed to support
+       the stringent demands of current customers.
+
+
+
+
+     o Flexibility and ability to respond to upside/market  opportunities due to
+       the large scale of Solectron's manufacturing capacity.
+     o Manufacturing,  service  and  distribution  capabilities  on a worldwide
+       scale, enabling Trimble to provide more cost-effective supply solutions,
+       closer to its customers.
+     o Manufacturing  practices  yielding stable  processes and providing better
+       quality output.
+     o Availability  of the latest  and most  cost-effective  product  assembly
+       technologies.
+     o Provision  of latest  design  services  to  participate  in the  product
+       development   cycle   with  a  fresh   and   unbiased   focus  on  design
+       for manufacturability, lower cost, higher quality and higher reliability.
+
+     Trimble will continue to provide state-of-the art Computer Aided Design and
+Computer  Integrated  Manufacturing  service  capabilities  to  the  development
+community relating to PCB layout, assembly drawing and schematic development. We
+intend to remain  self-sufficient  in this field to ensure that the  development
+entities  can have the  maximum  benefit  from the  utilization  of their  time,
+contributing to faster and more effective product release cycles.
+
+     Trimble  maintains quality control  procedures for its products,  including
+testing during design, prototype, and pilot stages of production, and inspection
+and testing of finished products using automated test equipment.
+
+     Trimble takes a modular and upgradable  approach to its products,  building
+around a common core of GPS  receivers  with  customized  software  and hardware
+systems to analyze and present  position data. Our core receiver  technology has
+evolved since the  development of our first GPS receiver  product in 1984, as we
+have worked to reduce the size, weight,  power consumption and cost of the basic
+GPS receiver. In this process, we have designed our own semi-custom, single-chip
+GPS processor.
+
+Backlog
+
+     Trimble  believes that due to the volume of products  delivered  from shelf
+inventories and the shortening of product delivery  schedules,  backlog is not a
+meaningful  indicator of future business prospects.  Therefore,  we believe that
+backlog information is not material to an understanding of our business.
+
+Patents, Trademarks, and Licenses
+
+     Trimble currently holds approximately 280 U.S. patents and 18 related
+foreign  patents that expire at various  dates no earlier than 2005. It also has
+more than 180 U.S. and foreign patent applications pending. We currently license
+certain  peripheral   aspects  of  our  technology  from  Spectrum   Information
+Technologies and GeoResearch.
+
+     Although we believe that our patents and trademarks  have value,  there can
+be no assurance that those patents and trademarks, or any additional patents and
+trademarks  that  may  be  obtained  in  the  future,  will  provide  meaningful
+protection from  competition.  We actively  develop and protect our intellectual
+property through a program of patenting, enforcement, and licensing.
+
+     We do not  believe  that  any of our  products  infringe  patent  or  other
+proprietary  rights of third parties,  but we cannot be certain that they do not
+do so. (See Note 17 to  Consolidated  Financial  Statements.) If infringement is
+alleged,  legal defense  costs could be material,  and there can be no assurance
+that the necessary  licenses could be obtained on terms or conditions that would
+not have a material adverse effect on our profitability.
+
+     In the second quarter of 1997,  Trimble expanded a prior license  agreement
+with Pioneer Electronic  Corporation for certain of the technology  contained in
+our TANS product for inclusion in in-vehicle  navigation products sold in Japan.
+We received a one-time  $2.2  million  licensing  fee in  consideration  for the
+expansion of this license.
+
+     * Trimble  expects  that we will enter into  other  licensing  arrangements
+relating to its technologies.
+
+     "Trimble"  with the  sextant  logo,  "Trimble  Navigation,"  "GeoExplorer,"
+"Flightmate,"  "GPS Total  Station,"  "Scout GPS," and "Aspen" are trademarks of
+Trimble Navigation Limited, registered in the United States and other countries.
+Additional  trademarks are pending.  Trimble Navigation Limited acknowledges the
+trademarks  of other  organizations  for their  respective  products or services
+mentioned in this document.
+
+
+
+
+Employees
+
+     As of December 31, 1999, Trimble employed 978 persons:  317 in research and
+product development,  400 in sales and marketing, 118 in manufacturing,  and 143
+in administration  and finance.  Of these, 75 were located in Europe, 175 in New
+Zealand,  16 in Japan,  6 in Singapore,  5 in  Australia,  and 701 in the United
+States. We also employ temporary and contract  personnel.  Use of such personnel
+has  decreased  over the last year and is not  included  in the above  headcount
+numbers.  Competition  in recruiting  personnel is intense.  We believe that our
+continued  ability to attract and retain highly skilled  management,  marketing,
+and  technical  personnel  is essential  to our future  growth and success.  Our
+employees are not represented by a labor union, and we have not experienced work
+stoppages.
+
+     Trimble's  success  depends  in  part  on the  continued  contribution  and
+long-term  effectiveness  of our executive  officers and key  technical,  sales,
+marketing, support, research and development,  manufacturing, and administrative
+personnel, many of whom would be difficult to replace.
+
+
+
+
+Executive Officers of the Company
+
+     The names,  ages, and positions of the Company's  executive  officers as of
+March 27, 2000 are as follows:
+
+Name                          Age                 Position
+- --------------------------------------------------------------------------------
+Steven W. Berglund........... 48     President, Chief Executive Officer
+Mary Ellen Genovese.......... 40     Vice President, Finance, Chief Financial
+                                     Officer and Corporate Controller
+Charles E. Armiger, Jr....... 45     Vice President, Worldwide Sales
+David M. Hall................ 51     Group Vice President, Mobile and Timing
+                                     Technologies
+Patrick J. Hehir............. 38     Senior Vice President, Chief Manufacturing
+                                     Officer
+John E. Huey................. 50     Treasurer
+Ron C. Hyatt................. 60     Group Vice President, Precision Positioning
+Michael W. Lesyna............ 39     Vice President, Strategic Marketing
+Bruce E. Peetz............... 48     Vice President, Advanced Technology and
+                                     Systems
+
+     All officers serve at the  discretion of the Board of Directors.  There are
+no family  relationships  between any of the directors or executive  officers of
+the Company.
+
+     Steven W. Berglund joined Trimble as President and Chief Executive  Officer
+in March  1999.  Mr.  Berglund  has a  diverse  background  with  experience  in
+engineering,  manufacturing,  finance and global operations.  Most recently, Mr.
+Berglund  was  president  of  Spectra  Precision,  Inc.,  with  global  sales of
+approximately  $200 million,  develops and manufactures  surveying  instruments,
+laser-based construction alignment instruments, and construction machine control
+systems.  During his fourteen years with  Spectra-Physics,  Mr.  Berglund held a
+variety of positions that included four years based in Europe.  Prior to Spectra
+Precision,  Mr.  Berglund  spent a number of years in the early  1980s at Varian
+Associates  in Palo Alto where he held a number of  planning  and  manufacturing
+roles. Varian is a technology company specializing in microwave  communications,
+semiconductor  manufacturing  equipment,  analytical  instruments,  and  medical
+diagnostic  equipment.  Mr.  Berglund began his career as a process  engineer at
+Eastman  Kodak in Rochester,  New York.  He attended the  University of Oslo and
+University  of  Minnesota  where he received a B.S. in chemical  engineering  in
+1974. He received his MBA from the University of Rochester in 1977.
+
+     Mary Ellen  Genovese  joined  Trimble in  December  1992 as  controller  of
+manufacturing  operations.  From  1994 to  1997  she  served  as  business  unit
+controller  for software and  component  technologies,  and for the tracking and
+communications   business  unit.  She  was  appointed  corporate  controller  in
+October1997  and vice president of finance and corporate  controller in February
+1998.  Currently,  she is Trimble's  interim chief financial  officer.  Prior to
+joining  Trimble,  Mrs.  Genovese was chief financial  officer and president for
+Minton Co., a distributing  company to the commercial building market, from 1991
+to 1992. In her position as chief financial officer, she was responsible for the
+accounting,  management  reporting  and  bank  and  investor  financing  for the
+company.  In March of 1992, the board of directors  asked her to assume the role
+of president of Minton to reorganize the company,  including the  divestiture of
+the  manufacturing  operations.  Prior to 1991,  she  worked  for 10 years  with
+General Signal Corporation.  She was appointed European financial  controller in
+July 1990, and was responsible  for the company's  three European  operations --
+Germany,  France  and the United  Kingdom.  From 1988 to 1990 she served as unit
+financial officer -- for General Signal's  Semiconductor  Systems Division.  She
+held several  other  management  positions,  including  materials  manager,  and
+controller of manufacturing  operation and international projects controller for
+General Signal's  Ultratech Stepper Division from 1984 to 1988. Mrs. Genovese is
+a Certified Public Accountant and received her B.S. in accounting from Fairfield
+University in Connecticut in 1981.
+
+     Charles  E.  Armiger,  Jr.  joined  Trimble  in  January  1989 as Sales and
+Marketing Manager for aviation products.  From January 1991 to December 1993, he
+served as Director of U.S. Domestic Sales. Mr. Armiger held the post of Director
+of Sales for North American West from January 1993 to November 1994. In December
+1994 he  moved to  Trimble's  European  office  in  Hook,  England,  to serve as
+Director of Sales for Europe,  the Middle East and Africa. In September 1996, he
+was  appointed to serve as Vice  President  for  Commercial  Systems  Sales.  In
+September  1998, Mr.  Armiger was appointed  Vice President of Worldwide  Sales.
+Prior to joining  Trimble,  he was  Director  of Sales and  Marketing  for ARNAV
+Systems,  Inc. He received a B.S.  degree in Business from the University of the
+State of New York, Regents College, in 1996.
+
+
+
+
+
+     David M. Hall joined  Trimble in February  1994 as Managing  Director,  OEM
+products.  In November 1996 he was appointed Vice President and General  Manager
+of  the  Software  and  Component   Technologies   business  unit,  focusing  on
+application and operating  system  software,  component board level, and chipset
+volume aspects of the GPS business. In November 1998 he was appointed Group Vice
+President of the Mobile and Timing  Technologies  business unit, managing mobile
+positioning and communications,  timing,  automotive,  military,  and commercial
+aviation  businesses.   Previously,   he  worked  for  Raychem  Corporation  for
+twenty-one years in a variety of positions and divisions.  He served as Director
+of Sales  and  Marketing  for the  Automotive  Division,  National  Distribution
+Manager  for the  Electronics  Sector,  and  Director of  Marketing  and Product
+Management  for the  Interconnect  Systems  Division,  as well as District Sales
+Manager,  Area Sales Manager, and Operations Manager. Mr. Hall received his B.S.
+degree in  Industrial  Technology  in 1971 and his MBA in Marketing  and Finance
+in1973 from the  California  Polytechnic  State  University  in San Luis Obispo,
+California.
+
+     Patrick J. Hehir joined  Trimble in February 1999 as Senior Vice  President
+and Chief Manufacturing Officer. Prior to Trimble, Mr. Hehir worked for Dovatron
+International,  where he held several  positions  during his eight-year  tenure,
+including quality/program manager, director of operations, executive director of
+operations and vice president of worldwide business development.  Dovatron, a $1
+billion  international  manufacturing  company with offices in Ireland,  Mexico,
+Asia,  Eastern  Europe and the U.S.,  serves  clients  such as  Hewlett-Packard,
+Hughes  Corporation,  I.B.M.,  and Lucent  Technologies.  Prior to Dovatron,  he
+worked  for  Western  Digital in several  positions,  including  process/quality
+engineer,  quality improvement process coordinator,  senior quality engineer and
+quality manager. Mr. Hehir also held process engineering, production and quality
+positions at Pulse  Engineering in Ireland.  He has a broad range of educational
+qualifications  from  technical  colleges  and  universities  in Ireland and the
+United  Kingdom.  He graduated  from Galway's  Institute of  Technology  with an
+electronic  engineering  certificate  in 1981.  He received a  quality-assurance
+post-graduate diploma from the Galway's University College in 1984. In 1987, Mr.
+Hehir  received a production  and  operations  management  certificate  from the
+United  Kingdom's  Institute  of  Industrial  Engineering,  and a  post-graduate
+diploma in health,  safety and social welfare from Cork's University  College in
+1993. Mr. Hehir also served on Ireland's technical committee for the development
+of the environmental system standard,  ISO 14000, published by the International
+Standards Organization.
+
+     John E. Huey  joined  Trimble  in 1993 as  Director,  Corporate  Credit and
+Collections.  He was  promoted to Assistant  Treasurer in 1995 and  Treasurer in
+1996.  As  Treasurer,  Mr. Huey has  responsibility  for the  Company's  banking
+relationships including syndicated credit facilities, domestic and international
+cash management, credit/collection/DSO management and worldwide risk management,
+including  setting  and  execution  of the  Company's  hedging  policy and stock
+administration.   Past  business   experience  includes  two  years  with  ENTEX
+Information   Services,   five  years  with  National  Refractories  &  Minerals
+Corporation  (formerly  Kaiser  Refractories),  and  thirteen  years with Kaiser
+Aluminum & Chemical  Sales,  Inc. He has held  positions  in Credit  Management,
+Market Research,  Inventory Control, Sales, and as an Assistant Controller.  Mr.
+Huey  received  his B.A.  degree in Business  Administration  in 1971 from Thiel
+College  in  Greenville,  Pennsylvania,  and an MBA in 1972 from  West  Virginia
+University in Morgantown, West Virginia.
+
+         Ron  C.  Hyatt   joined   Trimble  in  August   1983  as   Director  of
+Instrumentation Products. In 1985, he was appointed Vice President for Surveying
+and  Mapping   Products,   managing  the  marketing  and  application   software
+development  aspects of the business  until  February  1993.  In January 1997 he
+returned to the Company as Senior Vice  President of Trimble  Labs,  focusing on
+next-generation  ASIC developments.  In November 1998, Mr. Hyatt was promoted to
+Group Vice  President of Precision  Positioning  Group.  He is  responsible  for
+managing surveying,  mapping/GIS,  and machine  guidance/control  product lines.
+Prior to joining Trimble, Mr. Hyatt worked for Hewlett-Packard from 1964 to 1983
+in various engineering and management positions, focusing on precision frequency
+and time  instrumentation.  Mr.  Hyatt  received his B.S.  degree in  electrical
+engineering from Texas Tech University in 1962 and his M.S. degree in electrical
+engineering from Stanford University in 1963.
+
+     Michael W. Lesyna joined Trimble as Vice  President of Strategic  Marketing
+in September 1999. Mr. Lesyna brings broad experience in developing business and
+marketing  strategies for  high-technology  companies.  Mr. Lesyna joins Trimble
+from Booz Allen & Hamilton, where he spent six years, most recently serving as a
+principal in the operations management group. While at Booz Allen & Hamilton, he
+was  responsible  for advising  companies  on a wide range of strategic  issues.
+Prior to Booz  Allen &  Hamilton,  Mr.  Lesyna  held a  variety  of  engineering
+positions at Allied Signal Aerospace. He served as a project engineer for Allied
+Signal's European consortium in Germany, was a development and test engineer for
+the altitude  chamber,  and was a design  engineer for the  company's  first jet
+fighter engine afterburner. Mr. Lesyna received an MBA from Stanford University.
+He also  received  an MS in  mechanical  engineering  and a B.S.  in  mechanical
+engineering from Stanford.
+
+
+
+
+     Bruce E.  Peetz  joined  Trimble in June 1988 as  Program  Manager  for GPS
+Systems.  From January 1990 to January 1994 he served as Development Manager for
+commercial  dual-frequency  products,  and from January 1993 to December 1995 he
+served as Engineering Manager for Surveying and Core Engineering. In 1996 he was
+appointed  General  Manager of the Land  Surveying  unit, and from February 1998
+started the Advanced Systems division as General Manager. In October 1998 he was
+named Vice President of Advanced Technology and Systems,  consolidating  Systems
+and  Trimble  Laboratories.  Prior to joining  Trimble,  Mr.  Peetz  served in a
+variety of engineering and management  positions  during eleven years at Hewlett
+Packard and four years at Hughes Aircraft  Company.  Mr. Peetz received his B.S.
+degree in Electrical Engineering from the Massachusetts  Institute of Technology
+in 1973, and did graduate work in computer science at UCLA.
+
+Item 2.           Properties
+
+     Trimble  currently  leases an aggregate  of 396,500  square feet in fifteen
+buildings in Sunnyvale,  California.  Trimble uses approximately  221,000 square
+feet; and the balance is subleased to others.  The leases and subleases on these
+buildings  expire at various dates  through  2004.  In addition,  we lease three
+buildings in Austin, Texas,  totaling  approximately 50,600 square feet. Trimble
+uses  approximately  25,000  square  feet  to  manufacture   GPS-based  aviation
+products.  The balance is subleased;  the leases and subleases expire at various
+dates  through  2004.  We also lease  65,000  square  feet in two  buildings  in
+Christchurch, New Zealand, for software development. These leases expire in 2005
+and 2010.  Trimble's  two largest  international  sales offices are those in the
+United Kingdom  (15,465 square feet) and Japan (5,640 square feet). In addition,
+our sales offices in Australia,  China, France, Germany, Hungary, Italy, Mexico,
+Spain, Singapore, Russia, and in various cities throughout the United States are
+leased.  Trimble currently does not own any real estate or buildings.  Trimble's
+international office leases expire at various dates through 2005. Certain of the
+leases have  renewal  options.  We believe that our  facilities  are adequate to
+support our current and anticipated near-term future operations.
+
+Item 3.           Legal Proceedings
+
+     The information with respect to legal proceedings  required by this item is
+included in Part II, Item 8, Note 17 to the Consolidated  Financial  Statements,
+hereof under the caption "Pending Matters."
+
+Item 4.           Submission of Matters to a Vote of Security Holders
+
+     Not applicable.
+
+
+
+
+
+
+                                     PART II
+
+Item 5.           Market for Registrant's Common Equity and Related Stockholder
+                  Matters
+
+     Trimble's  Common Stock is traded on the Nasdaq Stock  Market(R)  under the
+symbol TRMB. The following  table sets forth,  for the quarters  indicated,  the
+range of high and low closing  sales  prices for  Trimble's  Common Stock on the
+Nasdaq Stock Market(R):
+
+                                         High              Low
+
+               1999:
+
+                        Fourth           23 1/8            10 1/2
+                        Third            13 1/4            9
+                        Second           13 3/4            9 3/8
+                        First            10 1/2            7 1/4
+
+               1998:
+
+                        Fourth           10 1/4            7
+                        Third            16 3/8            9 1/4
+                        Second           19 13/16          13 7/8
+                        First            24 3/8            17 1/4
+
+     Trimble had 1,357 registered shareholders of record as of March 13, 2000.
+
+     Trimble's stock price is subject to significant volatility.  If revenues or
+earnings fail to meet the expectations of the investment community,  there could
+be an immediate  and  significant  impact on the trading price for the Company's
+stock.  Due to stock market forces that are beyond our control,  and due also to
+the nature of our business, such short falls can be sudden.
+
+     Trimble  has  never  paid  cash  dividends  on its  Common  Stock.  Trimble
+presently  intends to retain its  earnings  to finance  the  development  of its
+business,  and does not  presently  intend to declare any cash  dividends in the
+foreseeable  future.  Under our  current  $50,000,000  revolving  line of credit
+agreement,  Trimble is  restricted  from paying  dividends  without the lender's
+consent. Under Trimble's Note Purchase Agreement,  pursuant to which the Company
+issued $30,000,000 of its subordinated promissory notes in June 1994, Trimble is
+also restricted  from paying  dividends.  See Notes 7 and 9 to the  Consolidated
+Financial Statements contained in Item 8.
+
+
+
+ Item 6.  Selected Financial Data
+
+ HISTORICAL FINANCIAL REVIEW
+
+ Summary Consolidated Statements of Operations Data
+
+
+
+
+
+Item 7.           Management's Discussion and Analysis of Financial Condition
+                  and Results of Operations
+
+RESULTS OF CONTINUING OPERATIONS
+
+     In fiscal  1999,  Trimble's  annual  revenues  from  continuing  operations
+increased to $271.4  million from $268.3 million in fiscal 1998. In fiscal 1999,
+Trimble had net income from continuing operations of $18.7 million, or $0.82 per
+share,  diluted,  compared  to a net loss from  continuing  operations  of $27.4
+million, or ($1.22) per share, diluted, in fiscal 1998. The total net income for
+fiscal 1999, including discontinued operations,  was $21.6 million, or $0.95 per
+share,  diluted,  compared  to a total  net  loss  for  fiscal  1998,  including
+discontinued operations, of $53.4 million, or ($2.38) per share, diluted.
+
+The following table sets forth,  for the periods  indicated,  certain  financial
+data as a percentage of total revenue:
+
+
+     Revenue.  In fiscal 1999,  total revenue  increased to $271.4  million from
+$268.3  million in fiscal 1998,  which  represents a percentage  increase of 1%.
+Total revenue  increased in fiscal 1998 to $268.3 million from $266.4 million in
+fiscal  1997,  which  represents  a  percentage  increase  of less than 1%.  The
+following table breaks out Trimble's revenues by industry segment:
+
+
+
+Precision Positioning Group
+
+     The Precision  Positioning  Group  revenues  decreased by 3% in fiscal 1999
+over  fiscal  1998.  The 1999  revenue  decrease  compared to 1998 is due to the
+following:
+
+     o Sales were impacted  from the change in commission  structure for some of
+       our products from commission dealers to buy/sell  dealers in fiscal 1999.
+       Under the buy/sell arrangement, the product is discounted to the dealer,
+       as opposed to end-user pricing with commissions recorded under sales and
+       marketing expense.
+     o Sales  to  Original  Equipment  Manufacturers  such  as CNH  Global  and
+       Caterpillar  decreased as compared to 1998 sales due to an economic
+       slowdown in the United States for mining and agriculture related
+       products.
+
+
+
+
+     o In the fourth  quarter of 1999,  delivery  problems due to critical  part
+       shortages in our supply chain,  and transitional  issues with outsourcing
+       our manufacturing, had a negative impact on revenue for the fiscal year
+       ended 1999.
+
+     Precision  Positioning  Group  revenues  had a growth rate of 16% in fiscal
+1998 over fiscal 1997.  The 1998 increase  compared to 1997 was primarily due to
+increases in revenues in the land surveying, marine surveying,  mapping, and GIS
+systems, and mining, construction, and agriculture markets. The increase in land
+surveying was due to the continued  strong customer  acceptance of Trimble's GPS
+Total  Station 4800 and 4700  products.  Also,  the  increase in marine  survey,
+mapping,  and GIS,  as well as mining,  construction  and  agriculture  reflects
+increased demand for these products.
+
+Mobile and Timing Technologies
+
+     Mobile and Timing  Technologies  revenues  increased 8% in fiscal 1999 over
+fiscal 1998. The increase is attributable to strong growth in our automotive and
+timing  markets  which was partially  offset by decreases in commercial  marine,
+commercial air transport, and military systems, due to the following:
+
+     o Trimble  decided to exit the  commercial  marine  business  in the fourth
+       quarter  of 1998 and sold the last of such  products  in the  second
+       quarter of 1999.
+     o Commercial  air transport was down, due to decreases in market demand and
+       the successful  conclusion of shipments in fiscal 1998 to American
+       Airlines and Continental Airlines through our Honeywell alliance,  which
+       were not repeated in fiscal 1999.
+     o Military  systems  declined due to the completion of our CUGR contract in
+       the first quarter of 1998 which sales were not repeated in 1999.
+
+     The Mobile and Timing  Technologies  revenues  decreased 17% in fiscal 1998
+from fiscal 1997. The 1998 decrease was primarily in automotive,  commercial air
+transport and military aerospace systems.  The softness in the automotive market
+was due to the financial difficulties of a major customer and a delay in our new
+product  introductions.  The  commercial  air  transport  decrease  was  due  to
+less-than-anticipated  demand from Honeywell,  and the military aerospace system
+decrease was due to the large dollar shipment on the CUGR contract in the fourth
+quarter of 1997, which was not repeated in 1998. In addition,  Mobile and Timing
+Technologies  revenues  in  1997,  included  $1.8  million  in  revenues  from a
+development   agreement  in  connection   with  an  irrevocable   nonrefundable,
+nonrecurring engineering fee and a nonrecurring one-time $2.2 million technology
+license from Pioneer Electronic  Corporation in connection with expansion of its
+prior license for in-car navigation.
+
+     * Military  sales are highly  dependent  on  contracts  that are subject to
+government approval and are,  therefore,  expected to continue to fluctuate from
+period to period.  Trimble believes that  opportunities in this market have been
+substantially reduced by cutbacks in U.S. and foreign military spending.
+
+Export Sales
+
+     * Export sales from domestic operations,  as a percentage of total revenue,
+were 38% in 1999, 34% in 1998, and 28% in 1997. Sales to unaffiliated  customers
+in foreign  locations,  as a percentage of total revenue,  were 52% in 1999, and
+46% in both 1998 and 1997.  Trimble  anticipates  that export  revenue and sales
+made by its subsidiaries in locations  outside the U.S. will continue to account
+for a significant portion of its revenue. For this reason, Trimble is subject to
+the risks inherent in these sales,  including  unexpected  changes in regulatory
+requirements,  exchange  rates,  governmental  approval,  and  tariffs  or other
+barriers.  Even though the U.S. Government  announced on March 29, 1996, that it
+would  support and  maintain  the GPS system,  as well as  eliminate  the use of
+Selective  Availability  (SA) -- a method of degrading GPS accuracy -- there may
+be a reluctance in certain  foreign  markets to purchase  products  based on GPS
+technology,  given the control of GPS by the U.S. Government.  Trimble's results
+of  operations  could be  adversely  affected  if we were  unable to continue to
+generate significant sales in locations outside the U.S.
+
+     No  single  customer,  including  the  U.S.  Government  and its  agencies,
+accounted for 10% or more of Trimble's  total  revenues in fiscal 1999,  1998 or
+1997. It is possible; however, that in future periods the failure of one or more
+large  customers to purchase  products in quantities  anticipated by the Company
+may adversely affect the results of operations.
+
+     * Gross Margin.  Gross margin varies due to a number of factors,  including
+product mix, domestic versus international sales,  customer type, the effects of
+production volumes and fixed  manufacturing costs on unit product
+
+
+
+
+costs,  and new product  start-up  costs.  In fiscal 1999, the gross margin
+percentage on product sales was 53%,  compared with 47% in 1998 and 53% in 1997.
+The   increase  in  gross  margin   percentages   primarily   reflect   improved
+manufacturing   cost  controls   achieved  through  the   consolidation  of  the
+manufacturing  organization,  resulting  in  improved  efficiencies  and reduced
+inventory.  In  addition,  gross  margins in the second half of fiscal 1999 were
+favorably  impacted by the cost benefits of  outsourcing  our  manufacturing  to
+Solectron.  The 1997 margins were enhanced by the positive  impact of nonproduct
+revenues of $2.2 million recognized from Pioneer Electronic Corporation and from
+a  development  agreement  in  connection  with an  irrevocable,  nonrefundable,
+nonrecurring engineering fee of $1.8 million; however, there can be no assurance
+that similar items will recur in the future. In addition, because of product mix
+changes within and among the industry markets,  market pressures on unit selling
+prices,  fluctuations in unit manufacturing  costs, and other factors,  positive
+future gross margins cannot be assured.
+
+     * Trimble  expects that in the future a higher  percentage  of its business
+will be conducted  through  alliances  with strategic  partners.  As a result of
+volume  pricing and the  assumption of certain  operating  costs by the partner,
+margins  on this  business  are  likely  to be  lower  than  sales  directly  to
+end-users.
+
+     Operating  Expenses.  The following table shows operating  expenses for the
+periods  indicated.  It  should  be  read  in  conjunction  with  the  narrative
+descriptions of those operating expenses below:
+
+
+                                               Fiscal Years Ended
+                           ----------------------------------------------------
+                               December 31,       January 1,        January 2,
+                                  1999               1999              1998
+- -------------------------------------------------------------------------------
+(In thousands)
+
+Research and development         $ 36,493           $ 45,763          $ 38,242
+Sales and marketing                53,543             61,874            57,661
+General and administrative         33,750             33,245            27,424
+Restructuring charges                   -             10,280                 -
+                           ---------------    ---------------     -------------
+ Total                          $ 123,786          $ 151,162         $ 123,327
+                           ---------------    ---------------     -------------
+
+     Research and Development.  Research and development  spending  decreased in
+absolute  dollars during fiscal 1999,  representing  13% of revenues as compared
+with 17% in 1998 and 14% in 1997. The lower research and development expenses in
+1999 are due primarily to Trimble's  receiving  approximately  $4.2 million more
+funds from cost reimbursement  projects in 1999 as compared to 1998. Also, there
+were  decreases  in our  expenses  of  approximately  $5.0  million  related  to
+electronic parts, depreciation, travel, personnel, and other supplies as part of
+the Company's  restructuring  plans which were  implemented  in the last half of
+fiscal 1998.
+
+     The  dollar  increase  from  1997  to 1998 is due  primarily  to  Trimble's
+receiving approximately$3.5 million fewer funds from cost reimbursement projects
+in 1998 as compared with 1997.
+
+     Trimble plans to continue its aggressive development of future products.
+
+     * Sales and Marketing. Sales and marketing expenses decreased during fiscal
+1999,  representing  20% of  revenues,  as compared  with 23% in 1998 and 22% in
+1997. The primary reason for the dollar and percentage decrease in expenses from
+1998  to  1999  is  decreases  of  approximately   $7.7  million  in  personnel,
+consultants,  travel,  advertising,  trade shows,  expensed demo equipment,  and
+other office  supplies as part of the Company's  restructuring  plan,  which was
+implemented in the last half of fiscal 1998. In addition, sales commissions were
+lower as a percentage of sales,  due to the change in dealer  structure for some
+of our product lines from commission dealers to buy/sell.
+
+     The primary reason for the dollar and percentage increases in expenses from
+1997 to 1998 was an increase of  approximately  $2.1  million in  personnel  and
+related  expenses  that  accompany  an increase in the number of  employees.  In
+addition,  Trimble  experienced  increases  in  expenses of  approximately  $1.1
+million related to trade shows, advertising, and demo equipment expenses.
+
+     * Trimble's future growth will depend in part on the timely development and
+continued  viability  of the markets in which we currently  compete,  and on our
+ability to  continue to identify  and exploit new markets for our  products.  In
+addition, we have encountered  significant  competition in selected markets, and
+we expect  such  competition  to  intensify  as the market for GPS  applications
+receives  acceptance.  Several of Trimble's  competitors
+
+
+
+
+are major corporations with substantially greater financial, technical, and
+marketing  resources.  Increased  competition may result in reduced market share
+and is likely to result in price reductions of GPS-based  products,  which could
+adversely affect Trimble's revenues and profitability.
+
+     General and Administrative.  General and administrative  expenses increased
+in absolute  dollars  during  fiscal  1999,  representing  12% of  revenues,  as
+compared  with 12% in 1998 and 10% in  1997.  The  increase  in  fiscal  1999 as
+compared to 1998 is due to an increase in the  allowance  for doubtful  accounts
+related to  customers  in South  America  for 1999;  and an increase in building
+rental costs due to the renewal of many of our building  leases.  This  increase
+was  partially  offset  by  space  consolidations  as part of our  restructuring
+efforts in the fourth quarter of 1998.
+
+     The  increase  from  1997  to 1998  was due  primarily  to an  increase  of
+approximately  $1.7 million in personnel and the related expenses that accompany
+an increase in the number of employees and  consultants,  as well as an increase
+of  approximately  $1.7  million  in  outside  services  related  to legal  fees
+associated with certain litigation matters during 1998.
+
+     Restructuring  Charges.  As noted in Note 8 to the  Consolidated  Financial
+Statements   during  the  year  ended  January  1,  1999,   Trimble  recorded  a
+restructuring  charge of $10.3 million classified in operating  expenses.  These
+charges were a result of Trimble's  reorganization to improve business processes
+and   to   decrease   organizational   redundancies,   to   improve   management
+accountability and to improve our focus on profitable operations. As a result of
+the  reorganization,   Trimble  downsized  its  operations,  including  reducing
+headcount  and  facilities   space  usage,   and  canceled  its   enterprisewide
+information  system project and certain research and development  projects.  The
+impact of these  decisions  was that  significant  amounts of our fixed  assets,
+prepaid  expenses,  and  purchased  technology  had been  impaired  and  certain
+liabilities  incurred.  Trimble  wrote  down the  related  assets  to their  net
+realizable values and made provisions for the estimated liabilities.
+
+     The  elements  of the  charges  incurred  in  fiscal  1998 and the  amounts
+remaining  at  December  31,  1999,  on the  balance  sheet are as  follows  (in
+thousands):
+
+
+     The cash expenditures  associated with the remaining obligations will occur
+primarily in fiscal 2000.
+
+     Nonoperating  income (expense),  net.Nonoperating  income  (expense),  net,
+includes  interest  income and  expense,  as well as gains and losses on foreign
+currency transactions.
+
+     Foreign exchange gains were $28,000 in fiscal 1999,  compared with gains of
+$234,000 in 1998 and 1997.  Trimble's policy is to hedge its exposure to foreign
+currency  transactions  in order to  minimize  the  effect of changes in foreign
+currency exchange rates on consolidated results of operations.  Gains and losses
+arising  from  foreign  currency  forward  contracts  offset  gains  and  losses
+resulting from the underlying hedged transactions.
+
+     Interest  income  increased  in 1999 from 1998 and  decreased  in 1998 from
+1997.  The higher  interest  income in 1999 is due  primarily  to the  increased
+interest  income received on cash and short-term  investments  because of higher
+average balance for fiscal 1999 over fiscal 1998.
+
+     The  decrease  in 1998  from  1997 was  because  of lower  interest  income
+received on cash and short-term  investments  due to lower average  balances for
+the year, over the prior year.
+
+     Interest  expense  decreased  slightly in 1999 due to lower fees in foreign
+locations.  Interest expense includes interest on a $30.0 million note issued in
+August  1995,  and fees on unused  lines of  credit.  (See  Notes 7 and 9 to the
+Consolidated  Financial  Statements  for details of long-term  debt and lines of
+credit.)
+
+     Income  Tax  Provision.  Trimble's  effective  tax  rates  from  continuing
+operations  for  fiscal  years  1999,  1998 and 1997  are  10%,  (6%),  and 12%,
+respectively.  The 1999 and 1997  income  tax rates  are less  than the  federal
+
+
+
+
+
+statutory  rate of 35%, due  primarily to the  realization  of the benefits from
+prior net operating losses and previously reserved deferred tax assets. The 1998
+income tax rate  differs  from the federal  statutory  rate,  due  primarily  to
+foreign taxes and the inability to realize the benefit of net operating losses.
+
+     Inflation. The effects of inflation on Trimble's financial results have not
+been significant to date.
+
+LITIGATION
+
+     * Trimble is involved in a number of legal  matters as discussed in Note 17
+to the  Consolidated  Financial  Statements.  While  Trimble  does not expect to
+suffer  significant  adverse  effects  from  these  litigation  matters  or from
+unasserted claims, the nature of litigation is unpredictable and there can be no
+assurance that it will not do so.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     * At December  31,  1999,  Trimble had cash and cash  equivalents  of $49.3
+million and $52.7 million in  short-term  investments.  Trimble's  cash and cash
+equivalents and short-term  investments increased from the prior year, due to an
+increase  in net income and the  receipt of $26.9  million in cash as part of an
+agreement  with  Solectron  for  the  outsourcing  of  Trimble's   manufacturing
+operations  located in  Sunnyvale,  California  (See Note 4 to the  consolidated
+financial  statements).  Trimble's long-term debt consisted primarily of a $30.0
+million  note  obligation  due in 2001.  We had no debt  outstanding  under  our
+$50,000,000 unsecured line of credit but had issued certain letters of credit as
+of December 31, 1999,  amounting to approximately  $283,000.  Trimble has relied
+primarily on cash provided by operating and financing  activities  and net sales
+of short-term  investments to fund capital  expenditures,  the repurchase of the
+Company's common stock, and other investing activities. Management believes that
+its cash, cash equivalents,  and short-term  investment balances,  together with
+its existing credit line,  will be sufficient to meet its anticipated  operating
+cash needs for at least the next twelve months.
+
+     * In fiscal  1999,  the cash  provided by  operating  activities  was $23.6
+million,  as compared  to cash  provided  of $7.0  million in the  corresponding
+period in 1998.  Cash  provided by operating  activities  in 1999 arose from the
+Company's  net income,  plus  depreciation  and  amortization  and  decreases in
+inventories  and offset  partially  by  increases  in  accounts  receivable  and
+decreases in accrued  liabilities.  Inventory from  continuing  operations as of
+December 31, 1999  decreased  by $20.6  million  from the 1998  year-end  levels
+primarily,  due  to  the  transition  of  certain  manufacturing  operations  to
+Solectron as well as a focused  effort by Trimble to reduce  inventory by supply
+chain synchronization, reducing lead and cycle times, simplifying product lines,
+and implementing tighter control over its material forecasting process (See Note
+4 to the consolidated  financial  statements.)  Trimble's ability to continue to
+generate cash from operations will depend in a large part on revenues,  the rate
+of collections  of accounts  receivable,  and the  successful  management of the
+Solectron manufacturing relationship.
+
+     Cash provided by sales of common stock in 1999 represents the proceeds from
+purchases made by employees pursuant to Trimble's stock option plan and employee
+stock  purchase  plan,  and totaled $4.5 million for the year ended December 13,
+1999.
+
+     * In August 1997, Trimble entered into a three-year,  $50,000,000 unsecured
+revolving credit facility with four banks (the "Credit  Agreement").  The Credit
+Agreement  enables  Trimble to borrow up to  $50,000,000,  provided that certain
+financial  and other  covenants  are met. As of October 20, 1999,  Trimble,  the
+Agent, and the Lenders agreed to change and amend certain covenants for the life
+of the loan,  which expires in August of 2000. The $50,000,000  revolving credit
+facility was modified to include  Trimble's  prior separate  $5,000,000  line of
+credit and to simplify the entire arrangement. The Credit Agreement provides for
+payment of a commitment  fee of 0.25% and borrowings to bear interest at 1% over
+LIBOR if the total  funded  debt to EBITDA is less than or equal to 1.00  times,
+0.3% and borrowings to bear interest at 1.25% over LIBOR if the ratio is greater
+than 1.00 times and less than or equal to 2.00 times, or 0.4%, and borrowings to
+bear  interest at 1.75% over LIBOR if the ratio is greater  than 2.00 times.  In
+addition to  borrowing  at the  specified  LIBOR rate,  Trimble has the right to
+borrow with  interest at the higher of (i) one of the bank's  annual  prime rate
+and (ii) the  federal  funds rate plus 0.5%.  To date,  Trimble has not made any
+borrowings under the $50,000,00  unsecured  revolving  credit facility,  but has
+issued  certain  letters  of  credit  as of  December  31,  1999,  amounting  to
+approximately $283,000. In addition, Trimble is restricted from paying dividends
+under the terms of the Credit Agreement.
+
+     In June 1994, Trimble issued $30.0 million of subordinated promissory notes
+bearing  interest at an annual rate of 10%, with principal due on June 15, 2001.
+Interest payments are due monthly in arrears.  The notes are subordinated to the
+Company's  senior debt,  which is defined as all  pre-existing  indebtedness for
+borrowed money
+
+
+
+
+and certain future  indebtedness for borrowed money (including,  subject to
+certain  restrictions,  secured  bank  borrowings  and  borrowed  money  for the
+acquisition  of property and capital  equipment)  and trade debt incurred in the
+ordinary course of business. If Trimble prepays any portion of the principal, it
+is required to pay additional amounts if U.S. Treasury  obligations of a similar
+maturity  exceed  a  specified  yield.  Under  the  agreement,  Trimble  is also
+restricted from paying dividends.
+
+     The  issuance  of the  subordinated  promissory  notes  also  included  the
+issuance of warrants  entitling  holders to  purchase  400,000  shares of common
+stock at a price of $10.95 per share at any time through June 15, 2001.  The net
+proceeds of the notes were  $29,348,000.  The notes are  recorded as  noncurrent
+liabilities,  net of appraised fair value attributed to the warrants.  The value
+of the warrants and the issuance costs are being amortized to interest  expense,
+using the  interest  rate  method over the term of the  subordinated  promissory
+notes. The effective annual interest rate on the notes is 11.5%. Under the terms
+of the  note,  Trimble  is  required  to meet a minimum  consolidated  net worth
+requirement.   If  Trimble  falls  below  the  minimum  consolidated  net  worth
+requirement we could be in default of our loan covenants. Such events could have
+a material adverse effect on Trimble's operations and liquidity.
+
+     Trimble  announced in February  1996 that it had  approved a  discretionary
+program whereby up to 600,000 shares of its common stock could be repurchased on
+the open  market by the  Company to offset  the  potential  dilutive  effects to
+earnings  (loss) per share from the issuance of  additional  stock  options.  In
+1998,  Trimble approved the repurchase of an additional 1.6 million shares under
+the discretionary  program.  During 1997,  Trimble purchased 139,500 shares at a
+cost of $1.8 million.  During 1998,  Trimble  purchased 1.08 million shares at a
+cost of $16.1 million.  During fiscal 1999, no shares were repurchased under the
+discretionary program.
+
+     * Trimble  presently  expects  capital  expenditures  in fiscal  2000 to be
+approximately  $5.4 million,  primarily for computer  equipment,  software,  and
+leasehold improvements associated with business expansion.
+
+     Trimble  is  continually   evaluating  potential  external  investments  in
+technologies  related to its business and, to date,  has made  relatively  small
+strategic investments in a number of GPS related technology companies. There can
+be no assurance that any such outside investments made to date nor any potential
+future investments will be successful.
+
+     * Trimble has evaluated the issues raised by the introduction of the Single
+European  Currency (Euro) for initial  implementation as of January 1, 1999, and
+during the transition period through January 1, 2002. Trimble does not currently
+believe  that the  introduction  of the Euro will have a material  effect on its
+foreign exchange and hedging activities. Trimble has also assessed the potential
+impact  the  Euro  conversion  will  have  in  regard  to its  internal  systems
+accommodating Euro-denominated  transactions.  Trimble will continue to evaluate
+the impact of the Euro  introduction  over time,  based on  currently  available
+information.  Trimble does not currently  anticipate  any adverse  impact of the
+Euro conversion on the Company.
+
+YEAR 2000 IMPACT
+
+Year 2000 Issues
+
+     Computers and software,  as well as other equipment that relied on only two
+digits to identify or  represent a year may be unable to  accurately  process or
+display certain information at or after the Year 2000. This is commonly referred
+to as the "Year 2000  issue."  Trimble is not aware of any year 2000 issues that
+have  affected  its  business.  In  preparation  for the year 2000,  we incurred
+internal  staff costs as well as consulting  and other  expenses.  The year 2000
+expenses for external  services  totaled  less than $1.0  million.  During 1999,
+Trimble updated a significant  portion of its computer  software to be year 2000
+compliant.
+
+     * Trimble is also not aware of any  material  problems  with  customers  or
+suppliers.  Accordingly, Trimble does not anticipate incurring material expenses
+or experiencing any material operational disruption as a result of any year 2000
+issues.
+
+CERTAIN OTHER RISK FACTORS
+
+     Trimble's  revenues  have  historically  tended to fluctuate on a quarterly
+basis due to the timing of shipments of products under contracts and the sale of
+licensing rights. A significant  portion of Trimble's  quarterly revenues occurs
+from orders received and immediately  shipped to customers in the last few weeks
+and days of a quarter.  If
+
+
+
+
+
+orders are not received,  or if shipments  were to be delayed a few days at
+the end of a quarter,  the operating results and reported earnings per share for
+that quarter could be significantly  impacted.  Future revenues are difficult to
+predict, and projections are based primarily on historical models, which are not
+necessarily accurate representations of the future.
+
+     Due to competitive  pressure,  prices of certain of Trimble's products have
+declined  substantially since their introduction,  and increased  competition is
+likely to result in further  price  reduction  and loss of market  share,  which
+could adversely affect our net revenue.
+
+     With the  selection of Solectron  as an  exclusive  manufacturing  partner,
+Trimble is  substantially  dependent upon a sole supplier for the manufacture of
+its  precision  positioning  and  mobile and timing  technologies  products.  In
+addition,  we rely on sole  suppliers  for a number of our critical  ASICS.  The
+dependence upon these sole suppliers  subjects  Trimble to risks associated with
+an  interruption of supply if we are not able to find  alternative  sources on a
+timely basis. There can be no assurance that any delay, disruptions,  or quality
+problems  resulting  from the use of a sole  supplier  will not have a  material
+adverse effect on Trimble's business and results of operations.
+
+     Trimble's  stock price is subject to  significant  volatility.  If revenues
+and/or earnings fail to meet the expectations of the investment community, there
+could be an immediate and  significant  impact on the trading price of Trimble's
+stock. Additionally,  certain macro-economic factors such as changes in interest
+rates could also have an impact on the trading price of Trimble stock.
+
+     The value of  Trimble's  products  relies  substantially  on our  technical
+innovation  in fields in which there are many current  patent  filings.  Trimble
+recognizes that as new patents are issued or are brought to our attention by the
+holders of such patents,  it may be necessary  for us to withdraw  products from
+the market,  take a license from such patent holders,  or redesign our products.
+Trimble does not believe any of its products currently infringe patents or other
+proprietary rights of third parties, but we cannot be certain they do not do so.
+In  addition,  the legal  costs  and  engineering  time  required  to  safeguard
+intellectual property or to defend against litigation could become a significant
+expense of  operations.  Such  events  could have a material  adverse  effect on
+Trimble's revenues or profitability.  (See Note 17 to the Condensed Consolidated
+Financial Statements.)
+
+     Trimble's future revenue stream depends to a large degree on our ability to
+bring new  products to market on a timely  basis.  In some of our markets -- for
+example, Land Survey and GIS where we have a market leadership position, a delay
+in new product  introductions  could have a significant impact on our results of
+operations.  No  assurance  can be given that we will not incur  problems in the
+future in innovating and introducing new products.
+
+     Trimble is continuously  evaluating  alliances and external  investments in
+technologies  related to its  business,  and has already  entered  into  certain
+strategic  alliances and has made relatively  small  strategic  investments in a
+number of GPS related technology companies. Acquisitions of companies, divisions
+of  companies,  or products  and  alliances  and  strategic  investments  entail
+numerous risks,  including (i) the potential inability to successfully integrate
+acquired operations and products or to realize anticipated synergies,  economies
+of scale, or other value; (ii) diversion of management's  attention;  (iii) loss
+of key employees of acquired operations; and (iv) inability to recover strategic
+investments  in  development  stage  entities.  Any such  problems  could have a
+material adverse effect on Trimble's business,  financial condition, and results
+of  operations.  No assurances can be given that we will not incur problems from
+current or future alliances,  acquisitions, or investments.  Furthermore,  there
+can be no  assurance  that  we  will  realize  value  from  any  such  strategic
+alliances, acquisitions, or investments.
+
+     Trimble currently enjoys strong relationships with a few key customers.  An
+increasing  amount of our revenue is  generated  from large OEMs such as Philips
+VDO, Nortel, Caterpillar, CNH Global (formerly Case Corporation),  and others. A
+reduction or loss of business with these customers could have a material adverse
+effect on our  financial  condition and results of  operations.  There can be no
+assurance  that  Trimble  will  realize  value from these  relationships  in the
+future.
+
+     The ability of Trimble to maintain its competitive  technological  position
+will depend,  in a large part, on its ability to attract,  motivate,  and retain
+highly qualified development and managerial personnel. Competition for qualified
+employees in our industry and location is intense, and there can be no assurance
+that we will be able to attract,  motivate and retain enough qualified employees
+necessary for the future continued development of our business and products.
+
+     Trimble has certain  products that are subject to governmental  and similar
+certifications  before  they can be sold.  For  example,  FAA  certification  is
+required for all aviation products. Also, Trimble's products that use
+
+
+
+
+integrated  radio  communication  technology  require an end-user to obtain
+licensing from the Federal  Communications  Commission (FCC) for  frequency-band
+usage.  During the fourth  quarter of 1998,  the FCC  temporarily  suspended the
+issuance of licenses for certain of our Real-time  Kinematic products because of
+interference with certain other users of similar radio frequencies. An inability
+or delay in obtaining such  certifications or FCC's delays could have an adverse
+effect on our operating results.
+
+     Trimble's  GPS  technology  is  dependent  on the  use of  radio  frequency
+spectrum.   The  assignment  of  spectrum  is  controlled  by  an  international
+organization known as the International  Telecommunications Union (ITU). Any ITU
+reallocation of radio frequency spectrum,  including frequency band segmentation
+or sharing of spectrum,  may  materially  and  adversely  affect the utility and
+reliability  of our products,  which would,  in turn,  cause a material  adverse
+effect on our operating  results.  In addition,  emissions from mobile satellite
+service and other equipment  operating in adjacent frequency bands or inband may
+materially  and adversely  affect the utility and  reliability  of our products,
+which could result in a material adverse effect on our operating results.
+
+NEW ACCOUNTING STANDARDS
+
+     In June 1998, the Financial  Accounting Standards Board issued Statement of
+Financial  Accounting  Standards No. 133, (SFAS 133)  "Accounting for Derivative
+Instruments and Hedging Activities." SFAS 133 will require Trimble to record all
+derivatives  held on the balance sheet at fair value.  Derivatives  that are not
+hedges  must  be  adjusted  to  fair  value  through  income.  With  respect  to
+derivatives which are hedges,  depending on the nature of the hedge,  changes in
+the fair value of  derivatives  either will be offset against the change in fair
+value of the hedged assets,  liabilities,  or firm commitments through earnings,
+or will be  recognized  in other  comprehensive  income until the hedged item is
+recognized in earnings. The ineffective portion of a derivative's change in fair
+value will be immediately  recognized in earnings. In June of 1999 the Financial
+Accounting  Standards Board delayed the effective date of implementation for one
+year; therefore, SFAS 133 is effective for fiscal years beginning after June 15,
+2000.  Trimble  expects to adopt SFAS 133 as of the beginning of its fiscal year
+2001. The effect of adopting the SFAS 133 is currently being  evaluated,  but is
+not expected to have a material adverse effect on Trimble's  financial  position
+or results of operations.
+
+     In December  1999,  the  Securities  and Exchange  Commission  issued staff
+Accounting  Bulletin No. 101 (SAB 101). SAB 101 summarizes  certain areas of the
+staff's views in applying  generally accepted  accounting  principles to revenue
+recognition in financial  statements.  Trimble is currently assessing the impact
+of SAB 101, but does not expect that it will have a material  adverse  effect on
+Trimble's financial position or results of operations.
+
+Item 7A.        Quantitative and Qualitative Disclosure about Market Risk
+
+     The following is a discussion of Trimble's  exposure to market risk related
+to changes in interest rates and foreign currency  exchange rates.  Trimble uses
+certain derivative financial instruments to manage these risks. Trimble does not
+use derivative  financial  instruments for speculative or trading purposes.  All
+financial instruments are used in accordance polices approved by Trimble's board
+of directors.
+
+Market Interest Rate Risk
+
+     Short-term  Investments  Owned by the  Company.  As of December  31,  1999,
+Trimble  had  short-term   investments  of  $52.7  million.   These   short-term
+investments  consisted  of $50.2  million  of highly  liquid  investments,  with
+original  maturities at the date of purchase between three and twelve months and
+a $2.5  million  liquid  investment  with an  original  maturity  at the date of
+purchase  of 15  months  (See  Note 2 to the  Condensed  Consolidated  Financial
+Statements).  These  investments  are  subject  to  interest  rate risk and will
+decrease in value if market interest rates  increase.  A hypothetical 10 percent
+increase in market interest rates from levels at December 31, 1999,  would cause
+the fair value of these  short-term  investments  to  decline  by an  immaterial
+amount.  Because  Trimble  has the  ability  to  hold  these  investments  until
+maturity,  we would not expect the value of these  investments to be affected to
+any  significant  degree  by the  effect of a sudden  change in market  interest
+rates.  Declines in interest rates over time will, however,  reduce our interest
+income.
+
+     As of January 1, 1999, Trimble had short-term investments of $16.3 million.
+These  short-term  investments  consisted  of highly  liquid  investments,  with
+original  maturities at the date of purchase  between  three and twelve  months.
+(See  Note  2  to  the  Condensed   Consolidated  Financial  Statements.)  These
+investments  are  subject to  interest  rate risk and will  decrease in value if
+market  interest rates increase.  A hypothetical  10 percent  increase in market
+interest  rates from  levels at January 1, 1999,  would  cause the fair value of
+these short-term investments to decline by
+
+
+
+
+an  immaterial  amount.  Because  Trimble  has the  ability  to hold  these
+investments  until maturity,  we would not expect the value of these investments
+to be affected  to any  significant  degree by the effect of a sudden  change in
+market  interest  rates.  Declines  in interest  rates over time will,  however,
+reduce our interest income.
+
+     Outstanding  Debt of the  Company.  As of December  31, 1999 and January 1,
+1999, Trimble had outstanding  long-term debt of approximately  $30.0 million of
+subordinated  promissory  notes  at a fixed  interest  rate of 10  percent.  The
+interest rate of this instrument is fixed. A hypothetical 10 percent decrease in
+the  interest  rates would not have a material  impact on Trimble.  Increases in
+interest rates could, however,  increase interest expense associated with future
+borrowings of Trimble,  if any. We do not currently hedge against  interest rate
+increases.
+
+Foreign Currency Exchange Rate Risk
+
+     Trimble hedges risks associated with foreign currency transactions in order
+to  minimize  the  impact of  changes  in  foreign  currency  exchange  rates on
+earnings.  Trimble  utilizes  forward  contracts to hedge trade and intercompany
+receivables and payables. These contracts reduce the exposure to fluctuations in
+exchange  rate  movements,  as the  gains and  losses  associated  with  foreign
+currency  balances are  generally  offset with the gains and losses on the hedge
+contracts.  All hedge  instruments  are marked to market through  earnings every
+period.
+
+     *  Trimble  does  not  anticipate  any  material   adverse  effect  on  its
+consolidated financial position utilizing our current hedging strategy.
+
+     All  contracts  have a maturity of less than one year,  and we do not defer
+any gains and  losses,  as they are all  accounted  for through  earnings  every
+period.
+
+     The following table provides  information  about Trimble's foreign exchange
+forward contracts outstanding as of December 31, 1999:
+
+
+
+     The following table provides  information  about Trimble's foreign exchange
+forward contracts outstanding as of January 1, 1999:
+
+
+
+     * The  hypothetical  changes and  assumptions  made above will be different
+from what actually occurs in the future.  Furthermore,  the  computations do not
+anticipate  actions  that may be  taken  by  Trimble's  management,  should  the
+hypothetical  market  changes  actually  occur  over time.  As a result,  actual
+earnings effects in the future will differ from those quantified above.
+
+
+
+
+Item 8.         Financial Statements and Supplementary Data
+
+CONSOLIDATED BALANCE SHEETS
+
+
+See accompanying notes to consolidated financial statements.
+
+
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+
+See accompanying notes to consolidated financial statements.
+
+
+
+
+ CONSOLIDATED STATEMENT OF SHAREHOLDERS' EQUITY
+
+
+See accompanying notes to consolidated financial statements.
+
+
+
+
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+
+ See accompanying notes to consolidated financial statements.
+
+
+
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 1 - Summary of significant accounting policies:
+
+     Use of estimates.  The  preparation  of financial  statements in conformity
+with  generally  accepted  accounting  principles  requires  management  to make
+estimates  and  assumptions  that affect the amounts  reported in the  financial
+statements  and  accompanying  notes.  Due  to  the  inherent  nature  of  those
+estimates, actual results could differ from expectations.
+
+     Basis  of  presentation.  Trimble  Navigation  Limited  ("Trimble"  or  the
+"Company")  fiscal year is an annual  period that varies from 52 to 53 weeks and
+always  ends on the Friday  nearest to  December  31,  which for fiscal 1999 was
+December 31, 1999.
+
+     Trimble's  fiscal year will normally  consist of four equal  quarters of 13
+weeks each, or 52 weeks;  however, due to the fact that there are not exactly 52
+weeks in a calendar year and that there is slightly more than one additional day
+per year (not  including  the  effects  of leap year) in each  calendar  year as
+compared to a 52-week fiscal year, Trimble will have a fiscal year comprising 53
+weeks in certain  fiscal  years,  as  determined by when Friday falls closest to
+December 31 in consecutive calendar years.
+
+     In those resulting fiscal years that have 53 weeks,  Trimble will record an
+extra week of revenues,  costs and related financial  activity.  Therefore,  the
+financial results of those fiscal years, and the associated quarter,  having the
+extra week, will not be exactly  comparable to the prior and subsequent  52-week
+fiscal years, and the associated quarters having only 13 weeks. Thus, due to the
+inherent  nature of  adopting  a 52-53  week  fiscal  year,  Trimble,  analysts,
+shareholders,  investors and others will have to make appropriate adjustments to
+any analysis  performed when  comparing the Company's  activities and results in
+fiscal years that contain 53 weeks, to those that contain the standard 52 weeks.
+Fiscal 1999, 1998, and 1997 were all comprised of 52 weeks.
+
+     Principles of consolidation.  The consolidated financial statements include
+the accounts of Trimble  Navigation  Limited (the  Company) and its wholly owned
+subsidiaries  after  elimination  of  all  material  intercompany  balances  and
+transactions.
+
+     Foreign currency  translation.  Assets and liabilities of Trimble's foreign
+subsidiaries  are translated into U.S.  dollars at year-end  exchange rates, and
+revenues and expenses are  translated  at average  rates  prevailing  during the
+year.  Local  currencies are considered to be the functional  currencies for the
+Company's  non-U.S.  subsidiaries.  Translation  adjustments  are  deferred in a
+separate component of shareholders'  equity.  Foreign currency transaction gains
+and losses are included in results of operations as incurred.
+
+     Forward foreign currency exchange  contracts.  Trimble's policy is to hedge
+its known exposure to foreign  currency  transactions  to minimize the effect of
+changes  in  foreign  currency   exchange  rates  on  consolidated   results  of
+operations.  Trimble enters into simple forward  foreign  exchange  contracts to
+either buy or sell currency if the net position  exceeds  $400,000.  The forward
+foreign exchange contract obligates Trimble to exchange predetermined amounts of
+specified foreign  currencies at specified exchange rates on specified dates, or
+to make an equivalent  U.S.  dollar payment equal to the value of such exchange.
+For  contracts  that are  designated  and  effective  as hedges,  discounts,  or
+premiums (the difference between the spot exchange rate and the forward exchange
+rate at inception of the contract) are accreted or amortized to other  operating
+expenses over the contract lives, using the straight-line method, while realized
+and unrealized gains and losses resulting from changes in the spot exchange rate
+(including those from open, matured,  and terminated  contracts) are included in
+results of operations.  The related  amounts due to or from  counterparties  are
+included in other assets or other  liabilities.  Contract  amounts are marked to
+market,  with changes in market value  recorded in earnings as foreign  exchange
+gains or losses.  To date,  Trimble has  entered  into  simple  forward  foreign
+currency  exchange  contracts to offset the effects of changes in exchange rates
+on foreign-denominated  intercompany receivables.  At December 31, 1999, Trimble
+had forward foreign currency  exchange  contracts to sell $2,517,000 of Japanese
+yen, and  $3,097,000  of European  Currency  units and to buy  $2,257,000 of New
+Zealand dollars,  $2,002,000 of British pound sterling, and $657,000 of Japanese
+yen, at contracted rates that mature over the next six months.
+
+     Cash and cash equivalents.  Cash and cash equivalents  include all cash and
+highly liquid investments with original  maturities of three months or less. The
+carrying amount of cash and cash equivalents  approximates fair value because of
+the short maturity of those instruments.
+
+
+
+
+     Short   term/Marketable   securities.   Trimble  has   classified  all  its
+short-term/marketable    investments   as    "available-for-sale"    securities.
+Available-for-sale  securities  are carried at fair value,  with the  unrealized
+holding gains and losses,  net of tax effects,  reported as a separate component
+of shareholders'  equity.  Fair value is based on quoted market prices. The cost
+of debt  securities  in this  classification  is adjusted  for  amortization  of
+premiums and accretion of discounts to maturity.  Such amortization,  as well as
+interest,  dividends, and realized gains and losses, is included in interest and
+investment  income.  The  cost of  securities  sold  is  based  on the  specific
+identification  method.  Trimble has  classified  all  investments as short-term
+since it has the intent and ability to redeem them within the year.  (See Note 2
+to the Consolidated Financial Statements.)
+
+     Concentration  of credit risk.  In entering into forward  foreign  exchange
+contracts,  Trimble  has  assumed  the risk that might  arise from the  possible
+inability  of  counterparties  to  meet  the  terms  of  their  contracts.   The
+counterparties to these contracts are major multinational  commercial banks, and
+Trimble does not expect any losses as a result of counterparty defaults. Trimble
+is also exposed to credit risk in its accounts  receivable and performs  ongoing
+credit  evaluations of its customers and generally does not require  collateral.
+The expenses recorded for doubtful accounts  receivable were $1,875,000 in 1999,
+$195,000 in 1998, and $315,000 in 1997.
+
+     Inventories.  Inventories  are  stated  at the  lower of  standard  cost or
+market. Standard costs approximate average actual costs.
+
+     Revenue recognition. Trimble recognizes revenue from product sales when the
+products are shipped to the customer, title has transferred,  and no significant
+obligations  remain.  Trimble also  requires the  following:  (i) execution of a
+written  customer  order,  (ii) delivery of the product,  (iii) fee is fixed and
+determinable,   and  (iv)  collectibility  of  the  proceeds  is  probable.   In
+circumstances where the customer has delayed their acceptance of our product, we
+defer recognition of revenue until acceptance.  Revenues from purchased extended
+warranty and support agreements is deferred and recognized ratably over the term
+of the  warranty/support  period.  Substantially  all  technology  licenses  and
+research  revenue have consisted of initial  license fees and  royalties,  which
+were recognized when earned, when Trimble had no remaining obligations.
+
+     In fiscal 1999,  Trimble  adopted  Statement of Position 97-2 (SOP 97-2) as
+set forth by FASB,  "Software Revenue  Recognition," which requires that revenue
+recognized  from  software  arrangements  be  allocated  to each  element of the
+arrangement based on the relative fair values of the elements,  such as software
+products, upgrades, enhancements,  post-contract customer support, installation,
+or training.  Revenue from  post-contract  customer  support (PCS) is recognized
+ratably over the period of the PCS agreement. However, PCS revenue is recognized
+immediately  upon the sale of the software when the PCS  arrangement  is for one
+year or less. The  implementation  of SOP 97-2 did not have a material impact on
+the recognized revenue of the Company.
+
+     In December  1998,  the AICPA issued SOP 98-9,  Modifications  of SOP 97-2,
+Software Revenue  Recognition,  with respect to Certain  Transactions.  SOP 98-9
+amends SOP 97-2 Software Revenue  Recognition to require  recognition of revenue
+using the  "residual  method"  when certain  criteria  are met.  Trimble will be
+required to implement  these  provisions  of SOP 98-9 for its fiscal year ending
+December 31, 2000.  SOP 98-9 also amends SOP 98-4,  an earlier  amendment to SOP
+97-2,  which extended the deferral of the application of certain passages of SOP
+97-2.  Trimble  does not  believe the impact of SOP 98-9 will be material to its
+financial position, results of operations and cash flows.
+
+     Trimble  accounts for long-term  contracts on the  percentage of completion
+method,  and income is recognized as work on contracts  progress,  but estimated
+losses on contracts in progress are immediately charged to operations.
+
+     In December  1999,  the  Securities  and Exchange  Commission  issued staff
+Accounting  Bulletin No. 101 (SAB 101). SAB 101 summarizes  certain areas of the
+staff's views in applying  generally accepted  accounting  principles to revenue
+recognition in financial  statements.  Trimble is currently assessing the impact
+of SAB 101, but does not expect that it will have a material  adverse  effect on
+Trimble's financial position or results of operations.
+
+     Product warranty. Trimble provides for estimated warranty costs at the time
+of sale.  The warranty  period is generally  for one year from date of shipment,
+except for air  transport  products,  for which the period is  generally a basic
+three-year  warranty period with an additional  two-year warranty sold with some
+units.  In addition,  select  military  programs may require  extended  warranty
+periods.
+
+
+
+
+     Advertising costs.  Trimble expenses the production costs of advertising as
+incurred.  Advertising expenses were $4,229,000,  $6,490,000,  and $6,328,000 in
+fiscal 1999, 1998, and 1997, respectively.
+
+     Research and Development and Engineering Costs.  Research,  development and
+engineering costs are charged to expense when incurred. The Company has received
+third party funding of $7.1million  $2.9 million and $6.4 million in 1999,  1998
+and 1997,  respectively.  The  Company  has  offset  research,  development  and
+engineering  expenses by the third party funding,  as the third party funding is
+based upon research and  development  expenditures  and the Company  retains the
+rights to any technology that is developed.
+
+     Stock  compensation.  In  accordance  with the  provisions  of Statement of
+Financial  Accounting  Standards  (SFAS) No. 123,  "Accounting  for  Stock-Based
+Compensation,"  Trimble  applies  Accounting  Principles  Board  Opinion No. 25,
+"Accounting for Stock Issued to Employees" (APB 25) and related  Interpretations
+in accounting for its stock option plans and stock  purchase plan.  Accordingly,
+it does not recognize  compensation  cost for stock options  granted at or above
+market.  Note 13 to the Consolidated  Financial  Statements  describes the plans
+operated by Trimble, and contains a summary of the pro forma effects to reported
+net income (loss) and earnings (loss) per share for fiscal 1999,  1998, and 1997
+as if Trimble had elected to recognize compensation cost based on the fair value
+of the options granted at grant date, as prescribed by SFAS No. 123.
+
+     Depreciation.  Depreciation  of  property  and  equipment  owned  or  under
+capitalized  leases is computed using the straight-line  method over the shorter
+of the estimated useful lives or the lease terms.  Useful lives range from three
+years for machinery and equipment to five years for furniture and fixtures.
+
+     Intangible  Assets.  Intangible  assets  consist of  patents,  license  and
+trademarks.  Intangible assets are amortized on a straight-line basis over their
+estimated lives, generally periods of four years or less.
+
+     Long-lived Assets. In accordance with Financial  Accounting Standards Board
+("FASB") Statement of Financial  Accounting  Standards No. 121,  "Accounting for
+the Impairment of Long-lived  Assets and  Long-lived  Assets to be Disposed Of",
+the carrying value of intangible  assets and other long-lived assets is reviewed
+on a regular  basis for the existence of facts or  circumstances,  both internal
+and external, that may suggest impairment.
+
+     Interest.  All  interest  costs  incurred  have been  charged  to  interest
+expense.
+
+     Earnings (loss) per share. Basic earnings per share represents the weighted
+average  common shares  outstanding  during the period and excludes any dilutive
+effects of options,  warrants, and convertible securities.  The dilutive effects
+of  options,  warrants,  and  convertible  securities  are  included  in diluted
+earnings per share.
+
+     New accounting standards.  In June 1998, the Financial Accounting Standards
+Board issued  Statement of Financial  Accounting  Standards No. 133,  (SFAS 133)
+"Accounting for Derivative  Instruments and Hedging  Activities."  SFAS 133 will
+require  Trimble to record all  derivatives  held on the  balance  sheet at fair
+value.  Derivatives  that are not hedges must be adjusted to fair value  through
+income. With respect to derivatives which are hedges, depending on the nature of
+the  hedge,  changes  in the fair  value of  derivatives  either  will be offset
+against  the  change in fair value of the hedged  assets,  liabilities,  or firm
+commitments  through  earnings,  or will be  recognized  in other  comprehensive
+income until the hedged item is recognized in earnings.  The ineffective portion
+of a  derivative's  change  in fair  value  will be  immediately  recognized  in
+earnings.  In June of 1999 the Financial  Accounting Standards Board delayed the
+effective date of implementation for one year; therefore,  SFAS 133 is effective
+for fiscal years  beginning  after June 15, 2000.  Trimble expects to adopt SFAS
+133 as of the beginning of its fiscal year 2001. The effect of adopting the SFAS
+133 is currently being evaluated, but is not expected to have a material adverse
+effect on Trimble's financial position or results of operations.
+
+Note 2 - Short term investments:
+
+     All  marketable  securities  are intended by management to be available for
+sale and are reported at fair value with net unrealized gains or losses reported
+within shareholders' equity. Realized gains and losses are recorded based on the
+specific  identification method. The carrying amount of Trimble's investments is
+shown in the table below:
+
+
+
+
+
+     At December 31, 1999, investments with scheduled maturities within one year
+were $50.2  million  and for  maturities  between  one to three  years were $2.5
+million.  At January 1, 1999,  investments with scheduled  maturities within one
+year were $16.3 million and for maturities between one to three years was $0.
+
+
+
+
+Note 3 - Balance sheet components:
+
+
+                                              December 31,         January 1,
+                                                 1999                 1999
+- --------------------------------------------------------------------------------
+ (In thousands)
+
+ Inventories
+         Raw materials                             $ 2,582             $ 22,480
+         Work-in-process                             2,232                4,033
+         Finished goods                             11,621               10,653
+                                         ------------------     ----------------
+                                                  $ 16,435             $ 37,166
+                                         ==================     ================
+
+ Property and equipment
+         Machinery and equipment                  $ 50,831             $ 59,520
+         Furniture and fixtures                      5,930                5,763
+         Leasehold improvements                      5,387                6,700
+                                         ------------------     ----------------
+                                                    62,148               71,983
+         Less accumulated depreciation             (49,815)             (56,879)
+                                         ------------------     ----------------
+                                                  $ 12,333             $ 15,104
+                                         ==================     ================
+
+Note 4 - Disposition of assets:
+
+     On August  10,  1999,  Trimble  signed  an Asset  Purchase  Agreement  with
+Solectron  Corporation  and  Solectron  Federal  Systems,  Inc.   (collectively,
+"Solectron"). The closing of the transaction occurred on August 13, 1999. At the
+closing  of the Asset  Purchase  Agreement,  Trimble  transferred  to  Solectron
+substantially  all  of  Trimble's  tangible   manufacturing  assets  located  at
+Trimble's Sunnyvale,  California campus, including but not limited to equipment,
+fixtures and work in progress,  and certain contract and other intangible assets
+and rights, together with certain related obligations, including but not limited
+to real property  subleases covering  Trimble's  manufacturing  floor space, and
+outstanding  purchase  order  commitments.   In  addition,  the  Asset  Purchase
+Agreement also provided for Solectron's subsequent purchase, on August 30, 1999,
+of Trimble's entire component inventory, on hand as of August 13, 1999.
+
+     The final  purchase  price for these assets was $26.9  million.  As part of
+this agreement Trimble incurred some employee and facility related  liabilities,
+which have been  accrued  for and offset  against  the gain on the sale of these
+assets.  The net gain on the  transaction  to Trimble of $5.9  million  has been
+deferred  and is being  recognized  over the  three-year  exclusive  life of the
+Supply Agreement described below.
+
+     Concurrently with the closing of the Asset Purchase Agreement,  Trimble and
+Solectron also entered into a Supply  Agreement.  The Supply Agreement  provides
+for the exclusive  manufacture by Solectron of almost all Trimble products for a
+period  of three  years.  Solectron  will  initially  manufacture  such  Trimble
+products under the Supply Agreement in the same Trimble  buildings in which such
+products were previously  manufactured  by Trimble,  and Trimble has sublet such
+space to Solectron as part of this transaction.  Solectron offered employment to
+approximately  230  Trimble  manufacturing,   engineering  and  related  support
+personnel,  and  Trimble  understands  that  substantially  all  such  employees
+accepted such employment with Solectron.
+
+Note 5 - The Company, industry segment, geographic, and customer information:
+
+     Effective   January  1,  1999,   Trimble  adopted  Statement  of  Financial
+Accounting  Standards  (SFAS)  No.  131,   "Disclosures  about  Segments  of  an
+Enterprise and Related  Information."  The Statement  requires Trimble to report
+segment  financial  information  consistent  with the  presentation  made to the
+Company's management for decision-making purposes.
+
+     Trimble  operates in a single industry segment as a leader in designing and
+developing  innovative  products enabled by GPS technology.  We provide end-user
+and Original  Equipment  Manufacture  solutions for diverse  applications in our
+target markets. These applications include:
+
+     o Architecture/Engineering/Construction  -  surveying,  mapping,  machine
+       guidance/control:
+
+
+
+     o Asset  Management and Tracking - fixed asset mapping and fleet management
+       using mobile positioning:
+     o Agriculture - mapping, yield monitoring,  variable rate applications, and
+       machine guidance/control, and
+     o GPS  Component  Technologies  - automotive  navigation,  timing  systems,
+       commercial avionics, and military systems.
+
+     We design,  market,  and  distribute  electronic  products  that  determine
+precise geographic  location combined with data  communications and applications
+software.  We sell our products through a direct-sales  force located in fifteen
+countries,  as well as through a worldwide network of dealers,  distributors and
+authorized representatives.
+
+     Research and development  activities are conducted at Trimble's  facilities
+in Sunnyvale,  California,  and Christchurch,  New Zealand.  Solectron currently
+manufactures  most of Trimble's  products.  In addition we have a  manufacturing
+facility  in Austin,  Texas  primarily  focused on FAA  certified  products  for
+commercial aviation and military systems.
+
+     To achieve distribution,  marketing,  production, and technology advantages
+for our  targeted  markets we manage our  industry  segment  within two Business
+Units:  the  Precision  Positioning  Group  (PPG)  and  the  Mobile  and  Timing
+Technologies  (MTT) Group.  Each Business Unit is managed by a group senior vice
+president who is responsible for strategy,  marketing,  product  development and
+financial performance.
+
+     The  Precision   Positioning  Group  derives  its  revenue  from  precision
+positioning  solutions for the architecture,  engineering,  construction,  asset
+management,  and agriculture  markets.  These markets require  sub-centimeter to
+meter  3D   positioning   accuracy   for   surveying,   mapping,   and   machine
+guidance/control  applications. The Mobile and Timing Technologies Group derives
+its revenues from automotive,  timing,  fleet management,  commercial  aviation,
+military systems and from development of software  licenses and other rights for
+the use of our GPS technology to third parties. Trimble evaluates these Business
+Units'  performance  and  allocates  resources  based on  profit  and loss  from
+operations before income taxes.
+
+     The  accounting  policies  applied by each of the  markets  are the same as
+those used by Trimble in general.
+
+     The table on the following page presents revenues, operating income (loss),
+and identifiable  assets by Trimble's Business Units. There is no recognition of
+inter-Business  Unit sales or  transfers.  Operating  income (loss) is net sales
+less operating expenses,  excluding general corporate expenses,  interest income
+(expense),  and income  taxes.  The  identifiable  assets that  Trimble's  Chief
+Operating Decision Maker (CODM) views by industry market are accounts receivable
+and inventory.  Trimble does not report depreciation and amortization or capital
+expenditures by industry markets to the CODM.
+
+
+
+
+
+
+
+
+
+     Following are  reconciliations  corresponding to totals in the accompanying
+consolidated financial statements (in thousands):
+
+
+
+
+     The geographic  distribution of Trimble's revenues and identifiable  assets
+by fiscal year-end are summarized in the table below in thousands.
+
+- ------------------------------------------------------------------
+(1) Sales attributed to countries based on the location of the customer.
+
+     Transfers  between  U.S.  and foreign  geographic  areas are made at prices
+based on total costs and  contributions  of the supplying  geographic  area. The
+Company's  subsidiaries  in the Pacific Rim and Asia have  derived  revenue from
+commissions  from domestic  operations in each of the periods  presented.  These
+commission  revenues and expenses are excluded  from total revenue and operating
+income (loss) in the preceding table.  Sales to unaffiliated  customers in Japan
+are made by the Company's Japanese subsidiary.
+
+     No single customer accounted for 10% or more of Trimble's total revenues in
+fiscal 1999, 1998 or 1997.
+
+Note 6 - Discontinued operations:
+
+     On October 2,  1998,  Trimble  adopted a plan to  discontinue  its  General
+Aviation division.  Accordingly, the General Aviation division is being reported
+as a  discontinued  operation  for all  periods  presented  in  these  financial
+statements.  Net assets of the  discontinued  operation at October 2, 1998, were
+written off and consisted primarily of inventory, property, plant and equipment,
+and intangible assets.
+
+     The original  estimated loss on the disposal of the discontinued  operation
+in fiscal  1998 was $19.9  million,  but was  adjusted in March 1999 for certain
+product lines that were retained (see further  discussion  below).  The adjusted
+estimated  loss on the  disposal  is $20.3  million.  The  original  fiscal 1998
+estimate  included a write-off of net assets of $12.7 million and a provision of
+$7.2  million for costs of disposal,  including  severance  costs,  facility and
+certain other  contractual  costs, and anticipated  operating losses through the
+estimated  date of disposal.  The  adjusted  fiscal 1999  estimate  included the
+write-off  of net assets of $12.7  million and a provision  of $7.6  million for
+costs of  disposal,  including  severance  costs,  facility  and  certain  other
+contractual  costs, and anticipated  operating losses through the estimated date
+of disposal.
+
+
+
+     The net assets, which were written off in 1998, are summarized as follows:
+
+
+                                                      January 1,
+- -------------------------------------------------------------------
+(in thousands)
+
+Inventory                                                  $ 7,283
+Other current assets                                           451
+Plant and equipment, net                                     3,241
+Other noncurrent assets                                      1,754
+Less write-offs                                            (12,729)
+                                                 ------------------
+   Net assets of discontinued operations                       $ -
+                                                 ==================
+
+     As of December 31, 1999, in connection  with the  discontinued  operations,
+Trimble had incurred  cumulative  net expenses of  approximately  $6.1  million,
+consisting of $6.6 million for operating losses for the  discontinued  operation
+through the estimated  date of disposal,  including  severance  costs and net of
+receipts of $543,000 related to the sale of particular inventory items and fixed
+assets.  In the third  quarter of 1999  Trimble  had revised its accrual for the
+remaining  costs now  expected to be  incurred,  based on current  status of the
+related  liabilities.  This resulted in a reversal of approximately $2.9 million
+of prior amounts accrued, related to the discontinued operations.  Trimble has a
+remaining  provision  of $2.2  million,  which  includes  $1.1  million  for the
+estimated operating losses for service and warranty support, including remaining
+severance  costs,  and $1.1 million for facility and certain  other  contractual
+costs.
+
+     On March 31,  1999,  Trimble made the  decision to retain  certain  product
+lines  included  within the  General  Aviation  division  which were part of the
+previously planned  discontinued  operation.  The basis of the decision was that
+these  products  use common raw  materials  and labor  which are  necessary  for
+Trimble's Air Transport products and, therefore,  these particular product lines
+could be retained without adding additional overhead from the overhead currently
+required for the Air Transport  products.  The revenues and costs related to the
+products  retained have been included in the results of operations of continuing
+operations in the periods presented.
+
+     The net revenues of the  discontinued  operation -- revenues that have been
+restated  to exclude  the  retained  product  lines -- are not  included  in net
+revenues of continuing operations in the accompanying  statements of operations.
+The operating  results for the fiscal years ended January 1, 1999 and January 2,
+1998, of the discontinued operation are summarized as follows:
+
+                                            January 1,           January 2,
+                                               1999                 1998
+- -----------------------------------------------------------------------------
+(in thousands)
+
+Net revenues                                     $ 6,807             $ 5,866
+Income (loss) before tax provision                (5,760)             (8,277)
+Income tax provision (benefit)                         -                (176)
+                                       ------------------   -----------------
+Net loss                                        $ (5,760)           $ (8,101)
+                                       ==================   =================
+Basic net loss per share                         $ (0.26)            $ (0.36)
+Diluted net income loss per share                $ (0.26)            $ (0.35)
+
+Note 7 - Bank line of credit:
+
+     In August 1997,  Trimble entered into a three-year,  $50,000,000  unsecured
+revolving credit facility with four banks (the "Credit  Agreement").  The Credit
+Agreement  enables  Trimble to borrow up to  $50,000,000,  provided that certain
+financial and other covenants are met. As of October 20, 1999, the Company,  the
+Agent and the  Lenders  agreed to change  and amend  certain  covenants  for the
+remaining  life of the loan,  which expires in August of 2000.  The  $50,000,000
+revolving  credit  facility was modified to include the Company's prior separate
+$5,000,000  line of credit and to simplify  the entire  arrangement.  The Credit
+Agreement  provides for payment of a commitment  fee of 0.25% and  borrowings to
+bear  interest at 1% over LIBOR if the total  funded debt to EBITDA is less than
+or equal to 1.00 times, 0.3% and borrowings to bear interest at 1.25% over LIBOR
+if the ratio is greater than 1.00 times and less than or equal to 2.00 times, or
+0.4% and borrowings to bear interest at 1.75% over LIBOR if the ratio is greater
+than 2.00 times. In addition to borrowing at the specified  LIBOR rate,  Trimble
+has the right to borrow  with  interest  at the
+
+
+
+
+higher of (i) one of the  bank's  annual  prime  rate and (ii) the  federal
+funds  rate  plus  0.5%.  To date,  Trimble  has made no  borrowings  under  the
+$50,000,000 unsecured revolving credit facility,  but has issued certain letters
+of credit as of December  31,  1999  amounting  to  approximately  $283,000.  In
+addition,  Trimble is restricted  from paying  dividends  under the terms of the
+Credit Agreement.
+
+Note 8 - Restructuring charges:
+
+     In fiscal 1998,  Trimble  recorded  restructuring  charges  totaling  $10.3
+million in operating expenses.
+
+     These charges were a result of Trimble's reorganization activities, through
+which the Company has downsized its operations, including reducing headcount and
+facilities space usage, and has canceled its enterprise-wide  information system
+project and  certain  research  and  development  projects.  The impact of these
+decisions  was that  significant  amounts of  Trimble's  fixed  assets,  prepaid
+expenses,  and purchased  technology have been impaired and certain  liabilities
+incurred.  Trimble wrote down the related assets to their net realizable  values
+and made provisions for the estimated liabilities.
+
+     The activity in fiscal 1999 and 1998 related to the  restructuring  and the
+amounts  remaining at December 31, 1999, on the balance sheet are as follows (in
+thousands):
+
+
+     The  cash  expenditures  associated  with  the  remaining  obligations  are
+expected to occur primarily in fiscal 2000.
+
+Note 9 - Long-term debt and other noncurrent liabilities:
+
+ Long-term debt consists of the following:
+
+                                       December 31,         January 1,
+                                          1999                 1999
+- -------------------------------------------------------------------------
+ (In thousands)
+
+ Subordinated notes                        $ 29,819              $29,703
+ Installment loan obligations                 1,388                2,776
+ Other                                          747                  549
+                                   -----------------     ----------------
+                                             31,954               33,028
+ Less current portion                         1,388                1,388
+                                   -----------------     ----------------
+ Noncurrent portion                        $ 30,566              $31,640
+                                   =================     ================
+
+     In June 1994, Trimble issued $30.0 million of subordinated promissory notes
+bearing  interest at an annual rate of 10%, with principal due on June 15, 2001.
+Interest payments are due monthly in arrears.  The notes are subordinated to the
+Company's  senior debt,  which is defined as all  preexisting  indebtedness  for
+borrowed money and certain future  indebtedness  for borrowed money  (including,
+subject to certain restrictions,  secured bank borrowings and borrowed money for
+the  acquisition  of property and capital  equipment) and trade debt incurred in
+the  ordinary  course  of  business.  If  Trimble  prepays  any  portion  of the
+principal, it is required to pay additional amounts if U.S. Treasury obligations
+of a similar maturity exceed a specified yield. Under the agreement,  Trimble is
+restricted from paying dividends.
+
+     The  issuance  of the  subordinated  promissory  notes  also  included  the
+issuance of warrants  entitling  holders to  purchase  400,000  shares of common
+stock at a price of $10.95 per share at any time through June 15, 2001.  The net
+proceeds of the notes were $29.3  million.  The notes are recorded as noncurrent
+liabilities,  net of appraised fair value attributed to the warrants.  The value
+of the warrants and the issuance costs are being amortized to interest  expense,
+using the  interest  rate  method over the term of the  subordinated  promissory
+notes. The effective annual interest rate on the notes is 11.5%. Under the terms
+of the  note,  Trimble  is  required  to meet a minimum
+
+
+
+
+consolidated  net worth  requirement.  If Trimble  falls  below the minimum
+consolidated net worth requirement we could be in default of our loan covenants.
+Such events could have a material  adverse  effect on Trimble's  operations  and
+liquidity.
+
+     Other  long-term  debt  represents   deferred  rent   obligations,   rental
+inducements on certain of Trimble's leased facilities, and installment loans for
+a fixed  asset  purchase.  There are  three  installment  loans for  capitalized
+software,  which in total have two annual  payments of $1.4  million.  The first
+installment  loan  consists of two payments of $129,500.  The first  payment was
+made on May 30, 1999,  and the second payment is due on May 30, 2000. The second
+installment  loan  consists of two payments of $942,800.  The first  payment was
+made on May 30, 1999,  and the second  payment is due on May 30, 2000. The third
+installment  loan  consists of two payments of $315,900.  The first  payment was
+made on May 1,  1999,  and the second  payment is due on May 1, 2000.  The lease
+agreements  provide for scheduled  increases in lease payments over the terms of
+the leases.
+
+Note 10 - Lease obligations and commitments:
+
+     Trimble's  principal  facilities  in the United  States  are  leased  under
+noncancelable  operating  leases that expire at various  dates from 2000 through
+2004.  Trimble has options to renew  certain of these  leases for an  additional
+five years. The Company's United Kingdom  subsidiary  leases a facility under an
+operating lease that expires in 2005.
+
+ Future minimum payments required under noncancelable operating leases
+ are as follows:
+                                                            Operating
+                                                         Lease Payments
+- ------------------------------------------------------------------------------
+ (In thousands)
+
+ 2000                                                                 $ 8,889
+ 2001                                                                   9,724
+ 2002                                                                   9,472
+ 2003                                                                   9,104
+ 2004                                                                   4,831
+ Thereafter                                                             5,450
+                                                   ---------------------------
+ Total                                                               $ 47,470
+                                                   ===========================
+
+     Rent expense under  operating  leases was $8.1 million in fiscal 1999, $6.3
+million in 1998, and $5.5 million in 1997.
+
+Note 11 - Fair value of financial instruments:
+
+     Statement of Financial Accounting Standard No. 107, "Disclosures about Fair
+Value of Financial Instruments" requires disclosure of the following information
+about the fair value of certain financial  instruments for which it is currently
+practicable to estimate such value.  None of the financial  instruments are held
+or  issued  for  trading  purposes.  The  carrying  amounts  and fair  values of
+Trimble's financial instruments are as follows:
+
+
+     The fair  value of the  subordinated  notes  has  been  estimated  using an
+estimate of the interest  rate Trimble  would have had to pay on the issuance of
+notes with a similar maturity,  and discounting the cash flows at that rate. The
+fair values do not give an indication of the amount that Trimble would currently
+have to pay to extinguish any of this debt.
+
+
+
+     The fair value of forward foreign exchange contracts is estimated, based on
+quoted market prices of comparable  contracts,  and these contracts are restated
+to the fair value at the end of every month.
+
+Note 12 - Income taxes:
+
+     Trimble's income tax provision consists of the following (in thousands):
+
+                                                 Fiscal Years Ended
+                         -------------------------------------------------------
+                             December, 31         January, 1          January, 2
+                                 1999                1999                1998
+
+Federal:
+         Current                $ 1,089             $ 233               $ 1,344
+         Deferred                     -                 -                     -
+                         -------------------------------------------------------
+                                  1,089               233                 1,344
+                         -------------------------------------------------------
+State:
+         Current                    196                20                    10
+         Deferred                     -                 -                     -
+                         -------------------------------------------------------
+                                    196                20                    10
+                         -------------------------------------------------------
+Foreign:
+         Current                    770             1,195                 1,116
+         Deferred                    18               (48)                   26
+                         -------------------------------------------------------
+                                    788             1,147                 1,142
+                         -------------------------------------------------------
+Income tax provision            $ 2,073           $ 1,400               $ 2,496
+                         -------------------------------------------------------
+
+     The domestic income (loss) from continuing  operations  before income taxes
+(including   royalty   income   subject  to  foreign   withholding   taxes)  was
+approximately $19.7 million,  ($26.2 million), and $18.8 million in fiscal years
+1999, 1998 and 1997, respectively.
+
+
+
+
+         The income tax provision  differs from the amount  computed by applying
+the statutory  federal  income tax rate to income before taxes.  The sources and
+tax effects of the differences are as follows (in thousands):
+
+
+     The components of deferred taxes consist of the following (in thousands):
+
+                                                      December, 31   January, 1
+                                                         1999           1999
+
+Deferred tax liabilities:
+    Other individually immaterial items                 $ 246         $ 178
+                                                     ------------------------
+        Total deferred tax liabilities                    246           178
+                                                     ------------------------
+
+
+Deferred tax assets:
+    Inventory valuation differences                    9,437        10,423
+    Expenses not currently deductible                  7,461         9,907
+    Federal credit carryforwards                       6,108         7,252
+    Deferred revenue                                   3,243           968
+    State credit carryforwards                         3,786         3,138
+    Warranty                                           2,352         2,090
+    Depreciation                                       1,770         3,689
+    Federal net operating loss (NOL) carryforward          -         3,023
+    Other individually immaterial items                1,763         1,692
+                                                    ------------------------
+        Total deferred tax assets                     35,920        42,182
+
+Valuation allowance                                  (35,287)      (41,599)
+                                                    -------------------------
+Total deferred tax assets                                633           583
+                                                    -------------------------
+
+Total net deferred tax assets                          $ 387         $ 405
+                                                    -------------------------
+
+     The NOL and credit carryforwards listed above expire in 2000 through 2019.
+
+     The  valuation   allowance   increased  by  $22  million  in  fiscal  1998.
+Approximately  $7.4  million of the  valuation  allowance  at December 31, 1999,
+relates to the tax benefits of stock option  deductions,  which will be credited
+to equity when realized.
+
+
+
+
+
+Note 13 - Shareholder's Equity:
+
+     1993 Stock Option Plan. In 1992,  Trimble's Board of Directors  adopted the
+1993 Stock  Option  Plan  (1993  Plan).  The 1993  Plan,  as amended to date and
+approved  by   shareholders,   provides  for  the  granting  of  incentive   and
+nonstatutory  stock  options  for up to  5,000,000  shares  of  Common  Stock to
+employees,  consultants  and  directors  of Trimble.  At  Trimble's  2000 annual
+meeting of shareholders to be held on May 11, 2000, the  shareholders  are being
+asked to approve and increase of 925,000  shares under the 1993 Plan.  Incentive
+stock  options may be granted at exercise  prices that are not less than 100% of
+the fair market value of Common Stock on the date of grant.  All employee  stock
+options granted under the 1993 Plan have 120-month  terms, and vest at a rate of
+20% at the first anniversary of grant, and monthly  thereafter at an annual rate
+of 20%,  with full vesting  occurring  at the fifth  anniversary  of grant.  The
+exercise price of nonstatutory  stock options issued under the 1993 Plan must be
+at least 85% of the fair market value of Common  Stock on the date of grant.  As
+of December 31, 1999,  options to purchase 3,685,321 shares were outstanding and
+631,822 shares were available for future grant under the 1993 Stock Option Plan.
+
+     1990  Director  Stock  Option Plan.  In December  1990,  Trimble  adopted a
+Director  Stock Option Plan under which an aggregate of 380,000 shares of Common
+Stock have been  reserved  for  issuance  to date to  nonemployee  directors  as
+approved by the shareholders.  At December 31, 1999, options to purchase 198,333
+shares were outstanding and 95,833 shares were available for future grants under
+the Director Stock Option Plan.
+
+     1992  Management  Discount  Stock Option Plan. In 1992  Trimble's  Board of
+Directors  approved the 1992  Management  Discount Stock Option Plan  ("Discount
+Plan").  Under the  Discount  Plan,  300,000  nonstatutory  stock  options  were
+reserved  for grant to  management  employees  at  exercise  prices  that may be
+significantly discounted from the fair market value of Common Stock on the dates
+of grant.  Options are generally  exercisable six months from the date of grant.
+As of December 31, 1999,  there were 4,974 shares  available for future  grants.
+For accounting  purposes,  compensation  cost on these grants is measured by the
+excess over the  discounted  exercise  prices of the fair market value of Common
+Stock on the dates of option grant. Noncash compensation cost related to options
+exercised  in fiscal  1999,  1998,  and 1997  amounted to $0, $0, and  $275,000,
+respectively. As of December 31, 1999, 125,000 shares were outstanding.
+
+     1988 Employee Stock Purchase Plan. In 1988, Trimble established an employee
+stock purchase plan under which an aggregate of 2,950,000 shares of Common Stock
+have been  reserved  for sale to eligible  employees  to date as approved by the
+shareholders. At Trimble's 2000 annual meeting of shareholders to be held on May
+11, 2000,  the  shareholders  are being asked to approve and increase of 200,000
+shares under the  employee  stock  purchase  plan.  The plan  permits  full-time
+employees to purchase  Common Stock  through  payroll  deductions  at 85% of the
+lower of the fair market  value of the Common  Stock at the  beginning or at the
+end of each  six-month  offering  period.  In fiscal 1999,  317,210  shares were
+issued under the plan for aggregate proceeds to the Company of $2.5 million.  At
+December  31,  1999,  the number of shares  reserved  for future  purchases  was
+685,632.
+
+     As stated in Note 1 to the Consolidated  Financial Statements,  Trimble has
+elected to follow  APB 25 and  related  Interpretations  in  accounting  for its
+employee  stock options and stock purchase  plans.  The  alternative  fair value
+accounting  provided for under SFAS 123 requires  use of option  pricing  models
+that were not developed for use in valuing employee stock options. Under APB 25,
+because the exercise price of Trimble's employee stock options equals the market
+price of the  underlying  stock on date of grant,  no  compensation  expense  is
+recognized.
+
+     Pro forma  information  regarding  net  income  and  earnings  per share is
+required by SFAS 123 and has been determined as if Trimble had accounted for its
+employee  stock options and  purchases  under the Employee  Stock  Purchase Plan
+using the fair value method of that Statement.  The fair value for these options
+was estimated at the date of grant using a  Black-Scholes  option-pricing  model
+with the following weighted-average assumptions for fiscal 1999, 1998, and 1997:
+
+
+
+
+
+     The  Black-Scholes   option  valuation  model  was  developed  for  use  in
+estimating  the fair value of traded  options that have no vesting  restrictions
+and are fully  transferable.  In addition,  option  valuation models require the
+input of highly  subjective  assumptions,  including  the  expected  stock price
+volatility.  Because  Trimble's  employee  stock  options  have  characteristics
+significantly different from those of traded options, and because changes in the
+subjective input assumptions can materially  affect the fair value estimate,  in
+management's  opinion, the existing models do not necessarily provide a reliable
+single measure of its employee stock options.
+
+     For  purposes of pro forma  disclosures,  the  estimated  fair value of the
+options is  amortized  to expense  over the  options'  vesting  period,  and the
+estimated  fair value of purchases  under the Employee  Stock  Purchase  Plan is
+expensed  in the year of  purchase.  The  effects  on pro  forma  disclosure  of
+applying FAS 123 are not likely to be representative of the effects on pro forma
+disclosure of future years. Trimble's pro forma information (in thousands except
+for per share data) is as follows:
+
+
+
+     Exercise  prices for options  outstanding  as of December 31, 1999,  ranged
+from $8.00 to $29.63.  The weighted average remaining  contractual life of those
+options is 7.81  years.  In view of the wide range of exercise  prices,  Trimble
+considers it  appropriate  to provide the following  additional  information  in
+respect of options outstanding:
+
+
+
+
+
+     Activity  during fiscal 1999, 1998 and 1997 under the combined plans was as
+follows:
+
+
+     401(k) Plan.  Under Trimble's 401(k) Plan, U.S.  employee  participants may
+direct the  investment of  contributions  to their accounts among certain mutual
+funds and the Trimble  Navigation  Limited Common Stock Fund. The Fund purchased
+47,066 shares of Common Stock for an aggregate of $504,000 in 1999.  Trimble, at
+its discretion, matches individual employee 401(k) Plan contributions up to $100
+per month. Trimble's matching contributions to the 401(k) Plan were $1.0 million
+in fiscal 1999, $1.2 million in 1998, and $1.0 million in 1997.
+
+     Profit-Sharing Plan. In 1995, Trimble introduced an employee profit-sharing
+plan in  which  all  employees,  excluding  executives  and  certain  levels  of
+management,  participate.  The plan distributes to employees approximately 5% of
+quarterly income before taxes. Payments under the plan during fiscal 1999, 1998,
+and 1997 were $1.2 million, $138,000, and $549,000, respectively.
+
+     Warrants.  On May 3, 1999 Trimble  granted  30,000  warrants at an exercise
+price of $9.75,  which  expire on March 29,  2004.  As of  December  31, 1999 no
+warrants had been exercised.
+
+     Common  shares  reserved  for future  issuances.  As of December  31, 1999,
+Trimble had  reserved  5,426,915  common  shares for issuance  upon  exercise of
+options outstanding and options available for grant under the 1993 Stock Option,
+1990 Director Stock Option, and 1992 Management Discount Stock Option plans, and
+available for issuance under the 1988 Employee Stock Purchase plan.
+
+
+
+
+
+Note 14 - Earnings per share:
+
+     In February 1997, the Financial Accounting Standards Board issued Statement
+of Financial Accounting Standards No. 128, "Earnings Per Share." Trimble adopted
+this standard,  as required for its January 2, 1998, Financial  Statements.  For
+the years presented, Trimble presents both basic and diluted earnings (loss) per
+share.
+
+     The following data show the amounts used in computing  earnings  (loss) per
+share and the  effect  on the  weighted-average  number  of  shares of  dilutive
+potential Common Stock.
+
+
+     If  Trimble  had  reported  net  income  in  1998,  additional  387  common
+equivalent  shares related to  outstanding  options and warrants would have been
+included in the calculation of diluted loss per share.
+
+Note 15 - Comprehensive income (loss):
+
+     As of January 3, 1998,  Trimble adopted  Statement of Financial  Accounting
+Standards  No.  130  (SFAS  130),  "Reporting  Comprehensive  Income."  SFAS 130
+establishes new rules for the reporting and displaying of comprehensive  income.
+SFAS 130 requires unrealized gains or losses on the Company's available-for-sale
+securities   and   cumulative   translation   adjustments   to  be  included  in
+comprehensive  income. The components of accumulated other comprehensive  income
+(loss), net of related tax include:
+
+
+
+
+Note 16 - Statement of cash flow data:
+
+
+Note 17 - Litigation:
+
+     Settled Matters. On December 6, 1995, two shareholders filed a class action
+lawsuit  against the Company and certain  directors and officers of the Company.
+Subsequent to that date,  additional  lawsuits were filed by other shareholders.
+The lawsuits were  subsequently  amended and  consolidated  into one  complaint,
+which was filed on April 5, 1996. The amended  consolidated  complaint sought to
+bring an action as a class action  consisting  of all persons who  purchased the
+Common Stock of the Company during the period April 18, 1995,  through  December
+5, 1995 (the "Class Period").  The plaintiffs alleged that the defendants sought
+to induce the members of the Class to purchase the Company's Common Stock during
+the  Class  Period  at  artificially  inflated  prices.  The  plaintiffs  sought
+recissory or compensatory  damages with interest thereon,  as well as reasonable
+attorneys'  fees and  extraordinary  equitable  and/or  injunctive  relief.  The
+parties  negotiated a definitive  stipulation of settlement,  which was formally
+approved,  by  the  court  on  September  23,  1999.  The  final  court-approved
+settlement  was funded by insurance  proceeds and payment by the Company of $1.8
+million.  The entire  amount of the  Company's  obligation  has been  previously
+reserved,  and the final  settlement  did not  adversely  effect  the  Company's
+financial position or results of operations.
+
+     Pending Matters. On November 12, 1998, the Company brought suit in district
+court in San Jose,  California,  against Silicon RF Technology,  Inc. (SiRF) for
+alleged patent  infringement of three Trimble  patents.  Trimble and SiRF have a
+negotiated a settlement which includes cross licensing.
+
+     Other  Matters.   Western  Atlas,  a  Houston-based  supplier  to  the  oil
+exploration  business,  has accused  the  Company  and other GPS  manufacturers,
+suppliers,  and users of  infringing  two U.S.  Patents owned by it, namely U.S.
+Patent Nos.  5,014,066 and 5,619,212.  Western Atlas contends that the foregoing
+patents cover certain aspects of GPS receiver design.  Lawsuits for infringement
+of these two patents  were filed in federal  district  court in  Houston,  Texas
+against Rockwell  International  Corp. and Garmin  International  Inc., and both
+have  settled.  Although  Trimble  has not  been  sued by  Western  Atlas on the
+foregoing  patents,  the  Company  has  instructed  its  counsel  thoroughly  to
+investigate the infringement  threat.  At the present time, the Company does not
+expect this threat to have adverse consequences on the Company's business.
+
+     On January 31,  1997,  counsel for one Philip M. Clegg wrote to the Company
+asserting that a license under Mr. Clegg's U.S. Patent No. 4,807,131,  which was
+issued  February 21, 1989,  would be required by the Company  because of a joint
+venture  that  the  Company  had  previously   entered  into  with   Caterpillar
+Corporation  concerning  the use of Trimble  GPS  products in  combination  with
+earth-moving  equipment.  To date, no infringement  action has been initiated on
+behalf  of Mr.  Clegg.  The  Company  believes  that  there  will be no  adverse
+consequences to the Company as a result of this inquiry.
+
+     The Company is also a party to other  disputes  incidental to its business.
+The Company  believes that the ultimate  liability of the Company as a result of
+such disputes,  if any, would not be material to its overall financial position,
+results of operations, or liquidity.
+
+
+
+
+Note 18 - Selected quarterly financial data (unaudited):
+
+
+     Significant quarterly items include the following: (i) in the third quarter
+of 1998 Trimble recorded a $2.5 million restructuring charge, (ii) in the fourth
+quarter of 1998 Trimble recorded a $7.8 million restructuring charge.
+
+
+
+
+
+                REPORT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+
+The Board of Directors and Shareholders, Trimble Navigation Limited
+
+     We have audited the  accompanying  consolidated  balance  sheets of Trimble
+Navigation Limited as of December 31, 1999, and January 1, 1999, and the related
+consolidated statements of operations,  shareholders' equity, and cash flows for
+each of the three years in the period ended  December 31, 1999.  Our audits also
+included the financial  statement schedule listed in the index at Item 14(a)(2).
+These financial  statements and schedule are the responsibility of the Company's
+management.  Our  responsibility  is to express  an  opinion on these  financial
+statements and schedule, based on our audits.
+
+     We conducted our audits in accordance  with  auditing  standards  generally
+accepted in the United States.  Those standards require that we plan and perform
+the audit to obtain reasonable  assurance about whether the financial statements
+are free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements.  An
+audit also includes  assessing the accounting  principles  used and  significant
+estimates  made by  management,  as well as  evaluating  the  overall  financial
+statement  presentation.  We believe that our audits provide a reasonable  basis
+for our opinion.
+
+     In our opinion,  the financial  statements  and schedule  referred to above
+present fairly, in all material respects, the consolidated financial position of
+Trimble  Navigation  Limited at December 31, 1999,  and January 1, 1999, and the
+consolidated  results of its operations and its cash flows for each of the three
+years in the period ended  December  31, 1999,  in  conformity  with  accounting
+principles  generally accepted in the United States.  Also, in our opinion,  the
+related financial statement  schedule,  when considered in relation to the basic
+financial statements taken as a whole,  presents fairly in all material respects
+the information set forth therein.
+
+                                                 /s/ ERNST & YOUNG LLP
+
+Palo Alto, California
+January 25, 2000
+
+
+
+
+Item 9.         Changes in and Disagreements with Accountants on Accounting
+                Financial Disclosure
+
+         Not applicable.
+
+                                    PART III
+
+Item 10.        Directors and Executive Officers of the Registrant
+
+     The  section  titled  "Nominees"  and the  section  titled  "Section  16(a)
+Beneficial Ownership Reporting  Compliance" in the Company's Proxy Statement for
+its 2000  annual  meeting of  shareholders  to be held on May 11,  2000  ("Proxy
+Statement"),  with  respect to directors  of the Company and  compliance  of the
+directors  and  executive  officers of the  Company  with  Section  16(a) of the
+Exchange Act required by this item are incorporated herein by reference.
+
+     The  information  with  respect to the  executive  officers  of the Company
+required by this item is included in Part I hereof under the caption  "Executive
+Officers of the Company."
+
+Item 11.        Executive Compensation
+
+     The following  sections of the Proxy Statement are  incorporated  herein by
+reference:  "Compensation of Executive  Officers,"  "Compensation of Directors,"
+"Compensation Committee Interlocks and Insider Participation," and "Compensation
+Committee Report" and "Company Performance."
+
+Item 12.        Security Ownership of Certain Beneficial Owners and Management
+
+     The section titled  "Security  Ownership of Certain  Beneficial  Owners and
+Management" of the Proxy Statement is incorporated herein by reference.
+
+Item 13.        Certain Relationships and Related Transactions
+
+     The section titled "Certain  Relationships and Related Transactions" of the
+Proxy Statement is incorporated herein by reference.
+
+
+
+                                     PART IV
+
+Item 14. Exhibits, Financial Statement Schedules, and Reports on form 8-K
+
+(a)     1.      Financial Statements
+
+     The following  consolidated  financial statements required by this item are
+included in Part II Item 8 hereof under the caption  "Financial  Statements  and
+Supplementary Data."
+
+                                                                    Page In This
+                                                                   Annual Report
+                                                                    On Form 10-K
+
+Consolidated Balance Sheets at December 31, 1999, and January 1, 1999       26
+
+Consolidated Statements of Operations for each of the three fiscal years
+in the period ended December 31, 1999                                       27
+
+Consolidated Statement of Shareholders' Equity for the three fiscal years
+ended December 31, 1999                                                     28
+
+Consolidated Statements of Cash Flows for each of the three fiscal years
+in the period ended December 31, 1999                                       29
+
+Notes to Consolidated Financial Statements                               30-49
+
+        2.      Financial Statement Schedules
+
+     The following financial statement schedule is filed as part of this report:
+
+                                                                    Page In This
+                                                                   Annual Report
+                                                                    On Form 10-K
+
+         Schedule II - Valuation and Qualifying Accounts                   S-1
+
+     All other  schedules  have been  omitted as they are either not required or
+not  applicable,  or the required  information  is included in the  consolidated
+financial statements or the notes thereto.
+
+        3.      Exhibits
+
+Exhibit
+Number
+
+3.1     Restated Articles of Incorporation of the Company filed
+        June 25, 1986. (17)
+
+3.2     Certificate of Amendment of Articles of Incorporation of the Company
+        filed October 6, 1988. (17)
+
+3.3     Certificate of Amendment of Articles of Incorporation of the Company
+        filed July 18, 1990. (17)
+
+3.4     Certificate of Determination of the Company filed February 19, 1999.(17)
+
+3.8     Amended and Restated Bylaws of the Company. (21)
+
+4.1     Specimen copy of certificate for shares of Common Stock of the
+        Company. (1)
+
+4.2     Preferred Shares Rights Agreement dated as of February 18, 1999. (16)
+
+
+
+10.4    Form of Indemnification Agreement between the Company and its officers
+        and directors. (1)
+
+10.5    Loan Agreement dated December 21, 1984, between the Company and certain
+        lenders. (1)
+
+10.6    Note Purchase Agreement dated July 7, 1986, between the Company and
+        certain purchasers. (1)
+
+10.7    Form of Common Stock Purchase Agreement dated March 1989 between the
+        Company and certain investors. (1)
+
+10.8*   Memorandum of Understanding  dated March 11, 1988, and License Agreement
+        dated September 5, 1988, between the Company and AEG Aktiengesellschaft,
+        with Amendments No. 1, No. 2, and No. 3 thereto,  and Letter  Agreement
+        dated December 22, 1989,  between Trimble and Telefunken Systemtechnik
+        GmbH. (1)
+
+10.9    Note Purchase Agreement dated December 6, 1988, between the Company and
+        AEG Aktiengesellschaft. (1)
+
+10.10   Master Equipment Lease Agreement dated April 26, 1990, between the
+        Company and MATSCO Financial  Corporation,  and schedule of
+        lease extensions. (1)
+
+10.11*  Agreement dated February 6, 1989, between the Company and Pioneer
+        Electronic Corporation. (1)
+
+10.15   International OEM Agreement dated May 30, 1989, between the Company and
+        Geotronics AB. (1)
+
+10.16   Patent License Agreement dated January 18, 1990, between the Company and
+        the United States Navy. (1)
+
+10.18   Asset Purchase Agreement dated April 19, 1990, between the Company;
+        TR Navigation  Corporation,  a subsidiary of the Company;
+        and Tracor Aerospace, Inc. (1)
+
+10.19   Promissory  Note dated April 20,  1990,  for the  principal  amount of
+        $400,000  issued by TR  Navigation  Corporation  to DAC
+        International, Inc. (1)
+
+10.20   Guarantee dated April 20, 1990, between the Company and DAC
+        International, Inc. (1)
+
+10.21   Indemnification  Agreement dated April 20, 1990, between the Company;
+        TR Navigation Corporation,  a subsidiary of the Company;
+        DAC International, Inc.; and Banner Industries, Inc. (1)
+
+10.22   Distributor  Agreement  dated April 20,  1990,  between TR  Navigation
+        Corporation,  a  subsidiary  of the  Company,  and DAC
+        International, Inc. (1)
+
+10.23   Distributor Agreement dated December 6, 1989, between the Company and
+        DAC International, Inc. (1)
+
+10.24   Lease  Agreement  dated April 26, 1990,  between the Company and NCNB
+        Texas National Bank,  Trustee for the Company's  offices
+        located at 2105 Donley Drive, Austin, Texas. (1)
+
+10.32   1990 Director Stock Option Plan, as amended, and form of Outside
+        Director Non-statutory Stock Option Agreement. (8)
+
+10.35   Sublease Agreement dated January 2, 1991, between the Company,  Aetna
+        Insurance  Company,  and Poqet Computer  Corporation for
+        property located at 650 North Mary Avenue, Sunnyvale, California. (2)
+
+10.36   Lease Agreement dated February 20, 1991,  between the Company,
+        John Arrillaga  Separate  Property Trust, and Richard T. Peery
+        Separate Property Trust for property located at 880 West Maude,
+        Sunnyvale, California. (2)
+
+10.37   Share and Asset Purchase  Agreement dated February 22, 1991,  among the
+        Company and Datacom Group Limited and Datacom Software Research
+        Limited. (3)
+
+10.38   License Agreement dated June 29, 1991, between the Company and Avion
+        Systems, Inc. (3)
+
+
+
+10.40   Industrial Lease Agreement dated December 3, 1991,  between the Company
+        and Aetna Life Insurance  Company for property located at 585 North Mary
+        Avenue, Sunnyvale, California. (5)
+
+10.41   Industrial Lease Agreement dated December 3, 1991,  between the Company
+        and Aetna Life Insurance  Company for property located at 570 Maude
+        Court, Sunnyvale, California. (5)
+
+10.42   Industrial Lease Agreement dated December 3, 1991,  between the Company
+        and Aetna Life Insurance  Company for property located at 580 Maude
+        Court, Sunnyvale, California. (5)
+
+10.43   Industrial Lease Agreement dated December 3, 1991,  between the Company
+        and Aetna Life Insurance  Company for property located at 490 Potrero
+        Avenue, Sunnyvale, California. (5)
+
+10.44   Master Lease Agreement dated September 18, 1991, between the Company and
+        United States Leasing Corporation. (5)
+
+10.45   Equipment Financing Agreement dated May 15, 1991, between the Company
+        and Corestates Bank, N.A. (5)
+
+10.46+  1992 Management Discount Stock Option and form of Nonstatutory Stock
+        Option Agreement (5).
+
+10.48   Equipment Financing Agreement dated April 27, 1992, with AT&T Systems
+        Leasing Corporation. (7)
+
+10.49** Memorandum of Understanding dated December 24, 1992, between the Company
+        and Pioneer Electronics Corporation. (7)
+
+10.51   Revolving Credit Agreement for $15,000,000 dated January 27, 1993, with
+        Barclays Business Credit, Inc. (7)
+
+10.52   $30,000,000 Note and Warrant Purchase Agreement dated June 13, 1994,
+        with John Hancock Life Insurance Company. (9)
+
+10.53   Revolving Credit  Agreement for $20,000,000 and $10,000,000,  dated
+        August 4, 1995, with the First National Bank of Boston and
+        Mellon Bank N.A., respectively. (1)
+
+10.54   Revolving Credit Agreement - First Amendment. (12)
+
+10.55   Revolving Credit Agreement - Second Amendment. (12)
+
+10.56   Revolving Credit Agreement - Third Amendment. (13)
+
+
+
+10.58   Revolving  Credit  Agreement for $50,000,000  dated August 27, 1997,
+        with Fleet National Bank, Bank of Boston N.A., Sanwa Bank
+        of California, and ABN Amro Bank N.V., respectively. (15)
+
+10.59   1993 Stock Option Plan, as amended. (18)
+
+10.60   1988 Employee Stock Purchase Plan, as amended. (18)
+
+10.61   Revolving Credit Agreement - Loan - Third Amendment. (17)
+
+10.62+  Employment Agreement between the Company and Bradford W. Parkinson dated
+        September 1, 1998. (17)
+
+10.63+  Employment Agreement between the Company and Robert S. Cooper dated
+        September 1, 1998. (17)
+
+10.64+  Consulting Agreement between the Company and Bradford W. Parkinson dated
+        September 1, 1998. (17)
+
+10.65+  Standby Consulting Agreement between the Company and Bradford W.
+        Parkinson dated September 1, 1998. (17)
+
+
+
+10.66+  Consulting Agreement between the Company and Robert S. Cooper dated S
+        eptember 1, 1998. (17)
+
+10.67+  Employment Agreement between the Company and Steven W. Berglund dated
+        March 17, 1999. (17)
+
+10.68+  Nonqualified deferred Compensation Plan of the Company effective
+        February 10, 1994. (17)
+
+10.69***Asset  Purchase  Agreement  dated  August 10, 1999 by and among  Trimble
+        Navigation  Limited  and  Solectron  Corporation  and Solectron Federal
+        Systems, Inc. (19)
+
+10.70***Supply  Agreement  dated August 10, 1999 by and among  Trimble
+        Navigation  Limited and  Solectron  Corporation  and  Solectron
+        Federal Systems, Inc. (19)
+
+10.71   Revolving Credit Agreement - Loan - Fourth Amendment. (20)
+
+21.1    Subsidiaries of the Company. (21)
+
+23.1    Consent of Ernst & Young LLP, independent auditors (see page 79).
+
+24.1    Power of Attorney (included on page 57).
+
+27.1    Financial Data Schedule (21).
+
+*       Confidential treatment has been previously granted for certain portions
+        of this exhibit pursuant to an order dated July 11, 1990.
+
+**      Confidential treatment has been previously granted for certain portions
+        of this exhibit pursuant to an order dated March 2, 1995.
+
+***     Confidential  treatment  has been granted for certain  portions of this
+        exhibit pursuant to an order dated effective October 5, 1999.
+
++       Management contract or compensatory plan or arrangement  required to be
+        filed as an exhibit to this Annual Report on Form 10-K pursuant to Item
+        14(c) thereof.
+
+(1)     Incorporated  by reference to  identically  numbered  exhibits filed in
+        response to Item 16(a),  "Exhibits," of the  registrant's  Registration
+        Statement  on Form S-1, as amended  (File No.  33-35333),  which became
+        effective July 19, 1990.
+
+(2)     Incorporated  by reference to  identically  numbered  exhibits filed in
+        response to Item 14(a),  "Exhibits," of the registrant's  Annual Report
+        on Form 10-K for the fiscal year ended December 31, 1990.
+
+(3)     Incorporated  by reference to  identically  numbered  exhibits filed in
+        response  to Item 16,  "Exhibits  and Forms  8-K," of the  registrant's
+        Report on 10-Q for the quarter ended  September 30, 1991, as amended on
+        Form 8, filed February 11, 1992.
+
+(4)     Incorporated  by  reference  to Exhibit No. 4.1 filed in  response to
+        Item 8,  "Exhibits,"  of the  registrant's  Registration Statement on
+        Form S-8 (File No. 33-45167), which became effective January 21, 1992.
+
+(5)     Incorporated  by reference to  identically  numbered  exhibits filed in
+        response to Item 16(a)  "Exhibits,"  of the  registrant's  Registration
+        Statement on Form S-1 (File No. 33-45990), which was filed February 18,
+        1992.
+
+(6)     Incorporated  by  reference  to  Exhibits  4.1,  4.2 and 4.3  filed  in
+        response  to  Item  8,  "Exhibits,"  of the  registrant's  Registration
+        Statement on Form S-8 (File No.  33-57522),  which was filed on January
+        28, 1993.
+
+(7)     Incorporated  by reference to  identically  numbered  exhibits filed in
+        response to Item 14(a),  "Exhibits," of the registrant's  Annual Report
+        on Form 10-K for the fiscal year ended December 31, 1992.
+
+(8)     Incorporated  by reference to  identically  numbered  exhibits filed in
+        response to Item 14(a),  "Exhibits," of the registrant's  Annual Report
+        on Form 10-K for the fiscal year ended December 31, 1993.
+
+
+
+(9)     Incorporated  by reference to  identically  numbered  exhibits filed in
+        response to Item 6A,  "Exhibits," of the  registrant's Annual Report on
+        Form 10-Q for the quarter ended June 30, 1994.
+
+(10)    Incorporated  by reference to  identically  numbered  exhibits filed in
+        response to Item 14(a),  "Exhibits," of the registrant's  Annual Report
+        on Form 10-K for the fiscal year ended December 31, 1994.
+
+(11)    Incorporated  by reference to  identically  numbered  exhibits filed in
+        response to Item 14(a),  "Exhibits," of the registrant's  Annual Report
+        on Form 10-K for the fiscal year ended December 31, 1995.
+
+(12)    Incorporated  by reference to  identically  numbered  exhibits filed in
+        response to Item 6A,  "Exhibits," of the  registrant's  Annual Report on
+        Form 10-Q for the quarter ended June 30, 1996.
+
+(13)    Incorporated  by reference to  identically  numbered  exhibits filed in
+        response to Item 6A,  "Exhibits," of the  registrant's Annual Report on
+        Form 10-Q for the quarter ended September 30, 1996.
+
+(14)    Incorporated  by reference to  identically  numbered  exhibits filed in
+        response to Item 6A,  "Exhibits," of the  registrant's Annual Report on
+        Form 10-Q for the quarter ended June 30, 1997.
+
+(15)    Incorporated  by reference to  identically  numbered  exhibits filed in
+        response to Item 6A,  "Exhibits," of the  registrant's Annual Report on
+        Form 10-Q for the quarter ended September 30, 1997.
+(16)    Incorporated  by  reference  to Exhibit  No. 1 to the  registrant's
+        Registration  Statement  on Form 8-A,  which was filed on
+        February 18,1999.
+
+(17)    Incorporated  by reference to  identically  numbered  exhibits filed in
+        response to Item 14(a),  "Exhibits," of the registrant's  Annual Report
+        on Form 10-K for the fiscal year ended January 1, 1999.
+
+(18)    Incorporated  by reference to  identically  numbered  exhibits filed in
+        response to Item 6A,  "Exhibits," of the  registrant's Annual Report on
+        Form 10-Q for the quarter ended July 2, 1999.
+
+(19)    Incorporated  by reference to  identically  numbered  exhibits filed in
+        response to Item 7(c),  "Exhibits," of the registrant's  Report on Form
+        8-K, which was filed on August 25, 1999.
+
+(20)    Incorporated  by reference to  identically  numbered  exhibits filed in
+        response to Item 6A,  "Exhibits," of the  registrant's Annual Report on
+        Form 10-Q for the quarter ended October 1, 1999.
+
+(21)    Filed herewith.
+
+(b)     Reports on Form 8-K.
+
+     No  reports  on Form 8-K were  filed by the  registrant  during  the fourth
+quarter ended December 31, 1999.
+
+
+
+
+                                   SIGNATURES
+
+     Pursuant  to the  requirements  of  Section  13 or 15(d) of the  Securities
+Exchange Act of 1934, the registrant has duly caused this Report on Form 10-K to
+be signed on its behalf by the undersigned, thereunto duly authorized.
+
+                           TRIMBLE NAVIGATION LIMITED
+
+
+                           By: /s/ Steven W. Berglund
+                             --------------------------------------------
+                                Steven W. Berglund,
+                                President and Chief Executive Officer
+
+
+                                March 27, 2000
+
+
+                                POWER OF ATTORNEY
+
+     Know all  persons  by these  presents,  that each  person  whose  signature
+appears   below   constitutes   and   appoints   Steven  W.   Berglund   as  his
+attorney-in-fact,  with  the  power  of  substitution,  for  him in any  and all
+capacities,  to sign any amendments to this Report on Form 10-K, and to file the
+same, with exhibits  thereto and other documents in connection  therewith,  with
+the Securities and Exchange Commission, hereby ratifying and confirming all that
+said attorney-in-fact,  or his substitute or substitutes,  may do or cause to be
+done by virtue hereof.
+
+
+
+
+     Pursuant to the  requirements of the Securities  Exchange Act of 1934, this
+Annual  Report on Form 10-K has been signed  below by the  following  persons on
+behalf of the registrant and in the capacities and on the dates indicated:
+
+Signature                       Capacity in which Signed           Date
+- ----------------------------- ------------------------------ -------------------
+
+/s/ Steven W. Berglund        President, Chief Executive         March 27, 2000
+- ----------------------------- Officer, Director
+Steven W. Berglund
+
+
+/s/ Mary Ellen Genovese       Vice President Finance, and        March 27, 2000
+- ----------------------------- Chief Financial Officer
+Mary Ellen Genovese           (principal financial
+                              and principal accounting officer)
+
+
+/s/ Robert S. Cooper          Director                           March 15, 2000
+- -----------------------------
+Robert S. Cooper
+
+/s/ John B. Goodrich          Director                           March 15, 2000
+- -----------------------------
+John B. Goodrich
+
+/s/ William Hart              Director                           March 15, 2000
+- -----------------------------
+William Hart
+
+/s/ Ulf J. Johansson          Director                           March 20, 2000
+- -----------------------------
+Ulf J. Johansson
+
+/s/ Norman Y. Mineta          Director                           March 15, 2000
+- -----------------------------
+Norman Y. Mineta
+
+/s/ Bradford W. Parkinson     Director                           March 14, 2000
+- -----------------------------
+Bradford W. Parkinson
+
+
+
+                                                                SCHEDULE II
+
+
+
+                                                 TRIMBLE NAVIGATION LIMITED
+                                             VALUATION AND QUALIFIYING ACCOUNTS
+                                                  (IN THOUSANDS OF DOLLARS)
+
+
+- --------------------------------------
+
+** Net of recoveries
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       S-1
+
+
+
+
+
+                                INDEX TO EXHIBITS
+
+                                                                    SEQUENTIALLY
+EXHIBIT                                                               NUMBERED
+NUMBER            EXHIBIT                                               PAGE
+- --------------------------------------------------------------------------------
+
+3.8               Amended and Restated Bylaws of the Company           61-77
+
+21.1              Subsidiaries of the Company                             78
+
+23.1              Consent of Ernst & Young LLP, Independent Auditors      79
+
+27.1              Financial Data Schedule for the years ended
+                  December 31, 1999, and January 1, 1999                  80
+
+
+
+

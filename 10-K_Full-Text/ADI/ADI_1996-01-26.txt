@@ -1,0 +1,2638 @@
+
+10-K405
+ANALOG DEVICES, INC.
+
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-K
+
+  (MARK ONE)
+    /X/      ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE
+                 SECURITIES EXCHANGE ACT OF 1934 [FEE REQUIRED]
+
+                   FOR THE FISCAL YEAR ENDED OCTOBER 28, 1995
+                                       OR
+
+    / /    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE
+                SECURITIES EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+
+        FOR THE TRANSITION PERIOD FROM                TO                 
+                                       --------------    ---------------
+
+                           COMMISSION FILE NO. 1-7819
+
+                              ANALOG DEVICES, INC.
+             (Exact name of registrant as specified in its charter)
+
+              MASSACHUSETTS                                 04-2348234
+     (State or other jurisdiction of                     (I.R.S. Employer
+     incorporation or organization)                     Identification No.)
+
+    ONE TECHNOLOGY WAY, NORWOOD, MA                         02062-9106
+(Address of principal executive offices)                    (Zip Code)
+
+                                 (617) 329-4700
+              (Registrant's telephone number, including area code)
+
+
+          SECURITIES REGISTERED PURSUANT TO SECTION 12 (b) OF THE ACT:
+
+COMMON STOCK $.16 2/3 PAR VALUE                 NEW YORK STOCK EXCHANGE
+      Title of Each Class              Name of Each Exchange on Which Registered
+          SECURITIES REGISTERED PURSUANT TO SECTION 12 (g) OF THE ACT:
+
+                                      NONE
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. /X/
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or such shorter period that the registrant
+was required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. YES /X/ NO
+
+     The aggregate market value of the voting stock held by non-affiliates of
+the registrant was approximately $2,630,610,015 based on the closing price of
+the Common Stock on the New York Stock Exchange Composite Tape reporting system
+on December 29, 1995.
+
+     Indicate the number of shares outstanding of each class of Common Stock:
+114,677,500 shares of $.16 2/3 par value Common Stock as of December 29, 1995.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+
+
+                                     PART I
+
+ITEM 1. BUSINESS
+
+Analog Devices, Inc. ("Analog" or the "Company") designs, manufactures and
+markets a broad line of high-performance linear, mixed-signal and digital
+integrated circuits ("ICs") that address a wide range of real-world signal
+processing applications. The Company's principal products include
+general-purpose, standard-function linear and mixed-signal ICs ("SLICs"),
+special-purpose linear and mixed-signal ICs ("SPLICs") and digital signal
+processing ICs ("DSP ICs"). The Company also manufactures and markets devices
+using assembled product technology.
+
+Nearly all of the Company's products are components, which are typically
+incorporated by original equipment manufacturers (OEMs) in a wide range of
+equipment and systems for use in communications, computer, industrial,
+instrumentation, military/aerospace and high-performance consumer electronics
+applications. The Company sells its products worldwide; approximately 44% of the
+Company's fiscal 1995 net sales were made to customers in North America, while
+most of the balance was to customers in Western Europe and the Far East.
+
+INDUSTRY BACKGROUND
+
+Real-world phenomena, such as temperature, pressure, sound, images, speed,
+acceleration, position and rotation angle, are inherently analog in nature,
+consisting of continuously varying information. This information can be detected
+and measured using analog sensors, which represent real-world phenomena by
+generating continuously varying voltages and currents. The signals from these
+sensors are initially processed using analog methods, such as amplification,
+filtering and shaping. They are then usually converted to digital form for input
+to a microprocessor, which is used to manipulate, store or display the
+information. In many cases the signals are further processed after conversion to
+digital form using a technology called "digital signal processing." In addition,
+digital signals are frequently converted to analog form to provide signals for
+analog display, sound, or control functions. These manipulations and
+transformations are collectively known as "real-world signal processing."
+
+Significant advances in semiconductor technology over the past 10 to 15 years
+have led to substantial increases in the performance and functionality of ICs
+used for signal processing applications. These advances include the ability to
+create VLSI (Very Large Scale Integration) mixed-signal ICs that contain both
+high-performance analog circuitry and large amounts of high-density digital
+circuitry. The analog circuitry portion of the IC is used for manipulating real-
+world signals while still in analog form and for converting analog signals into
+digital form (or vice versa), and the digital portion is used for further
+processing analog signals subsequent to their conversion to digital form. The
+ICs resulting from these advances are used as components in equipment and
+systems to achieve higher performance and more efficient signal processing.
+
+COMPANY OVERVIEW AND STRATEGY
+
+Analog believes it is one of the world's largest suppliers of SLIC products. The
+Company's SLIC products are primarily high-performance, single-function devices.
+The majority of the Company's SLIC revenue is attributable to data converters
+(analog-to-digital and digital-to-analog) and amplifiers. SLICs are sold to a
+very large customer base for a wide variety of applications, including
+applications in the medical, engineering and scientific instruments market,
+factory automation market and military/aerospace market.
+
+Over the past five years, Analog has sought to balance its traditionally stable
+SLIC business with growth opportunities for SPLICs and DSP ICs. Building upon
+its expertise in linear IC technology, the Company has developed special-purpose
+linear and mixed-signal ICs tailored to specific high-volume applications in
+target markets. The Company also has extended its expertise in analog signal
+processing and data conversion to develop DSP ICs. The Company's SPLICs and DSP
+ICs address the emerging demand for high levels of performance in many
+communications, computer and other high-volume applications. These products have
+a high level of functionality (i.e., many functions on one chip) to satisfy
+OEMs' requirements for an integrated solution with low cost per function.
+
+
+
+
+To build upon its position as a leader in real-world signal processing, Analog
+is pursuing strategies that include the following:
+
+     -   Expand Traditional SLIC Business. The Company has taken a three-pronged
+         approach to grow its SLIC business. First, it is seeking to solidify
+         its leading position in the market for general purpose operational
+         amplifiers and data converters, particularly in instrumentation and
+         factory automation applications. Second, it is expanding its SLIC
+         product portfolio to address other market segments, such as power
+         management ICs for mobile phones and laptop computers and interface ICs
+         for modems and printers. Third, the Company is developing SLICs for new
+         high-volume applications in the communications, computer and consumer
+         markets, including radio frequency ("RF") products for both wireless
+         and broadband wired communication applications.
+
+     -   Become a Major Supplier of General-Purpose DSP ICs. The Company's
+         general-purpose DSP ICs consist of a family of programmable 16-bit
+         fixed point and 32-bit floating point DSPs. These products offer
+         processing speed, ease of programming and on-chip memory that allow
+         system designers to cost effectively implement complex algorithms for
+         signal processing applications. Analog believes that this product line
+         will enable it to build a leading position in the general-purpose DSP
+         market, principally for communications and computer applications.
+
+     -   Pursue Growth Opportunities for System-Level Signal-Processing ICs. The
+         Company is leveraging its expertise in both analog signal processing
+         and data conversion to develop SPLICs and DSP ICs that provide
+         system-level solutions for various growth applications, particularly in
+         the communications and computer markets. The Company's system-level ICs
+         often replace a combination of SLICs and general-purpose DSPs that are
+         used by customers in their initial product designs. The Company offers
+         system-level ICs for wireless communications applications such as
+         digital mobile phones and base stations, and for computer applications
+         such as audio enhancement in multimedia PCs.
+
+     -   Leverage Core Technologies to Develop Innovative Products. The Company
+         plans to continue applying its core technologies to develop a
+         continuous flow of new products. In addition, the Company plans to
+         continue to extend its core technologies to include new technologies,
+         such as RF signal processing, which Analog has used primarily for
+         wireless communications applications, and surface micromachining, which
+         Analog has used to develop an accelerometer for automobile airbag
+         systems. The Company intends to use its micromachining technology to
+         address other applications outside the automotive industry.
+
+PRINCIPAL PRODUCTS
+
+The Company operates predominantly in one industry segment: the design,
+manufacture and marketing of a broad line of high-performance linear,
+mixed-signal and digital integrated circuits that address a wide range of
+real-world signal processing applications. Analog's products can be divided into
+four classifications: SLICs; SPLICs and DSP ICs; hard disk drive ICs; and
+assembled products.
+
+A substantial portion of the Company's products are proprietary (available only
+from Analog), while equivalents to most of its other products are available from
+a limited number of other suppliers. Many of the Company's products tend to be
+less price sensitive than other types of ICs, such as DRAM (Dynamic Random
+Access Memory) ICs, primarily because there are fewer suppliers and because
+OEMs, in many cases, after qualifying one manufacturer's high-performance linear
+or mixed-signal IC for a specific application, are reluctant to switch
+manufacturers due to the risk of degradation in the performance of their product
+and/or the effort required to qualify additional suppliers.
+
+The following table sets forth the approximate percentage of revenue
+attributable to each of the Company's four product groups for the past three
+fiscal years:
+
+
+
+
+
+
+SLICs
+
+Analog believes that it is one of the world's largest suppliers of SLIC
+products. SLICs have been the foundation of the Company's business for more than
+20 years. The Company's SLIC products are primarily high-performance, single-
+function devices. The majority of the Company's SLIC revenue is attributable to
+data converters (analog-to-digital and digital-to-analog) and amplifiers. Other
+SLIC products offered by the Company include analog signal-processing devices
+(such as analog multipliers), voltage references and comparators. The Company is
+currently expanding its SLIC product offerings in areas where it traditionally
+has had limited focus, principally interface circuits and power management ICs.
+It is also expanding its SLIC product line to include a much larger number of
+products designed to operate from single-supply 3- or 5-volt power sources to
+better meet the needs of customers designing portable, battery- operated
+equipment.
+
+Analog's SLIC products tend to be general purpose in nature, which allows
+customers to incorporate them in a wide variety of equipment and systems.
+Analog's product portfolio includes several hundred SLICs, any one of which can
+have as many as several hundred customers. SLICs typically have long product
+life cycles. The Company's SLIC customers include both OEMs and customers who
+build equipment for their own use. Historically, most SLICs have been purchased
+by OEMs which serve the industrial and military/aerospace markets, but they are
+now also being used for applications in commercial and consumer communications
+equipment, personal computers (PCs) and peripheral equipment used with PCs and
+computers.
+
+By using standard, high-performance, readily available, off-the-shelf components
+in their designs, Analog's customers can reduce the time required to develop and
+bring new products to market. Given the high cost of developing customized ICs,
+SLICs usually provide the most cost-effective solutions for low- to
+medium-volume applications. In addition, combinations of SLICs connected
+together on a printed circuit board can provide functionality that cannot
+currently be implemented with a single-chip device.
+
+SPLICs AND DSP ICs
+
+SPLICs and DSP ICs, which are collectively referred to as system-level ICs, are
+multi-function devices that feature high levels of functional integration on a
+single chip. Most SPLICs are mixed-signal devices (some of which include DSP
+capability) and the balance are linear-only devices. SPLICs are almost always
+designed to the requirements of a specific application, and the design process
+often includes significant input from one or more potential key customers.
+Market demand for SPLICs is driven by the benefits that result from combining a
+number of functions on a single circuit as opposed to a combination of SLICs and
+other ICs. These benefits include higher performance, lower cost per function,
+smaller size, lower weight, fewer parts and decreased power consumption. These
+products enable customers to achieve easier design-ins and faster time to
+market. The Company believes that these benefits are becoming more important to
+the Company's OEM customers as they increase their focus on high-performance,
+small, lightweight products, many of which are battery powered.
+
+The Company's general-purpose DSP ICs are designed to efficiently execute
+specialized programs (algorithms) associated with processing real-time,
+real-world data. The Company's fixed-point and floating-point DSP ICs share a
+common architecture and code compatibility, which allows system designers to
+address cost, performance and time-to- market constraints. Analog's DSP ICs are
+supported with specialized applications and easy-to-use, low-cost design tools,
+which reduce product development cost and time to market.
+
+The Company's DSP ICs include general-purpose DSPs and mixed-signal ICs that
+include a DSP core along with data conversion and analog signal processing
+circuitry. Demand for system-level ICs that incorporate both DSP functionality
+and sophisticated mixed-signal capability tailored to specific applications is
+increasing as customers continue to demand as much functionality as possible
+from a single chip.
+
+HARD DISK DRIVE ICs
+
+ICs in this product category are used in hard disk drives that serve as rotating
+mass storage devices in end products such as PCs, workstations and network
+servers. These ICs process analog signals from a hard disk drive's read/write
+head during read operations and position the read/write head over the desired
+track on a hard disk drive platter during read and write operations.
+
+
+
+
+ASSEMBLED PRODUCTS
+
+The Company's assembled products consist of hybrids, printed-board modules and
+multi-chip modules ("MCMs"). A hybrid consists of several chips and discrete
+components mounted and wired together on a substrate. A printed-board module
+consists of surface-mount components assembled on a small printed board that is
+then encapsulated in a small plastic case. An MCM consists of several chips
+assembled in an automated fashion in a multilayer package that provides high
+interconnect density at low cost.
+
+Revenues from this product group have been declining since 1989, as hybrids have
+been replaced in many new designs with smaller, lower-cost monolithic ICs that
+offer higher levels of performance and integration. The Company plans to
+continue marketing printed-board modules (primarily input/output modules used in
+industrial control and factory automation applications). Orders for assembled
+products overall showed a year-over-year increase in fiscal 1995 following
+several years of decline as demand for recently designed MCMs offset declining
+demand for older hybrid products.
+
+MARKET AND APPLICATIONS
+
+The Company's products are sold primarily to OEMs that incorporate them in
+equipment, instruments and systems sold to end users for a wide variety of
+applications, including communications equipment; computers and computer
+peripherals; engineering, medical and scientific instruments; factory automation
+equipment; military/aerospace equipment; high-end consumer electronics products;
+and automotive. The Company's growth has been aided both by the expansion of
+these markets and the increasing use of computer technology in the equipment and
+systems sold in these markets.
+
+For fiscal 1995, Analog's 20 largest customers accounted for approximately 25%
+of the Company's net sales. The largest single customer represented less than 5%
+of net sales. Sales of the Company's products are not highly seasonal.
+
+Listed below are some of the characteristics of each of the Company's major
+served markets:
+
+COMMUNICATIONS -- includes data and fax modems, digital cellular telephones and
+portable, wireless communications equipment and broadband wired applications.
+The need for ever higher speed, coupled with more reliable, more
+bandwidth-efficient communications is creating increasing demand for systems
+that include both digital and analog signal processing capability. Demand for
+signal processing ICs for this market is also being driven by the equipment
+manufacturers' need for components that enable them to develop cost-effective
+products that feature high performance, small size, low weight and minimal power
+consumption.
+
+COMPUTERS AND COMPUTER PERIPHERALS -- includes high-performance personal
+computers, workstations and peripheral devices such as hard disk drives. The
+Company currently supplies a variety of ICs used in this market for functions
+such as graphic displays; interfaces between PCs and peripherals such as modems
+and printers; power and battery management; and enhanced sound input and output
+capability for business and entertainment applications.
+
+INSTRUMENTATION -- includes manufacturers of engineering, medical and scientific
+instruments. These products are usually designed using the highest performance
+SLICs available, where production volumes generally do not warrant custom or
+application-specific ICs.
+
+FACTORY AUTOMATION -- includes data acquisition systems, automatic process
+control systems, robotics, environmental control systems and automatic test
+equipment ("ATE"). These products generally require ICs that offer performance
+greater than that available from commodity-level ICs, but generally do not have
+production volumes that warrant custom or application-specific ICs. Combinations
+of SLICs are therefore usually employed to achieve the necessary functionality,
+except in ATE applications where the high level of electronic circuitry required
+per tester has created opportunities for SPLICs.
+
+MILITARY/AEROSPACE -- includes the military, commercial avionics and space
+markets, all of which require high-performance ICs that meet rigorous
+environmental and reliability specifications. Nearly all of the Company's SLICs
+can be supplied in versions that meet appropriate military standards. In
+addition, many products can be supplied to meet the standards required for
+broadcast satellites and other commercial space applications. Most of the
+Company's products sold into this market are derived from standard commercial
+grade ICs, although the Company sometimes develops products expressly for
+military/aerospace applications.
+
+
+
+
+CONSUMER ELECTRONICS -- The emergence of high-performance consumer products,
+such as compact disc players, digital VCRs, digital audio tape equipment and
+digital camcorders, has led to the need for high-performance SPLICs with a high
+level of functionality. Although the Company's revenue from this market is not
+currently significant, the Company expects to supply ICs for sophisticated
+products used by consumers for computing, communications and entertainment
+applications, and believes that many of these applications will involve digital
+signal processing.
+
+AUTOMOTIVE -- Although the automotive market has historically been served with
+low-cost, low-performance ICs, demand has emerged for higher performance devices
+for a wide range of applications. In response, Analog is developing products
+specifically for the automotive market. The Company began shipments of its first
+automotive product, a micromachined IC employed as a crash sensor in airbag
+systems, in 1993. This product serves as an alternative to an electromechanical
+sensor. The Company began shipments of this device to Delco in 1994 for use in
+several 1995 model-year General Motors "W body" cars. It is also being used in,
+or has been selected for, several other manufacturers' airbag systems.
+
+RESEARCH AND DEVELOPMENT
+
+The markets served by Analog are characterized by rapid technological changes
+and advances. Accordingly, the Company makes substantial investments in the
+design and development of new products and processes, and for significant
+improvement of existing products and processes. Analog spent $134.3 million
+during fiscal 1995 for the design, development and improvement of new and
+existing products and processes, compared to $106.9 million during fiscal 1994
+and $94.1 million during fiscal 1993.
+
+In fiscal 1995, approximately half of the Company's R&D expenditures were
+devoted to the design and development of SPLICs and DSP ICs, and the development
+and improvement of processes used for these products. The Company believes that
+it will be able to leverage its core technological competencies and leadership
+position in linear and DSP technology to design and develop a wide range of
+highly integrated, high-performance, cost-effective mixed-signal SPLICs, many of
+which will include DSP capability. At the same time, however, the Company
+expects to continue developing new and improved SLIC products to increase its
+share of the SLIC market. In support of its research and development activities,
+the Company employs several hundred engineers involved in product and process
+development at several design centers and manufacturing sites located throughout
+the world.
+
+As of October 28, 1995, the Company owned 311 U.S. patents and had 210 patent
+applications on file with the United States patent office. The Company believes
+that while its patents may provide some advantage, its competitive position is
+largely determined by such factors as the knowledge, ability and experience of
+the Company's personnel, new product development, market recognition and ongoing
+marketing efforts, customer service and technical support.
+
+SALES CHANNELS
+
+Analog sells its products in both North America and internationally through a
+direct sales force, third-party distributors and independent sales
+representatives. Approximately 44% of fiscal 1995 revenue was derived from
+customers in North America. As of December 1, 1995, the Company had 15 sales
+offices in the United States, and its third-party distribution channel consisted
+of nine national and regional third-party distributors and several independent
+sales representatives with numerous locations throughout the U.S. and Canada.
+
+Approximately 28% of the Company's fiscal 1995 revenue was derived from sales to
+customers in Europe; 17% to customers in Japan; and 11% to customers in other
+international markets. As of December 1, 1995, the Company had direct sales
+offices in Australia, Austria, Denmark, France, Germany, Hong Kong, India,
+Israel, Italy, Japan, Korea, The Netherlands, Singapore, Sweden, Taiwan and the
+United Kingdom. The Company also had sales representatives and/or distributors
+in approximately 27 countries outside North America, including countries where
+the Company also has direct sales offices.
+
+Approximately 42% of Analog's fiscal 1995 revenue was derived from sales made
+through distributors. The Company's distributors typically maintain an inventory
+of Analog products. Some of these distributors also sell products competitive
+with the Company's products, including those for which the Company is an
+alternate source. Sales to certain distributors are made under agreements which
+provide protection to the distributors for their inventory of Company products
+against price reductions and products that are slow-moving or have been
+discontinued by the Company. These agreements generally contain a provision for
+the return of the products to the Company in the event the relationship with the
+distributor is terminated.
+
+
+
+
+Sales to North American distributors are not recognized until the products are
+resold by distributors to their customers. Sales made to distributors outside
+North America are recognized upon shipment to the distributor, but the Company
+provides specific reserves for possible returns and allowances.
+
+The Company's worldwide sales efforts are supported by an extensive promotional
+program that includes editorial coverage and paid advertising in trade
+publications; direct mail programs; promotional brochures; technical seminars;
+and participation in trade shows. The Company publishes and distributes
+full-length databooks, short-form catalogs, applications guides, technical
+handbooks and detailed data sheets for individual products. The Company also
+maintains a staff of application engineers who aid customers in incorporating
+Analog's products into their products during their product development cycles.
+
+PRODUCTION AND RAW MATERIALS
+
+Monolithic integrated circuit components are manufactured in a sequence of
+production steps that include wafer fabrication, wafer testing, cutting the
+wafer into individual "chips" (or dice), assembly of the dice into packages and
+electrical testing of the devices in final packaged form. The raw materials used
+to manufacture these devices include silicon wafers, processing chemicals
+(including liquefied gases), precious metals, ceramic packages and plastic used
+for plastic packaging.
+
+In addition to using industry-standard bipolar and CMOS wafer fabrication
+processes, Analog employs a number of Company-developed proprietary processes
+specifically tailored for use in fabricating high-performance linear and
+mixed-signal SLICs and SPLICs.
+
+Analog's IC products are fabricated both at the Company's production facilities
+and by third-party wafer fabricators. Assuming that the Company can continue to
+maintain favorable relationships with its third-party wafer fabricators, it
+intends to continue using such suppliers for meeting most of its needs for
+wafers that can be fabricated using industry- standard digital processes. The   
+Company intends to rely primarily on its own facilities for production of
+wafers fabricated with linear and mixed-signal processes. The Company operates
+wafer fabrication facilities in Wilmington, Massachusetts; Santa Clara,
+California; and Limerick, Ireland for production of linear and mixed-signal
+devices. The Company also operates assembly and test facilities located in the
+United States, Ireland, the Philippines and Taiwan. The Company uses two
+principal foundries, Taiwan Semiconductor Manufacturing Company and Chartered
+Semiconductor Corporation for the production of digital and VLSI mixed-signal
+devices.
+
+Hybrid products are manufactured by mounting and connecting together several
+integrated circuit chips in a single package. Some of the chips used in the
+Company's hybrids are manufactured by the Company and some are purchased from
+outside suppliers. The production process for modular components, subsystems and
+systems consists primarily of assembly, packaging and testing. Some of the
+Company's assembled products are assembled and tested within the Company's U.S.
+manufacturing facilities, while others are assembled and tested at Company-owned
+facilities outside the United States or by subcontractors, principally in the
+Far East.
+
+As a result of strong demand for its products, the Company was manufacturing    
+capacity constrained throughout most of fiscal 1995. While the Company is
+planning in fiscal 1996 to increase substantially its manufacturing capacity
+through both expansion of its production facilities and increased access to
+third-party wafer foundries, there can be no assurance that the Company will
+complete the expansion of its production facilities or secure increased access
+to third-party foundries in a timely manner, that the Company will not
+encounter unanticipated production problems at either its own facilities or at
+third-party foundries or that the increased capacity will be sufficient to
+satisfy demand for its products.
+
+
+
+BACKLOG
+
+Backlog at the end of fiscal year 1995 was approximately $286.8 million; it was
+approximately $152.8 million at the end of the fiscal year 1994. The Company
+defines its backlog at any point in time as those orders for which customers
+have requested shipment within the next 13 weeks. The quantities of the
+Company's products to be delivered and their delivery schedules, as covered by
+customer purchase orders, are frequently revised by customers to reflect changes
+in their needs. As is customary in the semiconductor industry, the Company may
+allow such orders to be canceled or deliveries delayed by the customer without
+significant penalty. In addition, the Company's backlog includes its orders from
+domestic distributors as to which revenues are not recognized until the products
+are sold by the distributors. Accordingly, the Company believes that its backlog
+at any time should not be used as a measure of future revenues.
+
+GOVERNMENT CONTRACTS
+
+The Company estimates that approximately 13% of its total worldwide revenue is
+attributable to sales to the U.S. government and government contractors and
+subcontractors. Analog's government contract-related business is predominantly
+in the form of negotiated, firm fixed-priced subcontracts. All such contracts
+and subcontracts contain standard provisions related to termination at the
+election of the United States government. The Company expects that the U.S.
+government's intention to further reduce U.S. military spending will result in a
+continuing gradual reduction in the percentage of the Company's total sales
+going to governmental users and contractors.
+
+COMPETITION
+
+Analog competes with a large number of semiconductor companies in markets that
+are highly competitive. The Company believes it is one of the largest suppliers
+of high-performance linear and mixed-signal signal-processing components. These
+types of products fall into both the SLIC and SPLIC product categories.
+Competitors for the Company's linear and mixed-signal products include Brooktree
+Corp., Burr-Brown Corp., Cirrus Logic Inc., Exar Corp., Harris Corp., Linear
+Technology Corp., Maxim Integrated Products, Inc., National Semiconductor Corp.,
+Sierra Semiconductor Corp., Siliconix Inc., Silicon Systems (a subsidiary of TDK
+Corp), Texas Instruments, Inc. and others.
+
+Sales of DSP ICs represent a growing percentage of the Company's total sales.
+Analog's competitors for DSP ICs include AT&T, Integrated Device Technology,
+Inc., Motorola Semiconductor Products and Texas Instruments, Inc.
+
+Many other companies offer components that compete with Analog's products; some
+also offer other electronic products, and some have financial resources
+substantially larger than Analog's. Also, some formerly independent competitors
+have been purchased by larger companies (which in some cases may be viewed as a
+means by which the acquiring company gains in-house capability). However, to the
+Company's knowledge, no manufacturer competes with Analog across all of the
+product types offered by the Company in its signal-processing components product
+line.
+
+Analog believes that competitive performance in the marketplace for real-world
+signal-processing components depends upon several factors, including product
+price, technical innovation, product quality and reliability, range of products,
+customer service and technical support. Analog believes its aggressive technical
+innovation emphasizing product performance and reliability, supported by its
+commitment to strong customer service and technical support, will allow the
+Company to continue to compete successfully in its chosen markets against both
+foreign and domestic semiconductor manufacturers.
+
+ENVIRONMENT
+
+Analog's manufacturing facilities are subject to numerous environmental laws and
+regulations, particularly with respect to industrial waste and emissions.
+Compliance with these laws and regulations has not had a material impact on the
+Company's capital expenditures, earnings or competitive position.
+
+
+
+
+EMPLOYEES
+
+As of October 28, 1995, the Company employed approximately 6,000 persons. The
+Company's future success depends in large part on the continued service of its
+key technical and senior management personnel, and on its ability to continue to
+attract, retain and motivate qualified employees, particularly those highly
+skilled design, process and test engineers involved in the manufacture of
+existing products and the development of new products and processes. The
+competition for such personnel is intense, and the loss of key employees could
+have a material adverse effect on the Company. The Company believes that
+relations with its employees are good.
+
+INTERNATIONAL OPERATIONS
+
+Analog has direct sales offices in 16 countries outside the United States. For
+fiscal 1995, Analog's international sales accounted for approximately 56% of
+total sales, the majority of which were made through its direct international
+sales offices while the balance, approximately 40% of the total, were made
+through distributors. In addition, the Company has manufacturing facilities in
+Ireland, the Philippines and Taiwan. The Company also has arrangements with
+subcontractors, principally in the Far East, for the wafer fabrication, assembly
+and testing of certain products.
+
+
+
+
+ITEM 2. PROPERTIES
+
+The Company's corporate headquarters is located in Norwood, Massachusetts.
+Manufacturing and other operations are carried on in several locations
+worldwide. The following tables provide certain information as to the Company's
+principal general offices and manufacturing facilities:
+
+
+
+
+
+(1)  See Note 6 - "Commitments and Contingencies" in the Notes to Consolidated
+     Financial Statements for information regarding contingent liabilities
+     related to the lease of the Norwood, Massachusetts property.
+(2)  The Westwood, Massachusetts facility is subject to a 25-year capital lease
+     with an option to purchase.
+
+
+
+
+ITEM 2. PROPERTIES -- (CONTINUED)
+
+In addition to the principal leased properties listed in the previous table, 
+the Company also leases sales offices and other premises at 25 locations in the
+United States and 25 locations overseas under operating lease agreements.
+These leases expire at various dates through the year 2010. The Company
+anticipates no difficulty in retaining occupancy of any of its manufacturing,
+office or sales facilities through lease renewals prior to expiration or
+through month-to-month occupancy, or in replacing them with equivalent
+facilities. See Note 5 - "Lease Commitments" in the Notes to Consolidated
+Financial Statements for information concerning the Company's obligations under
+all operating and capital leases.
+
+
+
+
+
+ITEM 3. LEGAL PROCEEDINGS
+
+TEXAS INSTRUMENTS LITIGATION
+
+The Company was a defendant in two lawsuits brought in Texas by Texas
+Instruments, Inc. ("TI"), alleging patent infringement, including patent
+infringement arising from certain plastic encapsulation processes, and seeking
+an injunction and unspecified damages against the Company. The alleged
+infringement of one of these patents is also the subject matter of a proceeding
+brought by TI against the Company before the International Trade Commission
+("ITC"). On January 10, 1994, the ITC brought an enforcement proceeding against
+the Company alleging that the Company had violated the ITC's cease and desist
+order of February 1992 (as modified in July 1993), which prohibited the
+Company's importation of certain plastic encapsulated circuits, and seeking
+substantial penalties against the Company for these alleged violations. If it is
+determined that the Company has violated the cease and desist order, the ITC
+could seek to impose penalties of up to $100,000 per day of violation from the
+date of the cease and desist order (February 1992) or a sum equal to twice the
+value of the goods determined to be sold in violation of the order. In addition,
+in June 1992, the Company commenced a lawsuit against TI in Massachusetts
+alleging certain TI digital signal processors infringed one of the Company's
+patents.
+
+Effective April 1, 1995, the Company and TI settled both Texas lawsuits and the
+Massachusetts lawsuit principally by means of a royalty-free cross license of
+certain of the Company's and TI's patents. On April 25, 1995, the Company filed
+with the ITC a motion to terminate the ITC enforcement proceeding on the grounds
+that further action by the ITC is unnecessary in light of the Company's
+settlement with TI. On May 8 1995, an Administrative Law Judge issued a
+recommended determination to the ITC to grant the Company's motion to terminate
+the ITC proceeding. The investigative office of the ITC has opposed the motion,
+claiming that, notwithstanding the Company's settlement with TI, the Company's
+alleged violation of the ITC's cease and desist order warrants the imposition of
+substantial penalties. The Company's motion is pending before the ITC.
+
+MAXIM LITIGATION
+
+The Company is a defendant in a lawsuit brought by Maxim Integrated Products,
+Inc. ("Maxim") in the United States District Court for the Northern District of
+California seeking an injunction against, and claiming damages for, alleged
+antitrust violations and unfair competition in connection with distribution
+arrangements between the Company and certain distributors. Maxim alleged that
+certain distributors ceased doing business with Maxim as a result of the
+distribution arrangements between the distributors and the Company, resulting in
+improper restrictions to Maxim's access to channels by which it distributes its
+products. Maxim asserted actual and consequential damages in the amount of $14.1
+million and claimed restitution and punitive damages in an unspecified amount.
+Under applicable law, Maxim would receive three times the amount of any actual
+damages suffered as a result of any antitrust violation. On September 7, 1994,
+Maxim's claim was dismissed for lack of evidence. Maxim has appealed this ruling
+and oral argument of the appeal was held in January 1996.
+
+For additional information concerning the above-described lawsuits and the
+potential impact of such suits upon the Company's financial condition and
+results of operations, see Item 7, "Management's Discussion and Analysis of
+Financial Condition and Results of Operations."
+
+OTHER
+
+In addition, from time to time as a normal incidence of the nature of the
+Company's business, various claims, charges and litigation are asserted or
+commenced against the Company arising from or related to contractual matters,
+patents, personal injury, environmental matters and product liability. Such
+litigation includes patent infringement actions brought against the Company by
+Sextant Avionique, S.A. ("Sextant") in Paris, France, which claims that the
+Company's accelerometer infringes certain Sextant patents and seeks to enjoin   
+such infringement. While there can be no assurance that the Company will 
+prevail in all of these matters, the Company does not believe that these        
+matters will have a material adverse effect on the Company's consolidated
+financial position or consolidated results of operations. However, an adverse
+resolution could have an adverse effect on the Company's consolidated results
+of operations in the quarter in which these matters are resolved.
+
+
+
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+No matters were submitted to a vote of the Company's security holders during the
+last quarter of the fiscal year ended October 28, 1995.
+
+
+
+                        EXECUTIVE OFFICERS OF THE COMPANY
+
+
+The following table sets forth (i) the name and age of each present executive
+officer of the Company; (ii) the position(s) presently held by each person
+named; and (iii) the principal occupations held by each person named for at
+least the past five years.
+
+
+
+There is no family relationship among the named officers.
+
+
+
+
+                                                  PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON STOCK AND RELATED STOCKHOLDER MATTERS
+
+The Company's Common Stock is listed on the New York Stock Exchange under the
+symbol ADI. The table below sets forth the high and low prices of the Common
+Stock during the two most recent fiscal years.
+
+
+                                            
+On November 28, 1995, the Company's Board of Directors authorized a
+three-for-two stock split effected in the form of a 50% stock dividend
+distributed on January 3, 1996 to stockholders of record December 12, 1995. All
+stock prices in the table above have been restated to reflect the split.
+
+The Company's $60,000,000 credit agreement restricts the aggregate of all cash
+dividend payments declared or made subsequent to January 30, 1993 to an amount
+not exceeding $29,734,000 plus 50% of the consolidated net income of the Company
+for the period from January 31, 1993 through the end of the Company's then most
+recent fiscal quarter. At October 28, 1995 this amount was equal to
+$144,782,000. Although prior credit agreements may not have restricted the
+payment of dividends, the Company has never paid any cash dividends on its
+Common Stock.
+
+The approximate number of holders of record of the Company's Common Stock at
+December 29, 1995 was 4,429. This number does not include shareholders for whom
+shares are held in a "nominee" or "street" name.
+
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+
+
+(1) All references to per share amounts have been restated to reflect the
+    three-for-two stock split effected in the form of a 50% stock dividend
+    distributed on January 3, 1996 to stockholders of record December 12, 1995.
+
+
+
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+RESULTS OF OPERATIONS
+
+FISCAL 1995 COMPARED TO FISCAL 1994
+
+The Company reported net sales of $941.5 million in fiscal 1995, up $168 million
+or 22% from net sales of $773.5 million in fiscal 1994. Fiscal year 1995 sales
+growth was attributable to significant increases in sales volumes of both the
+Company's standard linear IC and system-level IC products as worldwide demand
+for precision integrated circuit products accelerated throughout fiscal 1995,
+exceeding the Company's expectations and capacity. Demand for the Company's ICs
+was strong both in its core industrial and instrumentation markets and in
+high-growth applications in the communications, computer and portable, wireless
+equipment markets. Total IC sales, representing both standard linear and
+system-level ICs, constituted approximately 92% of total sales in fiscal 1995,
+continuing the long-term trend of IC sales becoming a larger portion of the
+Company's revenues.
+
+Sales of the Company's standard linear IC products, which make up the largest
+and most profitable part of the Company's business, increased approximately 
+$137 million or nearly 30% in fiscal 1995. Standard linear IC sales also
+increased as a percentage of total sales, accounting for 64% of total sales in
+fiscal 1995 compared to 60% in fiscal 1994. The growth in sales of standard
+linear ICs was primarily driven by increased penetration of the Company's data
+converter and amplifier products in high-performance instrumentation and
+factory automation applications and greater use of standard linear IC products
+in new high-volume applications in the communications, computer and consumer
+markets including digital cellular handsets and base stations, video
+applications and imaging applications. As in fiscal 1994, the distributor       
+channel continued to have a positive effect on the Company's standard linear IC
+product line in fiscal 1995; distribution has become the fastest growing
+channel for these products.
+
+Sales of system-level ICs, excluding those used in hard disk drives, increased
+approximately $70 million or 46% in fiscal 1995, as the Company achieved
+substantial bookings and revenue gains in its general-purpose digital signal
+processing products and mixed-signal ICs for application-specific
+system-on-a-chip solutions. The strongest end user market growth for the
+Company's system-level IC products was experienced in wireless communications
+applications, including digital mobile phones and base stations, and computer
+applications, including audio enhancement in multimedia PCs. As a percentage of
+total sales, system-level IC products, with the exception of hard disk drive
+products, increased to 24% of total sales compared to 20% in fiscal 1994. Sales
+of hard disk drive products in fiscal 1995 declined $37 million or 53% compared
+to fiscal 1994 due to a combination of scarcity of wafers and the rapid movement
+of this market to digital PRML channels.
+
+Sales of the Company's assembled products decreased approximately $2.5 million
+or 3% from fiscal 1994 to fiscal 1995 and as a percentage of total sales
+decreased from 11% to 8% over this same period. This sales decrease was
+comparatively less than in prior years as sales demand for newer multi-chip
+modules for the communications market began to offset the decline in older
+military hybrids.
+
+In fiscal 1995, sales to North American customers increased $68.3 million or 20%
+over fiscal 1994 to $412.2 million. Sales to customers outside North America,
+primarily Europe, Japan and Southeast Asia, increased $99.7 million or 23% to
+$529.3 million. The distributor channel was a major contributor to sales growth
+in North America as well as in Europe and Japan especially for standard linear
+IC products. North American sales through distribution increased approximately
+40% over the prior year while worldwide sales through distribution increased
+approximately 55% from fiscal 1994 to fiscal 1995. On a worldwide basis, sales
+through distribution accounted for approximately 42% of total sales in fiscal
+1995 compared to 33% in fiscal 1994. Sales to European customers increased $66.4
+million or 34% to $264 million, with much of this growth resulting from the
+Company's increased penetration of applications in the communications market,
+particularly in handsets and basestations used in the GSM (Global System for
+Mobile Communications) digital cellular telephone system now widely deployed in
+Western Europe. Sales in Japan increased $32.1 million or 24% to $165.1 million
+largely as a result of increased sales of standard linear IC products for 
+factory automation and other industrial market applications. A weaker average 
+U.S. dollar exchange rate also contributed to some of the improvement in 
+European and Japanese sales. Sales to customers in Southeast Asia of $100 
+million were essentially flat compared to fiscal 1994 due to the significant 
+decline in hard disk drive sales. As a percentage of total
+
+
+
+
+sales, North American and international sales accounted for 44% and 56%,
+respectively, unchanged from the comparable percentages in fiscal 1994.
+
+As a result of strong demand for its products, the Company was manufacturing
+capacity constrained throughout most of fiscal 1995.  The Company is pursuing a
+multi-faceted manufacturing capacity expansion program to substantially
+increase the number of fabricated wafers available to it in fiscal 1996 and
+beyond. See "Liquidity and Capital Resources" below for a discussion of the
+Company's efforts to address its capacity issues.
+
+Gross margin increased to 50.7% of sales in fiscal 1995 compared to 49.0% of
+sales in fiscal 1994. The increase in gross margin was principally due to a
+higher proportion of standard linear IC products in the mix of products sold,
+which generally have higher gross margins than the Company's system-level IC
+products. The improvement in gross margin in fiscal 1995 was also attributable
+to greater capacity utilization, resulting in the absorption of fixed
+manufacturing costs over increased production volumes.
+
+Research and development expenses increased approximately 26% in fiscal 1995 to
+$134.3 million or 14.3% of sales. This increase was mainly due to higher
+spending in the development of new products and technologies targeted for the
+communications, computer and automotive markets, including initiatives in
+general-purpose digital signal processing such as the Company's SHARC product
+family, system-level ICs for computer audio and wireless communications
+applications, RF signal processing, surface micromachining technology,
+accelerometer products and continued development of innovative SLIC products
+and processes. The increase in R&D expenditures in fiscal 1995 was also
+attributable to increased staffing of design engineering personnel and the
+start up of two new design centers. The Company believes that technical
+leadership in the semiconductor industry is critical to its future success and
+is committed to maintaining a high level of research and development effort.
+
+Selling, marketing, general and administrative (SMG&A) expense growth in fiscal
+1995 was held to 8.6%, as SMG&A increased from $170.3 million in fiscal 1994 to
+$184.9 million in fiscal 1995. SMG&A expenses continued to decline as a
+percentage of sales to 19.6% in fiscal 1995 compared to 22.0% in fiscal 1994
+and 23.8% in fiscal 1993, consistent with the Company's goal of constraining
+SMG&A spending growth to a rate significantly below sales growth. The increase
+in SMG&A expenses in absolute dollars was primarily related to higher incentive
+expenses associated with improved revenue and profitability levels, and greater
+product advertising and related promotional costs in support of the Company's
+product lines and customer base.
+
+Operating income grew 55% to 16.8% of sales compared to 13.2% of sales in
+fiscal 1994. This performance gain reflected the combination of accelerated
+demand for the Company's products, improved gross margin and continuing
+commitment to growing expenses more slowly than sales.
+
+Nonoperating expenses decreased $6.6 million in fiscal 1995 due primarily to a
+$2.9 million decrease in interest expense and a $2.9 million increase in
+interest income. The reduction in interest expense from fiscal 1994 to fiscal
+1995 was due in large part to the maturity of a $20 million term loan early in
+the first quarter of fiscal 1995 while the increase in interest income over
+this same period was attributable to a higher average level of cash investments
+and a higher weighted average investment rate in fiscal 1995 versus fiscal
+1994. Interest expense in fiscal 1996 will increase from fiscal 1995 as a
+result of the issuance of $230,000,000 of 3- 1/2% Convertible Subordinated
+Notes in December 1995.
+
+The effective income tax rate increased to 25.2% in fiscal 1995 from 23.1% in
+fiscal 1994 due to earnings growth in higher tax rate jurisdictions including
+the U.S. The Company maintains a valuation allowance for deferred tax assets,
+which was $10.0 million at both October 28, 1995 and October 29, 1994, based on
+management's assessment that realization of such deferred tax assets was not
+assured for book and tax capital losses and book basis foreign tax credits.
+
+The growth in sales, improved operating performance and lower nonoperating
+expenses yielded a 60% rise in net income to $119.3 million or 12.7% of sales
+compared to $74.5 million or 9.6% of sales. Earnings per share in fiscal 1995
+grew 56% to $1.00 from $0.64 in fiscal 1994.
+
+
+
+The Company has not yet adopted Statement of Financial Accounting Standards No.
+121, "Accounting for the Impairment of Long-Lived Assets and for Long-Lived
+Assets to Be Disposed Of" and Statement of Financial Accounting Standards No.
+123, "Accounting for Stock-Based Compensation" which will require adoption in
+fiscal 1997. The Company is in the process of determining the effect of
+adoption of these statements on its consolidated financial statements and
+related disclosures.
+
+The impact of inflation on the Company's business during the past three years
+has not been significant.
+
+FISCAL 1994 COMPARED TO FISCAL 1993
+
+Net sales of $773.5 million for fiscal 1994 increased 16% from net sales of
+$666.3 million for fiscal 1993. The sales increase was due principally to
+higher sales volumes of both standard linear IC and system-level IC products
+which together grew approximately 20% year-over-year to comprise approximately
+89% of total sales for fiscal 1994.
+
+Standard linear IC sales rose approximately $66.5 million or approximately 17%
+to $467.5 million in fiscal 1994. This increase was primarily due to the
+combination of increased penetration of the distribution channel coupled with
+well accepted new product offerings.
+
+Sales of system-level IC products grew approximately $49.0 million or
+approximately 28% to $224.0 million in fiscal 1994. This growth was
+attributable largely to increased demand for applications in personal computers
+and wireless communications products, and the Company's broader participation
+in these growing markets.
+
+Sales of assembled products declined approximately 9% from fiscal 1993 to
+fiscal 1994 and as a percentage of total sales decreased from 14% to 11% over
+the same period.
+
+Sales to North American customers increased 18% over fiscal 1993 levels to
+$343.9 million with much of this increase coming from the distributor channel
+as sales through North American distributors increased 36% from the prior year.
+Sales to international customers grew 15% led by sales increases of
+approximately 27% and 35% in Japan and Southeast Asia, respectively. Sales
+growth in Japan was mainly attributable to increased demand for standard linear
+IC products, aided in part by the translation of yen-denominated sales to a
+weaker average U.S. dollar. The sales increase in Southeast Asia represented
+continued strength in sales of personal computer products. European sales of
+$197.9 million for fiscal 1994 were flat compared to the prior year due to
+weaker European industrial economies as compared to fiscal 1993. Sales growth
+in Europe resumed in the fourth quarter of fiscal 1994, growing again after
+weakness in the first nine months of the year as the European economy showed
+improvement, particularly Germany. As a percentage of total net sales, North
+American and international sales remained at 44% and 56%, respectively, which
+were comparable to fiscal 1993.
+
+Gross margin improved to 49.0% of sales for fiscal 1994 compared to 47.3% for
+fiscal 1993. This increase resulted principally from a significant improvement
+in gross margin for system-level IC products as variable manufacturing costs
+declined and fixed costs were allocated over greater production volumes. Gross
+margin for the Company's standard linear IC products remained at a high level
+and gross margin on all IC products, which include both standard linear and
+system-level ICs, was approximately 50% of sales.
+
+R&D expenses for fiscal 1994 increased 13.6% from fiscal 1993 as the Company
+continued to invest in new product development. As a percentage of sales, R&D
+expenses were 13.8% in fiscal 1994 compared to 14.1% in fiscal 1993.
+
+Selling, marketing, general and administrative (SMG&A) expenses grew 7.4%
+compared to fiscal 1993, increasing at a lower rate than sales. As a result,
+SMG&A as a percentage of sales decreased to 22.0% for fiscal 1994 from 23.8%
+for fiscal 1993. The increase in SMG&A expenses related mostly to increased
+strategic advertising and marketing expenses associated with many new product
+launches and additional incentive expense associated with the Company's
+improved performance.
+
+
+
+In total, operating expenses were reduced to 35.8% of sales, down from 37.9% in
+fiscal 1993, consistent with the Company's emphasis on maintaining tight
+control over all costs in order to gain better operating leverage on increases
+in revenues.
+
+Operating income reached 13.2% of sales for fiscal 1994, an increase of nearly
+four percentage points from 9.4% of sales for fiscal 1993. This performance
+gain reflected the higher sales level, improvement in gross margin as a
+percentage of sales and slower rate of expense growth versus sales.
+
+Nonoperating expenses decreased $2.3 million, benefiting from increased
+interest income on a higher level of invested cash as net interest expense was
+reduced from $5.8 million in fiscal 1993 to $2.0 million in fiscal 1994.
+
+The effective income tax rate increased to 23% in fiscal 1994 from 20% in
+fiscal 1993 due to a shift in the mix of worldwide income.  In the first
+quarter of fiscal 1994, the Company adopted Statement of Financial Accounting
+Standards No. 109, "Accounting for Income Taxes" ("FAS 109"). The impact of
+adopting FAS 109 was not material to the Company's consolidated financial
+statements. A deferred tax asset valuation allowance of $14.3 million was
+established at October 31, 1993 based on management's assessment that
+realization of such deferred tax assets was not assured for book and tax
+capital losses, book basis foreign tax credits, and general business tax
+credits.  The net change in the valuation allowance for the year ended October 
+29, 1994 was a decrease of $4.3 million primarily from the utilization of 
+general business tax credits.
+
+The growth in sales, improved operating performance and lower nonoperating
+expenses resulted in a 68% rise in net income to $74.5 million or 9.6% of sales
+in fiscal 1994 compared to $44.5 million or 6.7% of sales in fiscal 1993.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+At October 28, 1995, the Company had $151.1 million of cash and cash
+equivalents and short-term investments compared to $181.8 million at October
+29, 1994. The Company's operating activities generated net cash of $210.3
+million, or 22.3% of sales, and $186.6 million, or 24.1% of sales, in fiscal
+1995 and fiscal 1994, respectively. Investing activities used $238.7 million in
+fiscal 1995 and $166.8 million in fiscal 1994 while financing activities used
+$10.9 million in fiscal 1995 and generated $10.0 million in fiscal 1994.
+Working capital decreased to $271.6 million at the end of fiscal 1995 from
+$299.3 million at the end of fiscal 1994. This decrease was primarily due to
+lower cash, cash equivalents and short-term investments which were used in part
+to fund investing activities in fiscal 1995, and secondarily to increased
+accounts payable and accrued liabilities associated with an expanded scale of
+operations.
+
+The Company's primary source of funds in fiscal years 1995 and 1994 was net
+cash generated by operations. The $23.7 million increase in operating cash
+flows from $186.6 million in fiscal 1994 to $210.3 million fiscal 1995 was
+largely attributable to higher net income and an increase in accounts payable
+and accrued liabilities, changes which were offset in large part by growth in
+inventories and accounts receivable. The noncash effect of depreciation and
+amortization expense was $64.1 million and $61.3 million in fiscal 1995 and
+fiscal 1994, respectively. As a result of internal capacity expansion,
+depreciation expense is expected to be higher in fiscal 1996 as these additions
+begin to ramp up.
+
+Accounts receivable of $181.3 million at the end of fiscal 1995 increased $19.0
+million or 11.7% from $162.3 million at the end of fiscal 1994. This increase
+compared favorably to the 27% increase in fourth quarter sales between the two
+years as the rise in sales was more than offset by improved collection of
+receivables. As a percentage of annualized fourth quarter sales, accounts
+receivable was reduced to 17.6% at the end of fiscal 1995 compared to 20.0% at
+the end of fiscal 1994.
+
+Inventories rose $13.2 million or 10.1% over the prior year to $144.0 million
+at the end of fiscal 1995. This increase was primarily due to a build in
+inventory levels needed to service increasing sales volumes. Year-end
+inventories as a percentage of annualized fourth quarter sales decreased from
+16.1% in fiscal 1994 to 14.0% in fiscal 1995. In fiscal 1996, as additional
+manufacturing capacity becomes available, the Company intends to increase
+inventory levels in order to improve customer response times.
+
+
+
+Accounts payable and accrued liabilities increased $39.6 million or 29.4%
+compared to the balance at the end of fiscal 1994 due principally to increased
+expense activity related to the higher revenue level and increased capital
+expenditures in the fourth quarter of fiscal 1995 when compared to the
+year-earlier period. The increase in income taxes payable of 70.2% or $20.7
+million was primarily attributable to increased profitability in fiscal 1995 as
+compared to fiscal 1994.
+
+The Company's principal investment activities during fiscal 1995 were in
+support of its manufacturing capacity expansion programs and included capital
+expenditures of $212.7 million and an investment of $14.0 million in a wafer
+fabrication company in Singapore.
+
+Capital expenditures in fiscal 1995 were significantly higher than in fiscal
+1994 with a significant portion of these expenditures related to the
+construction of the Company's first six-inch wafer fabrication module which was
+completed in fiscal 1995 at the Company's Limerick, Ireland manufacturing site.
+This module is now undergoing test and qualification and is expected to begin
+supplying production wafers before the end of the first half of fiscal 1996. It
+will be used initially to fabricate mixed-signal VLSI products on a 0.6 micron
+digital CMOS process. The capital expenditures and start-up costs associated
+with this expansion will be supported in part by grants of up to 10.1 million
+Irish Pounds (approximately $16.4 million at October 28, 1995) from the
+Industrial Development Authority  ("IDA") of Ireland. As of October 28, 1995,
+the Company had not received any grant monies under this agreement.
+
+During fiscal 1995, the Company also began upgrading its existing Wilmington,
+Massachusetts wafer fabrication facility from four- inch to six-inch wafer
+production. This additional capacity, which will also become available in the
+latter half of fiscal 1996, will be used primarily for high-speed linear
+products. In addition, the Company purchased an existing six-inch wafer
+fabrication module located close to its Santa Clara, California site. This
+facility is being upgraded and modernized to produce advanced linear technology
+ICs, and is expected to go into production in the latter half of fiscal 1996.
+In the fourth quarter of fiscal 1995, the Company also completed construction of
+a new engineering, marketing and administrative facility in Wilmington,
+Massachusetts and commenced an expansion of the Company's test and back end
+facilities in the Philippines.
+
+In fiscal 1995, the Company entered into a supply agreement with its primary
+wafer foundry, Taiwan Semiconductor Manufacturing Co., Ltd. ("TSMC"). Under
+this agreement, the Company will make a series of advance payments to TSMC
+aggregating $22.4 million, payable over a three-year period, in order to secure
+access to a minimum level of wafer capacity over the period from 1996 to 1999.
+The first of such payments pursuant to this agreement was made in June 1995 and
+remaining payments are due in June of each year through 1998. The advance
+payments will be repaid to the Company each year in the form of credits against
+the prices of wafers purchased by the Company when such wafer purchases exceed
+a defined minimum.
+
+In fiscal 1995, the Company made an equity investment of $14.0 million in
+Chartered Semiconductor Manufacturing Pte., Ltd. ("CSM") in Singapore and
+invested an additional $6.0 million in January 1996, in exchange for a less
+than 5% ownership interest. This investment is structured to provide access to
+CSM's new eight-inch 0.5 micron wafer fabrication facility through wafer supply
+and pricing commitments beginning in 1996. The investment in CSM is classified 
+in the balance sheet line item, "Deferred Charges and Other Assets."
+
+In January 1996, the Company entered into an additional agreement with CSM,
+whereby the Company will provide a total deposit of approximately $20.0 million
+to be paid in several installments in 1996 and 1997. Under the terms of this
+agreement, the deposit will guarantee access to certain quantities of
+sub-micron wafers through fiscal 2000. If the Company does not purchase the
+minimum quantities under the agreement, the deposit will be forfeited for the
+value of the wafer shortfall up to the total amount of $20.0 million. At the
+end of the agreement term, the Company's deposit will be returned, net of any
+forfeitures.
+
+The Company currently plans to make capital expenditures of approximately $275
+million in fiscal 1996, primarily in connection with the continued expansion of
+its manufacturing capacity. In addition, the Company is continuing to explore
+various options for increasing its manufacturing capacity, including joint
+ventures, acquisitions, equity investments in or loans to wafer suppliers and
+construction of additional facilities.
+
+
+
+Cash used in the Company's financing activities was principally for the
+repayment of a $20.0 million term loan in the first quarter of fiscal 1995.
+Financing activities in fiscal 1995 also generated cash of $10.1 million from
+the issuance of common stock under stock purchase and stock option plans.
+
+At October 28, 1995, the Company's principal sources of liquidity included
+$69.3 million of cash and cash equivalents and $81.8 million of short-term
+investments. Short-term investments at the end of fiscal 1995 consisted of
+commercial paper, bankers' acceptances and Euro time deposits with maturities
+greater than three months and less than six months at the time of acquisition.
+The Company also has various lines of credit both in the U.S. and overseas,
+including a $60 million credit facility in the U.S.  which expires in 1998, all
+of which were substantially unused at the end of fiscal 1995. At the end of
+fiscal 1995, the Company's debt-to-equity ratio was 13%.
+
+On December 18, 1995, the Company completed a public offering of $230,000,000
+of five-year 3-1/2% Convertible Subordinated Notes due December 1, 2000 with
+semiannual interest payments on June 1 and December 1 of each year, commencing
+June 1, 1996. The Notes are convertible, at the option of the holder, into the
+Company's common stock at any time after 60 days following the date of original
+issuance, unless previously redeemed, at a conversion price of $27.913 per
+share, subject to adjustment in certain events. The net proceeds from the sale
+of the Notes were approximately $224,000,000 after payment of the underwriting
+discount and expenses of the offering which will be amortized over the term of
+the Notes. As of December 31, 1995, the Company's total long-term debt was
+$310,000,000, comprised of the $230,000,000 of 3-1/2% Convertible Subordinated
+Notes and $80,000,000 of 6 5/8% Notes.
+
+The Company believes that its existing sources of liquidity and cash expected
+to be generated from future operations, together with current and anticipated
+available long-term financing, will be sufficient to fund operations, capital
+expenditures and research and development efforts for the foreseeable future.
+
+LITIGATION
+
+As set forth in Item 3 - "Business-Legal Proceedings," the Company is engaged
+in an enforcement proceeding brought by the International Trade Commission
+("ITC") related to previously settled patent infringement litigation with Texas
+Instruments, Inc. The Company is also engaged in antitrust litigation with
+Maxim Integrated Products, Inc.
+
+If it is determined that the Company has violated the ITC's cease and desist
+order of February 1992 (as modified in July 1993), the ITC could seek to impose
+penalties of up to $100,000 per day of violation from the date of the cease and
+desist order (February 1992) or a sum equal to twice the value of goods 
+determined to be sold in violation of the order.
+
+The dismissal of Maxim's claims has been appealed. The Company believes it has
+meritorious defenses to Maxim's antitrust allegations and intends to vigorously
+defend the suit. Maxim asserted actual and consequential damages in the amount
+of $14.1 million and claimed restitution and punitive damages in an unspecified
+amount. Under applicable law, Maxim would receive three times the amount of any
+actual damages suffered as a result of any antitrust violation. If the
+dismissal is overturned on appeal and Maxim's claims are upheld in a subsequent
+trial on the merits, in addition to potential damage awards the Company may be
+required to modify its relationships with its distributors.
+
+Although the Company believes it should prevail in the matters described above,
+the Company is unable to determine their ultimate outcome or estimate the
+ultimate amount of liability, if any, at this time. An adverse resolution of
+these matters could have a material adverse effect on the Company's
+consolidated financial position or on its consolidated results of operations or
+cash flows in the period in which the matters are resolved.
+
+
+
+FACTORS AFFECTING FUTURE RESULTS
+
+The Company's future operating results are difficult to predict and may be
+affected by a number of factors including the timing of new product
+announcements or introductions by the Company and its competitors, competitive
+pricing pressures, fluctuations in manufacturing yields, adequate availability
+of wafers and manufacturing capacity, changes in product mix and economic
+conditions in the United States and international markets. In addition, the
+semiconductor market has historically been cyclical and subject to significant
+economic downturns at various times. While the semiconductor industry in recent
+periods has experienced increased demand and production capacity constraints,
+it is uncertain how long these conditions will continue. As a result of these
+and other factors, there can be no assurance that the Company will not
+experience material fluctuations in future operating results on a quarterly or
+annual basis.
+
+The Company's success depends in part on its continued ability to develop and
+market new products. There can be no assurance that the Company will be able to
+develop and introduce new products in a timely manner or that such products, if
+developed, will achieve market acceptance. In addition, the Company's growth is
+dependent on its continued ability to penetrate new markets such as the
+communications, computer and automotive segments of the electronics market,
+where the Company has limited experience and competition is intense. There can
+be no assurance that the markets being served by the Company will continue to
+grow; that the Company's existing and new products will meet the requirements
+of such markets; that the Company's products will achieve customer acceptance
+in such markets; that competitors will not force prices to an unacceptably low
+level or take market share from the Company; or that the Company can achieve or
+maintain profits in these markets. Also, some of the customers in these markets
+are less well established which could subject the Company to increased credit
+risk.
+
+The semiconductor industry is intensely competitive. Certain of the Company's
+competitors have greater technical, marketing, manufacturing and financial
+resources than the Company. The Company's competitors also include emerging
+companies attempting to sell products to specialized markets such as those
+served by the Company. Competitors of the Company have, in some cases,
+developed and marketed products having similar design and functionality as the
+Company's products. There can be no assurance that the Company will be able to
+compete successfully in the future against existing or new competitors or that
+the Company's operating results will not be adversely affected by increased
+price competition.
+
+The Company's manufacturing facilities are operating at full capacity, and
+therefore the Company's business is currently constrained. While the Company is
+planning in fiscal 1996 to increase substantially its manufacturing capacity
+through both expansion of its production facilities and increased access to
+third-party foundries; there can be no assurance that the Company will complete
+the expansion of its production facilities or secure increased access to third
+party foundries in a timely manner; that the Company will not encounter
+unanticipated production problems at either its own facilities or at
+third-party foundries; or that the increased capacity will be sufficient to
+satisfy demand for its products. The Company relies, and plans to continue to
+rely, on third-party wafer fabricators to supply most of its wafers that can be
+manufactured using industry-standard digital processes, and such reliance
+involves several risks, including the absence of adequate guaranteed capacity
+and reduced control over delivery schedules, manufacturing yields and costs.
+Continued manufacturing capacity constraints could adversely affect the
+business of the Company's customers and cause them to seek alternative sources
+for the products currently obtained from the Company. In addition, the
+Company's capacity additions will result in a significant increase in operating
+expenses, and if revenue levels do not increase to offset these additional
+expense levels, the Company's future operating results could be adversely
+affected. The Company also believes that other semiconductor manufacturers are
+also expanding or planning to expand their production capacity over the next
+several years, and there can be no assurance that the expansion by the Company
+and its competitors will not lead to overcapacity in the Company's target
+markets, which could lead to price erosion that would adversely affect the
+Company's operating results.
+
+For fiscal 1995, 56% of the Company's revenues were derived from customers in
+international markets. The Company has manufacturing facilities in Ireland, the
+Philippines and Taiwan. The Company is therefore subject to the economic and
+political risks inherent in international operations, including expropriation,
+air transportation disruptions, currency controls and changes in currency
+exchange rates, tax and tariff rates and freight rates. Although the Company
+engages in certain hedging transactions to reduce its exposure to currency
+exchange rate fluctuations, there can be no assurance that the Company's
+competitive position will not be adversely affected by changes in the exchange
+rate of the U.S. dollar against other currencies.
+
+
+
+The semiconductor industry is characterized by frequent claims and litigation
+involving patent and other intellectual property rights. The Company has from
+time to time received, and may in the future receive, claims from third parties
+asserting that the Company's products or processes infringe their patents or
+other intellectual property rights. In the event a third party makes a valid
+intellectual property claim and a license is not available on commercially
+reasonable terms, the Company's operating results could be materially and
+adversely affected. Litigation may be necessary to enforce patents or other
+intellectual property rights of the Company or to defend the Company against
+claims of infringement, and such litigation can be costly and divert the
+attention of key personnel. See Item 3 - "Legal Proceedings" for information
+concerning pending litigation involving the Company. An adverse resolution of
+such litigation, may, in certain cases, have a material adverse effect on the
+Company's consolidated financial position or on its consolidated results of
+operations or cash flows in the period in which the litigation is resolved.
+
+Because of these and other factors, past financial performance should not be
+considered an indicator of future performance.  Investors should not use
+historical trends to anticipate future results and should be aware that the
+trading price of the Company's common stock may be subject to wide fluctuations
+in response to quarter-to-quarter variations in operating results, general
+conditions in the semiconductor industry, changes in earnings estimates and
+recommendations by analysts or other events.
+
+
+
+
+
+
+
+
+                              ANALOG DEVICES, INC.
+
+                           ANNUAL REPORT ON FORM 10-K
+
+                          YEAR ENDED OCTOBER 28, 1995
+
+                                     ITEM 8
+
+          FINANCIAL STATEMENTS AND SUPPLEMENTARY FINANCIAL INFORMATION
+
+
+
+
+
+
+                              ANALOG DEVICES, INC.
+
+                   INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+
+
+
+
+
+               REPORT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+
+
+The Board of Directors and Stockholders
+Analog Devices, Inc.
+
+We have audited the accompanying consolidated balance sheets of Analog Devices,
+Inc. as of October 28, 1995, October 29, 1994 and October 30, 1993, and the
+related consolidated statements of income, stockholders' equity and cash flows
+for each of the three years in the period ended October 28, 1995. Our audits
+also included the financial statement schedule listed in the index at Item
+14(a).  These financial statements and schedule are the responsibility of the
+Company's management. Our responsibility is to express an opinion on these
+financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of
+material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the consolidated financial position of Analog
+Devices, Inc. at October 28, 1995, October 29, 1994 and October 30, 1993, and
+the consolidated results of its operations and its cash flows for each of the
+three years in the period ended October 28, 1995, in conformity with generally
+accepted accounting principles. Also, in our opinion, the related financial
+statement schedule, when considered in relation to the basic financial
+statements taken as a whole, presents fairly in all material respects the
+information set forth therein.
+
+
+                                                 ERNST & YOUNG LLP
+
+
+Boston, Massachusetts
+November 28, 1995
+except for the fifth paragraph of Note 4,
+as to which the date is December 18, 1995
+
+
+
+
+
+
+                              ANALOG DEVICES, INC.
+
+                       CONSOLIDATED STATEMENTS OF INCOME
+
+
+
+
+See accompanying notes.
+
+
+
+
+
+
+                              ANALOG DEVICES, INC.
+
+                          CONSOLIDATED BALANCE SHEETS
+
+
+See accompanying notes.
+
+
+
+                              ANALOG DEVICES, INC.
+
+                CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+
+
+See accompanying notes.
+
+
+
+
+
+                              ANALOG DEVICES, INC.
+
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+
+
+See accompanying notes.
+
+
+
+                              ANALOG DEVICES, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+      YEARS ENDED OCTOBER 28, 1995, OCTOBER 29, 1994 AND OCTOBER 30, 1993
+          (ALL TABULAR AMOUNTS IN THOUSANDS EXCEPT PER SHARE AMOUNTS)
+
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+a. PRINCIPLES OF CONSOLIDATION
+
+The consolidated financial statements include the accounts of the Company and
+all of its wholly owned subsidiaries. Upon consolidation, all significant
+intercompany accounts and transactions are eliminated. The Company's fiscal year
+ends on the Saturday closest to the last day in October. Fiscal years 1995, 1994
+and 1993 were each 52-week years.
+
+Certain amounts reported in previous years have been reclassified to conform to
+the 1995 presentation.
+
+b. CASH, CASH EQUIVALENTS AND SHORT-TERM INVESTMENTS
+
+Cash and cash equivalents are highly liquid investments with insignificant
+interest rate risk and maturities of three months or less at the time of
+acquisition. Investments with maturities between three and twelve months at time
+of acquisition are considered short- term investments. Short-term investments
+consist of debt securities such as commercial paper, time deposits, certificates
+of deposit and bankers acceptances.
+
+Effective October 30, 1994, the Company adopted Statement of Financial
+Accounting Standards No. 115, "Accounting for Certain Investments in Debt and
+Equity Securities" (FAS 115), which creates certain classification categories
+for such investments, based on the nature of the securities and the intent and
+investment goals of the Company. FAS 115 has been adopted on a prospective
+basis, and the financial statements of prior years have not been restated. The
+cumulative effect of the change was not material. FAS 115 requires investments
+in debt and equity securities to be classified as "held-to-maturity,"
+"available-for-sale," or "trading" at the time of purchase and for such
+designation to be reevaluated as of each balance sheet date. Held-to-maturity
+securities, which are carried at amortized cost, include only those securities
+the Company has the positive intent and ability to hold to maturity.
+Available-for-sale securities are carried at fair value with unrealized gains
+and losses, net of related tax, if any, reported as a separate component of
+stockholders' equity. Realized gains and losses, declines in value judged to be
+other than temporary, and interest income on all securities are included in
+earnings. At October 28, 1995, the Company did not own any securities classified
+as trading.
+
+While it is the intent of management to hold securities to maturity, unforeseen
+events, while not generally expected, could cause the Company to liquidate
+certain securities prior to maturity. Accordingly, those securities which could
+readily be sold back to the seller are classified as available-for-sale.
+Securities, such as bank time deposits, which by their nature are typically
+held-to- maturity are classified as such. The following is a summary of
+available-for-sale and held-to-maturity securities at October 28, 1995:
+
+
+
+
+
+                              ANALOG DEVICES, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(CONTINUED)
+
+
+Securities classified as available-for-sale and held-to-maturity at October 28,
+1995 have contractual maturities of six months or less at time of acquisition.
+Because of the short term to maturity, and hence relative price insensitivity to
+changes in market interest rates, amortized cost approximates fair value for all
+of these securities. As such, no unrealized gains or losses were recorded at
+year end. There were no proceeds, gross realized gains or gross realized losses
+from sales of any securities during the year.
+
+c. INVENTORIES
+
+Inventories are valued at the lower of cost (first-in, first-out method) or
+market. Inventories at October 28, 1995, October 29, 1994 and October 30, 1993
+were as follows:
+
+
+
+A director of a raw material supplier was also a director of the Company through
+January 1995. Total purchases from this supplier approximated $11,038,000
+through January 1995, $28,435,000 in 1994 and $37,990,000 in 1993. Accounts
+payable to this supplier at October 29, 1994 and October 30, 1993 approximated
+$1,090,000 and $3,639,000, respectively. Another director of the Company was
+also a director of a raw material supplier through June 1993. Total purchases
+from this supplier approximated $1,510,000 in 1993. The Company believes that
+the terms of these purchases were comparable to those available from other
+suppliers.
+
+d. PROPERTY, PLANT AND EQUIPMENT
+
+The straight-line method of depreciation is used for all classes of assets for
+financial statement purposes; both straight-line and accelerated methods are
+used for income tax purposes. Capitalized leases and leasehold improvements are
+amortized based upon the lesser of the term of the lease or the useful life of
+the asset. Depreciation and amortization are based on the following useful
+lives:
+
+
+
+Total depreciation and amortization of property, plant and equipment was
+$62,066,000, $59,240,000 and $57,732,000 in 1995, 1994 and 1993, respectively.
+
+e. INTANGIBLE ASSETS
+
+Intangible assets at October 28, 1995 consist of goodwill, patents and other
+intangibles. Goodwill is being amortized on a straight- line basis over a
+fifteen-year period. Patents and other intangibles are being amortized on a
+straight-line basis over their estimated economic lives which range from seven
+to fifteen years. Amortization expense for all intangible assets was $2,032,000,
+$2,044,000 and $2,081,000 in 1995, 1994 and 1993, respectively. Accumulated
+amortization for all intangible assets was $10,668,000, $8,636,000 and
+$6,657,000 at October 28, 1995, October 29, 1994 and October 30, 1993,
+respectively. On a periodic basis, the Company estimates the future undiscounted
+cash flows of the businesses to which the intangible assets relate in order to
+ensure that the carrying value of such intangible assets has not been impaired.
+
+
+
+                              ANALOG DEVICES, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(CONTINUED)
+
+
+f. GRANT ACCOUNTING
+
+The Company's manufacturing facility in Limerick, Ireland has received various
+grants from the Industrial Development Authority of the Republic of Ireland.
+These grants include capital, employment, and research and development grants.
+Capital grants for the acquisition of property and equipment are netted against
+the related capital expenditures and amortized as a credit to depreciation
+expense over the useful life of the related asset. Employment grants, which
+relate to employee hiring and training, and research and development grants are
+recognized in earnings in the period in which the related expenditures are
+incurred by the Company.
+
+g. TRANSLATION OF FOREIGN CURRENCIES
+
+The functional currency for the Company's foreign sales operations is the
+applicable local currency. Gains and losses resulting from translation of these
+foreign currencies into U.S. dollars are accumulated in a separate component of
+stockholders' equity. Transaction gains and losses are included in income
+currently, including those at the Company's principal foreign manufacturing
+operations where the functional currency is the U.S. dollar. Net foreign
+currency transaction gains or losses included in other expenses, net, were not
+material in fiscal 1995, 1994 and 1993.
+
+h. FOREIGN CURRENCY INSTRUMENTS AND INTEREST RATE AGREEMENTS
+
+The Company enters into forward foreign exchange contracts, foreign currency
+option contracts and currency swap agreements to offset certain operational and
+balance sheet exposures from changes in foreign currency exchange rates. Such
+exposures result from the portion of the Company's operations, assets and
+liabilities that are denominated in currencies other than the U.S. dollar,
+primarily Japanese yen and European currencies. These foreign exchange contract,
+option and swap transactions are entered into to support product sales,
+purchases and financing transactions made in the normal course of business, and
+accordingly, are not speculative in nature.
+
+Forward foreign exchange contracts are utilized to manage the risk associated
+with currency fluctuations on certain firm sales and purchase commitments
+denominated in foreign currencies and certain non-U.S. dollar denominated asset
+and liability positions. The Company's forward foreign exchange contracts are
+primarily denominated in Japanese yen and certain European currencies and are
+for periods consistent with the terms of the underlying transactions, generally
+one year or less. The forward foreign exchange contracts that relate to firm,
+foreign currency sales and purchase commitments are designated and effective as
+hedges of firm, identifiable foreign currency commitments, and accordingly, the
+gains and losses resulting from the impact of currency exchange rate movements
+on these contracts are not recognized in operations until the underlying hedged
+transactions are recognized. Upon recognition, such gains and losses are
+recorded in operations as an adjustment to the carrying amount of the underlying
+transactions in the period in which these transactions are recognized.
+Unrealized gains and losses resulting from the impact of currency exchange rate
+movements on forward foreign exchange contracts designated to offset certain
+non-U.S. dollar denominated assets and liabilities are recognized as other
+income or expense in the period in which the exchange rates change and offset
+the foreign currency gains and losses on the underlying exposures being hedged.
+The contract amounts of forward foreign exchange contracts outstanding were
+$181.7 million, $136.4 million and $107.9 million at October 28, 1995, October
+29, 1994 and October 30, 1993, respectively.
+
+
+
+                             ANALOG DEVICES, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(CONTINUED)
+
+
+The Company also may periodically enter into foreign currency options contracts
+to offset certain probable anticipated, but not firmly committed, foreign
+currency transactions related to the sale of product during the ensuing nine
+months. When the dollar strengthens significantly against the foreign
+currencies, the decline in value of future currency cash flows is partially
+offset by the gains in value of the purchased currency options designated as
+hedges. Conversely, when the dollar weakens, the increase in value of future
+foreign currency cash flows is reduced only by the premium paid to acquire the
+options. The Company's foreign currency option contracts are primarily
+denominated in Japanese yen and generally have maturities which do not exceed
+six months. These foreign currency option contracts are designated and effective
+as hedges of anticipated foreign currency sales transactions, and accordingly,
+the premium cost and any realized gains associated with these contracts are
+deferred and included in the consolidated balance sheet as prepaid expenses and
+accrued liabilities, respectively, until such time as the underlying sales
+transactions are recognized. Upon recognition, such premium costs and any
+realized gains are recorded in sales as a component of the underlying sales
+transactions being hedged. The contract amounts of foreign currency option
+contracts outstanding were $26.9 million, $28.6 million and $29.0 million at
+October 28, 1995, October 29, 1994 and October 30, 1993, respectively. Deferred
+gains or losses attributable to foreign currency option contracts were not
+material at October 28, 1995.
+
+
+The Company uses currency swap agreements to hedge the value of its net
+investment in certain of its foreign subsidiaries. Realized and unrealized gains
+and losses on such agreements related to the net foreign investment being hedged
+are recognized in the cumulative translation adjustment component of
+stockholders' equity, with the related amounts due to or from counterparties
+included in accrued liabilities or other current assets. The contract amount of
+currency swap agreements outstanding, which were principally denominated in
+Japanese yen, was $10.0 million at both October 28, 1995 and October 29, 1994.
+Currency swap agreements outstanding at October 28, 1995 have maturities of one
+year and generally remain in effect until expiration.
+
+The Company enters into interest rate swap and cap agreements to manage its
+exposure to interest rate movements by effectively converting a portion of its
+debt and certain financing arrangements from fixed to variable rates. Maturity
+dates of interest rate swap and cap agreements generally match those of the
+underlying debt or financing arrangements. These agreements, which have
+maturities of up to twelve years involve the exchange of fixed rate payments for
+variable rate payments without the exchange of the underlying principal amounts.
+Variable rates are based on six-month U.S. dollar LIBOR and reset on a
+semiannual basis. The differential between fixed and variable rates to be paid
+or received is accrued as interest rates change in accordance with the
+agreements and recognized over the life of the agreements as an adjustment to
+interest expense. The notional principal amounts of interest rate swap and cap
+agreements outstanding were $50.3 million, $50.5 million and $40.0 million at
+October 28, 1995, October 29, 1994 and October 30, 1993.
+
+
+The cash requirements of the above-described financial instruments approximate
+their fair value. Cash flows associated with these financial instruments are
+classified consistent with the cash flows from the transactions being hedged.
+
+
+
+                              ANALOG DEVICES, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(CONTINUED)
+
+
+Derivative financial instruments involve, to a varying degree, elements of
+market and credit risk not recognized in the consolidated financial statements.
+The market risk associated with these instruments resulting from currency
+exchange rate or interest rate movements is expected to offset the market risk
+of the underlying transactions, assets and liabilities being hedged. The
+counterparties to the agreements relating to the Company's foreign exchange and
+interest rate instruments consist of a number of major high credit quality
+international financial institutions. The Company does not believe that there is
+significant risk of nonperformance by these counterparties because the Company
+continually monitors the credit ratings of such counterparties, and limits the
+financial exposure and the amount of agreements entered into with any one
+financial institution. While the contract or notional amounts of derivative
+financial instruments provide one measure of the volume of these transactions,
+they do not represent the amount of the Company's exposure to credit risk. The
+amounts potentially subject to credit risk (arising from the possible inability
+of counterparties to meet the terms of their contracts) are generally limited to
+the amounts, if any, by which the counterparties' obligations under the 
+contracts exceed the obligations of the Company to the counterparties.
+
+i. CONCENTRATIONS OF CREDIT RISK
+
+Financial instruments which potentially subject the Company to concentrations of
+credit risk consist principally of investments and trade accounts receivable.
+
+The Company maintains cash, cash equivalents and short-term investments with
+high credit quality financial institutions and monitors the amount of credit
+exposure to any one financial institution.
+
+The Company sells its products to distributors and original equipment
+manufacturers involved in a variety of industries including industrial
+automation, instrumentation, military/aerospace, and to an increasing degree,
+communications, computers and peripherals, and high-performance consumer
+electronics. The Company has adopted credit policies and standards to
+accommodate growth into these markets. The Company believes that any risk of
+accounting loss with respect to trade accounts receivable is limited due to the
+diversity of its products, end customers and geographic sales areas. The Company
+performs continuing credit evaluations of its customers financial condition and
+although the Company generally does not require collateral, letters of credit
+may be required from its customers in certain circumstances. Due to the
+Company's credit evaluation and collection process, bad debt losses have been
+insignificant.
+
+
+
+
+                              ANALOG DEVICES, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(CONTINUED)
+
+
+j. FAIR VALUES OF FINANCIAL INSTRUMENTS
+
+The following estimated fair value amounts have been determined by the Company
+using available market information and appropriate valuation methodologies.
+However, considerable judgment is required in interpreting market data to
+develop the estimates of fair value. Accordingly, the estimates presented herein
+are not necessarily indicative of the amounts that the Company could realize in
+a current market exchange.
+
+
+
+The following methods and assumptions were used by the Company in estimating its
+fair value disclosures for financial instruments:
+
+Cash, cash equivalents and short-term investments -The carrying amounts of these
+items are a reasonable estimate of their fair value due to the short term to
+maturity and readily available market for these types of investments.
+
+Short-term borrowings-The carrying amounts of these variable-rate borrowings
+approximate fair value due to the short period of time to maturity.
+
+Long-term debt-The fair value of long-term debt is estimated based on current
+interest rates available to the Company for debt instruments with similar terms,
+degree of risk and remaining maturities.
+
+Interest rate swap and cap agreements-The fair value of interest rate swap and
+cap agreements are obtained from dealer quotes. These values represent the
+estimated amount the Company would receive or pay to terminate the agreements
+taking into consideration current interest rates.
+
+Forward foreign currency exchange contacts-The estimated fair value of forward
+foreign currency exchange contracts is based on the estimated amount at which
+they could be settled based on market exchange rates.
+
+Foreign currency option contracts and currency swap agreements-The fair values 
+of foreign currency option contracts and currency swap agreements are obtained 
+from dealer quotes. These values represent the estimated net amount the Company
+would receive or pay to terminate the agreements.
+
+
+
+                              ANALOG DEVICES, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(CONTINUED)
+
+
+k. REVENUE RECOGNITION
+
+Revenue from product sales to end users is recognized upon shipment. A portion
+of the Company's sales are made to domestic distributors under agreements
+allowing for price protection and certain rights of return on merchandise unsold
+by the distributors. Because of the uncertainty associated with pricing
+concessions and future returns, the Company defers recognition of such sales and
+related gross margin until the merchandise is sold by the distributors. For
+sales to international distributors, the Company recognizes the sale upon
+shipment to the distributor, but provides specific reserves for possible returns
+and allowances.
+
+l. INCOME TAXES
+
+In February 1992, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards No. 109, "Accounting for Income Taxes" (FAS 109).
+FAS 109 requires a change from the deferred method of accounting for income
+taxes under APB Opinion 11 to the asset and liability method of accounting for
+income taxes. Under the asset and liability method of FAS 109, deferred tax
+assets and liabilities are recognized for the future tax consequences
+attributable to differences between the financial statement carrying amounts of
+existing assets and liabilities and their respective tax bases. Deferred tax
+assets and liabilities are measured using enacted tax rates expected to apply to
+taxable income in the years in which those temporary differences are expected to
+be recovered or settled. Under FAS 109, the effect of a change in tax rates on
+deferred tax assets and liabilities is recognized in income in the period that
+includes the enactment date. Deferred tax asset valuation allowances are
+recorded to offset deferred tax assets if it is more likely than not that some
+or all of the deferred tax asset will not be realized. The Company established a
+valuation allowance, primarily for financial and tax capital losses, based on
+the assessment that realization of such character of income is not assured.
+
+Effective October 31, 1993 the Company adopted FAS 109. The adoption of FAS 109
+was not material to the consolidated financial statements. As permitted by FAS
+109, prior years' financial statements have not been restated.
+
+Pursuant to the deferred method under APB Opinion 11, which was applied at
+October 30, 1993 and in prior fiscal years, deferred income taxes are recognized
+for income and expense items that are reported in different years for financial
+reporting purposes and income tax purposes using the tax rate applicable for the
+year of calculation. Under the deferred method, deferred taxes are not adjusted
+for subsequent changes in tax rates.
+
+m. STOCK SPLIT
+
+On November 28, 1995, the Company's Board of Directors authorized a
+three-for-two stock split effected in the form of a 50% stock dividend
+distributed on January 3, 1996 to stockholders of record December 12, 1995. The
+split was accomplished through the issuance of common stock. All references to
+share and per share amounts in this report have been restated to reflect the
+split.
+
+n. EARNINGS PER SHARE OF COMMON STOCK
+
+Primary earnings per common share are computed based on the weighted average
+number of common shares outstanding during the year, adjusted for incremental
+shares assumed issued for dilutive common stock equivalents. Fully diluted
+earnings per share do not differ materially from primary earnings per share.
+
+o. NEW ACCOUNTING STANDARDS
+
+The Company has not yet adopted Statement of Financial Accounting Standards No.
+121, "Accounting for the Impairment of Long-Lived Assets and for Long-Lived
+Assets to Be Disposed Of" and Statement of Financial Accounting Standards No.
+123, "Accounting for Stock-Based Compensation" which will require adoption in
+fiscal 1997. The Company is in the process of determining the effect of adoption
+of these statements on its consolidated financial statements and related
+disclosures.
+
+
+
+                              ANALOG DEVICES, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(CONTINUED)
+
+
+2. INDUSTRY AND GEOGRAPHIC SEGMENT INFORMATION
+
+INDUSTRY
+
+The Company operates predominantly in one industry segment: the design,
+manufacture and marketing of a broad line of high- performance linear,
+mixed-signal and digital integrated circuits that address a wide range of
+real-world signal processing applications.
+
+GEOGRAPHIC INFORMATION
+
+The Company operates in three major geographic areas. Information on the
+Company's geographic operations is set forth in the table below. The
+predominant countries comprising European operations are England, France,
+Germany and Ireland. The predominant country comprising Asian operations is
+Japan. For segment reporting purposes, sales generated by North American
+operations in the table include export sales of $97,446,000, $96,700,000 and
+$71,542,000 in 1995, 1994 and 1993, respectively. Transfers between geographic
+areas are based on market comparables and are consistent with prevailing
+tax regulations. Operating income reflects the allocation of corporate expenses
+of $23,190,000, $19,718,000 and $17,174,000 in 1995, 1994 and 1993,
+respectively, to the appropriate geographic area based upon their beneficial
+and causal relationship to each area. Corporate identifiable assets consist of
+cash equivalents, short-term investments and intangible assets.
+
+
+
+
+
+                              ANALOG DEVICES, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(CONTINUED)
+
+
+3. ACCRUED LIABILITIES
+
+Accrued liabilities at October 28, 1995, October 29, 1994 and October 30, 1993
+consisted of the following:
+
+
+
+
+4. DEBT AND CREDIT FACILITIES
+
+6 5/8% NOTES
+
+On March 11, 1993, the Company completed a public offering of $80 million of
+seven-year 6 5/8% Notes due March 1, 2000 with semiannual interest payments on
+March 1 and September 1. The net proceeds of the offering were approximately $79
+million after payment of the underwriting discounts and expenses of the offering
+which were deferred and are being amortized to interest expense over the term of
+the Notes. Simultaneous with the sale of the Notes, the Company entered into an
+interest rate swap and cap agreement for the term of the Notes having a notional
+principal amount of $40 million whereby the effective net interest rate on $40
+million of the Notes will be the six-month LIBOR rate (up to a maximum of 7%)
+plus 1.4%. For the year ended October 28, 1995, the net effective interest rate
+on $40 million of the Notes was 7.8% after giving effect to the interest rate
+swap agreement.
+
+REVOLVING CREDIT AGREEMENT AND LINES OF CREDIT
+
+The Company has a revolving credit agreement with several banks which commits
+them to lend up to $60,000,000. The terms of the credit agreement provide that
+interest on U.S. dollar borrowings may not exceed the greater of the prime rate
+or the federal funds rate plus .50%. Under this agreement, the Company also has
+the option to borrow both U.S. dollars and foreign currencies at interest rates
+tied to various money market instruments, customarily below the prime rate.
+Under the credit agreement, the Company is currently required to pay fees of .05
+of 1% per annum on the unused portion of the lending commitment and .15 of 1%
+per annum on the total amount of the committed facility. All borrowings under
+the credit agreement are due no later than September 8, 1998. Borrowing from
+banks not participating in the agreement is permitted as long as the Company
+maintains certain required financial ratios. The credit agreement requires the
+Company to maintain stated minimum net worth and current ratio levels, plus a
+stated maximum ratio of total liabilities to net worth. In addition, the credit
+agreement restricts the aggregate of all cash dividend payments declared or made
+subsequent to January 30, 1993 to an amount not exceeding $29,734,000 plus 50%
+of the consolidated net income of the Company for the period from January 31,
+1993 through the end of the Company's then most recent fiscal quarter. At
+October 28, 1995 this amount was equal to $144,782,000. At October 28, 1995, the
+Company was in compliance with all covenants under the credit agreement. There
+are no compensating balance requirements under the credit agreement. In addition
+to the credit agreement, the Company also has various unsecured, uncommitted
+money market lines of credit with its credit agreement and other banks which
+provide for short-term borrowings.
+
+
+
+                              ANALOG DEVICES, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(CONTINUED)
+
+
+The weighted average interest rate of U.S. dollar borrowings under the credit
+agreement and the uncommitted money market lines of credit was 4.0% during 1993.
+There were no variable rate U.S. dollar borrowings under the credit agreement or
+the uncommitted money market lines of credit during 1995 and 1994 nor were there
+any such borrowings outstanding at October 28, 1995, October 29, 1994 or October
+30, 1993. The weighted average interest rates of foreign currency borrowings
+under foreign lines of credit were 7.2%, 8.7% and 10.9% during 1995, 1994 and
+1993, respectively. The weighted average interest rates of foreign currency
+borrowings were 6.2%, 7.4% and 11.8% at October 28, 1995, October 29, 1994 and
+October 30, 1993, respectively. There were $2.3 million of foreign currency
+borrowings outstanding at October 28, 1995, which were at prevailing money
+market rates for the respective currencies. Borrowings under the Company's
+credit agreement and lines of credit are generally due within six months.
+
+
+Long-term debt, including current maturities, at October 28, 1995, October 29,
+1994 and October 30, 1993 consisted of the following:
+
+
+
+On December 18, 1995, the Company completed a public offering of $230,000,000 of
+five-year 3-1/2% Convertible Subordinated Notes due December 1, 2000 with
+semiannual interest payments on June 1 and December 1 of each year, commencing
+June 1, 1996. The Notes are convertible, at the option of the holder, into the
+Company's common stock at any time after 60 days following the date of original
+issuance, unless previously redeemed, at a conversion price of $27.913 per
+share, subject to adjustment in certain events. The net proceeds of the offering
+were approximately $224 million after payment of the underwriting discount and
+expenses of the offering which will be amortized over the term of the Notes. As
+of December 31, 1995, the Company's total long-term debt was $310,000,000
+comprised of the $230,000,000 of 3-1/2% Convertible Subordinated Notes and
+$80,000,000 of 6 5/8% Notes.
+
+
+Aggregate principal payments on long-term debt and short-term borrowings for the
+following fiscal years, after consideration of the $230.0 million of 3-1/2%
+Convertible Subordinated Notes, are: 1996-$2.3 million; 2000-$80.0 million; and
+2001-$230.0 million.
+
+
+
+                              ANALOG DEVICES, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+
+5. LEASE COMMITMENTS
+
+The Company leases certain of its facilities and equipment under various
+operating and capital leases which expire at various dates through 2010. The
+lease agreements frequently include renewal and purchase provisions and require
+the Company to pay taxes, insurance and maintenance costs.
+
+Total rental expense under operating leases was $11,243,000, $9,985,000 and
+$8,853,000 in 1995, 1994 and 1993, respectively.
+
+The following is a schedule of future minimum lease payments under capital
+leases and rental payments required under long-term operating leases at October
+28, 1995:
+
+
+
+
+Net property, plant and equipment includes the following for capital leases:
+
+
+
+
+6.  COMMITMENTS AND CONTINGENCIES
+
+LITIGATION
+
+The Company was a defendant in two lawsuits brought in Texas by Texas
+Instruments, Inc. ("TI"), alleging patent infringement, including patent
+infringement arising from certain plastic encapsulation processes, and seeking
+an injunction and unspecified damages against the Company. The alleged
+infringement of one of these patents is also the subject matter of a proceeding
+brought by TI against the Company before the International Trade Commission
+("ITC"). On January 10, 1994, the ITC brought an enforcement proceeding against
+the Company alleging that the Company had violated the ITC's cease and desist
+order of February 1992 (as modified in July 1993), which prohibited the
+Company's importation of certain plastic encapsulated circuits, and seeking
+substantial penalties against the Company for these alleged violations. If it
+is determined that the Company has violated the cease and desist order, the ITC
+could seek to impose penalties of up to $100,000 per day of violation from the
+date of the cease and desist order (February 1992) or a sum equal to twice the
+value of the goods determined to be sold in violation of the order. In
+addition, in June 1992, the Company commenced a lawsuit against TI in
+Massachusetts alleging certain TI digital signal processors infringed one of
+the Company's patents.
+
+
+
+                              ANALOG DEVICES, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+
+Effective April 1, 1995, the Company and TI settled both Texas lawsuits and the
+Massachusetts lawsuit principally by means of a royalty-free cross license of
+certain of the Company's and TI's patents. On April 25, 1995, the Company filed
+with the ITC a motion to terminate the ITC enforcement proceeding on the
+grounds that further action by the ITC is unnecessary in light of the Company's
+settlement with TI. On May 8 1995, an Administrative Law Judge issued a
+recommended determination to the ITC to grant the Company's motion to terminate
+the ITC proceeding. The investigative office of the ITC has opposed the motion,
+claiming that, notwithstanding the Company's settlement with TI, the Company's
+alleged violation of the ITC's cease and desist order warrants the imposition
+of substantial penalties. The Company's motion is pending before the ITC.
+
+The Company is a defendant in a lawsuit brought by Maxim Integrated Products,
+Inc. ("Maxim") in the United States District Court for the Northern District of
+California seeking an injunction against, and claiming damages for, alleged
+antitrust violations and unfair competition in connection with distribution
+arrangements between the Company and certain distributors. Maxim alleged that
+certain distributors ceased doing business with Maxim as a result of the
+distribution arrangements between the distributors and the Company, resulting in
+improper restrictions to Maxim's access to channels by which it distributes its
+products. Maxim asserted actual and consequential damages in the amount of $14.1
+million and claimed restitution and punitive damages in an unspecified amount.
+Under applicable law, Maxim would receive three times the amount of any actual
+damages suffered as a result of any antitrust violation. On September 7, 1994,
+Maxim's claim was dismissed for lack of evidence. Maxim has appealed this ruling
+and oral argument of the appeal was held in January 1996.
+
+Although the Company believes it should prevail in the matters described in the
+previous three paragraphs, the Company is unable to determine their ultimate
+outcome or estimate the ultimate amount of liability, if any, at this time. An
+adverse resolution of these matters could have a material adverse effect on the
+Company's consolidated financial position or on its consolidated results of
+operations or cash flows in the period in which the matters are resolved.
+
+
+In addition, from time to time as a normal incidence of the nature of the
+Company's business, various claims, charges and litigation are asserted or
+commenced against the Company arising from or related to contractual matters,
+patents, personal injury, environmental matters and product liability. Such
+litigation includes patent infringement actions brought against the Company by
+Sextant Avionique, S.A. ("Sextant") in Paris, France, which claims that the
+Company's accelerometer infringes certain Sextant patents and seeks to enjoin
+such infringement. While there can be no assurance that the Company will        
+prevail in all of these matters, the Company does not believe that these
+matters will have a material adverse effect on the Company's consolidated
+financial position or consolidated results of operations. However, an adverse
+resolution could have an adverse effect on the Company's consolidated results
+of operations in the quarter in which these matters are resolved.
+
+IRISH GRANTS
+
+During fiscal 1995, the Company's manufacturing facility in Limerick, Ireland
+entered into a grant agreement with Ireland's Industrial Development Authority
+("IDA") under which the Company will receive grant monies of up to 10.1 million
+Irish Pounds (approximately $16.4 million at October 28, 1995) for capital and
+start-up costs associated with the wafer fabrication expansion at this
+facility. As of October 28, 1995, the Company had not received any grant monies
+under this agreement. The Company's Irish facility has previously received
+operating and capital grants from the IDA; a liability to repay up to $13.1
+million of the grants received by the Company would arise in the unlikely event
+the Company should discontinue its Irish operations prior to the commitment
+periods noted in the grant agreements which expire at various dates through
+1999.
+
+
+
+                              ANALOG DEVICES, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+
+WAFER SUPPLY AGREEMENTS
+
+In May 1995, the Company entered into a wafer supply agreement with its primary
+foundry, Taiwan Semiconductor Manufacturing Co., Ltd. ("TSMC"). The terms of
+this agreement provide for a series of advance payments to TSMC aggregating
+$22.4 million, payable over a three-year period, to be used by TSMC in the
+expansion of their wafer fabrication facility in Taiwan. In return, the Company
+will be provided access to a minimum level of wafer capacity over the period
+from 1996 to 1999. The first payment to TSMC was made in June 1995. The
+remaining payments under the agreement are due in June 1996, June 1997 and June
+1998. The advance payments will be repaid to the Company each year in the form
+of credits against the prices of wafers purchased by the Company when such
+wafer purchases exceed a defined minimum.
+
+In March 1995, the Company entered into an agreement with an external wafer
+foundry, Chartered Semiconductor Manufacturing Pte., Ltd. ("CSM"), which
+provides for an equity investment of approximately $20.0 million to be applied
+primarily towards the construction of a new CSM eight-inch, 0.5 micron wafer
+fabrication facility in Singapore. In consideration for its investment, the
+Company receives a minority equity position of less than 5% in CSM and will
+receive guaranteed foundry capacity and pricing commitments for sub-micron
+wafers manufactured at CSM's new facility beginning in 1996. The Company
+invested $14.0 million in fiscal 1995 in connection with this agreement. The
+Company's investment in CSM is included in the balance sheet caption, "Deferred
+Charges and Other Assets."
+
+OTHER
+
+Under the terms of the lease agreement related to the Company's headquarters
+facility in Norwood, Massachusetts, the Company has agreed to assume the note
+related to the property in the case of default by the lessor. Assumption of the
+note, which was $10.3 million at October 28, 1995, would entitle the Company to
+a first lien on the property. In addition, the Company may be subject to an
+incremental rent payment if the Company were to either default on the lease or
+not exercise its option to extend the lease at the end of the current
+fifteen-year term. This payment would be the present value of the balance of
+the lessor's debt related to the property in excess of $6.5 million at the end
+of the current lease term. As of October 28, 1995, the Company's unrecorded
+financial risk of loss under this agreement was $2.0 million in the unlikely
+event of default.
+
+7. STOCKHOLDERS' EQUITY
+
+COMMON STOCK
+
+In March 1995, the stockholders approved an amendment to the Company's Articles
+of Organization to increase the authorized number of shares of common stock
+from 150,000,000 to 300,000,000. In December 1995, the Board of Directors
+authorized an amendment to the Company's Articles of Organization to increase
+the authorized number of shares of common stock from 300,000,000 to 450,000,000
+subject to stockholder approval in March 1996.
+
+STOCK PLANS
+
+The 1988 Stock Option Plan provides for the issuance of nonstatutory and
+incentive stock options to purchase up to 15,525,000 shares of common stock.
+Under this plan, options may be granted to key employees of the Company and its
+subsidiaries at a price not less than 100% of the fair market value of the
+underlying stock on the date of grant. The Company's 1980 Stock Option Plan was
+terminated upon adoption of the 1988 Stock Option Plan; however, options to
+purchase common stock remain outstanding under this plan. In December 1995, the
+Board of Directors authorized an increase in the number of shares of common
+stock available for issuance under the 1988 Stock Option Plan from 15,525,000
+to 22,425,000 subject to stockholder approval in March 1996.
+
+While the Company may grant options to employees which become exercisable at
+different times or within different periods, the Company has generally granted
+options to employees which are exercisable on a cumulative basis in annual
+installments of 33 1/3% each on the third, fourth and fifth anniversaries of
+the date of grant.
+
+
+
+                              ANALOG DEVICES, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+
+Under the 1994 Director Stock Option Plan, each nonemployee director is granted
+annually for four years a nonstatutory option to purchase 7,875 shares of
+common stock at an exercise price equal to the fair market value on the date of
+grant. A total of 300,000 shares of common stock may be issued under this plan.
+These options are exercisable on a cumulative basis in annual installments of
+33 1/3% each on the first, second and third anniversaries of the date of grant.
+The Company also has options outstanding under the 1992 Director Option Plan
+and the 1989 Director Stock Option Plan. Options granted under these plans are
+exercisable on a cumulative basis in annual installments of 33 1/3% each on the
+third, fourth and fifth anniversaries of the date of grant.
+
+
+Transactions under the Company's stock option plans are summarized in the table
+below:
+
+
+
+(1) Options canceled which were originally issued from the 1988 Stock Option
+    Plan are available for subsequent grants. The remaining options canceled in
+    1995, 1994 and 1993 were issued from the 1980 Stock Option and 1992 Director
+    Option Plans under which no further options will be granted.
+
+The Company has a stock purchase plan that allows eligible employees to
+purchase, through payroll deductions, shares of the Company's common stock at
+85% of the fair market value at specified dates. Employees purchased 626,800
+shares in 1995 (785,700 and 1,131,800 in 1994 and 1993, respectively) for $6.9
+million ($6.0 million and $4.2 million in 1994 and 1993, respectively). At
+October 28, 1995, 1,505,700 common shares remained available for issuance under
+the stock purchase plan.
+
+
+
+
+                              ANALOG DEVICES, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+
+Under the 1991 Restricted Stock Plan, a maximum of 1,575,000 shares of common
+stock may be awarded by the Company to key employees for nominal consideration.
+This plan succeeded the Company's 1978 Restricted Stock Plan which provided for
+the issuance of up to 5,529,600 shares of common stock. Shares awarded from both
+plans are restricted as to transfer, usually for a period of five years and,
+under certain conditions, may be subject to repurchase by the Company at the
+original purchase price per share. Shares awarded under the Company's restricted
+stock plans, net of cancellations, for 1995, 1994 and 1993 were 15,000, 353,250
+and 31,500, respectively. The fair market value of the shares at the date of
+award was accounted for as deferred compensation and is being amortized over the
+restricted period. During 1995, 1994 and 1993, $1,672,000, $1,851,000 and
+$1,716,000, respectively, of such compensation was charged to expense. At
+October 28, 1995, there were 444,000 shares of common stock available for
+issuance under the 1991 Restricted Stock Plan. In December 1995, the Board of
+Directors authorized an increase in the number of shares of common stock
+available for issuance under the 1991 Restricted Stock Plan from 1,575,000 to
+2,025,000 subject to stockholder approval in March 1996.
+
+
+
+WARRANTS
+
+In 1990, the Company issued warrants for the purchase of 2,250,000 shares of
+common stock. Each warrant entitles the holder to purchase one share of the
+Company's common stock at an exercise price of $5.33 per share, subject to
+certain adjustments, anytime prior to the expiration of the warrants on August
+7, 1997. At October 28, 1995, all of the warrants were outstanding.
+
+
+As of October 28, 1995, a total of 18,603,000 common shares were reserved for
+issuance under the Company's stock plans and warrant agreement.
+
+
+PREFERRED STOCK
+
+The Company has 500,000 authorized shares of $1.00 par value Preferred Stock.
+The Board of Directors is authorized to fix designations, relative rights,
+preferences and limitations on the preferred stock at the time of issuance. The
+Company had previously authorized 35,000 shares of such Preferred Stock as
+Series A Convertible Preferred Stock, of which 28,066 shares were sold in prior
+years. As of June 14, 1990, all of these shares had been fully converted to
+common stock.
+
+COMMON STOCK PURCHASE RIGHTS
+
+In 1988, the Board of Directors adopted a Stockholder Rights Plan which was
+amended in 1989. Pursuant to the Stockholder Rights Plan, each share of common
+stock has an associated right. Under certain circumstances, each right entitles
+the holder to purchase from the Company one share of common stock at an
+exercise price of $26.67 per share, subject to adjustment.
+
+The rights are not exercisable and cannot be transferred separately from the
+common stock until ten days after a person acquires 20% or more or makes a
+tender offer for 30% or more of the Company's common stock. If, after the
+rights become exercisable, (i) any person becomes the owner of 20% or more of
+the Company's common stock, or (ii) the Company is the surviving entity in a
+merger with a 20% or more stockholder, or (iii) a 20% or more stockholder
+engages in certain "self-dealing" transactions with the Company, each right not
+owned by such person will entitle its holder to purchase, at the right's
+exercise price, common stock having a value of two times the exercise price of
+the right. In addition, if the Company is either (i) acquired in a merger or
+other business combination in which the Company is not the surviving entity, or
+(ii) sells or transfers 50% or more of its assets or earning power to another
+party, each right will entitle its holder to purchase, upon exercise, common
+stock of the acquiring Company having a value equal to two times the exercise
+price of the right.
+
+
+
+                              ANALOG DEVICES, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+
+The rights have certain anti-takeover effects, in that they would cause
+substantial dilution to a person or group that attempts to acquire a
+significant interest in the Company on terms not approved by the Board of
+Directors. The rights expire on February 12, 1998 but may be redeemed by the
+Company for $.0089 per right at any time prior to the tenth day following a
+person's acquisition of 20% or more of the Company's common stock. So long as
+the rights are not separately transferable, the Company will issue one right
+with each new share of common stock issued.
+
+8.  RETIREMENT PLANS
+
+The Company and its subsidiaries have various savings and retirement plans
+covering substantially all employees. The Company maintains a defined
+contribution plan for the benefit of its eligible United States employees.
+This plan provides for Company contributions of up to 5% of each participant's
+total eligible compensation. In addition, the Company contributes an amount
+equal to each participant's contribution, if any, up to a maximum of 2% of each
+participant's total eligible compensation. The Company also has various defined
+benefit pension and other retirement plans for certain foreign employees that
+are consistent with local statutes and practices. The total expense related to
+all of the Company's retirement plans in 1995, 1994 and 1993 was $14.0 million,
+$12.6 million and $11.9 million, respectively, which primarily consists of
+costs related to the domestic defined contribution plan. Also included in total
+expense is pension expense related to foreign defined benefit plans of $2.5
+million for 1995, $2.5 million for 1994 and $3.0 million for 1993. Summary data
+related to these foreign plans at October 28, 1995 is as follows: accumulated
+benefit obligation, substantially vested, of $22.2 million; projected benefit
+obligation of $35.2 million; plan assets at fair value of $32.4 million;
+discount rates ranging from 4% to 15%; compensation increase rates ranging from
+3% to 12% and expected rate of return on assets ranging from 5% to 15%.
+
+In fiscal 1995, the Company adopted Statement of Financial Accounting Standards
+No. 112, "Employers' Accounting for Postemployment Benefits" (FAS 112). FAS 112
+requires that postemployment benefits, primarily salary continuation and
+insurance continuation, be accrued for at the time the benefit is earned by the
+employee. Adoption of FAS 112 did not have a material impact on the Company's
+consolidated financial statements.
+
+9.  INCOME TAXES
+
+As discussed in Note 1(l), the Company adopted FAS 109 as of October 31, 1993.
+
+The reconciliation of income tax computed at the U.S. federal statutory rates
+to income tax expense is as follows:
+
+
+
+
+
+                              ANALOG DEVICES, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+
+For financial reporting purposes, income before income taxes includes the
+following components:
+
+
+
+
+The components of the provision for income taxes are as follows:
+
+
+
+The Company's practice is to reinvest indefinitely the earnings of certain
+international subsidiaries. Accordingly, no U.S. income taxes have been
+provided for approximately $277,308,000 of unremitted earnings of international
+subsidiaries.
+
+For the Company's fiscal years ended October 28, 1995 and October 29, 1994
+deferred income taxes reflect the tax effects of differences between the
+carrying amounts of assets and liabilities for financial reporting and income
+tax purposes. A deferred tax asset must be recognized for the tax benefit of
+deductible temporary differences, net operating losses, net capital losses and
+tax credit carryovers. A valuation allowance is recognized if it is "more
+likely than not" that some or all of the deferred tax asset will not be
+realized. The Company maintains a valuation allowance for deferred tax assets,
+which was $10.0 million at both October 28, 1995 and October 29, 1994. The
+Company believes that the realization of deferred tax assets was not assured
+for book and tax capital losses and book basis foreign tax credits. For tax
+purposes, the Company has a capital loss carryforward of approximately
+$6,453,000 expiring through the year 2000, principally in 1997.
+
+
+
+
+                              ANALOG DEVICES, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(CONTINUED)
+
+
+The significant components of the Company's deferred tax assets and liabilities
+for the fiscal years ended October 28, 1995 and October 29, 1994 are as
+follows:
+
+
+
+
+The components of the provision for deferred income taxes for the fiscal year
+ended October 30, 1993 are as follows:
+
+
+
+
+
+                              ANALOG DEVICES, INC.
+
+                SUPPLEMENTARY FINANCIAL INFORMATION (UNAUDITED)
+
+
+Quarterly financial information for fiscal 1995 and fiscal 1994 (thousands of
+dollars except as noted):
+
+
+
+
+
+ITEM 9.    CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+           FINANCIAL DISCLOSURE
+
+Not applicable.
+
+
+                                    PART III
+
+
+ITEM 10.   DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+The response to this item is contained in part under the caption "EXECUTIVE
+OFFICERS OF THE COMPANY" in Part I hereof, and the remainder is contained in
+the Company's Proxy Statement for the Annual Meeting of Stockholders to be held
+on March 12, 1996 (the "1996 Proxy Statement") under the caption "Election of
+Directors" and is incorporated herein by reference.
+
+
+ITEM 11.   EXECUTIVE COMPENSATION
+
+The response to this item is contained in the Company's 1996 Proxy Statement
+under the captions "Directors' Compensation," "Executive Compensation,"
+"Severance and Other Agreements," "Approval of Amendment to 1988 Stock Option
+Plan" and "Approval of Amendment to 1991 Restricted Stock Plan," and is
+incorporated herein by reference.
+
+
+ITEM 12.   SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+The response to this item is contained in the Company's 1996 Proxy Statement
+under the caption "Security Ownership of Certain Beneficial Owners and
+Management" and is incorporated herein by reference.
+
+
+ITEM 13.   CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+The response to this item is contained in the Company's 1996 Proxy Statement
+under the caption "Transactions with Directors," and is incorporated herein by
+reference.
+
+
+
+
+                                    PART IV
+
+
+ITEM 14.   EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+(a) 1.  FINANCIAL STATEMENTS
+
+     The following consolidated financial statements are included in Item 8:
+
+         -  Consolidated Statements of Income for the years ended October 28,
+              1995, October 29, 1994 and October 30, 1993
+         -  Consolidated Balance Sheets as of October 28, 1995, October 29,
+              1994 and October 30, 1993
+         -  Consolidated Statements of Stockholders' Equity for the years ended
+              October 28, 1995, October 29, 1994 and October 30, 1993
+         -  Consolidated Statements of Cash Flows for the years ended October
+              28, 1995, October 29, 1994 and   October 30, 1993
+
+(a) 2.     FINANCIAL STATEMENT SCHEDULES
+
+     The following consolidated financial statement schedules are included in
+     Item 14(d):
+
+        Schedule II - Valuation and Qualifying Accounts
+
+     All other schedules have been omitted since the required information is
+     not present or not present in amounts sufficient to require submission of
+     the schedule, or because the information required is included in the
+     consolidated financial statements or the notes thereto.
+
+(a) 3.     LISTING OF EXHIBITS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*      Management contracts and compensatory plan or arrangements required to
+       be filed as an Exhibit pursuant to Item 14(c) of Form 10-K.
+
+**     Confidential treatment has been granted as to certain portions of these
+       Exhibits.
+
+(b)    REPORTS ON FORM 8-K
+
+    The Company filed no reports on Form 8-K with the Securities and Exchange
+    Commission during the fiscal quarter ended October 28, 1995.
+
+
+
+
+
+
+                                   SIGNATURES
+
+
+Pursuant to the requirements of Section 13 or 15 (d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+
+ANALOG DEVICES, INC.
+ (Registrant)
+
+By:  /s/  Ray Stata                         By:  /s/  Joseph E. McDonough
+     -----------------------------               -------------------------------
+     Ray Stata                                   Joseph E. McDonough
+     Chairman of the Board and                   Vice President-Finance
+     Chief Executive Officer                     and Chief Financial Officer
+     (Principal Executive Officer)               (Principal Financial and
+                                                 Accounting Officer)
+
+
+Date: January 25, 1996                      Date: January 25, 1996
+      ----------------------------                ------------------------------
+
+Pursuant to the requirements of the Securities and Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+
+
+
+
+
+
+
+
+                              ANALOG DEVICES, INC.
+
+                           ANNUAL REPORT ON FORM 10-K
+
+                          YEAR ENDED OCTOBER 28, 1995
+
+                                   ITEM 14(D)
+
+                          FINANCIAL STATEMENT SCHEDULE
+
+
+
+                              ANALOG DEVICES, INC.
+
+                SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+
+      YEARS ENDED OCTOBER 28, 1995, OCTOBER 29, 1994 AND OCTOBER 30, 1993
+                                  (THOUSANDS)
+
+
+
+
+
+

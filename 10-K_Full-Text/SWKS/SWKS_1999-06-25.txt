@@ -1,0 +1,2634 @@
+
+10-K405
+ALPHA INDUSTRIES, INC.
+
+
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-K
+
+[ X ] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+      ACT OF 1934
+
+For the fiscal year ended March 28, 1999
+
+                                       OR
+
+[   ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+
+For the transition period from __________ to __________
+
+Commission file number 1-5560
+                       ------
+
+                             ALPHA INDUSTRIES, INC.
+             (Exact name of registrant as specified in its charter)
+
+             DELAWARE                                     04-2302115
+  (State or other jurisdiction of                     (I.R.S. Employer
+   incorporation or organization)                    Identification No.)
+
+ 20 SYLVAN ROAD, WOBURN, MASSACHUSETTS                      01801
+(Address of principal executive offices)                  (Zip Code)
+
+     Registrant's telephone number, including area code:     (781) 935-5150
+
+        Securities registered pursuant to Section 12(b) of the Act: None
+
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                          Common Stock, $.25 par value
+
+         Indicate by check mark whether the Registrant: (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+         Yes  [ X ]     No  [   ]
+
+         Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K.   [ X ]
+
+         The aggregate market value of the Registrant's Common Stock held by
+non-affiliates of the Registrant at May 23, 1999 was approximately $671,869,000.
+
+         The number of shares of Common Stock outstanding at May 23, 1999 was
+16,023,503.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+         Portions of the Company's Proxy Statement, to be filed within 120 days
+of the end of the Registrant's fiscal year are incorporated by reference into
+Part III of this Report.
+
+
+
+                    The Exhibit Index is located on page 47.
+                              Page 1 of 68 pages.
+
+
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+                                     PART I
+
+ITEM 1   BUSINESS
+
+OVERVIEW
+
+We design, develop, manufacture and market proprietary radio frequency,
+microwave frequency and millimeter wave frequency integrated circuits and
+discrete semiconductors for wireless voice and data communications. The primary
+applications for our products include wireless handsets for cellular and
+personal communication services, or PCS. We also produce integrated circuits,
+discrete components, electrical ceramics and ferrites used in wireless base
+station equipment, cable television, wireless local loop, wireless personal
+digital assistants and wireless local area networks.
+
+We offer a broad range of products, including integrated circuit switches and
+controls, power amplifiers, diodes and components that comprise a significant
+part of the radio frequency devices used in wireless telephone handsets. We use
+a range of technologies, processes and materials to meet our customers'
+performance requirements, including gallium arsenide metal semiconductor field
+effect transistor, or GaAs MESFET, gallium arsenide pseudomorphic high electron
+mobility transistor, or GaAs PHEMT, silicon and electrical ceramic. We currently
+are developing power amplifiers and other devices made with a gallium arsenide
+heterojunction bipolar transistor, or GaAs HBT, process.
+
+We divide our operations into three groups to address the distinct dynamics of
+different markets:
+
+
+The Wireless Semiconductor Products Group supplies GaAs integrated circuits and
+discrete semiconductors in high volume for wireless telephone handsets and
+wireless data applications. These products are used in equipment incorporating
+the leading digital standards, Global System for Mobile Communications, or GSM,
+Code Division Multiple Access, or CDMA and Time Division Multiple Access, or
+TDMA.
+
+The Application Specific Products Group supplies radio frequency, microwave
+frequency and millimeter wave frequency GaAs integrated circuits, and discrete
+semiconductors and components for customized products in the satellite
+communications, broadband data and defense markets. We leverage our 30 years of
+experience with higher frequency microwave and millimeter wave technologies to
+develop high gross margin products and to develop new products for emerging
+wireless broadband data applications.
+
+The Ceramics Products Group uses electrical ceramic and ferrite technologies to
+supply resonators and filters, primarily for wireless base station equipment.
+
+
+
+
+
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+PRODUCTS AND APPLICATIONS
+
+We offer a broad array of radio frequency, microwave frequency and millimeter
+wave frequency products to the wireless markets, including GaAs integrated
+circuit switches and controls, GaAs integrated circuit power amplifiers, silicon
+discrete semiconductors and ceramic resonators and filters. A typical end
+product for wireless communications, such as a handset, contains radio
+frequency, baseband and digital signal processing components. Radio frequency
+components convert, switch, process and amplify the high frequency signals that
+carry the information to be transmitted or received. Baseband components process
+signals into and from their original electrical form (low frequency voice or
+data). The digital components control the overall circuitry and process the
+voice or other data to be transmitted and received.
+
+The table below identifies the major product categories and markets our three
+operating groups serve.
+
+
+Other Wireless includes wireless local loop, digital radio links, Global
+Positioning Systems, or GPS, Direct Broadcast Satellite, or DBS, intrusion
+alarms, radar detectors, ID tags and defense applications.
+
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+WIRELESS SEMICONDUCTOR PRODUCTS
+
+The diagram below illustrates the role of many of our Wireless Semiconductor
+Products in a dual band and dual mode wireless telephone handset.
+
+- --------------------------------------------------------------------------------
+                             [Cell-phone schematic]
+
+         Alpha Products in a Typical Dual Bond/Dual Mode Handset
+GaAs Radio Frequency Integrated Circuit Switches      GaAs Radio Frequency Power
+Amplifiers Discrete Semiconductors
+
+There is a picture of a cellular telephone on the right side of the page. To the
+left of the telephone is a diagram depicting various parts of a dual band/dual
+mode handset and identifying those parts which we supply.
+- --------------------------------------------------------------------------------
+
+Power Amplifiers. Wireless communications systems require amplification in
+receiving and transmitting signals. Relatively weak incoming signals must be
+amplified without adding background noise. GaAs power amplifiers are used in
+handsets because they use battery power more efficiently than silicon
+amplifiers, and battery life is a critical system feature in these portable
+applications. Our 3-volt GaAs MESFET power amplifier, which extends battery
+life, has been in production for the last 18 months. Further efficiency
+improvement in amplifiers is now available using GaAs PHEMT process technology.
+In addition, we are developing GaAs HBT process technology, which we believe
+will open new power amplifier markets to us and complement our existing strength
+in the GaAs PHEMT and GaAs MESFET processes.
+
+Integrated Circuit Switches and Controls. Switching and control functions route
+and adjust signal levels between the receiver and transmitter and other
+processing devices. The number of switching functions increases with the
+complexity of the handset design. In the dual band/dual mode handset
+illustrated, the switches perform three different routing functions, including:
+signal routing to transmitter or receiver; signal routing to cellular or PCS
+frequency; and signal routing to digital or analog mode.
+
+Our GaAs integrated circuit switches are used in handsets to provide lower
+signal loss and better signal isolation than comparable silicon products.
+Further improvements are now available using the GaAs PHEMT process.
+Transistors using the GaAs HBT process have not been suitable for switches.
+
+Discrete Semiconductors. Discrete semiconductors, especially diodes, are used
+for signal tuning and switching functions in the handset. We draw on our
+microwave frequency and millimeter wave frequency experience to produce diodes
+with better circuit performance. We manufacture these products in very high
+volumes and some of them are often purchased on a sole source basis from us.
+
+
+
+
+
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+APPLICATION SPECIFIC PRODUCTS
+
+We offer customized products that address all transmit and receive functions for
+radio frequency, microwave frequency and millimeter wave frequency applications,
+primarily in the satellite communications, broadband data and defense markets.
+The millimeter wave applications are an emerging area of broadband, high
+capacity data wireless services, such as Internet access. Systems operating in
+this frequency range must use GaAs.
+
+CERAMIC PRODUCTS
+
+Our ceramic products play a critical role in the signal selection, or filtering
+process, that is essential to processing communications signals. Ceramic
+materials allow for improved power efficiency and miniaturization, which are
+being increasingly used in wireless communications infrastructure. Ceramic
+products are also critical in the frequency-determining portions of DBS
+receivers, radar detectors and intrusion alarms.
+
+MARKETING AND DISTRIBUTION
+
+We sell our products through independent manufacturers' representatives and
+through a direct sales staff. We sell through 12 domestic and 23 international
+independent manufacturers' representative organizations. Our field support
+management staff oversees our manufacturers' representatives and provides them
+with sales direction and support. Our direct sales staff manages key customer
+accounts and worldwide customer support and identifies and targets sales in the
+emerging wireless data markets.
+
+We maintain an internal marketing organization that is responsible for
+developing sales and advertising literature, such as product announcements,
+catalogs, brochures and magazine articles in trade and other publications. Our
+internal marketing organization also prepares technical presentations for
+industry conferences.
+
+We believe that the technical and complex nature of our products and markets
+demands an extraordinary commitment to close ongoing relationships with our
+customers. We strive to maintain close contact with our customers' design,
+engineering, manufacturing, and purchasing and project management personnel. We
+employ a team approach in developing close relationships by combining the
+support of design and applications engineers, manufacturing personnel, sales and
+marketing staff and senior management. We believe that maintaining close contact
+with our customers improves their level of satisfaction, assists us in
+anticipating their future product needs and enhances our opportunities for
+design wins.
+
+RESEARCH AND DEVELOPMENT
+
+Our products and markets are subject to continued technological advances.
+Recognizing this, we maintain a high level of R&D activities to remain
+competitive in certain areas and to be an industry leader in other areas. We are
+focusing our development efforts on new products, design tools and manufacturing
+processes in our Wireless Semiconductor Products group using our core
+technologies. We strive to improve existing product performance, improve design
+and manufacturing processes and reduce costs. We maintain close collaborative
+relationships with many of our customers to help us identify market demands and
+target our development efforts to meet those demands.
+
+GaAs HBT Capabilities. We are developing our GaAs HBT process technology
+capability with a third party designer and a third party foundry of GaAs HBT
+technology. GaAs HBT process technology works at higher frequencies than
+traditional silicon semiconductors and requires less power to transmit signals.
+For cellular telephones, this permits smaller handsets and longer talk-time
+between battery charges. We plan to introduce our initial GaAs HBT products for
+OEM qualification during the summer of 1999. We believe that the addition of a
+line of GaAs HBT products will complement our existing GaAs PHEMT and GaAs
+
+
+
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+MESFET devices, enabling us to offer our customers the full range of currently
+available GaAs applications for use in wireless telephone handsets and wireless
+data applications.
+
+Millimeter Wave Technology. We developed much of our millimeter wave technology
+in connection with approximately 30 years of defense related contracts involving
+sophisticated millimeter wave semiconductor products. We use the techniques,
+processes and experience in millimeter wave technology developed in connection
+with these government programs for commercial applications.
+
+Our R&D expenditures for fiscal 1999, 1998 and 1997 were $12.9 million, $10.0
+million, and $9.5 million, respectively.
+
+RAW MATERIALS
+
+Raw materials for our products and manufacturing processes are generally
+available from several sources. It is our policy not to depend on a sole source
+of supply. However, there are limited situations where we procure certain
+components and services for our products from single or limited sources. We
+purchase these materials and services on a purchase order basis, do not carry
+significant inventories and do not have any long-term supply contracts with our
+source vendors.
+
+WORKING CAPITAL
+
+Our business is not seasonal, and there are no special practices with respect to
+working capital for us or the industry in general. We provide a limited warranty
+on our products against defects in material and workmanship. Payment terms are
+30 days in the domestic market and generally 60 days in foreign markets.
+
+CONTRACTS
+
+During fiscal 1999, one customer, Motorola, Inc., accounted for approximately
+28% of our total sales and no other single customer accounted for 10% or more of
+our total sales. The 17% of our sales that were to the United States Government
+and prime contractors and subcontractors thereof are subject to termination at
+the convenience of the Government, in which event we would normally be
+reimbursed for costs incurred. While U.S. Government orders are cancelled in
+this manner, we have seldom experienced any material terminations for
+convenience.
+
+COMPETITIVE CONDITIONS
+
+We compete on the basis of price, performance, quality, reliability, size,
+ability to meet delivery requirements and customer service and support. We
+experience intense competition worldwide from a number of multinational
+companies that offer a variety of competitive products and broader product
+lines, and which have substantially greater financial resources and production,
+marketing, manufacturing, engineering and other capabilities than us. We also
+face competition from a number of smaller companies. In addition, our customers,
+particularly our largest customers, may have or could acquire the capability to
+develop or manufacture products competitive with those that have been or may be
+developed or manufactured by us.
+
+
+
+
+
+
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+PATENTS AND TRADEMARKS
+
+We own a small number of patents and have other patent applications under
+preparation or pending. However, we believe that our technological position
+depends primarily on the ability to develop new innovative products through the
+technical competence of our engineering personnel.
+
+BACKLOG
+
+Our policy is to book only the next three months of commercial orders consistent
+with customer short term requirements. Many commercial orders cover
+substantially more than three months of performance, but we believe such orders
+can be modified or cancelled by the customer easily and it is a better practice
+to limit the bookings in this manner. On this basis, we believe all orders in
+our backlog to be firm. We have backlog of undelivered orders on March 28, 1999
+of approximately $36.9 million compared with $36.8 million on March 29, 1998.
+Substantially all of the March 28, 1999 backlog is anticipated to be shipped in
+fiscal 2000.
+
+ENVIRONMENTAL REGULATIONS
+
+In our opinion, compliance with federal, state, and local environmental
+protection regulations does not and will not have a material effect on our
+capital expenditures, earnings and competitive position.
+
+EXECUTIVE OFFICERS
+
+The following table sets forth certain information with respect to our executive
+officers at May 31, 1999.
+
+
+All officers serve until the next Board of Directors meeting following the
+Annual Meeting of Stockholders scheduled for September 13, 1999, or until their
+successors are elected and qualified. No officer was elected pursuant to any
+arrangement or understanding.
+
+George S. Kariotis was Chairman of the Board and Chief Executive Officer from
+our inception in 1962 until 1978, and, from 1974 to 1978, he was also our
+Treasurer. From 1979 to 1983, Mr. Kariotis was the Secretary of Manpower
+Development and Economic Affairs for the Commonwealth of Massachusetts. He was
+re-elected Chairman of the Board in 1983 and Chief Executive Officer in 1985.
+Mr. Kariotis resigned as Chief Executive Officer in July 1986 while he
+campaigned for public office. He resumed his position as Chief Executive Officer
+in November 1986, and served in that capacity until 1991.
+
+Thomas C. Leonard was elected our President and Chief Executive Officer in July
+1996 and was elected a Director in August 1996. Mr. Leonard joined us in 1992 as
+a division General Manager. In 1994, he was elected a Vice President. Mr.
+Leonard has over 30 years experience in the microwave industry, having held a
+variety of executive and senior level management and marketing positions at
+M/A-COM, Inc., Varian Associates, Inc. and Sylvania.
+
+
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+Paul E. Vincent joined us as Controller in 1979 and has been Vice President and
+Chief Financial Officer since January 1997. Prior to joining us, Mr. Vincent
+worked at Applicon Incorporated and, prior to that, Arthur Andersen & Co. Mr.
+Vincent is a CPA.
+
+David J. Aldrich joined us in 1995 as Vice President, Chief Financial Officer
+and Treasurer and currently serves as Vice President and General Manager of the
+Wireless Semiconductor group and the Application Specific Products group. From
+1989 to 1995, Mr. Aldrich held senior management positions at M/A-COM, Inc.,
+including Manager Integrated Circuits Active Products, Corporate Vice President
+Strategic Planning, Director of Finance and Administration, and Director of
+Strategic Initiatives with the Microelectronics Division. Mr. Aldrich is a
+Director of Microwave Power Devices, Inc., a manufacturer of microwave products.
+
+Richard Langman joined us in January 1997 as Vice President and President and
+General Manager of our Trans-Tech, Inc. subsidiary. Prior to joining us, Mr.
+Langman worked for Coors Ceramics Company for 23 years, holding senior executive
+positions in operations and sales. Mr. Langman received his B.S. in Ceramic
+Engineering from Alfred University and his M.S. in Metallurgy and Material
+Science from Lehigh University.
+
+Jean-Pierre Gillard joined us in 1992 as Manager of GaAs integrated circuit
+operations and has been Vice President of Business Development since June 1996.
+Before 1992, he held a number of management positions at M/A-COM, Inc. in both
+marketing and sales.
+
+James C. Nemiah joined us in November 1995 as Corporate Counsel and Assistant
+Secretary. He was named Secretary in September 1996. Prior to joining us, Mr.
+Nemiah was Vice President, General Counsel and Clerk at American Science and
+Engineering, Inc. from 1987 to 1995.
+
+EMPLOYEES
+
+As of March 28, 1999, we employed approximately 940 persons, compared with 840
+persons as of March 29, 1998.
+
+ITEM 2   PROPERTIES
+
+The following information describes the major facilities we own and lease. We
+believe we have adequate production capacity to meet our current business needs
+but we are adding required capacity to better serve the wireless market as
+demand continues to grow. We are expanding our capacity within the structure of
+our Woburn plant without interruption of our production. We expect the
+expansion, including the cost of building improvements and the purchase of
+manufacturing equipment, to cost approximately $18 million. We also expect to
+complete the expansion during the summer of 1999. As described in Note 3 to the
+Consolidated Financial Statements on pages 32 and 33, several properties secure
+debt of the Company.
+
+a)  We own a 158,000 square foot plant plus nine acres of land at 20 Sylvan
+    Road, Woburn, Massachusetts. This plant is occupied by the Wireless
+    Semiconductor and Application Specific manufacturing operations and
+    corporate headquarters.
+
+b)  We own a 92,000 square foot facility in Adamstown, Maryland. This plant is
+    occupied by our wholly owned subsidiary, Trans-Tech, Inc., and is utilized
+    as our primary ceramic products manufacturing facility.
+
+c)  We lease a 33,000 square foot facility in Frederick, Maryland. This plant is
+    used by our wholly owned subsidiary, Trans-Tech, Inc., to manufacture
+    ceramic components including filters.
+
+
+
+
+
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+ITEM 3   LEGAL PROCEEDINGS
+
+We do not have any material pending legal proceedings other than routine
+litigation incidental to our business.
+
+We have been notified by federal and state environmental agencies of our
+potential liability with respect to the Spectron, Inc. Superfund site in Elkton,
+Maryland. Several hundred other companies have also been notified about their
+potential liability regarding this site. We continue to deny that we have any
+responsibility with respect to this site other than as a DE MINIMIS party.
+Management is of the opinion that the outcome of the aforementioned
+environmental matter will not have a material effect on our operations.
+
+See also Note 8 to the Consolidated Financial Statements on page 41.
+
+ITEM 4   SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+There were no matters submitted to a vote of security holders during the fiscal
+quarter ended March 28, 1999.
+
+
+
+                                     PART II
+
+ITEM 5   MARKET FOR THE REGISTRANT'S COMMON STOCK AND RELATED STOCKHOLDER
+         MATTERS
+
+See the section entitled "Quarterly Financial Data" appearing on page 28 for
+information regarding Common Stock market prices. We have not paid cash
+dividends on our common stock since fiscal 1986, and we do not anticipate paying
+cash dividends in the foreseeable future. Our current policy is to retain all of
+our earnings to finance future growth. We are subject to financial and operating
+covenants, including restrictions on the payment of cash dividends, under our
+bank financing agreements. On February 19, 1999, we distributed a three-for-two
+common stock split.
+
+See Notes 3 and 6 to the Consolidated Financial Statements beginning on pages 32
+and 36, respectively, for information regarding dividend restrictions and the
+stock split.
+
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+ITEM 6   SELECTED FINANCIAL DATA
+
+Five Year Financial Summary
+(In thousands, except per share amounts and financial ratios)
+
+
+
+
+
+
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+ITEM 7   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+         RESULTS OF OPERATIONS
+
+
+OVERVIEW
+
+We design, develop, manufacture and market proprietary radio frequency,
+microwave frequency and millimeter wave frequency integrated circuits and
+discrete semiconductors for wireless voice and data communications.
+Historically, we have focused on two operating divisions: Alpha Microwave and
+Trans-Tech. During fiscal 1998, we reorganized the Alpha Microwave division into
+two groups, Wireless Semiconductor Products and Application Specific Products,
+in order to address the distinct dynamics of different markets. Trans-Tech has
+been designated the Ceramic Products Group. Our operations are currently
+organized into three reportable segments:
+
+The Wireless Semiconductor Products Group supplies GaAs integrated circuits and
+discrete semiconductors in high volume for wireless telephone handsets and
+wireless data applications. This group represented 52.1% of our total sales in
+fiscal 1999.
+
+The Application Specific Products Group supplies radio frequency, microwave
+frequency and millimeter wave frequency GaAs integrated circuits, and discrete
+semiconductors and components for customized products in the satellite
+communications, broadband data and defense markets. This group represented 27.7%
+of our total sales in fiscal 1999.
+
+The Ceramics Products Group uses electrical ceramic and ferrite technologies to
+supply resonators and filters, primarily for wireless base station equipment.
+This group represented 20.2% of our total sales in fiscal 1999.
+
+We derived approximately 83% of our sales in fiscal 1999 from standard and
+custom designed products sold to the commercial market. The remaining sales are
+derived from sales to defense customers. Over the past several years, we have
+continued to reduce our reliance on defense business to increase our emphasis on
+the commercial wireless market. Sales are recognized when a product is shipped
+and services are performed.
+
+Our customers include leading OEMs in the wireless communications industry and
+their principal suppliers. During fiscal 1999, sales to our 15 largest customers
+accounted for 64.3% of our total sales. During that period, sales to Motorola
+accounted for 28.1% of total sales.
+
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+RESULTS OF OPERATIONS
+
+The following table shows our statement of operations data expressed as a
+percentage of sales for the periods indicated:
+
+                                                     YEARS ENDED
+                                            -------------------------------
+                                            MARCH 28,  MARCH 29,  MARCH 30,
+                                              1999       1998       1997
+                                            ---------  ---------  ---------
+
+Sales....................................    100.0%     100.0%     100.0%
+Cost of sales............................     56.3       62.3       80.4
+                                             -----      -----      -----
+Gross margin.............................     43.7       37.7       19.6
+Research and development expenses........     10.2        8.6       11.2
+Selling and administrative expenses......     18.0       19.1       24.0
+Repositioning expenses...................       --         --        2.4
+                                             -----      -----      -----
+Operating income (loss)..................     15.5       10.0      (18.0)
+Other income (expense), net..............      0.5       (0.2)      (0.3)
+                                             -----      -----      -----
+Income (loss) before income taxes........     16.0        9.8      (18.3)
+Provision (benefit) for income taxes.....     (1.0)       1.0         --
+                                             -----      -----      -----
+Net income (loss)........................     17.0%       8.8%     (18.3)%
+                                             =====      =====      =====
+
+FISCAL YEARS ENDED MARCH 28, 1999, MARCH 29, 1998 AND MARCH 30, 1997
+
+Sales. Sales increased 8.1% to $126.3 million in fiscal 1999 from $116.9 million
+in fiscal 1998. The increase was primarily attributable to increased demand for
+wireless products and our penetration into additional handset platforms.
+Deliveries to Motorola represented 28.1% of our total sales in fiscal 1999
+compared to 24.7% in fiscal 1998. We continued to increase our focus on the
+commercial wireless markets, which lowered our defense sales to 17.2% in fiscal
+1999 from 17.6% in fiscal 1998. We continue to participate in defense programs
+that require minimal investment.
+
+Sales increased 37.1% to $116.9 million in fiscal 1998 from $85.3 million in
+fiscal 1997. The increase in sales was largely due to greater volume resulting
+from increased penetration into several handset platforms. Deliveries to
+Motorola represented 24.7% of our total sales in fiscal 1998 compared to 10.6%
+in fiscal 1997. Defense sales represented 17.6% of total sales in fiscal 1998
+compared to 20.8% in fiscal 1997.
+
+Gross Profit. Gross profit increased 25.2% to $55.2 million in fiscal 1999 from
+$44.1 million in fiscal 1998. Gross margin increased to 43.7% in fiscal 1999
+from 37.7% in fiscal 1998. These increases were primarily a result of improved
+operating efficiencies in all three business segments, particularly in Wireless
+Semiconductors, which continued to leverage capacity, improve yields and reduce
+material costs.
+
+Gross profit increased 163.4% to $44.1 million in fiscal 1998 from $16.7 million
+in fiscal 1997. Gross margin increased to 37.7% in fiscal 1998 from 19.6% in
+fiscal 1997. The following non-recurring costs were included in fiscal 1997
+gross profit: (1) excess manufacturing capacity in the Ceramics group that was
+reduced in the fourth quarter with the divestiture of the group's French
+subsidiary and consolidation in this Group; (2) carrying costs for divested
+operations (incurred prior to divestiture); and (3) a $2.6 million inventory
+write-down in Ceramics resulting from shifts in demand away from certain ceramic
+products. In addition, we continued expanding capacity for Wireless
+Semiconductors during fiscal 1997 despite lower sales volumes for the first half
+of the year. The gross margin improvement in fiscal 1998 was attributable to
+increased sales volume and the leveraging of capacity of our Wireless
+Semiconductor operation, as well as reduced manufacturing costs and improved
+operating efficiencies in our Ceramics Group.
+
+Research and Development Expenses. Research and development expenses increased
+28.4% to $12.9 million or 10.2% of sales in fiscal 1999 from $10.0 million or
+8.6% of sales in fiscal 1998. The increase in research and development expenses
+was primarily attributable to the development of processes and products in the
+Wireless Semiconductor Products Group. Over 75% of our total research and
+development expenses
+
+
+
+
+
+
+
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+in fiscal 1999 and 1998 were focused on the Wireless Semiconductor Products
+Group's efforts in developing GaAs integrated circuits and other high volume
+wireless products.
+
+Research and development expenses increased 5.1% to $10.0 million or 8.6% of
+sales in fiscal 1998 from $9.5 million or 11.2% of sales in fiscal 1997. The
+increase in research and development expenses was the result of increased
+investments in the Wireless Semiconductor operation offset by decreases in
+investment in our Ceramics Group during the rebuilding of its business.
+
+Selling and Administrative Expenses. Selling and administrative expenses
+increased 1.8% to $22.8 million or 18.0% of sales in fiscal 1999 from $22.4
+million or 19.1% of sales in fiscal 1998. The increase in selling and
+administrative expenses was attributable to increased sales commissions
+resulting from higher sales volumes, while the decrease in selling and
+administrative expenses as a percentage of sales was attributable to our
+continued efforts to control administrative costs.
+
+Selling and administrative expenses increased 9.4% to $22.4 million or 19.1% of
+sales in fiscal 1998 from $20.4 million or 24.0% of sales in fiscal 1997.
+Selling and administrative expenses in fiscal 1997 included non-recurring costs
+of approximately $1.5 million for recruiting and consolidation costs for our
+Ceramics Products Group and for severance costs. The increased selling and
+administrative expenses reflect the continued investment in sales, marketing and
+administrative activities. Significant components of the increase included the
+addition of dedicated account managers for key wireless OEMs, improvements to
+our information systems, training costs and recruiting costs for key positions.
+
+Other Income (Expense), Net. Interest expense in fiscal 1999 decreased $204,000
+compared to fiscal 1998 due to a decline in outstanding borrowings. Interest
+income in fiscal 1999 increased $597,000 as a result of higher levels of cash,
+cash equivalents and short-term investments. Other expenses decreased $110,000
+in fiscal 1999 compared to fiscal 1998 due to losses resulting from the disposal
+of equipment in fiscal 1998.
+
+Interest expense in fiscal 1998 decreased $83,000 compared to fiscal 1997 as a
+result of a lower level of outstanding borrowings. Other expenses increased
+$59,000 in fiscal 1998 compared to fiscal 1997 due to losses resulting from the
+disposal of equipment in fiscal 1998.
+
+Provision (Benefit) for Income Taxes. The benefit for income taxes in fiscal
+1999 was $1.3 million compared to a provision for income taxes of $1.1 million
+in fiscal 1998. The fiscal 1999 benefit reflects a 10% tax rate offset by a $3.3
+million tax benefit recorded in the fourth quarter of fiscal 1999. The tax
+benefit of $3.3 million resulted from a reduction in the valuation allowance
+against deferred tax assets because of the expected use of net operating loss
+carryforwards in future periods. We will begin reporting income at a fully taxed
+rate, assumed to be 36%, during the first quarter of fiscal 2000, which ends in
+June 1999.
+
+The provision for income taxes in fiscal 1998 was $1.1 million. Our effective
+tax rate for fiscal 1998 was 10% due to the utilization of net operating loss
+carryforwards. We did not record a tax provision for fiscal 1997. No federal
+taxes were due, and state and foreign taxes were offset by a state loss
+carryback.
+
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+BUSINESS SEGMENTS
+
+The table below displays sales and operating income by business segment for
+fiscal 1999 and 1998. See Note 10 to the consolidated financial statements. It
+is not practicable to present information for fiscal 1997 because such
+information for that year is not available.
+
+                                                          YEARS ENDED
+                                                --------------------------------
+                                                MARCH 28, 1999    MARCH 29, 1998
+                                                --------------    --------------
+
+SALES
+Wireless Semiconductor Products...............  $       65,822    $       52,612
+Application Specific Products.................          34,977            37,118
+Ceramic Products..............................          25,540            27,151
+                                                --------------    --------------
+                                                $      126,339    $      116,881
+                                                ==============    ==============
+
+OPERATING INCOME
+Wireless Semiconductor Products...............  $        7,435    $        2,799
+Application Specific Products.................          10,241             7,210
+Ceramic Products..............................           1,879             1,679
+                                                --------------    --------------
+                                                $       19,555    $       11,688
+                                                ==============    ==============
+
+Wireless Semiconductor Products. Sales for the Wireless Semiconductor Products
+Group increased 25.1% to $65.8 million in fiscal 1999 from $52.6 million in
+fiscal 1998. The increase was primarily attributable to increased demand for
+wireless products and our penetration into additional handset platforms.
+
+Operating income for the Wireless Semiconductor Group increased 165.6% to $7.4
+million in fiscal 1999 from $2.8 million in fiscal 1998. The increase in
+operating income was primarily attributable to improved operating efficiencies.
+This Group continued to leverage capacity, improve yields and reduce material
+costs. In addition, this Group focused on the development of processes and
+products for the wireless market, while continuing efforts to control
+administrative costs.
+
+Application Specific Products. Sales for the Application Specific Products Group
+decreased 5.8% to $35.0 million in fiscal 1999 from $37.1 million in fiscal
+1998. The decrease was primarily attributable to our increasing focus on the
+commercial market and a continuing shift away from the defense market.
+
+Operating income for the Application Specific Products Group increased 42.0% to
+$10.2 million in fiscal 1999 from $7.2 million in fiscal 1998. The increase in
+operating income was primarily attributable to improved operating efficiencies,
+including improved yields and reduced material costs. In addition, the Group's
+selling and administrative activities were significantly reduced as the Group
+focused on controlling costs.
+
+Ceramic Products. Sales for the Ceramics Group decreased 5.9% to $25.5 million
+in fiscal 1999 from $27.2 million in fiscal 1998. The decrease was primarily
+attributable to a decreased level of sales for the first half of fiscal 1999
+mainly due to lower than expected demand for wireless infrastructure and price
+competition from Japanese competitors whose currency declined in value against
+the U.S. dollar.
+
+Operating income for the Ceramics Group increased 11.9% to $1.9 million in
+fiscal 1999 from $1.7 million in fiscal 1998. The increase in operating income
+was primarily attributable to the reduction of material costs and improved
+operating efficiencies, including the leveraging of capacity and increased
+manufacturing automation.
+
+
+
+
+
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+As of March 28, 1999, we had working capital of $42.7 million, including $23.8
+million in cash, cash equivalents and short-term investments. In fiscal 1999,
+operations generated $25.6 million of cash primarily attributable to net income
+of $21.5 million. Uses of cash included $17.7 million for capital expenditures,
+$8.2 million for net purchases of short-term investments and $1.9 million for
+the repayment of long-term debt. We continued our investment in capital
+expenditures particularly for the semiconductor GaAs wafer fabrication operation
+and the integrated circuit and discrete semiconductor assembly and test areas,
+as well as for improved manufacturing capabilities at the ceramics manufacturing
+facility.
+
+During fiscal 1999, we incurred capital expenditures of $17.7 million of which
+$14.3 million was related to the Wireless Semiconductor Products Group. The
+expenditures for this group related primarily to the expansion of the GaAs
+fabrication facility which is estimated to cost $18 million in total and is
+scheduled to be completed during the summer of 1999. This expansion is expected
+to significantly increase capacity.
+
+We maintain a $7.5 million working capital line of credit and a $7.5 million
+equipment line of credit which expire on September 30, 1999. We expect to renew
+these agreements. There are no outstanding borrowings under these agreements.
+
+In June 1999, we completed a public offering of our common stock that raised net
+proceeds of $109.4 million. The net proceeds may be used for the purchase of
+equipment, the expansion of facilities and the acquisition of businesses,
+technologies or products that complement our business. From time to time we
+discuss strategic acquisitions with third parties. We are not currently in
+discussions regarding acquisitions and have no agreements or commitments to
+complete an acquisition.
+
+We believe that anticipated cash from operations, available funds and borrowings
+under our bank lines of credit, together with the net proceeds from our recent
+stock offering, will be adequate to fund our currently planned working capital
+and capital expenditure requirements at least through fiscal 2000.
+
+YEAR 2000 READINESS
+
+The Year 2000 issue relates to the inability of certain computer software
+programs to properly recognize and process date sensitive information relative
+to the Year 2000 and beyond. To address this issue, we have initiated a
+company-wide Year 2000 project under the direction of senior management. We have
+evaluated our products and have determined that our products are not date
+sensitive. We do not expect Year 2000 exposure for products sold.
+
+We have completed a comprehensive inventory of our internal information systems.
+Over the last several years, we have invested in new computer hardware and
+software to improve our business operations. All such systems were required to
+be Year 2000 compliant as a condition of purchase. We have completed testing of
+our critical information systems. As a result of this testing, we do not believe
+that any critical systems will cause a significant interruption of our business.
+Certain systems require minor upgrades. These upgrades are expected to be
+completed by September 1999 and the costs are not expected to be material.
+
+We have also completed a comprehensive inventory of our equipment and
+facilities. We have substantially completed testing of critical items to ensure
+that they are compliant. As a result of our testing to date, we do not believe
+that any critical items will result in a significant disruption to our business.
+Minor upgrades are planned for certain items. These upgrades are expected to be
+completed by September 1999 and the costs are not expected to be material.
+
+We have completed formal communication with significant suppliers, customers,
+financial institutions and other third parties with which we have a material
+relationship in order to determine whether those entities
+
+
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+have adequate plans in place to ensure their Year 2000 preparedness. As a result
+of our communications, we have not identified any issues with respect to these
+third parties.
+
+At this time, we have not developed a "worst case" scenario or an overall
+contingency plan and do not intend to do so unless, as a result of ongoing
+testing and evaluation, we believe these plans are warranted. Based upon our
+assessment to date and our expectations that our Year 2000 project will be
+substantially complete by September 1999, we believe adequate time will be
+available to ensure alternatives can be developed, assessed and implemented, if
+necessary, prior to a Year 2000 issue having a negative impact on our
+operations. However, we cannot assure that such modifications and conversions,
+if required, will be completed on a timely basis.
+
+We have not prepared estimates of costs to remediate Year 2000 problems.
+However, based on currently available information, including the results of our
+assessment to date, we do not believe that the costs associated with Year 2000
+compliance will have a material adverse effect on our business, results of
+operations or financial condition.
+
+Although we believe our planning efforts are adequate to address our Year 2000
+compliance concerns, we cannot guarantee that we will not experience
+unanticipated negative consequences or material costs caused by undetected
+errors or defects in the technology used in our internal systems or that third
+parties upon which we rely will not experience similar negative consequences.
+
+OTHER MATTERS
+
+Inflation did not have a significant impact upon our results of operations
+during the three-year period ended March 28, 1999.
+
+SFAS No. 133, "Accounting for Derivative Instruments and Hedging Instruments"
+establishes accounting and reporting standards for derivatives and hedging
+activities. It requires that an entity recognize all derivatives as either
+assets or liabilities in the balance sheet and measure those instruments at fair
+value. SFAS No. 133 will be effective for our fiscal year 2002. We are currently
+evaluating the effects of SFAS No. 133. We do not expect this new statement to
+have a material effect on our consolidated financial position, results of
+operations or cash flow.
+
+FORWARDING-LOOKING STATEMENTS
+
+This report and other documents we have filed with the Securities and Exchange
+Commission contain forward-looking statements made pursuant to the safe harbor
+provisions of the Private Securities Litigation Reform Act of 1995.
+Forward-looking statements represent our judgment regarding future events.
+Although we would not make forward-looking statements unless we believe we have
+a reasonable basis for doing so, we cannot guarantee their accuracy and actual
+results may differ materially from those we anticipated due to a number of
+uncertainties, many of which we are not aware. We urge you to consider the risks
+and uncertainties discussed below and elsewhere in this report and in the other
+documents filed with the SEC in evaluating our forward-looking statements. We
+have no plans to update our forward-looking statements to reflect events or
+circumstances after the date of this report. We generally identify
+forward-looking statements with the words "plans," "expects," "anticipates,"
+"estimates," "will," "should" and similar expressions.
+
+
+
+
+
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+OUR RELIANCE ON A SMALL NUMBER OF CUSTOMERS FOR A LARGE PORTION OF OUR SALES
+COULD HAVE A MATERIAL ADVERSE EFFECT ON OUR RESULTS OF OPERATIONS. A significant
+portion of our sales in each fiscal period has been concentrated among a limited
+number of customers. If we lost one or more of these major customers, or if one
+or more major customers decreases its orders, our business would be materially
+and adversely affected. In recent periods, sales to our major customers as a
+percentage of total sales have increased. In fiscal 1999, sales to our five
+largest customers accounted for 50.2% of our sales, with Motorola accounting for
+28.1% of sales. Our future operating results depend on the success of these
+customers and our success in selling products to them.
+
+OUR SALES VOLUME IS AFFECTED BY OUR OEM CUSTOMERS' SALES VOLUME. A substantial
+portion of our sales is derived from sales of products to OEMs. These OEMs
+demand highly reliable products and often require up to several months to
+evaluate and test our integrated circuits and devices before deciding to design
+them into their products. If our products are designed into an OEM's product,
+our sales volume will depend upon the commercial success of the OEM's product.
+
+SALES TO OUR OEM CUSTOMERS FLUCTUATE WITH THEIR PRODUCT CYCLES. Because the
+markets our OEM customers serve are characterized by numerous new product
+introductions and rapid product enhancements, our operating results may vary
+significantly in some fiscal quarters. OEMs generally are in various stages of
+designing replacement products for their mature products. During the final
+production of a mature product, OEMs typically consume their existing inventory
+of our products. Consequently, orders for our products can be reduced. Even if
+our products are designed into both the mature product and the replacement
+product, our sales may suffer. Typically, production of the mature product will
+cease as the replacement product is introduced. A delay in the transition to
+commercial production of the replacement product would delay our ability to
+recover the lost sales from the discontinuation of the mature product. The
+decrease in our sales in the first two fiscal quarters of fiscal 1999 compared
+with the fourth quarter of fiscal 1998 was primarily attributable to this
+dynamic as our largest customer was introducing a new series of handsets. We may
+continue to experience these fluctuations in our operating results in the
+future.
+
+DIFFICULTIES IN PRODUCTION WOULD ADVERSELY AFFECT OUR OPERATING RESULTS. Our
+products are very complex, have sophisticated designs and are manufactured using
+highly complex process technologies. In most cases, our products are customized
+for our customers who insist that our products meet their exact specifications
+for quality, performance and reliability. If we are unable to manufacture to our
+customers' specifications, our operating results will suffer.
+
+IF ONE OF OUR LIMITED NUMBER OF ASSEMBLY SUBCONTRACTORS FAILS TO PERFORM AS
+EXPECTED, OUR OPERATING RESULTS WOULD SUFFER. We use assembly subcontractors
+located outside the United States to wirebond and package large volume orders of
+integrated circuits. We attempt to maintain more than one qualified service
+supplier for each assembly process. From time to time we have been unable to
+achieve this goal because of minimum volume requirements imposed by suppliers,
+lack of capacity, service quality issues or other factors. We have experienced
+problems procuring assembly services, and we cannot guarantee that we will avoid
+similar problems in the future. For example, an assembly subcontractor in Asia
+recently ceased production of our products despite their assurances that they
+would continue production without interruption. Our inability to obtain
+sufficient high quality and timely assembly service, or the loss of any of our
+current assembly vendors, would result in delays or reductions in product
+shipment and reduced product yields. Any of these events would materially and
+adversely affect our operating results.
+
+
+
+
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+OUR OPERATING RESULTS ARE DEPENDENT ON THE DEVELOPMENT OF NEW PRODUCTS. Our
+future success will depend on our ability to develop new products in a timely
+and cost-effective manner. The development of our new products is highly
+complex. We have historically experienced delays in completing the development
+and introduction of new products. The successful development and introduction of
+new products depends on a number of factors, including:
+
+       -   our timely completion of product designs and development;
+       -   our ability to develop manufacturing processes for new products; and
+       -   commercial acceptance of our new products and enhancements.
+
+OUR FAILURE TO KEEP PACE WITH RAPID TECHNOLOGICAL CHANGES IN THE WIRELESS
+COMMUNICATIONS INDUSTRY WOULD IMPAIR OUR GROWTH. The wireless communications
+markets are characterized by frequent introductions of new products and
+services. New products and services respond to evolving product and process
+technologies and consumer demand for greater functionality, lower costs, smaller
+products and better performance. As a result, we have experienced, and will
+continue to experience, product design obsolescence. We must continue to improve
+our product designs and develop new products with new technologies to meet our
+customers' demands.
+
+We believe that the next generation of consumer wireless data applications will
+offer such features as Internet access, e-mail and home automation. If we fail
+to develop products for this potential market, our operating results could be
+materially and adversely affected.
+
+WE OPERATE IN VERY COMPETITIVE INDUSTRIES AND WE MAY BE UNABLE TO COMPETE
+SUCCESSFULLY. Competition in the markets for our products is intense. We compete
+with several companies primarily engaged in the business of designing,
+manufacturing and selling integrated circuits, discrete semiconductors and
+ceramic products, as well as suppliers of other discrete products. Our
+competitors could develop new process technologies that may be superior to ours.
+In addition, many of our existing and potential customers manufacture or
+assemble wireless communications devices and have substantial in-house
+technological capabilities. If one of our large customers decided to design and
+manufacture integrated circuits internally, it could have an adverse effect on
+our operating results. For example, we compete with our largest customer in the
+production of power amplifiers.
+
+Many of our existing and potential competitors have strong market positions,
+considerable internal manufacturing capacity, established intellectual property
+rights and substantial technological capabilities. Many of our existing and
+potential competitors have greater financial, technical, manufacturing and
+marketing resources than we do. We cannot guarantee that we will be able to
+compete successfully with our competitors.
+
+We expect competition to increase. This could mean lower prices for our products
+or reduced demand for our products. Any of these developments would have an
+adverse effect on our operating results.
+
+AVERAGE SELLING PRICES FOR OUR PRODUCTS TYPICALLY DECLINE OVER TIME. Average
+selling prices for our products decline over time. Many of our manufacturing
+costs are fixed. For a given level of sales, when our manufacturing costs
+decline, our gross margins improve, and when our manufacturing costs increase,
+our gross margins decline. Our operating results suffer when gross margins
+decline. We may experience these problems in the future and we cannot predict
+when they may occur or their severity.
+
+OUR OPERATING RESULTS WOULD SUFFER IF ONE OF OUR KEY SUPPLIERS FAILS TO DELIVER
+MATERIALS FOR THE FABRICATION OF OUR PRODUCTS. We currently procure certain
+materials and services for our products from one or a limited number of
+suppliers. For example, we procure GaAs substrates, a critical raw material,
+from only two suppliers. In addition, we obtain some GaAs wafers from a single
+external foundry. Further, we procure silicon substrates for semiconductors and
+certain chemical powders for ceramic manufacturing from single sources. We
+purchase these materials and services on a purchase order basis. We do not carry
+significant inventories or have any long-term supply contracts with our vendors.
+Our inability to obtain these materials or services in required quantities or in
+acceptable quality would result in significant delays or reductions in product
+shipments. This would materially and adversely affect our operating results.
+
+
+
+
+
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+OUR OPERATING RESULTS MAY FLUCTUATE SIGNIFICANTLY. Our sales, earnings and other
+operating results have fluctuated significantly in the past and may fluctuate
+significantly in the future primarily as a result of the following:
+
+       -   timing and receipt of our customers' orders; and
+
+       -   the potential for delay or deferral of customer implementation of our
+           technology into their products.
+
+OUR GROWTH IS DEPENDENT ON THE GROWTH OF WIRELESS COMMUNICATIONS MARKETS. We
+depend on the development and growth of markets for wireless communications
+products and services, including cellular and personal communications services,
+or PCS, telephones and other wireless applications. We cannot be sure as to the
+rate at which these markets will develop, if at all. Any slowdown in the rate of
+growth of the wireless communications market would have a material adverse
+affect on our operating results.
+
+
+OUR BUSINESS COULD BE ADVERSELY AFFECTED BY OUR FAILURE TO DEVELOP GaAs HBT
+TECHNOLOGY. We are developing GaAs HBT process technology primarily to
+manufacture power amplifiers and certain other components. We are pursuing this
+development effort with a third party designer and a third party foundry. We
+believe GaAs HBT components will be successfully designed into wireless
+telephone and wireless data handsets. Although we believe that we will be
+successful in developing and introducing a line of GaAs HBT products, we cannot
+guarantee that our efforts will result in commercially successful GaAs HBT
+products in the anticipated time or on budget, if at all. Certain of our
+competitors are already offering this capability and our customers may purchase
+their requirements for these products from our competitors. Our third party
+designer and our third party foundry may delay or fail to deliver to us GaAs HBT
+technology and products. Our business and prospects could be materially and
+adversely affected by our failure to develop this technology.
+
+THE BENEFITS OF OUR GaAs PRODUCTS COMPARED TO SILICON ALTERNATIVES MAY NOT
+CONTINUE. The production of GaAs integrated circuits is more costly than the
+production of silicon circuits. As a result, we must offer GaAs products that
+provide superior performance to that of silicon for specific applications to be
+competitive with silicon products. If we do not continue to offer products that
+provide sufficiently superior performance to offset the cost differential, our
+operating results may be materially and adversely affected. We believe our costs
+of producing GaAs integrated circuits will continue to exceed the costs
+associated with the production of silicon circuits. The costs differ because of
+higher costs of raw materials for GaAs, lower production yields in GaAs
+technology and higher unit costs associated with lower production volumes.
+Silicon semiconductor technologies are widely used process technologies for
+certain integrated circuits and these technologies continue to improve in
+performance. We cannot assure you that we will continue to identify markets that
+require performance superior to that offered by silicon solutions.
+
+OUR FIXED COSTS MAY REDUCE OPERATING RESULTS IF OUR SALES FALL BELOW
+EXPECTATIONS. Our expense levels are based, in part, on our expectations as to
+future sales. Many of our expenses, particularly those relating to our capital
+equipment and manufacturing overhead, are relatively fixed. We may be unable to
+reduce spending quickly enough to compensate for reductions in sales.
+Accordingly, shortfalls in sales may materially and adversely affect our
+operating results.
+
+WE ARE NOT PROTECTED BY LONG TERM CONTRACTS WITH OUR CUSTOMERS. We generally do
+not enter into long-term contracts with our customers and we cannot be certain
+as to future order levels from our customers. When we do enter into a long-term
+contract, the contract generally is terminable for the convenience of the
+customer. In the event of an early termination of a contract by one of our major
+customers, it is unlikely that we will be able to identify an alternative
+purchaser for that product.
+
+OUR RELIANCE ON GOVERNMENT CONTRACTS FOR A SIGNIFICANT PORTION OF OUR SALES
+COULD HAVE A MATERIAL ADVERSE EFFECT ON OUR RESULTS OF OPERATIONS. Although we
+have reduced our dependence upon sales to the United States Government, we
+estimate that approximately 17.2% of our sales in fiscal 1999, 17.6% of our
+sales in fiscal 1998 and 20.8% of our sales in fiscal 1997 were derived from
+United States defense related sources. If we experience significant reductions
+or delays in procurements of our products by
+
+
+
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+the United States Government or terminations of government contracts or
+subcontracts, our operating results could be materially and adversely affected.
+Generally, the United States Government and its contractors and subcontractors
+may terminate their contracts with us for cause or for convenience. We have in
+the past experienced terminations of government contracts. We cannot guarantee
+that we will not experience terminations of government contracts in the future.
+
+WE FACE SIGNIFICANT CHALLENGES MANAGING OUR GROWTH. We are experiencing a period
+of significant growth that will continue to place a strain on our resources. We
+have grown from approximately 860 employees on December 27, 1998 to
+approximately 940 employees on March 28, 1999. To manage our growth effectively,
+we must continue to:
+
+       -   improve operational systems;
+       -   maintain adequate physical plant, manufacturing facilities and
+           equipment to meet customer demand;
+       -   add experienced senior level managers; and
+       -   attract and retain qualified people with experience in engineering,
+           design and manufacturing.
+
+We will spend substantial amounts of money in connection with our growth and may
+have additional unexpected costs. Our manufacturing equipment may not be
+adequate to support rapid increases in orders for our products, and we may not
+be able to expand quickly enough to exploit potential market opportunities. If
+we cannot attract qualified people or manage growth effectively, our business,
+operating results and financial condition could be adversely affected.
+
+THERE MAY BE UNANTICIPATED COSTS ASSOCIATED WITH INCREASING OUR CAPACITY. We
+anticipate that any future growth of our business will require increased
+manufacturing capacity. We expect to complete the current expansion of our GaAs
+production capabilities by the summer of 1999 at a total cost of approximately
+$18 million. We may be required to purchase significant additional equipment or
+further expand our facilities if the increased demand for our products that we
+experienced in fiscal 1999 continues. Expansion activities such as these are
+subject to a number of risks, including:
+
+       -   unavailability or late delivery of the advanced, and often
+           customized, equipment used in the production of our products;
+       -   delays in bringing new production equipment on-line;
+       -   work stoppages and delays in supplying  products for our existing
+           customers during expansion activities; and
+       -   unforeseen environmental or engineering problems relating to existing
+           or new facilities.
+
+These and other risks may affect the ultimate cost and timing of our present
+expansion or any future expansion of our capacity.
+
+THE VOLATILITY OF OUR STOCK PRICE COULD AFFECT YOUR INVESTMENT IN OUR STOCK. The
+market price of our common stock has fluctuated widely. For example, between
+February 1, 1999 and March 2, 1999 the price of our common stock dropped from
+approximately $27.92 to $13.50 per share. Between March 2, 1999 and April 29,
+1999, the price of our common stock rose from approximately $13.50 to $34.25 per
+share. Consequently, the current market price of our common stock may not be
+indicative of future market prices, and we may not be able to sustain or
+increase the value of your investment in our common stock. Factors affecting our
+stock price may include:
+
+       -   variations in operating results from quarter to quarter;
+       -   changes in earnings estimates by analysts or our failure to meet
+           analysts' expectations;
+       -   market conditions in the industry; and
+       -   general economic conditions.
+
+
+
+
+
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+WE DEPEND ON A FEW KEY EMPLOYEES WHO HAVE EXPERIENCE WITH OUR COMPLEX PRODUCTS.
+Our success depends in part on retaining key technical and management personnel.
+In particular, the number of individuals with experience in the production of
+our complex products and related processes is very limited, and our future
+success depends in part on retaining those individuals who are already
+employees. We must also continue to attract and retain qualified personnel in a
+very competitive environment. We cannot guarantee that we will be able to
+continue to attract and retain these personnel.
+
+OUR INTERNATIONAL SALES COULD DECLINE AS A RESULT OF CURRENCY EXCHANGE
+FLUCTUATIONS AND OTHER FACTORS. Our sales outside of the United States were
+approximately $53.7 million in fiscal 1999, $46.0 million in fiscal 1998 and
+$32.1 million in fiscal 1997. Because most of our foreign sales are denominated
+in United States dollars, our products, particularly our ceramics products,
+become less price competitive with products manufactured by competitors based in
+countries whose currencies decline in value against the dollar. International
+sales involve a number of additional risks, including:
+
+       -   imposition of government controls;
+       -   potential insolvency of international distributors and
+           representatives;
+       -   fluctuation of economies outside the United States;
+       -   political instability outside the United States;
+       -   generally longer receivables collection periods for foreign
+           customers; and
+       -   tariffs and other trade barriers.
+
+In addition, due to the technological advantage provided by GaAs in many
+military applications, a portion of our sales outside of North America must be
+licensed by the Bureau of Export Administration of the United States Department
+of Commerce or the Office of Defense Trade Controls of the United States
+Department of State. Although we have not experienced any difficulty in
+obtaining these licenses, failure to obtain such licenses in the future could
+have a material adverse effect on our operating results.
+
+OUR COMPLIANCE WITH ENVIRONMENTAL REGULATIONS MAY BE COSTLY. We are subject to a
+variety of federal, state and local requirements governing the protection of the
+environment. These requirements relate to the use, storage, handling, discharge
+and disposal of toxic or otherwise hazardous materials used in our manufacturing
+processes. We may incur significant expense in complying with these
+requirements, and these requirements may become more stringent in the future. In
+the past, compliance with environmental regulations and our response to
+environmental claims and litigation has been costly. Failure to comply with
+environmental regulations could subject us to substantial liability or force us
+to change our manufacturing operations. In addition, under some of these
+regulations, we could be held financially responsible for remedial measures if
+our properties are contaminated, even if we did not cause the contamination.
+
+WE MAY HAVE DIFFICULTY IN PROTECTING OUR INTELLECTUAL PROPERTY. Our ability to
+compete is affected by our ability to protect our intellectual property. A
+significant aspect of our intellectual property is our product and process
+technology. We rely primarily on trade secret laws, confidentiality procedures
+and licensing arrangements to protect our intellectual property. The laws of
+certain foreign countries in which our products are or may be developed,
+manufactured or sold may not protect our products or intellectual property
+rights to the same extent as do the laws of the United States. This may make the
+possibility of piracy of our technology and products more likely. We cannot
+assure you that the steps taken by us to protect our intellectual property will
+be adequate to prevent misappropriation of our technology.
+
+OUR OPERATIONS COULD INFRINGE ON THE INTELLECTUAL PROPERTY RIGHTS OF OTHERS.
+Particular aspects of our technology could be found to infringe on the
+intellectual property rights or patents of others. Other companies may hold or
+obtain patents on inventions or may otherwise claim proprietary rights to
+technology necessary to our business. We cannot predict the extent to which we
+may be required to seek licenses. We cannot guarantee that the terms of any
+licenses we may be required to seek will be reasonable.
+
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+WE MAY HAVE DIFFICULTY IN MANAGING AND INTEGRATING ACQUISITIONS. From time to
+time, we explore opportunities to acquire businesses to expand our production
+capacity and our product offerings. Acquisitions involve numerous risks,
+including:
+
+       -   difficulties in integrating operations, products and corporate
+           cultures;
+       -   difficulties in completing the development of acquired technologies;
+       -   the ability to manage different geographic units;
+       -   entering markets or businesses in which we have limited experience;
+           and
+       -   the loss of key employees of the acquired businesses.
+
+Moreover, any delay or failure to integrate an acquired company, technology or
+product line could result in the additional expenditure of money and in
+increased demands on our management's time. These expenditures and demands could
+have a material adverse effect on our business, financial condition and results
+of operations and on the price of our common stock. Acquisitions may involve
+expending significant funds and the issuance of additional securities, which may
+be dilutive to stockholders.
+
+ITEM 7A  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Market risk represents the risk of changes in the value of a short-term
+investment and a financial instrument caused by fluctuations in investment
+prices and interest rates.
+
+The Company handles market risks in accordance with established policies. The
+Company's risk-management activities include "forward-looking statements" that
+involve risk and uncertainties. Actual results could differ materially from
+those projected in the forward-looking statements.
+
+INVESTMENT PRICE RISK
+The fair value of the Company's short-term investment portfolio at March 28,
+1999, approximated carrying value due to its short-term duration. Market risk,
+estimated as the potential decrease in fair value resulting from a hypothetical
+10% decrease in interest rates for the issues contained in the investment
+portfolio, is considered not to be material because of the short-term nature of
+the investments.
+
+INTEREST RATE RISK
+The carrying value of the Company's long-term debt, including current
+maturities, was $1.6 million at March 28, 1999. Due to the nature of the debt
+instruments, management has determined that the fair value was not materially
+different from the year-end carrying value.
+
+
+
+
+
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+ITEM 8   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+         INDEX TO FINANCIAL STATEMENTS
+
+
+                                                                            Page
+
+================================================================================
+Consolidated Balance Sheets - March 28, 1999 and March 29, 1998.............  24
+
+Consolidated Statements of Operations - Years ended March 28, 1999,
+March 29, 1998 and March 30, 1997...........................................  25
+
+Consolidated Statements of Cash Flows - Years ended March 28, 1999,
+March 29, 1998 and March 30, 1997...........................................  26
+
+Consolidated Statements of Stockholders' Equity - Years ended March
+28, 1999, March 29, 1998 and March 30, 1997.................................  27
+
+Quarterly Financial Data (unaudited) - Fiscal 1999 and Fiscal 1998..........  28
+
+Notes to Consolidated Financial Statements..................................  29
+
+Independent Auditors' Report................................................  45
+
+================================================================================
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+CONSOLIDATED BALANCE SHEETS
+(In thousands, except share and per share amounts)
+
+
+The accompanying notes are an integral part of these financial statements.
+
+
+
+
+
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(In thousands, except per share amounts)
+
+
+The accompanying notes are an integral part of these financial statements.
+
+
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands)
+
+
+The accompanying notes are an integral part of these financial statements.
+
+
+
+
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+(In thousands)
+
+
+The accompanying notes are an integral part of these financial statements.
+
+
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+QUARTERLY FINANCIAL DATA
+(unaudited)
+(In thousands, except per share data)
+
+
+The Company's common stock is traded on the NASDAQ Stock Market under the symbol
+AHAA. Prior to June 2, 1998, the Company's stock was traded on the American
+Stock Exchange under the symbol AHA. The number of stockholders of record as of
+May 28, 1999 was approximately 1,000.
+
+(1)  Earnings per share calculations for each of the quarters are based on the
+     weighted average number of shares outstanding and included common stock
+     equivalents in each period. Therefore, the sums of the quarters do not
+     necessarily equal the full year earnings per share.
+
+
+
+
+
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE 1   SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Principles of Consolidation:
+      The financial statements include the accounts of the Company and its
+      subsidiaries. All significant intercompany accounts and transactions have
+      been eliminated in consolidation. The Company's fiscal year ends on the
+      Sunday closest to March 31. There were 52 weeks in fiscal 1999, 1998 and
+      1997.
+
+Use of Estimates:
+      The preparation of consolidated financial statements in conformity with
+      generally accepted accounting principles requires management to make
+      estimates and assumptions that affect the reported amounts of assets and
+      liabilities and disclosure of contingent assets and liabilities at the
+      date of the financial statements and the reported amounts of revenues and
+      expenses. Actual results could differ from those estimates.
+
+Revenue Recognition:
+      Revenue is recognized when a product is shipped and services are
+      performed.
+
+Foreign Currency Translation:
+      The accounts of foreign subsidiaries are translated in accordance with
+      Statement of Financial Accounting Standards ("SFAS") No. 52. Foreign
+      operations are remeasured as if the functional currency were the U.S.
+      dollar. Monetary assets and liabilities are translated at the year end
+      rates of exchange. Revenues and expenses (except cost of sales and
+      depreciation) are translated at the average rate for the period.
+      Non-monetary assets, equity, cost of sales and depreciation are remeasured
+      at historical rates. Remeasurement gains and losses are reflected
+      currently in operations and are not material.
+
+Research and Development Expenditures:
+      Research and development expenditures are charged to income as incurred.
+
+Cash, Cash Equivalents and Short-term Investments:
+      Cash and cash equivalents include cash deposited in demand deposits at
+      banks and highly liquid investments with original maturities of 90 days or
+      less.
+
+      The Company's short-term investments are classified as held-to-maturity.
+      These investments consist primarily of commercial paper and securities
+      issued by various federal agencies with original maturities of more than
+      90 days. Such short-term investments are carried at amortized cost, which
+      approximates fair value, due to the short period of time to maturity.
+      Gains and losses are included in investment income in the period they are
+      realized.
+
+Inventories:
+      Inventories are stated at the lower of cost, determined on a first-in,
+      first-out basis, or market.
+
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 1   SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+Property, Plant and Equipment:
+      Property, plant and equipment are carried at cost. Depreciation is
+      provided on the straight-line method for financial reporting and
+      accelerated methods for tax purposes.
+
+      Estimated useful lives used for depreciation purposes are 5 to 30 years
+      for buildings and improvements and 3 to 10 years for machinery and
+      equipment.
+
+      During fiscal 1999, the Company removed $6.5 million of fully depreciated
+      fixed assets from the related property, plant and equipment and
+      accumulated depreciation accounts.
+
+Fair Value of Financial Instruments:
+      Financial instruments of the Company consist of cash, cash equivalents,
+      accounts receivable, accounts payable and accrued liabilities. The
+      carrying value of these financial instruments approximates their fair
+      value because of the short maturity of these instruments. Based upon
+      borrowing rates currently available to the Company for issuance of similar
+      debt with similar terms and remaining maturities, the estimated fair value
+      of long-term debt approximates their carrying amounts. The Company does
+      not use derivative instruments.
+
+Income Taxes:
+      The Company uses the asset and liability method of accounting for income
+      taxes. Under the asset and liability method, deferred tax assets and
+      liabilities are recognized for the estimated future tax consequences
+      attributable to differences between the financial statement carrying
+      amounts of existing assets and liabilities and their respective tax bases.
+      This method also requires the recognition of future tax benefits such as
+      net operating loss carryforwards, to the extent that realization of such
+      benefits is more likely than not. Deferred tax assets and liabilities are
+      measured using enacted tax rates expected to apply to taxable income in
+      the years in which those temporary differences are expected to be
+      recovered or settled. The effect on deferred tax assets and liabilities of
+      a change in tax rates is recognized in income in the period that includes
+      the enactment date.
+
+Net Income Per Common Share:
+      Basic earnings per share is calculated by dividing net income by the
+      weighted average number of common shares outstanding. Diluted earnings per
+      share includes the dilutive effect of stock options and warrants, if their
+      effect is dilutive, using the treasury stock method.
+
+      A reconciliation of the weighted average number of shares outstanding used
+      in the computation of the basic and diluted earnings per share for each of
+      the following years:
+
+
+
+
+
+
+
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 1     SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+Impairment of Long-Lived Assets and Long-Lived Assets to be Disposed of:
+     The Company adopted the provisions of SFAS No. 121, "Accounting for the
+     Impairment of Long-Lived Assets and for Long-Lived Assets to be Disposed
+     of," during fiscal 1997. This statement requires that long-lived assets and
+     certain identifiable intangibles be reviewed for impairment whenever events
+     or changes in circumstances indicate that the carrying amount of an asset
+     may not be recoverable. Recoverability of assets to be held and used is
+     measured by a comparison of the carrying amount of an asset to undiscounted
+     future net cash flows expected to be generated by the asset. If such assets
+     are considered to be impaired, the impairment to be recognized is measured
+     by the amount by which the carrying amount of the assets exceeds the fair
+     value of the assets. Assets to be disposed of are reported at the lower of
+     the carrying amount or fair value less costs to sell. Adoption of this
+     Statement did not have a material impact on the Company's financial
+     position, results of operations, or liquidity.
+
+Stock Option Plans:
+     Prior to fiscal 1997, the Company accounted for its stock option plans in
+     accordance with the provisions of Accounting Principles Board ("APB")
+     Opinion No. 25, "Accounting for Stock Issued to Employees," and related
+     interpretations. As such, compensation expense would be recorded on the
+     date of grant only if the current market price of the underlying stock
+     exceeded the exercise price. During fiscal 1997, the Company adopted SFAS
+     No. 123, "Accounting for Stock-Based Compensation," which permits entities
+     to recognize as expense over the vesting period the fair value of all
+     stock-based awards on the date of grant. Alternatively, SFAS No. 123 also
+     allows entities to continue to apply the provisions of APB Opinion No. 25
+     and provide pro forma net income and pro forma earnings per share
+     disclosures for employee stock option grants made in 1995 and future years
+     as if the fair-value-based method defined in SFAS No. 123 had been applied.
+     The Company has elected to continue to apply the provisions of APB Opinion
+     No. 25 and provide the pro forma disclosure provisions of SFAS No. 123.
+
+Comprehensive Income (Loss):
+     During fiscal 1999, the Company adopted the provisions of SFAS No. 130,
+     "Reporting Comprehensive Income." SFAS No. 130 is a financial statement
+     presentation standard which requires the Company to disclose non-owner
+     changes included in equity but not included in net income or loss. There
+     were no differences between net income (loss) and comprehensive income
+     (loss) for fiscal 1999, 1998 and 1997.
+
+Recent Accounting Pronouncements:
+     SFAS No. 133, "Accounting for Derivative Instruments and Hedging
+     Instruments" establishes accounting and reporting standards for derivatives
+     and hedging activities. It requires that an entity recognize all
+     derivatives as either assets or liabilities in the balance sheet and
+     measure those instruments at fair value. SFAS No. 133 will be effective for
+     the Company's fiscal year 2002. The Company is currently evaluating the
+     effects of SFAS No. 133. The Company does not expect this new statement to
+     have a material effect on its consolidated financial position, results of
+     operations or cash flow.
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 2     INVENTORIES
+
+
+
+
+NOTE 3     BORROWING ARRANGEMENTS AND COMMITMENTS
+
+LINES OF CREDIT
+
+The Company has a $7.5 million Working Capital Revolving Line of Credit
+Agreement which expires September 30, 1999. This line of credit is
+collateralized by the assets of the Company, excluding real property, not
+otherwise collateralized. A commitment fee of 1/2% per year is due quarterly
+under the Agreement. There were no borrowings under this Credit Agreement at
+March 28, 1999 and March 29, 1998.
+
+The Company also has a $7.5 million Equipment Line of Credit Agreement which
+expires on September 30, 1999. Prior to expiration, the Equipment Line of Credit
+Agreement may be converted, at the option of the Company, to a four-year term
+loan. This equipment line of credit is collateralized by equipment financed. A
+facility fee of $15,000 is payable on October 1, 1999 only if the Company does
+not borrow at least half of the loan amount prior to expiration. There were no
+borrowings under this Agreement at March 28, 1999 and March 29, 1998.
+
+LONG-TERM DEBT
+
+
+
+
+
+a.   The equipment term note is at LIBOR (4.963% at March 28, 1999 and 5.672% at
+     March 29, 1998) plus 1.5% and 2.5%, respectively. This note is
+     collateralized by the assets of the Company, excluding real property, not
+     otherwise collateralized. Principal payments of approximately $138,000 plus
+     interest are due monthly until August 1999.
+
+b.   An industrial revenue bond is held by the Farmers and Mechanics National
+     Bank. The interest rate on this bond is prime (7.75% and 8.5% at March 28,
+     1999 and March 29, 1998) and quarterly principal payments of approximately
+     $28,000 are due until March 2002. The bond is secured by various property,
+     plant and equipment with a net book value of $2.1 million at March 28,
+     1999.
+
+c.   The Company obtained a ten year $960,000 loan from the State of Maryland
+     under the Community Development Block Grant program. Quarterly payments are
+     due through December 2003 and represent principal plus interest at 5% of
+     the unamortized balance.
+
+
+
+
+
+
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 3     BORROWING ARRANGEMENTS AND COMMITMENTS (CONTINUED)
+
+Aggregate annual maturities of long-term debt are as follows:
+
+
+
+
+Cash payments for interest were $253,000, $492,000 and $470,000, in fiscal 1999,
+1998 and 1997, respectively.
+
+The bond, lines of credit and term loan agreements include various covenants
+that require maintenance of certain financial ratios and balances and restrict
+creation of funded debt and payment of dividends.
+
+NOTE 4     REPOSITIONING CHARGE
+
+During fiscal 1997, the Company successfully completed the resizing of
+Trans-Tech, Inc. (TTI), its Maryland subsidiary, which included the sale of
+Trans-Tech Europe, its French ceramic manufacturing operation, and the closing
+of the TTI California facility. The Company also completed the sale of the
+digital radio product line. The above actions resulted in a repositioning charge
+which was recorded in the fourth quarter of fiscal 1997. The charge included the
+following items:
+
+
+
+The severance charges were related to a reduction in force of 47 employees,
+largely among support personnel, and were completed in the fourth quarter of
+fiscal 1997.
+
+The cash payments relating to the repositioning charge totaled approximately
+$1.4 million. Cash payments totaling $1.1 million and $308,000 were made during
+fiscal 1998 and 1997, respectively.
+
+During fiscal 1997, the Company also recorded in cost of sales a $2.6 million
+write-down of inventory resulting from shifts in demand away from ceramic
+products.
+
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 5     INCOME TAXES
+
+Income (loss) before income taxes consisted of:
+
+
+
+
+
+
+
+
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 5     INCOME TAXES (CONTINUED)
+
+
+Income tax expense (benefit) for income taxes is different from that which would
+be obtained by applying the statutory federal income tax rates of 35% to pretax
+income in 1999 and 34% in 1998 and 1997 as a result of the following:
+
+
+
+
+The tax effects of temporary differences that give rise to significant portions
+of the deferred tax assets and deferred tax liabilities are as follows:
+
+
+
+
+
+
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 5     INCOME TAXES (CONTINUED)
+
+Deferred income taxes are presented in the accompanying consolidated balance
+sheets as follows:
+
+
+
+The valuation allowance for deferred tax assets as of March 28, 1999 and March
+29, 1998 was $830,000 and $10.1 million, respectively. The net change in the
+total valuation allowance for the years ended March 28, 1999 and March 29, 1998
+was a decrease of $9.3 million and $3.4 million, respectively. During fiscal
+1999, we reduced the valuation allowance to reflect the deferred tax assets
+utilized in fiscal 1999 to reduce the current income taxes and to recognize
+additional net deferred tax asset. Management believes that the Company will
+generate sufficient future taxable income to realize substantially all of the
+deferred tax asset prior to expiration of any net operating loss carryforwards.
+As of March 28, 1999, the Company has available for income tax purposes
+approximately $10.5 million in federal net operating loss carryforwards which
+are available to offset future taxable income. These loss carryforwards, if not
+utilized, begin to expire in fiscal year 2004. Should the Company undergo an
+ownership change as defined in Section 382 of the Internal Revenue Code, the
+Company's tax net operating loss carryforwards generated prior to the ownership
+change will be subject to an annual limitation which could reduce or defer the
+utilization of these losses. The Company also has minimum tax credit
+carryforwards of approximately $546,000 which are available to reduce future
+federal regular income taxes, if any, over an indefinite period. In addition,
+the Company has state tax credit carryforwards of $461,000 which are available
+to reduce state income taxes over an indefinite period.
+
+Cash payments for income taxes were $915,000, $342,000 and $149,000 in fiscal
+1999, 1998 and 1997, respectively.
+
+The Company has not recognized a deferred tax liability of approximately
+$502,000 for the undistributed earnings of its 100 percent owned foreign
+subsidiaries that arose in 1999 and prior years because the Company currently
+does not expect those unremitted earnings to reverse and become taxable to the
+Company in the foreseeable future. A deferred tax liability will be recognized
+when the Company expects that it will recover those undistributed earnings in a
+taxable manner, such as through receipt of dividends or sale of the investments.
+As of March 28, 1999, the undistributed earnings of these subsidiaries were
+approximately $1.4 million.
+
+NOTE 6     COMMON STOCK
+
+COMMON STOCK SPLIT
+
+On January 28, 1999, the Board of Directors declared a three-for-two split of
+the Company's common stock, effected in the form of a stock dividend paid on
+February 19, 1999 to shareholders of record as of February 8, 1999. All
+agreements concerning stock options and other commitments payable in shares of
+the Company's common stock provide for the issuance of additional shares due to
+the declaration of the stock split. An amount equal to the par value of the
+common shares issued plus cash paid in lieu of fractional shares was transferred
+from additional paid-in capital to the common stock account. All share and per
+share data in these consolidated financial statements and related footnotes has
+been restated to reflect the stock split on a retroactive basis for all periods
+presented.
+
+
+
+
+
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 6     COMMON STOCK (CONTINUED)
+
+LONG-TERM INCENTIVE PLANS
+
+The Company has long-term incentive plans adopted in 1986 and 1996 pursuant to
+which stock options, with or without stock appreciation rights, may be granted
+and restricted stock awards and book value awards may be made.
+
+     Common Stock Options
+     These options may be granted in the form of incentive stock options or
+     non-qualified stock options. The option price may vary at the discretion of
+     the Compensation Committee but shall not be less than the greater of fair
+     market value or par value. The option term may not exceed ten years. The
+     options may be exercised in cumulative annual increments commencing one
+     year after the date of grant. A total of 4,200,000 shares are authorized
+     for grant under the Company's long-term incentive plans. The number of
+     common shares reserved for granting of future awards is 840,409, 113,325
+     and 492,750, at March 28, 1999, March 29, 1998 and March 30, 1997,
+     respectively.
+
+     Restricted Stock Awards
+     For fiscal 1999, a total of 6,066 restricted shares of the Company's common
+     stock were granted to certain employees. The market value of these shares
+     was $61,000 and the vesting period was one year. This amount was recorded
+     as unearned compensation - restricted stock and is shown as a separate
+     component of stockholders' equity. Unearned compensation is being amortized
+     to expense over the vesting period and such expense amounted to $90,000,
+     $31,000, and $35,000 in fiscal 1999, 1998 and 1997, respectively. No
+     restricted shares of the Company's common stock were issued during fiscal
+     1998 or 1997.
+
+LONG-TERM COMPENSATION PLAN
+
+On October 1, 1990, the Company adopted a Supplemental Executive Retirement Plan
+(SERP) for certain key executives. Benefits payable under this plan are based
+upon the participant's base pay at retirement reduced by proceeds from the
+exercise of certain stock options. Options vest over a five-year period.
+Benefits earned under the SERP are fully vested at age 55; however, the benefit
+is ratably reduced if the participant retires prior to age 65. Compensation
+expense related to the plan was $27,000, $127,000 and $106,000 in fiscal 1999,
+1998 and 1997, respectively. Total benefits accrued under these plans were
+$335,000 at March 28, 1999 and $308,000 at March 29, 1998.
+
+
+
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 6     COMMON STOCK (CONTINUED)
+
+A summary of stock option and restricted stock award transactions follows:
+
+
+
+The fair value of each option grant was estimated on the grant date using the
+Black Scholes Option Pricing Model with the following weighted average
+assumptions:
+
+
+
+
+
+
+
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 6     COMMON STOCK (CONTINUED)
+
+Weighted average fair value of options granted during the year:
+
+
+
+The following table summarizes information concerning currently outstanding and
+exercisable options as of March 28, 1999:
+
+
+
+The Company applies Accounting Principles Board Opinion No. 25, "Accounting for
+Stock Issued to Employees" and related interpretations in accounting for its
+stock option and employee stock purchase plans, accordingly, no compensation
+expense has been recognized in the consolidated financial statements for such
+plans. Had compensation cost for the Company's stock option plans been
+determined based upon the fair value at the grant date for awards under these
+plans consistent with the methodology prescribed under SFAS No. 123, "Accounting
+for Stock-based Compensation," the Company's net income (loss) would have been
+as follows:
+
+
+
+
+The effect of applying SFAS No. 123 as shown in the above pro forma disclosure
+is not representative of the pro forma effect on net income in future years
+because it does not take into consideration pro forma compensation expense
+related to grants made prior to fiscal year 1996.
+
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 6     COMMON STOCK (CONTINUED)
+
+STOCK PURCHASE WARRANTS
+
+In April 1994, the Company amended its line of credit agreement and issued
+75,000 stock purchase warrants to Silicon Valley Bank. The warrants were
+exercisable at $2.50 per share and were scheduled to expire on April 1, 1999.
+During fiscal 1998, Silicon Valley Bank exercised the 75,000 stock purchase
+warrants.
+
+STOCK OPTION PLANS FOR NON-EMPLOYEE DIRECTORS
+
+The Company has two stock option plans for non-employee directors -- the 1994
+Non-Qualified Stock Option Plan and the 1997 Non Qualified Stock Option Plan.
+Under the two plans, a total of 225,000 shares have been authorized for option
+grants. The two plans have substantially similar terms and conditions and are
+structured to provide options to non-employee directors as follows: a new
+Director receives a total of 22,500 options upon becoming a member of the Board;
+and continuing Directors receive 7,500 options after each Annual Meeting of
+Shareholders. Under both of these plans the option price is the fair market
+value at the time the option is granted. Options become exercisable 20% per year
+beginning one year from the date of grant. During fiscal 1999 and 1998, 30,000
+and 112,500 shares were granted at prices of $13.17 and $10.33, respectively. No
+options were granted during fiscal 1997. At March 28, 1999 a total of 172,500
+options have been granted under these two plans. During fiscal 1999, 22,500
+options were exercised at a weighted average exercise price of $6.48. At March
+28, 1999, 12,000 shares were exercisable.
+
+STOCK PURCHASE PLAN
+
+The Company maintains an employee stock purchase plan. Under the plan, eligible
+employees may purchase common stock through payroll deductions of up to 10% of
+compensation. The price per share is the lower of 85% of the market price at the
+beginning or end of each six-month offering period. The plan provides for
+purchases by employees of up to an aggregate of 450,000 shares through December
+31, 2001. Shares of 25,753, 29,640 and 22,614 were purchased under this plan in
+fiscal 1999, 1998 and 1997, respectively.
+
+NOTE 7     EMPLOYMENT BENEFIT PLAN
+
+The Company maintains a 401(k) plan covering substantially all of its employees.
+All of the Company's employees who are at least 21 years old and have completed
+six months of service (1,000 hours in a 12 month period) with the Company are
+eligible to receive a Company contribution. Discretionary Company contributions
+are determined by the Board of Directors and may be in the form of cash or the
+Company's stock. The Company contributes a match of 100% of the first 1% and a
+50% match on the next 4% of an employee's salary for employees with 5 years or
+less of service. For employees with more than 5 years of service the Company
+contributes a 100% match on the first 1% and a 75% match on the next 5% of an
+employee's salary. For fiscal 1999, 1998 and 1997, the Company contributed
+80,668, 92,621 and 166,434 shares, respectively, of the Company's common stock
+valued at $960,000, $833,000 and $835,000 to the 401(k) plan.
+
+
+
+
+
+
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 8   COMMITMENTS AND CONTINGENCIES
+
+The Company has various operating leases primarily for computer equipment and
+buildings. Rent expense amounted to $1.3 million, $1.8 million and $1.9 million
+in fiscal 1999, 1998 and 1997, respectively. Purchase options may be exercised
+at various times for some of these leases. Future minimum payments under these
+leases are as follows:
+
+
+
+The Company has been notified by federal and state environmental agencies of its
+potential liability with respect to the Spectron, Inc. Superfund site in Elkton,
+Maryland. Several hundred other companies have also been notified about their
+potential liability regarding this site. The Company continues to deny that it
+has any responsibility with respect to this site other than as a de minimis
+party. Management is of the opinion that the outcome of the aforementioned
+environmental matter will not have a material effect on the Company's operations
+or financial position.
+
+The Company is party to suits and claims arising in the normal course of
+business. Management believes these are adequately provided for or will result
+in no significant additional liability to the Company.
+
+NOTE 9      RELATED PARTY TRANSACTIONS
+
+The Company has had transactions in the normal course of business with various
+related parties. Scientific Components Corporation, currently a beneficial owner
+of the Company's common stock purchased approximately $7.4 million, $8.9 million
+and $5.1 million of products during fiscal 1999, 1998 and 1997, respectively. In
+addition, a Director of the Company is also a former Director of Scientific
+Atlanta, Inc. During fiscal 1999, 1998 and 1997, Scientific Atlanta, Inc.
+purchased approximately $673,000, $471,000 and $1.0 million of product,
+respectively.
+
+NOTE 10   SEGMENT INFORMATION
+
+The Company is engaged in the design and manufacture of discrete semiconductors,
+integrated circuits and electrical ceramic components for a wide range of
+applications in the wireless communications industry.
+
+The Company has adopted SFAS No. 131, "Disclosures About Segments of an
+Enterprise and Related Information." SFAS No. 131 establishes standards for the
+way public business enterprises report information about operating segments in
+annual financial statements and in interim reports to shareholders. The method
+for determining what information to report is based on the way that management
+organizes the segments within the Company for making operating decisions and
+assessing financial performance. In evaluating financial performance, management
+uses sales and operating profit as the measure of the segments' profit or loss.
+
+
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 10   SEGMENT INFORMATION (CONTINUED)
+
+The Company is organized into three reportable segments as follows:
+
+Wireless Semiconductor Products:
+     The Wireless Semiconductor segment designs and manufactures gallium
+     arsenide integrated circuits and other discrete semiconductors to the
+     global market for wireless telephone handsets, wireless data and other
+     applications.
+
+Application Specific Products:
+     The Application Specific segment designs and manufactures a broad range of
+     gallium arsenide and silicon devices and components to satellite,
+     instrumentation, defense and other communications markets.
+
+Ceramic Products:
+     The Ceramics segment designs and manufactures technical ceramic and
+     magnetic products for wireless telephony infrastructure and other wireless
+     markets.
+
+The table below presents selected financial data by business segment for fiscal
+1999 and 1998. It is not practicable to present information for fiscal 1997 as
+the Company was not segmented in this manner at that time. The accounting
+policies of the segments are the same as those described in the "Summary of
+Significant Accounting Policies."
+
+
+
+
+
+
+
+
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 10   SEGMENT INFORMATION (CONTINUED)
+
+Customer Concentration:
+     During fiscal year 1999, 1998 and 1997, one customer accounted for 28%, 25%
+     and 11% respectively of the Company's total sales. For fiscal 1999 sales to
+     its two largest customers and their suppliers represented approximately 40%
+     of the Company's total sales. In fiscal 1998 and 1997 sales to these OEMs
+     and their suppliers represented approximately 37% and 21% of the Company's
+     total sales, respectively. In fiscal 1999, sales to the Company's 15
+     largest customers accounted for 64% of total sales. In fiscal 1998 and
+     1997, sales to these customers accounted for 63% and 44% respectively.
+
+Geographic Information:
+     Sales include export sales primarily to Europe and to a lesser extent Asia
+     of $53.7 million, $39.2 million and $26.7 million, in fiscal 1999, 1998 and
+     1997, respectively. During fiscal 1999, 1998 and 1997, the Company operated
+     a sales subsidiary in the United Kingdom. At the end of fiscal 1997, the
+     Company sold its ceramic manufacturing operation in France. The following
+     table shows certain financial information relating to the Company's
+     operations in various geographic areas:
+
+
+
+Substantially all of the Company's long-lived assets are located in the United
+States. Transfers between geographic areas are made at terms that allow for a
+reasonable profit to the seller.
+
+
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+NOTE 11   SUBSEQUENT EVENTS (UNAUDITED)
+
+On April 27, 1999, the Board of Directors approved a plan to reserve up to
+675,000 shares of common stock for future grants of stock options to employees.
+Directors and officers are not eligible to participate in this plan.
+
+
+In June 1999, we successfully completed a public offering which raised $109.4
+million, net of expenses, on the sale of 3,314,350 shares of common stock.
+
+
+
+
+
+
+
+
+                          INDEPENDENT AUDITORS' REPORT
+
+
+
+
+
+The Board of Directors and Stockholders
+Alpha Industries, Inc.:
+
+We have audited the consolidated financial statements of Alpha Industries, Inc.
+and subsidiaries as listed in the accompanying index under Item 8. In connection
+with our audits of the consolidated financial statements, we have also audited
+the financial statement schedule as listed in the accompanying index under Item
+14. These consolidated financial statements and financial statement schedule are
+the responsibility of the Company's management. Our responsibility is to express
+an opinion on these consolidated financial statements and financial statement
+schedule based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the financial position of Alpha Industries,
+Inc. and subsidiaries at March 28, 1999 and March 29, 1998, and the results of
+their operations and their cash flows for each of the years in the three-year
+period ended March 28, 1999 in conformity with generally accepted accounting
+principles. Also, in our opinion, the related financial statement schedule, when
+considered in relation to the basic consolidated financial statements taken as a
+whole, presents fairly, in all material respects, the information set forth
+therein.
+
+
+
+
+/s/ KPMG LLP
+- ----------------------
+KPMG LLP
+Boston, Massachusetts
+April 30, 1999
+
+
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+ITEM 9    CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+          FINANCIAL DISCLOSURE
+
+None.
+
+                                    PART III
+
+ITEM 10   DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+See the section entitled "Election of Directors" appearing in the Company's
+Proxy Statement for the Annual Meeting of Stockholders to be held on September
+13, 1999, to be filed within 120 days of the end of the Company's fiscal year,
+which section is incorporated herein by reference, and the section entitled
+"Executive Officers" under Item 1 of this Annual Report on Form 10-K.
+
+ITEM 11   EXECUTIVE COMPENSATION
+
+See the section entitled "Executive Compensation" appearing in the Company's
+Proxy Statement for the Annual Meeting of Stockholders to be held on September
+13, 1999, which section is incorporated herein by reference.
+
+ITEM 12   SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+See the section entitled "Securities Beneficially Owned by Certain Persons"
+appearing in the Company's Proxy Statement for the Annual Meeting of
+Stockholders to be held on September 13, 1999, which section is incorporated
+herein by reference.
+
+ITEM 13   CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+See the section entitled "Certain Relationships and Related Transactions"
+appearing in the Company's Proxy Statement for the Annual Meeting of
+Stockholders to be held on September 13, 1999, which section is incorporated
+herein by reference.
+
+                                     PART IV
+
+ITEM 14   EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+(a)  1.   Index to Financial Statements
+
+          The financial statements filed as part of this report are listed on
+the index appearing on page 23.
+
+     2.   Index to Financial Statement Schedules
+
+          The following financial statement schedule is filed as part of this
+report (page references are to this report):
+
+          Schedule II    Valuation and Qualifying Accounts (page 50)
+
+          Other schedules are omitted because of the absence of conditions under
+          which they are required or because the required information is
+          presented in the financial statements or notes thereto.
+
+
+
+
+
+
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+3.   Exhibits
+
+     (3)  Certificate of Incorporation and By-laws.
+
+          (a)  Restated Certificate of Incorporation (Filed as Exhibit 3 (a) to
+               Registration Statement on Form S-3 (Registration No. 33-63857))*.
+
+          (b)  Amended and restated By-laws of the Corporation dated April 30,
+               1992 (Filed as Exhibit 3(b) to the Annual Report on Form 10-K for
+               the year ended March 29, 1992)*.
+
+     (4)  Instruments defining rights of security holders, including indentures.
+
+          (a)  Specimen Certificate of Common Stock (Filed as Exhibit 4(a) to
+               Registration Statement on Form S-3 (Registration No. 33-63857))*.
+
+          (b)  Frederick County Industrial Development Revenue Bond, Deed of
+               Trust, Loan Agreement and Guaranty and Indemnification Agreement
+               dated June 17, 1982 (Filed as Exhibit 4(g) to the Registration
+               Statement on Form S-8 filed July 29, 1982)*. Bond and Loan
+               Document Modification Agreement dated December 9, 1993 (Filed as
+               Exhibit 4(c) to the Quarterly Report on Form 10-Q for the quarter
+               ended December 26, 1993)*.
+
+          (c)  Loan and Security Agreement dated December 15, 1993 between
+               Trans-Tech, Inc., and County Commissioners of Frederick County
+               (Filed as Exhibit 4(h) to the Quarterly Report on Form 10-Q for
+               the quarter ended July 3, 1994)*.
+
+          (d)  Amended and restated Credit Agreement dated October 1, 1997
+               between Alpha Industries, Inc., and Trans-Tech Inc. and Fleet
+               Bank of Massachusetts and Silicon Valley Bank (Filed as Exhibit
+               4(f) to the Quarterly Report on Form 10-Q for the quarter ended
+               December 28, 1997)*; and as amended by First Amendment dated
+               September 30, 1998.
+
+     (10) Material Contracts.
+
+          (a)  Alpha Industries, Inc., 1986 Long-Term Incentive Plan as amended
+               (Filed as Exhibit 10(a) to the Quarterly Report on Form 10-Q for
+               the quarter ended October 2, 1994)*. (1)
+
+          (b)  Alpha Industries, Inc., Employee Stock Purchase Plan as amended
+               October 22, 1992 (Filed as Exhibit 10(b) to the Annual Report on
+               Form 10-K for the fiscal year ended March 28, 1993)* and amended
+               August 22, 1995 (Filed as Exhibit 10(b) to the Annual Report on
+               Form 10-K for the fiscal year ended March 31, 1996)*. (1)
+
+          (c)  SERP Trust Agreement between the Registrant and the First
+               National Bank of Boston as Trustee dated April 8, 1991 (Filed as
+               Exhibit 10(c) to the Annual Report on Form 10-K for the fiscal
+               year ended March 31, 1991)*. (1)
+
+          (d)  Alpha Industries, Inc., Long-Term Compensation Plan dated
+               September 24, 1990 (Filed as Exhibit 10(i) to the Annual Report
+               on Form 10-K for the fiscal year ended March 29, 1992)*; amended
+               March 28, 1991 (Filed as Exhibit 10 (a) to the Quarterly Report
+               on Form 10-Q for the quarter ended June 27, 1993)* and as further
+               amended October 27, 1994 (Filed as Exhibit 10(f) to the Annual
+               Report on Form 10-K for the fiscal year ended April 2, 1995)*.
+               (1)
+
+          (e)  Severance Agreement dated January 13, 1997 between the Registrant
+               and Thomas C. Leonard (Filed as Exhibit 10(f) to the Annual
+               Report on Form 10-K for the fiscal year ended March 30, 1997)*.
+               (1)
+
+          (f)  Severance Agreement dated May 20, 1997 between the Registrant and
+               David J. Aldrich (Filed as Exhibit 10(g) to the Annual Report on
+               Form 10-K for the fiscal year ended March 30, 1997)*. (1)
+
+          (g)  Severance Agreement dated January 14, 1997 between the Registrant
+               and Richard Langman (Filed as Exhibit 10(h) to the Annual Report
+               on Form 10-K for the fiscal year ended March 30, 1997)*. (1)
+
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+          (h)  Consulting Agreement dated August 13, 1992 between the Registrant
+               and Sidney Topol (Filed as Exhibit 10(p) to the Annual Report on
+               Form 10-K for the fiscal year ended April 3, 1994)*.(1)
+
+          (i)  Master Lease Agreement between Comdisco, Inc. and the Registrant
+               dated September 16, 1994 (Filed as Exhibit 10(q) to the Quarterly
+               Report on Form 10-Q for the quarter ended October 2, 1994)*.
+
+          (j)  Alpha Industries, Inc., 1994 Non-Qualified Stock Option Plan for
+               Non-Employee Directors (Filed as Exhibit 10(r) to the Quarterly
+               Report on Form 10-Q for the quarter ended October 2, 1994)*. (1)
+
+          (k)  Alpha Industries Executive Compensation Plan dated January 1,
+               1995 and Trust for the Alpha Industries Executive Compensation
+               Plan dated January 3, 1995 (Filed as Exhibit 10(p) to the Annual
+               Report on Form 10-K for the fiscal year ended April 2, 1995)*.(1)
+
+          (l)  Alpha Industries, Inc. Savings and Retirement 401(k) Plan dated
+               July 1, 1996 (Filed as Exhibit 10(n) to the Annual Report on Form
+               10-K for the fiscal year ended March 30, 1997)*.
+
+          (m)  Severance Agreement dated September 4, 1998 between the
+               Registrant and Paul E. Vincent (Filed as Exhibit 10(n) to the
+               Quarterly Report on Form 10-Q for the fiscal quarter ended
+               September 27, 1998)*. (1)
+
+          (n)  Change in Control Agreement between the Registrant and James C.
+               Nemiah dated September 25, 1998 (Filed as Exhibit 10(o) to the
+               Quarterly Report on Form 10-Q for the fiscal quarter ended
+               September 27, 1998)*. (1)
+
+          (o)  Severance Agreement dated December 11, 1998 between the
+               Registrant and Jean-Pierre Gillard (Filed as Exhibit 10(r) to the
+               Quarterly Report on Form 10-Q for the fiscal quarter ended
+               December 27, 1998)*. (1)
+
+          (p)  Lease Agreement between MIE Properties, Inc. and Trans-Tech, Inc.
+               (Filed as Exhibit 10(r) to the Quarterly Report on Form 10-Q for
+               the quarter ended September 29, 1996)*.
+
+          (q)  Alpha Industries, Inc., 1997 Non-Qualified Stock Option Plan for
+               Non-Employee Directors. (Filed as Exhibit 10 (r) to the Annual
+               Report on Form 10-K for the fiscal year ended March 29,
+               1998)*.(1)
+
+          (r)  Alpha Industries, Inc. 1996 Long-Term Incentive Plan (Filed as
+               Exhibit 99 to Registration Statement on Form S-8 filed January
+               22, 1999)*.(1)
+
+     (11) Statement re computation of per share earnings. See Note 1 to the
+          Consolidated Financial Statements.
+
+     (21) Subsidiaries of the Registrant.
+
+     (23) Consent of Independent Auditors.
+
+     (27) Financial Data Schedules.
+
+          (b)  Reports on Form 8-K
+
+               No reports on Form 8-K were filed with the Securities and
+               Exchange Commission during the fiscal quarter ended March 28,
+               1999.
+
+
+- ----------
+*    Not filed herewith. In accordance with Rule 12b-32 promulgated pursuant to
+     the Securities Exchange Act of 1934, as amended, reference is hereby made
+     to documents previously filed with the Commission, which are incorporated
+     by reference herein.
+
+(1)  Management Contracts.
+
+
+
+
+
+
+
+                                         ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+
+                                   SIGNATURES
+
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned thereunto duly authorized.
+
+
+
+                                             ALPHA INDUSTRIES, INC.
+                                                  (REGISTRANT)
+
+
+                                             BY: /s/ THOMAS C. LEONARD
+                                                 ------------------------------
+                                                 THOMAS C. LEONARD, PRESIDENT
+
+Date: June 21, 1999
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in the capacities indicated on June 21, 1999.
+
+   Signature and Title
+   -------------------
+
+
+/s/ GEORGE S. KARIOTIS
+- ----------------------------------
+George S. Kariotis
+Chairman of the Board
+
+
+/s/ THOMAS C. LEONARD
+- ----------------------------------
+Thomas C. Leonard
+Chief Executive Officer
+President and Director
+
+
+/s/ PAUL E. VINCENT
+- ----------------------------------
+Paul E. Vincent
+Chief Financial Officer
+Principal Financial Officer
+Principal Accounting Officer
+
+
+/S/ TIMOTHY R. FUREY
+- ----------------------------------
+Timothy R. Furey
+Director
+
+
+/s/ JAMES W. HENDERSON
+- ----------------------------------
+James W. Henderson
+Director
+
+
+/s/ ARTHUR PAPPAS
+- ----------------------------------
+Arthur Pappas
+Director
+
+
+/s/ SIDNEY TOPOL
+- ----------------------------------
+Sidney Topol
+Director
+
+
+
+
+
+
+ALPHA INDUSTRIES, INC. AND SUBSIDIARIES
+
+
+
+                                   SCHEDULE II
+
+VALUATION AND QUALIFYING ACCOUNTS
+(In thousands)
+
+
+
+
+
+
+
+
+

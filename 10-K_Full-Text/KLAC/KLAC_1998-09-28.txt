@@ -1,0 +1,978 @@
+
+10-K
+FORM 10-K FOR FISCAL YEAR ENDED JUNE 30, 1998
+
+
+
+ 
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+ 
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                            ------------------------
+ 
+                                   FORM 10-K
+(MARK ONE)
+      [X]   ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+        SECURITIES EXCHANGE ACT OF 1934
+ 
+                    FOR THE FISCAL YEAR ENDED JUNE 30, 1998
+ 
+                                       OR
+ 
+      [ ]   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+        SECURITIES EXCHANGE ACT OF 1934
+ 
+        FOR THE TRANSITION PERIOD FROM                TO
+ 
+                           COMMISSION FILE NO. 0-9992
+                            ------------------------
+ 
+                             KLA-TENCOR CORPORATION
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+ 
+
+ 
+       REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: (408) 875-4200
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+ 
+
+ 
+                            ------------------------
+ 
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT:
+                         COMMON STOCK, $0.001 PAR VALUE
+                          COMMON STOCK PURCHASE RIGHTS
+                                (TITLE OF CLASS)
+ 
+    Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  Yes [X]    No [ ]
+ 
+    Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ ]
+ 
+    The aggregate market value of the voting stock held by non-affiliates of the
+registrant based upon the closing price of the registrant's stock, as of
+September 18, 1998, was $1,313,690,577. Shares of common stock held by each
+officer and director and by each person or group who owns 5% or more of the
+outstanding common stock have been excluded in that such persons or groups may
+be deemed to be affiliates. This determination of affiliate status is not
+necessarily a conclusive determination for other purposes.
+ 
+    The registrant had 87,321,556 shares of Common Stock outstanding as of
+September 18, 1998.
+ 
+                      DOCUMENTS INCORPORATED BY REFERENCE
+ 
+    Portions of the Annual Report to Stockholders for the fiscal year ended June
+30, 1998 ("1998 Annual Report to Stockholders") are incorporated by reference
+into Parts I, II and IV of this Report. Portions of the Proxy Statement for the
+Annual Meeting of Stockholders ("Proxy Statement") to be held on November 17,
+1998, and to be filed pursuant to Regulation 14A within 120 days after
+registrant's fiscal year ended June 30, 1998, are incorporated by reference into
+Part III of this Report.
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+                                     PART I
+
+
+ITEM 1. DESCRIPTION OF BUSINESS
+
+THE COMPANY
+
+        General. Effective April 30, 1997, Tencor Instruments ("Tencor") merged
+into a wholly-owned subsidiary of KLA Instruments Corporation ("KLA"). Following
+the Merger, KLA changed its name to KLA-Tencor Corporation (the "Company"). The
+Merger brought together two companies with largely complementary product lines
+which provide customers with yield management solutions and process monitoring
+products throughout the semiconductor manufacturing process. The Company was
+incorporated in Delaware in July 1975. Its headquarters are located at 160 Rio
+Robles, San Jose, California, 95134, telephone (408) 875-4200.
+
+        As the complexity of the sub-micron semiconductor manufacturing process
+increases, the need for more, and more effective, process monitors also
+increases. Quickly attaining and then maintaining high yields is one of the most
+important determinants of profitability in the semiconductor industry. The
+importance of high yields from the manufacturing process has grown dramatically
+as wafer sizes increase and process geometries decrease. Total yield management
+solutions have taken on a significance which has not been experienced in the
+past. The Company is in a unique position to be the single source for
+comprehensive yield management solutions with a portfolio of
+applications-focused technologies and dedicated yield consulting expertise.
+
+        The Company is the leader in the design, manufacture, marketing and
+service of yield management and process monitoring systems for the semiconductor
+industry. The Company uses its technical expertise and understanding of customer
+needs to supply unique yield management solutions and one of the broadest lines
+of wafer inspection, thin film measurement, metrology and reticle inspection
+systems available in the semiconductor industry. The Company's systems are used
+to analyze product and process quality at critical steps in the manufacturing
+process for integrated circuits and to provide feedback to its customers so that
+fabrication problems can be identified, addressed and contained. This
+understanding of defect sources and how to contain them enables semiconductor
+manufacturers to increase yields. Semiconductor fabrication facilities are
+increasingly expensive to build and equip. Yield management and process
+monitoring systems, which typically represent a small percentage of the total
+investment required to build and equip a fabrication facility, enable integrated
+circuit manufacturers to leverage these expensive facilities and improve their
+returns on investment.
+
+        The Company's principal market is the semiconductor industry, marketing
+and selling products worldwide to all of the major semiconductor manufacturers.
+The Company's revenues are derived primarily from product sales, principally
+through its direct sales force, and to a lesser extent, through distributors.
+
+
+
+Yield Management Solutions Group
+
+        Maximizing yields, or the number of good die per wafer, is a key goal of
+modern semiconductor manufacturing. Higher yields increase the revenue a
+manufacturer can obtain for each semiconductor wafer processed. As geometry
+linewidths decrease, yields become more sensitive to the size and density of
+defects. Semiconductor manufacturers use yield management and process monitoring
+systems to improve yields by identifying defects, by analyzing them to determine
+process problems, and, after corrective action has been taken, by monitoring
+subsequent results to ensure that the problem has been contained. Monitoring and
+analysis often take place at various points in the fabrication process as wafers
+move through a production cycle consisting of hundreds of separate process
+steps.
+
+        The following are some of the methods used to manage yield, all of which
+require the capture and analysis of data gathered through many measurements:
+
+        -       Engineering analysis is performed off the manufacturing line to
+                identify and analyze defect sources. Engineering analysis
+                equipment operates with very high sensitivity to enable
+                comprehensive analysis of wafers. Because they operate off-line,
+                engineering analysis systems do not require high operational
+                speeds.
+
+        -       In-line monitoring is used to review the status of circuits
+                during production steps. Information generated is used to
+                determine whether the fabrication process steps are within
+                required tolerances and to make any necessary process
+                adjustments in real-time before wafer lots move to subsequent
+                process stations. Because the information is needed quickly to
+                be of greatest value, in-line monitoring requires both high
+                throughput and high sensitivity.
+
+        -       Pass/fail tests are used at several steps in the manufacturing
+                process to evaluate products. For example, a pass/fail test is
+                used to determine whether reticles used in photolithography are
+                defect-free; electrical pass/fail testing is performed at the
+                end of the manufacturing process to determine whether products
+                meet performance specifications.
+
+        The most significant opportunities for yield improvement generally occur
+when production is started at new factories and when new products are first
+built. Equipment that helps a manufacturer quickly increase new product yields
+enables the manufacturer to offer these new products in volume at a time when
+they are likely to generate the greatest profits.
+
+Wafer Inspection Group
+
+        The Company created the market for automated defect inspection of
+semiconductor wafers over 13 years ago. The wafer inspection group product
+offerings include unpatterned wafer inspection and patterned wafer inspection
+tools which are used to find, count and characterize particles and pattern
+defects on wafers both in engineering applications and in-line at various 
+
+
+
+
+
+stages during the semiconductor and wafer manufacturing processes. Semiconductor
+manufacturers use wafer inspection systems to monitor their manufacturing
+processes and to refine those processes to increase the yield of acceptable
+integrated circuits. Accordingly, semiconductor manufacturers base their
+purchase of wafer inspection systems on a variety of criteria, including
+sensitivity, throughput, total cost of ownership, ease of use, degree of
+automation, system repeatability and correlation and its ability to be
+integrated into overall yield management systems.
+
+        In 1992, the Company introduced the 21XX inspection systems providing
+the sensitivity required for microprocessors and other logic devices as well as
+both the logic and repeating array portions of memory devices. Subsequent
+upgrades with each new model provided greater sensitivity and greater maximum
+speed compared to its predecessor. The 2135 was introduced in 1996 with twice
+the throughput and higher sensitivity compared to its predecessor. In 1997, the
+Company introduced the 2138, a new patterned wafer inspection system with
+advanced capability for demanding inspection applications. It is based on the
+21XX inspection platform and combines an ultra- broadband illumination source
+and significantly improved bright field optics with Segmented Auto Thresholding.
+This combination significantly increases defect sensitivity and capture, while
+reducing or eliminating false defect counts in semiconductor processes. In 1998,
+the 2230 was introduced offering combined darkfield illumination with high-speed
+image processing for production line monitoring of yield limiting defects.
+
+        The Company's Surfscan(R) family of laser-scanning products are widely
+used for wafer qualification, process monitoring and equipment monitoring. They
+provide the high sensitivity, fast throughput and low cost of ownership required
+in a production environment and are used in virtually all semiconductor
+manufacturing processes. Surfscans are key components of the defect reduction
+strategies of many leading semiconductor manufacturers. The systems use a
+standardized file format that allow defect location data to be easily
+transferred to off-line review stations for defect classification. The Surfscan
+AIT is the cost/performance leader for in-line monitoring of deposited films.
+The Surfscan AIT, the 2138 and the 2230 are part of the Company's Intelligent
+Line Monitoring solution, which includes the full line of patterned wafer
+inspection systems, as well as the IMPACT/Online ADC, CRS/Offline ADC and Quest
+defect data analysis systems. This integrated yield management approach provides
+semiconductor device manufacturers with a comprehensive tool set which enables
+the acceleration of time-to-yield enhancements and yield goals. The SP1,
+introduced in 1997, was the Company's first system to address the unique
+unpatterned inspection requirements of 300mm wafers, combining a stationary
+illumination beam, uniform axi-symmetric collection optics and an optional
+bright field channel with a rotating wafer scheme to allow detection of surface
+defects and contaminants at speeds of 100 wafers per hour on 300mm wafers, and
+150 wafers per hour on 200mm wafers. It performs rapid, highly sensitive
+inspection of unpatterned 300mm wafers, providing capabilities critical to wafer
+and equipment manufacturers who are developing products for emerging 0.25 micron
+process technologies and below.
+
+
+
+
+
+        The Company offers analysis systems comprised of database management
+hardware and software to translate raw inspection data into patterns which
+reveal process problems. The Company's productivity and analysis software
+systems collect, store and analyze data collected by test equipment manufactured
+by both the Company and others to provide semiconductor manufacturers with an
+integrated yield management solution. The software systems identify defect
+sources, show defect trends and help semiconductor manufacturers develop
+long-term yield improvement strategies.
+
+
+E-Beam Technology, CD and Overlay Group
+
+        As feature sizes of semiconductor circuits continue to decrease for
+leading edge semiconductor products, the Company believes that conventional
+optical technologies ultimately will begin to reach physical limits imposed by
+the wavelength of light and fail to provide the necessary inspection resolution.
+Working closely with those customers with the most advanced inspection
+requirements, the Company has developed the SEMSpec, the industry's only fully
+automatic defect electron beam inspection system. The development of these
+systems was funded in part by customer-sponsored research and development
+programs. The Company expects the market for these inspection systems to emerge
+slowly.
+
+        The Company's E-Beam metrology business has an established position in
+the Critical Dimension Scanning Electron Microscope (CD-SEM) inspection market,
+a market which the Company believes is larger than the optical overlay market,
+and one which it believes will grow as semiconductor manufacturers continue to
+produce more complex semiconductor devices. The Company's first generation
+E-Beam metrology system features high throughput and automated setup. The new
+8100XP series is used for precision measurement of high aspect ratio structures
+in highly automated process control applications.
+
+        Lithography for sub-micron semiconductor fabrication requires
+increasingly stringent overlay and critical dimension tolerances. In particular,
+decreasing linewidths, larger die sizes, and additional layers have made overlay
+mis-registration errors a crucial cause of yield loss. To address these
+challenges, the Company offers the 5000 series metrology systems: the 5100 for
+overlay, and the 5105 for both overlay and critical dimension measurement. In
+1996, the Company introduced the 5200 overlay system, which has performance and
+usability enhancements compared to the 5100.
+
+        The Company, utilizing its expertise in digital image processing, has
+developed sophisticated measurement algorithms for the 5000 series that are more
+tolerant of process variations. Using coherence probe microscopy, the system
+scans the image-forming coherence region through the wafer plane, only gathering
+information from in-focus surfaces. As a result, measurements are more tolerant
+of process and substrate reflectivity variations than those from ordinary
+optical systems. The precision measurements from the 5000 series identify the
+magnitude and direction of overlay mis-registration errors arising from the
+stepping process and 
+
+
+
+
+
+from optical distortion inherent in the stepper lens. Based upon these
+measurements, users can fine-tune the stepper program to compensate for these
+errors, and improve process yield.
+
+Precision Measurement Group
+
+        Reticle Inspection. RAPID, the Company's original business unit, created
+the market for automated inspection of reticles and photomasks for the
+semiconductor manufacturing industry over 20 years ago and continues to have a
+predominant share of this market. During photolithography, a stepper projects a
+circuit pattern from a reticle onto a wafer. Error-free reticles are the first
+step in ensuring high yields in the manufacturing process because defects in
+reticles can translate into millions of ruined die.
+
+        The Company's 3XX product family incorporates a reference database
+generator and data preparation system which give full die-to-database
+functionality to the inspection, permitting inspection against the ideal reticle
+pattern as specified by the user's CAD program. The Company has continued to
+develop enhancements to the 3XX inspection system to improve performance,
+serviceability and reliability. In 1997, the Company introduced two new reticle
+and photomask inspection enhancements, the Advanced Performance Algorithm (APA)
+and the STARlight High Resolution option. These enhancements enable highly
+accurate and reliable inspection of next- generation 0.25 micron reticles,
+including reticles with complex optical proximity correction geometries. In
+1998, the 353UV automated reticle inspection system was introduced which allows
+for ultraviolet-based inspection providing the sensitivity levels necessary on
+complex reticles designed for deep UV lithography applications.
+
+        Film Measurement. The Company's film measurement division produces both
+film thickness and resistivity measurement tools. The film thickness products
+are used to measure a variety of optical properties of thin films, while the
+resistivity products measure the resistivity of the various layers used to make
+integrated circuits. These products are used to control a wide range of wafer
+fabrication steps, where within-wafer and wafer-to-wafer uniformity of the
+process is of paramount importance to semiconductor manufacturers to achieve
+high yields at the lowest possible cost.
+
+        The Company has been a leader in the thin film market since entering it
+over 12 years ago. In 1995, the Company introduced the UV-1250SE, which brought
+a powerful new technology, spectroscopic ellipsometry, to production. Continuing
+innovations resulted in the UV-1280SE with one of the most robust measurement
+capabilities in the industry. The use of thin film systems throughout the
+manufacturing facility creates significant challenges in measurement flexibility
+(especially on new film materials and multi-layer films), recipe management and
+factory floor computer automation. The Company's UV product line, which has an
+installed base of over 500 systems has addressed these requirements by
+delivering powerful measurement engines in reliable, easy to use system designs.
+The systems also incorporate software which enables extensive use of host
+computer operation to control the equipment, analyze the data and 
+
+
+
+
+
+feedback to the process equipment, all steps which are critical for effective
+process control and maintaining high yields.
+
+        Surface Metrology. Stylus profilers are used to measure the surface
+topography of films and etched surfaces and are used in basic research and
+development as well as production and quality control areas. In addition, the
+Company produces stress measurement systems which detect reliability related
+problems such as film cracking, voiding and lifting. The Company recently
+introduced a new high-resolution profiler (HRP) product which significantly
+increased the potential applications for surface profilers because it is the
+first metrology system to offer the combined monitoring capability traditionally
+achieved by two different instruments, an in-line profiler for measuring wide
+spatial problems such as dishing and erosion and the off-line atomic force
+microscope for the nanoscale problem of plug recess.
+
+CUSTOMERS
+
+        The Company sells its systems to all of the world's major semiconductor
+manufacturers. In fiscal 1998, 1997 and 1996, no single customer accounted for
+more than 10% of the Company's revenues.
+
+INTERNATIONAL REVENUES
+
+        The Company has wholly-owned foreign subsidiaries or foreign branches of
+domestic subsidiaries in Japan, Korea, Taiwan, Europe, Israel, Singapore and
+Malaysia for marketing, sales and service of products. In addition, the Company
+has manufacturing operations in Israel for its metrology products. International
+sales accounted for approximately 56%, 65% and 66% of the Company's revenues in
+fiscal 1998, 1997 and 1996, respectively. For information regarding the
+Company's revenues from foreign operations for the Company's last three fiscal
+years, see Note 8 of Notes to Consolidated Financial Statements incorporated
+herein by reference to Exhibit 13.1 hereto.
+
+        The Company believes that foreign sales will continue to be a
+significant percentage of revenues. The future performance of the Company will
+be dependent upon, in part, its ability to continue to compete successfully in
+Asia, one of the largest markets for the sale of yield management services in
+process monitoring equipment. The Company's ability to compete in this area in
+the future is dependent upon the continuation of favorable trading relationships
+between the region (especially Japan and Korea) and the United States and the
+continuing ability of the Company to maintain satisfactory relationships with
+leading semiconductor companies in the region. International sales and
+operations may be adversely affected by imposition of governmental controls,
+restrictions on export technology, political instability, trade restrictions,
+changes in tariffs and the difficulties associated with staffing and managing
+international operations. In addition, international sales may be adversely
+affected by the economic conditions in each country. The revenues from the
+Company's international business may be affected by fluctuations in currency
+exchange rates. Although the Company attempts to manage near term 
+
+
+
+
+
+currency risks through "hedging," there can be no assurance that such efforts
+will be adequate. These factors could have a material adverse effect on the
+Company's future business and financial results.
+
+SALES, SERVICE AND MARKETING
+
+        The Company believes that the size and location of its field sales,
+service and applications engineering organization represents a competitive
+advantage in its served markets. In the United States, Europe, Asia Pacific and
+Japan the Company has a direct sales force although in the past it has used a
+mix of direct sales and distributor/sales representative arrangements. The
+Company maintains an export compliance program that fully meets the requirements
+of the U.S. Department of Commerce and the Department of State. The Company does
+not consider its business to be seasonal in nature, but it is cyclical with
+respect to the capital equipment procurement practices of major semiconductor
+manufacturers and is impacted by the investment patterns of such manufacturers
+in different global markets.
+
+        The Company's sales, service and applications facilities throughout the
+world employ over 1,700 sales, service and applications engineers. The Company
+maintains sales and service offices throughout the United States and in Japan,
+Korea, Taiwan, Singapore, Europe and Israel.
+
+RESEARCH AND DEVELOPMENT
+
+        The market for yield management and process monitoring systems is
+characterized by rapid technological development and product innovation. The
+Company believes that continued and timely development of new products and
+enhancements to existing products are necessary to maintain its competitive
+position. Accordingly, the Company devotes a significant portion of its
+personnel and financial resources to research and development programs and seeks
+to maintain close relationships with customers to remain responsive to their
+needs. In order to meet continuing developments in the semiconductor industry
+the Company is committed to significant engineering efforts for product
+improvement and new product development. New product introductions may
+contribute to fluctuations in operating results, since customers may defer
+ordering products from existing product lines. If new products have reliability
+or quality problems, reduced orders, higher manufacturing costs, delays in
+acceptance of and payment for new products and additional service and warranty
+expense may result. On occasion, the Company has experienced reliability and
+quality problems in connection with certain product introductions, resulting in
+some of these consequences. There can be no assurance that the Company will
+successfully develop and manufacture new hardware and software products or that
+new hardware and software products introduced by the Company will be accepted in
+the marketplace. If the Company does not successfully introduce new products,
+its results of operations will be adversely affected. For information regarding
+the Company's research and development expense during the last three fiscal
+years, see Management's Discussion and Analysis of Results of Operations and
+Financial Condition incorporated herein by reference to Exhibit 13.1 hereto.
+
+
+
+
+
+MANUFACTURING
+
+        The Company's principal manufacturing activities take place in San Jose
+and Milpitas, California and Migdal Ha'Emek, Israel, and consist primarily of
+manufacturing, assembling and testing components and subassemblies which are
+acquired from third party vendors and then integrated into the Company's
+finished products. The Company employs over 1,900 manufacturing and engineering
+personnel and also cross-trains personnel in order to respond to changes in
+product mix.
+
+        Many of the components and subassemblies are standard products, although
+certain items are made to Company specifications. Certain of the components and
+subassemblies included in the Company's systems are obtained from a single
+source or a limited group of suppliers. Those parts subject to single or limited
+source supply are routinely monitored by management and the Company endeavors to
+ensure that adequate supplies are available to maintain manufacturing schedules,
+should supply for any part be interrupted. Although the Company seeks to reduce
+its dependence on sole and limited source suppliers, in some cases the partial
+or complete loss of certain of these sources could disrupt scheduled deliveries
+to customers and have a material adverse effect on the Company's results of
+operations and damage customer relationships.
+
+COMPETITION
+
+        The worldwide market for yield management and process control systems is
+highly competitive. In each of the markets it serves, the Company faces
+competition from established and potential competitors, some of which may have
+greater financial, engineering, manufacturing and marketing resources than the
+Company. The Company believes that to remain competitive it will require
+significant financial resources in order to offer a broad range of products, to
+maintain customer service and support centers worldwide, and to invest in
+product and process research and development. The semiconductor equipment
+industry is becoming increasingly dominated by large manufacturers such as
+Applied Materials, Inc., Hitachi Electronics Engineering Co., Ltd. and Tokyo
+Electron Limited, who have the resources to support customers on a worldwide
+basis. Some of these competitors have substantially greater financial resources
+and more extensive engineering, manufacturing, marketing and customer service
+and support capabilities than the Company. The Company expects its competitors
+to continue to improve the design and performance of their current products and
+processes and to introduce new products and processes with improved price and
+performance characteristics. No assurance can be given that the Company will be
+able to continue to compete successfully against its competitors.
+
+        Significant competitive factors in the market for yield management and
+process control systems include system performance, ease of use, reliability,
+installed base and technical service and support. The Company believes that,
+while price and delivery are important competitive factors, the customers'
+overriding requirement is for systems which easily and effectively incorporate
+automated, highly accurate inspection capabilities into their existing
+manufacturing processes, thereby enhancing productivity. The Company's yield
+management and process 
+
+
+
+
+
+control systems for the semiconductor industry are generally higher priced than
+those of its present competitors and are intended to compete based upon
+performance and technical capabilities. These systems also compete with less
+expensive, more labor-intensive manual inspection devices.
+
+        In addition, in configuring their fabrication plants, semiconductor
+manufacturers increasingly tend to select specific items of manufacturing
+equipment for all of the fabrication facilities used to produce each generation
+of integrated circuits. As a result of this process, the Company's failure to
+have one or more of its products selected by a semiconductor manufacturer for
+use in its facilities for a particular generation of integrated circuits may
+effectively eliminate sales of that product for all of that manufacturer's
+fabrication plants used for that generation of integrated circuits which could
+have a significant and long-term adverse effect on the Company's results of
+operations. Although the Company has been relatively successful to date in these
+selection decisions, not all of the Company's products have been selected by
+each of its customers for fabrication facilities for each generation of
+integrated circuits. Further, there can be no assurance that the Company's
+products will be selected in the future, or that the Company will continue to be
+as successful in connection with selection processes as it has been to date.
+
+PATENTS AND OTHER PROPRIETARY RIGHTS
+
+        The Company protects its proprietary technology through a variety of
+intellectual property laws including patent, copyright and trade secrets law;
+however, the Company believes that, due to the rapid pace of innovation within
+the yield management and process control systems industry, its protection of
+patent and other intellectual property rights is less important than factors
+such as its technological expertise, continuing development of new systems,
+market penetration and installed base and the ability to provide comprehensive
+support and service to customers. There can be no assurance that the Company
+will be able to protect its technology or that competitors will not be able to
+develop similar technology independently.
+
+        The Company currently holds 117 U.S. patents and has applied for 78
+additional patents in the United States. In addition, the Company has 28 foreign
+patents and applied for 85 additional foreign patents. From time to time the
+Company acquires license rights under U.S. and foreign patents and other
+proprietary rights of third parties. No assurance can be given that patents will
+be issued on any of the Company's applications, that license assignments will be
+made as anticipated or that the Company's patents, licenses or other proprietary
+rights will be sufficiently broad to protect its technology. In addition, no
+assurance can be given that any patents issued to or licensed by the Company
+will not be challenged, invalidated or circumvented or that the rights granted
+thereunder will provide a competitive advantage to the Company.
+
+BACKLOG
+
+        At June 30, 1998, the Company's backlog for systems totaled $424
+million, compared to $573 million at June 30, 1997. In general, systems ship
+within six months to a year after receipt 
+
+
+
+
+
+of a customer's purchase order. The Company expects to fill the present backlog
+of orders during fiscal 1999. All orders are subject to cancellation or delay by
+the customer with limited or no penalty. The Company's backlog is not
+necessarily indicative of actual sales for any succeeding period.
+
+EMPLOYEES
+
+        As of June 30, 1998, the Company employed a total of approximately 4,500
+persons. None of the Company's employees are represented by a labor union. The
+Company has experienced no work stoppages and believes that its employee
+relations are good.
+
+        Competition in the recruiting of personnel in the semiconductor and
+semiconductor equipment industry is intense. The Company believes that its
+future success will depend in part on its continued ability to hire and retain
+qualified management, marketing and technical employees.
+
+ITEM 2. PROPERTIES
+
+        Certain information concerning the Company's properties at June 30, 1998
+is set forth below:
+
+
+
+
+
+        The Company leases several other facilities under operating leases that
+expire at various times through June 30, 2012 with renewal options at the fair
+market value for additional periods up to five years. See Note 7 to Notes to
+Consolidated Financial Statements in Exhibit 13.1 hereto.
+
+
+
+
+
+ITEM 3.        LEGAL PROCEEDINGS
+
+        None.
+
+ITEM 4.        SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+        None.
+
+                                     PART II
+
+
+ITEM 5.        MARKET FOR THE REGISTRANT'S COMMON STOCK AND RELATED
+               STOCKHOLDER MATTERS
+
+        The information required by this Item is incorporated herein by
+reference to Exhibit 13.1 hereto.
+
+
+ITEM 6.        SELECTED FINANCIAL DATA
+
+        The information required by this Item is incorporated herein by
+reference to Exhibit 13.1 hereto.
+
+
+ITEM 7.        MANAGEMENT'S DISCUSSION AND ANALYSIS OF RESULTS OF
+               OPERATIONS AND FINANCIAL CONDITION
+
+        Management's Discussion and Analysis of Results of Operations and
+Financial Condition is incorporated herein by reference to Exhibit 13.1 hereto.
+
+ITEM 7A.       QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+        The information required by this item is incorporated herein by
+reference to Exhibit 13.1 hereto.
+
+ITEM 8.        FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+        The consolidated financial statements are incorporated herein by
+reference to Exhibit 13.1 hereto.
+
+ITEM 9.        DISAGREEMENTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+     Not Applicable.
+
+                                    PART III
+
+ITEM 10.       DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+        Set forth below are the names of the present directors and executive
+officers of the 
+
+
+
+
+
+Company, their ages and positions held with the Company. Additional information
+required by Item 405 of Regulation S-K of the Securities Act of 1933, as
+amended, is incorporated herein by reference to the Company's Proxy Statement.
+
+
+
+
+
+        Kenneth Levy is a founder of the Company and since July 1, 1998 has been
+Chief Executive Officer and a Director. From 1975 until April 30, 1997 he was
+Chairman of the Board and Chief Executive Officer. From April 30, 1997 until
+June 30, 1998 he was Chairman of the Board. He currently serves on the boards of
+directors of Ultratech Stepper, Inc. and Integrated Process Equipment
+Corporation.
+
+        Jon D. Tompkins has been Chairman of the Board since July 1, 1998. From
+April 30, 1997 until July 1, 1998 he was Chief Executive Officer and a Director
+of the Company. From 1991 until 
+
+
+
+
+
+April 30, 1997 he was President and Chief Executive Officer of Tencor
+Instruments, a manufacturer of wafer inspection, film measurement and metrology
+systems for the semiconductor industry ("Tencor") prior to its merger with the
+Company in April 1997 (the "Merger"). He was a director of Tencor from 1991
+until April 1997 and was appointed chairman of the board of directors of Tencor
+in November 1993. He currently serves on the boards of directors of Varian
+Corporation and ESI Incorporated as well as chairman of the board of
+SEMI/SEMATECH, a private research and development consortium of U.S.
+semiconductor equipment and materials companies.
+
+        Kenneth L. Schroeder has been President, Chief Operating Officer and
+Director of the Company since November 1991. He currently serves on the board of
+directors of GaSonics International.
+
+        Robert J. Boehlke has been Vice President and Chief Financial Officer of
+the Company since July 1990. In April 1997 he was promoted to Executive Vice
+President. He currently serves on the board of directors of LTX Corporation and
+Fluorware.
+
+        Frederick A. Ball became Vice President Finance and Accounting of the
+Company on April 30,1997 as a result of the Merger. He joined Tencor as
+corporate controller in March 1995 and was promoted to corporate vice president
+and appointed corporate secretary in January of 1996. Prior to Tencor, Mr. Ball
+was with Price Waterhouse LLP for ten years.
+
+        Lisa C. Berry joined the Company in September 1996 as Vice President and
+General Counsel. Ms. Berry joined the Company from LSI Logic Corporation, a
+manufacturer of application specific integrated circuits, where she held the
+positions of associate general counsel from October 1994 until September 1996
+and assistant general counsel from August 1991 until October 1994.
+
+        Gary E. Dickerson joined the Company in January 1986 and has held a
+series of positions. In July 1990 he was promoted to Director of Marketing and
+Vice President of Marketing in July 1992. In July 1993, he was promoted to Vice
+President and Director of the Wafer Inspection Group. In January 1996, he was
+promoted to Group Vice President. In 1997, Mr. Dickerson became Executive Vice
+President of the newly formed Yield Management Solutions Group.
+
+        Edward C. Grady joined the Company in December 1994 as Vice President of
+Advanced Programs. He took the position of Vice President of Marketing in July
+1995 until March 1996. In March 1996 until August 1998 he was Vice President and
+General Management of the RAPID Division. In August 1998 he was promoted to
+Executive Vice President of the Precision Measurement Group.
+
+        Dr. Samuel A. Harrell joined the Company in September 1995 as Senior
+Vice President of Strategic Business Development. Dr. Harrell is responsible for
+strategic corporate development. Dr. Harrell served from October 1992 to
+December 1995 as the senior vice president and chief 
+
+
+
+
+
+strategy officer of SEMATECH. From August 1987 to September 1992 he served as
+president of SEMI/SEMATECH.
+
+        Dr. Neil Richardson joined the Company in June 1993 as Vice President
+and General Manager of the Metrology Division. He became Executive Vice
+President of the Metrology Group (of the combined operations of the Company and
+Tencor as a result of the Merger) in 1997. He served as vice president and
+general manager of the Diagnostic Systems Group of Schlumberger Technologies
+from September 1985 to November 1991, and was the corporate technology adviser
+for Schlumberger Ltd., a manufacturer of electronic test equipment, from
+November 1991 to May 1993.
+
+        Magnus O.W. Ryde joined the Company in June 1980 and has held a series
+of positions. In 1991, Mr. Ryde became Vice President of Operations for the
+Company's ATS division. He was promoted to Vice President and General Manager of
+the Customer Support division in July 1992. In July 1995, he became Vice
+President for the United States and European Sales Organizations. In July 1997
+he was promoted to Vice President of Worldwide Field Operations.
+
+        Arthur P. Schnitzer joined the Company in July 1978 and has held a
+series of positions. In 1989 he was promoted to Vice President and General
+Manager of the Wisard division. In July 1993, he became Group Vice President
+responsible for RAPID, SEMSPEC, PRISM and manufacturing for WISARD and RAPID.
+Since June 1997 he has been Executive Vice President, Human Resources.
+
+        Dr. Graham J. Siddall was appointed Executive Vice President of the
+Wafer Group (of the combined operations of the Company and Tencor as a result of
+the Merger) in April 1997. In December 1995, he was appointed executive vice
+president and chief operating officer of Tencor. Previously Dr. Siddall served
+as senior vice president for the Tencor Instruments Wafer Inspection Division
+from November 1994 to December 1995. He joined Tencor as a vice president in
+1988.
+
+        James W. Bagley has been a Director of the Company since April 30, 1997.
+He was a director of Tencor from June 1993 until April 30, 1997. He has been
+chief executive officer and a director of Lam Research Corporation, a
+manufacturer of semiconductor processing equipment, since August 1997. From May
+1996 until August 1997 he was chairman of the board and chief executive officer
+of OnTrak Systems, Inc. until its merger with Lam Research Corporation in August
+1997. From December 1987 until December 1993, Mr. Bagley was president and chief
+operating officer for Applied Materials, Inc., a manufacturer of wafer
+fabrication systems to the semiconductor industry. From January 1994 until
+October 1995 he was vice chairman and chief operating officer of Applied
+Materials, Inc., and vice chairman from November 1995 until May 1996. Mr. Bagley
+currently serves on the boards of directors of Teradyne, Inc., Kulicke & Soffa
+Industries, Inc., Micron Technology, Inc., and SEMI/SEMATECH.
+
+        Edward W. Barnholt has been a Director of the Company since 1995. Mr.
+Barnholt joined Hewlett-Packard Company, a manufacturer of electronic and
+computer equipment in December 
+
+
+
+
+
+1966. From 1988 to 1990 he was general manager of the Electronics Instruments
+Group of Hewlett-Packard Company. In July 1988, he was elected vice president
+and in November 1993 he was elected senior vice president of Hewlett-Packard
+Company. Mr. Barnholt is currently executive vice president and general manager
+of the Test and Measurement Organization of Hewlett Packard Company.
+
+        Leo J. Chamberlain has been a Director of the Company since 1982. He is
+a private investor.
+
+        Richard J. Elkus, Jr. has been a Director of the Company since April 30,
+1997. He was executive vice president and vice chairman of the board of
+directors of Tencor from February 1994 until April 30, 1997. Previously, he was
+with Prometrix Corporation from September 1983 until February 1994 where he held
+the positions of chairman and chief executive officer until its merger with
+Tencor in February 1994. He currently serves on the boards of directors of Voyan
+Technology and Lam Research Corporation.
+
+        Dean O. Morton has been a Director of the Company since April 30, 1997.
+From June 1993 until April 30, 1997 he was a director of Tencor. In October 1992
+Mr. Morton retired as executive vice president, chief operating officer and a
+director of Hewlett-Packard Company, where he held various positions from 1960
+until his retirement. Mr. Morton currently serves as chairman of the board of
+Centigram Communications Corporation and as a director of ALZA Corporation, The
+Clorox Company, BEA Systems Inc. and Raychem Corporation. Mr. Morton is also a
+trustee of the Metropolitan Series Fund and State Street Research Funds Group
+and Portfolios Inc.
+
+        Yoshio Nishi has been a Director of the Company since 1989. Since May
+1995 he has been director of research and development and senior vice president
+of the Semiconductor Group of Texas Instruments Incorporated, a manufacturer of
+integrated circuits and electronic equipment. From January 1986 to April 1995 he
+was director of the Silicon Process Laboratory for Hewlett-Packard Laboratories,
+a semiconductor technology research facility affiliated with Hewlett-Packard
+Company.
+
+        Samuel Rubinovitz has been a Director of the Company since 1990. He
+previously served as a Director of the Company from October 1979 to January
+1989. From April 1989 to January 1994 he was executive vice president of EG&G,
+Inc., a diversified manufacturer of scientific instruments and electronic,
+optical and mechanical equipment. He currently serves on the boards of directors
+of Richardson Electronics, Inc., LTX Corporation and Kronos, Inc.
+
+        Dag Tellefsen has been a Director of the Company since 1978. He is the
+general partner of the Investment Manager of Glenwood Ventures I and II, venture
+capital funds. He currently serves on the boards of directors of Iwerks
+Entertainment Corporation, Aptix, Metorex International and Aeneid.
+
+
+
+
+
+        Lida Urbanek has been a Director of the Company since April 30, 1997.
+She is a private investor. She was a director of Tencor from August 1991 until
+April 30, 1997.
+
+ITEM 11.       EXECUTIVE COMPENSATION
+
+        The information required by this Item is incorporated by reference to
+"EXECUTIVE COMPENSATION" in the Company's Proxy Statement.
+
+ITEM 12.       SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+               MANAGEMENT
+
+        The information required by this Item is incorporated by reference to
+"SECURITY OWNERSHIP -- Principal Stockholders and Security Ownership of
+Management" in the Company's Proxy Statement.
+
+ITEM 13.       CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+        The information regarding "Certain Relationships and Related
+Transactions" as it appears in the Proxy Statement is incorporated herein by
+reference.
+
+                                     PART IV
+
+ITEM 14.       EXHIBITS, FINANCIAL STATEMENTS, SCHEDULES, AND REPORT ON FORM
+               8-K
+
+        (a) FINANCIAL STATEMENTS AND FINANCIAL STATEMENT SCHEDULES.
+
+        1.      Financial Statements.
+
+                Consolidated Balance Sheets - As of June 30, 1998 and 1997
+                Consolidated Statements of Operations - For the Three Years
+                Ended June 30, 1998 Consolidated Statement of Stockholders'
+                Equity - For the Three Years Ended June 30, 1998 Consolidated
+                Statements of Cash Flows - For the Three Years Ended June 30,
+                1998 Notes to Consolidated Financial Statements Report of
+                Independent Accountants
+
+        2.      Financial Statement Schedules.
+
+                All schedules are omitted because they are either not applicable
+                or the required information is shown in the consolidated
+                financial statements or notes thereto.
+
+
+
+
+
+        3.      Exhibits.
+
+
+
+
+
+- ---------------------
+Notes
+
+(1)     Filed as an exhibit to the Registrant's Form 10-Q for the quarter ended
+        March 31, 1997.
+
+(2)     Filed as exhibit 1 to the Registrant's Report on Form 8-A/A, Amendment
+        No. 2, to the Registration Statement on Form 8-A filed September 24,
+        1996, SEC File No. 0-9992.
+
+(3)     Filed as an exhibit to the Registrant's Registration Statement on Form
+        S-4 filed March 11,1997, SEC File No.333-23075.
+
+(4)     Filed as an exhibit to the Registrant's Annual Report on Form 10-K for
+        the year ended June 30, 1997.
+
+(5)     Filed as exhibit 4.6 to the Registrant's Annual Report on Form 10-K for
+        the year ended June 30, 1991.
+
+(6)     Filed as exhibit 10.1 to the Registrant's Registration Statement on Form
+        S-8 filed January 30, 1998, SEC File No. 333-45271.
+
+
+
+
+
+(7)     Filed as exhibit 10.74 to the Registrant's Registration Statement on
+        Form S-8 filed March 7, 1997, SEC File No. 333-22941.
+
+(8)     Filed as exhibits 10.1, 10.2, 10.3, 10.6 and 10.7, respectively, to the
+        Registrant's Registration Statement on Form S-8 filed May 8, 1997, SEC
+        File No. 333-26681.
+
+(9)     Filed as exhibit 10.2 to the Registrant's Registration Statement on Form
+        S-8 filed January 30, 1998, SEC File No. 333-45271.
+
+(10)    Filed as exhibit 10.15 to the Registrant's Registration Statement on
+        Form S-8 filed August 7, 1998, SEC File No. 333-60887.
+
+
+        (b)REPORT ON FORM 8-K.
+
+               None.
+
+
+
+
+
+                                   SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized on September 28, 1998.
+
+                             KLA-Tencor Corporation
+                             By:    /s   / Kenneth Levy
+                                -------------------------------
+                             Kenneth Levy, Chief Executive Officer
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the registrant and
+in the capacities and on the dates indicated.
+
+
+
+
+
+
+
+
+                                  EXHIBIT INDEX
+
+
+
+
+
+

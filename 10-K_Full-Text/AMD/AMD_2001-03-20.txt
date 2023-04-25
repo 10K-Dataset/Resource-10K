@@ -1,0 +1,2111 @@
+
+10-K405
+0001.txt
+FORM 10-K405
+
+
+
+
+================================================================================
+
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C. 20549
+
+                                   FORM 10-K
+
+(Mark One)
+[X]  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934.
+     For the fiscal year ended December 31, 2000
+
+                                      OR
+
+[_]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934.
+     For the transition period from           to
+
+                         Commission File Number 1-7882
+                         ADVANCED MICRO DEVICES, INC.
+            (Exact name of registrant as specified in its charter)
+
+                     Delaware                                 94-1692300
+           (State or other jurisdiction                    (I.R.S. Employer
+         of incorporation or organization)               Identification No.)
+
+                  One AMD Place,
+               Sunnyvale, California                            94086
+     (Address of principal executive offices)                 (Zip Code)
+
+      Registrant's telephone number, including area code: (408) 732-2400
+
+          Securities registered pursuant to Section 12(b) of the Act:
+
+                                                       (Name of each exchange
+               (Title of each class)                    on which registered)
+               ---------------------                    --------------------
+            $.01 Par Value Common Stock               New York Stock Exchange
+
+          Securities registered pursuant to Section 12(g) of the Act:
+
+                                     None
+
+    Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X] No [ ]
+
+    Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K [X]
+
+    Aggregate market value of the voting stock held by non-affiliates as of
+February 26, 2001.
+
+                               $7,175,108,834
+
+    Indicate the number of shares outstanding of each of the registrant's
+classes of common stock, as of the latest practicable date.
+
+                 314,747,355 shares as of February 26, 2001.
+- --------------------------------------------------------------------------------
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+(1) Portions of the Annual Report to Stockholders for the fiscal year ended
+    December 31, 2000, are incorporated into Parts II and IV hereof.
+(2) Portions of the Proxy Statement for the Annual Meeting of Stockholders to be
+    held on April 26, 2001, are incorporated into Part III hereof.
+
+================================================================================
+
+    AMD, Advanced Micro Devices, AMD-K6, AMD Athlon, AMD Duron and 3DNow! are
+either our trademarks or our registered trademarks. Vantis is a trademark of
+Lattice Semiconductor Corporation. Microsoft, Windows, Windows NT and MS-DOS are
+either registered trademarks or trademarks of Microsoft Corporation. Alpha is a
+trademark of Compaq Computer Corporation. Pentium is a registered trademark of
+Intel Corporation. Other terms used to identify companies and products may be
+trademarks of their respective owners.
+
+
+                                    PART I
+
+ITEM 1. BUSINESS
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+     The statements in this report that are forward-looking are based on current
+expectations and beliefs and involve numerous risks and uncertainties that could
+cause actual results to differ materially. The forward-looking statements relate
+to, among other things, operating results; anticipated cash flows; capital
+expenditures; adequacy of resources to fund operations and capital investments;
+our ability to increase customer and market acceptance of AMD Athlon(TM) and AMD
+Duron(TM) microprocessors, our seventh-generation microprocessors; our ability
+to maintain average selling prices for our seventh-generation microprocessors;
+our ability, and the ability of third parties, to provide timely infrastructure
+solutions (chipsets and motherboards) to support our microprocessors; the effect
+of foreign currency hedging transactions; our new submicron integrated circuit
+manufacturing and design facility located in Dresden, Germany (Dresden Fab 30);
+our ability to ramp production in Dresden Fab 30 and the Fujitsu AMD
+Semiconductor Limited (FASL) manufacturing facilities. For a discussion of the
+factors that could cause actual results to differ materially from the forward-
+looking statements, see the "Financial Condition" and "Risk Factors" sections
+set forth in "Management's Discussion and Analysis of Financial Condition and
+Results of Operations" contained in our 2000 Annual Report to Stockholders, and
+such other risks and uncertainties as set forth below in this report or detailed
+in our other Securities and Exchange Commission reports and filings.
+
+
+General
+
+     Advanced Micro Devices, Inc. was incorporated under the laws of Delaware on
+May 1, 1969. Our mailing address and executive offices are located at One AMD
+Place, Sunnyvale, California 94086, and our telephone number is (408) 732-2400.
+Unless otherwise indicated, references to "AMD," "we" and "us" in this report
+include our subsidiaries.
+
+     We are a semiconductor manufacturer with manufacturing facilities in the
+U.S., Europe and Asia and sales offices throughout the world. Our products
+include a wide variety of industry-standard digital integrated circuits (ICs)
+which are used in many diverse product applications such as telecommunications
+equipment, data and network communications equipment, consumer electronics,
+personal computers (PCs), workstations and servers.
+
+     For segment information with respect to sales, operating results and
+identifiable assets, refer to the information set forth in Note 9 of the
+Consolidated Financial Statements contained in our 2000 Annual Report to
+Stockholders.
+
+     For a discussion of the risk factors related to our business operations,
+please see the "Cautionary Statement Regarding Forward-Looking Statements,"
+"Risk Factors" and "Financial Condition" sections set forth in "Management's
+Discussion and Analysis of Financial Condition and Results of Operations"
+contained in our 2000 Annual Report to Stockholders.
+
+
+ The IC Industry
+
+     The IC market has grown dramatically over the past ten years, driven
+primarily by the demand for electronic business and consumer products. Today,
+virtually all electronic products use ICs, including PCs and related
+peripherals, voice and data communications and networking products, facsimile
+and photocopy machines, home entertainment equipment, industrial control
+equipment and automobiles.
+
+     The market for ICs can be divided into separate markets for digital and
+analog devices. We participate primarily in the market for digital ICs. The
+three types of digital ICs used in most electronic systems are:
+
+     .  microprocessors, which are used for control and computing tasks, and
+        complementary chipset devices;
+
+     .  memory circuits, which are used to store data and programming
+        instructions; and
+
+     .  logic circuits, which are employed to manage the interchange and
+        manipulation of digital signals.
+
+A discussion of the principal parts of the digital IC market in which we
+participate follows.
+
+
+
+ The Microprocessor Market
+
+     The microprocessor market is comprised of two broad categories, which are
+based on the function of the products. A microprocessor that performs computing
+tasks is known as the Central Processing Unit (CPU) of a computer system.
+Microprocessors used for control applications are often referred to as embedded
+processors. AMD participates primarily in the CPU category, which is the largest
+category within the microprocessor market.
+
+     A CPU processor is an IC generally consisting of millions of transistors
+that serves as the brain of a computer system such as a PC. The microprocessor
+is typically the most critical component to the performance and efficiency of a
+PC. The microprocessor controls data flowing through the electronic system and
+manipulates such data as specified by the hardware or software which controls
+the system. In 1981, IBM introduced its first PC containing a microprocessor
+based upon the x86 instruction set developed by Intel Corporation and utilizing
+the Microsoft(R) Corporation MS-DOS(R) operating system. As circuit design and
+very large scale integration process technology have evolved, performance and
+functionality of each new generation of x86 microprocessors have increased. The
+x86 microprocessor market has been dominated by Intel since IBM's introduction
+of the PC.
+
+     The x86 microprocessor market is characterized by intense competition,
+short product life cycles, and rapid advances in product design and process
+technology. Today, the greatest demand for microprocessors is from PC
+manufacturers. With few exceptions, PC manufacturers require x86 microprocessors
+which are Microsoft Windows(R) compatible. Improvements in the performance
+characteristics of microprocessors and decreases in production costs resulting
+from advances in process technology have broadened the market for PCs and
+increased the demand for microprocessors.
+
+     The PC original equipment manufacturer (OEM) market is highly competitive.
+Most PC suppliers have evolved from fully integrated manufacturers with
+proprietary system designs to vendors focused on building brand recognition and
+distribution capabilities. Almost all of these suppliers now rely on Intel or on
+third-party manufacturers for the major subsystems of their PCs, such as the
+motherboard and chipsets. These suppliers are also increasingly outsourcing the
+design and manufacture of complete systems. The third-party manufacturers of
+these subsystems, based primarily in Asia, are focused on providing PCs,
+motherboards and complementary chipset devices that incorporate the latest
+trends in features and performance at low prices. Increasingly, these third-
+party manufacturers are also supplying fully configured PC systems through
+alternative distribution channels.
+
+     Embedded processors are also an important part of the microprocessor
+market. Embedded processors are general purpose devices used to carry out a
+single application with limited user interface and programmability. A system
+designed around an embedded processor usually cannot be programmed by an end
+user because the system is preprogrammed to execute a specific task. Key markets
+for embedded processors include telecommunications, networking, office
+automation, storage, automotive applications and industrial control.
+
+
+ The Memory Market
+
+     Memory ICs store data and instructions, and are characterized as either
+volatile or non-volatile. Volatile devices lose their stored information after
+electrical power is shut off, while non-volatile devices retain their stored
+information. The three most significant categories of semiconductor memory are
+(1) Dynamic Random Access Memory (DRAM) and (2) Static Random Access Memory
+(SRAM), both of which are volatile memories, and (3) non-volatile memory, which
+includes Read-Only Memory (ROM), Erasable Programmable Read-Only Memory (EPROM),
+Electrically Erasable Electrically Programmable Read-Only Memory (EEPROM) and
+Flash memory devices. DRAM provides large capacity main memory, and SRAM
+provides specialized high-speed memory. We do not produce any DRAM products,
+which are the largest part of the memory market, or SRAM products. Flash and
+other non-volatile memory devices are used in applications in which data must be
+retained after power is turned off. However, ROM cannot be rewritten, EPROM
+requires ultraviolet light as part of an erasure step before it can be
+rewritten, and EEPROM utilizes a larger, more expensive, memory cell.
+
+     Several factors have contributed to an increasing demand for memory devices
+in recent years, including the:
+
+     .  expanding unit sales of PCs in the business and consumer markets;
+     .  increasing use and functionality of cellular phones;
+     .  increasing use of PCs to perform memory-intensive graphics and
+        multimedia functions;
+     .  volume of memory required to support faster microprocessors;
+     .  proliferation of increasingly complex PC software; and
+     .  increasing performance requirements of workstations, servers and
+        networking and telecommunications equipment.
+
+     Flash memory devices are being utilized for an expanding range of uses.
+Flash memory devices have a size and cost advantage over EEPROM devices, and the
+ability of Flash memory devices to be electrically rewritten to update
+parameters or
+
+
+
+system software provides greater flexibility and ease of use than other non-
+volatile memory devices, such as ROM or EPROM devices. Flash memory devices can
+store control programs and system-critical data in communication devices such as
+cellular telephones and routers (devices used to transfer data between local
+area networks). Another common application for Flash memory product is in PC
+cards, which are inserted into notebook and subnotebook computers or personal
+digital assistants to provide added data storage.
+
+
+ The Logic Market
+
+     Logic devices consist of structurally interconnected groupings of simple
+logical "AND" and logical "OR" functions, commonly described as "gates."
+Typically, complex combinations of individual gates are required to implement
+the specialized logic functions required for system applications. The greater
+the number of gates on a logic device, the higher that logic device's density
+and, in general, device cost (for a particular process and architecture). Logic
+devices are generally grouped into five families of products (from lowest
+density to highest density):
+
+     .  standard logic devices;
+     .  programmable logic devices (PLDs);
+     .  conventional gate-arrays;
+     .  standard cells; and
+     .  full custom ICs.
+
+Conventional gate-arrays, standard cells and full-custom ICs are often referred
+to as application-specific ICs (ASICs).
+
+     Many manufacturers of electronic systems are striving to develop new and
+increasingly complex products to address evolving market opportunities rapidly.
+Achievement of this goal often precludes the use of standard logic ICs and
+ASICs. Standard logic ICs generally perform simple functions and are not
+customizable, limiting a manufacturer's ability to adequately tailor an end-
+product system. Although ASICs can be manufactured to perform customized
+functions, they generally involve relatively high initial design, engineering
+and manufacturing costs, significant design risks, and may increase an end-
+product's time to market. As a result, ASICs are generally limited to high-
+volume products and products for which time to market may be less critical.
+
+     A growing category of the full custom IC market is Application Specific
+Standard Products (ASSPs). In this category, a full custom design, such as an
+Ethernet controller, is used to implement a particular function and is sold to
+multiple customers. Because the market requirements for these products have
+become increasingly standard, they can achieve the cost advantages of full
+custom design with the time to market advantages of a standard product. Almost
+all of our networking products are a part of the ASSP category.
+
+     Unlike ASICs and standard logic ICs, PLDs are standard products,
+purchased by system manufacturers in an unprogrammed or blank state. Each
+system manufacturer may then program the PLDs to perform a variety of specific
+logic functions. Certain PLDs are reprogrammable. Compared to standard logic
+ICs and ASICs, PLDs allow system designers to design and implement custom
+logic more quickly. On June 15, 1999, we sold Vantis Corporation (Vantis), our
+PLD subsidiary, to Lattice Semiconductor Corporation (Lattice), and we now
+function as a foundry and provide administrative services to Vantis.
+
+
+Product Segments
+
+     In 2000, we participated in all three technology areas within the IC
+market--microprocessors, memory circuits and logic circuits--through our Core
+Products, Voice Communications and Foundry Services segments. Our Core Products
+segment includes our PC processors, Memory products and Other IC products. PC
+processors include AMD seventh-generation microprocessors and AMD-K6(R)
+microprocessors. Memory products include Flash memory devices and EPROM devices.
+Other IC products include embedded processors, platform products and networking
+products. Our Voice Communications segment consisted of our voice communications
+products subsidiary, Legerity, Inc. (Legerity), until July 31, 2000, the
+effective date of its sale. Our Foundry Services segment consists of fees for
+services that we provide to Legerity and Vantis, our former PLD subsidiary.
+
+     On August 4, 2000, we completed the sale of 90 percent of Legerity for
+approximately $375 million in cash, effective July 31, 2000. We retained a ten
+percent ownership interest in Legerity and a warrant to acquire approximately an
+additional ten percent. As part of the transaction, we entered into various
+service contracts with Legerity to continue to provide, among other things,
+wafer fabrication and assembly, test, mark and pack services to Legerity.
+
+
+Core Products
+
+     Core Products ($4.361 billion, or 94 percent, of our 2000 net sales)
+include PC processor, memory and other IC products, with the majority of the
+Core Products segment's net sales being derived from PC processors and Flash
+memory devices.
+
+
+
+PC Processors
+
+     In 2000, our most significant microprocessor product sales were from the
+AMD Athlon(TM) and AMD Duron(TM) processors, our seventh-generation
+microprocessor products. The AMD Athlon and AMD Duron microprocessors are based
+on superscalar RISC architecture and are designed to be compatible with
+operating system software such as Windows 2000, Windows NT(R), Windows 98 (and
+their predecessor operating systems), Linux, Netware and UNIX.
+
+     We began volume shipments of AMD Athlon microprocessors in the second half
+of 1999. The AMD Athlon processor is an x86-compatible, seventh-generation
+design featuring:
+
+     .  a superpipelined, nine-issue superscalar microarchitecture optimized for
+        high clock frequency;
+     .  a fully pipelined, superscalar floating point unit;
+     .  high-performance backside L2 cache interface;
+     .  enhanced 3DNow!(TM) technology with 24 additional instructions designed
+        to improve integer math calculations, data movements for Internet
+        streaming, and digital signal processor (DSP) communications; and
+     .  a system bus which is a 200 MHz system interface based on the Alpha(TM)
+        EV6 bus protocol with support for scalable multiprocessing.
+
+     We began shipments of AMD Duron processors in the second half of 2000. The
+AMD Duron processor, a derivative of the AMD Athlon processor core, is designed
+to provide an optimized solution for value-conscious business and home users,
+and features:
+
+     .  full-speed, on-chip L2 cache memory;
+     .  a 200 MHz front side system bus; and
+     .  a superscalar floating point unit with enhanced 3DNow! technology.
+
+Our overall PC processor sales growth in 2001 depends upon a continuing
+successful production ramp in Dresden Fab 30, timely volume availability of
+chipsets and motherboards from third party suppliers and increasing commercial
+and consumer market acceptance of AMD Athlon and AMD Duron microprocessors.
+
+     Our microprocessor products have and will continue in 2001 and 2002 to
+make significant contributions to our overall revenues, profit margins and
+operating results. We plan to continue to make significant capital expenditures
+to support our microprocessor products both in the near and long term. Our
+ability to increase microprocessor product revenues, and benefit fully from the
+substantial financial investments and commitments we have made and continue to
+make related to microprocessors, depends upon the success of our seventh-
+generation and future generations of microprocessors beginning with the "Hammer"
+family of microprocessors that we plan to introduce in 2002. The Hammer
+processors will be our first processors capable of 64-bit operation, and are
+being designed to deliver leading-edge performance on both the 64-bit software
+used by high-end workstations and servers and the 32-bit software used by the
+majority of desktop users.
+
+     The microprocessor market is characterized by short product life cycles and
+migration to ever higher performance microprocessors. To compete successfully
+against Intel in this market, we must transition to new process technologies at
+a fast pace and offer higher performance microprocessors in significantly
+greater volumes.  We must achieve acceptable yields while producing
+microprocessors at higher speeds.
+
+     Intel has dominated the market for microprocessors used in PCs for many
+years. Because of its dominant market position, Intel has historically set and
+controlled x86 microprocessor and PC system standards and, thus, dictated the
+type of product the market requires of Intel's competitors. In addition, Intel
+may and does vary prices on its microprocessors and other products at will and
+thereby affects the margins and profitability of its competitors due to its
+financial strength and dominant position. Intel also exerts substantial
+influence over PC manufacturers and their channels of distribution through the
+"Intel Inside" brand and other marketing programs. Intel invests billions of
+dollars in, and as a result exerts influence over, many other technology
+companies. We expect Intel to continue to invest heavily in research and
+development, new manufacturing facilities and other technology companies, and to
+remain dominant:
+
+     .  through the Intel Inside and other marketing programs;
+     .  through other contractual constraints on customers, retailers, industry
+        suppliers and other third parties;
+     .  by controlling industry standards; and
+     .  by controlling supply and demand of motherboards, chipsets and other
+        system components.
+
+
+
+     As an extension of its dominant microprocessor market share, Intel also
+dominates the PC platform. As a result, PC manufacturers have been increasingly
+unable to innovate and differentiate their product offerings. We do not have the
+financial resources to compete with Intel on such a large scale. As long as
+Intel remains in this dominant position, we may be materially and adversely
+affected by its:
+
+     .  product mix and introduction schedules;
+     .  product bundling, marketing, merchandising and pricing strategies;
+     .  control over industry standards, PC manufacturers and other PC industry
+        participants, including motherboard, chipset and basic input/output
+        system (BIOS) suppliers; and
+     .  customer brand loyalty.
+
+     As Intel expanded its dominance over the PC system platform, many PC
+manufacturers reduced their system development expenditures and now purchase
+microprocessors together with chipsets or in assembled motherboards from Intel.
+PC OEMs are increasingly dependent on Intel, less innovative on their own and,
+to a large extent, distributors of Intel technology. In marketing our
+microprocessors to these OEMs and dealers, we depend upon companies other than
+Intel for the design and manufacture of core logic chipsets, graphics chips,
+motherboards, BIOS software and other components. In recent years, many of these
+third-party designers and manufacturers have lost significant market share to
+Intel. In addition, these companies produce chipsets, motherboards, BIOS
+software and other components to support each new generation of Intel's
+microprocessors only if Intel makes information about its products available to
+them in time to address market opportunities. Delay in the availability of such
+information makes, and will continue to make, it increasingly difficult for
+these third parties to retain or regain market share.
+
+     To compete with Intel in the microprocessor market in the future, we intend
+to continue to form close relationships with third-party designers and
+manufacturers of chipsets, motherboards, graphics chips, BIOS software and other
+components. Similarly, we intend to expand our chipset and system design
+capabilities, and to offer OEMs licensed system designs incorporating our
+processors and companion products. We cannot be certain, however, that our
+efforts will be successful.
+
+     We do not currently plan to develop microprocessors that are bus interface
+protocol compatible with the Pentium III, Pentium IV and Celeron processors
+because our patent cross-license agreement with Intel does not extend to
+microprocessors that are bus interface protocol compatible with Intel's sixth
+and subsequent generation processors. Thus, the AMD Athlon and AMD Duron
+microprocessors are not designed to function with motherboards and chipsets
+designed to work with Intel microprocessors. The same will be true of our Hammer
+family microprocessors.  Our ability to compete with Intel in the market for
+seventh-generation and future generation microprocessors will depend on our:
+
+     .  success in designing and developing the microprocessors; and
+     .  ability to ensure that the microprocessors can be used in PC platforms
+        designed to support our microprocessors, or that platforms are available
+        which support both Intel processors and our processors.
+
+
+Memory Products
+
+     Our Flash memory devices are used in cellular telephones, networking
+equipment and other applications that require memory to be non-volatile and
+electrically rewritten. This feature provides greater flexibility and ease of
+use than EPROMs and other similar integrated circuits that cannot be
+electrically rewritten. Flash memory devices also have a size and cost advantage
+over EEPROM devices. Communications companies use Flash memory devices in
+cellular telephones and related equipment to enable users to add and modify
+frequently called numbers and to allow manufacturers to preprogram firmware and
+other information. In networking applications, Flash memory devices are used in
+hubs, switches and routers to enable systems to store firmware and reprogrammed
+Internet addresses and other routing information. Use of Flash memory devices is
+proliferating into a variety of other applications, such as set-top boxes,
+automotive control systems, personal digital assistants, digital cameras and
+other consumer electronic items.
+
+     Competition in the market for Flash memory devices will increase in 2001
+and beyond as existing manufacturers introduce new products and industry-wide
+production capacity increases. In 2000, almost all of our Flash memory devices
+were produced in Japan through Fujitsu AMD Semiconductor Limited (FASL), our
+joint venture with Fujitsu Limited.
+
+     EPROMs represent an older generation of erasable, programmable read-only
+memory technology which is used primarily in the electronic equipment industry.
+These devices are used in cellular telephones, wireless base stations,
+telecommunication
+
+
+
+switching equipment, automotive applications, PC hard disk drives, printer
+controllers, industrial machine controls and numerous other types of electronic
+equipment to store firmware which controls the equipment's operation. EPROMs are
+generally preferred over more expensive Flash memory devices in applications
+where end users do not need to reprogram the information stored on the IC. We
+believe the market for EPROMs, which is significantly smaller than the market
+for Flash memory devices, will continue to decline as EPROMs are replaced in
+various applications by Flash memory devices.
+
+
+Other ICs
+
+     Embedded Processors. Our embedded processors are x86 software compatible
+general purpose processors designed specifically for embedded applications. Our
+16-bit family of E86 embedded processors are built around the C186/C188
+processor with additional integrated features such as additional memory, serial
+ports, high-level data link control channels, or universal serial bus ports. Our
+32-bit E86 family of embedded processors includes the AMD-K6-2E+, AMD-K6-IIIE+
+and Am(R)486 discrete processors as well as the Elan(TM)SC400 and ElanSC520
+fully integrated processors. Our Elan processors integrate the PC AT peripheral
+set on chip to serve small form factor applications.
+
+     Platform Products. Our platform products include chipsets and motherboard
+reference design kits designed to support AMD seventh-generation
+microprocessors for use in PCs. As the AMD Athlon and AMD Duron
+microprocessors do not function with chipsets and motherboards designed to
+work with Intel microprocessors, we must develop compatible platform products.
+We license the design interface specifications for these products to third-
+party manufacturers to facilitate the sale of our microprocessors. It is
+possible that from time to time a third-party manufacturer will be unable to
+make chipset products available to the market in a timely manner corresponding
+with the introduction of our microprocessor products. As the lack of
+availability of these third-party chipsets could impact our ability to sell
+our microprocessors, we manufacture a quantity of chipsets within our own
+fabrication facilities or our authorized foundries on a limited basis. We are
+then able to have a supply of products available for sale, should the need
+exist, until they are available from the third-party manufacturers.
+
+     Networking Products. Our networking products include logic devices that are
+used in the data communication and networking industry to establish and manage
+connectivity.
+
+     Our product portfolio encompasses the following local area network (LAN)
+products:
+
+     .  home networking controllers and physical layer products;
+     .  Ethernet controllers supporting the enterprise and small business
+        networking areas;
+     .  Ethernet physical layer and repeater products which are used in
+        enterprise and small business systems solutions; and
+     .  Ethernet physical layer and switch products which are used in
+        enterprise, small business and telecommunication systems.
+
+
+Voice Communications
+
+     Voice Communications Products ($140 million, or 3 percent, of our 2000
+net sales) included the voice telecommunications products of our former
+subsidiary, Legerity. These products are used in infrastructure equipment such
+as central office switches, digital loop carriers and digital subscriber loop
+access multiplexers (DSLAMS), and in customer premise equipment such as
+wireless local loop systems, cable telephony systems, private branch exchange
+equipment and voice over digital subscriber line (DSL) systems. In modern
+telephone communications systems, voice communications are generally transmitted
+between the speaker and the central office switch in analog format, but are
+switched and transmitted over longer distances in digital format. Legerity's
+subscriber line interface circuits (SLIC) for line cards connect the user's
+telephone wire to the telephone company's digital switching equipment.
+Legerity's SLAC(TM) line cards are coder/decoders which convert analog voice
+signals to a digital format and back. Legerity's DSL products include a
+coder/decoder device and a modem device for use in DSLAM applications.
+Legerity's cordless telephony products include a baseband controller for the 900
+MHz narrow band digital cordless market. On August 4, 2000, we completed the
+sale of 90 percent of Legerity for approximately $375 million in cash to
+Francisco Partners, L.P., effective July 31, 2000. We retained a ten percent
+ownership interest in Legerity and a warrant to acquire approximately an
+additional ten percent. As part of the transaction, we entered into various
+service contracts with Legerity to continue to provide, among other things,
+wafer fabrication and assembly, test, mark and pack services to Legerity.
+
+
+Foundry Services
+
+     Foundry Services ($142 million, or 3 percent of our 2000 net sales) include
+fees for services provided to Lattice and Legerity.
+
+
+Research and Development; Manufacturing Technology
+
+     Our expenses for research and development were $642 million in 2000, $636
+million in 1999 and $567 million in 1998. These expenses represented 14 percent
+of net sales in 2000, 22 percent of net sales in 1999 and 22 percent of net
+sales in 1998.
+
+
+
+Our research and development expenses are charged to operations as they are
+incurred. Most of our research and development personnel are integrated into the
+engineering staff.
+
+     Manufacturing technology is the key determinant in the improvement in most
+semiconductor products. Each new generation of process technology has resulted
+in products with higher speeds and greater performance produced at lower cost.
+We continue to make significant infrastructure investments to enable us to
+continue to achieve high volume, high reliability and low cost production using
+leading edge process technology.
+
+     Our efforts concerning process technologies are focused in two major areas:
+logic technology used by our microprocessors and embedded processors, and non-
+volatile memory technology used by Flash memory products. Our goals are to
+improve product performance, increase manufacturing volumes and reduce unit
+costs.
+
+     In order to remain competitive, we must continue to make substantial
+investments in the improvement of our process technologies. In particular, we
+have made and continue to make significant research and development
+investments in the technologies and equipment used to fabricate our
+microprocessor products and our Flash memory devices. Portions of these
+investments might not be fully recovered if we fail to continue to gain market
+acceptance or if the market for our Flash memory products should significantly
+deteriorate. In addition, if we are unable to remain competitive with respect
+to process technology we will be materially and adversely affected.
+
+
+Competition
+
+     The IC industry is intensely competitive and, historically, has experienced
+rapid technological advances in product and system technologies. After a product
+is introduced, costs and average selling prices normally decrease over time as
+production efficiency and competition increase, and as successive generations of
+products are developed and introduced for sale. Technological advances in the
+industry result in frequent product introductions, regular price reductions,
+short product life cycles and increased product capabilities that may result in
+significant performance improvements. Competition in the sale of ICs is based
+on:
+
+     .  performance;
+     .  product quality and reliability;
+     .  price;
+     .  adherence to industry standards;
+     .  software and hardware compatibility;
+     .  marketing and distribution capability;
+     .  brand recognition;
+     .  financial strength; and
+     .  ability to deliver in large volumes on a timely basis.
+
+     In each market in which we participate, we face competition from different
+groups of companies. With respect to microprocessors, Intel holds a dominant
+market position. With respect to Flash memory products, our principal
+competitors are Intel, STMicroelectronics N.V., Sharp Electronics Corporation
+and Atmel Corporation. We also compete to a lesser degree with Fujitsu, our
+joint venture partner in FASL. With respect to the voice communications products
+of Legerity, our principal competitors through August 4, 2000, the date we
+completed the sale of Legerity, were Infineon Corporation, Lucent Technologies
+Inc., Intersil Corporation and LM Ericsson.
+
+
+
+Manufacturing Facilities
+
+     Our current IC manufacturing facilities are described in the chart set
+forth below:
+
+
+__________
+(1) We own 49.992 percent of FASL. Fujitsu owns 50.008 percent of FASL.
+
+    In July 2000, FASL broke ground for a third fabrication facility, FASL JV3,
+for the manufacture of Flash memory devices in Aizu-Wakamatsu. As of December
+31, 2000, the building was complete and the clean room was under construction.
+We also have foundry arrangements for the production of our products by third
+parties.
+
+    Our Submicron Development Center is a 42,000 square foot research and
+development facility located in Sunnyvale, California.
+
+    Our current assembly and test facilities are described in the chart set
+forth below:
+
+
+
+    Foreign manufacturing and construction of foreign facilities entails
+political and economic risks, including political instability, expropriation,
+currency controls and fluctuations, changes in freight and interest rates, and
+loss or modification of exemptions for taxes and tariffs. For example, if we
+were unable to assemble and test our products abroad, or if air transportation
+between the United States and our overseas facilities were disrupted, there
+could be a material adverse effect on our business.
+
+    Certain Material Agreements. Set forth below are descriptions of certain
+material contractual relationships we have relating to FASL, Dresden Fab 30 and
+Motorola.
+
+    FASL. In 1993, we formed FASL, a joint venture with Fujitsu, for the
+development and manufacture of Flash memory devices. FASL operates advanced IC
+manufacturing facilities in Aizu-Wakamatsu, Japan (FASL JV1 and FASL JV2), for
+the production of Flash memory devices. FASL JV1 began volume production in the
+first quarter of 1995, and utilizes eight-inch wafer processing technologies
+capable of producing products with geometrics of .35-micron or smaller. FASL is
+continuing the facilitization of FASL JV2, which began volume production in
+1999, and also utilizes eight-inch wafer processing technologies.
+
+    FASL JV3, described above under "Manufacturing Facilities," is expected to
+cost approximately $1.5 billion when fully equipped. Capital expenditures for
+FASL JV2 and FASL JV3 construction to date have been funded by cash generated
+from FASL operations and local borrowings by FASL. However, to the extent that
+FASL is unable to secure the necessary funds for FASL JV2 and FASL JV3, we may
+be required to contribute cash or guarantee third-party loans in proportion to
+our 49.992 percent interest in FASL. As of December 31, 2000, we had $38 million
+in loan guarantees outstanding with respect to these loans. These planned costs
+are denominated in yen and are, therefore, subject to change due to foreign
+exchange rate fluctuations. At the end of 2000, the exchange rate was
+approximately 112.52 yen to one U.S. dollar.
+
+    In connection with FASL, AMD and Fujitsu have entered into various joint
+development, cross-license and investment arrangements. Pursuant to these
+agreements, the companies are providing their product designs and process and
+manufacturing technologies to FASL. In addition, both companies are
+collaborating in developing manufacturing processes and designing Flash memory
+devices for FASL. The right of each company to use the licensed intellectual
+property of the other with respect to certain products is limited both in scope
+and geographic areas. For instance, AMD and Fujitsu have cross-licensed their
+respective intellectual property to produce stand-alone Flash memory devices
+with geometrics of 0.5-micron or smaller within the joint venture. Furthermore,
+our ability to sell Flash memory products incorporating Fujitsu intellectual
+property, whether or not produced by FASL, is also limited in certain
+territories, including Japan and Asia (excluding Taiwan). Fujitsu is likewise
+limited in its ability to sell Flash memory devices incorporating our
+intellectual property, whether or not produced by FASL, in certain territories
+including the United States and Taiwan.
+
+    Dresden Fab 30. AMD Saxony Manufacturing GmbH (AMD Saxony), an indirect
+wholly owned German subsidiary of AMD, operates Dresden Fab 30 which began
+production in the second quarter of 2000. AMD, the Federal Republic of Germany,
+the State of Saxony and a consortium of banks are supporting the project. We
+currently estimate construction and facilitization costs of Dresden Fab 30 will
+be approximately $2.3 billion when the facility is fully equipped by the end of
+2003. In
+
+
+March 1997, AMD Saxony entered into a loan agreement and other related
+agreements (the Dresden Loan Agreements) with a consortium of banks led by
+Dresdner Bank AG. Because most of the amounts under the Dresden Loan Agreements
+are denominated in deutsche marks, the dollar amounts set forth below are
+subject to change based on applicable conversion rates. We used the exchange
+rate at the end of 2000, which was approximately 2.20 deutsche marks to one U.S.
+dollar, to value the amounts denominated in deutsche marks. The Dresden Loan
+Agreements provide for the funding of the construction and facilitization of
+Dresden Fab 30. The funding consists of:
+
+     .  equity, subordinated loans and loan guarantees from AMD;
+     .  loans from a consortium of banks; and
+     .  grants, subsidies and loan guarantees from the Federal Republic of
+        Germany and the State of Saxony.
+
+  The Dresden Loan Agreements require that we partially fund Dresden Fab 30
+project costs in the form of subordinated loans to, or equity investments in,
+AMD Saxony. In accordance with the terms of the Dresden Loan Agreements, we have
+invested $410 million as of December 31, 2000 in the form of subordinated loans
+to and equity in AMD Saxony.   In addition to support from AMD, the consortium
+of banks referred to above has made available $750 million in loans to AMD
+Saxony to help fund Dresden Fab 30 project costs. AMD Saxony had $375 million of
+such loans outstanding as of December 31, 2000.
+
+     Finally, the Federal Republic of Germany and the State of Saxony are
+supporting the Dresden Fab 30 project, in accordance with the Dresden Loan
+Agreements, in the form of:
+
+     .  guarantees of 65 percent of AMD Saxony bank debt up to a maximum of $750
+        million in bank debt;
+     .  capital investment grants and allowances totaling $287 million; and
+     .  interest subsidies totaling $141 million.
+
+     Of these amounts, AMD Saxony had received approximately $284 million in
+capital investment grants and allowances and $38 million in interest subsidies
+as of December 31, 2000. The grants and subsidies are subject to conditions,
+including meeting specified levels of employment in December 2001 and
+maintaining those levels until June 2007. Noncompliance with the conditions of
+the grants and subsidies could result in the forfeiture of all or a portion of
+the future amounts to be received as well as the repayment of all or a portion
+of amounts received to date. As of December 31, 2000, we were in compliance with
+all of the conditions of the grants and subsidies.
+
+     In February 2001, we amended the Dresden Loan Agreements to reflect new
+capacity and increased capital expenditure plans for Dresden Fab 30.  Under the
+February 2001 amendments, we agreed to increase and extend our guaranty of AMD
+Saxony's obligations and to make available to AMD Saxony revolving loans of up
+to $500 million.  We expanded our obligation to reimburse AMD Saxony for the
+cost of producing wafers for us and we also agreed to cancel the cost overrun
+facility made available by the banks.  Under the February 2001 amendments, we
+have been released from financial covenants limiting capital expenditures and
+requiring AMD Saxony to achieve capacity and production cost targets by the end
+of 2001.
+
+     The Dresden Loan Agreements, as amended, also require that we:
+
+     .  provide interim funding to AMD Saxony if either the remaining capital
+        investment allowances or the remaining interest subsidies are delayed,
+        such funding to be repaid to AMD as AMD Saxony receives the grants or
+        subsidies from the state of Saxony;
+     .  fund shortfalls in government subsidies resulting from any default under
+        the subsidy agreements caused by AMD Saxony or its affiliates; and
+     .  guarantee up to 35 percent of AMD Saxony's obligations under the Dresden
+        Loan Agreements, which guarantee must not be less than $99 million or
+        more than $273 million, until the bank loans are repaid in full.
+
+     We entered into foreign currency hedging transactions for Dresden Fab 30 in
+1998, 1999 and 2000 and anticipate entering into additional such foreign
+currency hedging transactions in 2001 and in future years. We use foreign
+currency forward and option contracts to reduce our exposure to currency
+fluctuations on our foreign currency exposures in our foreign sales
+subsidiaries, liabilities for products purchased from FASL and for foreign
+currency denominated fixed asset purchase commitments. The objective of these
+contracts is to minimize the impact of foreign currency exchange rate movements
+on our operating results and on the cost of capital asset acquisition. Our
+accounting policy for these instruments is based on our designation of such
+instruments as hedging transactions. We generally do not use derivative
+financial instruments for speculative or trading purposes.
+
+
+
+     Motorola. In 1998, we entered into an alliance with Motorola for the
+development of logic and Flash memory process technology. The alliance includes
+a seven-year technology development and license agreement, which was amended on
+January 21, 2000 to include certain additional technology, and a patent cross-
+license agreement. The agreements provide that we will co-develop with Motorola
+future generation logic process and embedded Flash technologies. In addition, we
+have received certain licenses to Motorola's semiconductor logic process
+technologies, including copper interconnect technology, which may be subject to
+variable royalty rates. In exchange, we have developed and licensed to Motorola
+a Flash module design to be used in Motorola's future embedded Flash products.
+Motorola will have additional rights, subject to certain conditions, to make
+stand-alone Flash devices, and to make and sell certain data networking devices.
+The rights to data networking devices may be subject to variable royalty payment
+provisions.
+
+
+Marketing and Sales
+
+     Our products are marketed and sold under the AMD trademark. We employ a
+direct sales force through our principal facilities in Sunnyvale, California,
+and field sales offices throughout the United States and abroad (primarily
+Europe and Asia Pacific). We also sell our products through third-party
+distributors and independent representatives in both domestic and international
+markets pursuant to nonexclusive agreements. The distributors also sell products
+manufactured by our competitors, including those products for which we are an
+alternate source. One of our OEMs, Compaq Computer Corporation, accounted for
+approximately 11 percent of our 2000 net sales. No other single distributor or
+OEM customer accounted for ten percent or more of our net sales in 2000.
+
+     Distributors typically maintain an inventory of our products. In most
+instances, our agreements with distributors protect their inventory of our
+products against price reductions, as well as products that are slow moving or
+have been discontinued. These agreements, which may be canceled by either party
+on a specified notice, generally allow for the return of our products if the
+agreement with the distributor is terminated. The market for our products is
+generally characterized by, among other things, severe price competition. The
+price protection and return rights we offer to our distributors could materially
+and adversely affect us if there is an unexpected significant decline in the
+price of our products.
+
+     Our international sales operations entail political and economic risks,
+including expropriation, currency controls, exchange rate fluctuations, changes
+in freight rates and changes in rates and exemptions for taxes and tariffs.
+
+
+Raw Materials
+
+     Certain raw materials we use in the manufacture of our products are
+available from a limited number of suppliers. For example, we are dependent on
+key chemicals from a limited number of suppliers, and a few foreign companies
+principally supply several types of the IC packages purchased by us.
+Interruption of supply, increased demand in the industry or currency
+fluctuations could cause shortages in various essential materials. We would have
+to reduce our manufacturing operations if we were unable to procure certain of
+these materials. This reduction in our manufacturing operations could have a
+material adverse effect on our business. To date, we have not experienced
+significant difficulty in obtaining the raw materials required for our
+manufacturing operations.
+
+
+Environmental Regulations
+
+     We could possibly be subject to fines, suspension of production, alteration
+of our manufacturing processes or cessation of our operations if we fail to
+comply with present or future governmental regulations related to the use,
+storage, handling, discharge or disposal of toxic, volatile or otherwise
+hazardous chemicals used in our manufacturing processes. Such regulations could
+require us to acquire expensive remediation equipment or to incur other expenses
+to comply with environmental regulations. Any failure to control the use,
+disposal or storage of, or adequately restrict the discharge of, hazardous
+substances could subject us to future liabilities and could have a material
+adverse effect on our business.
+
+
+Intellectual Property and Licensing
+
+     We have been granted over 3,700 United States patents, and have several
+thousand patent applications pending in the United States. In certain cases, we
+have filed corresponding applications in foreign jurisdictions. We expect to
+file future patent applications in both the United States and abroad on
+significant inventions as we deem appropriate.
+
+
+
+     In January 1995, we reached an agreement with Intel to settle all
+previously outstanding legal disputes between the two companies. As part of the
+settlement, in December 1995, we signed a five-year, comprehensive cross-license
+agreement with Intel which expired on December 31, 2000. We are currently
+negotiating a new agreement with Intel but there can be no assurance that a new
+agreement will be successfully negotiated. The lack of a patent cross-license
+with Intel could lead to expensive and time-consuming litigation, the outcomes
+of which could have a material adverse effect on our business.
+
+     In addition, we have entered into numerous cross-licensing and technology
+exchange agreements with other companies under which we both transfer and
+receive technology and intellectual property rights. Although we attempt to
+protect our intellectual property rights through patents, copyrights, trade
+secrets and other measures, we cannot give any assurance that we will be able to
+protect our technology or other intellectual property adequately or that
+competitors will not be able to develop similar technology independently. We
+cannot give any assurance that any patent applications that we may file will be
+issued or that foreign intellectual property laws will protect our intellectual
+property rights. We cannot give any assurance that any patent licensed by or
+issued to us will not be challenged, invalidated or circumvented, or that the
+rights granted thereunder will provide competitive advantages to us.
+Furthermore, we cannot give any assurance that others will not independently
+develop similar products, duplicate our products or design around our patents
+and other rights.
+
+     From time to time, we have been notified that we may be infringing
+intellectual property rights of others. If any claims are asserted against us,
+we may seek to obtain a license under the third party's intellectual property
+rights. We could decide, in the alternative, to resort to litigation to
+challenge these claims. These challenges could be extremely expensive and time-
+consuming and could materially and adversely affect our business. We cannot give
+any assurance that all necessary licenses can be obtained on satisfactory terms,
+or that litigation may always be avoided or favorably concluded.
+
+
+Backlog
+
+     We manufacture and market standard lines of products. Consequently, a
+significant portion of our sales are made from inventory on a current basis.
+Sales are made primarily pursuant to purchase orders for current delivery, or
+agreements covering purchases over a period of time, which are frequently
+subject to revision and cancellation without penalty. Generally, in light of
+current industry practice and experience, we do not believe that such agreements
+provide meaningful backlog figures or are necessarily indicative of actual sales
+for any succeeding period.
+
+
+Employees
+
+     On January 31, 2001, we employed approximately 14,696 employees, none of
+whom are represented by collective bargaining arrangements. We believe that our
+relationship with our employees is generally good.
+
+
+Executive Officers of the Registrant
+
+     W. J. Sanders III--Mr. Sanders, 64, is Chairman of the Board and Chief
+Executive Officer of Advanced Micro Devices, Inc. Mr. Sanders co-founded AMD in
+1969.
+
+     Hector de J. Ruiz--Dr. Ruiz, 55, is President and Chief Operating Officer
+of Advanced Micro Devices, Inc. Dr. Ruiz joined AMD in January 2000. Before
+joining AMD, Dr. Ruiz was President of Motorola Inc.'s Semiconductor Products
+Sector. Dr. Ruiz held various executive positions with Motorola since 1977.
+
+     Benjamin M. Anixter--Mr. Anixter, 63, is Vice President, External Affairs
+of Advanced Micro Devices, Inc., and has been since 1987. Mr. Anixter became a
+corporate officer in April of 1999. He has been with AMD since 1971.
+
+     Robert R. Herb--Mr. Herb, 39, is Executive Vice President, Chief Sales and
+Marketing Officer of Advanced Micro Devices, Inc. Mr. Herb joined AMD in 1983.
+In 1998, Mr. Herb became an officer of AMD and was promoted to Senior Vice
+President and Co-Chief Marketing Officer. From 1996 until 1998, Mr. Herb served
+as the Vice President of Group Strategic Marketing for the Computation Products
+Group. Before that, he was a director of marketing for the Personal Computer
+Products Division.
+
+
+
+     Walid Maghribi--Mr. Maghribi, 48, is Senior Vice President and President of
+the Memory Group of Advanced Micro Devices, Inc. Mr. Maghribi joined AMD in 1986
+and was Group Vice President, Memory Group before being promoted to Senior Vice
+President and President of the Memory Group in 2001. Before joining AMD, Mr.
+Maghribi was Director of Operations of Seeq Technology, after joining the
+company in 1982.
+
+     Thomas M. McCoy--Mr. McCoy, 50, is Senior Vice President, General Counsel
+and Secretary of Advanced Micro Devices, Inc. Before his appointment as Senior
+Vice President, Mr. McCoy held the office of Vice President, General Counsel and
+Secretary from 1995 to 1998. Before his appointment as Vice President, General
+Counsel and Secretary, Mr. McCoy was with the law firm of O'Melveny and Myers
+where he practiced law, first as an associate and then as a partner, from 1977
+to 1995.
+
+     Robert J. Rivet--Mr. Rivet, 46, is Senior Vice President and Chief
+Financial Officer of Advanced Micro Devices, Inc. Mr. Rivet joined AMD in
+September 2000. Before joining AMD, he was Senior Vice President and Director of
+Finance of the Semiconductor Products Sector of Motorola. Mr. Rivet served in a
+number of positions in Motorola Semiconductor operations since 1981, after
+joining the company in 1976 as a senior financial analyst and senior accountant.
+
+     William T. Siegle--Dr. Siegle, 62, is Senior Vice President, Technology and
+Manufacturing Operations, Chief Scientist of Advanced Micro Devices, Inc. Dr.
+Siegle was Group Vice President, Technology Development Group and Chief
+Scientist from 1997 until 1998. Before his appointment as Group Vice President,
+Dr. Siegle served as Vice President, Integrated Technology Department and Chief
+Scientist since 1990.
+
+     Stan Winvick--Mr. Winvick, 61, is Senior Vice President, Human Resources
+of Advanced Micro Devices, Inc. Before his appointment as Senior Vice President
+in 1991, Mr. Winvick served as Vice President, Human Resources since 1980.
+
+     Stephen J. Zelencik--Mr. Zelencik, 66, is Senior Vice President, Market
+Development of Advanced Micro Devices, Inc. Before his appointment as Senior
+Vice President, Market Development in 1999, Mr. Zelencik served as Senior Vice
+President and Co-Chief Marketing Officer. From 1979 until 1998, Mr. Zelencik was
+Senior Vice President and Chief Marketing Executive.
+
+
+ITEM 2. PROPERTIES
+
+     Our principal engineering, manufacturing, warehouse and administrative
+facilities comprise approximately 5.1 million square feet and are located in
+Sunnyvale, California; Austin, Texas; and Dresden, Germany. Over 3.1 million
+square feet of this space is in buildings we own.
+
+     We lease property containing two buildings with an aggregate of
+approximately 364,000 square feet, located on 45.6 acres of land in Sunnyvale,
+California (One AMD Place). The lease term ends in December 2018. In 2000, we
+renewed a lease agreement for approximately 175,000 square feet located adjacent
+to One AMD Place (known as AMD Square) to be used by the product groups as
+engineering offices and laboratory facilities.
+
+     We also own or lease facilities containing approximately 1.2 million square
+feet for our operations in Malaysia, Thailand, Singapore and China. We lease
+approximately 15 acres of land in Suzhou, China for our assembly and test
+facility. We acquired approximately 115 acres of land in Dresden, Germany for
+Dresden Fab 30. Dresden Fab 30 is encumbered by a lien securing borrowings of
+AMD Saxony. Fab 25, our fabrication facility in Austin, Texas, is encumbered by
+a lien securing our 11% Senior Secured Notes due 2003.
+
+     We lease 24 sales offices in North America, 11 sales offices in Asia
+Pacific, 10 sales offices in Europe and one sales office in South America for
+our direct sales force. These offices are located in cities in major electronics
+markets where concentrations of our customers are located.
+
+     Leases covering our facilities expire over terms of generally one to 20
+years. We currently do not anticipate significant difficulty in either retaining
+occupancy of any of our facilities through lease renewals prior to expiration or
+through month-to-month occupancy, or replacing them with equivalent facilities.
+
+
+
+ITEM 3. LEGAL PROCEEDINGS
+
+     1. Environmental Matters. Since 1981, we have discovered, investigated and
+begun remediation of three sites where releases from underground chemical tanks
+at our facilities in Santa Clara County, California, adversely affected the
+groundwater. The chemicals released into the groundwater were commonly in use in
+the semiconductor industry in the wafer fabrication process prior to 1979. At
+least one of the released chemicals (which we no longer use) has been identified
+as a probable carcinogen.
+
+     In 1991, we received four Final Site Clean-up Requirements Orders from the
+California Regional Water Quality Control Board, San Francisco Bay Region
+relating to the three sites. One of the orders named us as well as TRW
+Microwave, Inc. and Philips Semiconductors Corporation. In January 1999, we
+entered into a settlement agreement with Philips whereby Philips assumed costs
+allocated to us under this order, although we are responsible for these costs in
+the event that Philips does not fulfill its obligations under the settlement
+agreement. Another of the orders named us as well as National Semiconductor
+Corporation.
+
+     The three sites in Santa Clara County are on the National Priorities List
+(Superfund). If we fail to satisfy federal compliance requirements or
+inadequately perform the compliance measures, the government (1) can bring an
+action to enforce compliance or (2) can undertake the desired response actions
+itself and later bring an action to recover its costs, and penalties, which is
+up to three times the costs of clean-up activities, if appropriate. The statute
+of limitations has been tolled on the claims of landowners adjacent to the Santa
+Clara County Superfund sites for causes of action such as negligence, nuisance
+and trespass.
+
+     We have computed and recorded the estimated environmental liability in
+accordance with applicable accounting rules and have not recorded any potential
+insurance recoveries in determining the estimated costs of the cleanup. The
+amount of environmental charges to earnings has not been material during any of
+the last three fiscal years. We believe that the potential liability, if any, in
+excess of amounts already accrued with respect to the foregoing environmental
+matters will not have a material adverse effect on our business.
+
+     We received a notice dated October 14, 1998 from the Environmental
+Protection Agency (EPA) indicating that the EPA has determined AMD to be a
+potentially responsible party that arranged for disposal of hazardous substances
+at a site located in Santa Barbara County, California. We are currently in
+settlement discussions with the EPA and believe that any settlement will not
+have a material adverse effect on our financial condition or results of
+operations.
+
+     2. Securities Class Action Litigation. Between March 10, 1999 and April 22,
+1999, AMD and certain individual officers of AMD were named as defendants in a
+number of lawsuits that were consolidated under Ellis Investment Co., Ltd., et
+al v. Advanced Micro Devices, Inc. et al. Following appointment of lead counsel,
+the case was re-named Hall et al. v. Advanced Micro Devices, Inc., et al. On
+September 5, 2000, the parties stipulated to, and the United States District
+Court for the Northern District of California entered, an order whereby all
+plaintiffs' claims and causes of action against all defendants were voluntarily
+dismissed without prejudice.
+
+     3. Other Matters. We are a defendant or plaintiff in various other actions
+which arose in the normal course of business. In the opinion of management, the
+ultimate disposition of these matters will not have a material adverse effect on
+our business.
+
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     No matters were submitted to a vote of security holders during the fourth
+quarter of the fiscal year covered by this report.
+
+
+                                    PART II
+
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+     Our common stock (symbol AMD) is listed on the New York Stock Exchange. The
+information regarding market price range, dividend information and number of
+holders of our common stock appearing under the captions "Supplementary
+Financial Data" and "Financial Summary" on pages 46 and 47 of our 2000 Annual
+Report to Stockholders is incorporated herein by reference.
+
+
+
+     During 2000, we did not make any sales of our equity securities which were
+not registered under the Securities Act of 1933, as amended.
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+
+     The information regarding selected financial data for the fiscal years 1996
+through 2000, under the caption "Financial Summary" on page 47 of our 2000
+Annual Report to Stockholders is incorporated herein by reference.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+
+     The information appearing under the caption "Management's Discussion and
+Analysis of Financial Condition and Results of Operations" on pages 8 through
+22 of our 2000 Annual Report to Stockholders is incorporated herein by
+reference.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK
+
+
+     The information appearing under the caption "Quantitative and Qualitative
+Disclosure about Market Risk" on pages 14 through 15 of our 2000 Annual Report
+to Stockholders is incorporated herein by reference.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+
+     Our consolidated financial statements at December 31, 2000 and December 26,
+1999 and for each of the three years in the period ended December 31, 2000, and
+the report of independent auditors thereon, and our unaudited quarterly
+financial data for the two-year period ended December 31, 2000, appearing on
+pages 23 through 45 of our 2000 Annual Report to Stockholders are incorporated
+herein by reference.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURE
+
+
+     Not applicable.
+
+                                   PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+
+     The information under the captions "Item 1--Election of Directors" and
+"Section 16(a) Beneficial Ownership Reporting Compliance" in our Proxy Statement
+for our Annual Meeting of Stockholders to be held on April 26, 2001 (2001 Proxy
+Statement) is incorporated herein by reference.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+
+     The information under the captions "Directors' Compensation and Benefits,"
+"Committees and Meetings of the Board of Directors," "Executive Compensation,"
+"Employment Agreements" and "Change in Control Arrangements" in our 2001 Proxy
+Statement is incorporated herein by reference.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+
+     The information under the caption "Principal Stockholders and Security
+Ownership of Directors and Executive Officers" in our 2001 Proxy Statement is
+incorporated herein by reference.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+
+     The information under the caption "Certain Relationships and Related Party
+Transactions" in our 2001 Proxy Statement is incorporated herein by reference.
+
+
+
+     With the exception of the information specifically incorporated by
+reference in Part III of this Annual Report on Form 10-K from our 2001 Proxy
+Statement, our 2001 Proxy Statement shall not be deemed to be filed as part of
+this report. Without limiting the foregoing, the information under the captions
+"Board Compensation Committee Report on Executive Compensation," "Board Audit
+Committee Report" and "Performance Graph" in our 2001 Proxy Statement is not
+incorporated by reference in this Annual Report on Form 10-K.
+
+
+                                    PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+     (a)
+
+1. Financial Statements
+
+
+     The financial statements listed in the accompanying Index to Consolidated
+Financial Statements and Financial Statement Schedule covered by the Report of
+Independent Auditors are filed or incorporated by reference as part of this
+Annual Report on Form 10-K. The following is a list of such financial
+statements:
+
+
+
+
+2. Financial Statement Schedule
+
+     The financial statement schedule listed below is filed as part of this
+Annual Report on Form 10-K.
+
+
+
+     All other schedules have been omitted because the required information is
+not present or is not present in amounts sufficient to require submission of the
+schedules, or because the information required is included in the Consolidated
+Financial Statements or Notes thereto. With the exception of the information
+specifically incorporated by reference into Parts II and IV of this Annual
+Report on Form 10-K, the 2000 Annual Report to Stockholders is not to be deemed
+filed as part of this report.
+
+
+
+3. Exhibits
+
+     The exhibits listed in the accompanying Index to Exhibits are filed as part
+of, or incorporated by reference into, this Annual Report on Form 10-K. The
+following is a list of such Exhibits:
+
+  Exhibit
+   Number                          Description of Exhibits
+   ------                          -----------------------
+
+  2.1      Agreement and Plan of Merger dated October 20, 1995, between AMD and
+           NexGen, Inc., filed as Exhibit 2 to AMD's Quarterly Report for the
+           period ended October 1, 1995, and as amended as Exhibit 2.1 to AMD's
+           Current Report on Form 8-K dated January 17, 1996, is hereby
+           incorporated by reference.
+
+  2.2      Amendment No. 2 to the Agreement and Plan of Merger, dated January
+           11, 1996, between AMD and NexGen, Inc., filed as Exhibit 2.2 to AMD's
+           Current Report on Form 8-K dated January 17, 1996, is hereby
+           incorporated by reference.
+
+  2.3      Stock Purchase Agreement dated as of April 21, 1999, by and between
+           Lattice Semiconductor Corporation and AMD, filed as Exhibit 2.3 to
+           AMD's Current Report on Form 8-K dated April 26, 1999, is hereby
+           incorporated by reference.
+
+  2.3(a)   First Amendment to Stock Purchase Agreement, dated as of June 7,
+           1999, between AMD and Lattice Semiconductor Corporation, filed as
+           Exhibit 2.3 (a) to AMD's Quarterly Report on Form 10-Q for the period
+           ended June 27, 1999, is hereby incorporated by reference.
+
+  2.3(b)   Second Amendment to Stock Purchase Agreement, dated as of June 15,
+           1999, between AMD and Lattice Semiconductor Corporation, filed as
+           Exhibit 2.3 (b) to AMD's Quarterly Report on Form 10-Q for the period
+           ended June 27, 1999, is hereby incorporated by reference.
+
+  2.4      Reorganization Agreement, dated as of May 21, 2000, by and between
+           AMD and BoldCo, Inc., filed as Exhibit 2.1 to AMD's Current Report on
+           Form 8-K dated May 21, 2000, is hereby incorporated by reference.
+
+  2.5      Recapitalization Agreement, dated as of May 21, 2000, by and between
+           BraveTwo Acquisition, L.L.C., AMD and BoldCo, Inc., filed as Exhibit
+           2.2 to AMD's Current Report on Form 8-K dated May 21, 2000, is hereby
+           incorporated by reference.
+
+  3.1      Certificate of Incorporation, as amended, filed as Exhibit 3.1 to
+           AMD's Amendment No. 1 to its Annual Report on Form 10-K for the
+           fiscal year ended December 26, 1999, is hereby incorporated by
+           reference.
+
+  3.2      By-Laws, as amended, filed as Exhibit 3.2 to AMD's Annual Report on
+           Form 10-K for the fiscal year ended December 26, 1999, are hereby
+           incorporated by reference.
+
+  3.3      Certificate of Amendment to Restated Certificate of Incorporation
+           dated May 25, 2000, filed as Exhibit 3.3 to AMD's Quarterly Report on
+           Form 10-Q for the period ended July 2, 2000, is hereby incorporated
+           by reference.
+
+  4.1      Form of AMD 11% Senior Secured Notes due August 1, 2003, filed as
+           Exhibit 4.1 to AMD's Current Report on Form 8-K dated August 13,
+           1996, is hereby incorporated by reference.
+
+  4.2(a)   Indenture, dated as of August 1, 1996, between AMD and United States
+           Trust Company of New York, as trustee, filed as Exhibit 4.2 to AMD's
+           Current Report on Form 8-K dated August 13, 1996, is hereby
+           incorporated by reference.
+
+  4.2(b)   First Supplemental Indenture, dated as of January 13, 1999, between
+           AMD and United States Trust Company of New York, as trustee, filed as
+           Exhibit 4.2(b) to AMD's Annual Report on Form 10-K for the fiscal
+           year ended December 27, 1998, is hereby incorporated by reference.
+
+  4.2(c)   Second Supplemental Indenture, dated as of April 8, 1999, between AMD
+           and United States Trust Company of New York, as trustee, filed as
+           Exhibit 4.2(c) to AMD's Annual Report on Form 10-K for the fiscal
+           year ended December 26, 1999, is hereby incorporated by reference.
+
+
+
+ Exhibit
+ Number                              Description of Exhibits
+ ------                              -----------------------
+
+  4.2(d)    Third Supplemental Indenture, dated as of July 28, 2000, between AMD
+            and the United States Trust Company, as trustee, filed as Exhibit
+            4.2(d) to AMD's Quarterly Report on Form 10-Q for the period ended
+            October 1, 2000, is hereby incorporated by reference.
+
+  4.3       Intercreditor and Collateral Agent Agreement, dated as of August 1,
+            1996, among United States Trust Company of New York, as trustee,
+            Bank of America NT&SA, as agent for the banks under the Credit
+            Agreement of July 19, 1996, and IBJ Schroder Bank & Trust Company,
+            filed as Exhibit 4.3 to AMD's Current Report on Form 8-K dated
+            August 13, 1996, is hereby incorporated by reference.
+
+  4.4       Payment, Reimbursement and Indemnity Agreement, dated as of August
+            1, 1996, between AMD and IBJ Schroder Bank & Trust Company, filed as
+            Exhibit 4.4 to AMD's Current Report on Form 8-K dated August 13,
+            1996, is hereby incorporated by reference.
+
+  4.5       Deed of Trust, Assignment, Security Agreement and Financing
+            Statement, dated as of August 1, 1996, among AMD, as grantor, IBJ
+            Schroder Bank & Trust Company, as grantee, and Shelley W. Austin, as
+            trustee, filed as Exhibit 4.5 to AMD's Current Report on Form 8-K
+            dated August 13, 1996, is hereby incorporated by reference.
+
+  4.6       Security Agreement, dated as of August 1, 1996, among AMD and IBJ
+            Schroder Bank & Trust Company, as agent for United States Trust
+            Company of New York, as trustee, and Bank of America NT&SA, as agent
+            for banks, filed as Exhibit 4.6 to AMD's Current Report on Form 8-K
+            dated August 13, 1996, is hereby incorporated by reference.
+
+  4.7       Lease, Option to Purchase and Put Option Agreement, dated as of
+            August 1, 1996, between AMD, as lessor, and AMD Texas Properties,
+            LLC, as lessee, filed as Exhibit 4.7 to AMD's Current Report on Form
+            8-K dated August 13, 1996, is hereby incorporated by reference.
+
+  4.8       Reciprocal Easement Agreement, dated as of August 1, 1996, between
+            AMD and AMD Texas Properties, LLC, filed as Exhibit 4.8 to AMD's
+            Current Report on Form 8-K dated August 13, 1996, is hereby
+            incorporated by reference.
+
+  4.9       Sublease Agreement, dated as of August 1, 1996, between AMD, as
+            sublessee, and AMD Texas Properties, LLC, as sublessor, filed as
+            Exhibit 4.9 to AMD's Current Report on Form 8-K dated August 13,
+            1996, is hereby incorporated by reference.
+
+  4.10      Indenture, dated as of May 8, 1998, by and between AMD and The Bank
+            of New York, as trustee, filed as Exhibit 4.1 to AMD's Current
+            Report on Form 8-K dated May 8, 1998, is hereby incorporated by
+            reference.
+
+  4.11      Officers' Certificate, dated as of May 8, 1998, filed as Exhibit 4.2
+            to AMD's Current Report on Form 8-K dated May 8, 1998, is hereby
+            incorporated by reference.
+
+  4.12      Form of 6% Convertible Subordinated Note due 2005, filed as Exhibit
+            4.3 to AMD's Current Report on Form 8-K dated May 8, 1998, is hereby
+            incorporated by reference.
+
+  4.13      AMD hereby agrees to file on request of the Commission a copy of all
+            instruments not otherwise filed with respect to AMD's long-term debt
+            or any of its subsidiaries for which the total amount of securities
+            authorized under such instruments does not exceed ten percent of the
+            total assets of AMD and its subsidiaries on a consolidated basis.
+
+ *10.1      AMD 1982 Stock Option Plan, as amended, filed as Exhibit 10.1 to
+            AMD's Annual Report on Form 10-K for the fiscal year ended December
+            26, 1993, is hereby incorporated by reference.
+
+ *10.2      AMD 1986 Stock Option Plan, as amended, filed as Exhibit 10.2 to
+            AMD's Annual Report on Form 10-K for the fiscal year ended December
+            26, 1993, is hereby incorporated by reference.
+
+
+
+  Exhibit
+  Number                             Description of Exhibits
+  ------                             -----------------------
+
+ *10.3    AMD 1992 Stock Incentive Plan, as amended.
+
+ *10.4    AMD 1980 Stock Appreciation Rights Plan, as amended, filed as Exhibit
+          10.4 to AMD's Annual Report on Form 10-K for the fiscal year ended
+          December 26, 1993, is hereby incorporated by reference.
+
+ *10.5    AMD 1986 Stock Appreciation Rights Plan, as amended, filed as Exhibit
+          10.5 to the Company's Annual Report on Form 10-K for the fiscal year
+          ended December 26, 1993, is hereby incorporated by reference.
+
+ *10.6    Forms of Stock Option Agreements, filed as Exhibit 10.8 to AMD's
+          Annual Report on Form 10-K for the fiscal year ended December 29,
+          1991, are hereby incorporated by reference.
+
+ *10.7    Form of Limited Stock Appreciation Rights Agreement, filed as Exhibit
+          4.11 to AMD's Registration Statement on Form S-8 (No. 33-26266), is
+          hereby incorporated by reference.
+
+ *10.8    AMD 1987 Restricted Stock Award Plan, as amended, filed as Exhibit
+          10.10 to AMD's Annual Report on Form 10-K for the fiscal year ended
+          December 26, 1993, is hereby incorporated by reference.
+
+ *10.9    Forms of Restricted Stock Agreements, filed as Exhibit 10.11 to AMD's
+          Annual Report on Form 10-K for the fiscal year ended December 29,
+          1991, are hereby incorporated by reference.
+
+ *10.10   Resolution of Board of Directors on September 9, 1981, regarding
+          acceleration of vesting of all outstanding stock options and
+          associated limited stock appreciation rights held by officers under
+          certain circumstances, filed as Exhibit 10.10 to AMD's Annual Report
+          on Form 10-K for the fiscal year ended March 31, 1985, is hereby
+          incorporated by reference.
+
+ *10.12   Amended and Restated Employment Agreement, dated as of November 3,
+          2000, between AMD and W. J. Sanders III.
+
+ *10.13   AMD 2000 Stock Incentive Plan.
+
+ *10.14   AMD's U.S. Stock Option Program for options granted after April 25,
+          2000.
+
+ *10.15   Vice President Incentive Program.
+
+ *10.16   AMD Executive Incentive Plan, filed as Exhibit 10.14(b) to AMD's
+          Quarterly Report on Form 10-Q for the period ended June 30, 1996, is
+          hereby incorporated by reference.
+
+ *10.17   Form of Bonus Deferral Agreement, filed as Exhibit 10.12 to AMD's
+          Annual Report on Form 10-K for the fiscal year ended March 30, 1986,
+          is hereby incorporated by reference.
+
+ *10.18   Form of Executive Deferral Agreement, filed as Exhibit 10.17 to AMD's
+          Annual Report on Form 10-K for the fiscal year ended December 31,
+          1989, is hereby incorporated by reference.
+
+ *10.19   Director Deferral Agreement of R. Gene Brown, filed as Exhibit 10.18
+          to AMD's Annual Report on Form 10-K for the fiscal year ended December
+          31, 1989, is hereby incorporated by reference.
+
+  10.20   Intellectual Property Agreements with Intel Corporation, filed as
+          Exhibit 10.21 to AMD's Annual Report on Form 10-K for the fiscal year
+          ended December 29, 1991, are hereby incorporated by reference.
+
+ *10.21   Form of Indemnification Agreements with former officers of Monolithic
+          Memories, Inc., filed as Exhibit 10.22 to AMD's Annual Report on Form
+          10-K for the fiscal year ended December 27, 1987, is hereby
+          incorporated by reference.
+
+ *10.22   Form of Management Continuity Agreement, filed as Exhibit 10.25 to
+          AMD's Annual Report on Form 10-K for the fiscal year ended December
+          29, 1991, is hereby incorporated by reference.
+
+
+
+  Exhibit
+  Number                          Description of Exhibits
+  ------                          -----------------------
+
+ **10.23(a)    Joint Venture Agreement between AMD and Fujitsu Limited, filed as
+               Exhibit 10.27(a) to AMD's Amendment No. 1 to its Annual Report on
+               Form 10-K for the fiscal year ended December 26, 1993, is hereby
+               incorporated by reference.
+
+ **10.23(b)    Technology Cross-License Agreement between AMD and Fujitsu
+               Limited, filed as Exhibit 10.27(b) to AMD's Amendment No. 1 to
+               its Annual Report on Form 10-K for the fiscal year ended December
+               26, 1993, is hereby incorporated by reference.
+
+ **10.23(c)    AMD Investment Agreement between AMD and Fujitsu Limited, filed
+               as Exhibit 10.27(c) to AMD's Amendment No. 1 to its Annual Report
+               on Form 10-K for the fiscal year ended December 26, 1993, is
+               hereby incorporated by reference.
+
+ **10.23(d)    Fujitsu Investment Agreement between AMD and Fujitsu Limited,
+               filed as Exhibit 10.27(d) to AMD's Amendment No. 1 to its Annual
+               Report on Form 10-K for the fiscal year ended December 26, 1993,
+               is hereby incorporated by reference.
+
+ **10.23(e)    First Amendment to Fujitsu Investment Agreement dated April 28,
+               1995, filed as Exhibit 10.23(e) to AMD's Annual Report on Form
+               10-K for the fiscal year ended December 29, 1996, is hereby
+               incorporated by reference.
+
+   10.23(f)    Second Amendment to Fujitsu Investment Agreement, dated February
+               27, 1996, filed as Exhibit 10.23 (f) to AMD's Annual Report on
+               Form 10-K for the fiscal year ended December 29, 1996, is hereby
+               incorporated by reference.
+
+ **10.23(g)    Joint Venture License Agreement between AMD and Fujitsu Limited,
+               filed as Exhibit 10.27(e) to AMD's Amendment No. 1 to its Annual
+               Report on Form 10-K for the fiscal year ended December 26, 1993,
+               is hereby incorporated by reference.
+
+ **10.23(h)    Joint Development Agreement between AMD and Fujitsu Limited,
+               filed as Exhibit 10.27(f) to AMD's Amendment No. 1 to its Annual
+               Report on Form 10-K for the fiscal year ended December 26, 1993,
+               is hereby incorporated by reference.
+
+ **10.23(i)    Fujitsu Joint Development Agreement Amendment, filed as Exhibit
+               10.23(g) to AMD's Quarterly Report on Form 10-Q for the period
+               ended March 31, 1996, is hereby incorporated by reference.
+
+  *10.24       AMD's Stock Option Program for Employees Outside the U.S. for
+               options granted after April 25, 2000.
+
+ **10.25       Technology Development and License Agreement, dated as of October
+               1, 1998, among AMD and its subsidiaries and Motorola, Inc. and
+               its subsidiaries, filed as Exhibit 10.25 to AMD's Annual Report
+               on Form 10-K for the fiscal year ended December 27, 1998, is
+               hereby incorporated by reference.
+
+ **10.25(a)    Amendment to the Technology Development and License Agreement,
+               entered into as of October 1, 1998, by AMD and its subsidiaries
+               and Motorola, Inc. and its subsidiaries, filed as Exhibit
+               10.25(a) to AMD's Annual Report on Form 10-K for the fiscal year
+               ended December 26, 1999, is hereby incorporated by reference.
+
+ **10.25(b)    Amendment 2 to the Technology Development and License Agreement,
+               entered into as of October 1, 1998, by AMD and its subsidiaries
+               and Motorola, Inc. and its subsidiaries, filed as Exhibit
+               10.25(b) to AMD's Quarterly Report on Form 10-Q for the period
+               ended July 2, 2000, is hereby incorporated by reference.
+
+ **10.26       Patent License Agreement, dated as of December 3, 1998, between
+               AMD and Motorola, Inc., filed as Exhibit 10.26 to AMD's Annual
+               Report on Form 10-K for the fiscal year ended December 27, 1998,
+               is hereby incorporated by reference.
+
+   10.27       Lease Agreement, dated as of December 22, 1998, between AMD and
+               Delaware Chip LLC, filed as Exhibit 10.27 to AMD's Annual Report
+               on Form 10-K for the fiscal year ended December 27, 1998, is
+               hereby incorporated by reference.
+
+
+
+  Exhibit
+  Number                           Description of Exhibits
+- ---------                          -----------------------
+
+ *10.28(a)     AMD Executive Savings Plan (Amendment and Restatement, effective
+               as of August 1, 1993), filed as Exhibit 10.30 to AMD's Annual
+               Report on Form 10-K for the fiscal year ended December 25, 1994,
+               is hereby incorporated by reference.
+
+ *10.28(b)     First Amendment to the AMD Executive Savings Plan (as amended and
+               restated, effective as of August 1, 1993), filed as Exhibit
+               10.28(b) to AMD's Annual Report on Form 10-K for the fiscal year
+               ended December 28, 1997, is hereby incorporated by reference.
+
+ *10.28(c)     Second Amendment to the AMD Executive Savings Plan (as amended
+               and restated, effective as of August 1, 1993), filed as Exhibit
+               10.28(b) to AMD's Annual Report on Form 10-K for the fiscal year
+               ended December 28, 1997, is hereby incorporated by reference.
+
+ *10.29        Form of Split Dollar Agreement, as amended, filed as Exhibit
+               10.31 to AMD's Annual Report on Form 10-K for the fiscal year
+               ended December 25, 1994, is hereby incorporated by reference.
+
+ *10.30        Form of Collateral Security Assignment Agreement, filed as
+               Exhibit 10.32 to AMD's Annual Report on Form 10-K for the fiscal
+               year ended December 26, 1993, is hereby incorporated by
+               reference.
+
+ *10.31        Forms of Stock Option Agreements to the 1992 Stock Incentive
+               Plan, filed as Exhibit 4.3 to AMD's Registration Statement on
+               Form S-8 (No. 33-46577), are hereby incorporated by reference.
+
+ *10.32        1992 United Kingdom Share Option Scheme, filed as Exhibit 4.2 to
+               AMD's Registration Statement on Form S-8 (No. 33-46577), is
+               hereby incorporated by reference.
+
+**10.33        AMD 1998 Stock Incentive Plan, filed as Exhibit 10.33 to AMD's
+               Annual Report on Form 10-K for the fiscal year ended December 27,
+               1998, is hereby incorporated by reference.
+
+ *10.34        Form of indemnification agreements with officers and directors of
+               AMD, filed as Exhibit 10.38 to AMD's Annual Report on Form 10-K
+               for the fiscal year ended December 25, 1994, is hereby
+               incorporated by reference.
+
+ *10.36        1995 Stock Plan of NexGen, Inc., as amended, filed as Exhibit
+               10.36 to AMD's Annual Report on Form 10-K for the fiscal year
+               ended December 29, 1996, is hereby incorporated by reference.
+
+**10.37        Patent Cross-License Agreement dated December 20, 1995, between
+               AMD and Intel Corporation, filed as Exhibit 10.38 to AMD's Annual
+               Report on Form 10-K for the fiscal year ended December 31, 1995,
+               is hereby incorporated by reference.
+
+  10.38        Contract for Transfer of the Right to the Use of Land between AMD
+               (Suzhou) Limited and China-Singapore Suzhou Industrial Park
+               Development Co., Ltd., filed as Exhibit 10.39 to AMD's Annual
+               Report on Form 10-K for the fiscal year ended December 31, 1995,
+               is hereby incorporated by reference.
+
+ *10.39        NexGen, Inc. 1987 Employee Stock Plan, filed as Exhibit 99.3 to
+               Post-Effective Amendment No. 1 on Form S-8 to AMD's Registration
+               Statement on Form S-4 (No. 33-64911), is hereby incorporated by
+               reference.
+
+ *10.40        1995 Stock Plan of NexGen, Inc. (assumed by AMD), as amended,
+               filed as Exhibit 10.37 to AMD's Quarterly Report on Form 10-Q for
+               the period ended June 30, 1996, is hereby incorporated by
+               reference.
+
+ *10.41        Form of indemnity agreement between NexGen, Inc. and its
+               directors and officers, filed as Exhibit 10.5 to the Registration
+               Statement of NexGen, Inc. on Form S-1 (No. 33-90750), is hereby
+               incorporated by reference.
+
+
+
+ Exhibit
+ Number                         Description of Exhibits
+ ------                         -----------------------
+
+ **10.45        Agreement for Purchase of IBM Products between IBM and NexGen,
+                Inc. dated June 2, 1994, filed as Exhibit 10.17 to the
+                Registration Statement of NexGen, Inc. on Form S-1 (No. 33-
+                90750), is hereby incorporated by reference .
+
+ **10.48(a)     C-4 Technology Transfer and Licensing Agreement dated June 11,
+                1996, between AMD and IBM Corporation, filed as Exhibit 10.48 to
+                AMD's Amendment No. 1 to its Quarterly Report on Form 10-Q/A for
+                the period ended September 29, 1996, is hereby incorporated by
+                reference.
+
+ **10.48(b)     Amendment No. 1 to the C-4 Technology Transfer and Licensing
+                Agreement, dated as of February 23, 1997, between AMD and
+                International Business Machine Corporation, filed as Exhibit
+                10.48(a) to AMD's Quarterly Report on Form 10-Q for the period
+                ended March 30, 1997, is hereby incorporated by reference.
+
+ **10.49(a)     Design and Build Agreement dated November 15, 1996, between AMD
+                Saxony Manufacturing GmbH and Meissner and Wurst GmbH, filed as
+                Exhibit 10.49(a) to AMD's Annual Report on Form 10-K for the
+                fiscal year ended December 29, 1996, is hereby incorporated by
+                reference.
+
+   10.49(b)     Amendment to Design and Build Agreement dated January 16, 1997,
+                between AMD Saxony Manufacturing GmbH and Meissner and Wurst
+                GmbH filed as Exhibit 10.49(b) to AMD's Annual Report on Form
+                10-K for the fiscal year ended December 29, 1996, is hereby
+                incorporated by reference.
+
+ **10.50(a-1)   Syndicated Loan Agreement with Schedules 1, 2 and 17, dated as
+                of March 11, 1997, among AMD Saxony Manufacturing GmbH, Dresdner
+                Bank AG and Dresdner Bank Luxembourg S.A., filed as Exhibit
+                10.50(a) to AMD's Quarterly Report on Form 10-Q for the period
+                ended March 30, 1997, is hereby incorporated by reference.
+
+ **10.50(a-2)   Supplemental Agreement to the Syndicated Loan Agreement dated
+                February 6, 1998, among AMD Saxony Manufacturing GmbH, Dresdner
+                Bank AG and Dresdner Bank Luxembourg S.A., filed as Exhibit
+                10.50(a-2) to AMD's Annual Report on Form 10-K/A (No.1) for the
+                fiscal year ended December 28, 1997, is hereby incorporated by
+                reference.
+
+   10.50(a-3)   Supplemental Agreement No. 2 to the Syndicated Loan Agreement as
+                of March 11, 1997, dated as of June 29, 1999, among AMD Saxony
+                Manufacturing GmbH, Dresdner Bank AG and Dresdner Bank
+                Luxembourg S.A., filed as Exhibit 10.50 (a-3) to AMD's Quarterly
+                Report on Form 10-Q for the period ended June 27, 1999, is
+                hereby incorporated by reference.
+
+***10.50(a-4)   Amendment Agreement No. 3 to the Syndicated Loan Agreement,
+                dated as of February 20, 2001, among AMD Saxony Manufacturing
+                GmbH, AMD Saxony Holding GmbH, Dresdner Bank AG, Dresdner Bank
+                Luxembourg S.A and the banks party thereto.
+
+ **10.50(b)     Determination Regarding the Request for a Guarantee by AMD
+                Saxony Manufacturing GmbH, filed as Exhibit 10.50(b) to AMD's
+                Quarterly Report on Form 10-Q for the period ended March 30,
+                1997, is hereby incorporated by reference.
+
+ **10.50(c)     AMD Subsidy Agreement, between AMD Saxony Manufacturing GmbH and
+                Dresdner Bank AG, filed as Exhibit 10.50(c) to AMD's Quarterly
+                Report on Form 10-Q for the period ended March 30, 1997, is
+                hereby incorporated by reference.
+
+ **10.50(d)     Subsidy Agreement, dated February 12, 1997, between Sachsische
+                Aufbaubank and Dresdner Bank AG, with Appendices 1, 2a, 2b, 3
+                and 4, filed as Exhibit 10.50(d) to AMD's Quarterly Report on
+                Form 10-Q for the period ended March 30, 1997, is hereby
+                incorporated by reference.
+
+   10.50(e)     AMD, Inc. Guaranty, dated as of March 11, 1997, among AMD,
+                Saxony Manufacturing GmbH and Dresdner Bank AG, filed as Exhibit
+                10.50(e) to AMD's Quarterly Report on Form 10-Q for the period
+                ended March 30, 1997, is hereby incorporated by reference.
+
+   10.50(f-1)   Sponsors' Support Agreement, dated as of March 11, 1997, among
+                AMD, AMD Saxony Holding GmbH and Dresdner Bank AG, filed as
+                Exhibit 10.50(f) to AMD's Quarterly Report on Form 10-Q for the
+                period ended March 30, 1997, is hereby incorporated by
+                reference.
+
+
+
+    Exhibit
+    Number                         Description of Exhibits
+    ------                         -----------------------
+
+   10.50(f-2)   First Amendment to Sponsors' Support Agreement, dated as of
+                February 6, 1998, among AMD, AMD Saxony Holding GmbH and
+                Dresdner Bank AG, filed as Exhibit 10.50(f-2) to AMD's Annual
+                Report on Form 10-K for the fiscal year ended December 28, 1997,
+                is hereby incorporated by reference.
+
+   10.50(f-3)   Second Amendment to Sponsors' Support Agreement, dated as of
+                June 29, 1999, among AMD, AMD Saxony Holding GmbH, Dresdner Bank
+                AG and Dresdner Bank Luxembourg S.A., filed as Exhibit 10.50 (f-
+                3) to AMD's Quarterly Report on Form 10-Q for the period ended
+                June 27, 1999, is hereby incorporated by reference.
+
+***10.50(f-4)   Third Amendment to Sponsors' Support Agreement, dated as of
+                February 20, 2001, among AMD, AMD Saxony Holding GmbH,
+                Dresdner Bank AG and Dresdner Bank Luxembourg S.A.
+
+   10.50(g-1)   Sponsors' Loan Agreement, dated as of March 11, 1997, among AMD,
+                AMD Saxony Holding GmbH and Saxony Manufacturing GmbH, filed as
+                Exhibit 10.50(g) to AMD's Quarterly Report on Form 10-Q for the
+                period ended March 30, 1997, is hereby incorporated by
+                reference.
+
+   10.50(g-2)   First Amendment to Sponsors' Loan Agreement, dated as of
+                February 6, 1998, among AMD, AMD Saxony Holding GmbH and AMD
+                Saxony Manufacturing GmbH, filed as Exhibit 10.50(g-2) to AMD's
+                Annual Report on Form 10-K for the fiscal year ended December
+                28, 1997, is hereby incorporated by reference.
+
+   10.50(g-3)   Second Amendment to Sponsors' Loan Agreement, dated as of June
+                25, 1999, among AMD and AMD Saxony Holding GmbH and AMD Saxony
+                Manufacturing GmbH, filed as Exhibit 10.50(g-3) to the Company's
+                Quarterly Report on Form 10-Q for the period ended June 27,
+                1999, is hereby incorporated by reference.
+
+   10.50(h)     Sponsors' Subordination Agreement, dated as of March 11, 1997,
+                among AMD, AMD Saxony Holding GmbH, AMD Saxony Manufacturing
+                GmbH and Dresdner Bank AG, filed as Exhibit 10.50(h) to AMD's
+                Quarterly Report on Form 10-Q for the period ended March 30,
+                1997, is hereby incorporated by reference.
+
+   10.50(i)     Sponsors' Guaranty, dated as of March 11, 1997, among AMD, AMD
+                Saxony Holding GmbH and Dresdner Bank AG, filed as Exhibit
+                10.50(i) to AMD's Quarterly Report on Form 10-Q for the period
+                ended March 30, 1997, is hereby incorporated by reference.
+
+ **10.50(j)     AMD Holding Wafer Purchase Agreement, dated as of March 11,
+                1997, among AMD and AMD Saxony Holding GmbH, filed as Exhibit
+                10.50(j) to AMD's Quarterly Report on Form 10-Q for the period
+                ended March 30, 1997, is hereby incorporated by reference.
+
+***10.50(j-1)   First Amendment to AMD Holding Wafer Purchase Agreement, dated
+                as of February 20, 2001, between AMD and AMD Saxony Holding
+                GmbH.
+
+ **10.50(k)     AMD Holding Research, Design and Development Agreement, dated as
+                of March 11, 1997, between AMD Saxony Holding GmbH and AMD,
+                filed as Exhibit 10.50(k) to AMD's Quarterly Report on Form 10-Q
+                for the period ended March 30, 1997, is hereby incorporated by
+                reference.
+
+ **10.50(l-1)   AMD Saxonia Wafer Purchase Agreement, dated as of March 11,
+                1997, between AMD Saxony Holding GmbH and AMD Saxony
+                Manufacturing GmbH, filed as Exhibit 10.50(l) to AMD's Quarterly
+                Report on Form 10-Q for the period ended March 30, 1997, is
+                hereby incorporated by reference.
+
+   10.50(l-2)   First Amendment to AMD Saxonia Wafer Purchase Agreement, dated
+                as of February 6, 1998, between AMD Saxony Holding GmbH and AMD
+                Saxony Manufacturing GmbH, filed as Exhibit 10.50 (l-2) to AMD's
+                Annual Report on Form 10-K for the fiscal year ended December
+                28, 1997, is hereby incorporated by reference.
+
+***10.50(l-3)   Second Amendment to AMD Saxonia Wafer Purchase Agreement, dated
+                as of February 20, 2001, between AMD Saxony Holding GmbH and AMD
+                Saxony Manufacturing GmbH.
+
+ **10.50(m)     AMD Saxonia Research, Design and Development Agreement, dated as
+                of March 11, 1997, between AMD Saxony Manufacturing GmbH and AMD
+                Saxony Holding GmbH, filed as Exhibit 10.50(m) to AMD's
+                Quarterly Report on Form 10-Q for the period ended March 30,
+                1997, is hereby incorporated by reference.
+
+   10.50(n)     License Agreement, dated March 11, 1997, among AMD, AMD Saxony
+                Holding GmbH and AMD Saxony Manufacturing GmbH, filed as Exhibit
+                10.50(n) to AMD's Quarterly Report on Form 10-Q for the period
+                ended March 30, 1997, is hereby incorporated by reference.
+
+
+
+  Exhibit
+  Number                         Description of Exhibits
+  ------                         -----------------------
+
+  10.50(o)     AMD, Inc. Subordination Agreement, dated March 11, 1997, among
+               AMD, AMD Saxony Holding GmbH and Dresdner Bank AG, filed as
+               Exhibit 10.50(o) to AMD's Quarterly Report on Form 10-Q for the
+               period ended March 30, 1997, is hereby incorporated by reference.
+
+**10.50(p-1)   ISDA Agreement, dated March 11, 1997, between AMD and AMD Saxony
+               Manufacturing GmbH, filed as Exhibit 10.50(p) to AMD's Quarterly
+               Report on Form 10-Q for the period ended March 30, 1997, is
+               hereby incorporated by reference.
+
+**10.50(p-2)   Confirmation to ISDA Agreement, dated February 6, 1998, between
+               AMD and AMD Saxony Manufacturing GmbH, filed as Exhibit
+               10.50(p-2) to AMD's Annual Report on Form 10-K for the fiscal
+               year ended December 28, 1997, is hereby incorporated by
+               reference.
+
+  10.51        Loan and Security Agreement, dated as of July 13, 1999, among
+               AMD, AMD International Sales and Service, Ltd. and Bank of
+               America NT&SA as agent, filed as Exhibit 10.51 to AMD's Quarterly
+               Report on Form 10-Q for the period ended June 27, 1999, is hereby
+               incorporated by reference.
+
+  10.51(a)     First Amendment to Loan and Security Agreement, dated as of July
+               30, 1999, among AMD, AMD International Sales and Service, Ltd.
+               and Bank of America NT&SA, as agent, filed as Exhibit 10.51(a) to
+               AMD's Quarterly Report on Form 10-Q for the period ended June 27,
+               1999, is hereby incorporated by reference.
+
+  10.51(a-1)   Second Amendment to Loan and Security Agreement, dated as of
+               February 12, 2001, among AMD, AMD International Sales and
+               Service, Ltd. and Bank of America N.A. (formerly Bank of America
+               NT&SA), as agent.
+
+ *10.52        Agreement, dated as of June 16, 1999, between AMD and Richard
+               Previte, filed as Exhibit 10.52 to AMD's Quarterly Report on Form
+               10-Q for the period ended June 27, 1999, is hereby incorporated
+               by reference.
+
+ *10.54        Management Continuity Agreement, between AMD and Robert R. Herb,
+               filed as Exhibit 10.54 to AMD's Annual Report on Form 10-K for
+               the fiscal year ended December 26, 1999, is hereby incorporated
+               by reference.
+
+ *10.55        Employment Agreement, dated as of January 13, 2000, between AMD
+               and Hector de J. Ruiz, filed as Exhibit 10.55 to AMD's Annual
+               Report on form 10-K for the fiscal year ended December 26, 1999,
+               is hereby incorporated by reference.
+
+ *10.56        Form of indemnification agreements with officers and directors of
+               AMD, filed as Exhibit 10.56 to AMD's Annual Report on Form 10-K
+               for the fiscal year ended December 26, 1999, is hereby
+               incorporated by reference.
+
+ *10.57        Employment Agreement, dated as of September 27, 2000, between AMD
+               and Robert J. Rivet, filed as Exhibit 10.57 to AMD's Quarterly
+               Report on Form 10-Q for the period ended October 1, 2000, is
+               hereby incorporated by reference.
+
+  13           Pages 8 through 47 of AMD's 2000 Annual Report to Stockholders,
+               which have been incorporated by reference into Parts II and IV of
+               this annual report.
+
+  21           List of AMD subsidiaries.
+
+  23           Consent of Ernst & Young LLP, Independent Auditors, refer to page
+               F-2 herein.
+
+  24           Power of Attorney.
+
+______________
+  *  Management contracts and compensatory plans or arrangements required to be
+     filed as an Exhibit to comply with Item 14(a)(3) of Form 10-K.
+ **  Confidential treatment has been granted as to certain portions of these
+     Exhibits.
+***  Confidential treatment has been requested with respect to certain portions
+     of this Exhibit.
+
+
+
+AMD will furnish a copy of any exhibit on request and payment of AMD's
+reasonable expenses of furnishing such exhibit.
+
+
+(b) Reports on Form 8-K.
+
+     1.   A Current Report on Form 8-K dated October 11, 2000 reporting under
+          Item 5 - Other Events was filed announcing AMD's third quarter
+          earnings.
+
+     2.   A Current Report on Form 8-K dated December 11, 2000 reporting under
+          Item 5 - Other Events was filed with respect to expected financial
+          results for the fourth quarter ended December 31, 2000.
+
+
+
+                                  SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                  Advanced Micro Devices, Inc.
+
+March 19, 2001
+
+                                  By:       /s/ Robert J. Rivet
+                                     ---------------------------------
+                                                Robert J. Rivet
+                                             Senior Vice President,
+                                            Chief Financial Officer
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons, on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+
+
+
+
+                  INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+                       AND FINANCIAL STATEMENT SCHEDULE
+                 COVERED BY THE REPORT OF INDEPENDENT AUDITORS
+
+                            ITEM 14(a) (1) and (2)
+
+     The information under the following captions, which is included in AMD's
+2000 Annual Report to Stockholders, a copy of which is attached hereto as
+Exhibit 13, is incorporated herein by reference:
+
+
+
+     All other schedules have been omitted because the required information is
+not present or is not present in amounts sufficient to require submission of the
+schedules, or because the information required is included in the Consolidated
+Financial Statements or Notes thereto. With the exception of the information
+specifically incorporated by reference into Parts II and IV of this Annual
+Report on Form 10-K, our 2000 Annual Report to Stockholders is not to be deemed
+filed as part of this report.
+
+                                      F-1
+
+
+              CONSENT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+
+
+
+     We consent to the incorporation by reference in this Annual Report (Form
+10-K) of Advanced Micro Devices, Inc. of our report dated January 9, 2001 with
+respect to the consolidated financial statements of Advanced Micro Devices, Inc.
+included in the 2000 Annual Report to Stockholders of Advanced Micro Devices,
+Inc.
+
+     Our audits also included the financial statement schedule of Advanced Micro
+Devices, Inc. listed in Item 14(a). This schedule is the responsibility of the
+management of Advanced Micro Devices, Inc. Our responsibility is to express an
+opinion based on our audits. In our opinion, the financial statement schedule
+referred to above, when considered in relation to the basic financial statements
+taken as a whole, presents fairly in all material respects the information set
+forth therein.
+
+     We also consent to the incorporation by reference in the following
+Registration Statements of our report dated January 9, 2001 with respect to the
+consolidated financial statements incorporated herein by reference, and our
+report included in the preceding paragraph with respect to the financial
+statement schedule included in this Annual Report (Form 10-K) of Advanced Micro
+Devices, Inc.
+
+     .  Registration Statement on Form S-8 (No. 33-16095) pertaining to the
+        Advanced Micro Devices, Inc. 1987 Restricted Stock Award Plan;
+
+     .  Registration Statements on Forms S-8 (Nos. 33-39747, 333-33855 and 333-
+        77495) pertaining to the Advanced Micro Devices, Inc. 1991 Employee
+        Stock Purchase Plan;
+
+     .  Registration Statements on Forms S-8 (Nos. 33-10319, 33-26266, 33-36596
+        and 33-46578) pertaining to the Advanced Micro Devices, Inc. 1982 and
+        1986 Stock Option Plans and the 1980 and 1986 Stock Appreciation Rights
+        Plans;
+
+     .  Registration Statements on Forms S-8 (Nos. 33-46577 and 33-55107)
+        pertaining to the Advanced Micro Devices, Inc. 1992 Stock Incentive
+        Plan;
+
+     .  Registration Statement on Form S-8 (No. 333-00969) pertaining to the
+        Advanced Micro Devices, Inc. 1991 Employee Stock Purchase Plan and to
+        the 1995 Stock Plan of NexGen, Inc;
+
+     .  Registration Statements on Forms S-8 (Nos. 333-04797 and 333-57525)
+        pertaining to the Advanced Micro Devices, Inc. 1996 Stock Incentive
+        Plan;
+
+     .  Registration Statement on Form S-8 (No. 333-68005) pertaining to the
+        Advanced Micro Devices, Inc. 1998 Stock Incentive Plan;
+
+     .  Registration Statement on Form S-3 (No. 333-47243), as amended,
+        pertaining to debt securities, preferred stock, common stock, equity
+        warrants and debt warrants issued or issuable by Advanced Micro Devices,
+        Inc.;
+
+     .  Post-Effective Amendment No. 1 to the Registration Statement on Form S-8
+        (No. 33-95888-99) pertaining to the 1995 Stock Plan of NexGen, Inc. and
+        the NexGen, Inc. 1987 Employee Stock Plan;
+
+     .  Post-Effective Amendment No. 1 to the Registration Statement on Form S-8
+        (No. 33-92688-99) pertaining to the 1995 Employee Stock Purchase Plan of
+        NexGen, Inc.;
+
+     .  Post-Effective Amendment No. 1 on Form S-8 to the Registration Statement
+        on Form S-4 (No. 33-64911) pertaining to the 1995 Employee Stock
+        Purchase Plan of NexGen, Inc., the 1995 Stock Plan of NexGen, Inc. and
+        the NexGen, Inc. 1987 Employee Stock Plan; and
+
+     .  Post-Effective Amendment No. 2 on Form S-3 to the Registration Statement
+        on Form S-4 (No. 33-64911) pertaining to common stock issuable to
+        certain warrantholders.
+
+
+                                                      /s/ Ernst & Young LLP
+
+
+San Jose, California
+March 15, 2001
+
+                                      F-2
+
+
+                                  SCHEDULE II
+
+                         ADVANCED MICRO DEVICES, INC.
+
+                       VALUATION AND QUALIFYING ACCOUNTS
+
+                        Years Ended December 27, 1998,
+                    December 26, 1999 and December 31, 2000
+                                (in thousands)
+
+
+
+(1) Accounts (written off) recovered, net.
+
+                                      F-3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                     AMD-22934-A
+

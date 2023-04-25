@@ -1,0 +1,3302 @@
+
+10-K405
+AKAMAI TECHNOLOGIES, INC.
+
+
+
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                            ------------------------
+
+                                   FORM 10-K
+
+                       FOR ANNUAL AND TRANSITION REPORTS
+                    PURSUANT TO SECTIONS 13 OR 15(d) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+
+(MARK ONE)
+
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+    OF 1934
+
+                  FOR THE FISCAL YEAR ENDED DECEMBER 31, 1999
+
+                                       OR
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934
+
+             FOR THE TRANSITION PERIOD FROM           TO
+
+                         COMMISSION FILE NUMBER 0-27275
+
+                           AKAMAI TECHNOLOGIES, INC.
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+
+
+       REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE (617) 250-3000
+
+       SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT: NONE.
+
+ SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT: COMMON STOCK, $.01
+                                   PAR VALUE
+
+     Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  Yes [X]  No [ ]
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of the registrant's knowledge, in definitive proxy or information statement
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [X]
+
+     The aggregate market value of the voting Common Stock held by
+non-affiliates of the registrant was approximately $8,674,603,999 based on the
+last reported sale price of the Common Stock on the Nasdaq consolidated
+transaction reporting system on January 31, 2000.
+
+     The number of shares outstanding of the registrant's Common Stock as of
+January 31, 2000: 93,063,502 shares.
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+                           ANNUAL REPORT ON FORM 10-K
+                  FOR THE FISCAL YEAR ENDED DECEMBER 31, 1999
+
+                               
+
+
+
+                                     PART I
+
+ITEM 1.  BUSINESS.
+
+OVERVIEW
+
+     Akamai provides a global delivery service for Internet content, streaming
+media and applications that improves Web site speed, quality, reliability and
+scalability and protects against Web site crashes due to demand overloads.
+Akamai markets its services to large businesses and other businesses with an
+Internet focus. Akamai's services deliver Akamai's customers' Web content and
+applications through a worldwide server network by locating the content and
+applications geographically closer to users. Using software that is based on
+Akamai's proprietary mathematical formulas, or algorithms, Akamai monitors
+Internet traffic patterns and delivers its customers' content and applications
+by the most efficient route available. Akamai's services are easy to implement
+and do not require its customers or their Web site visitors to make any hardware
+or software modifications. Using Akamai's services, its customers have been able
+to more than double the speed at which they deliver content to their users and,
+in some instances, have been able to improve speeds by ten times or more.
+
+     In February 2000, Akamai acquired Network24 Communications, Inc., a
+provider of Internet broadcasting applications services, for approximately
+599,152 shares of Akamai common stock and $12.5 million of cash.
+
+     On February 6, 2000, Akamai entered into an agreement and plan of merger
+with INTERVU Inc., a provider of services and automated tools for the streaming
+of live and on-demand video and audio content over the Internet. Under the
+agreement, each share of common stock and preferred stock of INTERVU will be
+exchanged for shares of Akamai common stock in the merger, and INTERVU will
+become a wholly-owned subsidiary of Akamai. Based on the number of shares of
+INTERVU stock outstanding on February 6, 2000, Akamai is expected to issue
+approximately 9.97 million shares of Akamai common stock in the merger. The
+merger is subject to approval of the stockholders of INTERVU, certain regulatory
+approvals and other customary closing conditions and is expected to close in the
+second quarter of 2000.
+
+     Akamai's technology originated from research that its founders began
+developing at the Massachusetts Institute of Technology in 1995. In April 1999,
+Akamai introduced commercially its FreeFlow service for delivery of Internet
+content. As of February 1, 2000, Akamai has deployed more than 2000 servers in
+over 40 countries across more than 100 different telecommunications networks.
+
+THE AKAMAI SOLUTION
+
+     To use Akamai's services, customers identify and tag portions of their Web
+site content and applications that require significant amounts of bandwidth,
+such as advertising banners, icons, graphics, video and audio streaming,
+interactive presentations and software downloads. These tagged items are
+delivered over Akamai's server network. When users request these types of
+content and applications, Akamai's technology routes the request to the server
+that is best able to deliver the content most quickly based on the geographic
+proximity, performance and congestion of all available servers on its network.
+Akamai's network has the following capabilities:
+
+     - Real-time Internet monitoring, which enables Akamai's servers to monitor
+       in real-time the performance of its network and communicate the
+       information to other servers in its network;
+
+     - Dynamic server load management, which enables each server to react to
+       Internet and server congestion, overloads and outages and respond by
+       rerouting traffic around problems; and
+
+     - Internet user connection management, which enables each server to map the
+       geographic location of users so that content is delivered to each user
+       from Akamai's most efficient server.
+
+These capabilities enable Akamai's global network to provide delivery of Web
+content through the optimal route without relying on any central point of
+control.
+
+
+
+AKAMAI SERVICES
+
+  FreeFlow
+
+     When implementing Akamai's FreeFlow service, its customers select bandwidth
+intensive portions of their Web sites, such as complex graphics, advertisements,
+logos, software downloads and pictures, which are delivered to users over
+Akamai's network. FreeFlow service customers pay only for the Internet content
+delivered through Akamai's service. Monthly usage charges are based on megabits
+per second of content delivered. Customers commit to pay for a minimum usage
+level over a fixed contract term, and pay additional fees when usage exceeds
+this commitment. Monthly prices currently begin at $1,995 per megabit per
+second, with discounts available for volume usage.
+
+  FreeFlow Streaming
+
+     Akamai's FreeFlow Streaming service provides for the delivery of streaming
+audio and video content to Internet users over the Internet. Streaming media is
+Internet content in the form of audio and/or video that a user can access and
+play while downloading it from a content provider.
+
+     Streaming content can be delivered in three forms:
+
+     - on-demand -- which means that the user can view and/or listen to the file
+       at any time, similar to a videotape in a VCR, or
+
+     - events -- which means that the user can only view and/or listen to the
+       file at a set time, similar to television; or
+
+     - Webcast -- which means that the user views and/or listens to a continuous
+       live broadcast program, similar to a daily line-up of programs on a
+       television network or ongoing radio broadcast, as it occurs.
+
+     FreeFlow Streaming supports all three forms of streaming content. Akamai's
+FreeFlow Streaming service is designed to allow the user to enjoy enhanced
+video/audio quality, scalability and reliability. The primary pricing model for
+Akamai's FreeFlow Streaming service is based on megabytes of content delivered.
+Customers commit to pay for a minimum usage level over a fixed contract term,
+and pay additional fees when usage exceeds the commitment. The pricing is
+scaled, so that a customer who commits to a higher level of monthly usage will
+pay lower amount of money per megabyte delivered.
+
+     As a result of its February 2000 acquisition of Network24, Akamai also
+offers a set of applications for developing and delivering interactive media
+broadcasts, including audio and video streaming. This set of applications
+enables Web site owners to create customized programs of audio and video
+content, synchronized PowerPoint(TM) presentations, audience polling, and
+eCommerce capabilities in a format designed to engage users in an interactive
+way. This set of applications can be used for product rollout presentations,
+seminars, corporate earnings calls, distance learning, interactive entertainment
+and other applications.
+
+  EdgeAdvantage
+
+     EdgeAdvantage is an integrated platform of Akamai's core technologies and
+network infrastructure service used to offer Akamai's FreeFlow and FreeFlow
+Streaming services, sometimes combined with third party tools and applications.
+Akamai and its partners intend to use this platform to introduce a range of
+value added services and applications to be used by Akamai's customers.
+
+     Akamai believes that EdgeAdvantage will benefit its customers in two ways.
+First, the EdgeAdvantage platform streamlines the deployment of applications to
+be delivered through the Akamai network. Second, the speed and reliability of
+applications delivered through the Akamai network will be improved. Examples of
+Internet-based applications include personalization of content, dynamic ad
+insertion, support for bandwidth-agile content, content transformation and other
+common Web applications.
+
+
+
+TECHNOLOGY
+
+     Akamai's services incorporate the following technologies:
+
+          URLs.  Akamai's technology changes the way in which content on a Web
+     page is delivered to an Internet user without interrupting the normal data
+     flow. Normally, when a user clicks on any Web page, the Web site returns a
+     Hypertext Markup Language, or HTML, text file containing text and
+     formatting instructions which the browser uses to display the page. This
+     text file also contains the Universal Resource Locators, or URLs, of
+     non-text objects on the page, such as photographs, banner advertisements,
+     graphics and software downloads.
+
+          Akamai's customers identify which of their Web objects are to be
+     delivered over Akamai's network. The customer then runs a software utility
+     provided by Akamai, called Launcher, which searches for the URLs of the
+     selected objects and tags them with a special code. This modification
+     transforms each URL for content to be delivered over Akamai's network into
+     an "ARL," or Akamai Resource Locator. The result is that when a user's
+     browser downloads an HTML file containing ARLs of Web objects for that
+     page, the browser is automatically pointed to Akamai's network to retrieve
+     those objects. Akamai's process does not require any modification to the
+     browser or other personal computer configuration changes. While Akamai can
+     serve the HTML as well as the objects embedded in it, Akamai's customers
+     typically choose to serve the HTML themselves to maintain direct contact
+     with the user. Thus, even while users are receiving content from Akamai's
+     servers, Akamai's customers can continue to count Web site visitors, track
+     user demographics and dynamically assemble Web page content, including the
+     insertion of targeted advertising and other personalized content.
+
+          Domain Name Servers.  The Internet relies on a distributed
+     hierarchical database, called the Domain Name System, or DNS, to translate
+     Web site names into numerical Internet Protocol, or IP, addresses. Akamai
+     employs tiers of DNS, or name, servers that interact seamlessly with the
+     Internet's standard DNS servers and intelligently direct a user's request
+     for Web site content or applications toward the most efficient Akamai
+     server to deliver the requested content or applications. When an Internet
+     user requests a page containing content to be delivered over Akamai's
+     network, the user's browser asks a Domain Name Server to find an IP address
+     for the Akamai network. The DNS automatically directs the query to one of
+     Akamai's top-level DNS servers rather than to the central Web site. The
+     Akamai top-level DNS servers use proprietary mapping software to determine
+     the approximate location of the user in the Internet. The top-level DNS
+     server then refers the user's request to an Akamai low-level DNS server
+     that is responsible for traffic near the user. The low-level DNS server
+     then answers with the IP addresses of a group, or "region," of Akamai
+     servers that can deliver the desired content to the user most quickly and
+     reliably based on the geographic proximity, load and availability of all
+     servers on the network. The low-level DNS servers use up-to-the-second
+     information about Internet and server conditions to make the best routing
+     decision for each user.
+
+          Server Load Management.  Akamai's servers first determine the optimal
+     region for serving content to a user at a given moment. Instead, Akamai
+     uses proprietary algorithms to then balance the loads of all servers within
+     each region and ensure that objects reside in the minimum number of servers
+     required to deliver optimal performance.
+
+          Real-Time Monitoring.  Akamai performs real-time monitoring of its own
+     servers and of the Internet to make certain that content is delivered to
+     users with the best performance and reliability. A key design principle of
+     Akamai's system is the use of distributed control. Therefore, if any
+     computer, data center or portion of the Internet fails, the Akamai services
+     will continue operating.
+
+     Akamai constantly monitors the performance of connections between various
+locations around the Internet and Akamai's regions. Akamai uses numerous types
+of network information to determine the performance of these connections. The
+result is a "map" of the optimal Akamai region for each location at that point
+in time. Akamai rebuilds this map periodically to reflect changing conditions.
+
+     Real-time monitoring also ensures reliability. A region is suspended if the
+data center in which Akamai's servers are located fails or is performing poorly.
+However, even when this disruption occurs, the FreeFlow
+
+
+
+service continues to function. To ensure fault tolerance, Akamai deploys back-up
+low-level DNS servers in each region that physically reside in separate data
+centers. These back-up DNS servers automatically direct users to servers in
+alternate regions unaffected by the remote outage.
+
+     To ensure reliability against the failure of an individual server, each
+server is assigned a "buddy" server within a region. Buddy servers query one
+another every second to sense all failures. If a server's buddy does not respond
+to a query, that server takes over its buddy's IP address and serves all content
+requested of the buddy.
+
+CUSTOMERS
+
+     Akamai began introduction of its services commercially in April 1999.
+Akamai's customer base spans a broad spectrum of Internet categories. As of
+February 1, 2000, Akamai had over 227 customers. Sales to Apple Computer and
+Yahoo! represented 22% and 13%, respectively, of Akamai's total revenue for the
+year ended December 31, 1999.
+
+STRATEGIC ALLIANCES
+
+     Akamai has strategic alliances with Apple Computer, Cisco Systems and
+Microsoft Corporation and intends to enter into additional strategic alliances
+with leading technology companies to accelerate market acceptance of its
+services and to expand and enhance its global network. Akamai believes strategic
+alliances can accelerate market acceptance of its technology and services,
+increase its brand recognition and improve access to its target customer base.
+
+  Apple Computer
+
+     Akamai entered into a strategic alliance with Apple Computer effective as
+of April 1, 1999 to improve the delivery of streaming media over the Internet.
+Under the agreement, Akamai integrated its global Internet content delivery
+service and Apple's QuickTime TV network, QuickTime 4 Player and QuickTime
+Streaming Server. The combined technologies are designed to give Apple Macintosh
+and Microsoft Windows users worldwide access to fast, reliable, high-resolution
+streaming services through e-commerce, media and other Web sites.
+
+     Under the terms of the strategic alliance, Apple has purchased Akamai's
+FreeFlow and FreeFlow Streaming services and Akamai has agreed to be the
+exclusive network provider to Apple for QuickTime TV, a service provided by
+Apple for transmitting over the Internet live streams of Web content and
+video-on-demand in QuickTime format. Akamai has also agreed to cause its network
+to meet minimum capacity levels to support streaming media. Apple has designated
+Akamai as the preferred network provider to Apple customers developing streaming
+QuickTime content. To date, over two million streams of QuickTime content have
+been delivered over Akamai's network.
+
+     The term of Akamai's strategic alliance agreement with Apple extends
+through April 30, 2001. Akamai has agreed on the fees to be paid by Apple for
+Akamai's services through the first 18 months of the agreement. Thereafter,
+Akamai will negotiate with Apple the fees for Akamai's services for the
+remainder of the term of the agreement. Apple has agreed to pay to Akamai
+minimum aggregate fees of $12.54 million under the agreement. The minimum fees
+are based in part on Apple continuing to provide QuickTime TV. If Apple ceases
+to provide QuickTime TV for any reason, the minimum fees to be paid by Apple
+under the agreement may, at Apple's option, be reduced by up to 50% of the
+amount of Akamai's services purchased by Apple for QuickTime TV in the
+immediately preceding 12-month period. Minimum fees owed by Apple will also be
+reduced by fees paid by third parties directly to Akamai for distribution of
+QuickTime TV.
+
+     Sales to Apple Computer were approximately $882,981, or 22.2% of revenue,
+for the year ended December 31, 1999. Akamai expects that sales to Apple
+Computer as a percentage of total sales will decrease, but that during calendar
+year 2000, sales to Apple will continue to represent a significant portion of
+its revenue.
+
+
+
+  Cisco Systems
+
+     In August 1999, Akamai entered into a strategic alliance with Cisco Systems
+to enhance and jointly develop new content routing, switching and caching
+technologies to improve the performance of Internet content delivery. Under the
+strategic alliance, Cisco and Akamai are engaged in ongoing discussions to
+jointly develop protocols and algorithms designed to enhance content-based
+routing and switching technologies within Cisco's infrastructure to optimize
+Akamai's Internet content delivery service. In addition, Cisco has agreed to
+integrate Akamai's Internet content delivery technology into its networking
+technology. Akamai has also agreed to explore new technologies to enable
+next-generation switching designed to dynamically adapt to changing network
+conditions. Under the agreement, each of Akamai and Cisco has also agreed to
+joint marketing arrangements, including the promotion to its customers of the
+use of the other's products and services, whenever commercially reasonable.
+
+  Microsoft Corporation
+
+     In September 1999, Akamai entered into a strategic alliance with Microsoft
+Corporation to integrate Microsoft technologies into the Akamai network. As part
+of the agreement, Akamai has integrated Microsoft Windows Media(TM) technologies
+with Akamai's global Internet content delivery service, and Akamai is creating a
+version of its software to support its FreeFlow service that works on Microsoft
+Windows Server. In addition, Microsoft's Streaming Media Division has agreed to
+become one of Akamai's Internet content delivery service customers.
+
+     Under the terms of Akamai's agreement with Microsoft, Akamai has agreed to
+modify its server software to operate on the Microsoft Windows Server operating
+systems platform and to support Microsoft's streaming media format. In addition,
+Akamai will explore with Microsoft other possible integration and support
+opportunities.
+
+     Microsoft has agreed to pre-pay Akamai fees totaling $1,000,000 for
+services that Akamai will provide.
+
+SALES, SERVICE AND MARKETING
+
+     Akamai currently sells its service primarily through a direct sales force.
+Akamai's plan is to continue to pursue heavily trafficked Web sites through its
+direct sales force and to penetrate other markets through its reseller program
+and other indirect distribution channels. As of February 11, 2000, Akamai had
+136 employees in its sales and distribution organization, of whom 44 are in
+direct sales. Currently Akamai's sales force is actively targeting both domestic
+and international companies, focusing on Web sites that have the greatest number
+of visitors, Fortune 100 companies and other companies with large operations
+worldwide.
+
+     In January 2000, Akamai established its new European headquarters based in
+Munich, Germany, with offices in Paris, France and London, England. As of
+February 11, 2000, Akamai had three employees in its European direct sales
+force.
+
+     In addition to its direct sales efforts, Akamai has implemented an Alliance
+Partner Program with Web developers, systems integrators and Web-focused
+application vendors and a Reseller program with Web hosting companies, system
+integration firms and commerce service providers. Akamai encourages its alliance
+partners to recommend the Akamai solution to their customers as part of their
+design, integration and consulting work for those customers. As of February 11,
+2000, Akamai had three employees in its Alliance Partner program group and six
+employees in its Reseller program group.
+
+     Akamai's technical consulting group directly supports its sales and
+distribution efforts by providing technical consulting and integration
+assistance to Akamai's current and prospective customers. As of February 11,
+2000, Akamai had 24 employees in its technical consulting group.
+
+     Akamai believes that a high level of customer service and support is
+critical to the successful marketing and sale of its products and services.
+Akamai is building a comprehensive service and support organization to meet the
+needs of its customers. As of February 11, 2000, Akamai had 17 employees in its
+customer service and support organization and 22 employees in its account
+management organization. Akamai is seeking to hire
+
+
+
+additional customer service and support personnel as its customer base grows and
+as it introduces new products and services.
+
+     To support its sales efforts and actively promote the Akamai brand name,
+Akamai conducts comprehensive marketing programs. Akamai's marketing strategies
+not only include an active public relations campaign, print advertisements,
+online advertisements, trade shows, strategic partnerships and on-going customer
+communications programs. Akamai participates in a variety of Internet, computer
+and financial industry conferences. As of February 11, 2000, Akamai had 33
+employees in its marketing organization.
+
+NETWORK ALLIANCES
+
+     As of February 18, 2000, Akamai's network was comprised of over 2000
+servers in 40 countries across more than 100 telecommunication networks. Most of
+Akamai's servers are currently deployed in data centers served by major domestic
+and international Internet service providers. These Internet service providers
+provide bandwidth to deliver content from Akamai's servers to Internet users.
+Akamai also deploys its servers at smaller and medium-sized domestic and
+international Internet service providers through its Akamai Accelerated Network
+program. Under this program, Akamai offers use of its servers to Internet
+service providers. In exchange, Akamai typically does not pay for rack space to
+house its servers or bandwidth to deliver content from its servers to Internet
+users. By hosting Akamai servers, Internet service providers obtain access to
+popular content from the Internet that is served from the Akamai network. As a
+result, when this content is requested by a user, the Internet service provider
+does not need to pay for the bandwidth otherwise necessary to retrieve the
+content from the originating Web site.
+
+     Akamai is planning to expand and enhance its network by entering into
+strategic relationships with network providers and integrating its technology
+with networking and other network infrastructure products, such as routers and
+switches, to facilitate implementation of its service by Internet service
+providers. Akamai is also seeking to expand its network through the development
+of technology designed to facilitate communications between its global network
+of servers and third-party caching systems. If this technology is successfully
+developed, third-party caches could effectively function as additional servers
+on its network. Akamai has established relationships with cache vendors
+Cacheflow, Cisco, InfoLibria, Network Appliance and Novell to develop interfaces
+to facilitate communications between their caching products and Akamai's
+network.
+
+ENGINEERING AND DEVELOPMENT
+
+     Akamai believes that strong product and service development capabilities
+are essential to enhancing its core technologies, developing new applications
+for its technology and maintaining its competitiveness. Akamai has invested and
+intends to continue to invest a significant amount of human and financial
+resources in Akamai's engineering and development organization. As of February
+11, 2000, Akamai had 167 employees devoted to engineering and development
+efforts.
+
+     Akamai is focusing its engineering and development efforts on enhancing its
+FreeFlow and FreeFlow Streaming services and building on its technology to
+develop new services. From its inception in August 1998 through December 31,
+1999, Akamai's engineering and development expenses were approximately $12.0
+million. Akamai expects to continue to commit significant resources to research
+and development in the future. To date, all engineering and development expenses
+have been expensed as incurred.
+
+COMPETITION
+
+     The market for Internet content delivery services is new, rapidly evolving
+and intensely competitive. Akamai expects competition to increase both from
+existing competitors and new market entrants for various components of its
+service. Akamai competes primarily on the basis of:
+
+     - performance of service, including speed of delivery, quality,
+       reliability, peak crowd protection, and global content delivery
+       capabilities;
+
+     - ease of implementation and use of service;
+
+
+
+     - types of content and applications delivered;
+
+     - partnerships to provide complete customer solutions; and
+
+     - price.
+
+     Akamai competes primarily with companies offering products and services
+that address Internet performance problems, including companies that provide
+Internet content delivery services, streaming content delivery services and
+equipment-based solutions to Internet performance problems, such as load
+balancers and server switches.
+
+     Akamai's competitors may be able to respond more quickly than Akamai can to
+new or emerging technologies and changes in customer requirements. Some of
+Akamai's current or potential competitors may bundle their products with other
+software or hardware in a manner that may discourage Web site owners from
+purchasing products Akamai offers or Internet service providers from being
+willing to install Akamai servers.
+
+     Increased competition could result in price reductions, fewer customer
+orders, reduced gross margins and loss of market share, any of which could
+materially and adversely affect Akamai's business, financial condition and
+operations.
+
+PROPRIETARY RIGHTS AND LICENSING
+
+     Akamai's success and ability to compete are dependent on its ability to
+develop and maintain the proprietary aspects of its technology and operate
+without infringing on the proprietary rights of others. Akamai relies on a
+combination of patent, trademark, trade secret and copyright laws and
+contractual restrictions to protect the proprietary aspects of its technology.
+These legal protections afford only limited protection for Akamai's technology.
+Akamai currently has no issued patents; however, Akamai is seeking patent
+protection on aspects of its Internet content delivery service. Akamai cannot
+predict whether any patent application filed by Akamai will result in any issued
+patent or, if a patent is issued, any meaningful protection. Akamai seeks to
+limit disclosure of its intellectual property by requiring employees and
+consultants with access to its proprietary information to execute
+confidentiality agreements with it and by restricting access to its source code.
+Due to rapid technological change, Akamai believes that factors such as the
+technological and creative skills of its personnel, new product developments and
+enhancements to existing products are more important than the various legal
+protections of its technology to establishing and maintaining a technology
+leadership position.
+
+     Despite Akamai's efforts to protect its proprietary rights, unauthorized
+parties may attempt to copy aspects of its products or to obtain and use
+information that it regards as proprietary. The laws of many countries do not
+protect Akamai's proprietary rights to as great an extent as do the laws of the
+United States. Litigation may be necessary in the future to enforce Akamai's
+intellectual property rights, to protect its trade secrets, to determine the
+validity and scope of the proprietary rights of others or to defend against
+claims of infringement or invalidity. Any such resulting litigation could result
+in substantial costs and diversion of resources and could have a material
+adverse effect on Akamai's business, operating results and financial condition.
+There can be no assurance that Akamai's means of protecting its proprietary
+rights will be adequate or that its competitors will not independently develop
+similar technology. Any failure by Akamai to meaningfully protect its property
+could have a material adverse effect on its business, operating results and
+financial condition.
+
+     In October 1998, Akamai entered into a license agreement with MIT under
+which Akamai was granted a royalty-free, worldwide right to use and sublicense
+the intellectual property rights of MIT under various patent applications and
+copyrights relating to Internet content delivery technology. Akamai cannot
+predict whether any of these applications will result in any issued patents or,
+if patents are issued, any meaningful protection. Some of Akamai's technology is
+based on technology licensed from MIT. The license has been granted to Akamai on
+an exclusive basis, but is subject to the rights of the U.S. government to use
+the licensed intellectual property in government-funded inventions. As part of
+the license agreement, MIT retained the right to use the licensed intellectual
+property for non-commercial, teaching and educational purposes. In connection
+with the license agreement, Akamai issued 682,110 shares of its common stock to
+MIT in
+
+
+
+October 1998. The license agreement is irrevocable, but MIT may terminate the
+agreement if Akamai ceases its business due to insolvency or if Akamai
+materially breaches the terms of the license agreement.
+
+EMPLOYEES
+
+     As of February 11, 2000, Akamai had a total of 464 full-time and part-time
+employees. Akamai's future success will depend in part on its ability to
+attract, retain and motivate highly qualified technical and management
+personnel, for whom competition is intense. Akamai's employees are not
+represented by any collective bargaining unit. Akamai believes its relations
+with its employees are good.
+
+FACTORS AFFECTING FUTURE OPERATING RESULTS
+
+     Akamai believes that this document contains "forward-looking statements"
+within the meaning of the Private Securities Litigation Reform Act of 1995.
+These statements are subject to risks and uncertainties and are based on the
+beliefs and assumptions of management of Akamai, based on information currently
+available to Akamai's management. Use of words such as "believes," "expects,"
+"anticipates," "intends," "plans," "estimates," "should," "likely" or similar
+expressions, indicate a forward-looking statement. Forward-looking statements
+involve risks, uncertainties and assumptions. Certain of the information
+contained in this Annual Report on Form 10-K consists of forward-looking
+statements. Important factors that could cause actual results to differ
+materially from the forward-looking statements include the following:
+
+AKAMAI'S BUSINESS IS DIFFICULT TO EVALUATE BECAUSE IT HAS A LIMITED OPERATING
+HISTORY.
+
+     Akamai was founded in August 1998 and began offering its services
+commercially in April 1999. Akamai has limited meaningful historical financial
+data upon which to base planned operating expenses and upon which investors may
+evaluate it and its prospects. In addition, Akamai's operating expenses are
+largely based on anticipated revenue trends and a high percentage of its
+expenses are and will continue to be fixed in the short-term. You should
+consider the risks and difficulties frequently encountered by companies like
+Akamai in a new and rapidly evolving market. Akamai's ability to sell its
+services and the level of success it achieves depends, among other things, on
+the level of demand for delivery services for graphics, streaming media,
+applications and other Internet content, which is a new and rapidly evolving
+market. Akamai's business strategy may be unsuccessful, and it may not
+successfully address the risks it faces.
+
+AKAMAI IS ENTIRELY DEPENDENT ON ITS INTERNET CONTENT DELIVERY SERVICES AND ITS
+FUTURE REVENUE DEPENDS ON THE COMMERCIAL SUCCESS OF ITS SERVICES.
+
+     Currently, Akamai's future growth depends on the commercial success of its
+Internet content delivery services and other services and products it may
+develop and/or offer. While Akamai has been selling its services commercially
+since April 1999, sales may not continue in the future. Akamai's other services
+and products under development may not achieve widespread market acceptance. The
+future revenue growth of FreeFlow Streaming will also depend, in part, on
+customer acceptance of a combined or integrated Akamai/INTERVU service offering.
+Failure of Akamai's current and planned services to operate as expected could
+hinder or prevent their adoption. If Akamai's target customers do not adopt,
+purchase and successfully deploy Akamai's current and planned services, Akamai's
+revenue will not grow significantly and its business, results of operations and
+financial condition will be seriously harmed. In addition, to the extent Akamai
+promotes any portion of its technology as an industry standard by making it
+readily available to users for little or no charge, Akamai may not receive
+revenue that it might otherwise have received.
+
+THE INTERNET CONTENT DELIVERY MARKET IS NEW AND AKAMAI'S BUSINESS WILL SUFFER IF
+IT DOES NOT DEVELOP AS AKAMAI EXPECTS.
+
+     The market for Internet content delivery services is new. Akamai cannot be
+certain that a broad-based market for its service will emerge or be sustainable.
+If this market does not develop, or develops more slowly than Akamai expects,
+its business, results of operations and financial condition will be seriously
+harmed.
+
+
+
+ANY FAILURE OF AKAMAI'S NETWORK INFRASTRUCTURE COULD LEAD TO SIGNIFICANT COSTS
+AND DISRUPTIONS WHICH COULD REDUCE AKAMAI'S REVENUE AND HARM ITS BUSINESS,
+FINANCIAL RESULTS AND REPUTATION.
+
+     Akamai's business is dependent on providing its customers with fast,
+efficient and reliable Internet content delivery services. To meet these
+customer requirements Akamai must protect its network infrastructure against
+damage from:
+
+     - sabotage and vandalism;
+
+     - human error;
+
+     - physical or electronic intrusion and security breaches;
+
+     - fire, earthquake, flood and other natural disasters;
+
+     - power loss; and
+
+     - similar events.
+
+     Despite the efforts of Akamai, its network infrastructure may come under
+attack by sabotage or vandalism. In addition, the occurrence of a natural
+disaster or other unanticipated problems at one or more of Akamai's servers
+could result in service interruptions or significant damage to equipment. Akamai
+currently provides a FreeFlow service guarantee that its networks will deliver
+Internet content 24 hours a day, seven days a week, 365 days a year. If Akamai
+does not provide this service, the customer does not pay for its services on
+that day. Any widespread loss or interruption of services would reduce its
+revenue, and could harm its business, financial results and reputation.
+
+BECAUSE AKAMAI'S INTERNET CONTENT DELIVERY SERVICES ARE COMPLEX AND ARE DEPLOYED
+IN COMPLEX ENVIRONMENTS, THEY MAY HAVE ERRORS OR DEFECTS THAT COULD SERIOUSLY
+HARM ITS BUSINESS.
+
+     Akamai's Internet content delivery services are highly complex and are
+designed to be deployed in and across numerous large and complex networks. As of
+February 1, 2000, Akamai's network consisted of over 2,000 servers. Akamai and
+its customers have also from time to time discovered errors and defects in
+Akamai's software. In the future, there may be additional errors and defects in
+Akamai's software that may adversely affect its services. If Akamai is unable to
+efficiently fix errors or other problems that may be identified, Akamai could
+experience:
+
+     - loss of or delay in revenues and loss of market share;
+
+     - loss of customers;
+
+     - failure to attract new customers or achieve market acceptance;
+
+     - diversion of development and engineering resources;
+
+     - loss of credibility or damage to business reputation;
+
+     - increased service costs; and
+
+     - legal actions by Akamai's customers.
+
+ANY FAILURE OF AKAMAI'S TELECOMMUNICATIONS AND NETWORK PROVIDERS TO PROVIDE
+REQUIRED TRANSMISSION CAPACITY TO AKAMAI COULD RESULT IN INTERRUPTIONS IN
+AKAMAI'S SERVICE.
+
+     Akamai's operations are dependent in part upon transmission capacity
+provided by third-party telecommunications network providers. Any failure of
+such network providers to provide the capacity Akamai requires may result in a
+reduction in, or interruption of, service to Akamai's customers. This failure
+may be a result of the telecommunications providers or Internet service
+providers experiencing interruptions or other failures, failing to comply with
+or terminating their existing agreements with Akamai, or otherwise denying or
+interrupting service or not entering into relationships with Akamai at all or on
+terms commercially acceptable to Akamai. If Akamai does not have access to
+third-party transmission capacity, Akamai could lose
+
+
+
+customers. If Akamai is unable to obtain such capacity on terms commercially
+acceptable to Akamai, Akamai's business and financial results, could suffer.
+
+THE MARKETS IN WHICH AKAMAI OPERATES ARE HIGHLY COMPETITIVE AND AKAMAI MAY BE
+UNABLE TO COMPETE SUCCESSFULLY AGAINST NEW ENTRANTS AND ESTABLISHED COMPANIES
+WITH GREATER RESOURCES.
+
+     Akamai competes in markets that are new, intensely competitive, highly
+fragmented and rapidly changing. Akamai has experienced and expects to continue
+to experience increased competition. Many of Akamai's current competitors, as
+well as a number of Akamai's potential competitors, have longer operating
+histories, greater name recognition and substantially greater financial,
+technical and marketing resources than Akamai does. Some of Akamai's current or
+potential competitors have the financial resources to withstand substantial
+price competition. Moreover, many of Akamai's competitors have more extensive
+brand recognition, customer bases, broader customer relationships and broader
+industry alliances that they could use to their advantage in competitive
+situations, including relationships with many of Akamai's current and potential
+customers. Akamai's competitors may be able to respond more quickly than Akamai
+can to new or emerging technologies and changes in customer requirements. Some
+of Akamai's current or potential competitors may bundle their services with
+other services, software or hardware in a manner that may discourage Web site
+owners from purchasing any service Akamai offers or Internet service providers
+from installing Akamai's servers.
+
+     As competition in the Internet content delivery market continues to
+intensify, new solutions will come to market. Akamai is aware of other companies
+that are focusing or may in the future focus significant resources on developing
+and marketing products and services that will compete with Akamai. Akamai also
+believes that it may face competition from other providers of competing Internet
+content delivery services, including networking hardware and software
+manufacturers, content distribution providers, traditional hardware
+manufacturers, telecommunications providers, software database companies, and
+large diversified software and technology companies. Increased competition could
+result in:
+
+     - price and revenue reductions and lower profit margins;
+
+     - increased cost of service from telecommunications providers;
+
+     - loss of customers; and
+
+     - loss of market share.
+
+     Any one of these could materially and adversely affect Akamai's business,
+financial condition and results of operations.
+
+AS PART OF AKAMAI'S BUSINESS STRATEGY, AKAMAI MAY ENTER INTO OR SEEK TO ENTER
+INTO BUSINESS COMBINATIONS AND ACQUISITIONS WHICH MAY BE DIFFICULT TO INTEGRATE,
+DISRUPT AKAMAI'S BUSINESS, DILUTE STOCKHOLDER VALUE OR DIVERT MANAGEMENT
+ATTENTION.
+
+     As a part of Akamai's business strategy, Akamai may enter into additional
+business combinations and acquisitions. Acquisitions are typically accompanied
+by a number of risks, including:
+
+     - the difficulty of integrating the operations and personnel of the
+       acquired companies;
+
+     - the maintenance of acceptable standards, controls, procedures and
+       policies;
+
+     - the potential disruption of Akamai's ongoing business and distraction of
+       management;
+
+     - the impairment of relationships with employees and customers as a result
+       of any integration of new management personnel;
+
+     - the difficulty of incorporation of acquired technology and rights into
+       Akamai's products and services;
+
+     - expenses related to the acquisition;
+
+     - potential unknown liabilities associated with acquired businesses; and
+
+
+
+     - unanticipated expenses related to acquired technology and its integration
+       into existing technology.
+
+     Akamai acquired Network24 Communications, Inc. in February 2000 and may
+encounter these risks to its business during its integration. On February 6,
+2000, Akamai entered into an agreement to acquire INTERVU Inc. If successfully
+completed, Akamai may experience difficulty in integrating the operations and
+personnel of Akamai and INTERVU. If the acquisition of INTERVU is not
+successfully completed, Akamai would be required to reevaluate its growth
+strategy and will have incurred substantial expenses and spent significant
+management time and resources in seeking to complete the acquisition. In
+addition, with future acquisitions, Akamai could use substantial portions of its
+available cash as all or a portion of the purchase price. Akamai could also
+issue additional securities as consideration for these acquisitions, which could
+cause its stockholders to suffer significant dilution. Akamai's acquisition of
+Network24, its proposed acquisition of INTERVU and any future acquisitions, may
+not generate any additional revenue and may pose risks to Akamai.
+
+A SIGNIFICANT DECLINE IN SALES TO APPLE COMPUTER COULD REDUCE AKAMAI'S REVENUE
+AND CAUSE ITS BUSINESS AND FINANCIAL RESULTS TO SUFFER.
+
+     Akamai entered into a strategic alliance with Apple Computer, Inc.
+effective as of April 1, 1999. Sales of its service to Apple Computer
+represented approximately 22.2% of Akamai's revenue for the year ended December
+31, 1999. Akamai expects that sales to Apple Computer as a percentage of total
+sales will decrease, but that during calendar 2000 sales to Apple Computer will
+continue to represent a significant portion of its revenue. Apple Computer has
+the right to terminate the agreement on short notice if Akamai materially
+breaches the agreement. A significant decline in sales to Apple Computer could
+reduce Akamai's revenue and cause Akamai's business and financial results to
+suffer.
+
+IF ANY OF AKAMAI'S STRATEGIC ALLIANCES TERMINATES, THEN AKAMAI'S BUSINESS COULD
+BE ADVERSELY AFFECTED.
+
+     Akamai entered into strategic alliances with Apple Computer effective as of
+April 1, 1999, with Cisco Systems, Inc. in August 1999 and with Microsoft
+Corporation in September 1999. Under each of these agreements, Akamai is seeking
+to jointly develop technology, services and/or products with its strategic
+alliance partners and Akamai may not be successful. The strategic alliance with
+Cisco may be terminated by Cisco or Akamai on short notice for any reason. The
+strategic alliance with Apple Computer may be terminated by Apple Computer or
+Akamai if the other party materially breaches the agreement, and the strategic
+alliance with Microsoft may be terminated by Microsoft or Akamai if the other
+party materially breaches the agreement. A termination of, or significant
+adverse change in, Akamai's relationship with Apple Computer, Cisco or Microsoft
+could have a material adverse effect on Akamai's business.
+
+AKAMAI'S BUSINESS WILL SUFFER IF IT IS UNABLE TO SCALE ITS NETWORK AS DEMAND
+INCREASES.
+
+     Akamai's network may not be scalable to expected customer levels while
+maintaining superior performance. Akamai cannot be certain that its network can
+connect and manage a substantially larger number of customers at high
+transmission speeds. In addition, as customers' usage of bandwidth increases,
+Akamai will need to make additional investments in its infrastructure to
+maintain adequate data transmission speeds. Akamai cannot ensure that it will be
+able to make these investments successfully or at an acceptable or commercially
+reasonable cost.
+
+     Upgrading Akamai's infrastructure may cause delays or failures in its
+network. As a result, in the future Akamai's network may be unable to achieve or
+maintain a sufficiently high transmission capacity. Akamai's failure to achieve
+or maintain high capacity data transmission could significantly reduce demand
+for Akamai service, reducing Akamai's revenue and causing its business and
+financial results to suffer.
+
+AKAMAI'S BUSINESS WILL SUFFER IF IT DOES NOT RESPOND RAPIDLY TO TECHNOLOGICAL
+CHANGES.
+
+     The market for Internet content delivery services is likely to continue to
+be characterized by rapid technological change, frequent new product and service
+introductions and changes in customer requirements. Akamai may be unable to
+respond quickly or effectively to these developments. If competitors introduce
+
+
+
+products, services or technologies that are better than Akamai's or that gain
+greater market acceptance, or if new industry standards emerge, Akamai's service
+may become obsolete, which would materially and adversely affect its business,
+results of operations and financial condition.
+
+     In developing its services, Akamai has made, and will continue to make,
+assumptions about the standards that its customers and competitors may adopt. If
+the standards adopted are different from those which Akamai may now or in the
+future promote or support, market acceptance of Akamai's service may be
+significantly reduced or delayed and its business will be seriously harmed. In
+addition, the introduction of services or products incorporating new
+technologies and the emergence of new industry standards could render Akamai's
+existing service obsolete.
+
+IF AKAMAI'S LICENSE AGREEMENT WITH MIT TERMINATES, THEN ITS BUSINESS COULD BE
+ADVERSELY AFFECTED.
+
+     Akamai has licensed from MIT technology covered by various patent
+applications and copyrights relating to Internet content delivery technology.
+Some of Akamai's technology is based in part on the technology covered by these
+patent applications and copyrights. MIT may terminate the license agreement if
+Akamai ceases its business due to insolvency or if Akamai materially breaches
+the terms of the license agreement. A termination of Akamai's license agreement
+with MIT could have a material adverse effect on Akamai's business.
+
+AKAMAI'S BUSINESS WILL BE ADVERSELY AFFECTED IF IT IS UNABLE TO PROTECT ITS
+INTELLECTUAL PROPERTY RIGHTS FROM THIRD-PARTY CHALLENGES.
+
+     Akamai relies on a combination of patent, copyright, trademark and trade
+secret laws and restrictions on disclosure to protect its intellectual property
+rights. These legal protections afford only limited protection; competitors may
+gain access to Akamai's intellectual property which may result in the loss of
+Akamai's customers.
+
+     Although Akamai has licensed technology covered by patent applications
+filed with the United States Patent and Trademark Office with respect to
+Internet content delivery services, Akamai has no patents issued with respect to
+its Internet content delivery services. Accordingly, neither Akamai's technology
+nor technology licensed by Akamai is covered by patents that would preclude or
+inhibit competitors from entering Akamai's market. Akamai's future patents, if
+any, and patents licensed by Akamai, may be successfully challenged or may not
+provide Akamai with any competitive advantages. Moreover, although Akamai has
+filed international patent applications, none of Akamai's technology is patented
+abroad. Akamai cannot be certain that any pending or future patent applications
+will be granted, that any future patent will not be challenged, invalidated or
+circumvented, or that rights granted under any patent that may be issued will
+provide competitive advantages to Akamai. Monitoring unauthorized use of
+Akamai's service is difficult and Akamai cannot be certain that the steps it has
+taken will prevent unauthorized use of its technology, particularly in foreign
+countries where the laws may not protect Akamai's proprietary rights as fully as
+in the United States.
+
+AKAMAI'S FAILURE TO INCREASE ITS REVENUE WOULD PREVENT IT FROM ACHIEVING AND
+MAINTAINING PROFITABILITY.
+
+     Akamai has never been profitable. Akamai has incurred significant losses
+since inception and expects to continue to incur losses in the future. As of
+December 31, 1999, Akamai had an accumulated deficit of $58.6 million. Akamai
+cannot be certain that its revenue will continue to grow or that it will achieve
+sufficient revenue to achieve profitability. Akamai's failure to significantly
+increase its revenue would seriously harm its business and operating results.
+Akamai has large fixed expenses, and it expects to continue to incur significant
+and increasing sales and marketing, product development, administrative and
+other expenses, including fees to obtain access to bandwidth for the transport
+of data over its network. As a result, Akamai will need to generate
+significantly higher revenues to achieve and maintain profitability. If Akamai's
+revenue grows more slowly than Akamai anticipates or if its operating expenses
+increase more than Akamai expects or cannot be reduced in the event of lower
+revenue, Akamai's business will be materially and adversely affected.
+
+
+
+THE VARIABLE SALES CYCLES FOR AKAMAI'S SERVICES MAY CAUSE REVENUE AND OPERATING
+RESULTS TO VARY SIGNIFICANTLY FROM QUARTER TO QUARTER WHICH COULD ADVERSELY
+AFFECT AKAMAI'S STOCK PRICE.
+
+     At times, a customer's decision to purchase Akamai's Internet content
+delivery service involves a lengthy evaluation process. Throughout the sales
+cycle, Akamai spends considerable time and expense educating and providing
+information to prospective customers about the use and benefits of its services.
+Because of Akamai's limited operating history and the nature of Akamai business,
+Akamai cannot predict these sales and deployment cycles. Long sales cycles may
+cause Akamai's revenue and results of operations to vary significantly and
+unexpectedly from quarter to quarter. If Akamai's operating results fall below
+the expectations of securities analysts or investors in some future quarter or
+quarters, the market price of its common stock could be adversely affected.
+
+THE RATES AKAMAI CHARGES FOR ITS SERVICE MAY DECLINE OVER TIME WHICH WOULD
+REDUCE ITS REVENUE AND COULD CAUSE ITS BUSINESS AND FINANCIAL RESULTS TO SUFFER.
+
+     Akamai expects that its cost to obtain bandwidth capacity for the transport
+of data over its network will decline over time as a result of, among other
+things, the large amount of capital currently being invested to build
+infrastructure providing additional bandwidth and volume discounts available to
+Akamai as its network usage increases. Akamai expects the prices it charges for
+its services may also decline over time as a result of, among other things,
+existing and new competition in the markets Akamai addresses. As a result,
+Akamai's historical revenue rates may not be indicative of future revenue based
+on comparable traffic volumes. If Akamai fails to accurately predict the decline
+in costs of bandwidth or, in any event, if Akamai is unable to sell its service
+at acceptable prices relative to its bandwidth costs, or if it fails to offer
+additional services from which it can derive additional revenue, Akamai's
+revenue will decrease and its business and financial results will suffer.
+
+AKAMAI'S BUSINESS AND PROSPECTS DEPEND ON DEMAND FOR AND MARKET ACCEPTANCE OF
+THE INTERNET AND ITS INFRASTRUCTURE DEVELOPMENT.
+
+     The increased use of the Internet for retrieving, sharing and transferring
+information among businesses, consumers, suppliers and partners has only begun
+to develop in recent years, and Akamai's success will depend in large part on
+continued growth in the use of the Internet. Critical issues concerning the
+commercial use of the Internet, including security, reliability, speed, cost,
+ease of access, quality of service, regulatory initiatives and necessary
+increases in bandwidth availability, remain unresolved and are likely to affect
+the development of the market for Akamai's services. The adoption of the
+Internet for information retrieval and exchange, commerce and communications
+generally will require the acceptance of a new medium of conducting business and
+exchanging information. Demand for and market acceptance of the Internet are
+subject to a high level of uncertainty and are dependent on a number of factors,
+including:
+
+     - the growth in consumer access to and acceptance of new interactive
+       technologies;
+
+     - the development of technologies that facilitate interactive communication
+       between organizations; and
+
+     - increases in user bandwidth.
+
+     If the Internet as a commercial or business medium fails to develop or
+develops more slowly than expected, Akamai's business and prospects will suffer.
+
+AKAMAI'S BUSINESS WILL SUFFER IF IT DOES NOT ANTICIPATE AND MEET SPECIFIC
+CUSTOMER REQUIREMENTS.
+
+     Akamai's current and prospective customers may require features and
+capabilities that its current service offerings do not have. To achieve market
+acceptance for Akamai's service, Akamai must effectively and timely anticipate
+and adapt to customer requirements and offer services that meet customer
+demands. Akamai's failure to offer services that satisfy customer requirements
+would seriously harm its business, results of operations and financial
+condition.
+
+     Akamai intends to continue to invest heavily in technology development. The
+development of new or enhanced services and applications such as EdgeAdvantage,
+is a complex and uncertain process that requires
+
+
+
+the accurate anticipation of technological and market trends. Akamai may
+experience design, integration, manufacturing, marketing and other difficulties
+that could delay or prevent the development, introduction or marketing of new
+services as well as enhancements. The introduction of new or enhanced services
+and applications also requires that Akamai manage the transition from older
+services in order to ensure that Akamai can deliver services to meet anticipated
+customer demand. Akamai's inability to effectively manage this transition would
+materially adversely affect its business, results of operations and financial
+condition.
+
+AKAMAI HAS LIMITED SALES AND MARKETING EXPERIENCE; AKAMAI'S BUSINESS WILL SUFFER
+IF IT DOES NOT EXPAND AKAMAI'S DIRECT AND INDIRECT SALES ORGANIZATIONS AND ITS
+CUSTOMER SERVICE AND SUPPORT OPERATIONS.
+
+     Akamai currently has limited sales and marketing experience. Akamai's
+limited experience may restrict its success gaining broad market acceptance of
+its services or in commercializing its future services. Akamai's services
+require a sophisticated sales effort targeted at a limited number of key people
+within a prospective customer's organization. This sales effort requires the
+efforts of trained sales personnel. Akamai needs to continue to expand its
+marketing and sales organization in order to increase market awareness of its
+service to a greater number of organizations and generate increased revenue.
+Competition for these individuals is intense, and Akamai might not be able to
+hire the kind and number of sales personnel it needs. In addition, Akamai
+believes that its future success is dependent upon its ability to establish
+successful relationships with a variety of distribution partners. If Akamai is
+unable to expand its direct and indirect sales operations, it may not be able to
+increase market awareness or sales of its service, which may prevent Akamai from
+achieving and maintaining profitability.
+
+     Hiring personnel is very competitive in Akamai's industry because there is
+a limited number of people available with the necessary technical skills and
+understanding of Akamai's market. Once Akamai hires them, they require extensive
+training in Akamai's Internet content delivery service. If Akamai is unable to
+expand its customer service and support organization and train them as rapidly
+as necessary, Akamai may not be able to increase sales of its service, which
+would seriously harm its business.
+
+AKAMAI'S BUSINESS WILL SUFFER IF IT FAILS TO MANAGE ITS GROWTH PROPERLY.
+
+     Akamai has expanded its operations rapidly since its inception. Akamai
+continues to increase the scope of its operations and has grown its headcount
+substantially. Akamai's total number of employees grew from 227 on September 30,
+1999 to 464 on February 11, 2000. The merger with INTERVU is expected to
+increase the total number of Akamai employees. In addition, Akamai plans to
+continue to hire a significant number of employees this year. This growth has
+placed, and Akamai's anticipated growth in future operations will continue to
+place, a significant strain on its management systems and resources. Akamai's
+ability to successfully offer its services and implement its business plan in a
+rapidly evolving market requires an effective planning and management process.
+Akamai expects that it will need to continue to improve its financial and
+managerial controls, reporting systems and procedures, and will need to continue
+to expand, train and manage its workforce worldwide. Competition for highly
+skilled personnel is intense, especially in New England and central and southern
+California. Akamai may fail to attract, assimilate or retain qualified personnel
+to fulfill its current or future needs. Akamai's planned rapid growth places a
+significant demand on management and financial and operational resources. In
+order to grow and achieve future success, Akamai must:
+
+     - retain existing personnel;
+
+     - successfully integrate Network24 and INTERVU personnel;
+
+     - hire, train, manage and retain additional qualified personnel; and
+
+     - effectively manage multiple relationships with its customers, suppliers
+       and other third parties.
+
+     Failure to do so would have a materially adverse effect on its business,
+results of operations and financial condition.
+
+
+
+AKAMAI DEPENDS ON ITS KEY PERSONNEL TO MANAGE ITS BUSINESS EFFECTIVELY IN A
+RAPIDLY CHANGING MARKET AND IF AKAMAI IS UNABLE TO RETAIN ITS KEY EMPLOYEES,
+AKAMAI'S ABILITY TO COMPETE COULD BE HARMED.
+
+     Akamai's future success depends upon the continued services of its
+executive officers and other key technology, sales, marketing and support
+personnel, who have critical industry experience and relationships that they
+rely on in implementing Akamai's business plan. None of Akamai's officers or key
+employees is bound by an employment agreement for any specific term. Akamai has
+"key person" life insurance policies covering only the lives of F. Thomson
+Leighton and Daniel M. Lewin. The loss of the services of any of Akamai's key
+employees could delay the development and introduction of and negatively impact
+its ability to sell its service. Akamai faces intense competition for qualified
+personnel, including research and development, service and support and sales and
+marketing personnel.
+
+AKAMAI FACES RISKS ASSOCIATED WITH INTERNATIONAL OPERATIONS THAT COULD HARM ITS
+BUSINESS.
+
+     Akamai has expanded its international operations to Munich, Germany,
+London, England and Paris, France. A key aspect of its business strategy is to
+continue to expand its sales and support organizations internationally.
+Therefore, Akamai expects to commit significant resources to expand its
+international sales and marketing activities. However, Akamai may not be able to
+maintain or increase market demand for its services which may harm its business.
+Akamai is increasingly subject to a number of risks associated with
+international business activities which may increase its costs, lengthen its
+sales cycle and require significant management attention. These risks include:
+
+     - market acceptance of Akamai's products and services by countries outside
+       the United States;
+
+     - increased expenses associated with marketing services in foreign
+       countries;
+
+     - general economic conditions in international markets;
+
+     - currency exchange rate fluctuations;
+
+     - unexpected changes in regulatory requirements resulting in unanticipated
+       costs and delays;
+
+     - tariffs, export controls and other trade barriers;
+
+     - longer accounts receivable payment cycles and difficulties in collecting
+       accounts receivable; and
+
+     - potentially adverse tax consequences, including restrictions on the
+       repatriation of earnings.
+
+AKAMAI FACES A NUMBER OF UNKNOWN RISKS ASSOCIATED WITH YEAR 2000 PROBLEMS.
+
+     Akamai has attempted to assess and must continue to monitor year 2000
+issues. While Akamai has not experienced any year 2000 issues to date, there can
+be no assurance that Akamai has identified and remediated all material year 2000
+related issues. If Akamai's systems do not operate properly with respect to date
+calculations involving the year 2000 and subsequent dates, it could experience a
+system failure or miscalculations causing disruptions of operations, including
+among other things, a temporary inability to process transactions, send invoices
+or engage in similar normal business activities. The risks involve:
+
+     - potential warranty or other claims by Akamai's customers;
+
+     - errors in systems Akamai uses to run its business;
+
+     - errors in systems used by Akamai's suppliers;
+
+     - errors in systems used by Akamai's customers; and
+
+     - potential reduced spending by other companies on Internet content
+       delivery services as a result of significant spending on year 2000
+       remediation.
+
+     Akamai has designed its service for use in the year 2000 and beyond and
+believes it is year 2000 ready. However, Akamai's service is used in conjunction
+with larger networks involving sophisticated hardware and software products
+supplied by other vendors. Each of Akamai's customers' networks involves
+different combinations of third-party products. Akamai cannot evaluate whether
+all of its products are year 2000 ready.
+
+
+
+Akamai may face claims based on year 2000 problems in other companies' products
+or based on issues arising from the integration of multiple products within the
+overall network. Although no claims of this kind have been made, Akamai may in
+the future be required to defend its service in legal proceedings which could be
+expensive regardless of the merits of these claims.
+
+     If Akamai's suppliers, vendors, major distributors, partners, customers and
+service providers fail to correct their year 2000 problems, these failures could
+result in an interruption in, or a failure of, Akamai's normal business
+activities or operations. If a year 2000 problem occurs, it may be difficult to
+determine which party's products have caused the problem. These failures could
+interrupt Akamai's operations and damage its relationships with its customers.
+Due to the general uncertainty inherent in the year 2000 problem resulting from
+the readiness of third-party suppliers and vendors, Akamai is unable to
+determine at this time whether year 2000 failures could harm its business and
+its financial results.
+
+     Akamai's customers' purchasing plans could be affected by year 2000 issues
+if they need to expend significant resources to fix their existing systems to
+address year 2000 issues. This situation may reduce funds available to purchase
+Akamai's services.
+
+AKAMAI COULD INCUR SUBSTANTIAL COSTS DEFENDING ITS INTELLECTUAL PROPERTY FROM
+INFRINGEMENT OR A CLAIM OF INFRINGEMENT.
+
+     Other companies or individuals, including Akamai's competitors, may obtain
+patents or other proprietary rights that would prevent, limit or interfere with
+Akamai's ability to make, use or sell its services. As a result, Akamai may be
+found to infringe on the proprietary rights of others. In the event of a
+successful claim of infringement against Akamai and its failure or inability to
+license the infringed technology, its business and operating results would be
+significantly harmed. Companies in the Internet market are increasingly bringing
+suits alleging infringement of their proprietary rights, particularly patent
+rights. Any litigation or claims, whether or not valid, could result in
+substantial costs and diversion of resources. Intellectual property litigation
+or claims could force Akamai to do one or more of the following:
+
+     - cease selling, incorporating or using products or services that
+       incorporate the challenged intellectual property;
+
+     - obtain a license from the holder of the infringed intellectual property
+       right, which license may not be available on reasonable terms; and
+
+     - redesign products or services.
+
+     If Akamai is forced to take any of these actions, its business may be
+seriously harmed. Although Akamai carries insurance, its insurance may not cover
+potential claims of this type or may not be adequate to indemnify Akamai for all
+liability that may be imposed.
+
+INTERNET-RELATED LAWS COULD ADVERSELY AFFECT AKAMAI'S BUSINESS.
+
+     Laws and regulations which apply to communications and commerce over the
+Internet are becoming more prevalent. A recent session of the United States
+Congress resulted in Internet laws regarding children's privacy, copyrights,
+taxation and the transmission of sexually explicit material. The European Union
+recently enacted its own privacy regulations, and is currently considering
+copyright legislation that may extend the right of reproduction held by
+copyright holders to include the right to make temporary copies for any reason.
+The law of the Internet, however, remains largely unsettled, even in areas where
+there has been some legislative action. It may take years to determine whether
+and how existing laws such as those governing intellectual property, privacy,
+libel and taxation apply to the Internet. In addition, the growth and
+development of the market for online commerce may prompt calls for more
+stringent consumer protection laws, both in the United States and abroad, that
+may impose additional burdens on companies conducting business online. The
+adoption or modification of laws or regulations relating to the Internet, or
+interpretations of existing law, could adversely affect Akamai's business.
+
+
+
+AKAMAI MAY BE SUBJECT TO REGULATION, TAXATION, ENFORCEMENT OR OTHER LIABILITIES
+IN UNEXPECTED JURISDICTIONS.
+
+     Akamai provides services to customers located throughout the United States
+and in several foreign countries. As a result, Akamai may be required to qualify
+to do business, or be subject to tax or other laws and regulations, in these
+jurisdictions even if it does not have a physical presence, employees or
+property in these jurisdictions. The application of these multiple sets of laws
+and regulations is uncertain, but Akamai could find that it is subject to
+regulation, taxation, enforcement or other liability in unexpected ways, which
+could materially adversely affect its business, financial condition and results
+of operations.
+
+AKAMAI'S STOCK PRICE HAS BEEN AND MAY CONTINUE TO BE VOLATILE, WHICH COULD
+RESULT IN LITIGATION AGAINST AKAMAI.
+
+     The market price of Akamai's common stock has been extremely volatile and
+has fluctuated significantly in the past. The following factors could cause the
+market price of common stock to continue to fluctuate significantly:
+
+     - the addition or departure of key Akamai personnel;
+
+     - variations in Akamai's quarterly operating results;
+
+     - announcements by Akamai or its competitors of significant contracts, new
+       or enhanced products or service offerings, acquisitions, distribution
+       partnerships, joint ventures or capital commitments;
+
+     - changes in financial estimates by securities analysts;
+
+     - Akamai's sales of common stock or other securities in the future;
+
+     - changes in market valuations of networking, Internet and
+       telecommunications companies;
+
+     - fluctuations in stock market prices and volumes; and
+
+     - changes in general economic conditions, including interest rate levels.
+
+     In the past, class action litigation has often been brought against
+companies following periods of volatility in the market price of those
+companies' common stock. Akamai may become involved in this type of litigation
+in the future. Litigation is often expensive and diverts management's attention
+and resources which could materially adversely affect its business and results
+of operations.
+
+INSIDERS HAVE SUBSTANTIAL CONTROL OVER AKAMAI WHICH COULD LIMIT OTHERS' ABILITY
+TO INFLUENCE THE OUTCOME OF KEY TRANSACTIONS, INCLUDING CHANGES OF CONTROL.
+
+     The executive officers, directors and entities affiliated with them, in the
+aggregate, beneficially own approximately 63.2% of Akamai's outstanding common
+stock. These stockholders, if acting together, are able to influence
+significantly all matters requiring approval by Akamai's stockholders, including
+the election of directors and the approval of mergers or other business
+combination transactions.
+
+PROVISIONS OF AKAMAI'S CHARTER DOCUMENTS MAY HAVE ANTI-TAKEOVER EFFECTS THAT
+COULD PREVENT A CHANGE IN CONTROL EVEN IF THE CHANGE IN CONTROL WOULD BE
+BENEFICIAL TO AKAMAI'S STOCKHOLDERS.
+
+     Provisions of Akamai's amended and restated certificate of incorporation,
+by-laws, and Delaware law could make it more difficult for a third party to
+acquire Akamai, even if doing so would be beneficial to Akamai's stockholders.
+
+THERE MAY BE SALES OF A SUBSTANTIAL AMOUNT OF AKAMAI'S COMMON STOCK AFTER THE
+LOCK-UP PERIOD FROM AKAMAI'S INITIAL PUBLIC OFFERING EXPIRES THAT COULD CAUSE
+AKAMAI'S STOCK PRICE TO FALL.
+
+     Akamai's current stockholders hold a substantial number of shares, which
+they will be able to sell in the public market upon the expiration on April 26,
+2000 of the lock-up period from Akamai's initial public offering. In addition,
+Akamai expects to issue approximately 9.97 million shares of Akamai common stock
+to the stockholders of INTERVU in the proposed merger with INTERVU. Sales of a
+substantial number of
+
+
+
+shares of Akamai's common stock within a short period of time could cause
+Akamai's stock price to fall. In addition, the sale of these shares could impair
+Akamai's ability to raise capital through the sale of additional stock.
+
+THE UNPREDICTABILITY OF AKAMAI'S QUARTERLY RESULTS MAY ADVERSELY AFFECT THE
+TRADING PRICE OF ITS COMMON STOCK.
+
+     Akamai's revenue and operating results will vary significantly from quarter
+to quarter due to a number of factors, many of which are outside of its control
+and any of which may cause its stock price to fluctuate. The primary factors
+that may affect Akamai include the following:
+
+     - demand for Internet content delivery services and streaming services;
+
+     - the timing and size of sales of Akamai's services;
+
+     - the timing of recognizing revenue and deferred revenue;
+
+     - new product and service introductions and enhancements by Akamai's
+       competitors and itself;
+
+     - changes in Akamai's pricing policies or the pricing policies of Akamai's
+       competitors;
+
+     - Akamai's ability to develop, introduce and deliver new products, services
+       and enhancements that meet customer requirements in a timely manner;
+
+     - the length of the sales cycle for Akamai's services;
+
+     - increases in the prices of, and availability of, the products, services,
+       components or raw materials Akamai purchases, including bandwidth;
+
+     - Akamai's ability to attain and maintain quality levels for its services;
+
+     - expenses related to testing of Akamai's services;
+
+     - costs related to acquisitions of technology or businesses; and
+
+     - general economic conditions as well as those specific to the Internet and
+       related industries.
+
+     Akamai plans to increase significantly its operating expenses to fund
+greater levels of engineering and development, expand its sales and marketing
+operations, broaden its customer support capabilities, continue to develop new
+distribution channels and continue to expand internationally. Akamai also plans
+to expand its general and administrative functions to address the increased
+reporting and other administrative demands and the increasing size of Akamai's
+business.
+
+     Akamai's operating expenses are largely based on anticipated revenue trends
+and a high percentage of its expenses are, and will continue to be, fixed in the
+short term. As a result, a delay in generating or recognizing revenue for the
+reasons set forth above, or for any other reason, could cause significant
+variations in Akamai's operating results from quarter to quarter and could
+result in substantial operating losses.
+
+     Due to the above factors, Akamai believes that quarter-to-quarter
+comparisons of its operating results are not a good indication of its future
+performance. It is likely that in some future quarters, Akamai's operating
+results may be below the expectations of public market analysts and investors.
+In this event, the price of Akamai's common stock will probably fall.
+
+ITEM 2.  PROPERTIES.
+
+     Akamai's headquarters are currently in approximately 130,000 square feet of
+leased office space located in two locations in Cambridge, Massachusetts. In
+addition, Akamai's west coast offices are in approximately 21,930 square feet of
+leased office space located at 1400 Fashion Island Boulevard in San Mateo,
+California. In connection with its acquisition of Network24, Akamai assumed the
+lease for approximately 7,360 square feet of office space located at 10261 Bubb
+Road, in Cupertino, California.
+
+ITEM 3.  LEGAL PROCEEDINGS.
+
+     Akamai is not party to any material legal proceedings.
+
+
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+     Pursuant to a Written Consent of Stockholders of Akamai dated October 14,
+1999, the following matters were approved by the holders of 40,285,456 shares of
+the Akamai common stock (out of 44,922,810 shares then outstanding and entitled
+to vote) and 5,261,104 shares of Akamai convertible preferred stock (out of
+5,965,719 shares then outstanding and entitled to vote):
+
+     (a) Akamai's Amended and Restated Certificate of Incorporation increasing
+         the number of authorized shares of common stock and authorized a class
+         of undesignated shares of preferred stock;
+
+     (b) Akamai's Amended and Restated By-laws;
+
+     (c) The election of the following persons as directors of Akamai to hold
+         office until their successors are duly elected and qualified:
+
+              Arthur H. Bilger
+              George H. Conrades
+              Todd A. Dagres
+              F. Thomson Leighton
+              Daniel M. Lewin
+              Terrance G. McGuire
+              Edward W. Scott
+
+     (d) Classification of the members of the Board of Directors into three
+         classes of directors;
+
+     (e) Approval of the amendment to Akamai's Second Amended and Restated 1998
+         Stock Incentive Plan increasing the number of shares of Akamai common
+         stock reserved for issuance from 22,755,600 shares to 28,755,600
+         shares;
+
+     (f) Adoption of Akamai's 1999 Employee Stock Purchase Plan; and
+
+     (g) Ratification of PricewaterhouseCoopers LLP as Akamai's independent
+         accountants for year ended December 31, 1999.
+
+                                    PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS.
+
+(a) Price Range of Common Stock
+
+     Akamai's common stock is listed on the Nasdaq National Market under the
+symbol "AKAM." Public trading of Akamai's common stock commenced on October 29,
+1999. Prior to that, there was no public market for Akamai's common stock. The
+following table sets forth, for the periods indicated, the high and low sale
+price per share of the common stock on the Nasdaq National Market:
+
+
+
+     As of December 31, 1999, there were 228 holders of record of Akamai's
+common stock.
+
+     Akamai has never paid or declared any cash dividends on shares of its
+common stock or other securities and does not anticipate paying any cash
+dividends in the foreseeable future. Akamai currently intends to retain all
+future earnings, if any, for use in the operation of its business.
+
+
+
+RECENT SALES OF UNREGISTERED SECURITIES
+
+     COMMON STOCK
+
+     On March 15, 1999, Akamai issued and sold 1,260,000 shares of its common
+stock, at a purchase price of approximately $0.042 per share, to Earl P.
+Galleher III pursuant to a stock restriction agreement.
+
+     On March 26, 1999, Akamai issued 120,000 shares of common stock, 600,000
+shares of common stock and 5,940,000 shares of common stock pursuant to stock
+restriction agreements with Steven Heinrich, Arthur H. Bilger and George
+Conrades, respectively, at a purchase price of approximately $0.333 per share.
+
+     On May 18, 1999, Akamai issued and sold 600,000 shares of common stock, at
+price of approximately $0.833 per share, to Paul Sagan pursuant to a stock
+restriction agreement granted under the 1998 Stock Incentive Plan.
+
+     On July 1, 1999, Akamai issued and sold 10,000 shares of its common stock,
+at a purchase price of $0.835 per share, to Amos Hostetter pursuant to the
+exercise of a stock option.
+
+     On July 1, 1999, Akamai issued and sold 10,000 shares of its common stock,
+at a purchase price of $0.835 per share, to Benjamin A. Gomez pursuant to the
+exercise of a stock option.
+
+     On July 23, 1999, Akamai issued and sold an aggregate of 1,300,000 shares
+of its common stock, at a purchase price of $2.50 per share, to Timothy Weller
+and Robert O. Ball III pursuant to stock restriction agreements.
+
+     On August 23, 1999, Akamai issued and sold 112,500 shares of its common
+stock, at a purchase price of approximately $0.014 per share, to Bruce Maggs
+pursuant to the exercise of a stock option.
+
+     On August 30, 1999, Akamai issued and sold 315,000 shares of its common
+stock, at a purchase price of $1.0833 per share, to Warren Recicar pursuant to
+the exercise of a stock option.
+
+     On October 7, 1999, Akamai issued and sold 90,000 shares of its common
+stock, at a purchase price of approximately $0.011 per share, to Scott Smith
+pursuant to the exercise of a stock option.
+
+     The stock restriction agreements give Akamai the right to repurchase all or
+a portion of any unvested shares at their purchase price in the event that the
+person ceases to provide services to Akamai.
+
+     SERIES B PREFERRED STOCK AND SERIES C PREFERRED STOCK
+
+     On April 16, 1999 and April 30, 1999 Akamai issued an aggregate of
+1,327,500 shares of Series B convertible preferred stock to 24 investors for a
+per share purchase price of $15.07. In October 1999, Akamai issued an aggregate
+of 145,195 shares of its Series C convertible preferred stock to Baker
+Communications Fund, L.P. for a per share purchase price of $34.436.
+
+     Series D Preferred Stock On June 21, 1999 Akamai issued an aggregate of
+685,194 shares of Series D convertible preferred stock to Apple Computer Inc.
+Ltd. for a per share purchase price of $18.243.
+
+     Series E Preferred Stock On August 6, 1999 Akamai issued an aggregate of
+1,867,480 shares of Series E convertible preferred stock to Cisco Systems, Inc.
+for a per share purchase price of $26.239.
+
+     Series F Preferred Stock On September 20, 1999 Akamai issued an aggregate
+of 985,545 shares of Series F convertible preferred stock to Microsoft
+Corporation for a per share purchase price of $15.22.
+
+     All of the above shares of convertible preferred stock converted into
+shares of common stock upon the closing of Akamai's initial public offering of
+common stock on November 3, 1999.
+
+     Grants of Stock Options From January 1999 to October 1999, Akamai granted
+stock options to purchase 15,240,300 shares of common stock at exercise prices
+ranging from $0.01 to $19.80 per share to employees, consultants and directors
+pursuant to its 1998 Stock Incentive Plan.
+
+
+
+     On April 16, 1999, Akamai granted an option to purchase up to 145,195
+shares of its Series C convertible preferred stock at an exercise price of
+$34.436 per share to Baker Communications Fund, L.P. pursuant to a Series B
+convertible preferred stock and Series C convertible preferred stock purchase
+agreement.
+
+     Issuances of Notes and Warrants On January 27, 1999, Akamai issued a
+warrant to Silicon Valley Bank to purchase up to 74,499 shares of common stock
+at an exercise price of approximately $0.40 per share.
+
+     On May 7, 1999, Akamai issued 15% senior subordinated notes in the
+principal amount of $15,000,000 and warrants to purchase up to 2,002,836 shares
+of common stock at an exercise price of approximately $2.50 per share to 20
+investors pursuant to a 15% senior subordinated notes and warrants to purchase
+common stock purchase agreement.
+
+     15% Senior Subordinated Note Financing On May 7, 1999, Akamai issued 15%
+senior subordinated notes in the aggregate principal amount of $15,000,000
+coupled with warrants to purchase an aggregate of 2,002,836 shares of common
+stock for an exercise price of approximately $2.50 per share to 20 investors.
+
+     No underwriters were involved in any of the foregoing sales of securities.
+Such sales were made in reliance upon an exemption from the registration
+provisions of the Securities Act set forth in Section 4(2) thereof relative to
+sales by an issuer not involving any public offering or the rules and
+regulations thereunder, or, in the case of options to purchase common stock,
+Rule 701 of the Securities Act. All of the foregoing securities are deemed
+restricted securities for the purposes of the Securities Act.
+
+(b)  Use of Proceeds from Sales of Registered Securities
+
+     On November 3, 1999 Akamai sold 9,000,000 shares of its common stock in an
+initial public offering at a price of $26.00 per share pursuant to a
+Registration Statement on Form S-1 (the "Registration Statement") (Registration
+No. 333-85679) that was declared effective by the Securities and Exchange
+Commission on October 28, 1999. Morgan Stanley Dean Witter, Donaldson Lufkin &
+Jenrette, Salomon Smith Barney and Thomas Weisel Partners LLC were the managing
+underwriters of the offering. The aggregate proceeds to Akamai from the offering
+were $217.6 million after deducting an aggregate of $16.4 million in
+underwriting discounts and commission to the underwriters. None of the proceeds
+of the offering were paid by Akamai, directly or indirectly, to any director,
+officer or general partner of Akamai or any of their associates, or to any
+persons owning ten percent or more of the outstanding stock of Akamai. In
+addition to underwriting discounts and commissions, the expenses incurred in
+connection with the offering were approximately $2.2 million, including $850,000
+for Directors and Officers Insurance, $400,000 of legal costs, $460,000 of
+accounting costs, $50,000 of printing costs, $188,000 of registration, filing
+and listing costs, and other costs of approximately $300,000. During the period
+from the offering to December 31, 1999, Akamai has used the proceeds as follows:
+approximately $12.0 million for network equipment and computer equipment and
+hardware, $12.2 million for the repayment of senior subordinated notes, $5.8
+million for payroll and benefits, $2.5 million for advertising expenses and $1.8
+million for bandwith costs.
+
+ITEM 6.  SELECTED FINANCIAL DATA.
+
+     The following selected financial data should be read in conjunction with
+Akamai's consolidated financial statements and related notes and with
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations" and other financial data included elsewhere in this annual report on
+Form 10-K. The statement of operations data for the period from inception
+(August 20, 1998) to December 31, 1998 and the year ended December 31, 1999 are
+derived from audited consolidated financial statements included elsewhere in
+this annual report on Form 10-K.
+
+
+
+
+
+
+
+
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS.
+
+     The following discussion should be read together with Akamai's consolidated
+financial statements and accompanying notes appearing elsewhere in this annual
+report on Form 10-K. This annual report on Form 10-K contains forward-looking
+statements that involve risks and uncertainties. Actual results may differ from
+those indicated in forward-looking statements as a result of certain factors
+including, but not limited to, those set forth under the heading "Factors
+Affecting Future Operating Results."
+
+OVERVIEW
+
+     Akamai provides a global delivery service for Internet content, streaming
+media and applications that improves Web site speed, quality, reliability and
+scaleability and protects against Web site crashes due to demand overloads.
+Akamai markets its services to large businesses and other businesses with an
+Internet focus. Akamai's services deliver Akamai's customers' Web content and
+applications through a worldwide server network by locating the content and
+applications geographically closer to users.
+
+     Since Akamai's inception, Akamai has incurred significant losses, and as of
+December 31, 1999, Akamai had an accumulated deficit of $58.6 million. Akamai
+has not achieved profitability on a quarterly or an annual basis, and
+anticipates that it will continue to incur net losses. Akamai expects to incur
+significant engineering and development and sales, general and administrative
+expenses and, as a result, Akamai will need to generate significant revenue for
+it to achieve and maintain profitability.
+
+     Akamai derives its revenue from the sale of its FreeFlow and FreeFlow
+Streaming services under contracts with terms typically ranging from 12 to 36
+months. Akamai recognizes revenue based on fees for the amount of Internet
+content delivered through its services. These contracts also provide for minimum
+monthly fees. Customers are typically billed monthly in advance for minimums and
+monthly in arrears for usage above the minimums. In the future, Akamai also
+expects to derive revenue for implementation, installation, usage and other fees
+that would be recognized over the period of the related contracts.
+
+     To date, substantially all of Akamai's revenue has been derived from
+customers based in the United States. Akamai expects that revenue from customers
+based outside the United States will increase in future periods. To date,
+substantially all of Akamai's revenue has been derived from direct sales and
+Akamai expects that revenue through indirect distribution channels will increase
+in future periods. For the year ended December 31, 1999, Apple Computer
+accounted for 22% of Akamai's revenue and Yahoo! accounted for 13% of its
+revenue.
+
+     Cost of services consists of depreciation of network equipment used in
+providing Akamai's services, fees paid to network providers for bandwidth and
+monthly fees paid to third-party network data centers for housing Akamai's
+servers. Akamai enters into contracts for bandwidth with third-party network
+providers with terms typically ranging from six months to three years. These
+contracts may commit Akamai to minimum monthly fees plus additional fees for
+bandwidth usage above Akamai's contracted level. Under Akamai's accelerated
+networks program, Akamai provides use of its servers to smaller Internet service
+providers which, in turn, provide Akamai with rack space for its servers and
+access to their bandwidth. Akamai does not recognize as revenue any value to the
+Internet service providers associated with the use of Akamai's servers and does
+not expense the value of the rack space and bandwidth Akamai receives. Akamai
+believes that, to date, the values provided under this program have been
+insignificant.
+
+     Engineering and development expenses consist primarily of salaries and
+related personnel costs and costs related to the design, development, testing,
+deployment and enhancement of Akamai's services and Akamai's network. Akamai has
+to date expensed its engineering and development costs as incurred. Akamai
+believes that research and development is critical to its strategic product
+development objectives and intends to continue to enhance its technology to meet
+the changing requirements of the market demand. As a result, Akamai expects its
+engineering and development expenses to increase in the future.
+
+     Sales, general and administrative expenses consist primarily of salaries
+and related costs of sales and marketing, operations and finance personnel and
+recruiting expenses, professional fees and legal and accounting services. Akamai
+expects that sales, general and administrative expenses will increase in the
+future
+
+
+
+as Akamai hires additional personnel, expands its operations, initiates
+additional marketing programs, establishes sales offices in new locations and
+incurs additional costs related to the growth of its business and its operations
+as a public company.
+
+RESULTS OF OPERATIONS
+
+     PERIOD FROM INCEPTION (AUGUST 20, 1998) THROUGH DECEMBER 31, 1998 AND THE
+YEAR ENDED DECEMBER 31, 1999
+
+     Revenue. Akamai recorded no revenue for the period from inception (August
+20, 1998) to December 31, 1998. Revenue for the year ended December 31, 1999 was
+$4.0 million. The increase in revenue was due to sales of services, which were
+commercially introduced in April 1999.
+
+     Cost of Services. Cost of services expenses were $31,000 for the period
+from inception (August 20, 1998) to December 31, 1998 and represented 3.4% of
+total operating expenses in fiscal 1998. Cost of services expenses were $9.0
+million for the year ended December 31, 1999 and represented 14.9% of total
+operating expenses for the year ended December 31, 1999. The increase in cost of
+services expenses was due to the commencement of testing of Akamai's FreeFlow
+service in early 1999 and commercial introduction of services in April 1999.
+Gross margins, defined by revenue less cost of services, were negative largely
+due to the fixed cost of building a global network of servers. The average
+selling price of Akamai's services as measured in dollars per Mega bits per
+second, or Mbps, exceeds Akamai's average cost of bandwidth as measured in
+dollars per Mbps. Gross margins are expected to improve as Akamai increases its
+number of customers and volume of revenue relative to the growth in its network
+infrastructure.
+
+     Engineering and Development. Engineering and development expenses were
+$229,000 for the period from inception (August 20, 1998) to December 31, 1998
+and represented 25.4% of total operating expenses in fiscal 1998. Engineering
+and development expenses for the year ended December 31, 1999 were $11.7 million
+and represented 19.4% of total operating expenses for the year ended December
+31, 1999. Approximately $9.7 million of the increase was attributable to
+personnel and payroll related expenses resulting from an increase in headcount.
+Akamai's West Coast office had 28 research and development employees as of
+December 31, 1999.
+
+     Sales, General and Administrative. Sales, general and administrative
+expenses were $435,000 for the period from inception (August 20, 1998) to
+December 31, 1998 and represented 48.3% of total operating expenses in fiscal
+1998. Sales, general and administrative expenses for the year ended December 31,
+1999 were $29.7 million and represented 49.1% of total operating expenses for
+the period. Approximately $11.2 million of the increase was due to sales,
+general and administrative personnel and payroll related expenses resulting from
+an increase in headcount. Approximately $7.7 million of the increase was
+attributable to advertising campaigns initiated during the year.
+
+     Equity Related Compensation. Equity related compensation expenses consist
+of the amortization of deferred stock compensation resulting from the grant of
+stock options or shares of restricted stock at exercise or sale prices deemed to
+be less than the fair value of the common stock on the grant date. At December
+31, 1999, deferred stock compensation, which is a component of stockholders'
+equity, was $29.7 million. This amount is being amortized ratably over the
+vesting periods of the applicable stock options and restricted shares, typically
+four years, with 25% vesting on the first anniversary of the grant date and the
+balance vesting 6.25% quarterly thereafter. Akamai expects to incur equity
+related compensation expenses of at least $8.7 million in 2000, $8.7 million in
+2001, $8.7 million in 2002 and $3.6 million in 2003.
+
+     Interest Income, Net. Interest income, net was $10,000 and $2.3 million for
+the period from inception (August 20, 1998) through December 31, 1998 and the
+year ended December 31, 1999, respectively. Interest income, net consists of
+interest earned on Akamai's cash equivalent balances, net of interest expense.
+Interest income increased in 1999 due to interest on proceeds from the sale of
+preferred stock and the sale of common stock in Akamai's initial public
+offering. This was partially offset by an increase in interest expense from the
+issuance of subordinated notes during the year ended December 31, 1999.
+
+
+
+     Extraordinary Loss From Early Extingishment of Debt. During April 1999,
+Akamai issued 15% subordinated demand notes payable in the aggregate amount of
+$15.0 million due in May 2004. In connection with the notes, Akamai also issued
+warrants to purchase an aggregate of 2,002,836 shares of common stock at $2.50
+per share in exchange for cash. These warrants expire in May 2004. In December
+1999, Akamai utilized a portion of the proceeds from the initial public offering
+to exercise its right to pay a portion of the notes and as a result, recognized
+an extraordinary loss from the early extinguishment in the amount of $3.4
+million. As of December 31, 1999, $2.8 million of the subordinated notes
+remained outstanding and are expected to be paid off in the first quarter of
+fiscal 2000.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     Initially, Akamai financed its operations primarily through private sales
+of its capital stock and issuance of senior subordinated notes totaling
+approximately $124.6 million in net proceeds through December 31, 1999. In
+November 1999, Akamai sold registered shares of common stock through an initial
+public offering. The net proceeds to Akamai from the offering were $217.6
+million after deducting an aggregate of $16.4 million in underwriting discounts
+and commission to the underwriters. Akamai has also financed its operations
+through borrowings under long-term debt agreements for the purchase of capital
+equipment in the amount of $1.5 million. At December 31, 1999, cash and cash
+equivalents totaled $270 million.
+
+     Cash provided by operating activities was $2,000 for the period from
+inception (August 20, 1998) to December 31, 1998 and cash used in operating
+activities was $32.3 million for the year ended December 31, 1999. Net cash
+flows from operating activities in each period reflect increasing net losses
+partially offset by increases in accounts payable and accrued expenses.
+
+     Cash used in investing activities was $1.5 million for the period from
+inception (August 20, 1998) to December 31, 1998 and $25.9 million for the year
+ended December 31, 1999. Net cash used for investing activities in each period
+reflect purchases of property and equipment, primarily servers for deployment
+and expansion of Akamai's network, information systems used to operate the
+business, and facilities improvements.
+
+     Cash provided by financing activities was $8.3 million for the period from
+inception (August 20, 1998) through December 31, 1998 and $321.0 million for the
+year ended December 31, 1999. Cash provided by financing activities for these
+periods was derived primarily from the sale of common stock in an initial public
+offering and from private sales of convertible preferred stock and the issuance
+of 15% senior subordinated notes. In December 1999, Akamai paid $12.2 million of
+the senior subordinated notes, including accrued interest. Akamai has an
+equipment line of credit of $1.5 million, collateralized by the property and
+equipment, which bears interest at the greater of 7.0% per year or the current
+36 month treasury yield plus 275 basis points. At December 31, 1999,
+approximately $1.1 million was outstanding under this line of credit.
+
+     Akamai believes that the net proceeds from the initial public offering,
+together with its current cash, cash equivalents and marketable securities, will
+be sufficient to meet its anticipated cash needs for working capital and capital
+expenditures for at least the next 12 months. If cash generated from operations
+is insufficient to satisfy Akamai's liquidity requirements, it may seek to sell
+additional equity or debt securities. If additional funds are raised through the
+issuance of debt securities, these securities could have rights, preferences and
+privileges senior to those accruing to holders of common stock, and the term of
+this debt could impose restrictions on Akamai's operations. The sale of
+additional equity or convertible debt securities could result in additional
+dilution to Akamai's stockholders, and Akamai cannot be certain that additional
+financing will be available in amounts or on terms acceptable to Akamai, if at
+all. If Akamai is unable to obtain this additional financing, it may be required
+to reduce the scope of its planned technology, services or product development
+and sales and marketing efforts, which could harm its business, financial
+condition and operating results. It is Akamai's intention to at all times
+maintain cash on hand and borrowing capacity to meet funding needs for 18 to 24
+months in the future.
+
+     Akamai has designed its services for use in the year 2000 and beyond and
+believes it is year 2000 ready. Akamai has developed a contingency plan to
+address situations that may result if it experiences significant year 2000
+problems. As part of Akamai's contingency plan, it maintains a fully operational
+back-up site and
+
+
+
+conducts network monitoring 24 hours per day. Akamai's back-up site is located
+at one of its server sites and is equipped with power generation and
+communication alternatives.
+
+     Akamai's services are used in conjunction with larger networks involving
+sophisticated hardware and software products supplied by other vendors. Each of
+Akamai's customers' networks involves different combinations of third-party
+products. Akamai cannot evaluate whether all of these products are year 2000
+ready. Akamai may face claims based on year 2000 problems in other companies'
+products or on problems arising from the integration of multiple products within
+the overall network. Although no claims of this kind have been made, Akamai may
+in the future be required to defend its services in legal proceedings which
+could be expensive regardless of the merits of these claims.
+
+RECENT ACCOUNTING PRONOUNCEMENT
+
+     In June 1998, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards ("SFAS") No. 133, "Accounting for Derivatives and
+Hedging Activities," which establishes accounting and reporting standards for
+derivative instruments, including derivative instruments embedded in other
+contracts, and for hedging activities. Akamai will adopt SFAS No. 133 as
+required by SFAS No. 137, "Deferral of the Effective Date of the FASB Statement
+No. 133," in fiscal year 2001. Akamai does not expect the adoption of SFAS No.
+133 to have an impact on its financial condition or results of operations.
+
+ITEM 7A.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+     Akamai does not use derivative financial instruments. Akamai generally
+places its marketable securities investments in high quality credit investments,
+primarily U.S. Government obligations and corporate obligations with contractual
+maturities of less than three months. Akamai does not expect any material loss
+from its marketable securities investments and believes that its potential
+interest rate exposure is not material.
+
+
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+
+                   INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+
+
+                       REPORT OF INDEPENDENT ACCOUNTANTS
+
+To the Board of Directors and Stockholders of
+Akamai Technologies, Inc.:
+
+     In our opinion, the accompanying balance sheets and the related statements
+of operations, cash flows and convertible preferred stock and stockholders'
+equity (deficit) present fairly in all material respects, the financial position
+of Akamai Technologies, Inc. and its subsidiaries as of December 31, 1998 and
+1999 and the results of their operations and their cash flows for the period
+from inception (August 20, 1998) to December 31, 1998 and the year ended
+December 31, 1999, in conformity with accounting principles generally accepted
+in the United States. These financial statements are the responsibility of the
+Company's management. Our responsibility is to express an opinion on these
+financial statements based on our audits. We conducted our audits of these
+statements in accordance with auditing standards generally accepted in the
+United States which require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements, assessing the
+accounting principles used and significant estimates made by management, and
+evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for the opinion expressed above.
+
+                                          /s/ PricewaterhouseCoopers LLP
+
+Boston, Massachusetts
+January 25, 2000, except for Note 14,
+as to which the date is February 28, 2000
+
+
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+                          CONSOLIDATED BALANCE SHEETS
+                (in thousands, except share and per share data)
+
+
+
+  The accompanying notes are an integral part of these consolidated financial
+                                  statements.
+
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+                     CONSOLIDATED STATEMENTS OF OPERATIONS
+                (in thousands, except share and per share data)
+
+
+
+  The accompanying notes are an integral part of these consolidated financial
+                                  statements.
+
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+CONSOLIDATED STATEMENTS OF CONVERTIBLE PREFERRED STOCK AND STOCKHOLDERS' EQUITY
+                                   (DEFICIT)
+
+  FOR THE PERIOD FROM INCEPTION (AUGUST 20, 1998) TO DECEMBER 31, 1998 AND THE
+                          YEAR ENDED DECEMBER 31, 1999
+                (in thousands, except share and per share data)
+
+
+  The accompanying notes are an integral part of these consolidated financial
+                                  statements.
+
+
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+                (in thousands, except share and per share data)
+
+
+
+  The accompanying notes are an integral part of these consolidated financial
+                                  statements.
+
+
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1.  NATURE OF BUSINESS:
+
+     Akamai provides a global delivery service for Internet content, streaming
+media and applications that improves Web site speed, quality, reliability and
+scaleability and protects against Web site crashes due to demand overloads.
+Akamai markets its services to large businesses and other businesses with an
+Internet focus. Akamai's services deliver Akamai's customers' Web content and
+applications through a worldwide server network by locating the content and
+applications geographically closer to users.
+
+     The Company has a single operating segment, global delivery service for
+Internet content, streaming media and applications. The Company has no
+organizational structure dictated by product lines, geography or customer type.
+Substantially all revenue earned to date has been generated from U.S. based
+customers.
+
+     The consolidated financial statements include the accounts of Akamai and
+its wholly-owned subsidiaries. All significant intercompany transactions and
+balances have been eliminated.
+
+2.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:
+
+  CASH AND CASH EQUIVALENTS
+
+     Cash equivalents consist of cash held in bank deposit accounts and
+short-term, highly liquid investments with remaining maturities of three months
+or less at the date of purchase.
+
+  PROPERTY AND EQUIPMENT
+
+     Property and equipment are stated at cost, net of accumulated depreciation.
+Depreciation is computed on a straight-line basis over estimated useful lives of
+three to five years. Leasehold improvements are depreciated over the shorter of
+related lease terms or the estimated useful lives. Property and equipment
+acquired under capital lease is depreciated over the shorter of related lease
+terms or the useful life of the asset. Upon retirement or sale, the costs of the
+assets disposed and the related accumulated depreciation are removed from the
+accounts and any resulting gain or loss is included in the determination of
+income. Repairs and maintenance costs are expensed as incurred.
+
+  INTANGIBLE ASSETS
+
+     Intangible assets consist primarily of the cost of acquired license rights
+to content delivery technology. Intangible assets are amortized using the
+straight-line method over ten years, based on the estimated useful life. The
+carrying value of the intangible assets is reviewed on a quarterly basis for the
+existence of facts or circumstances both internally and externally that may
+suggest impairment. To date, no such impairment has occurred. The Company
+determines whether an impairment has occurred based on gross expected future
+cash flows and measures the amount of the impairment based on the related future
+estimated discounted cash flows. The cash flow estimates used to determine the
+impairment, if any, contain management's best estimates, using appropriate and
+customary assumptions and projections at that time. Accumulated amortization was
+$8,918 and $56,064 at December 31, 1998 and 1999, respectively.
+
+  REVENUE RECOGNITION
+
+     The Company derives revenue from the sale of its services under contracts
+with terms typically ranging from 12 to 36 months. The Company recognizes
+revenue based on fees for the amount of Internet content delivered through the
+Company's services. These contracts also provide for minimum monthly fees.
+Revenue may also be derived from one-time implementation, installation, usage
+and other fees which are recognized over the period of the related contracts.
+Deferred revenue consists of billings in excess of revenue recognized.
+
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+  COST OF SERVICES
+
+     Cost of services consists of depreciation of network equipment used in
+providing the Company's services, fees paid to network providers for bandwidth
+and monthly fees for housing the Company's servers in third-party network data
+centers. The Company enters into contracts for bandwidth with third-party
+network providers with terms typically ranging from six months to three years.
+These contracts commit the Company to minimum monthly fees plus additional fees
+for bandwidth usage above the contracted level. Under the Akamai accelerated
+networks program, the Company provides Akamai servers without charge to smaller
+Internet service providers which, in turn, provide the Company with rack space
+for the Company's servers and bandwidth to deliver content. The Company does not
+recognize as revenue any value to the Internet service providers associated with
+the use of the Company's servers and does not expense the value of the rack
+space and bandwidth received.
+
+  STOCK-BASED COMPENSATION
+
+     The Company accounts for stock-based awards to employees using the
+intrinsic value method as prescribed by Accounting Principles Board Opinion
+("APB") No. 25, "Accounting for Stock Issued to Employees," and related
+interpretations. Accordingly, no compensation expense is recorded for options
+issued to employees in fixed amounts and with fixed exercise prices at least
+equal to the fair market value of the Company's common stock at the date of
+grant. The Company has adopted the provisions of Statement of Financial
+Accounting Standards ("SFAS") No. 123, "Accounting for Stock-Based
+Compensation," through disclosure only (Note 9). All stock-based awards to
+nonemployees are accounted for at their fair value in accordance with SFAS No.
+123.
+
+  ENGINEERING AND DEVELOPMENT COSTS
+
+     Engineering and development costs consist primarily of salaries and related
+personnel costs for the design, deployment, testing and enhancement of the
+Company's service and the Company's network.
+
+     Costs incurred in the engineering and development of the Company's service
+are expensed as incurred, except for certain software development costs. Costs
+associated with the development of computer software are expensed prior to the
+establishment of technological feasibility (as defined by SFAS No. 86,
+"Accounting for the costs of Computer Software to be Sold, Leased, or Otherwise
+Marketed") and capitalized thereafter. The Company also has adopted Statement of
+Position ("SOP") 98-1, which requires computer software costs associated with
+internal use software to be charged to operations as incurred until certain
+capitalization criteria are met. Costs eligible for capitalization under SFAS
+No. 86 and SOP 98-1 have been insignificant to date.
+
+  CONCENTRATIONS OF CREDIT RISK
+
+     Financial instruments which potentially subject the Company to
+concentrations of credit risk consist primarily of cash, cash equivalents and
+accounts receivable. At December 31, 1998 and 1999, the Company had cash
+balances at certain financial institutions in excess of federally insured
+limits. However, the Company does not believe that it is subject to unusual
+credit risk beyond the normal credit risk associated with commercial banking
+relationships.
+
+     For the year ended December 31, 1999, two customers accounted for 22% and
+13%, respectively, of total revenue.
+
+  INCOME TAXES
+
+     Deferred taxes are determined based on the difference between the financial
+statement and tax basis of assets and liabilities using enacted tax rates in
+effect in the years in which the differences are expected to
+
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+reverse. Valuation allowances are provided if, based upon the weight of
+available evidence, it is more likely than not some or all of the deferred tax
+assets will not be realized.
+
+  ADVERTISING EXPENSE
+
+     The Company recognizes advertising expense as incurred. Advertising expense
+was approximately $7.7 million for the year ended December 31, 1999. There was
+no advertising expense for the period from inception (August 20, 1998) to
+December 31, 1998.
+
+  FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+     The carrying amounts of the Company's financial instruments, which include
+cash equivalents, accounts receivable, notes receivable, accounts payable,
+accrued expenses and notes payable approximate their fair values at December 31,
+1998 and 1999.
+
+  OTHER COMPREHENSIVE INCOME
+
+     The Company has adopted SFAS No. 130, "Reporting Comprehensive Income,"
+which established standards for reporting and displaying comprehensive income
+and its components in a financial statement that is displayed with the same
+prominence as other financial statements. Comprehensive loss is equal to net
+loss, for the period from inception (August 20, 1998) to December 31, 1998 and
+for the year ended December 31, 1999.
+
+  USE OF ESTIMATES
+
+     The presentation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amount of revenue and expenses during the reporting
+period. Actual results could differ from those estimates. Significant estimates
+in these financial statements include valuation of deferred tax assets and
+useful lives of depreciable assets.
+
+  RECLASSIFICATIONS
+
+     Certain prior year amounts have been reclassified to confirm to the current
+year presentation.
+
+  RECENT ACCOUNTING PRONOUNCEMENT
+
+     In June 1998, the FASB issued SFAS No. 133, "Accounting for Derivative
+Instruments and Hedging Activities," which establishes accounting and reporting
+standards for derivative instruments and hedging activities. It requires that an
+entity recognize all derivatives as either assets or liabilities in the
+statement of financial position and measure those instruments at fair value. The
+Company, to date, has not engaged in derivative and hedging activities, and
+accordingly does not believe that the adoption of SFAS No. 133 will have a
+material impact on the financial reporting and related disclosures of the
+Company. The Company will adopt SFAS No. 133 as required by SFAS No. 137,
+"Deferral of the Effective Date of the FASB Statement No. 133," in fiscal year
+2001.
+
+3.  NET LOSS PER SHARE:
+
+     Basic net loss per share is computed using the weighted average number of
+common shares outstanding during the period. Dilutive net loss per share is
+computed using the weighted average number of common shares outstanding during
+the period, plus the dilutive effect of potential common stock. Potential common
+stock consists of convertible preferred stock, unvested restricted common stock,
+stock options and warrants.
+
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+     The following table sets forth potential common stock excluded from the
+calculation of earnings per share since their inclusion would be antidilutive:
+
+
+
+4.  PROPERTY AND EQUIPMENT:
+
+     Property and equipment consists of the following:
+
+
+
+     Depreciation and amortization expense on property and equipment for the
+period from inception (August 20, 1998) to December 31, 1998 and for the year
+ended December 31, 1999 was $41,152 and $3.4 million, respectively.
+
+     Equipment under capital leases at:
+
+
+
+5.  SENIOR SUBORDINATED NOTES:
+
+     During April 1999, Akamai entered into note and warrant purchase agreements
+with private investors. Under the agreements, Akamai issued 15% subordinated
+demand notes payable in the aggregate amount of $15.0 million due in May 2004.
+In connection with the notes, the Company also issued warrants to purchase an
+aggregate of 2,002,836 shares of common stock at $2.50 per share in exchange for
+cash. These warrants expire in May 2004. The fair value of the warrants at the
+time of issuance was estimated to be approximately $3.9 million, which was
+recorded as additional paid-in capital and reduced the carrying value of the
+notes. The fair value was estimated using the Black-Scholes model with the
+following assumptions: dividend yield of 0%, volatility of 100%, risk free
+interest rate of 5.1% and an expected life of five years. The discount on the
+notes is being amortized over the term of the notes. For the year ended December
+31, 1999, interest expense of
+
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+$1.5 million related to the fair value of the warrants was recognized. In
+December 1999, the Company exercised its right to pay off the notes in full and
+paid $12.2 million in interest and principal. The remaining unpaid balance of
+$2.8 million is expected to be paid in the first quarter of fiscal 2000. The
+Company recognized an extraordinary loss from early extinguishment of debt of
+$3.4 million (or $0.11 per share) during the year ended December 31, 1999.
+
+6.  COMMITMENTS:
+
+  LEASES
+
+     The Company leases its facilities and certain equipment under operating
+leases. Rent expense for the period from inception (August 20, 1998) to December
+31, 1998 and for the year ended December 31, 1999 was $36,000 and $599,000,
+respectively. The leases expire at various dates through March 1, 2006 and
+generally require the payment of real estate taxes, insurance, maintenance and
+operating costs. The Company also leases certain equipment under capital leases.
+The minimum aggregate future obligations under noncancelable leases and
+equipment loans as of December 31, 1999 are as follows:
+
+
+
+  EQUIPMENT LOAN
+
+     The Company received an equipment loan from its bank for $1.5 million on
+January 26, 1999. The equipment loan is repayable in monthly installments of
+$46,317 for 36 months, with a lump sum payment of $112,500 due in February 2002.
+Interest expense on the loan for the year ended December 31, 1999 was $131,603.
+
+     In connection with the equipment loan, the Company issued warrants for the
+purchase of 74,499 shares of common stock at a purchase price of $0.40 per
+share. The warrants were exercisable upon issuance and expire on January 26,
+2002. The Company estimated the value of the warrants to be $25,000 at the date
+of issuance, which has been recorded as additional paid-in capital and reduced
+the carrying value of the equipment loan. The fair value was estimated using the
+Black-Scholes model with the following assumptions: dividend yield of 0%,
+volatility of 100%, risk free interest rate of 5.1% and an expected life of
+three years. The discount on the note is being amortized over the estimated life
+of the loan. In November 1999, the warrants were fully exercised.
+
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+  BANDWIDTH USAGE AND CO-LOCATION COSTS
+
+     The Company has commitments for bandwidth usage and co-location with
+various network service providers. For the years ending December 31, 2000, 2001
+and 2002, the minimum commitments are approximately $10.9 million, $3.8 million,
+and $1.2 million, respectively. Some of these agreements may be amended to
+either increase or decrease the minimum commitments during the life of the
+contract.
+
+7.  CONVERTIBLE PREFERRED STOCK:
+
+     The authorized capital stock of the Company consists of (i) 300,000,000
+shares of voting common stock ("common stock") authorized for issuance with a
+par value of $0.01, and (ii) 5,000,000 shares of undesignated preferred stock
+with a par value of $0.01. Prior to the closing of the Company's initial public
+offering, the Company authorized 10,000,000 shares of preferred stock with a par
+value of $0.01, of which 1,100,000 shares were designated as Series A
+convertible preferred stock ("Series A preferred stock"), 1,327,500 shares were
+designated as Series B convertible preferred stock ("Series B preferred stock"),
+145,195 shares were designated as Series C convertible preferred stock ("Series
+C preferred stock"), 685,194 shares were designated as Series D convertible
+preferred stock ("Series D preferred stock"), 1,867,480 shares were designated
+as Series E convertible preferred stock ("Series E preferred stock") and 985,545
+shares were designated as Series F convertible preferred stock ("Series F
+preferred stock").
+
+     All outstanding shares of preferred stock automatically converted into
+shares of common stock upon the closing of the initial public offering as
+follows:
+
+
+
+  SERIES A CONVERTIBLE PREFERRED STOCK
+
+     In November and December 1998, the Company issued 1,100,000 shares of
+Series A preferred stock at $7.60 per share to investors for total consideration
+of $8,283,758 (net of offering costs of $76,242).
+
+     Prior to conversion of the Series A preferred stock, the holders of the
+Series A preferred stock had voting rights equivalent to the number of shares of
+common stock into which their shares of Series A preferred stock were
+convertible. Dividends were required to be paid when dividends were declared on
+common stock. The Series A preferred stock was convertible at any time by the
+holders, at the then applicable conversion rate adjusted for certain events
+including stock splits and dividends. The Series A preferred stock was
+redeemable, subject to the approval of the holders of 66% of the then
+outstanding shares of Series A preferred stock beginning November 23, 2003 if
+the Company had not made a qualified initial public offering of its common
+stock. Upon liquidation, holders of Series A preferred stock were entitled to
+receive, out of funds then generally available, $7.60 per share, plus any
+declared and unpaid dividends thereon. Following payment to holders of all other
+classes of preferred stock to which the Series A preferred stock was
+subordinated, holders of Series A preferred stock were then entitled to share in
+remaining available funds on an "as-if converted" basis with holders of common
+stock.
+
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+  SERIES B CONVERTIBLE PREFERRED STOCK
+
+     In April 1999, the Company issued 1,327,500 shares of Series B preferred
+stock at $15.066 per share to private investors for total consideration of
+$19,875,115 (net of offering costs of $125,000). In addition, the Company issued
+a warrant to purchase 145,195 shares of Series C preferred stock at an exercise
+price of $34.436 per share which expired at the earlier of (i) December 31, 1999
+and (ii) the date immediately prior to the consummation of a qualified initial
+public offering. The warrant was exercised in October 1999.
+
+     Prior to conversion of the Series B preferred stock, the holders of Series
+B preferred stock had voting rights equivalent to the number of shares of common
+stock into which their shares of Series B preferred stock were convertible.
+Dividends accrued annually and were cumulative at a rate of 8% of the original
+purchase price of $15.066 per share, on a per share basis. Dividends were only
+required to be paid in the event of a liquidation or redemption, as defined. The
+Series B preferred stock was convertible at any time by the holders, at the then
+applicable conversion rate adjusted for certain events including stock splits.
+The Series B preferred stock was redeemable, as defined, subject to the approval
+of the holders of 66% of the then outstanding shares of Series B preferred stock
+beginning April 16, 2004 if the Company had not made a qualified initial public
+offering of its common stock. Upon liquidation, holders of Series B preferred
+stock were entitled to receive, out of funds then generally available, $15.066
+per share, plus any accrued and unpaid dividends, thereon. Following payment to
+holders of all other classes of preferred stock to which the Series B preferred
+stock was subordinated, holders of Series B preferred stock were then entitled
+to share in remaining available funds on an "as if converted" basis with holders
+of common stock.
+
+  SERIES C CONVERTIBLE PREFERRED STOCK
+
+     In connection with the Series B preferred stock issuance, one holder of the
+Series B preferred stock received the option to purchase 145,195 shares of
+Series C preferred stock at the purchase price of $34.436 per share. The option
+to purchase the Series C preferred stock expired upon the earlier of an initial
+public offering or December 31, 1999. The option was exercised in October 1999.
+
+     Prior to conversion of the Series C preferred stock, the holders of the
+Series C preferred stock had voting rights equivalent to the number of shares of
+common stock into which their shares of Series C preferred stock were
+convertible. Dividends accrued annually and were cumulative at a rate of 8% of
+the original purchase price of $34.436 per share, on a per share basis.
+Dividends were only required to be paid in the event of a liquidation or
+redemption. The Series C preferred stock was convertible at any time by the
+holders, at the then applicable conversion rate (1-to-1 on the date of issuance;
+6.256-to-1 at September 30, 1999) adjusted for certain events including stock
+splits and dividends subject to the approval of the holders of 66% of the then
+outstanding shares of Series C preferred stock beginning April 5, 2003 if the
+Company had not made a qualified initial public offering of its common stock.
+Upon liquidation, holders of Series C preferred stock were entitled to receive,
+out of funds generally available, $34.436 per share, plus any accrued and unpaid
+dividends, thereon. Following payment to holders of all other classes of
+preferred stock to which Series C was subordinated, holders of Series C
+preferred stock were then entitled to share in remaining available funds on an
+"as if converted" basis with holders of common stock.
+
+  SERIES D CONVERTIBLE PREFERRED STOCK
+
+     In June 1999, the Company issued 685,194 shares of Series D preferred stock
+at $18.243 per share to private investors for total consideration of $12,475,000
+(net of offering costs of $25,000).
+
+     Prior to conversion of the Series D preferred stock, the holders of Series
+D preferred stock had voting rights equivalent to the number of shares of common
+stock into which their shares of Series D preferred stock were convertible.
+Dividends accrued annually and were cumulative at a rate of 8% of the original
+purchase price of $18.243 per share, on a per share basis. Dividends were
+required to be paid only in the event of a
+
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+liquidation or redemption, as defined. The Series D preferred stock was
+convertible at any time by the holders, at the then applicable conversion rate
+adjusted for certain events including stock splits and dividends. The Series D
+preferred stock was redeemable, as defined, subject to the approval of the
+holder of 66% of the then outstanding shares of Series D preferred stock.
+
+     The holder of the Series D preferred stock is also a customer of the
+Company. In June 1999, the holder of the Series D preferred stock entered into a
+services agreement with the Company at customary rates. The aggregate minimum
+value of the services agreement is $12.54 million through April 2001. Revenue
+recognized from this customer for the period ended December 31, 1999 was
+$882,981.
+
+  SERIES E CONVERTIBLE PREFERRED STOCK
+
+     In August 1999, the Company issued 1,867,480 shares of Series E preferred
+stock at $26.239 per share to a private investor for total consideration of
+$48,966,282 (net of offering costs of $34,526).
+
+     Prior to conversion of the Series E preferred stock, the holders of Series
+E preferred stock had voting rights equivalent to the number of shares of common
+stock into which the shares of Series E preferred stock were convertible.
+Dividends accrued annually and were cumulative at a rate of 8% of the original
+purchase price of $26.239 per share, on a per share basis. Dividends were
+required to be paid only in the event of a liquidation or redemption. The Series
+E preferred stock was convertible at any time by the holders, at the then
+applicable conversion rate adjusted for certain events such as stock splits and
+dividends. The Series E preferred stock was redeemable, subject to the approval
+of the holders of 66% of the then outstanding shares of Series E preferred
+stock.
+
+  SERIES F CONVERTIBLE PREFERRED STOCK
+
+     In September 1999, the Company issued 985,545 shares of Series F preferred
+stock at $15.22 per share to a private investor for total consideration of
+$14,987,595 (net of offering costs of $12,400).
+
+     Prior to conversion of the Series F preferred stock, the holders of Series
+F preferred stock had voting rights equivalent to the number of shares of common
+stock into which the shares of Series F preferred stock were convertible.
+Dividends accrued annually and were cumulative at a rate of 8% of the original
+purchase price of $15.22 per share, on a per share basis. Dividends were
+required to be paid only in the event of a liquidation or redemption. The Series
+F preferred stock was convertible at any time by the holders, at the then
+applicable conversion rate adjusted for certain events such as stock splits and
+dividends. The Series F preferred stock was redeemable, subject to the approval
+of the holders of 66% of the then outstanding shares of Series F preferred
+stock.
+
+8.  STOCKHOLDERS' EQUITY (DEFICIT):
+
+  PUBLIC OFFERING
+
+     In October 1999, Akamai completed an initial public offering of 9,000,000
+shares of its common stock for net proceeds of $215.4 million after underwriting
+discounts and commissions and offering expenses. As a result, all outstanding
+shares of preferred stock automatically converted into 38,467,466 shares of
+common stock.
+
+  STOCK SPLIT
+
+     On January 28, 1999, the Company effected a 3-for-1 stock split through a
+stock dividend of common stock. On May 25, 1999, the Company effected a 3-for-1
+stock split through a stock dividend of common stock. On September 8, 1999 the
+Company effected a 2-for-1 stock split through a stock dividend of common
+
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+stock. All references to preferred and common stock share and per share amounts
+including options and warrants to purchase common stock have been retroactively
+restated to reflect the stock splits.
+
+  COMMON STOCK
+
+     The common stockholders are entitled to one vote per share. At December 31,
+1999, the Company had reserved 16,397,611 shares of common stock for future
+issuance upon the exercise of warrants and stock options.
+
+  NOTES RECEIVABLE FROM OFFICERS FOR STOCK
+
+     In the connection with the issuance of restricted common stock, the Company
+received full recourse notes receivable from the Chief Executive Officer,
+President, Chief Financial Officer and the General Counsel of the Company in the
+amounts of $1,980,000, $500,000, $2,620,000 and $624,000, respectively. These
+notes bear interest between 5.3% and 6.1%, and are payable in full by March 26,
+2009, May 18, 2009, July 23, 2009 and July 23, 2009, respectively.
+
+9.  STOCK PLANS:
+
+  1998 OPTION PLAN
+
+     In 1998, the Board of Directors adopted the 1998 Stock Incentive Plan (the
+"1998 Option Plan") for the issuance of incentive and nonqualified stock options
+and restricted stock awards. The number of shares of common stock reserved for
+issuance under the 1998 Option Plan is 28,755,600 shares. Options to purchase
+common stock and restricted stock awards are granted at the discretion of the
+Board of Directors.
+
+     Under the terms of the 1998 Option Plan, the exercise price of incentive
+stock options granted must not be less than 100% (110% in certain cases) of the
+fair market value of the common stock on the date of grant, as determined by the
+Board of Directors. The exercise price of nonqualified stock options may be less
+than the fair market value of the common stock on the date of grant, as
+determined by the Board of Directors but in no case may the exercise price be
+less than the statutory minimum. Vesting of options granted is at the discretion
+of the Board of Directors, which typically is four years. The term of options
+granted cannot exceed ten years (five years for incentive stock options granted
+to holders of more than 10% of the voting stock of the Company.)
+
+     A restricted stock award provides for the issuance of common stock to
+directors, officers, consultants and other key personnel at prices determined by
+a Committee selected by the Board of Directors. Participants' unvested shares
+are subject to repurchase by the Company at the original purchase price for up
+to four years. Generally, 25% of the shares vest on the first anniversary of the
+date of purchase and, thereafter, the remaining shares vest on a quarterly basis
+through the fourth anniversary of the date of purchase. As of December 31, 1998
+and 1999, the Company had the right to repurchase up to 3,283,200 and 9,874,750
+unvested shares, respectively. Such shares may be repurchased at the original
+purchase prices ranging from $0.01 to $2.50 per share.
+
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+     A summary of activity under the Company's 1998 Option Plan for the period
+from inception (August 20, 1998) to December 31, 1998 and the year ended
+December 31, 1999 is presented below:
+
+
+
+     There were 31,282,100 shares of restricted common stock issued outside of
+the plan in the period ended December 31, 1998. As of December 31, 1998 and
+1999, the Company had the right to repurchase up to 14,765,904 and 9,355,680
+unvested shares, respectively.
+
+
+
+     The following table summarizes information about stock options outstanding
+at December 31, 1999:
+
+
+
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+FAIR VALUE DISCLOSURE
+
+     As discussed in Note 2, the Company has adopted SFAS No. 123 through
+disclosure only. Had the Company accounted for stock options to employees under
+the fair value method prescribed under SFAS No. 123, Akamai's net losses and
+basic and diluted net loss per share on a pro forma basis would be as follows:
+
+
+
+     The effects of applying SFAS No. 123 in this pro forma disclosure are not
+indicative of future amounts.
+
+     The fair value of each option grant is estimated on the date of grant using
+the Black-Scholes option pricing model with the following assumptions:
+
+
+
+     From inception (August 20, 1998) through December 31, 1998, the Company
+recorded $1,711,591 in deferred compensation for restricted stock awards and
+options to purchase common stock granted at exercise or purchase prices
+subsequently determined to be below the fair value of the common stock.
+Compensation expense of $205,617 was recognized during the period from inception
+(August 20, 1998) through December 31, 1998. For the year ended December 31,
+1999, the Company recorded $38,229,769 in deferred compensation for restricted
+stock awards and options to purchase common stock granted at exercise or
+purchase prices subsequently determined to be below the fair value of common
+stock. Compensation expense of $10,005,216 was recognized during the year ended
+December 31, 1999.
+
+  EMPLOYEE STOCK PURCHASE PLAN
+
+     In August 1999, the Board of Directors adopted the 1999 Employee Stock
+Purchase Plan. The 1999 Employee Stock Purchase Plan provides for the issuance
+of up to 600,000 shares of common stock to participating employees.
+
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+10.  INCOME TAXES:
+
+     The provision for income taxes consists of the following:
+
+
+
+     The Company's effective tax rate varies from the statutory rate as follows:
+
+
+
+     Based on the Company's current financial status, realization of the
+Company's deferred tax assets does not meet the "more likely than not" criteria
+under SFAS No. 109 and, accordingly, a valuation allowance for the entire
+deferred tax asset amount has been recorded. The components of the net deferred
+tax asset (liability) and the related valuation allowance are as follows:
+
+
+
+     As of December 31, 1999, the Company has federal and state net operating
+loss carryforwards of approximately $37.5 million which begin to expire in 2019
+and 2004, respectively. The Company also has federal and state tax credit
+carryforwards of $323,000 and $247,000, respectively.
+
+     Ownership changes resulting from the Company's issuance of capital stock
+may limit the amount of net operating loss and tax credit carryforwards that can
+be utilized annually to offset future taxable income. The amount of the annual
+limitation is determined based upon the Company's value immediately prior to the
+
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+ownership change. Subsequent significant changes in ownership could further
+affect the limitation in future years.
+
+11.  EMPLOYEE BENEFIT PLAN:
+
+     In January 1999, the Company established a savings plan for its employees
+which is designed to be qualified under Section 401(k) of the Internal Revenue
+Code. Eligible employees are permitted to contribute to the 401(k) plan through
+payroll deductions within statutory and plan limits. The Company has not
+contributed to the savings plan to date.
+
+12.  SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+
+     The following is the supplemental cash flow information for all periods
+presented:
+
+
+
+13.  QUARTERLY FINANCIAL RESULTS (UNAUDITED):
+
+     The following tables set forth certain unaudited quarterly results of
+operations of the Company for the year ended 1999. In the opinion of management,
+this information has been prepared on the same basis as the audited consolidated
+financial statements and all necessary adjustments, consisting only of normal
+recurring adjustments, have been included in the amounts stated below to present
+fairly the quarterly information when read in conjunction with the audited
+consolidated financial statements and notes thereto included elsewhere in this
+annual report on Form 10-K. The quarterly operating results are not necessarily
+indicative of future results of operations.
+
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+
+
+14.  SUBSEQUENT EVENTS:
+
+  MERGER AGREEMENT WITH NETWORK24 COMMUNICATIONS, INC.
+
+     On February 10, 2000, the Company consummated the acquisition of Network24
+Communications, Inc. ("Network24"). The Company acquired all of the outstanding
+common and preferred stock of Network24 in exchange for 599,152 shares of Akamai
+common stock and $12.5 million in cash. Akamai also issued options and warrants
+exercisable for 195,862 shares of Akamai's common stock in exchange for all
+outstanding options and warrants exercisable for Network24 common stock. The
+value of the acquisition is estimated to be $198.2 million based on the fair
+value of the consideration paid plus direct acquisition costs. The acquisition
+will be accounted for using the purchase method.
+
+  MERGER AGREEMENT WITH INTERVU INC.
+
+     On February 6, 2000, Akamai entered into a definitive agreement to acquire
+INTERVU Inc. ("INTERVU"). Under the agreement, the Company will acquire all of
+the outstanding common stock and preferred stock of INTERVU in exchange for
+approximately 9.97 million shares of Akamai common stock. Akamai will also issue
+options and warrants exercisable for approximately 2.16 million shares of
+Akamai's common stock in exchange for all outstanding options and warrants
+exercisable for INTERVU common stock. The value of the acquisition is estimated
+to be $2.837 billion based on the fair value of the consideration paid plus
+direct acquisition costs. The acquisition will be accounted for using the
+purchase method.
+
+
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE.
+
+     None.
+
+                                    PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+     The executive officers and directors of Akamai, and their ages and
+positions as of January 31, 2000, are as follows:
+
+
+
+- ---------------
+(1) Member of the Compensation Committee
+
+(2) Member of the Audit Committee
+
+     Set forth below is certain information regarding the professional
+experience for each of the above-named persons.
+
+     George H. Conrades has served as Chairman and Chief Executive Officer of
+Akamai since April 1999 and as a director since December 1998. Mr. Conrades has
+also been a venture partner of Polaris Venture Partners, Inc., an early stage
+investment company, since August 1998. From August 1997 to July 1998, Mr.
+Conrades served as Executive Vice President of GTE and President of GTE
+Internetworking, an integrated telecommunication services firm. Mr. Conrades
+served as Chairman of the Board of Directors and Chief Executive Officer of BBN
+Corporation, a national Internet services provider and Internet technology
+research and development company, from January 1994 until its acquisition by GTE
+Internetworking in July 1997. Prior to joining BBN Corporation, Mr. Conrades was
+an IBM Senior Vice President and a Member of IBM's Corporate Management Board.
+Mr. Conrades is currently a director of CBS and Infinity Broadcasting, a media
+company. He is also an interim member of the board of ICANN, the Internet
+Corporation for the Assignment of Names and Numbers, a non-profit organization
+established by the United States government to oversee the administration of
+Internet names and addresses.
+
+     Paul Sagan joined Akamai in October 1998 as Vice President and Chief
+Operating Officer and has served as President and Chief Operating Officer since
+May 1999. Mr. Sagan was the Senior Advisor to the World Economic Forum, a
+Geneva, Switzerland-based organization, from July 1997 to August 1998. From
+December 1995 to December 1996, Mr. Sagan was the President and Editor of Time
+Inc. New Media, an affiliate of Time Warner, Inc., a global media and
+entertainment company. From September 1992 to
+
+
+
+December 1995, Mr. Sagan served as a vice president and senior vice president of
+Time Warner Cable, a division of Time Warner, Inc.
+
+     F. Thomson Leighton co-founded Akamai and has served as Chief Scientist and
+a director since August 1998. Dr. Leighton has been a professor of Mathematics
+at MIT since 1982 and has served as the Head of the Algorithms Group in MIT's
+Laboratory for Computer Science since its inception in 1996. Dr. Leighton is
+currently on sabbatical from MIT. Dr. Leighton is a former two-term chair of the
+2,000-member Association of Computing Machinery Special Interest Group on
+Algorithms and Complexity Theory, and a former two-term Editor-in-Chief of the
+Journal of the ACM, one of the nation's premier journals for computer science
+research.
+
+     Daniel M. Lewin co-founded Akamai and has served as a director since August
+1998. Mr. Lewin served as President of Akamai from August 1998 to May 1999 and
+as Chief Technology Officer since May 1999. Since July 1996, Mr. Lewin has been
+a Ph.D. candidate in the Algorithms Group at MIT's Laboratory for Computer
+Science. From May 1994 to May 1996, Mr. Lewin worked at IBM's research
+laboratory in Haifa, Israel as a full-time Research Fellow and Project Leader
+responsible for the development and support of IBM's Genesys system.
+
+     Timothy Weller joined Akamai in August 1999 as Chief Financial Officer.
+From July 1993 until August 1999, Mr. Weller was an equity research analyst at
+Donaldson, Lufkin & Jenrette, an investment banking firm. Mr. Weller holds a
+Ph.D. in Electrical Engineering from the University of Illinois.
+
+     Robert O. Ball III has served as Vice President and General Counsel of
+Akamai since July 1999 and has served as Secretary since August 1999. From June
+1996 until August 1999, Mr. Ball was a Partner and Chair of the Electronic
+Commerce Practice Team at Alston & Bird LLP, a law firm. From 1991 until May
+1996, Mr. Ball was a Partner at Cashin, Morton & Mullins, a law firm.
+
+     Peter Danzig joined Akamai in September 1999 as Vice President of
+Technology. Prior to joining Akamai, from March 1997 to August 1999, Mr. Danzig
+served as acting Chief Technology Officer of the NetCache group at Network
+Appliance, Inc., a provider of network data solutions. Mr. Danzig founded
+Internet Middleware Corporation, a provider of web caching solutions, in May
+1996 and served as its Chief Technology Officer until it was acquired by Network
+Appliance in March 1997. From January 1990 to May 1996, Mr. Danzig was an
+Assistant Professor of Computer Science at the University of Southern
+California.
+
+     Earl P. Galleher III has served as Vice President of Worldwide Sales and
+Support of Akamai since March 1999. From March 1996 until August 1998, Mr.
+Galleher was employed with Digex, Inc., a national Internet carrier, where he
+served as Vice President and General Manager from March 1996 to January 1997 and
+as the President of the Web Site Management Division from January 1997 to August
+1998. From November 1991 to February 1996, Mr. Galleher served as Director of
+Marketing at American Mobile Satellite Corporation, a mobile voice and data
+service provider.
+
+     David Goodtree has served as the Vice President of Strategy and Products
+since December 1999. From March 1999 until December 1999 Mr. Goodtree served as
+Vice President of Marketing. From October 1994 to March 1999, Mr. Goodtree
+served as Group Director at Forrester Research, Inc., an independent technology
+research firm. Prior to joining Forrester Research, Inc., from October 1990 to
+September 1994, Mr. Goodtree managed product development for MCI Communications
+Corporation, now known as MCI WorldCom, Inc., a telecommunications company.
+
+     Steven P. Heinrich has served as Vice President of Human Resources of
+Akamai since March 1999. Prior to joining Akamai, Mr. Heinrich established
+Constellation Consulting, Inc., a human resources consulting firm specializing
+in early stage, high technology businesses. From November 1979 to October 1997,
+Mr. Heinrich was employed by BBN Corporation where he served as the Vice
+President of Human Resources from March 1993 to October 1997.
+
+     Jonathan Seelig co-founded Akamai in August 1998 and has served as Vice
+President of Strategy and Corporate Development since that time. From January
+1995 to September 1997, Mr. Seelig worked for ECI Telecom, Ltd., a provider of
+digital telecommunications and data transmission systems to network service
+
+
+
+providers. Mr. Seelig is presently on a leave of absence as an M.B.A. candidate
+at MIT's Sloan School of Management.
+
+     Arthur H. Bilger has served as a director of Akamai since November 1998 and
+has served as Vice Chairman of the Board of Directors since August 1999. From
+December 1994 until March 1997, Mr. Bilger was president, chief operating
+officer and a member of the board of directors of New World Communications Group
+Incorporated, an entity engaged in television broadcasting and production. From
+August 1990 until December 1994, Mr. Bilger was a founding principal of Apollo
+Advisors, L.P. and Lion Advisors, L.P., entities engaged in the management of
+securities investments. Mr. Bilger is currently a director of Mandalay Resort
+Group, an owner and operator of hotel casino facilities.
+
+     Todd A. Dagres has served as a director of Akamai since November 1998.
+Since February 1996, Mr. Dagres has been a general partner of Battery Ventures,
+a venture capital firm. From February 1994 to February 1996, Mr. Dagres was a
+Principal and Senior Technology Analyst at Montgomery Securities, now known as
+Banc of America Securities LLC, an investment bank and brokerage firm.
+
+     Terrance G. McGuire has served as a director of Akamai since April 1999.
+Mr. McGuire is a founder and has been a general partner of Polaris Venture
+Partners, Inc. since June 1996. Since 1992, Mr. McGuire has also been a general
+partner of Burr, Egan, Deleage & Co., a venture capital firm.
+
+     Edward W. Scott has served as a director of Akamai since April 1999. Mr.
+Scott is a founder and general partner of the Baker Communications Fund, a
+communications private equity fund. He has been a general partner of that firm
+since March 1996. From December 1990 until March 1996, Mr. Scott was a private
+equity investor with the Apollo Investment Fund, L.P.
+
+     Each executive officer serves at the discretion of the board of directors
+and holds office until his successor is elected and qualified or until his
+earlier resignation or removal. There are no family relationships among any of
+the directors or executive officers of Akamai.
+
+
+
+ITEM 11.  EXECUTIVE COMPENSATION.
+
+SUMMARY COMPENSATION TABLE
+
+     The following table sets forth certain information with respect to the
+compensation earned by (1) each of the persons who served during 1999 as
+Akamai's chief executive officer and (2) each of Akamai's four other most highly
+compensated executive officers who received annual compensation in excess of
+$100,000 in 1999, collectively referred to below as the Named Executive
+Officers. In the table below, columns required by the regulations of the
+Securities and Exchange Commission have been omitted where no information was
+required to be disclosed under those columns.
+
+
+
+- ---------------
+(1) Mr. Conrades commenced employment with Akamai in April 1999; Mr. Lewin
+    co-founded Akamai in August 1998; Mr. Sagan commenced employment with Akamai
+    in October 1998; Mr. Ball commenced employment with Akamai in July 1999; Mr.
+    Galleher commenced employment with Akamai in March 1999; and Mr. Goodtree
+    commenced employment with Akamai in March 1999.
+
+(2) Other compensation in the form of perquisites and other personal benefits
+    has been omitted because such perquisites and other personal benefits
+    contributed less than $50,000 or 10% of the total salary and bonus for each
+    Named Executive Officer for such year.
+
+(3) Daniel M. Lewin served as President of Akamai until May 18, 1998 when he
+    became Chief Technology Officer.
+
+
+
+OPTION GRANTS IN LAST FISCAL YEAR
+
+     The following table sets forth each grant of stock options during 1999 to
+each of the Named Executive Officers. No stock appreciation rights were granted
+during such fiscal year.
+
+
+
+- ---------------
+(1) The exercise price was equal to the fair market value of Akamai's common
+    stock as determined by the Board of Directors on the date of grant.
+
+(2) The potential realizable value is calculated based on the term of the option
+    at the time of grant. Stock price appreciation of 5% and 10% is assumed
+    pursuant to rules promulgated by the Securities and Exchange Commission and
+    does not represent Akamai's prediction of its stock price performance. The
+    potential realizable values at 5% and 10% appreciation are calculated by
+    assuming that the exercise price on the date of grant appreciates at the
+    indicated rate for the entire term of the option and that the option is
+    exercised at the exercise price and sold on the last day of its term at the
+    appreciated price.
+
+OPTIONS EXERCISED IN LAST FISCAL YEAR
+
+     The following table sets forth for each of the Named Executive Officers
+options exercised and the number and value of securities underlying unexercised
+options that are held by the Named Executive Officers as of December 31, 1999.
+None of the Named Executive Officers exercised options in 1999.
+
+
+
+- ---------------
+(1) On December 31, 1999, the last sale price reported on the Nasdaq National
+    Market for Akamai's common stock was $327 5/8 per share.
+
+
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+
+     The following table sets forth information as to the number of shares of
+Akamai common stock beneficially owned as of February 15, 2000 by the following:
+
+     - each person who beneficially owns more than 5% of the outstanding shares
+       of Akamai common stock,
+
+     - each director of Akamai,
+
+     - each Named Executive Officer and
+
+     - Akamai executive officers and directors as a group.
+
+     Beneficial ownership is determined in accordance with the rules of the
+Securities and Exchange Commission, and includes voting and investment power
+with respect to shares. Unless otherwise indicated below, to Akamai's knowledge,
+all persons named in the table have sole voting and investment power with
+respect to their shares of common stock, except to the extent authority is
+shared by spouses under applicable law. Unless otherwise indicated, the address
+of each person owning more than 5% of the outstanding shares of common stock is
+c/o Akamai Technologies, Inc., 500 Technology Square, Cambridge, Massachusetts
+02139.
+
+
+
+- ---------------
+ (*) Represents less than 1%
+
+
+
+ (1) Includes 157,906 shares held by Battery Investment Partners IV, LLC.
+     Battery Ventures IV, L.P. is the managing member of Battery Investment
+     Partners IV, LLC.
+
+ (2) Includes 934,668 shares issuable upon the exercise of warrants exercisable
+     within 60 days after February 15, 2000.
+
+ (3) Includes 1,485,000 shares held by Lawrence T. Warble, Trustee Under
+     Agreement Dated August 10, 1999, and 8,694 shares issuable upon the
+     exercise of warrants exercisable within 60 days after February 15, 2000.
+     Excludes shares held by entities affiliated with Polaris Venture Management
+     Co. II, L.L.C., of which Mr. Conrades is a general partner.
+
+ (4) Represents 6,377,474 shares by Polaris Venture Partners II L.P., 151,625
+     shares held by Polaris Venture Partners Founders' Fund II L.P., 130,356
+     shares issuable upon exercise of warrants held by Polaris Venture Partners
+     II L.P. and exercisable within 60 days after February 15, 2000 and 3,168
+     shares issuable upon the exercise of warrants held by Polaris Venture
+     Partners Founders' Fund II L.P. and exercisable within 60 days after
+     February 15, 2000. Polaris Venture Management Co. II, L.L.C. is the general
+     partner of Polaris Venture Partners and Polaris Venture Founders' Fund II
+     L.P.
+
+ (5) Represents 594,000 shares held by the Arthur H. Bilger 1996 Family Trust,
+     1,220,872 shares held by ADASE Partners, L.P., 57,660 shares held by AT
+     Investors LLC and 13,350 shares issuable upon the exercise of warrants held
+     by AT Investors LLC and exercisable within 60 days after February 15, 2000.
+     Mr. Bilger, a director of Akamai, is the managing member of the general
+     partner of ADASE Partners, L.P. and managing member of AT Investors LLC.
+     Mr. Bilger disclaims beneficial ownership of the shares held by the Arthur
+     H. Bilger 1996 Family Trust, ADASE Partners, L.P. and AT Investors LLC
+     except to the extent of his pecuniary interest in those entities. Excludes
+     shares held by Baker Communications Fund, L.P., of which Mr. Bilger is a
+     limited partner.
+
+ (6) Represents 10,111,398 shares held by Battery Ventures IV, L.P. and 157,906
+     shares held by Battery Investment Partners IV, LLC. Battery Ventures IV,
+     L.P. is the managing member of Battery Investment Partners IV, LLC. Todd A.
+     Dagres, a director of Akamai, is a general partner of Battery Ventures IV,
+     L.P. Mr. Dagres disclaims beneficial ownership of the shares held by
+     Battery Ventures IV, L.P. and Battery Investment Partners IV, LLC except to
+     the extent of his pecuniary interest in those entities.
+
+ (7) Represents 6,377,474 shares held by Polaris Venture Partners II L.P.,
+     151,625 shares held by Polaris Venture Partners Founders' Fund II L.P.,
+     130,356 shares issuable upon exercise of warrants held by Polaris Venture
+     Partners II L.P. and exercisable within 60 days after February 15, 2000 and
+     3,168 shares issuable upon the exercise of warrants held by Polaris Venture
+     Partners Founders' Fund II L.P. and exercisable within 60 days after
+     February 15, 2000. Polaris Venture Management Co. II, L.L.C. is the general
+     partner of Polaris Venture Partners II L.P. and Polaris Venture Partners
+     Founders' Fund II L.P. Terrance G. McGuire, a director of Akamai, is a
+     general partner of Polaris Venture Management Co. II, L.L.C. Mr. McGuire
+     disclaims beneficial ownership of the shares held by Polaris Venture
+     Partners II L.P. and Polaris Venture Partners Founders' Fund II L.P. except
+     to the extent of his pecuniary interest in those entities.
+
+ (8) Represents 6,483,803 shares held by Baker Communications Fund, L.P. and
+     934,668 shares issuable upon the exercise of warrants exercisable within 60
+     days after February 15, 2000 held by Baker Communications Fund, L.P. Baker
+     Capital Partners, LLC is general partner of Baker Fund, L.P. Edward W.
+     Scott, a director of Akamai, is a general partner of Baker Communications
+     Fund, L.P. Mr. Scott disclaims beneficial ownership of the shares held by
+     Baker Communications Fund, L.P. except to the extent of his pecuniary
+     interest in Baker Communications Fund, L.P.
+
+ (9) Represents 1,080,000 shares held by Donald A. Glassberg, Trustee of the
+     Paul Sagan Investment Trust. Mr. Sagan disclaims beneficial ownership of
+     shares held by Donald A. Glassberg, Trustee of the Paul Sagan Investment
+     Trust except to the extent of his pecuniary interest herein. Includes 1,932
+     shares issuable upon the exercise of options exercisable within 60 days
+     after February 15, 2000.
+
+(10) Includes 6,450 shares issuable upon the exercise of warrants exercisable
+     within 60 days after February 15, 2000.
+
+
+
+(11) Includes 315,000 shares issuable upon the exercise of options exercisable
+     within 60 days after February 15, 2000.
+
+(12) Includes 100 shares held as custodian for each of Mr. Ball's three minor
+     children.
+
+(13) Includes 1,517,368 shares issuable upon the exercise of options and
+     warrants exercisable within 60 days after February 15, 2000.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+ISSUANCES OF PREFERRED STOCK AND 15% SENIOR SUBORDINATED NOTES
+
+     In 1999, Akamai issued and sold convertible preferred stock and 15% senior
+subordinated notes coupled with warrants to purchase common stock at an exercise
+price of approximately $2.50 per share to the following persons and entities who
+are executive officers, directors or 5% or greater stockholders of Akamai. For
+more detail on shares of stock held by these purchasers, see "Security Ownership
+of Certain Beneficial Holders and Management" on page 51.
+
+
+
+- ---------------
+(1) Upon the closing of Akamai's initial public offering on November 3, 1999,
+    each share of Series B convertible preferred stock automatically converted
+    into six shares of Akamai common stock.
+
+(2) Excludes securities held by Baker Communications Fund, L.P., of which Mr.
+    Bilger is a limited partner. Mr. Bilger is the managing member of the
+    general partner of ADASE Partners, L.P. and the managing member of AT
+    Investors LLC. Mr. Bilger's shares of common stock issued upon conversion of
+    Series B convertible preferred stock and his notes and warrants are held by
+    AT Investors LLC. Mr. Bilger disclaims beneficial ownership of the
+    securities held by ADASE Partners, L.P. and AT Investors LLC except to the
+    extent of his pecuniary interest in those entities.
+
+(3) Includes 969 shares of Series B convertible preferred stock held by Battery
+    Investment Partners IV, LLC, of which Battery Ventures IV, L.P. is a
+    managing member.
+
+(4) Excludes securities held by entities affiliated with Polaris Venture
+    Management Co. II, L.L.C., of which Mr. Conrades is a general partner.
+
+(5) Represents 231,687 shares of Series B convertible preferred stock, 15%
+    senior subordinated notes in the principal amount of $976,271 and 130,356
+    warrants held by Polaris Venture Partners II L.P. and 5,631 shares of Series
+    B convertible preferred stock, 15% senior subordinated notes in the
+    principal amount of $23,729 and 3,168 warrants held by Polaris Venture
+    Partners Founders Fund II L.P.
+
+SERIES B FINANCING.
+
+     On April 16, 1999 and April 30, 1999, Akamai issued an aggregate of
+1,327,500 shares of Series B convertible preferred stock to 24 investors,
+including Arthur H. Bilger, Baker Communications Fund, L.P., Battery Ventures
+IV, L.P., Battery Investment Partners IV, LLC, George H. Conrades, Earl P.
+Galleher III, Jonathan Seelig, Polaris Venture Partners II L.P., Polaris Venture
+Partners Founders Fund II L.P. and Paul
+
+
+
+Sagan. The per share purchase price for the Series B convertible preferred stock
+was $15.07. As part of Akamai's Series B financing, Akamai granted Baker
+Communications Fund, L.P. an option to purchase up to 145,195 shares of Akamai's
+Series C convertible preferred stock and an option to purchase 5% of the shares
+sold in the initial public offering. In October 1999, Baker exercised both of
+these options.
+
+15% SENIOR SUBORDINATED NOTE FINANCING.
+
+     On May 7, 1999 Akamai issued 15% senior subordinated notes in the aggregate
+principal amount of $15,000,000 coupled with warrants to purchase an aggregate
+of 2,002,836 shares of common stock for an exercise price of approximately $2.50
+per share to 20 investors, including Arthur H. Bilger, Baker Communications
+Fund, L.P., George H. Conrades, Earl P. Galleher III, Jonathan Seelig, Polaris
+Venture Partners II L.P., Polaris Venture Partners Founders Fund II L.P. and
+Paul Sagan. The 15% senior subordinated notes had a term of five years and an
+interest rate of 15% per year, compounded annually. As of December 31, 1999,
+$2.8 million in aggregate principal amount remained outstanding under the 15%
+senior subordinated notes.
+
+ISSUANCES OF COMMON STOCK
+
+     The following table presents selected information regarding Akamai's
+issuances of common stock to its executive officers and directors in 1999.
+Akamai issued the shares of common stock set forth in the table below pursuant
+to stock restriction agreements with each of the executive officers and
+directors which give Akamai rights to repurchase all or a portion of any
+unvested shares at their purchase price in the event that the person ceases to
+provide services to Akamai. Some of these stock restriction agreements prohibit
+Akamai from repurchasing shares following a change in control of Akamai.
+
+
+
+     Akamai agreed to the material terms of each of the preferred stock
+issuances described above after arms'-length negotiations. All future
+transactions, including loans between Akamai and its officers, directors,
+principal stockholders and their affiliates will be approved by a majority of
+Akamai's board of directors, including a majority of the independent and
+disinterested directors on Akamai's board of directors, and will continue to be
+on terms no less favorable to Akamai than could be obtained from unaffiliated
+third parties.
+
+AGREEMENTS WITH EXECUTIVE OFFICERS
+
+     On March 26, 1999, in connection with the issuance of restricted common
+stock, Akamai loaned $1,980,000 to George H. Conrades, Akamai's Chief Executive
+Officer and Chairman of the Board of Directors. The loan bears interest at a
+rate of 5.3% per year, compounded annually until paid in full. The loan must be
+paid in full by March 26, 2009 or earlier to the extent of proceeds, net of
+taxes, received by Mr. Conrades upon his sale of capital stock of Akamai. On
+March 26, 1999 Akamai entered into a severance agreement with Mr. Conrades. The
+severance agreement requires Akamai to pay Mr. Conrades a lump-sum cash payment
+equal to 299% of his average annual salary and bonus for the most recent three
+years if his employment is terminated by Akamai other than for cause within two
+years following a change in control of Akamai.
+
+     On May 18, 1999, in connection with the issuance of restricted common
+stock, Akamai loaned $500,000 to Paul Sagan, Akamai's President and Chief
+Operating Officer. The loan bears interest at a rate of 5.3% per year,
+compounded annually until paid in full. The loan must be paid in full by May 18,
+2009 or earlier to the extent of proceeds, net of taxes, received by Mr. Sagan
+upon his sale of capital stock of Akamai.
+
+
+
+     On July 23, 1999, in connection with the issuance of restricted common
+stock, Akamai loaned $623,750 to Robert O. Ball III, Akamai's Vice President and
+General Counsel. The loan bears interest at a rate of 6.1% per year, compounded
+annually until paid in full. The loan must be paid in full by July 23, 2009 or
+earlier to the extent of proceeds, net of taxes, received by Mr. Ball upon his
+sale of capital stock of Akamai.
+
+     On July 23, 1999, in connection with the issuance of restricted common
+stock, Akamai loaned $2,619,750 to Timothy Weller, Akamai's Chief Financial
+Officer. The loan bears interest at a rate of 6.1% per year, compounded annually
+until paid in full. The loan must be paid in full by July 23, 2009 or earlier to
+the extent of proceeds, net of taxes, received by Mr. Weller upon his sale of
+capital stock of Akamai.
+
+                                    PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULE, AND REPORTS ON FORM 8-K.
+
+     (a) The following documents are included in this Annual Report on Form
+10-K.
+
+          1. Financial Statements (see Item 8 -- Financial Statements and
+             Supplementary Data included in this Annual Report on Form 10-K).
+
+        2. The schedule listed below and the Report of Independent Accountants
+           on Financial Statement Schedule are filed as part of this Annual
+           Report on Form 10-K:
+
+
+
+     All other schedules are omitted as the information required is inapplicable
+or the information is presented in the consolidated financial statements or the
+related notes.
+
+3. Exhibits
+
+
+
+
+
+
+
+- ---------------
+  * Incorporated by reference to Akamai's Form S-1 (File No. 333-85679), as
+    amended, filed with the Securities and Exchange Commission on August 21,
+    1999.
+
+ ** Incorporated by reference to Akamai's Current Report on Form 8-K filed with
+    the Securities and Exchange Commission on February 8, 2000.
+
+*** Incorporated by reference to Akamai's Schedule 13D filed with the Securities
+    and Exchange Commission on February 16, 2000.
+
+  + Confidential treatment requested for certain portions of this Exhibit
+    pursuant to Rule 406 promulgated under the Securities Act, which portions
+    were omitted and filed separately with the Securities and Exchange
+    Commission.
+
+     (b) No Current Reports on Form 8-K were filed by Akamai during the fiscal
+         quarter ended December 31, 1999.
+
+
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                          Akamai Technologies, Inc.
+
+                                          By: /s/ ROBERT O. BALL III
+                                            ------------------------------------
+                                            Robert O. Ball III
+                                            Vice President, General Counsel and
+                                            Secretary
+March 2, 2000
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+
+
+
+
+                       REPORT OF INDEPENDENT ACCOUNTANTS
+
+                      REPORT OF INDEPENDENT ACCOUNTANTS ON
+                          FINANCIAL STATEMENT SCHEDULE
+
+To the Board of Directors
+of Akamai Technologies, Inc.:
+
+Our audits of the consolidated financial statements referred to in our report
+dated January 25, 2000, except for Note 14, as to which the date is February 28,
+2000, appearing in Item 8 in this Form 10-K also included an audit of the
+financial statement schedule listed in Item 14(a)(2) of this Form 10-K. In our
+opinion, this financial statement schedule presents fairly, in all material
+respects, the information set forth therein when read in conjunction with the
+related consolidated financial statements.
+
+                                          /s/ PricewaterhouseCoopers LLP
+
+Boston, Massachusetts
+March 1, 2000
+
+                                       S-1
+
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+                SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+                                 (IN THOUSANDS)
+
+
+
+                                       S-2
+

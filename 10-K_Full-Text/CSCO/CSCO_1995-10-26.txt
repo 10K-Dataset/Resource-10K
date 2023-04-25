@@ -1,0 +1,1783 @@
+
+10-K
+10-K
+
+
+
+
+                                    FORM 10-K
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+   (Mark one)
+
+/X/   Annual report pursuant to Section 13 or 15(d) of the Securities Exchange 
+      Act of 1934 For the fiscal year ended July 30,1995
+
+/ /   Transition report pursuant to Section 13 or 15(d) of the Securities 
+      Exchange Act of 1934 For the transition period from          to
+      Commission file number 0-18225
+
+                               CISCO SYSTEMS, INC.
+             (Exact name of registrant as specified in its charter)
+
+              California                                       77-0059951
+- ----------------------------------------              --------------------------
+   (State or other jurisdiction of                           (IRS Employer
+    incorporation or organization)                         Identification No.)
+
+         170 West Tasman Drive
+         San Jose, California                                   95134
+- ----------------------------------------             ---------------------------
+(Address of principal executive offices)                     (Zip Code) 
+
+Registrant's telephone number, including area code (408) 526-4000
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+
+
+   Securities registered pursuant to Section 12(g) of the Act:
+
+                                  Common Stock
+- --------------------------------------------------------------------------------
+                                (Title of class)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+                                 Yes  X   No 
+                                     ---     ---
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained to the best
+of Registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.
+
+                                      / /
+
+As of October 2, 1995, the approximate aggregate market value of voting stock
+held by non-affiliates of the registrant was $16,746,720,000 (based upon the
+closing price for shares of the Registrant's Common Stock as reported by the
+National Market System of the National Association of Securities Dealers
+Automated Quotation System on that date). Shares of Common Stock held by each
+officer, director, and holder of 5% or more of the outstanding Common Stock have
+been excluded in that such persons may be deemed to be affiliates. This
+determination of affiliate status is not necessarily a conclusive determination
+for other purposes.
+
+As of October 2, 1995, 273,931,124 shares of registrant's common stock were
+outstanding.
+
+Designated portions of the Cisco Systems, Inc. Proxy Statement for the 1995
+Annual Meeting of Shareholders to be held on November 14, 1995, are incorporated
+by reference into Part III of this Annual Report on Form 10-K where indicated.
+
+
+
+
+                                     PART I
+
+ITEM 1.     BUSINESS
+
+GENERAL
+
+Cisco Systems, Inc. develops, manufactures, markets and supports
+high-performance, multiprotocol internetworking systems that link geographically
+dispersed local-area and wide-area networks (LANs and WANs) to form a single,
+seamless information infrastructure. Cisco products include a wide range of
+routers, LAN and Asynchronous Transfer Mode (ATM) switches, dial-up access
+servers, and network management software solutions. The common thread running
+through these products is the Cisco Internetwork Operating System (Cisco
+IOS(TM)) software, which today provides the native intelligence for more than
+450,000 installed Cisco units and is an integral part of the products of more
+than two dozen global partners.
+
+When Cisco shipped its first commercial multiprotocol router in 1986, it created
+a new part of the information technology industry - internetworking. Since then
+the market has changed greatly, and Cisco has kept pace with that change. In
+addition to enhancing its core business of routers, the Company has developed or
+acquired technology and products in all major categories of internetworking,
+including LAN switching, ATM, and network access for remote offices and mobile
+workers, incorporating the Cisco IOS software across all product lines. These
+changes have allowed Cisco to continue to grow at or above the rate of the
+overall market and to maintain leading market share in all the segments in which
+it participates.
+
+The Cisco IOS software is a sophisticated suite of networking capabilities that
+provides network connectivity, security and interoperability for all of today's
+standard data protocols, media access methods and products from leading
+Information Service vendors. This software resides at the heart of Cisco's
+internetworking products and within the hardware of more than two dozen vendor
+partners including Alcatel, Cabletron Systems, Compaq Computers, LanOptics, NEC,
+Northern Telecom and Sun Microsystems. Cisco's modular hardware and software
+architecture allows products to be configured in a wide variety of ways to suit
+customers' specific needs.
+
+The Company expanded the Cisco IOS feature set by moving aggressively into new
+markets and technologies. These include a range of remote access products, as
+well as switching products. In 1994 the Company introduced the CiscoFusion(TM)
+architecture, which blends the capabilities of today's routed internetworks with
+the emerging technologies of ATM, LAN workgroup switches and virtual LANs.
+
+Cisco sells its products in approximately 75 countries through a combination of
+direct sales, distributors, and direct and indirect resellers. Cisco's worldwide
+Original Equipment Manufacturer (OEM) customers and resellers include Alcatel,
+AT&T, British Telecom, Cabletron Systems, Digital Equipment Corporation,
+Ericsson, Hewlett-Packard, MCI, NEC Corporation, Olivetti, Siemens, Sprint,
+Unisys and US West. Cisco has established technology partnerships with a number
+of companies to address specialized segments of the internetworking marketplace,
+and has partnered with leading WAN technology and service providers to offer
+flexible options to customers. The Company offers customer service and support
+through Technical Assistance Centers in California, North Carolina, Australia
+and Belgium, and provides onsite hardware maintenance on a worldwide basis
+through IBM, AT&T, and Hewlett-Packard.
+
+
+
+Beginning in fiscal year 1994, Cisco began entering new markets and broadening
+its product offerings through a series of acquisitions. The following
+acquisitions have been, or soon will be, integrated into the ATM, Access, or
+Workgroup business units, which are more fully described later in the "Products"
+section of this report.
+
+In September 1993, the Company acquired Crescendo Communications, Inc.
+("Crescendo"), a privately held networking company that provides
+high-performance workgroup solutions. The Company issued approximately 3,400,000
+shares of common stock for all the outstanding stock of Crescendo in a
+transaction accounted for as a pooling of interests. The Company also assumed
+options and warrants to purchase Crescendo stock of which the options remain
+outstanding to purchase approximately 280,000 shares of the Company's common
+stock.
+
+In August 1994, the Company purchased Newport Systems Solutions(TM), Inc.
+("Newport"), a privately held networking company providing software-based
+routers for remote network sites. The Company issued approximately 3,300,000
+shares of common stock for all the outstanding stock of Newport in a transaction
+also accounted for as a pooling of interests. In addition, the Company assumed
+options to purchase Newport stock that remain outstanding as options to purchase
+approximately 190,000 shares of the Company's common stock.
+
+In December 1994, the Company acquired Kalpana(R), Inc. ("Kalpana"), a privately
+held manufacturer of Ethernet switches. Under the terms of the agreement, the
+Company issued approximately 6,800,000 shares of common stock for all the
+outstanding stock of Kalpana in a transaction also accounted for as a pooling of
+interests. In connection with this transaction, the Company assumed options to
+purchase Kalpana stock that remain outstanding as options to purchase
+approximately 500,000 shares of the Company's common stock.
+
+In January 1995, the Company acquired substantially all of the assets and
+assumed the liabilities of LightStream(R) Corporation ("LightStream") for
+$120,000,000 in cash and related acquisition costs of approximately $500,000.
+LightStream was a developer of enterprise-class ATM switching technology. This
+acquisition was accounted for as a purchase.
+
+In September 1995, the Company acquired Combinet Inc. ("Combinet"), a privately
+held manufacturer of remote access networking products. The Company issued
+approximately 1,750,000 shares of common stock for all the outstanding stock of
+Combinet in a transaction also accounted for as a pooling of interests. In
+addition, the Company assumed options and warrants to purchase Combinet stock
+that remain outstanding as options to purchase approximately 250,000 shares of
+the Company's common stock.
+
+Additionally, in September 1995, the Company acquired Internet Junction, Inc., a
+developer of Internet gateway software that connects desktop users with the
+Internet. The Company issued 81,000 shares of stock for the net assets of
+Internet Junction in a transaction accounted for as a purchase.
+
+On September 27, 1995, the Company entered into an agreement to acquire Grand
+Junction Networks, Inc., a privately held manufacturer and the inventor of Fast
+Ethernet (100BaseT) and Ethernet desktop switching products. The agreement calls
+for the Company to issue approximately 5,000,000 shares to acquire all the
+equity of Grand Junction, including outstanding options and warrants. The
+transaction is subject to several closing conditions and, if consummated, will
+be accounted for as a pooling of interests.
+
+
+
+The Company expects to make future acquisitions where it believes that it can
+acquire new products and channels of distribution or otherwise rapidly enter new
+or emerging markets. Mergers and acquisitions of high-technology companies are
+inherently risky, and no assurance can be given that the foregoing or any future
+acquisitions will be successful and will not adversely affect the Company's
+financial condition or results of operations.
+
+Cisco was incorporated in California in December 1984. The Company's executive
+offices are located at 170 West Tasman Drive, San Jose, California 95134, and
+its telephone number at that location is (408)526-4000. As used in this Form
+10-K, the terms "Cisco" and "the Company" refer to Cisco Systems, Inc., and its
+subsidiaries.
+
+PRODUCTS
+
+Cisco's breadth of product offerings and modular system design enable the
+Company to configure media interfaces, protocol software and port capacity to
+match customer needs for networks of varying sizes and complexity. Many of the
+Company's products, particularly its core products, are expandable, offering
+customers the option to upgrade their internetworks with existing equipment as
+their needs grow.
+
+In May 1995, Cisco created five internal business units that reflect the
+Company's major product groups. Each of the five business units - Core, ATM
+Enterprise, Access, Workgroup and InterWorks - has its own marketing and
+engineering staffs. The Cisco IOS software and network management products
+support all five business units, serving as the foundation upon which Cisco's
+internetworking solutions are built.
+
+CORE
+
+Cisco's core routing strength is provided by the Cisco 7000 family, which
+includes the high-end Cisco 7500 series, the Cisco 7000 and the compact Cisco
+7010. The Cisco 7000 family offers users connectivity to ATM networks,
+channelized T1/E1 connections, mainframe attachment, and a unique
+packet-switching architecture that easily handles the demands of large
+internetworks running many diverse protocols and applications. With the March
+1995 introduction of a new Fast Ethernet Interface Processor (FEIP), the Cisco
+7000 became the industry's only router family to support all three of the key
+high-bandwidth networking technologies on the market. The Cisco 7000 series has
+supported 100-Mbps Fiber Distributed Data Interface (FDDI) since early 1993 and
+155-Mbps ATM since June 1994.
+
+ATM
+
+ATM has gained wide acceptance by customers as the strategic technology of
+choice for long-term networking decisions. Cisco Systems is the first
+internetworking vendor to offer a complete, end-to-end ATM solution, including
+enterprise ATM switches, workgroup/campus ATM switches, ATM interface cards for
+internetwork routers and LAN switches, and ATM adapters for desktop systems and
+servers. The LightStream 2020 enterprise ATM multiservice switch provides LAN
+and WAN internetworking for campus environments or global networks. The
+LightStream 100 workgroup/campus ATM switch supports up to 16 155-Mbps ATM
+interfaces.
+
+ACCESS
+
+Cisco's access routers are designed to improve productivity by extending the
+enterprise network beyond the boundaries of corporate headquarters to regional
+sales groups, small satellite offices and individual telecommuters. 
+
+
+
+The Cisco 4000 series delivers a high-performance, modular solution that can
+expand to meet the needs of large offices and regional sites. The Cisco 2500
+series is available in 13 models customized for the needs of small branch
+offices. The Cisco 1000 series provides low-cost remote LAN attachment to
+corporate networks or Internet services for small offices and home offices. The
+AS5100 dial-up access server enables the large-scale deployment of telecommuting
+over standard telephone lines, integrating routing and modem-based technologies.
+All Cisco access products can be centrally configured and managed from
+headquarters, reducing the need for internetworking expertise in the field.
+
+WORKGROUP
+
+Cisco's LAN switching products include the Catalyst(TM) and Kalpana families.
+Cisco's Catalyst family of LAN switches link network resources with maximum
+modularity, performance and flexibility in LAN switching, and include embedded
+Cisco IOS functionality to meet future needs as switched internetworks evolve.
+The newest member of the Catalyst family, the Catalyst 5000, delivers dedicated
+bandwidth to users through multiple-media switching options such as 10-Mbps
+Ethernet, 100-Mbps Ethernet, and ATM with future capability for switched FDDI
+and switched Token Ring. The Kalpana EtherSwitch family is a high-performance
+stackable switching platform. The Kalpana ProStack, also announced this year,
+consists of the EtherSwitch Pro16 and ProStack Matrix, and allows users to
+expand network capacity as bandwidth demands dictate. High-speed connectivity to
+routers or other switches is achieved with Fast Ethernet and ATM modules. Switch
+management is achieved through the CiscoWorks(TM) software, a comprehensive
+suite of network management applications.
+
+INTERWORKS
+
+A major area of market opportunity is the integration of legacy networks built
+around large-scale IBM computers and their networking framework called Systems
+Network Architecture (SNA). To address this market, Cisco has a separate
+business unit, InterWorks, which focuses on integrating the large number of
+SNA-based computing environments with newer multiprotocol networks. Cisco has a
+comprehensive suite of capabilities for this market, including TCP/IP
+encapsulation of SNA data; integrated Synchronous Data Link Control (SDLC)
+support; mixed-media bridging, translation and conversion; enhanced data link
+switching; Frame Relay connectivity; Token Ring router interfaces and switching;
+Advanced Peer-to-Peer Networking (APPN); and direct channel attachment of Cisco
+7000 routers to IBM mainframes.
+
+The CiscoWorks Blue network management support enables operators visibility into
+and control over Cisco routers from either IBM NetView operator consoles or
+Simple Network Management Protocol (SNMP) network management stations.
+
+NETWORK MANAGEMENT
+
+The CiscoWorks software is a suite of standards-based applications that allow
+users to manage their Cisco devices from a single integrated console. CiscoWorks
+software provides applications for internetworking products in three major
+areas: monitoring and diagnostics; troubleshooting and administration tasks; and
+a management series for implementation and change to administration tasks and
+planning and optimization for offline analysis of network traffic patterns and
+trends. CiscoWorks supports the HP OpenView, NetView AIX, SunNet Manager and
+Microsoft Windows platforms.
+
+
+
+CUSTOMERS AND MARKETS
+
+Cisco's customers include corporations of all sizes, utilities, educational and
+research institutions, and government agencies. Internetworking needs are
+influenced most strongly by the size and complexity of a customer's information
+systems, and therefore Cisco's business is not concentrated in any particular
+industry.
+
+An important trend influencing demand for the Company's products is the
+worldwide phenomenon of the Internet. The Internet is a network of networks,
+consisting of thousands of subnetworks and computer resources linked together.
+Cisco's high-performance routers are widely used in the "backbone"
+infrastructure of the Internet, and the Company believes that 80 percent or more
+of all routers on the Internet are its products. In addition, the demand by
+companies, institutions and individuals for access to the Internet is spurring
+demand for remote access, switching and routing products of all kinds. The
+Company also benefits from the Internet phenomenon through its alliance
+relationships with numerous Internet service providers.
+
+Another significant factor affecting internetworking is the global trend toward
+deregulated telecommunications and the resulting increase in use of
+higher-performance telecommunications services. Cisco has alliance relationships
+with a majority of the world's telecommunications carriers.
+
+Cisco is the first U.S.-based manufacturer to receive self-certification
+approval from the British Approvals Board for Telecommunications, which allows
+Cisco to more quickly bring products to the European Union.
+
+The Company markets its internetworking products in the United States primarily
+through its direct sales force and resellers, and internationally, through
+distributors, Value-Added Resellers ("VARs"), OEMs, resellers, and its direct
+sales force in subsidiary companies. In addition, the Company sells to system
+integrators, both domestic and international, who resell the Company's
+internetworking products along with other computer and communications equipment.
+This multiple-channel approach allows customers to select the one that addresses
+their specific needs and provides the Company with broad coverage of worldwide
+markets.
+
+At September 25, 1994, the Company's worldwide direct sales organization
+consisted of 1375 individuals, including managers, sales representatives, and
+technical support personnel. The Company has approximately 69 field sales
+offices providing coverage in the following metropolitan areas: Atlanta, Boston,
+Chicago, Cincinnati, Cleveland, Dallas, Denver, Durham, Honolulu, Houston,
+Indianapolis, Los Angeles, Miami, New Orleans, New York, Orlando, Phoenix,
+Pittsburgh, Portland (Oregon), Princeton, Salt Lake City, San Antonio, San
+Diego, San Francisco, San Jose, Seattle, St. Louis, and Washington, D.C., among
+others.
+
+The Company's international sales are currently being made through multiple
+channels including approximately 75 international distributors and resellers in
+Africa, Asia, Australia, Canada, Europe, Latin America, Mexico and South
+America. The international distributors provide system installation, technical
+support, and follow-on service to local customers. Generally, the Company's
+international distributors have nonexclusive, country-wide agreements.
+International sales through the various channels, including the Company's
+subsidiaries, accounted for approximately 39.0% of total sales in fiscal 1993,
+41.9% in fiscal 1994, and 42.4% in fiscal 1995. Sales to international customers
+and distributors generally have been made in United States dollars.
+
+
+
+The Company has sales support subsidiaries worldwide. New subsidiaries formed in
+fiscal 1995 include Brazil, Korea, South Africa, Sweden, Switzerland, and
+Venezuela. No individual subsidiary has had direct sales that have been material
+to date.
+
+Patterns of both revenue growth and types of products sold are affected by
+various conditions in geographic regions. As a general rule, adoption of
+internetworking technology in Europe tends to be 1 to 2 years behind the United
+States, while Japan follows another 1 to 2 years later. Less-developed economies
+tend to lag even farther in technology adoption, although the Company has noted
+a recent tendency in some newly opened Eastern European economies to leapfrog
+intermediate technologies and purchase products with the most advanced
+technology. In November 1994, Cisco announced a joint venture with 13 leading
+Japanese technology companies to expand the internetworking market in Japan.
+
+BACKLOG
+
+The Company's backlog on September 24, 1995, was approximately $278,800,000
+compared with an approximate backlog of $88,200,000 at September 25, 1994. The
+Company includes in its backlog only orders confirmed with a purchase order for
+products to be shipped within six months to customers with approved credit
+status. Because of the generally short cycle between order and shipment, and
+occasional customer changes in delivery schedules or cancellation of orders
+(which are made without significant penalty), the Company does not believe that
+its backlog as of any particular date is necessarily indicative of actual net
+sales for any future period.
+
+COMPETITION
+
+The networking market is characterized by rapid growth, technological change,
+and a convergence of technologies. These market factors represent both an
+opportunity and at the same time a competitive threat to Cisco.
+
+The Company faces competition from customers it licenses technology to and
+suppliers that it transfers technology from. The inherent nature of networking
+is such that Cisco must compete, and at the same time, co-operate with these
+companies. At a minimum these relationships exist to achieve interoperability.
+Optimally, these relationships are synergistic and mutually beneficial,
+resulting in growth for the industry.
+
+3Com, Alantec, Ascend, Bay Networks, Cabletron, Fore, IBM, and Shiva exemplify
+companies that compete with Cisco. Some companies compete across all of Cisco's
+product lines, while others do not offer as wide a breadth of networking
+solutions.
+
+Cisco estimates that it competes with over 70 vendors in Access, over 40 vendors
+in Core, over 50 vendors in Workgroup, over 30 vendors in ATM, and over 40
+vendors in InterWorks. Cisco expects that the overall number of vendors will
+grow in these markets because of its attractive growth opportunities. The
+Company also expects that overall increases to the number of competitors will be
+partially offset by mergers and acquisitions, as companies seek synergies and
+market presence.
+
+Over the past year, the networking industry has experienced some consolidation.
+This has primarily been achieved through mergers and acquisitions, and to a
+lesser extent, through joint technology agreements. Remaining competitors are
+broadening their product offerings and attempting to strengthen their positions
+in emerging and high-growth markets including remote access, high-speed
+switching, and ATM technologies.
+
+
+
+The principal competitive factors in the market for internetworking products are
+performance, price, value-added features, reliability, conformance to industry
+standards, service, and market presence. The Company promotes its CiscoFusion
+architecture and Cisco IOS software as providing the premier internetworking
+solutions in the industry. These solutions offer many competitive advantages in
+the areas described above. Cisco believes that it will continue to provide
+solutions that offer competitive advantages and exceed end-users' buying
+criteria in the computer networking market.
+
+RESEARCH AND DEVELOPMENT
+
+The market for the Company's products is characterized by rapidly changing
+technology, evolving industry standards, and frequent new product introductions.
+Management believes that the Company's future success depends in large part upon
+its ability to continue to enhance its existing products and to develop new
+products that maintain technological competitiveness. The Company closely
+monitors, through electronic mail and onsite visits by engineering personnel,
+customers' needs for additional products, and works actively with innovators of
+internetworking products, including universities, laboratories, and
+corporations. The Company intends to remain dedicated to industry standards and
+to continue to support important protocol standards as they emerge.
+
+The Company is focusing development efforts around its five internal business
+units in the following areas: high-speed switching and ATM technologies, remote
+access and ISDN connectivity, improving overall system performance, expanding
+its network management capabilities, and IBM and WAN services connectivity.
+Cisco's development efforts continue to be guided by its CiscoFusion
+architecture announced in 1994, with the Cisco IOS software serving as the
+underlying common thread. There can be no assurance, however, that the Company's
+product development efforts will result in commercially successful products, or
+that the Company's products will not be rendered obsolete by changing technology
+or new product announcements by others. The Company has announced several new
+products, including a wide range of remote access products and a new line of
+high-end routers. Although the Company has announced its expected shipment dates
+for some of these products, schedules for high-technology products are
+inherently difficult to predict, and there can be no assurance that the Company
+will achieve its expected initial shipments dates of these or any other new or
+enhanced products developed by the Company. Because timely availability of new
+and enhanced products and their acceptance by customers are critical to the
+success of the Company, delays in availability of these products or lack of
+market acceptance of such products could have a material adverse effect on the
+Company.
+
+In fiscal 1995, 1994, and 1993, the Company's research and development
+expenditures were $164,819,000, $88,753,000, and $44,254,000, respectively. All
+of the Company's expenditures for research and development costs, including
+purchased research and development of $95,760,000 in fiscal 1995, have been
+expensed as incurred.
+
+MANUFACTURING
+
+The Company's manufacturing operations consist primarily of quality assurance of
+materials, components and subassemblies, final assembly, and test. The Company
+presently uses a variety of independent third-party contract assembly companies
+to perform printed circuit board assembly, in circuit test, and product repair.
+The Company installs its proprietary software on electronically programmable
+memory chips installed in its systems in order to configure products to customer
+needs and to maintain quality control and security. The manufacturing process
+enables the 
+
+
+
+Company to configure the hardware and software in unique combinations to meet a
+wide variety of individual customer requirements. The Company uses automated
+testing equipment and "burn-in" procedures, as well as comprehensive inspection,
+testing, and statistical process control to assure the quality and reliability
+of its products. The Company's manufacturing processes and procedures are ISO
+9001 certified. To date, the Company has not experienced significant customer
+returns of its products.
+
+PATENTS, INTELLECTUAL PROPERTY AND LICENSING
+
+The Company generally relies upon patents, copyright, trademark, and trade
+secret laws to establish and maintain its proprietary rights in its technology
+and products. However, it may be technologically possible for competitors to
+reverse-engineer the Company's products. Because the internetworking industry is
+characterized by rapid technological change, the Company believes that its
+success is more dependent upon its expertise in internetworking than its
+proprietary rights.
+
+The Company has, from time to time, established strategic distribution and
+technology transfer relationships with other companies involved in the computer
+and communications industries. The Company intends to continue to explore
+strategic relationships and expects to enter into other such relationships in
+the future.
+
+The Company has a program to file applications for and obtain patents in the
+United States and in selected foreign countries where a potential market for the
+Company's products exists. The Company has been issued several patents; other
+patent applications are currently pending.
+
+There can be no assurance that any of these patents would be upheld as valid if
+litigated or that any patent applications will result in issued patents. While
+the Company believes that its patents and applications have value, it also
+believes that its competitive position depends primarily on the innovative
+skills, technological expertise and management abilities of its employees.
+
+Many of the Company's products are designed to include software or other
+intellectual property licensed from third parties. From time to time, the
+Company receives notices from third parties regarding patent claims. While it
+may be necessary in the future to seek or renew licenses relating to various
+aspects of its products, the Company believes that based upon past experience
+and standard industry practice, such licenses generally could be obtained on
+commercially reasonable terms.
+
+Because of the existence of a large number of patents in the networking field
+and the rapid rate of issuance of new patents, it is not economically practical
+to determine in advance whether a product or any of its components infringe
+patent rights of others. In the event of any infringement, the Company believes
+that based upon industry practice, any necessary license or rights under such
+patents may be obtained on terms that would not have a material adverse effect
+on the Company's financial condition or its results of operations. However,
+there can be no assurance in this regard.
+
+OTHER RISK FACTORS
+
+The Company's business and stock is subject to a number of risks. Some of those
+risks are described below. Other risks are presented elsewhere in this report.
+See, in particular, the last four paragraphs of "Item 7, Management's Discussion
+and Analysis of Financial Condition and Results of Operations - Comparison of
+1994 and 1995."
+
+
+
+Potential Fluctuations in Quarterly Results
+
+The Company's operating results may be subject to quarterly fluctuations as a
+result of a number of factors. These factors include the integration of people,
+operations, and products from acquired businesses and technologies; increased
+competition, which the company expects; the introductions and market acceptance
+of new products, including high-speed switching and ATM technologies; variations
+in sales channels, product costs, or mix of products sold; the timing of orders
+and manufacturing lead times; and changes in general economic conditions, any of
+which could have an adverse impact on operations and financial results. For
+example, in the second quarter of fiscal 1995, the Company acquired
+substantially all of the assets of LightStream and incurred an expense of
+approximately $95 million associated with purchased research and development,
+which resulted in net income being significantly lower than in the prior
+quarter. Additionally, the dollar amount of large orders for the Company's
+products have been increasing, and therefore the operating results for a quarter
+could be materially adversely affected if a number of large orders are either
+not received or are delayed, due for example, to cancellations, delays or
+deferrals by customers. Further, the Company's expense levels are required, in
+part, to generate future revenues. If revenue levels are below expectations,
+operating results are likely to be adversely affected. Net income may be
+disproportionately affected by a reduction in revenues because a proportionately
+smaller amount of the Company's expenses varies with its revenues.
+
+Dependence on New Product Development; Rapid Technological and Market Change
+
+The markets for the Company's products are characterized by rapidly changing
+technology, evolving industry standards, frequent new product introductions and
+evolving methods of building and operating networks. The Company's operating
+results will depend to a significant extent on its ability to continue to
+successfully introduce new products on a timely basis and to reduce costs of
+existing products. In particular, in August 1992, the Company broadened its
+product line by introducing its first network access product. Since that time,
+sales of these products, which are generally lower priced and carry lower
+margins than the Company's core products, have increased more rapidly than sales
+of the core products. In addition, in 1994, Cisco announced its CiscoFusion
+architecture, that provides a method of merging router-based networks with
+emerging technologies such as Asynchronous Transfer Mode and LAN switches. While
+some elements of the CiscoFusion architecture have been introduced, others are
+still in development. The success of these and other new products is dependent
+on several factors, including proper new product definition, product cost,
+timely completion and introduction of new products, differentiation of new
+products from those of the Company's competitors and market acceptance of these
+products. The Company has addressed the need to develop new products through its
+internal development efforts and through joint developments with other companies
+and through acquisitions. Acquisitions involve numerous risks, including
+difficulties in the assimilation of the operations, technologies and products of
+the acquired companies, the diversion of management's attention from other
+business concerns, risks of entering markets in which the Company has no or
+limited direct prior experience and where competitors in such markets have
+stronger market positions, and the potential loss of key employees of the
+acquired company. There can be no assurance that the Company will successfully
+identify new product opportunities and develop and bring new products to market
+in a timely manner, or that products or technologies developed by others will
+not render the Company's products or technologies obsolete or noncompetitive.
+The failure of the Company's new product development efforts could have a
+
+
+
+material adverse effect on the Company's business and results of operations.
+
+Manufacturing Risks
+
+Although the Company generally uses standard parts and components for its
+products, certain components are presently available only from a single source
+or limited sources. The Company has generally been able to obtain adequate
+supplies of all components in a timely manner from existing sources, or where
+necessary, from alternative sources of supply. A reduction or interruption in
+supply or a significant increase in the price of one or more components would
+adversely affect the Company's operating results and could damage customer
+relationships. For example, recent shortages in the supply of semiconductors has
+resulted in price increases and has limited the Company's ability to obtain
+price reductions with respect to such components. These developments could
+result in lower gross margins. The Company expects that it will continue to be
+dependent on single or limited source supplier relationships in the future.
+
+Volatility of Stock Price
+
+The Company's Common Stock has experienced substantial price volatility,
+particularly as a result of variations between the Company's actual or
+anticipated financial results and the published expectations of analysts and as
+a result of announcements by the Company and its competitors. In addition, the
+stock market has experienced extreme price and volume fluctuations that have
+affected the market price of many technology companies in particular and that
+have often been unrelated to the operating performance of these companies. These
+broad market fluctuations, as well as general economic and political conditions,
+may adversely affect the market price of the Company's Common Stock.
+
+EMPLOYEES
+
+As of September 24, 1995, the Company employed 4086 persons, including 427 in
+manufacturing, 1092 in domestic sales and marketing, 525 in customer service,
+1016 in engineering, 405 in finance and administration, and 621 employees in
+international locations. The Company also employs a number of temporary and
+contract employees, and during fiscal 1995 the Company employed between 473 and
+742 such people at any one time.
+
+None of the employees is represented by a labor union, and the Company considers
+its relations with its employees to be positive. The Company has experienced no
+work stoppages.
+
+Competition for technical personnel in the Company's industry is intense. To
+date, the Company believes that it has been successful in recruiting qualified
+employees, but there is no assurance that it will continue to be as successful
+in the future. The Company believes that its future success depends in part on
+its continued ability to hire, assimilate, and retain qualified personnel.
+
+ITEM 2.     PROPERTIES
+
+The Company's principal corporate offices are located at sites in Santa Clara
+and San Jose, California. The Santa Clara facilities are leased through December
+1996 and have approximately 120,000 square feet of office space. The Company's
+main headquarters are situated on 46 acres of leased land in San Jose,
+California. Eight buildings are located at this site, one of which is the
+Company's manufacturing facility. The San Jose headquarters consist of
+approximately 825,000 square feet of leased office space at the 
+
+
+
+present time. To meet its anticipated needs at its main headquarters, the
+Company has leased an additional 36 acres of land at two nearby sites where it
+will eventually lease facilities to be constructed on each site. Construction
+has started at one of the sites on a series of office buildings which, when
+completed, will have approximately 575,000 square feet. Occupancy is expected 
+to begin prior to the end of calendar 1996.
+
+In addition to the California facilities, the Company leases approximately 45
+acres of land in Research Triangle Park, North Carolina, where the InterWorks
+Business Unit, as well as a Technical Assistance Center, telesales, and various
+other support functions, are located. One building of approximately 80,000
+square feet has been constructed and is currently occupied under a lease that
+expires in July 1999. A 120,000-square-foot building at this location is
+currently under construction and should be occupied before the end of the 1996
+fiscal year. This site can accommodate one additional building.
+
+The Company's ATM Business Unit occupies approximately 50,000 square feet of
+leased office space in Billerica, Massachusetts.
+
+The Company also leases various small offices throughout the U.S. and on a
+worldwide basis. See Note 6 to the Consolidated Financial Statements for
+additional information regarding the Company's obligations under leases.
+
+Management believes that suitable additional space will be available to
+accommodate expansion of the Company's operations on commercially reasonable
+terms.
+
+ITEM 3.     LEGAL PROCEEDINGS
+
+None.
+
+ITEM 4.     SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+No matters were submitted to a vote of security holders during the fourth
+quarter of the fiscal year covered by this report.
+
+EXECUTIVE OFFICERS AND DIRECTORS OF THE REGISTRANT
+
+
+
+
+
+
+
+
+
+
+- -------
+(1)  Member of the Executive Committee
+(2)  Member of the Compensation/Stock Option Committee
+(3)  Member of the Audit Committee
+(4)  Member of the Nomination Committee
+(5)  Member of the Acquisition Committee
+
+TRANSFER AGENT AND REGISTRAR                      INDEPENDENT ACCOUNTANTS
+Bank of Boston                                    Coopers & Lybrand L.L.P.
+50 Royal Street                                   Ten Almaden Boulevard
+Canton, MA  92021                                 San Jose, CA  95113
+
+LEGAL COUNSEL
+Brobeck, Phleger & Harrison
+2200 Geng Road
+Palo Alto, CA  94303
+
+
+
+
+                                     PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+STOCK MARKET INFORMATION
+
+Price range of the Company's common stock that reflects the two-for-one splits
+effective March 1993 and March 1994:
+
+
+
+Cisco Systems' common stock (Nasdaq symbol CSCO) is traded on the Nasdaq
+National Market. The table above reflects the range of high and low closing
+prices for each period indicated. The Company has never paid cash dividends on
+the common stock and has no present plans to do so. There were approximately
+4917 shareholders of record on October 2, 1995.
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+                         FIVE YEARS ENDED JULY 30, 1995
+                    (In thousands, except per-share amounts)
+
+
+
+
+
+ITEM 7.     MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND 
+            RESULTS OF OPERATIONS
+
+Comparison of 1994 and 1995:
+
+Net sales grew from $1,243.0 million in 1994 to $1,978.9 million in 1995. The
+59.2% increase in net sales during the year was primarily a result of increasing
+unit sales of the Cisco 7010, the Cisco 7000, and the Cisco 2500 product family,
+sales of new products including the Cisco 4500, as well as the initial market
+acceptance of the Company's high-speed switching products. These increases were
+partially offset by decreasing unit sales of the Company's older product lines,
+comprising the AGS+ as well as the Cisco 2000 and Cisco 3000 product families.
+Sales to international customers were 42.4% of net sales in 1995 compared with
+41.9% in 1994. This moderate increase reflects the Company's continued expansion
+into new geographic markets.
+
+Gross margins increased from 66.8% of net sales in 1994 to 67.4% in 1995. Gross
+margins have improved as a result of several factors, including lower material
+costs achieved through volume and prompt payment discounts, certain
+manufacturing overhead efficiencies, and a decrease in warranty expenses from
+2.0% of net sales in 1994 to 1.5% in 1995. This was partially offset by the
+continued shift in revenue mix to the Company's lower-margin remote access
+products. In the future, the Company expects its gross margins to decrease,
+because it believes that the market for lower-margin remote access and
+high-speed switching products will continue to increase at a faster rate than
+the market for the Company's higher- margin router products. The Company is
+attempting to improve manufacturing efficiencies, but there can be no assurance
+that it will be able to do so, or that any efficiencies attained will be
+sufficient to maintain gross margins.
+
+Research and development expenses increased $76.1 million from 1994 to 1995, an
+increase from 7.1% of net sales in 1994 to 8.3% in 1995. The increase reflects
+the Company's ongoing research and development efforts, including the further
+development of its CiscoFusion architecture, as well as the acquisition of
+technologies to bring a broad range of products to market in a timely fashion. A
+significant portion of the increase was due to the addition of new personnel,
+primarily from hiring and to a lesser extent through acquisitions, as well as
+higher material costs for prototypes and depreciation on new equipment. All of
+the Company's research and development costs are expensed as incurred. The
+Company is primarily developing new technologies internally, and because of
+this, research and development as a percentage of sales is expected to increase.
+When appropriate, the Company may acquire other businesses or license technology
+from other businesses as an alternative to internal research and development.
+
+Sales and marketing expenses increased $148.9 million in 1995, an increase from
+16.6% to 17.9% of net sales. The increase in these expenses resulted from an
+increase in the size of the Company's direct sales force and its commissions,
+additional marketing programs to support the launch of new products, the entry
+into new markets both domestic and international, and expansion of distribution
+channels.
+
+General and administrative expenses rose $29.0 million from 1994 to 1995 which
+represents an increase from 3.8% of net sales in 1994 to 3.9% in 1995. The
+increase in these expenses reflects increased personnel costs, implementation of
+the Company's new information system, and the amortization of goodwill since the
+date of the acquisition of the assets and assumption of the liabilities of
+LightStream (see note 2).
+
+
+
+The amount expensed to purchased research and development arose from the
+acquisition of the assets and assumption of the liabilities of LightStream (see
+note 2).
+
+Interest and other income, net, was $21.4 million in 1994 and $36.1 million in
+1995. Interest income rose as a result of additional investment income on the
+Company's increasing investment balances.
+
+During March 1995, the Financial Accounting Standards Board issued Statement No.
+121, "Accounting for the Impairment of Long-Lived Assets and for Long-Lived
+Assets to be Disposed Of," which requires the Company to review for impairment
+long-lived assets, certain identifiable intangibles, and goodwill related to
+those assets whenever events or changes in circumstances indicate that the
+carrying amount of an asset may not be recoverable. In certain situations, an
+impairment loss would be recognized. Statement No. 121 will be effective for the
+Company's fiscal year 1997. The Company has studied the implications of the
+statement, and based on its initial evaluation, does not expect it to have a
+material impact on the Company's financial condition or results of operations.
+
+Future Growth Subject to Risks
+
+The Company's growth is dependent upon market growth and its ability to enhance
+its existing products and introduce new products on a timely basis. The Company
+must also maintain its ability to manage any such growth effectively. In this
+regard, in May 1995 the Company completed an internal reorganization, which it
+believes will better enable it to address its markets. No assurance can be given
+that this reorganization will achieve its objectives. Failure to manage growth
+effectively could materially and adversely affect the Company's business and
+operating results. The Company's growth and ability to meet customer demand also
+depend, in part, on its ability to have stable supplies of parts from its
+suppliers. Many of these parts, particularly semiconductor parts, may be in
+short supply. An inability to obtain these parts could have a material and
+adverse affect on the Company's growth.
+
+The Company expects that in the future, its net sales will grow at a slower rate
+than was experienced in previous periods and that on a quarter-to-quarter basis,
+the Company's growth in net sales may be significantly lower than its historical
+quarterly growth rate. The Company has been experiencing longer sales cycles for
+its core products resulting from larger order sizes and believes that some
+customers may be deferring purchases in order to complete detailed reviews of
+their overall network plans. In addition, in response to customer demand, the
+Company has, from time to time, reduced its product manufacturing lead times and
+its backlog of orders. To the extent that backlog is reduced during any
+particular period, it would result in more variability and less predictability
+in the Company's quarter-to-quarter net sales and operating results.
+
+The Company also expects that gross margins may be adversely affected by
+increases in material or labor costs, heightened price competition, and by
+changes in channels of distribution or in the mix of products sold. In
+particular, the Company broadened its product line by introducing its first
+network access product in August 1992. Since that time, sales of these products,
+which are generally lower-priced and carry lower gross margins than the
+Company's core products, have increased more rapidly than the sales of the core
+products.
+
+The Company also expects that its operating margins may decrease as it continues
+to hire additional personnel and to increase other operating 
+
+
+
+expenses to support its business. The results of operations for 1995 are not
+necessarily indicative of results to be expected in future periods, and the
+Company's operating results may be subject to quarterly fluctuations as a result
+of a number of factors. These factors include the integration of people,
+operations, and products from acquired businesses and technologies; increased
+competition, which the Company expects; the introduction and market acceptance
+of new products, including high-speed switching and ATM technologies; variations
+in sales channels, product costs, or mix of products sold; the timing of orders
+and manufacturing lead times; and changes in general economic conditions, any of
+which could have an adverse impact on operations and financial results.
+
+Comparison of 1993 and 1994:
+
+Net sales grew from $649.0 million in 1993 to $1,243.0 million in 1994. The
+91.5% increase in net sales during the year was primarily a result of increasing
+unit sales of the Cisco 3000, the Cisco 4000, and the Cisco 7000, sales of new
+products including the Cisco 2500 and the Cisco 7010, and growth in sales of
+add-on boards, which provide increased functionality. Sales to international
+customers were 41.9% of net sales in 1994, compared with 39.0% in 1993. This
+increase reflects the Company's continued expansion into new geographic markets.
+
+Gross margins decreased from 67.6% of net sales in 1993 to 66.8% in 1994. Gross
+margins decreased as a result of the increasing unit sales of lower-margin
+products, principally the Cisco 3000 and the Cisco 4000, and from the sales of
+new products, primarily the Cisco 2500. Warranty expenses increased slightly
+from 1.7% of net sales in 1993 to 2.0% in 1994, reflecting the new product
+introductions. In the future, the Company expects its gross margins to decrease,
+because the Company believes that the market for lower-margin remote access and
+high-speed switching products will increase at a faster rate than the market for
+the Company's higher-margin router products. Decreases could be partially
+offset by various measures employed to lower the cost of raw materials
+purchased.
+
+Research and development expenses increased $44.5 million from 1993 to 1994,
+primarily as a result of additions to engineering personnel, including Crescendo
+Communications personnel, depreciation on new engineering equipment, material
+costs for prototypes, and increased facilities expenses. These expenses
+increased from 6.8% of net sales in 1993 to 7.1% in 1994. All of the Company's
+research and development costs are expensed as incurred. The Company is
+primarily developing new technologies internally, and because of this, research
+and development as a percentage of sales is expected to increase. When
+appropriate, the Company may acquire other businesses or license technology from
+other businesses as an alternative to internal research and development.
+
+Sales and marketing expenses increased $96.1 million in 1994 as a result of
+increased marketing and sales personnel and support costs, including
+commissions, in both the U.S. and the Company's international subsidiaries.
+Sales and marketing expenses decreased slightly as a percentage of net sales,
+from 16.9% in 1993 to 16.6% in 1994. However, management expects sales
+expenditures to increase as a percentage of net sales as the Company penetrates
+new markets.
+
+General and administrative expenses rose $26.5 million from 1993 to 1994, which
+represents an increase from 3.2% of net sales in 1993 to 3.8% in 1994. The
+increase in these expenses was due primarily to increased personnel costs, legal
+and tax fees as the Company expands internationally, costs associated with the
+Crescendo acquisition, and charitable contributions.
+
+
+
+Interest and other income, net, was $11.6 million in 1993 and $21.4 million in
+1994. Interest income rose as a result of additional investment income on the
+Company's increasing investment balances.
+
+International operating income as a percentage of net international sales
+decreased from 4.8% in 1993 to 1.5% in 1994. International operating income
+consists of net operating income of the Company's international subsidiaries,
+which have various distribution arrangements with the Company. The decrease from
+1993 to 1994, in percentage terms, can be attributed to a shifting mix of
+intercompany arrangements and higher organizational expenditures associated with
+expanding international operations through new and existing entities.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Cash, short-term investments, and investments increased by $289.1 million from
+1994 to 1995, primarily as a result of cash generated by operations, cash
+received in connection with the exercise of employee stock options, and proceeds
+received from minority shareholders in the Company's Japanese subsidiary (see
+note 7). The increase was partially offset by the cash paid to acquire the
+assets and assume the liabilities of LightStream (see note 2) and repurchases of
+the Company's common stock.
+
+Accounts receivable rose 61.7% from 1994 to 1995, while sales grew by 59.2%.
+Days sales outstanding in receivables were 56 days at the end of the year,
+versus 59 days at July 31, 1994. Inventories increased 155.1% from 1994 to 1995
+because of production planning associated with higher sales levels. In addition,
+inventory levels were unusually low at July 31, 1994 because of the planned
+delay in raw material receipts to accommodate the manufacturing operations move
+to the Company's new headquarters. As a result, inventory turnover decreased
+from 16.1 turns at July 31, 1994 to 13.0 turns at July 30, 1995.
+
+Accounts payable increased 42.6% from 1994 to 1995 because of increases in
+capital expenditures, operating expenses, and material purchases to support the
+growth in net sales. The 82.8% increase in accrued payroll and related expenses
+is primarily a result of personnel additions made during the year. Other accrued
+liabilities increased by 61.2% from 1994 to 1995, primarily because of increases
+in the warranty accrual and deferred service contracts.
+
+At July 30, 1995, the Company had a line of credit totaling $100.0 million,
+which expires April 1998. There have been no borrowings under this agreement.
+
+The Company has entered into certain lease arrangements in San Jose, California,
+and Research Triangle Park, North Carolina, where it has established its
+headquarters operations and certain research and development and customer
+support activities. In connection with these transactions, the Company pledged
+$173.1 million of its investments as collateral for certain obligations of the
+leases. The restricted investments balance will continue to increase as the
+Company phases in operations at these lease sites.
+
+Under the Company's ongoing stock repurchase program, shares have been purchased
+periodically and retired. During the year ended July 30, 1995, the Company
+purchased and retired approximately 2.1 million shares for an aggregate price of
+$69.9 million. As of July 30, 1995, the Company was authorized to repurchase up
+to an additional 4.9 million shares of its common stock in the open market or
+through privately negotiated transactions.
+
+
+
+The Company's management believes that its current cash and equivalents,
+short-term investments, line of credit, and cash generated from operations will
+satisfy its expected working capital and capital expenditure requirements
+through 1996.
+
+
+
+ITEM 8.     FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+                               CISCO SYSTEMS, INC.
+
+                           CONSOLIDATED BALANCE SHEETS
+                                 (In thousands)
+
+
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+
+
+                               CISCO SYSTEMS, INC.
+
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+                    (In thousands, except per-share amounts)
+
+
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+
+
+                               CISCO SYSTEMS, INC.
+
+                 CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+                                 (In thousands)
+
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+
+
+                               CISCO SYSTEMS, INC.
+
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (In thousands)
+
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+             (In thousands, except exercise prices and percentages)
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+     Fiscal Year.  The Company's fiscal year is the 52 or 53 weeks ending on the
+last Sunday in July. The fiscal years ended July 30, 1995, July 31, 1994, and
+July 25, 1993 comprised 52, 53, and 52 weeks, respectively.
+
+     Principles of Consolidation.  The consolidated financial statements include
+the accounts of Cisco Systems, Inc. and its subsidiaries. All significant
+intercompany accounts and transactions have been eliminated.
+
+     Cash and Equivalents.  The Company considers all highly liquid investments
+purchased with a maturity of less than three months to be cash equivalents.
+Substantially all of its cash and equivalents are maintained with two major
+financial institutions.
+
+     Short-Term Investments.  The Company's short-term investments comprise 
+U.S., state, and municipal government obligations, and foreign and corporate
+obligations. These investments are carried at market value and have maximum
+maturities of one year. Prior to adoption of Statement of Financial Accounting
+Standards No. 115, "Accounting for Certain Investments in Debt and Equity
+Securities", in fiscal year 1995, the Company's short-term investments were
+carried at cost, which approximated market value at July 31, 1994. Nearly all
+short-term investments are held in the Company's name and maintained with one
+large financial institution.
+
+     Inventories.  Inventories are stated at the lower of cost or market. Cost
+is computed using standard cost, which approximates actual cost on a first-in,
+first-out basis.
+
+     Investments.  Investments consist of U.S., state, and municipal government
+obligations, foreign and corporate obligations, and corporate securities with
+maturities of more than one year. These investments are carried at market value.
+Prior to adoption of Statement No. 115 in fiscal year 1995, the Company's
+investments were carried at cost, which approximated market value at July 31,
+1994. Investments are held in the Company's name and maintained with one large
+financial institution.
+
+     Restricted Investments.  Restricted investments consist of U.S. 
+governmental obligations with maturities of more than one year. These 
+investments are carried at market value at July 30, 1995 and are restricted as
+to withdrawal (see Note 6). Prior to adoption of Statement No. 115 in fiscal 
+year 1995, the Company's restricted investments were carried at cost, which 
+approximated market value at July 31, 1994. Restricted investments are held in
+the Company's name and maintained with one large financial institution.
+
+     Revenue Recognition.  The Company recognizes product revenue upon shipment
+of product. Revenue from service obligations is deferred and recognized over the
+lives of the contracts.
+
+     Depreciation and Amortization.  Property and equipment are stated at cost 
+and depreciated on a straight-line basis over the estimated useful lives of the
+assets. Such lives vary from two and one-half to five years.
+
+
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+             (In thousands, except exercise prices and percentages)
+
+     Income Taxes.  The Company accounts for income taxes using the liability
+method to calculate deferred income taxes. The realization of deferred tax
+assets is based on historical tax positions and expectations about future
+taxable income.
+
+     Computation of Net Income Per Common Share.  Net income per common share is
+computed using the weighted average number of common and dilutive common
+equivalent shares outstanding during the period. Dilutive common equivalent
+shares consist of stock options.
+
+     Foreign Currency Translation.  The Company's international subsidiaries use
+their local currencies as their functional currencies. Assets and liabilities
+are translated at exchange rates in effect at the balance sheet date and income
+and expense accounts at average exchange rates during the year. Resulting
+translation adjustments are recorded directly to a separate component of
+shareholders' equity.
+
+     Forward Exchange Contracts.  The Company enters into forward exchange
+contracts to minimize the short-term impact of foreign currency fluctuations on
+the asset and liability positions of its international subsidiaries. Gains and
+losses on these contracts are recognized in net income in the period in which
+exchange rate changes occur.
+
+     Recent Accounting Pronouncements.  During March 1995, the Financial
+Accounting Standards Board issued Statement No. 121, "Accounting for the
+Impairment of Long-Lived Assets and for Long-Lived Assets to Be Disposed Of,"
+which requires the Company to review for impairment long-lived assets, certain
+identifiable intangibles, and goodwill related to those assets whenever events
+or changes in circumstances indicate that the carrying amount of an asset may
+not be recoverable. In certain situations, an impairment loss would be
+recognized. Statement No. 121 will be effective for the Company's fiscal year
+1997. The Company has studied the implications of the statement, and, based on
+its initial evaluation, does not expect it to have a material impact on the
+Company's financial condition or results of operations.
+
+
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+             (In thousands, except exercise prices and percentages)
+
+2. BUSINESS COMBINATIONS
+
+In September 1993, the Company acquired Crescendo Communications, Inc., a
+networking company that provides high-performance workgroup solutions. The
+Company issued approximately 3400 shares of common stock for all the outstanding
+stock of Crescendo in a transaction that was accounted for as a pooling of
+interests. The Company also assumed options and warrants to purchase Crescendo
+stock of which the options remain outstanding to purchase approximately 280
+shares of the Company's common stock.
+
+On August 8, 1994, the Company acquired Newport Systems Solutions, Inc., a
+privately held networking company providing software-based routers for remote
+network sites. The Company issued approximately 3300 shares of common stock for
+all the outstanding stock of Newport in a transaction also accounted for as a
+pooling of interests. The Company also assumed options to purchase Newport stock
+that remain outstanding as options to purchase approximately 190 shares of the
+Company's common stock.
+
+On December 6, 1994, the Company acquired Kalpana, Inc., a privately held
+manufacturer of Ethernet switches. Under the terms of the agreement, the Company
+issued approximately 6800 shares of common stock for all the outstanding stock
+of Kalpana in a transaction also accounted for as a pooling of interests. In
+connection with this transaction, the Company assumed options to purchase
+Kalpana stock that remain outstanding as options to purchase approximately 500
+shares of the Company's common stock.
+
+The aggregated historical operations of Crescendo, Newport and Kalpana are not
+material to the Company's consolidated operations and financial position.
+Therefore, prior period statements have not been restated.
+
+Effective January 11, 1995, the Company acquired substantially all of the assets
+and assumed the liabilities of LightStream Corporation for $120,000 in cash and
+related acquisition costs of approximately $500. LightStream was a developer of
+enterprise-class Asynchronous Transfer Mode (ATM) switching technology.
+
+The acquisition was accounted for as a purchase. Accordingly, the results of
+operations of the acquired business and the fair market values of the acquired
+assets and assumed liabilities were included in the Company's financial
+statements as of the effective date.
+
+The purchase price was allocated to the acquired assets and assumed liabilities
+based on fair market values as follows:
+
+
+
+
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+             (In thousands, except exercise prices and percentages)
+
+The amount allocated to purchased research and development was determined
+through known valuation techniques in the high-technology communications
+industry. Amounts allocated to goodwill will be amortized on a straight-line
+basis over periods ranging from two to five years.
+
+The following summary, prepared on a pro forma basis, combines the results of
+operations as if LightStream had been acquired as of the beginning of the
+periods presented. The summary includes the impact of certain adjustments such
+as goodwill amortization and estimated changes in interest income due to cash
+outlays associated with the transaction and the related income tax effects (in
+thousands, except per-share amounts):
+
+
+
+The pro forma results are not necessarily indicative of what actually would have
+occurred if the acquisition had been in effect for the entire periods presented.
+In addition, they are not intended to be a projection of future results and do
+not reflect any synergies that might be achieved from the combined operations.
+
+
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+             (In thousands, except exercise prices and percentages)
+
+3. BALANCE SHEET DETAIL
+
+      Inventories:
+
+
+
+
+
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+             (In thousands, except exercise prices and percentages)
+
+4. INVESTMENTS
+
+Effective August 1, 1994, the Company adopted Statement of Financial Accounting
+Standards No. 115, "Accounting for Certain Investments in Debt and Equity
+Securities." This statement requires the Company to classify debt and equity
+securities into one of three categories: held-to-maturity, trading, or
+available-for-sale. At July 30, 1995, substantially all of the Company's
+investments were classified as available-for-sale, and the difference between
+the cost and fair market value of those securities, net of the tax effect, is
+shown as a separate component of shareholders' equity.
+
+The following table summarizes the Company's securities at July 30, 1995:
+
+
+
+Gross realized gains and losses on the sale of securities are calculated using
+the specific identification method and were not material to the Company's
+consolidated results of operations.
+
+5. LINE OF CREDIT
+
+On May 22, 1995, the Company entered into a syndicated credit agreement under
+the terms of which a syndication of banks has committed a maximum of $100,000 on
+an unsecured basis for cash borrowings and letters of credit. The commitments
+made under this agreement expire on April 30, 1998. During the commitment
+period, the Company is obligated to pay annual fees of approximately $150.
+Outstanding borrowings under these arrangements bear interest at the London
+Interbank Offered Rate plus .31%, or other alternative rates. The agreement
+specifies various financial covenants, including a variable floor on tangible
+net worth, all of which the Company has met. There have been no borrowings under
+this agreement.
+
+6. COMMITMENTS
+
+LEASES
+
+The Company leases office space for its U.S. and international sales offices.
+The Company also leases buildings at its headquarters in Santa Clara and San
+Jose, California. The Santa Clara lease expires December 1996.
+
+
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+             (In thousands, except exercise prices and percentages)
+
+In February 1993, the Company entered into an agreement to lease 46 acres of
+land located in San Jose, California, where it has established its headquarters
+operations. In July 1994, the Company entered into an agreement to lease 45
+acres of land located in Research Triangle Park, North Carolina, where it
+expanded certain research and development and customer support activities. In
+February and April 1995, the Company entered into agreements to lease an
+additional 36 acres of land in San Jose, California, where it will further
+expand its headquarters operations. All of the leases have initial terms of five
+years and options to renew for an additional five years, subject to certain
+conditions.
+
+At any time during the terms of these land leases, the Company may purchase the
+land. If the Company elects not to purchase the land at the ends of the leases,
+the Company has guaranteed a residual value of approximately $55.9 million.
+
+In May 1993, August 1994, and May 1995, the Company entered into agreements to
+lease certain buildings to be constructed on the land described above. The
+lessors of the buildings have committed to fund up to a maximum of $114.0
+million (subject to reductions based on certain conditions in the lease) for the
+construction of the buildings, with the portion of the committed amount actually
+utilized to be determined by the Company. Rent obligations for the buildings
+will commence on varying dates and will expire at the same time as the land
+leases. The Company has an option to renew the building leases for an additional
+five years, subject to certain conditions.
+
+The Company may, at its option, purchase the buildings during the terms of the
+leases at approximately the amount expended by the lessors to construct the
+buildings. If the Company does not exercise the purchase options at the ends of
+the leases, the Company will guarantee a residual value of the buildings as
+determined at the lease inception date of each agreement (approximately $69.3
+million at July 30, 1995).
+
+As part of the above lease transactions, the Company restricted $173.1 million
+of its securities as collateral for specified obligations of the lessor under
+the leases. These securities will be restricted as to withdrawal and will be
+managed by the Company subject to certain limitations, under its investment
+policy. In addition, the Company must maintain a minimum consolidated tangible
+net worth of $750.0 million.
+
+Future annual minimum lease payments under all noncancelable operating leases as
+of July 30, 1995, are as follows:
+
+
+
+
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+             (In thousands, except exercise prices and percentages)
+
+Rent expense totaled $19,157, $12,399, and $7,243 for 1995, 1994, and 1993,
+respectively.
+
+FORWARD EXCHANGE CONTRACTS
+
+The Company enters into forward exchange contracts to reduce its exposure to
+potentially adverse changes in foreign currency exchange rates. The contracts
+hedge certain balance sheet exposures and intercompany balances against future
+movements in foreign exchange rates. The Company does not hold these financial
+instruments for trading purposes. Foreign exchange contracts outstanding,
+primarily in European, Canadian, and Australian currencies, amounted to $44.5
+million and $21.8 million at July 30, 1995 and July 31, 1994, respectively.
+Gains and losses on the contracts are included in other income, which offset
+foreign exchange gains or losses from revaluation of intercompany balances. The
+maturity dates of the contracts outstanding at July 30, 1995 extended to
+approximately one month.
+
+The Company's forward exchange contracts contain an element of risk that the
+other parties may be unable to meet the terms of the agreements. However, the
+Company minimizes such risk exposure by limiting the other parties to major
+financial institutions. In addition, the amount of agreements entered into with
+any one party is also monitored. Management does not expect any significant
+losses as a result of default by the other parties.
+
+7. MINORITY INTEREST
+
+In October 1994, the Company's Japanese subsidiary, Nihon Cisco Systems, K.K.,
+completed the sale of preferred stock to a group of outside investors in a
+private placement. Aggregate proceeds to Nihon Cisco Systems, K.K. were
+approximately $40.5 million. The investors received 26.8% of the voting rights.
+The Company retains ownership of all issued and outstanding common stock of its
+subsidiary, amounting to 73.2% of the voting rights. Each share of preferred
+stock is convertible into one share of common stock at any time, at the option
+of the holder.
+
+8. SHAREHOLDERS' EQUITY
+
+The Company's common stock was split two-for-one on March 5, 1993 and March 4,
+1994. All applicable share and per-share data in these financial statements have
+been restated to give effect to these stock splits.
+
+Under the terms of the Company's Articles of Incorporation, the Board of
+Directors may determine the rights, preferences, and terms of the Company's
+authorized preferred stock.
+
+ 
+
+                              CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+             (In thousands, except exercise prices and percentages)
+
+9.  EMPLOYEE STOCK PURCHASE PLAN
+
+The Company has an Employee Stock Purchase Plan (the Purchase Plan) under which
+4800 shares of common stock have been reserved for issuance. Eligible employees
+may designate not more than 10% of their cash compensation to be deducted each
+pay period for the purchase of common stock under the Purchase Plan, and
+participants may purchase not more than $25 worth of common stock in any one
+calendar year. On the last business day of each calendar quarter, shares of
+common stock are purchased with the employees' payroll deductions over six
+months, at a price per share of 85% of the lesser of the market price of the
+common stock on the purchase date or the market price on the first day of the
+period. The Purchase Plan will terminate no later than January 3, 2000. In 1995,
+1994, and 1993, 579, 387, and 344 shares were issued under the Purchase Plan,
+respectively. At July 30, 1995, 2142 shares were available for issuance under
+the Purchase Plan.
+
+10. STOCK OPTION PLANS
+
+The Company established a Stock Option Plan in 1987 under which it has reserved
+a total of 91,640 shares of common stock for issuance to employees, officers,
+directors, consultants, and independent contractors. Both incentive and
+nonqualified stock options have been granted at prices not less than fair market
+value at the date of grant as determined by the Board of Directors. Although the
+Board has the authority to set other terms, the options are generally 25%
+exercisable one year from the date of grant and then ratably over the following
+36 months.
+
+A summary of option activity follows:
+
+
+
+At July 30, 1995, approximately 9287 outstanding options were exercisable.
+Options granted for approximately 4000 shares reflected in the 1995 fiscal year
+are subject to shareholder approval of a 19,000 increase to the number of shares
+made available for issuance under the plan.
+
+
+
+                              CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+             (In thousands, except exercise prices and percentages)
+
+The Company has, in connection with the acquisition of Crescendo, Newport, and
+Kalpana, assumed the stock option plans of each acquired company. A total of
+2,237 shares of the Company's common stock has been reserved for issuance under
+those assumed plans.
+
+11. EMPLOYEE BENEFIT PLAN
+
+The Company has adopted a plan to provide retirement and incidental benefits for
+its employees, known as the Cisco Systems, Inc. 401(k) Plan (the Plan). As
+allowed under Section 401(k) of the Internal Revenue Code, the Plan provides tax
+deferred salary deductions for eligible employees.
+
+Employees may contribute from 1% to 15% of their annual compensation to the
+Plan, limited to a maximum amount as set by the Internal Revenue Service. The
+Company matches employee contributions dollar for dollar, up to a maximum of
+$1.5 per year. In addition, the Plan provides for discretionary contributions as
+determined by the Board of Directors. Such contributions to the Plan are
+allocated among eligible participants in the proportion of their salaries to the
+total salaries of all participants. Company matching contributions to the Plan
+totaled $3,456 in 1995, $1,796 in 1994, and $1,015 in 1993. No discretionary
+contributions were made in 1995, 1994, or 1993.
+
+12. INCOME TAXES
+
+The provision for income taxes consists of:
+
+                
+
+The Company paid income taxes of $240.7 million, $164.3 million, and $63.3
+million, in 1995, 1994, and 1993, respectively.
+
+
+
+
+                              CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+             (In thousands, except exercise prices and percentages)
+
+The items accounting for the difference between income taxes computed at the
+federal statutory rate and the provision for income taxes follow:
+
+                                 
+
+The components of the deferred income tax provision are as follows:
+
+                                 
+
+The components of the deferred income tax assets follow:
+
+                                     
+
+The noncurrent  portion of the deferred income tax assets,  which totaled
+$11,405 at July 30, 1995, and $6,054 at July 31, 1994, is included in other
+assets.
+
+The Company's income taxes currently payable for both federal and state purposes
+have been reduced by the tax benefit derived from the disqualifying dispositions
+of incentive and nonqualified stock options. This benefit, which totaled $55,756
+in 1995 and $35,654 in 1994, was credited directly to common stock.
+
+
+
+
+                              CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+             (In thousands, except exercise prices and percentages)
+
+13. GEOGRAPHIC INFORMATION AND MAJOR CUSTOMERS
+
+The Company operates in a single industry segment encompassing the design,
+development, manufacture, marketing, and technical support of internetworking
+products and services.
+
+In 1995, 1994, and 1993, no customers accounted for 10% or more of the Company's
+net sales.
+
+International sales, primarily in Europe, the Pacific region, and Canada, were
+$838.3 million in 1995, $520.5 million in 1994, and $252.9 million in 1993.
+Export sales, primarily to these regions, were $661.6 million in 1995, $376.2
+million in 1994, and $166.3 million in 1993.
+
+Summarized financial information by geographic region for 1995, 1994, and 1993
+is as follows:
+
+            
+
+14.  SUBSEQUENT EVENT
+
+On August 10, 1995, the Company entered into an agreement to acquire Combinet
+Inc., a privately held manufacturer of remote access networking products. The
+agreement calls for the Company to issue approximately 2000 shares to acquire
+all the equity of Combinet, including outstanding options and warrants. The
+transaction is subject to several closing conditions and, if consummated, will
+be accounted for as a pooling of interests.
+
+
+
+
+                       REPORT OF INDEPENDENT ACCOUNTANTS
+
+Board of Directors and Shareholders
+Cisco Systems, Inc.
+San Jose, California
+
+We have audited the accompanying consolidated balance sheets of Cisco Systems,
+Inc. and its subsidiaries as of July 30, 1995 and July 31, 1994 and the related
+consolidated statements of operations, shareholders' equity, and cash flows for
+each of the three years in the period ended July 30, 1995. These financial
+statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the consolidated financial position of Cisco Systems,
+Inc. and its subsidiaries as of July 30, 1995 and July 31, 1994, and the
+consolidated results of their operations and their cash flows for each of the
+three years in the period ended July 30, 1995 in conformity with generally
+accepted accounting principles.
+
+/s/Coopers & Lybrand L.L.P.
+
+San Jose, California
+August 15, 1995
+
+
+
+
+                          SUPPLEMENTARY FINANCIAL DATA
+
+                            1995 AND 1994 BY QUARTER
+              (Unaudited) (in thousands, except per-share amounts)
+
+    (In thousands, except per-share amounts)
+
+
+
+
+
+ITEM 9.         CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+                      ACCOUNTING AND FINANCIAL DISCLOSURE
+
+None.
+
+                                    PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+The information regarding Directors appearing under the caption "Election of
+Directors" in the Company's proxy statement to be mailed to Shareholders on or
+before October 2, 1995, is incorporated herein by reference.
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+The information appearing at the end of Part I and under the caption "Executive
+Compensation" in the Company's proxy statement to be mailed to Shareholders on
+or before October 2, 1995, is incorporated herein by reference.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+The information appearing under the captions "Election of Directors" and
+"Ownership of Securities" in the Company's proxy statement to be mailed to
+Shareholders on or before October 2, 1995, is incorporated herein by reference.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+The information appearing under the caption "Ownership of Securities" and
+"Certain Relationships and Related Transactions" in the Company's proxy
+statement to be mailed to Shareholders on or before October 2, 1995, is
+incorporated herein by reference.
+
+
+
+
+                                    PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+(a)  1.   Financial Statements
+
+          The financial statements listed in Item 14(a) are filed as part of
+          this annual report.
+
+     2.   Financial Statement Schedules
+
+          The financial statement schedules listed in Item 14(a) are filed as
+          part of this annual report.
+
+     3.   Exhibits
+
+          The exhibits listed in the accompanying Index to Exhibits are filed or
+          incorporated by reference as part of this annual report.
+
+(b)       Reports on Form 8-K
+
+          No reports on Form 8-K were filed during the fourth quarter of fiscal
+          1995.
+
+
+
+
+
+    SIGNATURES
+
+Pursuant to the requirements of the Securities Act of 1933, the Registrant has
+duly caused this Report on Form 10-K to be signed on its behalf by the
+undersigned, thereunto duly authorized, in the City of San Jose, State of
+California on this 17th day of October, 1995.
+
+                                 Cisco Systems, Inc.
+
+                                 /s/ John T. Chambers
+                                -------------------------------------
+                                 (John T. Chambers, President and
+                                     Chief Executive Officer)
+
+Pursuant to the requirements of the Securities Act of 1933, this Report on Form
+10-K has been signed by the following persons in the capacities and on the dates
+indicated.
+
+
+
+
+
+                              CISCO SYSTEMS, INC.
+
+                                 -------------
+
+                         INDEX TO FINANCIAL STATEMENTS
+                       AND FINANCIAL STATEMENT SCHEDULES
+
+                                   ITEM 14(A)
+
+
+
+All other schedules have been omitted since the required information is not
+present in amounts sufficient to require submission of the schedules, or because
+the information required is included in the consolidated financial statements or
+notes thereto.
+
+
+
+REPORT OF INDEPENDENT ACCOUNTANTS
+
+Our report on the consolidated financial statements of Cisco Systems, Inc. and
+its subsidiaries is included on page 37 of this Form 10-K. In connection with
+our audits of such financial statements, we have also audited the related
+financial statement schedule listed in the index on page 41 of this Form 10-K.
+
+In our opinion, the financial statement schedule referred to above, when
+considered in relation to the basic financial statements taken as a whole,
+present fairly, in all material respects, the information required to be
+included therein.
+
+/s/ Coopers & Lybrand L.L.P.
+
+San Jose, California
+August 15, 1995
+
+
+
+
+                              CISCO SYSTEMS, INC.
+
+                                  SCHEDULE II
+                       VALUATION AND QUALIFYING ACCOUNTS
+                                 (In thousands)
+
+
+
+(1)  Deductions principally relate to charges for standards changes.
+
+
+
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES.
+
+(a)  The following exhibits are filed herewith.
+
+
+
+
+
+
+
+(b) The following financial statement schedules are filed herewith
+
+
+
+- --------------
+   *         Previously filed with registrant's registration statements (File
+             #33-32778)
+
+  **         Previously filed with registrant's Form 8-K dated October 8, 1993
+
+   +         Previously filed with registrant's Form 8-K dated December 9, 1994
+
+  ++         Previously filed with registrant's Form 8-K dated January 25, 1995
+
+   #         Previously filed with registrant's Form 8-K dated August 19, 1994
+
+  ##         Previously filed with registrant's Proxy statement dated October 2,
+
+
+

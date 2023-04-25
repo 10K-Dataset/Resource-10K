@@ -1,0 +1,3081 @@
+
+10-K
+FORM 10-K FOR PERIOD ENDED 9/30/99
+
+
+
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                            ------------------------
+
+                                   FORM 10-K
+                            ------------------------
+
+     [X]  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+        SECURITIES EXCHANGE ACT OF 1934
+
+                     FOR THE YEAR ENDED SEPTEMBER 30, 1999
+
+                                       OR
+
+     [ ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+        SECURITIES EXCHANGE ACT OF 1934
+
+                         COMMISSION FILE NUMBER 0-45138
+
+                                 SYNOPSYS, INC.
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+
+
+           700 EAST MIDDLEFIELD ROAD, MOUNTAIN VIEW, CALIFORNIA 94043
+                    (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)
+
+                                 (650) 962-5000
+              (REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE)
+
+        SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT: NONE
+
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT:
+                         COMMON STOCK, $0.01 PAR VALUE
+                        PREFERRED SHARE PURCHASE RIGHTS
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  Yes [X]  No [ ]
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.  [ ]
+
+     The aggregate market value of voting stock held by non-affiliates of the
+registrant as of December 1, 1999, was approximately $1,868,530,386.
+
+     On December 1, 1999, approximately 71,379,427 shares of the registrant's
+Common Stock, $0.01 par value, were outstanding.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+     Portions of the registrant's Notice of Annual Meeting and Proxy Statement
+for the registrant's annual meeting of stockholders to be held on March 3, 2000
+are incorporated by reference into Part III hereof.
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+
+     This Form 10-K includes forward-looking statements within the meaning of
+Section 21E of the Securities Exchange Act of 1934. These statements include,
+but are not limited to, statements concerning: the Company's plans to expand its
+consulting services business; the Company's expansion into the market for
+physical design tools; the Company's intention regarding expansion of its
+offerings of system level design and verification tools; the Company's intention
+regarding design reuse tools and techniques; the Company's expectations
+regarding research and development, sales and marketing, and general and
+administrative expenses; the Company's efforts to enhance its existing products
+and develop or acquire new products; and the Company's requirements for working
+capital. The Company's actual results could differ materially from those
+projected in the forward-looking statements as a result of risks and
+uncertainties that include, but are not limited to, those discussed under the
+caption "Factors That May Affect Future Results" under "Management's Discussion
+and Analysis of Financial Condition and Results of Operations" included in Part
+II, Item 8 hereto, as well as factors discussed elsewhere in this Form 10-K.
+
+
+
+                                 SYNOPSYS, INC.
+
+                           ANNUAL REPORT ON FORM 10-K
+                         YEAR ENDED SEPTEMBER 30, 1999
+
+                               
+
+
+
+
+                                     PART I
+
+ITEM 1. BUSINESS
+
+INTRODUCTION
+
+     Synopsys, Inc. ("Synopsys" or the "Company") is a leading supplier of
+electronic design automation (EDA) software to the global electronics industry.
+The Company develops, markets, and supports a wide range of integrated circuit
+(IC) design products that are used by designers of advanced ICs, including
+system-on-a-chip ICs, and the electronic products (such as computers, cell
+phones, and internet routers) that use such ICs. The Company also provides
+consulting services to help its customers improve their IC design processes and,
+where requested, to assist them with their IC designs. The Company's products
+and services offer its customers the opportunity to reduce the time to market
+for new products and reduce IC development and manufacturing costs by improving
+the productivity of their IC designers and enhancing their design quality of
+results. Synopsys also provides training and support services for its customers.
+Synopsys was incorporated in Delaware in 1987.
+
+THE ROLE OF EDA IN THE ELECTRONICS INDUSTRY
+
+     Over the past three decades, technology advances in the semiconductor
+industry have dramatically increased the number of transistors that can be
+placed on a chip and reduced the cost of manufacturing each chip. A
+state-of-the-art IC may have over 20 million transistors on it and may run at 1
+gigahertz, a speed that was unheard of even two years ago. Increasingly,
+functions that formerly were performed by multiple ICs attached to a printed
+circuit board are being combined in a single chip, referred to as a
+system-on-a-chip. The increased capacity of ICs has fostered the development of
+computers, internet routers, wireless communications networks, hand-held
+personal digital assistants, and many other goods and services with tremendous
+capabilities at relatively low cost.
+
+     In the current economic environment, competition and continuing innovation
+have shortened the life cycle of electronic products, so time-to-market is
+crucial to the success of a product. The growing complexity of advanced ICs
+threaten to lengthen the development cycle for new products, however. EDA
+products play a critical role in reducing time-to-market for new products by
+providing IC designers with tools and techniques to (a) reduce the time and
+manual effort required to design, analyze and verify individual ICs, (b) improve
+the performance and density of complex IC designs and (c) enhance the
+reliability of the IC design and manufacturing process.
+
+     Successfully exploiting the increased potential of ICs presents challenges
+for the semiconductor and electronics industries. IC designers face both a
+"designer productivity gap" and a "silicon performance gap." The designer
+productivity gap occurs because chip capability is increasing faster than the
+supply of IC designers with skills required to exploit that capability. EDA
+products help increase the productivity of designers by allowing them to
+describe their designs using an abstract, or "high level" design language (as
+opposed to describing the design at the transistor level), and then
+automatically deriving the detailed final design from the higher level
+description. EDA products also permit designers to analyze and verify the
+performance of the chip using high level design languages. Additionally, as the
+electronics industry increasingly produces system-on-a-chip ICs, the EDA
+industry is developing tools and techniques for reusing existing IC designs and
+integrating disparate IC blocks onto a single chip, both of which offer the
+potential for significant time savings in the design cycle.
+
+     The silicon performance gap occurs because the design effort required to
+develop a chip that fully exploits a new semiconductor technology increases as
+the size of the transistors shrink. A gap has developed between the potential
+performance enabled by new semiconductor technology and the performance that can
+be "designed in" by EDA tools. As ICs have increased in complexity and
+transistor sizes have dropped, the problems faced by IC designers have changed.
+In particular, ensuring that a chip will run at the desired speed has become
+substantially more difficult. At larger transistor sizes, IC designers could use
+standard estimates of chip timing during the logic design phase, and be
+confident that the timing characteristics would be preserved through the
+physical design phase. At smaller chip sizes, these estimates are unreliable. As
+a result, Synopsys
+
+
+
+and other EDA companies have introduced a new generation of products that
+address the timing problem by incorporating physical design information, with
+more accurate timing estimates, into the logic design phase of IC design. Other
+physical phenomena that increasingly must be considered earlier in the design
+process include power consumption, cross-talk, and metal migration into an IC
+design. The EDA industry is also developing products that take these phenomena
+into account earlier in the design process. As system-on-a-chip designs become
+more prevalent, the development of these types of tools will grow more important
+in closing the silicon performance gap.
+
+SYNOPSYS PRODUCT OVERVIEW
+
+     Synopsys provides products and services that help customers meet the
+challenges of producing leading edge ICs and the products that incorporate them.
+Synopsys' design tools include an extensive line of logic synthesis and system
+design and analysis software that allow an IC designer to describe chip behavior
+in a high-level language, convert that description into a gate-level
+representation, and analyze the expected performance of the chip at the
+gate-level. Synopsys' design tools also include tools to facilitate testing of
+an IC after the IC is built, as well as design reuse products that help reduce
+design time by permitting the straight-forward reuse of previously-proven
+circuit "blocks." Synopsys also provides semiconductor libraries for IC vendors
+and their customers.
+
+     Synopsys has recently extended its design tools product line to include
+several products targeted at the "back end," or physical design portion of the
+IC design process. Synopsys has not previously offered products in this portion
+of the EDA market. In fiscal 1999, Synopsys introduced Chip Architect, a design
+planning tool -- which incorporates floorplanning, placement, and global
+routing, and FlexRoute, a top-level router. Synopsys also commenced extensive
+customer testing of Physical Compiler, a product that unifies synthesis,
+placement and global routing which was introduced early in fiscal 2000.
+
+     Synopsys' verification products are used in several stages of the system
+and IC design process to ensure that the resulting IC performs the function that
+the IC designer intended. Synopsys' simulation products permit IC designers to
+simulate their designs at various levels of abstraction (behavioral, register
+transfer, gate-level, and switch logic level) and to explore tradeoffs between
+incorporating functionality in hardware or software. Synopsys is also a leading
+provider of software and hardware models, which are used to test an IC design
+within the context of the system in which the IC will eventually be used. In
+addition, Synopsys offers an extensive line of software tools to analyze power,
+timing and reliability concerns in an IC design at the transistor level.
+
+     Synopsys offers its customers an extensive array of professional services,
+which can be tailored to meet their specific needs. These services may include
+methodology consulting, aimed at helping a customer improve its design process;
+design reuse consulting, which helps a customer modify its inventory of designs
+to facilitate their reuse in newer designs; and design assistance, which helps a
+customer design, verify or test a discreet portion of a chip or an entire chip.
+
+     The Company markets its products on a worldwide basis and offers
+comprehensive customer service, education, consulting, and support as integral
+components of its product offerings. Products are marketed primarily through its
+direct sales force. The Company has licensed its products to many of the world's
+leading semiconductor, computer, communications and electronics companies.
+
+STRATEGY
+
+     Synopsys' strategy is to develop and offer to its customers an array of
+tools and methodologies required to enable design of complex ICs, especially
+system-on-a-chip ICs. The Company is seeking to enhance the performance and
+broaden the range of its current products, and to increase its ability to
+provide consulting services to its customers, while expanding in three principal
+directions. First, building from its historical base of strength in high level
+design, Synopsys plans to continue its expansion into the market for physical
+design tools. Second, Synopsys will seek to expand its offerings of tools for
+system level design and verification, a market the Company believes offers the
+potential for significant growth over the long term. Third, Synopsys
+
+
+
+intends to continue to develop tools and techniques for promoting design reuse,
+which the Company believes will become increasingly important to the successful
+design of large system-on-a-chip ICs.
+
+ORGANIZATION AND PRODUCTS
+
+     Synopsys is currently organized into two product development groups -- the
+Design Tools Group and the High-Level Verification Group -- and a services
+group -- the Professional Services Group.
+
+DESIGN TOOLS GROUP
+
+     The Design Tools Group (DTG) produces a variety of products that are used
+throughout the IC design flow, from initial system-level design to final
+transistor level analysis. DTG's offerings include synthesis, design planning,
+placement and routing products, plus transistor level analysis and verification
+products (as a result of the combination of the former EPIC Technology Group
+with DTG during fiscal 1999). As of the end of fiscal 1999, DTG was divided into
+five business units.
+
+     Physical Synthesis Business Unit
+
+     The Physical Synthesis Business Unit is responsible for development of the
+Company's new Physical Synthesis initiative. Physical Synthesis unites logic
+synthesis, placement and routing and links them together with common timing.
+Physical Synthesis incorporates several of the Company's existing products with
+a number of new products. When used together, these products provide customers
+with an integrated design flow from register transfer level
+(RTL)-to-placed-gates, and address the critical timing problems encountered in
+designing advanced ICs and systems-on-a-chip.
+
+     Logic synthesis is the process by which a high-level description of desired
+chip functions is mapped into a connected collection of logic gates and other
+circuit elements that performs the desired functions. Design Compiler(TM) is the
+market-leading logic synthesis tool and is used by a broad range of companies
+engaged in the design of ICs to optimize their designs for performance and area.
+Design Compiler was introduced in 1988 and has been updated regularly since
+then. In fiscal 1999, Synopsys released Design Compiler(TM) 99 as the latest
+generation in the Design Compiler family. Design Compiler 99 features
+significant enhancements, including a significant reduction in run time; an
+improved links-to-layout methodology for multi-million-gate designs; and
+automated chip synthesis, which speeds turnaround times by using parallel
+computing. In addition, Synopsys has introduced a new high-end version of Design
+Compiler, called Design Compiler Ultra (DC Ultra(TM)), which includes all
+features of Design Compiler plus additional capabilities that are focused on
+arithmetic-intensive and pipelined designs. In the Company's Physical Synthesis
+initiative, Design Compiler will continue to be used for synthesis of
+non-timing-critical blocks.
+
+     In fiscal 1999, the Physical Synthesis Business Unit released the first two
+new products of the Physical Synthesis initiative -- Chip Architect and
+FlexRoute(TM). Chip Architect is a hierarchical design planner, which takes into
+account physical phenomena and is used at various stages of the system-on-a-chip
+design process to perform chip level estimation, floor planning, timing analysis
+and placement. FlexRoute is a high-capacity, object-based, top-level router,
+which is used to route the longest, most difficult to route connections between
+functional blocks on a system-on-a-chip. FlexRoute is "object-based" and permits
+true gridless routing, which enables chip designers to address issues such as
+cross-talk, delay and signal integrity, while optimizing chip area.
+
+     During fiscal 1999, the Company and certain customers extensively tested
+Physical Compiler, a product that unifies synthesis and placement and is used
+for the design of timing-critical functional blocks on a system-on-a-chip.
+Physical Compiler was formally announced in November 1999.
+
+     The Physical Synthesis suite of products also includes Module Compiler(TM)
+(which is used for synthesizing datapaths). The common timing engine for the
+Physical Synthesis initiative comes from the Company's PrimeTime product, which
+is described below.
+
+     The Physical Synthesis Business Unit also offers other tools to provide
+designers with a comprehensive design environment. RTL Analyzer(TM) lets IC
+designers analyze and improve their source code before
+
+
+
+synthesis and simulation runs. Power Compiler(TM) allows designers to optimize
+their designs for power consumption.
+
+     Nanometer Analysis and Test Business Unit
+
+     The Nanometer Analysis and Test Business Unit develops a range of products
+for gate-level timing analysis and functional verification, design for test, and
+transistor-level analysis and verification.
+
+     Static Timing Analysis, Formal Verification and Test. Accurate analysis of
+timing is critical to ensuring successful chip design. PrimeTime(R) is a
+full-chip, gate-level static timing analysis tool that provides
+application-specific integrated circuit (ASIC) customers with essential design
+verification capabilities. PrimeTime ensures that as a design advances from
+synthesis (high-level design) to gate-level implementation, all timing-critical
+paths in the chip can be clearly understood and verified.
+
+     Formality(R) is a formal verification product that lets IC designers
+compare different stages of a design to determine whether they are functionally
+equivalent. Thus, assuming that the original design was functionally correct,
+Formality permits the designer to detect errors introduced during implementation
+of the design. Historically, such errors were detected by simulating the
+modified design using patterns validated with the functionally correct design.
+This approach is time-consuming. Formality provides an alternative method for
+detecting any functional differences without simulating the design, accelerating
+the detection of errors. Formality is tightly integrated with PrimeTime and
+Design Compiler. When used together as part of Synopsys' verification
+methodology, these tools can reduce the number of gate-level simulation runs,
+enabling designers to complete their designs faster and with a higher level of
+confidence.
+
+     Synopsys' 1-Pass Test Synthesis solution, DC Expert Plus(TM), is a
+design-for-test product that allows users to add, starting at the RTL level, the
+needed scan circuits for efficient, high coverage testing of the chip after
+manufacturing. This way, as part of the synthesis process, the test-related
+circuits are inserted taking into account all the needed constraints, such as
+timing, in one pass. By moving these critical test activities to a much earlier
+stage in the design process, we are able to generate these circuits in an easy
+and predictable fashion.
+
+     TetraMAX(TM) APTG is an automatic test pattern generation solution
+optimized for speed, capacity, coverage, vector compaction and ease-of-use. The
+TetraMAX APTG product, announced in fiscal 1999, works in concert with Synopsys'
+DC Expert Plus.
+
+     Synopsys also provides software to help customers design into their ICs
+features to facilitate the testing of chips after manufacture. This reduces the
+need for the time-consuming and expensive post-fabrication tests to which ICs
+are subjected to determine if they are free of manufacturing defects.
+
+     Transistor-Level Analysis and Verification. Advanced electronics
+products -- most notably in the consumer electronics and wireless communications
+markets -- require chips that operate at very high speeds, use very little power
+and last for an extended period of time. Designers of the complex ICs used in
+these devices rely heavily on analysis and verification tools that operate at
+the transistor level. Synopsys offers its customers a complete line of
+transistor-level tools -- characterization, simulation, modeling, analysis,
+extraction and physical verification -- which enable designers to address
+timing, power, and reliability requirements of mixed signal, high performance
+and low power ICs.
+
+     Transistor-level analysis and verification is important for two principal
+reasons. First, speed, power consumption and reliability often require
+tradeoffs -- for example, fast chips tend to consume more power and thus produce
+more heat (which hurts reliability) than slower chips. It is at the transistor
+level that the designer has the last chance to optimize a design for speed,
+power and reliability, and the last chance to analyze and correct design flaws
+that can result in the failure of a chip to function as intended. Second, as ICs
+become more powerful and more complex, the size of the transistors and wires in
+those ICs shrink below one quarter micron (250 nanometers) and the total length
+of wire connecting the transistors lengthens to as much as one mile. At these
+dimensions, ICs exhibit unique electrical effects; having the ability to analyze
+these effects is central to the success of an advanced IC design.
+
+
+
+     Synopsys' principal transistor-level analysis and verification tools
+include:
+
+     PathMill(R) provides a detailed critical path analysis and static timing
+verification capability. PathMill provides accurate and flexible modeling for
+transistor level static timing analysis. PathMill's behavioral-, gate- and
+transistor-level models allow accurate analysis at each level of the design
+hierarchy, allowing the user to mix top-down design and bottom-up
+implementation.
+
+     PowerMill(R) simulates block and full chip current and power behavior,
+providing fast and accurate current and power analysis, and diagnostics.
+PowerMill offers static and dynamic diagnostics to identify design flaws that
+cause unnecessary power consumption. After layout, PowerMill helps designers
+confirm that power consumption is acceptable before committing the design to
+silicon.
+
+     Arcadia(R) provides full chip and net-by-net resistance and capacitance
+(RC) extraction, permitting designers to focus design analysis effort on
+critical paths. Arcadia offers a distributed processing capability that enables
+designers to extract and analyze data from very large designs in a short time.
+
+     TimeMill(R) is a transistor-level simulator and dynamic timing analyzer. In
+the prelayout phase, TimeMill helps designers optimize the performance of
+transistor-level blocks, memories and data paths. TimeMill allows designers to
+quickly explore changes in voltage levels, temperature or process parameters and
+to detect problems such as charge sharing and race conditions.
+
+     The Analog Circuit Engine (ACE(TM)) is an analog simulation option
+available for TimeMill and PowerMill tools. ACE provides a high-speed, accurate,
+mixed analog/digital circuit simulation solution.
+
+     The Nanometer Analysis and Test Business Unit also offers the Direct
+Silicon Access(TM) silicon characterization services (DSA), which provide
+accurate models for nanometer processes to customers. The DSA methodology
+correlates expected chip behavior with measurements performed on actual silicon
+test circuits, which then provides a reliable source of data for customers to
+create accurate technology files for RC extraction and circuit simulation tools.
+
+     System Level Design Business Unit
+
+     The System-Level Design Business Unit offers three principal products:
+
+     COSSAP(R) is a digital signal processing (DSP) design system targeted at
+designers of digital communications devices such as third generation wireless
+phones. COSSAP can simulate large, complex systems that would be hard to model
+with standard cycle-based or event-driven simulators. COSSAP includes a
+comprehensive library of DSP and digital communications building blocks.
+
+     Behavioral Compiler(TM) is a synthesis tool that enables designers to
+create complex circuits from a higher level of abstraction than Design Compiler
+does, thus dramatically accelerating the design cycle. Behavioral Compiler
+allows designers to quickly create different implementations of a design,
+enabling them to spend more time evaluating tradeoffs in areas such as
+performance, size, and power consumption before committing to a particular
+implementation.
+
+     Protocol Compiler(TM) facilitates the design and implementation of protocol
+control logic -- a critical aspect of asynchronous transfer mode (ATM),
+Synchronous Optical Network (SONET) and Synchronous Digital Hierarchy (SDH)
+equipment for networking and telecommunications applications. Protocol Compiler
+enables control logic design at the behavioral level, generating output that is
+optimized for Synopsys' flagship Design Compiler tool. By taking protocol
+control logic design up to the behavioral level, Protocol Compiler greatly
+simplifies the process of designing complex chips targeted at networking
+applications.
+
+     In 1999, Synopsys introduced SystemC, which promotes and accelerates the
+exchange of system-level intellectual property (IP) and executable
+specifications by providing a common C++ modeling platform. Designers can
+create, validate and share models with other companies using SystemC and a
+standard ANSI C++ compiler. In addition, EDA vendors have complete access to the
+SystemC modeling platform required to build interoperable tools. There are no
+licensing fees associated with the use of SystemC, and any company is free to
+join and participate. Backed by over 60 charter member companies, the Open
+SystemC Initiative
+
+
+includes representation from the systems, semiconductor, IP, embedded software
+and EDA industries. The steering group includes ARM, CoWare, Inc., Cygnus
+Solutions, Ericsson, Fujitsu, Infineon, Lucent Technologies, Sony,
+STMicroelectronics, Synopsys and Texas Instruments.
+
+     FPGA Business Unit
+
+     The FPGA Business Unit provides logic synthesis products for field
+programmable gate arrays (FPGAs) and complex programmable logic devices (CPLDs).
+With the advent of high density chips (.25 micron and below), FPGAs became dense
+and fast enough in 1999 to handle a substantial fraction of projects that
+previously required mask-programmed ASICs. Furthermore, FPGAs' unique ability to
+deliver very quick time-to-market make them attractive in today's business
+environment. As a result, programmable logic is currently a small, but
+fast-growing part of the semiconductor market. In fiscal 1999, Synopsys
+announced new versions of FPGA Express(TM) and FPGA Compiler II(TM). The latter
+includes features such as advanced automatic retiming and pipelining to extend
+to FPGA designers the unique technologies and experience that Synopsys developed
+for ASICs.
+
+     Design Reuse Business Unit
+
+     As IC designs continue to grow in size, reusing design blocks is becoming a
+more important method for reducing overall design cycle time. Enabling design
+reuse requires a significant methodology shift from traditional IC design. In
+the past, designs were intimately tied to a particular semiconductor process
+technology or design methodology, making reuse of design blocks from one chip
+design to the next difficult and costly. To address these challenges, the Design
+Reuse Business Unit offers an array of products and services.
+
+     Synopsys' DesignWare(R) provides IC designers with libraries of
+pre-designed, pre-verified Synopsys-synthesizable (i.e., usable by Synopsys'
+design tools in optimizing a design), off-the-shelf design modules to
+incorporate into their own designs. The DesignWare foundation library includes
+more than 100 commonly used functions of low-to medium-scale complexity,
+including an 8051 microcontroller block and a PCI 2.1 bus interface block.
+DesignWare(R) Developer helps customers package their own low-complexity
+functions in such a way that they are integrated into designs in the same way as
+DesignWare components.
+
+     In fiscal 1999, Synopsys introduced coreBuilder(TM) and coreConsultant(TM),
+which ease the packaging and integration of medium-to high-complexity cores.
+CoreBuilder is used to package cores, and guides the capture of synthesis data,
+designer knowledge, configuration parameters (along with their interactions and
+limits), and implementation/verification procedures. CoreConsultant is used to
+unpack the cores and uses this information to create an optimal,
+technology-mapped netlist, lowering the effort of integrating the cores into
+system-on-a-chip designs.
+
+     The Design Reuse Business Unit also develops and supports silicon libraries
+of logic functions used in developing ICs. The libraries are optimized to the
+customer's semiconductor process and Synopsys' tools. The silicon libraries
+contain the models that are required by EDA design tools to design an IC.
+Synopsys offers a proprietary gate array IC architecture, known as Cell-Based
+Array (CBA(TM)). Synopsys has entered into CBA license agreements with many of
+the world's leading ASIC vendors and vertically integrated semiconductor
+companies. Synopsys has expanded its offering of silicon libraries to include
+Odyssey standard cells and memories.
+
+     The Design Reuse Business Unit, together with the Synopsys Professional
+Services Group (PSG), also offers consulting services around implementation of
+the design principles set forth in the Reuse Methodology Manual (RMM). Jointly
+authored by Synopsys and Mentor Graphics Corp., the RMM contains detailed
+guidelines and best practices for planning, specifying, coding, testing and
+documenting reusable design blocks.
+
+
+
+HIGH-LEVEL VERIFICATION GROUP
+
+     The High-Level Verification Group provides a range of products that allow
+IC designers to determine, at different levels of design and at various stages
+of the design process, whether an IC will perform as intended. Verification is
+becoming increasingly important in the design process, because as the complexity
+of chip design increases, the complexity of verification increases
+exponentially. A verification bottleneck has developed, with designers of
+complex chips spending half or more of their total design time performing
+verification. Synopsys verification products are intended to provide an
+integrated solution for customers that is accurate, exhaustive and fast.
+
+     Simulation Technology Group
+
+     In the simulation process, simulation software "exercises" an IC design by
+running it through a series of tests and comparing the actual outputs from the
+design with the expected output. The goal of simulation is to make sure that the
+functionality and timing performance of the design meet the original
+specifications of the chip. The Simulation Tools Group provides designers with
+several products for high-level simulation, including VCS(TM) for designs
+written in Verilog and VSS(TM) and Cyclone(R) for designs written in VHDL. The
+Company is focused on providing the industry's fastest simulation technology and
+believes that both VCS and Cyclone are industry leaders in the areas of
+performance and capacity. VCS is supported by the all of the major semiconductor
+manufacturers. VCS, VSS and Cyclone are optimized for use with Design Compiler
+and the Company's other design tools.
+
+     VERA Group
+
+     The Company estimates that approximately half of the time spent in the
+verification phase of IC design is spent designing testbenches, which are the
+set of test vectors that are used by simulation tools in verifying that a chip
+design functions properly. The VERA Group provides software that helps generate,
+manage, and evaluate the data flowing between the simulator and the IC design.
+VERA(TM), the principal product of the Group, automates the design of
+testbenches, thereby offering the IC designer significant potential reductions
+in overall verification time. VERA is integrated with the rest of Synopsys'
+simulation, modeling and hardware/software co-verification products.
+
+     Large Systems Technology Group
+
+     The Large Systems Technology Group provides high-level models and tools to
+facilitate the modeling and verification of complex electronic systems. The
+Group manages the Company's hardware and software modeling products as well as
+its Eagle hardware/software co-design tools.
+
+     Synopsys offers a full range of hardware and software modeling solutions.
+Synopsys' ModelSource(TM) 3000 series is a family of hardware modeling systems
+for ASIC and board level design which provide a flexible means for designers to
+model complex devices. ModelSource 3000 systems use the actual integrated
+circuit to model its own behavior. Synopsys' SmartModels(R) Libraries offer
+models for more than 13,000 commercially available ICs, including a wide range
+of microprocessors, controllers, DSPs, FPGAs, CPLDs, peripherals, memories and
+standard logic. Synopsys' bus interface models are used to verify that designs
+comply with established industry standards. Models are available for most
+popular standards. In addition, Synopsys offers modeling technologies to allow
+designers to create models of both standard and proprietary devices. These
+models support all major EDA simulation environments and a wide range of EDA
+platforms, giving designers access to a broad range of models to assist them
+with verification of their designs.
+
+     Success in the modeling business depends, in part, upon making available a
+wide range of models and model types. Synopsys continues to focus its modeling
+development efforts on enhancing its ability to quickly and efficiently produce
+and distribute new models to meet rising verification needs. Synopsys seeks to
+maintain close relationships with leading semiconductor vendors to ensure model
+accuracy and the earliest possible availability. Synopsys believes that future
+design verification methodologies, including those for system-on-a-chip, will
+require the availability of accurate, high performance models of complex
+components and intellectual property blocks.
+
+
+
+     Synopsys' Eagle Design Automation tools help shorten the development time
+of embedded systems through hardware/software (HW/SW) co-development. The term
+"embedded systems" describes ICs or PCBs that include a microprocessor or
+microcontroller. The use of embedded systems is growing, in part due to the
+growth of system-on-a-chip designs, which include logic, memory and at least one
+processor on the same chip. An important decision in embedded system design is
+the allocation of functions between hardware and software. An estimated 50% of
+the overall embedded systems design time is spent in HW/SW design and debug, and
+prototype debug. As a result, hardware and software development for embedded
+systems are becoming more interdependent, and given the costs of design cycle
+iterations, there are advantages to consider hardware and software interaction
+earlier in the design cycle. By helping IC designers consider this interaction
+early in the design cycle, the Synopsys' Eaglei(R)(TM) product, which is used
+for full system integration testing, and the Synopsys EagleV(TM) product, which
+is used for verification of embedded processors within an ASIC, can help reduce
+the overall cost of embedded system designs.
+
+PROFESSIONAL SERVICES GROUP
+
+     The Professional Services Group (PSG) provides a combination of flow and
+methodology services, design assistance and design services aimed at solving our
+customers' toughest design problems.
+
+     Our consultants offer targeted expertise to help define and implement
+optimized design environments and to support engineering teams with complete
+system-on-a-chip flows. Design assistance services accelerate the adoption and
+acceptance of new tools and methodologies enabling customers to acquire the
+knowledge and experience to tackle future challenges with increased confidence.
+As needed, Synopsys consultants will also take on the responsibility for
+designing and verifying parts or all aspects of a customer's design.
+
+CUSTOMER SERVICE AND SUPPORT
+
+     Synopsys devotes substantial resources to providing customers with
+technical support, customer education, and consulting services. The Company
+believes that a high level of customer service and support is critical to the
+adoption and successful utilization of high-level design automation methodology.
+As a result of increased product sales during fiscal 1999, service revenue as a
+percentage of total revenue decreased to 37% in such period from 40% in fiscal
+1998.
+
+TECHNICAL SUPPORT
+
+     Technical support for the Company's products is provided through both
+field- and corporate-based technical application engineering groups. Synopsys
+provides customers with software updates and a formal problem identification and
+resolution process through the Synopsys Technical Support Center. Synopsys'
+central entry point of all customer inquiries is SolvNET(R), a direct-access
+service available worldwide, 24 hours per day, through electronic mail and the
+World Wide Web that lets customers quickly seek answers to design questions or
+more insight into design problems. SolvNET combines Synopsys' complete design
+knowledge database with sophisticated information retrieval technology. Updated
+daily, it includes documentation, design tips, and answers to user questions.
+
+CUSTOMER EDUCATION SERVICES
+
+     Synopsys offers a number of workshops focused on high-level design
+languages, high-level design, simulation, synthesis, physical design, system
+design and test. Regularly scheduled workshops are offered in Mountain View,
+California; Austin, Texas; Burlington, Massachusetts; Reading, England; Rungis,
+France; Munich, Germany; Tokyo and Osaka, Japan; and Seoul, Korea. On-site
+workshops are available on a worldwide basis at customers' facilities or in
+their locales. Over 14,000 design engineers attended Synopsys workshops during
+fiscal 1999.
+
+PRODUCT WARRANTIES
+
+     Synopsys generally warrants its products to be free from defects in media
+and to substantially conform to material specifications for a period of 90 days.
+Synopsys has not experienced significant returns to date.
+
+
+
+SUPPORT FOR INDUSTRY STANDARDS
+
+     Synopsys actively supports standards that it believes will help its
+customers increase productivity and solve design problems, including key
+interfaces and modeling languages that promote system-on-a-chip design and
+facilitate interoperability of tools from different vendors. Standards in the
+EDA industry can be obtained through formal accredited committees, by licensing
+made available to all, or through community licensing.
+
+     Synopsys' products support many formal standards, including the two most
+commonly used hardware description languages, VHDL and Verilog HDL, and industry
+standard data formats for the exchange of data between Synopsys' tools and other
+EDA products.
+
+     Synopsys is a board member and/or participant in the major EDA standards
+organizations: Virtual Socket Interface Alliance (VSIA), an industry group
+formed to promote standards that facilitate the integration and reuse of
+functional blocks of intellectual property; Open Verilog International (OVI),
+which promotes the Verilog language; VHDL International (VI), which promotes the
+VHDL language; the EDIF steering committee of the Electronics Industry
+Association (EIA), which evolves the Electronic Design Interchange Format
+(EDIF); the interoperability committee of the EDA Consortium, which helps
+promotes interoperability among EDA products from different vendors; Virtual
+Component Exchange (VCX), which is investigating methods for facilitating the
+exchange of intellectual property (IP) blocks; and Reusable Application-specific
+Intellectual Property Developers (RAPID), which promotes the acceptance and
+usage of IP throughout the electronics industry.
+
+     To enhance EDA industry interoperability, Synopsys launched the TAP-In
+program in 1998 to provide open access for all companies to selected interfaces
+for Synopsys tools. Synopsys has licensed its text-based synthesis library
+format, Liberty, as well as its design constraints format, SDC, to the majority
+of the EDA industry, including the Company's competitors, on reasonable terms.
+In 1999, Synopsys licensed its VERA API (application programming interface) and
+VERA HVL (High-level Verification Language) for test bench verification. Also,
+Synopsys licensed its OpenESPF format for representing physical data necessary
+for reliability verification.
+
+     In 1999, Synopsys introduced SystemC through its TAP-in program. SystemC is
+discussed above under "Design Tools Group -- System Level Design Business Unit."
+
+     Synopsys' products are written mainly in the C and C++ languages and
+utilize industry standards for graphical user interfaces. Synopsys' software
+runs principally under the UNIX operating system, with some products running
+under Windows NT and Linux. Synopsys' products are offered on the most widely
+used workstation platforms, including those from Sun Microsystems,
+Hewlett-Packard, IBM, and Compaq (formerly Digital Equipment Corporation).
+
+SALES, DISTRIBUTION AND BACKLOG
+
+     Synopsys markets its products and services primarily through its direct
+sales and service force in over 30 offices in the United States and principal
+international markets. Synopsys employs highly skilled engineers and technically
+proficient sales persons capable of serving the sophisticated needs of the
+customers' engineering and management staffs.
+
+     For fiscal years 1999, 1998 and 1997, international sales represented 34%,
+39% and 41%, respectively, of Synopsys' total revenue. Additional information
+relating to domestic and foreign operations is contained in Note 7 of Notes to
+Synopsys' Consolidated Financial Statements.
+
+     The Company has 23 sales/support centers throughout the United States, in
+addition to its Mountain View, California headquarters. Internationally, the
+Company has sales/support offices in Canada, Finland, France, Germany, Hong
+Kong, India, Israel, Italy, Japan, Korea, the People's Republic of China,
+Singapore, Sweden, Taiwan and the United Kingdom, including regional
+headquarters offices in Germany, Japan, Singapore and Ireland. On a limited
+basis, the Company also utilizes manufacturer's representatives and
+distributors. The Company has established such relationships in Australia,
+Brazil, India, Korea, Malaysia, Taiwan and China.
+
+
+
+     Synopsys' backlog on December 1, 1999 was approximately $276.0 million,
+compared to approximately $241.1 million on November 1, 1998.
+
+     Backlog consists of orders for system and software products sold under
+perpetual and time-based licenses with customer requested ship dates within
+three months but which have not been shipped, orders for customer training and
+consulting services which are expected to be completed within one year, and
+subscription services, maintenance and support with contract periods extending
+up to fifteen months.
+
+     The Company has not historically experienced significant cancellations of
+orders. Customers frequently reschedule or revise the requested ship dates of
+orders however, which can have the effect of deferring recognition of revenue
+for these orders beyond the expected time period.
+
+RESEARCH AND DEVELOPMENT
+
+     The Company believes that its future performance will depend in large part
+on its ability to maintain and enhance its current product lines, develop new
+products, maintain technological competitiveness, and meet an expanding range of
+customer requirements. In addition to product development teams, the Company
+maintains an advanced research group that is responsible for exploring new
+directions and applications of its core technologies, migrating new technologies
+into the existing product lines, and maintaining strong research relationships
+outside the Company within both industry and academia.
+
+     During fiscal years 1999, 1998 and 1997, research and development expenses,
+net of capitalized software development costs, were $167.1 million, $156.7
+million and $146.8 million, respectively. Synopsys capitalized software
+development costs of approximately $1.0 million, $2.1 million and $4.2 in fiscal
+1999, 1998 and 1997, respectively. The Company anticipates that it will continue
+to commit substantial resources to research and development in the future.
+
+MANUFACTURING
+
+     Synopsys' manufacturing operations consist of assembling, testing,
+packaging and shipping its system and software products and documentation needed
+to fulfill each order. Manufacturing is currently performed in Synopsys'
+Mountain View, California and Beaverton, Oregon facilities. Outside vendors
+provide tape and CD-ROM duplication, printing of documentation and manufacturing
+of packaging materials. Synopsys employees manufacture and test the hardware
+modeling system products, with some sub-assembly performed by outside vendors.
+Synopsys typically ships its software products, with either a permanent or
+temporary access key, within 10 days of acceptance of customer purchase orders
+and execution of software license agreements, unless the customer has requested
+otherwise. For its hardware modeling products, Synopsys buys components and
+assemblies in anticipation of orders and configures units to match orders,
+typically shipping within one to ten weeks of order acceptance, unless the
+customer has requested otherwise.
+
+COMPETITION
+
+     The EDA industry is highly competitive. We compete against other EDA
+vendors, and with customers' internally developed design tools and internal
+design capabilities, for a share of the overall EDA budgets of our potential
+customers. In general, competition is based on product quality and features,
+post-sale support, price and, as discussed below, the ability to offer a
+complete design flow. Our competitors include companies that offer a broad range
+of products and services, such as Cadence Design Systems, Inc. (Cadence), Mentor
+and Avant! Corporation (Avant!), as well as companies, including numerous
+start-up companies, that offer products focused on a discrete phase of the
+integrated circuit design process. Synopsys' competitors continue to offer
+aggressive discounts on their products, in particular on synthesis and Verilog
+simulation products. If this behavior continues, average prices for our products
+may fall. In order to compete successfully, we must continue to enhance our
+products and bring to market new products that address the needs of our
+customers. We also will have to expand our consulting services business. The
+failure to enhance existing products, develop and/or acquire new products or
+expand our ability to offer consulting services could have a material adverse
+effect on our business, financial condition and results of operations.
+
+
+
+     Technology advances and customer requirements are fueling a change in the
+nature of competition among EDA vendors. Increasingly, EDA companies compete on
+the basis of "design flows" involving integrated logic and physical design tools
+rather than on the basis of individual "point" tools performing a discrete phase
+of the design process. The need to offer products linking logic and physical
+design will become increasingly important, as IC complexity is increasing, chip
+production moves increasingly to 0.18 micron and below, and system-on-a-chip
+designs become more prevalent. We offer a wide range of logic design tools but
+have only recently introduced our first physical design tools. We are working on
+completing our design flow, although for the foreseeable future will not be able
+to offer such a flow to customers. The market for physical design tools is
+dominated by Cadence and Avant! Both companies have acquired logic synthesis
+technology and are offering products linking synthesis to their physical design
+products. If we are unsuccessful in developing a complete design flow on a
+timely basis or in convincing customers to adopt our physical design products
+and methodology, our competitive position could be significantly weakened.
+
+PRODUCT SALES AND LICENSING AGREEMENTS
+
+     Synopsys typically licenses its software to customers under non-exclusive
+license agreements that transfer title to the media only and that restrict use
+of the software to internal purposes within specified areas. The Company
+currently licenses the majority of its software as a network license that allows
+a number of individual users to access the software on a defined network. During
+fiscal 1999, Synopsys offered software under a perpetual license or a license
+with a term of one to three years. In the fourth quarter of fiscal 1999,
+Synopsys announced a new program, under which software will be offered either
+under a perpetual license or under term licenses of one, three or five years.
+License fees are dependent on the type of license, product mix and number of
+copies of each product required. Synopsys offers its hardware modeler products
+for sale or lease.
+
+PROPRIETARY RIGHTS
+
+     The Company primarily relies upon a combination of copyright, patent,
+trademark and trade secret laws and license and nondisclosure agreements to
+establish and protect proprietary rights in its products. The source code for
+Synopsys' products is protected both as a trade secret and as an unpublished
+copyrighted work. However, it may be possible for third parties to develop
+similar technology independently, provided they have not violated any
+contractual agreements or intellectual property laws. In addition, effective
+copyright and trade secret protection may be unavailable or limited in certain
+foreign countries. The Company currently holds U.S. and foreign patents on some
+of the technologies included in its products and will continue to pursue
+additional patents in the future.
+
+     Although the Company believes that its products, trademarks and other
+proprietary rights do not infringe on the proprietary rights of third parties,
+there can be no assurance that infringement claims will not be asserted against
+the Company in the future or that any such claims will not require the Company
+to enter into royalty arrangements or result in costly and time-consuming
+litigation.
+
+EMPLOYEES
+
+     As of September 30, 1999, Synopsys had a total of 3,156 employees, of whom
+2,421 were based in the United States and 735 were based internationally.
+Synopsys' future financial results depend, in part, upon the continued service
+of its key technical and senior management personnel and its continuing ability
+to attract and retain highly qualified technical and managerial personnel.
+Competition for such personnel is intense. Experience at Synopsys is highly
+valued in the EDA industry, and the Company's employees are recruited
+aggressively by competitors and by start-up companies, including those in
+internet-related businesses. The Company's salaries are competitive in the
+market, but under certain circumstances, start-up companies can offer more
+attractive stock option packages. As a result, the Company has experienced, and
+may continue to experience, significant employee turnover. There can be no
+assurance that Synopsys can retain its key managerial and technical employees or
+that it can attract, assimilate or retain other highly qualified technical and
+managerial personnel in the future. None of Synopsys' employees is represented
+by a labor union. Synopsys has not experienced any work stoppages and considers
+its relations with its employees to be good.
+
+
+
+ITEM 2. PROPERTIES
+
+     Synopsys' principal offices are located in four adjacent buildings in
+Mountain View, California, which together provide approximately 400,000 square
+feet of available space. This space is leased through February 2003. Within one
+half mile of these buildings, in Sunnyvale, California, Synopsys occupies
+approximately 200,000 square feet of space in two adjacent buildings, which is
+under lease through 2007, and approximately 85,000 square feet of space in a
+third building, which is under lease until April 2007.
+
+     To help meet its future expansion needs, Synopsys has acquired seven acres
+between its Sunnyvale and Mountain View campuses, thirty-four acres of
+undeveloped land in San Jose, California and forty-four acres of undeveloped
+land in Hillsborough, Oregon. The Company currently plans to develop a building
+on the seven-acre site, for occupancy in February 2001.
+
+     The Company leases approximately 93,000 square feet of space in Beaverton,
+Oregon for administrative, marketing, research and development and support
+activities. This facility is leased through March 2002.
+
+     In addition, the Company leases approximately 82,000 square feet of space
+in Marlboro, Massachusetts for sales and support, research and development and
+customer education activities. This facility is leased through March 2009.
+
+     The Company currently leases 23 other domestic sales offices throughout the
+United States, as well as three remote locations. Synopsys currently leases
+international sales and service offices in Canada, Finland, France, Germany,
+Hong Kong, India, Israel, Italy, Japan, Korea, the People's Republic of China,
+Singapore, Sweden, Taiwan, and the United Kingdom. The Company also leases an
+administrative and research and development facility in Ireland and a research
+and development facility in India.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+     There are no material legal proceedings pending against the Company.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     No matters were submitted for a vote of security holders during the fourth
+quarter of the fiscal year covered by this Report.
+
+EXECUTIVE OFFICERS OF THE COMPANY
+
+     The executive officers of the Company and their ages, as December 1, 1999,
+are as follows:
+
+
+
+     Dr. Aart J. de Geus co-founded Synopsys and currently serves as Chief
+Executive Officer and Chairman of the Board of Directors. Since the inception of
+Synopsys in December 1986 he has held a variety of positions
+
+
+
+including Senior Vice President of Engineering and Senior Vice President of
+Marketing. From 1986 to 1992 Dr. de Geus served as Chairman of the Board. He
+served as President from 1992 to 1998. Dr. de Geus has served as Chief Executive
+Officer since January 1994 and has held the additional title of Chairman of the
+Board since February 1998. He has served as a Director since 1986. From 1982 to
+1986, Dr. de Geus was employed by General Electric Corporation, where he was the
+Manager of the Advanced Computer-Aided Engineering Group. Dr. de Geus holds an
+M.S.E.E. from the Swiss Federal Institute of Technology in Lausanne, Switzerland
+and a Ph.D. in electrical engineering from Southern Methodist University.
+
+     Dr. Chi-Foon Chan joined Synopsys as Vice President of Application
+Engineering & Services in May 1990. Since April 1997 he has served as Chief
+Operating Officer and since February 1998 he has held the additional title of
+President. Dr. Chan also became a Director of the Company in February 1998. From
+September 1996 to February 1998 he served as Executive Vice President, Office of
+the President. From February 1994 until April 1997 he served as Senior Vice
+President, Design Tools Group and from October 1996 until April 1997 as Acting
+Senior Vice President, Design Reuse Group. Additionally, he has held the titles
+of Vice President, Engineering and General Manager, DesignWare Operations and
+Sr. Vice President, Worldwide Field Organization. From March 1987 to May 1990,
+Dr. Chan was employed by NEC Electronics, where his last position was General
+Manager, Microprocessor Division. From 1977 to 1987, Dr. Chan held a number of
+senior engineering positions at Intel Corporation. Dr. Chan holds an M.S. and
+Ph.D. in computer engineering from Case Western Reserve University.
+
+     Vicki L. Andrews joined Synopsys in May 1993 and currently serves as Senior
+Vice President, Worldwide Sales. Before holding that position, she served in a
+number of senior sales roles at Synopsys, including Vice President, Global and
+Strategic Sales, Vice President, North America Sales and Director, Western
+United States Sales. She has more than 18 years of experience in the EDA
+industry. Ms. Andrews holds a B.S. in biology and chemistry from the University
+of Miami.
+
+     David P. Burow joined Synopsys in connection with the Company's merger with
+Viewlogic Systems, Inc. (Viewlogic) in December 1997 and currently serves as
+Senior Vice President, High Level Verification Group. He served as Sr. Vice
+President, Simulation Tools Group from December 1997 to August 1998. Mr. Burow
+had served as Vice President of Viewlogic's ASIC Group since October 1996. He
+joined Viewlogic in August 1995 as Vice President of the High Level Design Group
+after serving in a number of key management positions from October 1991 through
+August 1995 at Silicon Architects, which was acquired by Synopsys in May 1995.
+Preceding Silicon Architects, Mr. Burow held other management positions within
+the EDA and semiconductor industries, including President of CrossCheck, a test
+company; General Manager of the Analog division at Dazix; and President of
+Simucad, Inc., a simulation company. Mr. Burow holds a B.S. in engineering from
+Purdue University and an M.B.A. from the University of Chicago.
+
+     Dr. Raul Camposano joined Synopsys in January 1994 and currently serves as
+Senior Vice President, General Manager of the Design Tools Group and Chief
+Technical Officer. From January 1997 to December 1997 he served as Senior Vice
+President and General Manager, Design Tools Group. From May 1996 until January
+1997 he served as Vice President, Engineering, Design Tools Group. From January
+1996 until May 1996 he served as General Manager and Senior Director, Design
+Planning Group, and from January 1994 until January 1996 as Director of
+Engineering, Design Environment Group. Prior to joining Synopsys, Dr. Camposano
+concurrently served as the Design Technology Director for the German National
+Research Center for Computer Science and as Professor of Computer Science at the
+University of Paderborn, Germany. Between 1986 and 1991, Dr. Camposano led the
+project on high-level synthesis at the IBM T.J. Watson Research Center. Active
+in the EDA professional community, he also serves on various technical program
+committees and editorial boards worldwide and has published over 70 articles and
+three books on electronic design automation. Dr. Camposano holds a B.S.E.E. from
+the University of Chile, and a Ph.D. in computer science from the University of
+Karlsruhe.
+
+     Deirdre Hanford joined Synopsys in 1987 and currently serves as Senior Vice
+President, Business and Market Development. During her 12 years with Synopsys,
+Ms. Hanford has held a variety of senior technical and management positions,
+including Vice President of Professional Services Sales Development, Vice
+President of Applications Engineering, Design Tools Group, Director of Strategic
+Relationships and Director
+
+
+
+of Corporate Applications Engineering. She holds a B.S.E.E. from Brown
+University and an M.S.E.E. from U.C. Berkeley.
+
+     Ernst W. Hirt joined Synopsys in November 1997 and serves as Senior Vice
+President, Human Resources and Facilities. Mr. Hirt was Vice President of Human
+Resources at VLSI Technology, Inc. from March 1984 until he joined Synopsys. He
+has also worked in high level Human Resources positions at Intel, Siemens,
+Honeywell and General Electric. Mr. Hirt holds a Masters Degree in Economics
+from the University of Cincinnati.
+
+     Dr. Edward C. Ross joined Synopsys in July 1998 as Senior Vice President
+and General Manager of the Professional Services Group. Prior to joining
+Synopsys, Dr. Ross served as President of Technology and Manufacturing at Cirrus
+Logic since 1995, and President and Chief Executive Officer of Power
+Integrations, Inc. from 1989 to 1995. Dr. Ross holds a B.S. in electrical
+engineering from Drexel University and an M.S., M.A., and Ph.D., also in
+electrical engineering, from Princeton University.
+
+     Steven K. Shevick joined Synopsys in July 1995 and currently serves as Vice
+President, Legal and Investor Relations, General Counsel and Corporate
+Secretary. From July 1995 to March 1998 he served as Deputy General Counsel and
+Assistant Corporate Secretary. In March 1998 he was appointed Vice President,
+Legal and General Counsel. In October 1999, Mr. Shevick gained the additional
+title of Vice President of Investor Relations and was appointed Corporate
+Secretary. Prior to joining Synopsys, Mr. Shevick was a lawyer in the New York,
+Hong Kong and Washington, D.C. offices of Cleary, Gottlieb, Steen & Hamilton,
+where his practice focused on international securities transactions, mergers and
+acquisitions and technology licensing. Mr. Shevick has an A.B. from Harvard
+College and a J.D. from Georgetown University Law Center.
+
+     David Sugishita joined Synopsys in June 1997 and currently serves as Senior
+Vice President, Finance and Operations and Chief Financial Officer. From 1995 to
+1997 he served as Senior Vice President of Finance and Administration and Chief
+Financial Officer for Actel, and from 1994 to 1995 Mr. Sugishita was Senior Vice
+President of Finance and Administration, Chief Financial Officer and Treasurer
+for Micro Component Technology. From 1991 to 1994, he was Vice President and
+Corporate Controller and Chief Accounting Officer for Applied Materials. From
+1982 to 1991 he served as Vice President of Finance, Semiconductor Group for
+National Semiconductor. He holds a B.S. in finance from San Jose State
+University and an M.B.A. from Santa Clara University. Mr. Sugishita currently
+serves as a Director for Micro Component Technology, as well as being active in
+the community by serving on two school boards.
+
+     Jack J. Warecki joined Synopsys in December 1993 and currently serves as
+Senior Vice President of Worldwide Application Services. Prior to that, he held
+various management positions at Synopsys overseeing Application Services for
+North America. Before joining Synopsys, he spent thirteen years in a number of
+technical and project lead roles at TRW, Inc., an automotive, space, defense and
+information systems company. Mr. Warecki holds a B.S. and M.S. in mathematics
+from the Ohio State University. He also serves on the Electrical Engineering
+Advisory Board for San Jose State University.
+
+     There are no family relationships among any executive officers of the
+Company.
+
+
+
+                                    PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+     The information required by this item is set forth on page 52 of the
+Synopsys 1999 Annual Report on Form 10-K.
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+FINANCIAL SUMMARY
+
+
+
+- ---------------
+(1) Amounts and per share data for periods presented have been retroactively
+    restated to reflect the merger of Everest Design Automation, Inc. (Everest)
+    in a pooling-of-interests transaction effective November 21, 1998.
+
+(2) Includes charges of $21.2 million, $33.1 million, $5.5 million, $64.5
+    million, $12.5 million for the years ended September 30, 1999, 1998, 1997,
+    1996 and 1995, respectively, for in-process research and development.
+    Includes merger-related and other costs of $51.0 million and $11.4 million
+    for the years ended September 30, 1998 and 1997, respectively.
+
+
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+     The following discussion contains forward-looking statements within the
+meaning of Section 21E of the Securities Exchange Act of 1934. For example,
+statements including terms such as "projects," "expects," "believes,"
+"anticipates" or "targets" are forward-looking statements. Actual results could
+differ materially from those anticipated in such forward-looking statements as a
+result of certain factors, including those set forth under "Factors That May
+Affect Future Results."
+
+RESULTS OF OPERATIONS
+
+     Disposition of Viewlogic PCB/Systems Business -- effect on comparative
+financial information. The Company merged with Viewlogic in December 1997 in a
+transaction accounted for as a pooling-of interests. On October 2, 1998, the
+Company sold the printed circuit board and electronics systems business
+(PCB/Systems business) of Viewlogic. In the discussion below, financial
+information for fiscal 1999 excludes the PCB/Systems business, while financial
+information for fiscal 1998 includes the results of the PCB/Systems business.
+Therefore, the comparative measures included in the discussion, in particular
+with respect to absolute dollar amounts of revenue or expenditure, are not
+necessarily valid with respect to the Company's business as it is presently
+conducted. A pro forma unaudited consolidated statement of income, excluding the
+results of the PCB/Systems business and certain unusual charges, was filed with
+the Securities and Exchange Commission (SEC) on Form 8-K on January 25, 1999.
+
+     Revenue. Revenue consists of fees for licenses and subscriptions of the
+Company's software products, sales of system products, maintenance and support,
+customer training, and consulting. The Company's revenue increased by 12% to
+$806.1 million in fiscal 1999 from $717.9 million in fiscal 1998 and by 11% from
+$647.0 million in fiscal 1997 compared to fiscal 1998. The percentage of the
+Company's total revenue attributable to software and system products increased
+to 63% in fiscal 1999 from 60% in fiscal 1998 and remained flat in fiscal 1998
+compared with fiscal 1997.
+
+     Product revenue increased by 17% to $505.8 million in fiscal 1999 from
+$431.0 million in fiscal 1998 and by 6% from $408.3 million in fiscal 1997
+compared to fiscal 1998. For each of the years, these increases were primarily
+due to increased worldwide licensing and sales of the Company's EDA software
+products such as synthesis, verification and system level design software
+products. Service revenue increased by 5% to $300.3 million in fiscal 1999 from
+$287.0 million in fiscal 1998 and by 20% from $238.7 million in fiscal 1997
+compared to fiscal 1998. For each of the years, these increases were primarily
+attributable to the renewal of maintenance and support contracts for EDA
+products and growth in customer training and consulting services.
+
+     Revenue from international operations was $275.2 million, $279.8 million
+and $262.2 million, or 34%, 39% and 41% of total revenue in fiscal 1999, 1998
+and 1997, respectively. The decrease in international revenue as a percentage of
+total revenue in fiscal 1999 compared to fiscal 1998 was due primarily to
+increased demand for the Company's products and services in the U.S. and
+unchanged demand in Japan. The decrease in international revenue as a percentage
+of total revenue in fiscal 1998 compared to fiscal 1997 was due primarily to
+decreased revenue in Asia/Pacific and Japan as a result of the economic turmoil
+in many Asia/Pacific markets. This decrease was partially offset by growth in
+European revenue in fiscal 1998.
+
+     Cost of Revenue. Cost of product revenue includes cost of production
+personnel, product packaging, documentation, amortization of capitalized
+software development costs and purchased technology, and costs of the Company's
+system products. The cost of internally developed capitalized software is
+amortized based on the greater of the ratio of current product revenue to the
+total of current and anticipated product revenue or the straight-line method
+over the software's estimated economic life of approximately two years. Cost of
+product revenue remained relatively flat at 5% of total revenue in fiscal 1999
+compared to 5% of total revenue in fiscal 1998 and 6% of total revenue in fiscal
+1997. The reduction from fiscal 1998 to fiscal 1997 was due to the Company
+realizing efficiencies in its software distribution infrastructure. Cost of
+service revenue includes personnel and the related costs associated with
+providing training and consulting services. Cost of service revenue as a
+percentage of total revenue was 9% in fiscal 1999 and 8% of total revenue in
+both fiscal 1998 and 1997. The increase in cost of service from fiscal 1998 was
+due to the continued investment in the Company's infrastructure required to
+expand its training and consulting practice.
+
+
+
+     Research and Development. Research and development expenses increased by 7%
+to $167.1 million in fiscal 1999 from $156.7 million in fiscal 1998 and by 7%
+from $146.8 million in fiscal 1997 compared to fiscal 1998, net of capitalized
+software development costs. Research and development expenses represented 21%,
+22% and 23% of total revenue in fiscal 1999, 1998 and 1997, respectively. The
+increase in absolute dollars reflects the Company's ongoing research and
+development efforts in a wide variety of areas such as tools for the design of
+systems-on-a-chip and physical design tools. A significant portion of the
+increase for each fiscal year was due to the addition of personnel and personnel
+related costs, partly through acquisitions, for enhancement of existing
+applications and development of next generation products. Also, fiscal 1998
+included an additional week of operations, which was partially offset by
+synergies realized from the integration of Viewlogic into Synopsys' operations.
+The Company anticipates that it will continue to commit substantial resources to
+research and development in the future, provided that it is able to continue to
+hire and retain a sufficient number of qualified personnel. If the Company
+believes that it is unable to enter a particular market in a timely manner, it
+may license technology from other businesses or acquire other businesses as an
+alternative to internal research and development. For fiscal 2000, the Company
+expects that research and development expenses as a percentage of total revenue
+will be at or slightly below the fiscal 1999 level.
+
+     Sales and Marketing. Sales and marketing expenses decreased by 2% to $241.6
+million in fiscal 1999 from $245.4 million in fiscal 1998 and increased by 2%
+from $240.6 million in fiscal 1997 compared to fiscal 1998. Sales and marketing
+expenses represented 30%, 34% and 37% of total revenue in fiscal 1999, 1998 and
+1997, respectively. Total expenses decreased in absolute dollars and as a
+percentage of revenue in fiscal 1999 primarily as a result of the divesture of
+the PCB/Systems business, as well as savings resulting from ongoing integration
+of Viewlogic's other operations into the Company as a whole. These reductions
+were partially offset by increased spending in marketing and advertising costs,
+trade shows and travel-related costs. The fiscal 1998 increase over fiscal 1997
+primarily resulted from the addition of personnel and personnel-related costs
+due to the continued growth of the Company's worldwide sales and marketing
+organizations and an increase in professional services. Fiscal 1998 also
+included an additional week of operations. The Company expects that for fiscal
+2000, sales and marketing expenses as a percentage of total revenue will be at
+or slightly below the fiscal 1999 level.
+
+     General and Administrative. General and administrative expenses remained
+relatively constant at $47.1 million in fiscal 1999 compared to $47.2 million in
+fiscal 1998. General and administrative expense decreased slightly from $47.3
+million in fiscal 1997 compared to fiscal 1998. As a percentage of total
+revenue, general and administrative expenses were 6%, 7% and 7% in fiscal 1999,
+1998 and 1997, respectively. In fiscal 1998, general and administrative expenses
+included an additional week of operations; however, the associated expense
+increases were offset by synergies realized from the integration of Viewlogic
+into Synopsys' operations. The Company expects that for fiscal 2000, general and
+administrative expenses as a percentage of total revenue will be at or slightly
+below the fiscal 1999 level.
+
+     Amortization of Intangible Assets. Amortization of intangible assets
+represents the excess of the aggregate purchase price over the fair value of the
+tangible and intangible assets acquired by the Company and, is being amortized
+over the estimated useful life of four to five years. The Company assesses the
+recoverability of intangible assets by determining whether the amortized asset
+over its useful life may be recovered through estimated useful cash flows. A
+review of the intangible assets has been completed and it has been determined
+that the values are properly stated and no adjustments are required.
+Amortization of intangible assets charged to operations fiscal 1999 was $7.9
+million and was not material for fiscal 1998 or 1997.
+
+     Merger-Related and Other Costs. As a result of various business
+combinations accounted for as pooling-of-interests in fiscal 1998 and 1997, the
+Company incurred merger-related and other costs of $51.0 million and $11.4
+million, respectively. These expenses related to transaction costs, employee
+termination and transition costs, legal costs, write-off of equipment and other
+assets, and redundant facility and other costs. As of September 30, 1999, there
+was a balance of $0.4 million remaining in accrued liabilities which was
+utilized for final settlement expenditures in October 1999.
+
+
+
+     In-process Research and Development. The following paragraphs contain
+forward-looking statements within the meaning of Section 21E of the Securities
+Exchange Act of 1934, including statements and assumptions regarding percentage
+of completion, expected product release dates, dates for which we expect to
+begin generating benefits from projects, expected product capabilities and
+product life cycles, costs and efforts to complete projects, growth rates,
+royalty rates and projected revenue and expense information used by us to
+calculate discounted cash flows and discounts rates. These forward-looking
+statements involve risks and uncertainties, and the cautionary statements set
+forth below and in "Factors that May Affect Future Results" identify important
+factors that could cause actual results to differ materially from those
+predicted in any such forward-looking statement.
+
+     Purchased in-process research and development (IPRD) of $21.2 million and
+$33.1 million in fiscal 1999 and 1998 respectively, represents the write-off of
+in-process technologies associated with our acquisitions of Gambit Automated
+Design, Inc. (Gambit), Stanza Systems, Inc. (Stanza), Smartech, the rights to
+CoverMeter, a software product owned by Advanced Technology Center, and Apteq
+Design Systems, Inc. (Apteq), in fiscal 1999 and Systems Science, Inc. (SSI) and
+two privately held companies in fiscal 1998 (collectively, the Acquired
+Companies). At the date of each acquisition the projects associated with the
+IPRD efforts had not yet reached technological feasibility and the research and
+development in process had no alternative future uses. Accordingly, these
+amounts were expensed on the respective acquisition dates of each of the
+Acquired Companies. Also see Note 2, Business Combinations.
+
+     Valuation of IPRD. We calculated amounts allocated to IPRD using
+established valuation techniques in the high technology industry and expensed
+such amounts in the quarter that each acquisition was consummated because
+technological feasibility had not been achieved and no alternative future uses
+had been established. This approach gave consideration to relevant market sizes
+and growth factors, expected industry trends, the anticipated nature and timing
+of new product introductions by us and our competitors, individual product sales
+cycles, and the estimated life of each products' underlying technology.
+
+     The fair value of the in-process technology was based on a discounted cash
+flow model, similar to the traditional "Income Approach," which discounts
+expected future cash flows to present value, net of tax. In discounting the
+estimated cash flows, a discount rate of 25% was used based on the risks
+associated with achieving such projected cash flows upon successful completion
+of the acquired projects, expected incremental revenues and expenses associated
+with the projects utilizing the acquired technology, and risks and uncertainties
+in incorporating the acquired technology into the Company's development
+projects. In developing cash flow projections, revenues were forecasted based on
+relevant factors, including aggregate revenue growth rates for the business as a
+whole, characteristics of the potential market for the technology and the
+anticipated life of the technology. Projected annual revenues for the in-process
+research and development projects were assumed to ramp up initially and decline
+significantly at the end of the in-process technology's economic life. Operating
+expenses and resulting profit margins were forecasted based on the
+characteristics and cash flow generating potential of the acquired in-process
+technology. Gross profit percentage and tax rate were assumed to approximate the
+Company's corporate gross profit percentage average and its effective tax rate.
+Associated risks include the inherent difficulties and uncertainties in
+completing each project and thereby achieving technological feasibility, and
+risks related to the impact of potential changes in the market conditions and
+technology. We do not expect to achieve a material amount of expense reductions
+or synergies; therefore, the valuation assumptions do not include significant
+anticipated cost savings.
+
+     As of September 30, 1999, the Company's research and development
+expenditures since the acquisitions of fiscal 1999 have not differed materially
+from expectations. The projections the Company used in performing its valuations
+with respect to each acquisition are still valid, in all material respects,
+however, there can be no assurance that the projected results will be achieved.
+With respect to the Company's acquisitions completed in fiscal 1998, management
+believes that the projections the Company used in performing its valuations with
+respect to each acquisition are still valid, in all material respects, however,
+there can be no assurance that the projected results will be achieved.
+Management expects to continue the development of each project and believes that
+there is a reasonable chance of successfully completing such development
+efforts. However, there is risk associated with the completion of the in-process
+projects and there can be no assurance that any project will meet with either
+technological or commercial success. Failure to successfully develop and
+commercialize
+
+
+
+these in-process projects would result in the loss of the expected economic
+return inherent in the fair value allocation. Additionally, the value of other
+intangible assets acquired may become impaired. The risks associated with the
+research and development are still considered high and no assurance can be made
+that upcoming products will meet market expectations. As of September 30, 1999,
+and for each of the three fiscal years then ended, the impact upon our
+consolidated results of operations or financial position with respect to the
+success, or lack thereof, related to any acquisition, individually or in
+aggregate, is not considered material.
+
+     Other Income, Net. Other income, net was $37.0 million, $26.0 million and
+$24.4 million, or 5%, 4% and 4% of total revenue in fiscal 1999, 1998 and 1997,
+respectively. Other income, net increased in each fiscal year primarily due to
+higher average invested cash and short-term investment balances, which yielded
+more interest income for fiscal 1999 compared to fiscal 1998. In addition, in
+fiscal 1999, 1998 and 1997 other income, net increased due to gains realized on
+sales of equity investments.
+
+     Interest Rate Risk. The Company's exposure to market risk for changes in
+interest rates relates to its investment portfolio. The Company does not use
+derivative financial instruments for speculative or trading purposes. The
+Company places its investments in a mix of tax exempt and taxable instruments
+that meet high credit quality standards, as specified in the Company's
+investment policy. The policy also limits the amount of credit exposure to any
+one issue, issuer and type of instrument. The Company does not anticipate any
+material loss with respect to its investment portfolio.
+
+     The following table presents the carrying value and related
+weighted-average interest rates for the Company's investment portfolio. The
+carrying value approximates fair value at September 30, 1999. In accordance with
+the Company's investment policy, all investments mature in fifteen months or
+less.
+
+Principal (Notional) Amounts in U.S. Dollars:
+
+
+
+(See Note 3 in accompanying notes to consolidated financial statements for
+additional information on investment maturity dates, long-term debt and equity
+price risk related to the Company's long-term investments.)
+
+     Foreign Currency Risk. At the present time, the Company hedges only those
+currency exposures associated with certain assets and liabilities denominated in
+nonfunctional currencies and does not generally hedge anticipated foreign
+currency cash flows. Hedging activities are undertaken by the Company and are
+intended to offset the impact of currency fluctuations on these balances. The
+success of this activity depends upon estimations of intercompany balances
+denominated in various currencies, primarily the Japanese yen, British pound
+sterling, German mark, French franc and Italian lira. The Company had contracts
+for the sale and purchase of foreign currencies with a notional value expressed
+in U.S. dollars of $45.0 million. These contracts were denominated in currencies
+which approximated the fair value of such contracts and their underlying
+transactions as of September 30, 1999. Looking forward, the Company does not
+anticipate any material adverse effect on its consolidated financial position,
+results of operations, or cash flows resulting from the use of these
+instruments. There can be no assurance in the future that these hedging
+transactions will be effective.
+
+     The following table provides information about the Company's foreign
+exchange forward contracts at September 30, 1999. Due to the short-term nature
+of these contracts, the contract rate approximates the
+
+
+
+weighted-average contractual foreign currency exchange rate and the amount in
+U.S. dollars approximates the fair value of the contract at September 30, 1999.
+These forward contracts mature in approximately thirty days.
+
+Short-Term Forward Contracts to Sell and Buy Foreign Currencies in U.S. Dollars
+Related to Intercompany Balances:
+
+
+
+     The unrealized gains/losses on the outstanding forward contracts at
+September 30, 1999 were immaterial to the Company's consolidated financial
+statements. The realized gain/losses on these contracts as they matured was not
+material to the Company's consolidated financial position, results of
+operations, or cash flows for the periods presented.
+
+     Extraordinary Items. During the first quarter of fiscal 1998, the Company
+recorded an extraordinary gain on extinguishment of debt of $1.9 million, net of
+income tax expense of $1.0 million, related to the cancellation of certain
+interest bearing notes issued by the Company to International Business Machines
+Corporation (IBM).
+
+     During the fourth quarter of fiscal 1998, Synopsys completed the partial
+spin-off of Viewlogic Systems, Inc. (VSI), a company that owns the printed
+circuit board (PCB)/Systems business of Viewlogic. Synopsys' merger with
+Viewlogic in December 1997 was accounted for as a pooling-of-interests. The
+spin-off was accounted for as an extraordinary item, as provided by paragraph 60
+of Accounting Principles Board Opinion No. 16 (APB 16), and Synopsys recorded an
+extraordinary gain, net of income tax expense, of $26.5 million in fiscal 1998
+in respect to the spin-off. Synopsys retained common stock equal to 14.9 percent
+of the fully diluted equity in VSI.
+
+     The Company concluded that the disposition of VSI was consistent with its
+treatment of the Synopsys-Viewlogic merger as a pooling-of-interests. A
+condition of the pooling-of-interests treatment is that at the time of the
+merger, management did not plan to dispose of any significant part of the assets
+of the merged entity. The Company concluded that this condition was met because,
+on the date of the Synopsys-Viewlogic merger, the Company did not plan to
+dispose of the PCB/Systems business. The Company believed that there would be
+synergies between the Company's "high-level" integrated circuit design products
+and VSI's PCB design products. The ultimate decision to spin-off VSI was based
+on changes in circumstances following the Synopsys-Viewlogic merger.
+
+     During the months following the merger, the Company came to realize that
+certain of its assumptions and expectations regarding the operation of the
+PCB/Systems business as part of Synopsys were not being fulfilled. The Company's
+initial intent to retain VSI altered due to changes in circumstances as follows:
+
+     - A number of engineers working in the PCB/Systems business were hired by
+       competitors, and management became concerned that it would lose more if
+       the business remained part of Synopsys.
+
+     - Certain synergies anticipated from operation of the PCB/Systems business
+       as part of Synopsys did not materialize.
+
+     - The revenues of the PCB/Systems business grew more slowly than those of
+       Synopsys' other businesses. Management concluded that the reduction in
+       the Company's overall growth rate caused by the PCB/Systems business was
+       contributing to a market discounting of the Company's stock value.
+
+
+
+     - Managers of the PCB/Systems business concluded that the business could
+       grow faster if it was a stand-alone entity, which would allow them to
+       attract and retain key employees.
+
+     Accordingly, Synopsys has not changed its accounting for the Viewlogic
+merger and has reported the gain on the VSI disposition as an extraordinary
+item.
+
+ACCOUNTING PRONOUNCEMENTS
+
+     During fiscal 1999, the Company early adopted Statement of Position (SOP)
+98-1, Accounting for the Costs of Computer Software Developed or Obtained for
+Internal Use. This statement requires computer software costs incurred during
+the application development stage to be capitalized and amortized to operations
+over the software's estimated useful life. The effect of adopting SOP 98-1 for
+fiscal 1999 was not material to the Company's consolidated financial position,
+results of operations or cash flows.
+
+     In June 1999, the Financial Accounting Standards Board (FASB) issued SFAS
+No. 137, Accounting for Derivative Instruments and Hedging Activities, which
+amends the effective date of SFAS No. 133, Accounting for Derivative Instruments
+and Hedging Activities. SFAS No. 137 establishes accounting and reporting
+standards for derivative financial instruments and hedging activities and
+requires the Company to recognize all derivatives as either assets or
+liabilities on the balance sheet and measure them at fair value. Gains and
+losses resulting from changes in fair value would be accounted for based on the
+use of the derivative and whether it is designated and qualifies for hedge
+accounting. The Company will adopt SFAS No. 137 as required for its fiscal 2001
+Annual Report on Form 10-K. The Company has not determined the impact that SFAS
+No. 137 will have on its financial statements and believes that such
+determination will not be meaningful until closer to the date of the initial
+adoption.
+
+     In December 1998, the AICPA issued SOP 98-9, Modification of SOP 97-2,
+Software Revenue Recognition, With Respect to Certain Transactions, which amends
+SOP 97-2 and supercedes SOP 98-4. The Company will adopt SOP 98-9 in fiscal
+2000. The Company intends to modify certain aspects of its license and pricing
+structure so that the impact of SOP 98-9 on its revenue recognition practices
+will not be significant.
+
+     In June 1997, FASB issued SFAS No. 131, Disclosures about Segments of an
+Enterprise and Related Information. SFAS No. 131 requires disclosure of certain
+information regarding operating segments, products and services, geographic
+areas of operation, and major customers. The Company has adopted SFAS No. 131 as
+required for its fiscal 1999 Annual Report on Form 10-K.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     Cash, cash equivalents and short-term investments were $704.2 million at
+September 30, 1999, an increase of $99.6 million or 17% from fiscal 1998. The
+increase is primarily a result of cash generated by operations of $223.3
+million, and to a lesser extent, through financing and investing activities,
+mainly the exercise of stock options and purchases of stock through the employee
+stock purchase plan of $102.7 million and the sale of long-term investments of
+$21.8 million. These cash flows were partially offset by cash outflows for
+investing and financing activities, mainly capital expenditures of $65.8
+million, acquisitions valued at $46.5 million, the repurchase of common stock of
+$95.4 million and cash paid on debt obligations of $12.6 million.
+
+     Accounts receivable increased 23% during fiscal 1999, while sales grew by
+12%. Days sales outstanding in receivables increased to 61 days as of September
+30, 1999 from 59 days at September 30, 1998. As of September 30, 1999 and 1998,
+the Company had sold $22.8 million and $12.6 million of its accounts receivable
+to a financial institution.
+
+     At September 30, 1999, the Company had two foreign exchange lines of credit
+available totaling $120.0 million, which expire in July and October 2000.
+
+
+
+     The Company's management believes that its current cash, cash equivalents,
+short-term investments, lines of credit, and cash generated from operations will
+satisfy its expected working capital and capital expenditure requirements for at
+least the next twelve months.
+
+YEAR 2000 READINESS
+
+     This section contains forward-looking statements. See "Factors That May
+Affect Future Results."
+
+     Year 2000 Problem. The failure of a computer program to accurately
+recognize and process date information beginning on January 1, 2000 is referred
+to as a "Year 2000 problem." This may result in a system failure, miscalculation
+or other malfunction.
+
+     Synopsys has potential Year 2000 problems both as a vendor of software and
+as a user of software and other services. As a vendor, Synopsys could have Year
+2000 issues either if our software products were not Year 2000 compliant or our
+customers had Year 2000 issues that interfered with their purchases of Synopsys'
+products. Our business could also be disrupted if any of the many systems we use
+to perform key corporate functions -- such as financial accounting, billing,
+payroll or license control, or the power, telecommunications and other services
+they depend on -- were interrupted or damaged as a result of Year 2000 problems.
+
+     For the purposes of the following discussion, our efforts to identify,
+assess, fix and test Year 2000 problems relating to our business are referred to
+as our "Year 2000 Efforts."
+
+     State of Readiness. In general, Synopsys products are not date-sensitive,
+and therefore are less likely to have Year 2000 problems. We have inspected or
+tested all of our currently released products to determine whether they have
+Year 2000 problems. None of our tested products experienced significant
+date-related failures. In addition, we are operating a dedicated Year 2000 test
+laboratory, which we use to test new products and maintain Year 2000 compliance
+of future products.
+
+     Synopsys has taken a number of steps to determine whether the internal
+computer systems and software we rely upon to run our business will have Year
+2000 problems. Our efforts have covered both systems that are commonly thought
+of as "information technology" (IT) systems, including accounting, data
+processing, and telephone/PBX systems, as well as certain systems that are not
+commonly thought of as IT systems, such as alarm systems and fax machines.
+
+     Our Year 2000 Efforts are being conducted primarily by Synopsys employees
+and in Synopsys facilities. We began our Year 2000 Efforts in February 1997. As
+of September 30, 1999, we had completed approximately 99% of the total effort
+for the projects we believe are necessary to fully address potential Year 2000
+issues relating to our internal computer systems and software. Our remaining
+efforts are focused on upgrading certain desktop computers and servers for which
+we delayed remediation work to enable us to provide support to customers using
+Synopsys products on prior releases of their operating systems.
+
+     In addition to conducting an assessment of our products and internal
+systems and software, we have conducted a survey of our most important vendors
+and service providers. All such vendors have indicated that they are Year 2000
+compliant.
+
+     Certain of our computer equipment and software has required replacement or
+modification as a result of Year 2000 issues, including an upgrade to the
+Windows operating system and related modifications affecting most of the desktop
+computers used in our business. In certain instances, a replacement or
+modification anticipated in the ordinary course of business was accelerated due
+to Year 2000 issues.
+
+     Costs of Readiness. Synopsys has not incurred, and does not expect to
+incur, material expense in connection with our Year 2000 Efforts. We currently
+estimate that the total cost of our Year 2000 Efforts will not exceed $8.1
+million, consisting of approximately $5.6 million for hardware, software and
+external consultants (external costs), and approximately $2.5 million in direct
+costs of employees working on our Year 2000 Efforts (internal costs). As of
+September 30, 1999 we had incurred costs of approximately $5.5 million related
+to our Year 2000 Efforts, including $3.5 million in external costs and $2.0
+million in internal costs. The Company expects to incur additional depreciation
+expenses of $2.1 million and additional personnel costs of approximately $0.5
+million relating to its Year 2000 Efforts. However, should we encounter
+unforeseen Year
+
+
+
+2000 problems, either in our products or internal systems or in our customers'
+or vendors' operations, the amount we spend on our Year 2000 Efforts number
+could increase, perhaps by a material amount. The cost of our Year 2000 Efforts
+is being funded from operating cash flows. These costs represent approximately
+5.7% of our total actual and anticipated IT expenditures for the period from the
+start of fiscal 1998 through March 31, 2000 (including employee expenses of our
+IT department). Expansion and upgrade of our internal systems unrelated to our
+Year 2000 Efforts have not been materially delayed or impacted by our Year 2000
+Efforts.
+
+     Contingency Plans. Synopsys has analyzed the operational problems that
+would be reasonably likely to result from the failure by us or vendors to
+achieve Year 2000 compliance on a timely basis. The most reasonably likely worst
+case scenario we have identified is a disruption of our core operational
+functions for one week. In conjunction with our overall crisis planning efforts,
+we have developed a plan to address this scenario and to reduce the risk of
+other Year 2000-related problems. Under this plan, the Company will (1)
+partially shut down certain internal systems during the Year 2000 rollover and
+(2) use standby electric generators to power key systems in case of a public
+utility power outage. While we do not anticipate that this scenario will have a
+material adverse effect on our business, we are not able to predict the
+likelihood or the effects of the worst case scenario with certainty.
+
+FACTORS THAT MAY AFFECT FUTURE RESULTS
+
+     Our Revenue and Earnings May Fluctuate. Many factors affect our revenue and
+earnings, which makes it difficult to achieve predictable revenue and earnings
+growth. Among these factors are customer product and service demand, product
+license terms, and the timing of revenue recognition on products and services
+sold. The following specific factors could affect our revenues and earnings in a
+particular quarter or over several quarterly or annual periods:
+
+     - Our orders have been seasonal. Historically, our first fiscal quarter has
+       been our weakest, with a book-to-bill ratio less than 1. The recent
+       change in our fiscal year (see note 1 in accompanying notes to
+       consolidated financial statements) may affect the seasonal pattern of our
+       revenues.
+
+     - Our products are complex, and before buying them customers spend a great
+       deal of time reviewing and testing them. Our customers' evaluation and
+       purchase cycles do not necessarily match our quarterly periods, and if by
+       the end of any quarter we have not sold enough new licenses, our orders
+       and revenues could be below our plan. Like many companies in the software
+       industry, in the past we have received a disproportionate volume of
+       orders in the last week of a quarter, and recognized a disproportionate
+       amount of revenue in the last week of a quarter. In addition, a large
+       proportion of our business is attributable to our largest customers. As a
+       result, if any order, and especially a large order, is delayed beyond the
+       end of a fiscal period, our orders and revenue for that period could be
+       below our plan.
+
+     - The accounting rules we are required to follow permit us to recognize
+       revenue only when certain criteria are met. Orders for certain of our
+       products and services yield revenue over multiple quarters (often
+       extending beyond the current fiscal year) or upon completion of
+       performance rather than at the time of sale. In addition, the specific
+       terms agreed to with a customer may have the effect of requiring deferral
+       of revenue in whole or in part or, alternatively, of permitting us to
+       accelerate the recognition of revenue for products to be used over
+       multiple years. A number of our recent transactions have involved
+       multi-year licenses with respect to which a significant portion of the
+       revenue was recognized in the initial quarter (consistent with relevant
+       accounting rules). Therefore, for a given quarter it is possible for us
+       to fall short in our revenue and/or earnings plan even while orders and
+       backlog remain on plan or, conversely, to meet our revenue and/or
+       earnings plan by drawing on backlog and deferred revenue while orders are
+       under plan.
+
+     - We recently introduced a new license and pricing structure for our
+       software products. Although we believe that these changes have benefits
+       for both Synopsys and our customers, it is possible that customer
+       reaction will be unfavorable or that the transition to the new structure
+       will be disruptive to business, resulting in the deferral or loss of
+       sales.
+
+
+
+     Our Industry is Highly Competitive. The EDA industry is highly competitive.
+We compete against other EDA vendors, and with customers' internally developed
+design tools and internal design capabilities, for a share of the overall EDA
+budgets of our potential customers. In general, competition is based on product
+quality and features, post-sale support, price and, as discussed below, the
+ability to offer a complete design flow. Our competitors include companies that
+offer a broad range of products and services, such as Cadence Mentor and Avant!,
+as well as companies, including numerous start-up companies, that offer products
+focused on a discrete phase of the integrated circuit design process. Synopsys'
+competitors continue to offer aggressive discounts on their products, in
+particular on synthesis and Verilog simulation products. If this behavior
+continues, average prices for our products may fall. In order to compete
+successfully, we must continue to enhance our products and bring to market new
+products that address the needs of our customers. We also will have to expand
+our consulting services business. The failure to enhance existing products,
+develop and/or acquire new products or expand our ability to offer consulting
+services could have a material adverse effect on our business, financial
+condition and results of operations.
+
+     Technology advances and customer requirements are fueling a change in the
+nature of competition among EDA vendors. Increasingly, EDA companies compete on
+the basis of "design flows" involving integrated logic and physical design tools
+rather than on the basis of individual "point" tools performing a discrete phase
+of the design process. The need to offer products linking logic and physical
+design will become increasingly important, as IC complexity is increasing, chip
+production moves increasingly to 0.18 micron and below, and system-on-a-chip
+designs become more prevalent. We offer a wide range of logic design tools but
+have only recently introduced our first physical design tools. We are working on
+completing our design flow, although for the foreseeable future will not be able
+to offer such a flow to customers. The market for physical design tools is
+dominated by Cadence and Avant! Both companies have acquired logic synthesis
+technology and are offering products linking synthesis to their physical design
+products. If we are unsuccessful in developing a complete design flow on a
+timely basis or in convincing customers to adopt our physical design products
+and methodology, our competitive position could be significantly weakened.
+
+     Our Revenue Growth Depends on Our Non-Synthesis Products. Historically,
+much of our growth has been attributable to the strength of our logic synthesis
+products. Opportunities for growth in market share in this area are limited, and
+revenues from our synthesis products are expected to grow more slowly than our
+target for overall revenue growth. In order to meet our revenue plan, revenue
+from our non-synthesis design creation products, certain high level verification
+products, physical design products, deep submicron products and professional
+services must grow faster than our overall revenue growth target. Among the
+products that we expect to be the most important contributors to revenue growth
+are our PrimeTime(R) timing analysis, VCS(TM) Verilog simulation, Formality(R)
+formal verification, Module Compiler(TM) datapath synthesis, Chip Architect
+design planning, FlexRoute top-level routing, Physical Compiler and EPIC(R) deep
+submicron analysis and verification products. If revenue growth for these
+products fails to meet our goals, it is unlikely that we will meet our overall
+revenue growth target.
+
+     In order to sustain revenue growth over the long term, we will have to
+introduce new products that are accepted by a broad range of customers and to
+significantly expand our consulting services business. Product success is
+difficult to predict. The introduction of new products and growth of a market
+for such products cannot be assured. In the past we, like all companies, have
+had products that have failed to meet our revenue expectations. Expanding
+revenue from consulting services will require us to recruit, hire and train a
+large number of skilled employees, and to implement management controls on
+bidding and executing on consulting engagements. The consulting business is
+significantly different from the software business, however, and increasing
+consulting orders and revenue while maintaining an adequate level of profit can
+be difficult. There can be no assurance that we will be successful in expanding
+revenue from existing or new products at the desired rate or in expanding our
+services business, and the failure to do so would have a material adverse effect
+on our business, financial condition and results of operations.
+
+     Businesses We Acquire May Not Perform as Projected. We have acquired or
+merged with a number of companies in recent years, including EPIC Design
+Technology, Inc., Viewlogic, Systems Science, Inc., Everest, Gambit, Smartech,
+Stanza and Apteq, and as part of our efforts to increase revenue and expand our
+product and services offerings we may acquire additional companies. In addition
+to direct costs, acquisitions
+
+
+
+pose a number of risks, including potential dilution of earnings per share,
+delays and other problems of integrating the acquired products and employees
+into our business, the failure to realize expected synergies or cost savings,
+the failure of acquired products to achieve projected sales, the drain on
+management time for acquisition-related activities, possible adverse effects on
+customer buying patterns due to uncertainties resulting from an acquisition, and
+assumption of unknown liabilities. While we attempt to review proposed
+acquisitions carefully and negotiate terms that are favorable to Synopsys, there
+is no assurance that any individual acquisition will have the projected effect
+on our performance.
+
+     Our Business Depends on the Semiconductor and Electronics Businesses. Our
+business has benefited from the rapid worldwide growth of the semiconductor
+industry. Purchases of our products are largely dependent upon the commencement
+of new design projects by semiconductor manufacturers and their customers and
+the increasing complexity of designs. While a number of semiconductor market
+segments are growing at a healthy pace, the overall outlook for the
+semiconductor industry remains uncertain. Renewed growth in the semiconductor
+industry will not necessarily lead to increases in purchases of Synopsys
+products. In addition, demand may be affected by mergers in the semiconductor
+and systems industries, which may reduce the aggregate level of purchases of our
+products and services by the combined companies. Slower growth in the
+semiconductor and systems industries, a reduced number of design starts,
+tightening of customers' operating budgets or continued consolidation among our
+customers may have a material adverse effect on our business, financial
+condition and results of operations.
+
+     Continued Stagnation of International Economies Will Adversely Affect Our
+Performance. International revenue is vulnerable to changes in foreign currency
+exchange rates and in regional or worldwide economic or political conditions.
+Since the beginning of the Asian economic crisis, international revenue has
+declined significantly as a percentage of overall revenue, as Asian customers
+have deferred their investments in semiconductor facilities and technology. It
+will be difficult to sustain our overall growth rate if revenue from Asia
+remains stagnant or grows slowly. In particular:
+
+     - If the Japanese economy remains weak, revenue from Japan and the rest of
+       Asia will be adversely affected. In addition, the yen-dollar exchange
+       rate remains subject to unpredictable fluctuations. Weakness of the yen
+       could adversely affect revenue from Japan during future quarters.
+
+     - Korea's ongoing economic weakness has had, and is likely to continue to
+       have a significant adverse effect on our orders and revenue from Korea.
+       In addition, two of our four largest Korean customers have merged, which
+       may result in a lower level of orders from the combined company than we
+       might have received if the two companies remained separate.
+
+     - Asian countries other than Japan and Korea also have experienced economic
+       and currency problems. If such conditions persist, orders and revenues
+       from the Asia Pacific region would be adversely affected.
+
+     Our Success Depends on Recruiting and Retaining Key Personnel. Our success
+is dependent on technical and other contributions of key employees. We
+participate in a dynamic industry, with significant start-up activity, and our
+headquarters is in Silicon Valley, where skilled technical, sales and management
+employees are in high demand. There are a limited number of qualified EDA
+engineers, and the competition for such individuals is intense. Experience at
+Synopsys is highly valued in the EDA industry, and our employees are recruited
+aggressively by our competitors and by start-up companies, including those in
+internet-related businesses. Our salaries are competitive in the market, but
+under certain circumstances, start-up companies can offer more attractive stock
+option packages. As a result, we have experienced, and may continue to
+experience, significant employee turnover. In addition, there can be no
+assurance that we can continue to recruit and retain key personnel or that it
+can attract, assimilate or retain other highly qualified technical and
+managerial personnel in the future. Failure to successfully recruit and retain
+such personnel could have a material adverse effect on our business, financial
+condition and results of operations.
+
+     Dependence on Proprietary Technology. Our success is dependent, in part,
+upon our proprietary technology and other intellectual property rights. There
+can be no assurance that our competitors will not independently develop or
+acquire similar techniques or gain access to our proprietary technology or that
+we can protect our rights to our technology. We rely on confidentiality
+agreements with collaborators, employees,
+
+
+
+vendors and consultants to protect our proprietary technology. There can be no
+assurance that these agreements will not be breached, that we would have
+adequate remedies for any breach or that our trade secrets will not otherwise
+become known or be independently developed by competitors. Failure to obtain or
+maintain patent or trade secret protection, for any reason, could have a
+material adverse effect on our business, financial condition and results of
+operations.
+
+     Fixed Operating Expenses. Our operating expenses are based in part on our
+expectations of future revenue, and expense levels are generally committed in
+advance of revenue. We expect to continue to increase operating expenses in
+order to generate and support continued growth in revenue. If we were
+unsuccessful in generating such revenue, our business, financial condition and
+results of operations could be materially adversely affected. Net income in a
+given quarter or fiscal year may be disproportionately affected by a reduction
+in revenue growth because only a small portion of our expenses varies with
+revenue.
+
+     Anti-Takeover Provisions. We have adopted a number of provisions that could
+have anti-takeover effects. The Board of Directors has adopted a Preferred
+Shares Rights Plan, commonly referred to as a "poison pill." In addition, the
+Board of Directors has the authority, without further action by its
+stockholders, to issue additional shares of Common Stock and to fix the rights
+and preferences of, and to issue authorized but undesignated shares of Preferred
+Stock. These and other provisions of Synopsys' Restated Certificate of
+Incorporation and Bylaws and the Delaware General Corporation Law may have the
+effect of deterring hostile takeovers or delaying or preventing changes in
+control or management of Synopsys, including transactions in which the
+shareholders of the Company might otherwise receive a premium for their shares
+over then current market prices.
+
+     Year 2000 Problems. We are uncertain as to the Year 2000 readiness of our
+customers, and if one or more important customers were to experience Year
+2000-related problems that interfered with their purchases of Synopsys products,
+our revenues could be reduced, perhaps materially. In addition, if our plan to
+address failures caused by Year 2000 problems, including disruptions of our
+power supply, increased hacker or computer virus activity or internal systems
+failures not remediated by our Year 2000 efforts, proved unsuccessful, our
+business, financial condition and results of operations could be materially and
+adversely affected.
+
+EUROPEAN MONETARY UNIT
+
+     The Company's sales to European customers are primarily U.S. dollar based.
+However, the Company does recognize the emergence of a new monetary unit and the
+potential importance of such a new monetary unit to its customers residing in
+the European union. The Company's information systems are capable of functioning
+in multiple currencies. The Company has already started to make system changes
+to make all infrastructures capable of operations in the European Monetary Unit.
+The Company does not expect to incur significant expenses for these system
+changes. The Company does not expect any disruption in operations due to the
+European Monetary Unit implementation.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK
+
+     Information relating to quantitative and qualitative disclosure about
+market risk is set forth in Synopsys' 1999 Annual Report on Form 10-K under the
+captions "Interest Rate Risk" and "Foreign Currency Risk" in Management's
+Discussion and Analysis of Financial Condition and Results of Operations, and
+"Foreign Exchange Hedging" in Note 1 of the Notes to Consolidated Financial
+Statements.
+
+
+
+                    REPORT OF KPMG LLP, INDEPENDENT AUDITORS
+
+To The Board of Directors and Shareholders of Synopsys, Inc.:
+
+     We have audited the accompanying consolidated balance sheets of Synopsys,
+Inc. and subsidiaries as of September 30, 1999 and 1998, and the related
+consolidated statements of income, stockholders' equity and cash flows for each
+of the years in the three-year period ended September 30, 1999. These
+consolidated financial statements are the responsibility of the Company's
+management. Our responsibility is to express an opinion on these consolidated
+financial statements based on our audits.
+
+     We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+     In our opinion, based on our audits, the consolidated financial statements
+referred to above present fairly, in all material respects, the financial
+position of Synopsys, Inc. and subsidiaries as of September 30, 1999 and 1998,
+and the results of their operations and their cash flows for each of the years
+in the three-year period ended September 30, 1999 in conformity with generally
+accepted accounting principles.
+
+                                          /s/ KPMG LLP
+
+Mountain View, California
+October 23, 1999
+
+
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+                                 SYNOPSYS, INC.
+
+                          CONSOLIDATED BALANCE SHEETS
+                       (in thousands, except share data)
+
+
+
+          See accompanying notes to consolidated financial statements.
+
+
+
+                                 SYNOPSYS, INC.
+
+                       CONSOLIDATED STATEMENTS OF INCOME
+                     (in thousands, except per share data)
+
+
+
+          See accompanying notes to consolidated financial statements.
+
+
+
+                                 SYNOPSYS, INC.
+
+                CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+                                 (in thousands)
+
+
+          See accompanying notes to consolidated financial statements.
+
+
+                                 SYNOPSYS, INC.
+
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (in thousands)
+
+
+
+          See accompanying notes to consolidated financial statements.
+
+
+                                 SYNOPSYS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+     Nature of Operations. Synopsys, Inc. ("Synopsys" or the "Company") is a
+leading supplier of EDA software to the global electronics industry. The Company
+develops, markets, and supports a wide range of IC design products that are used
+by designers of advanced ICs, including system-on-a-chip ICs, and the electronic
+systems (such as computers, cell phones, and internet routers) that use such
+ICs. The Company also provides consulting services to help its customers improve
+their IC design processes and, where requested, to assist them with their IC
+designs.
+
+     Change in Fiscal Year End. The Company has a fiscal year that ends on the
+Saturday nearest September 30. Fiscal 1999 and 1997 were 52-week years while
+fiscal 1998 was a 53-week year. For presentation purposes, the consolidated
+financial statements and notes refer to the calendar month end. On July 15,
+1999, the Board of Directors determined that Synopsys' fiscal 2000 and
+subsequent fiscal years shall end on the Saturday nearest to October 31. As a
+result, fiscal 2000 shall commence on October 31, 1999 and end on October 28,
+2000. The period from October 3, 1999 through October 30, 1999 shall be a
+transition period. Information for the transition period will be filed with
+Synopsys' quarterly report on Form 10-Q for the first quarter of fiscal 2000.
+
+     Principles of Consolidation. The consolidated financial statements include
+the accounts of the Company and all of its subsidiaries. All significant
+intercompany accounts and transactions have been eliminated.
+
+     Use of Estimates. The preparation of financial statements in conformity
+with generally accepted accounting principles requires management to make
+estimates and assumptions that affect the recorded amounts of revenues, assets
+and liabilities, disclosure of assets and liabilities at the date of the
+financial statements and the recorded amounts of expenses during the reporting
+period. A change in the facts and circumstances surrounding these estimates
+could result in a change to the estimates and impact future operating results.
+
+     Cash Equivalents, Fair Values of Financial Instruments and Concentration of
+Credit Risk. Financial instruments which potentially subject the Company to
+concentrations of credit risk consist principally of cash equivalents,
+investments and trade receivables.
+
+     All of the Company's cash equivalents and investments are classified as
+available-for-sale and unrealized gains and losses are reported in stockholders'
+equity as a component of accumulated other comprehensive income at fair value,
+net of tax, if any. The fair value of investments is based on quoted market
+prices. Realized gains and losses are included in other income, net. Cash
+equivalents have remaining maturities of three months or less when acquired. The
+Company has cash equivalents and investments with various high quality
+institutions and, by policy, limits the amount of credit exposure to any one
+institution.
+
+     The Company sells its products worldwide primarily to customers in the
+semiconductor industry. The Company performs on-going credit evaluations of its
+customers' financial condition and generally does not require collateral. The
+Company maintains reserves for potential credit losses, and such losses have
+been within management's expectations and have not been material in any year. As
+of September 30, 1999 and 1998, the Company had sold approximately $22.8 million
+and $12.6 million of its accounts receivable to a financial institution.
+
+     The fair value of the Company's cash, accounts receivable, long-term
+investments, put/call and forward contracts relating to certain of the Company's
+equity securities, accounts payable, long-term debt and foreign currency
+contracts, approximates the carrying amount, which is the amount for which the
+instrument could be exchanged in a current transaction between willing parties.
+
+     Foreign Currency Translation. The functional currency of each of the
+Company's international subsidiaries is the foreign subsidiary's local currency.
+Assets and liabilities of the Company's international operations are translated
+into U.S. dollars at exchange rates in effect at the balance sheet date. Income
+and
+
+                                 SYNOPSYS, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+expense items are translated at average exchange rates for the period.
+Accumulated net translation adjustments are reported in stockholders' equity as
+a component of accumulated other comprehensive income. The associated tax
+benefit for cumulative translation adjustment was $0.2 million and $0.7 million
+in fiscal 1999 and 1997, and the associated tax expense was $0.5 million in
+fiscal 1998, respectively. Foreign exchange transaction gains and losses were
+not material for all periods presented and are included in the results of
+operations.
+
+     Synopsys' international business is an important contributor to the
+Company's revenue and net profits. However, the majority of Synopsys'
+international sales are denominated in the U.S. dollar, and an increase in the
+value of the U.S. dollar relative to foreign currencies could make products sold
+internationally less competitive. The operating expenses of Synopsys' overseas
+offices are paid in local currencies and are subject to the effect of
+fluctuations in foreign currency exchange rates as compared to their respective
+local currency. The effect of foreign exchange rate fluctuations did not
+significantly impact the Company's operating results. Financial exposure may
+nonetheless result, primarily from the timing of transactions and the movement
+of foreign exchange rates.
+
+     Foreign Exchange Hedging. The Company operates internationally and thus is
+exposed to potentially adverse movements in foreign currency rate changes. In
+fiscal 1999, the Company entered into foreign exchange forward contracts to
+reduce its exposure to foreign currency rate changes on intercompany foreign
+currency denominated balance sheet positions. The objective of these contracts
+is to neutralize the impact of foreign currency exchange rate movements on the
+Company's operating results.
+
+     These contracts require the Company to exchange currencies at rates agreed
+upon at the inception of the contracts. The hedge contracts reduce the exposure
+to fluctuations in exchange rate movements because the gains and losses
+associated with foreign currency balances and transactions are generally offset
+with the gains and losses of the hedge contracts. Because the impact of
+movements in currency exchange rates on forward contracts offsets the related
+impact on the underlying items being hedged, these financial instruments help
+alleviate the risk that might otherwise result from changes in currency exchange
+rate fluctuations.
+
+     The Company's accounting policies for these instruments are based on the
+Company's designation of such instruments as hedging transactions. The criteria
+the Company uses for designating an instrument as a hedge includes the
+instrument's effectiveness in risk reduction. Gains and losses on these
+contracts, all of which are designated and effective as hedges of existing
+transactions, are recognized in operations in the period in which gains and
+losses on the underlying transactions occur. The Company does not use derivative
+financial instruments for speculative or trading purposes. In the event of
+termination or extinguishment of a contract, associated gains and losses would
+be recognized in operations in the period in which the contract was terminated
+or extinguished.
+
+     These contracts contain credit risk in that the counterparty may be unable
+to meet the terms of the agreements. The Company has limited these agreements to
+major financial institutions to reduce such credit risk. Furthermore, the
+Company monitors the potential risk of loss with any one financial institution
+and does not expect any material loss as a result of default by the
+counterparties.
+
+     Revenue Recognition. The Company recognizes revenue in accordance with SOP
+97-2, Software Revenue Recognition, as amended by SOP 98-4. SOP 97-2 generally
+requires revenue earned on software arrangements involving multiple elements to
+be allocated to each element based on the relative fair values of the elements.
+The revenue allocated to software products, including time-based software
+licenses, generally is recognized upon delivery of the products. The revenue
+allocated to postcontract customer support (PCS) is recognized ratably over the
+term of the support and revenue allocated to service elements is recognized as
+the services are performed.
+
+     In accordance with SOP 97-2, the Company has analyzed all of the elements
+included in its multiple-element arrangements and determined that the Company
+has sufficient evidence of fair value to
+
+                                 SYNOPSYS, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+allocate revenue to the license and PCS components of certain of its time-based
+product licenses. Accordingly, the portion of the time-based license fee
+allocated to the license component is recognized upon delivery of the software
+product and the portion of the fee allocated to PCS is recognized ratably over
+the term of the support. Software subscriptions continue to be recognized on a
+ratable basis.
+
+     Revenue consists of fees for licenses and subscriptions of the Company's
+software products, sales of system products, maintenance and support, customer
+training, and consulting. Cost of product revenue includes cost of production
+personnel, product packaging, documentation, amortization of capitalized
+software development costs and purchased technology, and costs of the Company's
+systems products. Cost of service revenue includes personnel and the related
+costs associated with providing training and consulting.
+
+     Accounts receivable include amounts due from customers for which revenue
+has been recognized. Deferred revenue includes amounts received from customers
+for which revenue has not been recognized.
+
+     Property and Equipment. Property and equipment are recorded at cost.
+Depreciation and amortization of owned assets are provided using the
+straight-line method over the estimated useful lives of property and equipment
+of three to five years. Leasehold improvements are amortized using the
+straight-line method over the remaining lease term or the economic useful life
+of the related asset, whichever is shorter. Property and equipment detail is as
+follows:
+
+
+
+     Software Development Costs. Capitalization of computer software development
+costs begins upon the establishment of technological feasibility, which is
+generally the completion of a working prototype. Software development costs
+capitalized were $1.0 million for 1999, $2.1 million for 1998 and $4.2 million
+for 1997.
+
+     Amortization of computer software development costs is computed as the
+greater of the ratio of current product revenue to the total of current and
+anticipated product revenue or the straight-line method over the software's
+estimated economic life of approximately two years. The Company recorded
+amortization of $1.6 million for 1999, $2.2 million for 1998 and $3.7 million
+for 1997, respectively.
+
+     Amortization of Intangible Assets. Amortization of intangible assets
+consists of goodwill and goodwill-like assets such as assembled workforce.
+Goodwill represents the excess of the aggregate purchase price over the fair
+value of the tangible assets acquired by the Company and, under the Company's
+accounting policies is being amortized over estimated useful lives ranging from
+four to five years. The Company assesses the recoverability of goodwill by
+determining whether the amortized asset over its useful life may be recovered
+through estimated future cash flows. A review of the intangible assets has been
+completed and it has been determined that the values are properly stated and no
+adjustments are required. Amortization of intangible assets charged to
+operations amounted to $7.9 million in fiscal 1999 and was not material in
+fiscal 1998 and 1997, respectively.
+
+
+                                 SYNOPSYS, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+     Accrued Liabilities. Accrued liabilities consist of:
+
+
+
+     Income Taxes. The Company accounts for income taxes using the
+asset-and-liability method. Under the asset and liability method, deferred tax
+assets and liabilities are recognized for the future tax consequences
+attributable to differences between the financial statement carrying amounts of
+existing assets and liabilities and their respective tax bases. Deferred tax
+assets are recognized for deductible temporary differences, net operating loss
+carryforwards, and credit carryforwards if it is more likely than not that the
+tax benefits will be realized. To the extent a deferred tax asset cannot be
+recognized under the preceding criteria, a valuation allowance has been
+established.
+
+     Earnings per Share. Basic earnings per share is computed using the
+weighted-average number of common shares outstanding during the period. Diluted
+earnings per share is computed using the weighted-average number of common
+shares and potential dilutive common shares outstanding during the period.
+Potential dilutive common shares consist of employee stock options using the
+treasury stock method.
+
+     The following is a reconciliation of the weighted-average common shares
+used to calculate basic net income per share to the weighted-average common
+shares used to calculate diluted net income per share for fiscal 1999, 1998 and
+1997:
+
+
+
+     Stock-Based Compensation. As permitted under SFAS No. 123, "Accounting for
+Stock-Based Compensation," the Company has elected to follow Accounting
+Principles Board Opinion No. 25 (APB 25), "Accounting for Stock Issued to
+Employees," in accounting for stock-based awards to employees.
+
+     Reclassifications. Certain amounts reported in previous years have been
+reclassified to conform to the fiscal 1999 presentation.
+
+NOTE 2. BUSINESS COMBINATIONS
+
+     Pooling-of-Interests Combinations. In fiscal 1999, the Company issued
+approximately 1.4 million shares of its common stock for all the outstanding
+stock of Everest, a developer of integrated circuit routing and related
+technology and reserved approximately 120,000 shares of its common stock for
+issuance under Everest's stock option plan, which the Company assumed in the
+transaction. The business combination was accounted for as a
+pooling-of-interests, and accordingly, the Company's consolidated financial
+statements have been restated to include the financial position and results of
+Everest for all periods presented. The Board of Directors approved the
+rescission of the Company's July 1998 stock repurchase program in order to
+comply
+
+
+                                 SYNOPSYS, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+with pooling-of-interests accounting guidance provided in the SEC Staff
+Accounting Bulletin (SAB) No. 96. In fiscal 1998 and fiscal 1997, Everest issued
+shares of its preferred stock for $5.9 million and $1.1 million, respectively.
+The Everest preferred shares are presented in the Consolidated Statements of
+Stockholders' Equity in terms of equivalent shares of the Company's common
+stock.
+
+     In fiscal 1998, the Company issued approximately 11.3 million shares of its
+common stock for all of the outstanding stock of Viewlogic, a worldwide supplier
+of EDA software. In addition, options to acquire Viewlogic's common stock were
+exchanged for approximately 2.8 million shares of the Company's common stock. In
+fiscal 1997, the Company issued approximately 10.3 million shares of its common
+stock for all of the outstanding stock of Epic Design Technology, Inc. (EPIC), a
+developer of design automation tools for deep submicron design in the area of
+integrated circuit power. In addition, options to acquire EPIC's common stock
+were exchanged for approximately 1.5 million shares of the Company's common
+stock. These business combinations were accounted for as pooling-of-interests,
+and accordingly, the Company's consolidated financial statements have been
+restated to include the financial position and results of EPIC and Viewlogic for
+all periods presented.
+
+     During fiscal 1998, the Company sold VSI, the PCB/Systems business design
+segment of the Viewlogic business to a management-led buy-out group for $51.9
+million in cash. As a result of the transaction, the Company recorded an
+extraordinary gain of $26.5 million, net of income tax expense, in the fourth
+quarter of fiscal 1998. The Company retained a minority investment of 14.9%
+(fully diluted) in the new company. VSI has announced that it has agreed to
+merge with Summit Design, Inc.
+
+     The following information represents revenue and net income (loss) of the
+separate enterprises through the periods preceding the business combinations and
+the combined results following the business combinations.
+
+
+
+- ---------------
+(1) Includes extraordinary gains of $28.4 million, net of income tax expense, in
+    fiscal 1998.
+
+
+                                 SYNOPSYS, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+     The Company recorded merger-related and other costs of $51.0 million and
+$11.4 million in fiscal 1998 and 1997. The following table presents the
+components of merger-related and other costs recorded in fiscal 1998, along with
+charges against the reserves through September 30, 1999:
+
+
+
+     Purchase Combinations. During the three years ended September 30, 1999,
+1998 and 1997, the Company made a number of purchase acquisitions. Pro forma
+results of operations have not been presented since the effects of the
+acquisitions were not material to the Company's consolidated financial position,
+results of operations or cash flows for the periods presented. The consolidated
+financial statements include the operating results of each business from the
+date of acquisition. The purchase price of each transaction was allocated to the
+acquired assets and liabilities based on their estimated fair values as of the
+date of the respective acquisitions.
+
+     The excess purchase price over the estimated value of the net tangible
+assets acquired was allocated to various intangible assets, consisting primarily
+of developed technology and goodwill, as well as goodwill-like assets such as
+assembled workforce. The values assigned to developed technologies related to
+each acquisition were based upon future discounted cash flows related to the
+existing product's projected income streams. The values of the assembled
+workforces were based upon the cost to replace those workforces. Amounts
+allocated to developed technology, workforce and goodwill are being amortized on
+a straight-line basis, generally over four to five-year periods.
+
+     The amounts allocated to purchased research and development were determined
+through established valuation techniques in the high-technology industry and
+were expensed upon acquisition, because technological feasibility had not been
+established and no future alternative uses existed. Research and development
+costs to bring the products from the acquired companies to technological
+feasibility are not expected to have a material impact on the Company's future
+results of operations or cash flows.
+
+     In fiscal 1999, the Company acquired Gambit, a privately held provider of
+place and route software and physical design services, Stanza, a privately held
+company with physical layout editor expertise and technology, Smartech, a
+privately held design services firm with expertise in the design of wireless
+communication devices and the rights to CoverMeter, a Verilog code coverage
+tool, from Advanced Technology Center of Massachusetts. The Company also
+completed the acquisition of Apteq which has an expertise in analog simulation
+and Verilog-A product.
+
+     In fiscal 1998, the Company acquired SSI, a developer of tools for
+electronic design verification and test, and two small privately held companies
+in the EDA industry. The acquisitions were accounted for as purchases with the
+Company exchanging a combination of cash of $26.0 million and notes of $12.0
+million. In addition, the Company reserved approximately 318,000 shares of its
+common stock for issuance under SSI's stock option plan, which the Company
+assumed in the acquisition. The total purchase price of $51.3 million was
+allocated to the acquired assets and liabilities based on their estimated fair
+values as of the date of the acquisition. Approximately $33.1 million was
+allocated to in-process research and development and other costs
+
+
+                                 SYNOPSYS, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+and charged to operations because the acquired technology had not reached
+technological feasibility and had no alternative uses.
+
+     A summary of the Company's purchase transactions that included in-process
+research and development charges, if any, is included in the following table:
+
+
+
+NOTE 3. FINANCIAL INSTRUMENTS
+
+     Cash equivalents and investments. All cash equivalents, short-term
+investments, and non-current investments have been classified as
+available-for-sale securities and consist of the following:
+
+
+
+
+                                 SYNOPSYS, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+
+     The associated tax expense for unrealized gains was $3.7 million, $2.2
+million and $5.2 million in fiscal 1999, 1998 and 1997, respectively. The
+associated tax benefit for reclassification adjustment was $6.4 million, $5.1
+million and $2.4 million in fiscal 1999, 1998 and 1997, respectively.
+
+     Short-term investments include tax-exempt municipal obligations which have
+underlying maturities of less than one year or contain put options that are
+either supported by a letter of credit from a top-rated bank or insurance
+company or are over-collateralized for redemption at par at the reset date.
+Therefore, the underlying maturity for certain items may exceed one year. At
+September 30, 1999, the underlying maturities of the short-term investments are
+$389.6 million within one year, $14.9 million within five to ten years and
+$197.2 million after ten years.
+
+     At September 30, 1999, $182.8 million and $418.9 million are classified as
+cash equivalents and short-term investments, respectively. At September 30,
+1998, $61.5 million and $440.1 million are classified as cash equivalents and
+short-term investments, respectively. Realized gains and losses on sales of
+short-term investments have not been material. During fiscal 1999 and 1998, the
+Company realized gains on sales of long term investments of $19.6 million and
+$13.9 million, which are included in other income, net.
+
+     Strategic investments. In May 1996, the Company purchased 1,207,000 shares,
+approximately 9.9 percent of the outstanding shares of Cooper and Chyan
+Technology, Inc. (CCT), for $14.50 per share, pursuant to a strategic
+relationship between the companies. In April 1997, the Company purchased an
+additional 86,000 shares for $15.00 per share and the investment was classified
+as available-for-sale. In May 1997, CCT and Cadence consummated a merger,
+whereby each share of CCT was converted to 0.85 shares of Cadence stock.
+
+     In June 1997, the Company, through the sale of Arkos Design, Inc. ("Arkos")
+acquired $9.5 million of Quickturn warrants and common stock. In May 1999,
+Quickturn and Cadence consummated a merger, whereby each share of Quickturn was
+converted into 1.27 shares of Cadence stock. At the time of the conversion, the
+Company recognized a realized loss of $0.3 million, which is included in other
+income, net. As of September 30, 1999, the Company owns 2,335,190 shares of
+Cadence stock.
+
+
+                                 SYNOPSYS, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+     The Company entered into a put and call contract in the fourth quarter of
+fiscal 1998 for the sale of 425,000 Cadence shares with prices and expiration
+dates as follows:
+
+
+
+     As of September 30, 1999, the fair market value of the puts and calls,
+based on a quoted market price of $13.44, was $11.0 million, which has been
+recorded in unrealized gains on investments in the stockholders' equity as a
+component of accumulated other comprehensive income.
+
+     During fiscal 1998, the Company had an investment in Artisan Components
+(Artisan) of 594,300 shares. The Company entered into a forward contract for the
+sale of its Artisan shares which expired in fiscal 1999. During fiscal 1999, the
+Company realized gains on the sale of its Artisan shares of $7.9 million, which
+is included in other income.
+
+     Foreign exchange hedging. The Company has two foreign exchange lines of
+credit available totaling $120.0 million, which expire in July and October 2000.
+The Company had $45.0 million of short-term foreign exchange forward contracts
+outstanding which approximated the fair value of such contracts and their
+underlying transactions at September 30, 1999. These contracts are denominated
+in Japanese, Italian, German, French and British currencies. The outstanding
+forward contracts have maturities that expire in approximately one month. The
+gains and losses on forward exchange contracts are included in earnings when the
+underlying foreign currency denominated transaction is recognized. Gains and
+losses related to these instruments at September 30, 1999 were not material. In
+addition, the Company has not terminated or extinguished any foreign exchange
+forward contracts. The Company does not anticipate any material adverse effect
+on its consolidated financial position, results of operations, or cash flows
+resulting from the use of these instruments.
+
+     Long-term debt. During fiscal 1999, in connection with the acquisition of
+Apteq, the Company issued $0.6 million in notes, which bear interest at 5.0%,
+and are payable upon the earlier of achievement of certain milestones or at
+maturity in fiscal 2006. The note was recorded at fair value of $0.6 million,
+using a discount rate commensurate with the risks involved. As of September 30,
+1999, the note had a balance of $0.6 million, all of which is included in
+long-term debt.
+
+     During fiscal 1999, in connection with the acquisition of Gambit, the
+Company issued $8.0 million in notes, which bear interest at the U.S. Treasury
+T-bill Rate at set quarterly periods, and are payable upon the earlier of
+achievement of certain milestones or at maturity in fiscal 2006. The notes were
+recorded at fair value of $8.0 million, using a discount rate commensurate with
+the risks involved. As of September 30, 1999, the notes had a balance of $8.0
+million, of which $4.8 million is included in long-term debt.
+
+     During fiscal 1996, the Company and IBM entered into a six-year Joint
+Development and License Agreement Concerning EDA Software and Related
+Intellectual Property (the IBM Agreement). In accordance with the IBM Agreement,
+the Company paid IBM $11.0 million in cash and issued $30.0 million in notes,
+which bear interest at 3%, and are payable to IBM upon the earlier achievement
+of scheduled milestones or at maturity in fiscal 2006. During fiscal 1998, the
+Company recorded an extraordinary gain on extinguishment of debt of $1.9
+million, net of income tax expense of $1.0 million, related to the cancellation
+of certain interest bearing notes issued by the Company to IBM. During fiscal
+1999, the Company settled the remaining balance of the long-term debt related to
+the modified IBM Joint and Development and License Agreement and dissolved the
+original agreement which resulted in no extraordinary gain.
+
+     The fair value of the Company's long-term debt approximates the carrying
+amount.
+
+
+                                 SYNOPSYS, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 4. COMMITMENTS AND CONTINGENCIES
+
+     The Company leases its domestic and international facilities under
+cancelable, non-cancelable and month-to-month operating leases and certain
+office equipment under operating leases. Rent expense was $23.5 million, $25.5
+million and $25.2 million in 1999, 1998 and 1997, respectively.
+
+     Future minimum lease payments as of September 30, 1999 are as follows:
+
+(in thousands)
+
+
+
+NOTE 5. STOCKHOLDERS' EQUITY
+
+     Stock Repurchase Program. In June 1999, the Board of Directors authorized a
+stock repurchase program under which Synopsys' common stock with a market value
+of up to $200.0 million may be acquired in the open market over a seven month
+period. The repurchased shares are to be used for the issuance of Synopsys'
+employee stock plans and for other corporate purposes. During fiscal 1999, the
+Company purchased 1,680,000 shares at an average price of $56.76 per share.
+
+     In July 1998, the Board of Directors authorized the repurchase of up to
+3,250,000 shares of the Company's outstanding common stock in the open market
+over the following 24 months. The repurchased shares were to be used for
+issuance under the Company's employee stock plans and for other corporate
+purposes. During fiscal 1998, the Company purchased approximately 353,000 shares
+at an average price of $35.00. In October 1998, the Company announced that it
+had rescinded the stock repurchase program to comply with pooling-of-interests
+accounting guidance provided in the SEC SAB No. 96 (See Note 2).
+
+     Preferred Shares Rights Plan. The Company has adopted a number of
+provisions that could have anti-takeover effects. In September 1997, the Board
+of Directors adopted a Preferred Shares Rights Plan. In addition, the Board of
+Directors has the authority, without further action by its shareholders, to fix
+the rights and preferences and issue shares of, authorized but undesignated
+shares of Preferred Stock. This provision and other provisions of the Company's
+Restated Certificate of Incorporation and Bylaws and the Delaware General
+Corporation Law may have the effect of deterring hostile takeovers or delaying
+or preventing changes in control or management of the Company, including
+transactions in which the shareholders of the Company might otherwise receive a
+premium for their shares over then current market prices. The rights expire on
+October 24, 2007.
+
+     Employee Stock Purchase Plan. Under the Company's 1992 Employee Stock
+Purchase Plan (ESPP) 4,650,000 shares have been authorized for issuance as of
+September 30, 1999. Under the ESPP, employees are granted the right to purchase
+shares of common stock at a price per share that is 85% of the lesser of: the
+fair market value of the shares at (i) the beginning of a rolling two-year
+offering period, or (ii) the end of each semi-annual purchase period. During
+fiscal 1999, 1998 and 1997, shares totaling 460,438, 433,036 and 457,877,
+respectively, were issued under the plan at average prices of $31.73, $27.61 and
+$26.96 per share, respectively. As of September 30, 1999, 2,418,983 shares of
+common stock are reserved for the ESPP.
+
+
+                                 SYNOPSYS, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+     Stock Option Plans. Under the Company's 1992 Stock Option Plan (the 1992
+Plan), the Board of Directors may grant either incentive or non-qualified stock
+options to purchase shares of the Company's stock to eligible individuals at not
+less than 100% of the fair market value of those shares on the grant date. The
+stock options issued to new employees typically vest 25% after one year with the
+remaining options vesting on a pro rata basis over the following 36 months,
+while stock options issued to existing employees typically vest on a pro rata
+basis over 48 months. Stock options expire ten years from the date of grant. As
+of September 30, 1999, 3,940,615 shares of common stock are reserved for future
+grants.
+
+     Under the Company's Non-Statutory Stock Option Plan (the 1998 Plan),
+3,116,736 shares of common stock have been reserved for issuance for granting of
+non-qualified stock options to employees excluding officers and directors.
+Exercisability, option price and other terms are determined by the Board of
+Directors, but the option price shall not be less than the fair value of the
+stock at the date of grant. Stock options currently expire no later than ten
+years and generally vest at the rate of 25% after one year from the date of
+grant, and then ratably over the following 36 months. At September 30, 1999,
+345,980 shares of common stock are reserved for future grants.
+
+     Under the Company's 1994 Non-Employee Directors Stock Option Plan (the
+Directors Plan), a total of 300,000 shares have been reserved for issuance.
+Pursuant to the Directors Plan, each non-employee member of the Board of
+Directors is automatically granted an option to purchase 20,000 shares of the
+Company's common stock upon initial appointment or election to the Board, 10,000
+shares of the Company's common stock upon reelection to the Board, and 5,000
+shares of the Company's common stock annually for service on Board committees,
+subject to a limit of two committee-service grants per year. Stock options are
+granted at not less than 100% of the fair market value of those shares on the
+grant date. Stock options granted upon appointment or election to the Board vest
+25% annually after one year from the date of grant, and then ratably over the
+following 36 months. Stock options granted upon reelection to the Board and
+committee-service grants vest 100% after the first year of continuous service.
+As of September 30, 1999, 9,334 shares of common stock are reserved for future
+grants.
+
+     The Company has assumed certain option plans in connection with business
+combinations (See Note 2). Generally, these options were granted under terms
+similar to the terms of the Company's stock option plans at prices adjusted to
+reflect the relative exchange ratios. All assumed plans were terminated as to
+future grants upon completion of each of the business combinations.
+
+
+                                 SYNOPSYS, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+     Additional information concerning stock option activity under the various
+plans is as follows:
+
+
+
+     The following table summarizes information about stock options outstanding
+at September 30, 1999:
+
+
+
+     Stock-Based Compensation. Under APB 25, the Company generally recognizes no
+compensation expense with respect to stock-based awards to employees. Pro forma
+information regarding net income and net income per share is required by SFAS
+No. 123 for awards granted after September 30, 1995, as if the Company had
+accounted for its stock-based awards to employees under the fair value method of
+SFAS No. 123. The weighted-average estimated fair value of stock options issued
+during fiscal 1999, 1998 and 1997 was $22.88, $20.32 and $12.87 per share,
+respectively. The weighted-average estimated fair value of shares granted under
+the ESPP during fiscal 1999, 1998 and 1997 was $13.76, $11.70 and $10.74 per
+share, respectively. The fair value method of the Company's stock-based awards
+to employees was estimated using the Black-Scholes option pricing model. The
+fair value of the Company's stock-based awards to employees
+
+
+                                 SYNOPSYS, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+was estimated assuming no expected dividends and the following weighted-average
+assumptions, for fiscal 1999, 1998 and 1997:
+
+
+
+
+
+     For pro forma purposes, the estimated fair value of the Company's
+stock-based awards to employees is generally amortized over the options' vesting
+period of four years (for options) and the six-month purchase period (for stock
+purchases under the ESPP). The Company's pro forma net income and earnings per
+share data, under SFAS No. 123 is as follows:
+
+
+
+NOTE 6. INCOME TAXES
+
+     The Company is entitled to a deduction for federal and state tax purposes
+with respect to employees' stock option activity. The net reduction in taxes
+otherwise payable arising from that deduction has been credited to additional
+paid-in capital.
+
+     The components of the Company's total income before provision for income
+taxes are as follows:
+
+
+
+
+                                 SYNOPSYS, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+     The components of the provision for income taxes are as follows:
+
+
+
+     The provision for income taxes differs from the amount obtained by applying
+the statutory federal income tax rate to income before income taxes as follows:
+
+
+
+
+                                 SYNOPSYS, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+     A net deferred tax asset of $35.6 million and $30.5 million is included in
+prepaid expenses, deferred taxes, and other at September 30, 1999 and 1998,
+respectively. The tax effects of temporary differences and carryforwards which
+give rise to significant portions of the deferred tax assets and liabilities are
+as follows:
+
+
+
+     At September 30, 1999, the Company believes that it is more likely than not
+that the results of future operations will generate sufficient taxable income to
+realize the deferred tax assets.
+
+NOTE 7. SEGMENT DISCLOSURE
+
+     In 1999, Synopsys adopted SFAS No. 131, Disclosures about Segments of an
+Enterprise and Related Information. SFAS No. 131 requires disclosures of certain
+information regarding operating segments, products and services, geographic
+areas of operation and major customers. The method for determining what
+information to report under SFAS No. 131 is based upon the "management
+approach," or the way that management organizes the operating segments within a
+company, for which separate financial information is available that is evaluated
+regularly by the Chief Operating Decision Maker (CODM) in deciding how to
+allocate resources and in assessing performance. Synopsys' CODM is the Chief
+Executive Officer and Chief Operating Officer.
+
+     The Company provides comprehensive design technology products and
+consulting services in the electronic design automation software industry. The
+CODM evaluates the performance of the Company based on profit or loss from
+operations before income taxes not including merger-related costs, in-process
+research and development and amortization of intangible assets. For the purpose
+of making operating decisions the CODM primarily considers financial information
+presented on a consolidated basis accompanied by disaggregated information about
+revenues by geographic region. There are no differences between the accounting
+policies used to measure profit and loss for the Company segment and those used
+on a consolidated basis. Revenue is defined as revenues from external customers.
+
+
+                                 SYNOPSYS, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+     The disaggregated financial information reviewed by the CODM is as follows:
+
+
+
+Reconciliation of the Company's segment profit and loss to the Company's income
+before provision for income taxes is as follows:
+
+
+
+     Direct contribution margin is the difference between gross margin and the
+direct costs of developing and supporting Synopsys products and services. The
+direct costs include all costs associated with developing, maintaining, and
+marketing the software products and services of each business unit.
+
+     Indirect spending are all costs necessary to support the Company's products
+and services other than direct costs. This includes all other spending necessary
+to support the Companies product and service offerings, which includes but is
+not limited to selling costs, administrative costs, material costs, advanced
+research and development, infrastructure and facilities costs, communications
+costs, and other related support activities necessary to operate Synopsys as an
+ongoing concern.
+
+
+                                 SYNOPSYS, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+     Revenue and long-lived assets related to operations in United States and
+other geographic areas are as follows:
+
+
+
+     Transfers between geographic areas represent both intercompany product and
+service revenue accounted for at prices representative of unaffiliated party
+transactions and export shipments directly to customers. Corporate assets
+consist primarily of cash and investments. No one customer accounted for more
+than ten percent of the Company's consolidated revenue in fiscal 1999, 1998 and
+1997, respectively.
+
+
+                                 SYNOPSYS, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+NOTE 8. SELECTED QUARTERLY DATA (UNAUDITED)
+
+
+
+- ---------------
+(1) The Company's common stock is traded on The Nasdaq Stock Market under the
+    symbol "SNPS." The stock prices shown represent quotations among dealers
+    without adjustments for retail markups, markdowns or commissions and may not
+    represent actual transactions. As of September 30, 1999, there were
+    approximately 520 shareholders of record. To date, the Company has paid no
+    cash dividends on its capital stock, and has no current intention to do so.
+
+(2) Includes merger-related and other costs of $36.0 million, $11.9 million and
+    $3.1 million, for the first, second and third quarters of fiscal 1998,
+    respectively. Includes in-process research and development and other costs
+    of $4.2 million and $28.9 million in the first and fourth quarters of fiscal
+    1998, respectively.
+
+
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+
+     Not applicable.
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+     Information with respect to Directors is included under the caption
+"Proposal One -- Election of Directors" in Synopsys' Notice of Annual Meeting
+and Proxy Statement for Synopsys' annual meeting of stockholders to be held on
+March 3, 2000 (the "Proxy Statement") and is incorporated herein by reference.
+Information with respect to Executive Officers is included under the heading
+"Executive Officers of the Company" in Part I hereof after Item 4.
+
+     Information regarding delinquent filers pursuant to Item 405 of Regulation
+S-K is included under the heading "Section 16(a) Beneficial Ownership Reporting
+Compliance" under the caption "Additional Information" in the Proxy Statement
+and is incorporated herein by reference.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+     The information required by this item is included under the heading
+"Executive Compensation" under the caption "Proposal One -- Election of
+Directors" in the Proxy Statement and is incorporated herein by reference.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+     The information required by this item is included under the heading
+"Security Ownership of Certain Beneficial Owners and Management" under the
+caption "Proposal One -- Election of Directors" in the Proxy Statement and is
+incorporated herein by reference.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     The information required by this item is included under the caption
+"Proposal One -- Election of Directors" in the Proxy Statement and is
+incorporated herein by reference.
+
+                                    PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENTS, SCHEDULES AND REPORTS ON FORM 8-K
+
+(a) The following documents are filed as part of this Annual Report on Form
+10-K:
+
+1. FINANCIAL STATEMENTS
+
+     The following documents are included as Part II, Item 8, of this Annual
+Report on Form 10-K:
+
+
+
+
+
+2. FINANCIAL STATEMENT SCHEDULE
+
+     The following schedule of the Company is included herein:
+
+     Valuation and Qualifying Accounts and Reserves (Schedule II)
+
+     All other schedules are omitted because they are not applicable or the
+amounts are immaterial or the required information is presented in the
+consolidated financial statements or notes thereto.
+
+     The following documents are included in Exhibit 23 hereto:
+
+
+
+3. EXHIBITS
+
+     See Item 14(c) below.
+
+(b) REPORTS ON FORM 8-K
+
+     Report on Form 8-K, filed on July 23, 1999 for the purpose of filing the
+Company's press release announcing its financial results for the quarter and
+nine months ended July 3, 1999, including condensed consolidated statements of
+income and balance sheets, and reporting a change in the Company's fiscal year
+end.
+
+     Report on Form 8-K, filed on October 28, 1999 for the purpose of filing the
+Company's press release announcing its financial results for the quarter and
+fiscal year ended October 2, 1999, including condensed consolidated statements
+of income and balance sheets.
+
+(c) EXHIBITS
+
+
+
+
+
+
+
+- ---------------
+ (1) Incorporated by reference to Annex A to the form of prospectus contained in
+     the Registration Statement on Form S-4 (File No. 333-39713) of Synopsys,
+     Inc. as filed with the Securities and Exchange Commission on November 7,
+
+ (2) Incorporated by reference from exhibit to the Company's Quarterly Report on
+     Form 10-Q for the quarterly period ended April 3, 1999
+
+ (3) Incorporated by reference from exhibit to Amendment No. 1 to the Company's
+     Registration Statement on Form 8-A as filed with the Securities and
+     Exchange Commission on December 13, 1999
+
+ (4) Incorporated by reference from exhibit of the same number filed with the
+     Company's Registration Statement on Form S-1 (File No. 33-45138) which
+     became effective February 24, 1992
+
+
+
+ (5) Incorporated by reference from exhibit of the same number filed with the
+     Company's Annual Report on Form 10-K for the fiscal year ended September
+     30, 1992
+
+ (6) Incorporated by reference from exhibit of the same number filed with the
+     Company's Annual Report on Form 10-K for the fiscal year ended September
+     30, 1993
+
+ (7) Incorporated by reference from exhibit of the same number filed with the
+     Company's Annual Report on Form 10-K for the fiscal year ended September
+     30, 1995
+
+ (8) Incorporated by reference from exhibit of the same number filed with the
+     Company's Quarterly Report on Form 10-Q for the quarterly period ended
+     December 31, 1995
+
+ (9) Incorporated by reference from exhibit of the same number filed with the
+     Company's Quarterly Report on Form 10-Q for the quarterly period ended
+     March 31, 1996
+
+(10) Incorporated by reference from exhibit to the Company's Registration
+     Statement on Form S-8 (file No. 333-77597), as filed with the Securities
+     and Exchange Commission on May 3, 1999
+
+(11) Compensatory plan or agreement in which an executive officer participates
+
+(12) Incorporated by reference from exhibit to the Registration Statement on
+     Form S-4 (File No. 333-21129) of Synopsys, Inc. as filed with the
+     Securities and Exchange Commission on February 5, 1997
+
+(13) Incorporated by reference from exhibit to the Company's Quarterly Report on
+     Form 10-Q for the quarterly period ended January 3, 1998
+
+(14) Incorporated by reference to exhibit to the Company's Registration
+     Statement on Form S-8 (File No. 333-90643) as filed with the Securities and
+     Exchange Commission on November 9, 1999
+
+
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized, in Mountain View,
+State of California, on this day of December 22, 1999.
+
+                                          SYNOPSYS, INC.
+
+                                          By /s/     AART J. DE GEUS
+                                            ------------------------------------
+                                            Aart J. de Geus
+                                            Chief Executive Officer and Chairman
+                                             of the Board of Directors
+                                            (Principal Executive Officer)
+
+                                          By /s/     DAVID SUGISHITA
+                                            ------------------------------------
+                                            David Sugishita
+                                            Senior Vice President, Finance and
+                                             Operations, and
+                                            Chief Financial Officer
+                                            (Principal Financial and Accounting
+                                             Officer)
+
+                               POWER OF ATTORNEY
+
+     KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature
+appears below constitutes and appoints Aart J. de Geus and David Sugishita, and
+each of them, as his true and lawful attorneys-in-fact and agents, with full
+power of substitution and resubstitution, for him and in his name, place and
+stead, in any and all capacities, to sign any and all amendments (including
+post-effective amendments) to this Report on Form 10-K, and to file the same,
+with all exhibits thereto, and other documents in connection therewith, with the
+Securities and Exchange Commission, granting unto said attorneys-in-fact and
+agents, and each of them, full power and authority to do and perform each and
+every act and thing requisite and necessary to be done in connection therewith,
+as fully to all intents and purposes as he might or could do in person, hereby
+ratifying and confirming all that said attorneys-in-fact and agents, or any of
+them, or their or his substitute or substitutes, may lawfully do or cause to be
+done by virtue hereof. Pursuant to the requirements of the Securities Exchange
+Act of 1934, this report has been signed below by the following persons on
+behalf of the registrant and in the capacities and on the dates indicated:
+
+
+
+
+
+
+
+
+
+                                  SCHEDULE II
+
+                                 SYNOPSYS, INC.
+                            ------------------------
+
+                 VALUATION AND QUALIFYING ACCOUNTS AND RESERVES
+                                 (IN THOUSANDS)
+
+
+
+- ---------------
+(1) Includes $830 charged to other income in fiscal 1997.
+
+(2) Fiscal 1998 includes a $2,049 reduction due to the sale of Viewlogic
+    Systems, Inc. Other amounts are translation and other adjustments.
+
+(3) Accounts written off, net of recoveries.
+
+
+                                 EXHIBIT INDEX
+
+
+
+
+
+
+- ---------------
+ (1) Incorporated by reference to Annex A to the form of prospectus contained in
+     the Registration Statement on Form S-4 (File No. 333-39713) of Synopsys,
+     Inc. as filed with the Securities and Exchange Commission on November 7,
+
+ (2) Incorporated by reference from exhibit to the Company's Quarterly Report on
+     Form 10-Q for the quarterly period ended April 3, 1999
+
+ (3) Incorporated by reference from exhibit to Amendment No. 1 to the Company's
+     Registration Statement on Form 8-A as filed with the Securities and
+     Exchange Commission on December 13, 1999
+
+ (4) Incorporated by reference from exhibit of the same number filed with the
+     Company's Registration Statement on Form S-1 (File No. 33-45138) which
+     became effective February 24, 1992
+
+ (5) Incorporated by reference from exhibit of the same number filed with the
+     Company's Annual Report on Form 10-K for the fiscal year ended September
+     30, 1992
+
+ (6) Incorporated by reference from exhibit of the same number filed with the
+     Company's Annual Report on Form 10-K for the fiscal year ended September
+     30, 1993
+
+ (7) Incorporated by reference from exhibit of the same number filed with the
+     Company's Annual Report on Form 10-K for the fiscal year ended September
+     30, 1995
+
+ (8) Incorporated by reference from exhibit of the same number filed with the
+     Company's Quarterly Report on Form 10-Q for the quarterly period ended
+     December 31, 1995
+
+ (9) Incorporated by reference from exhibit of the same number filed with the
+     Company's Quarterly Report on Form 10-Q for the quarterly period ended
+     March 31, 1996
+
+(10) Incorporated by reference from exhibit to the Company's Registration
+     Statement on Form S-8 (file No. 333-77597), as filed with the Securities
+     and Exchange Commission on May 3, 1999
+
+(11) Compensatory plan or agreement in which an executive officer participates
+
+(12) Incorporated by reference from exhibit to the Registration Statement on
+     Form S-4 (File No. 333-21129) of Synopsys, Inc. as filed with the
+     Securities and Exchange Commission on February 5, 1997
+
+(13) Incorporated by reference from exhibit to the Company's Quarterly Report on
+     Form 10-Q for the quarterly period ended January 3, 1998
+
+(14) Incorporated by reference to exhibit to the Company's Registration
+     Statement on Form S-8 (File No. 333-90643) as filed with the Securities and
+     Exchange Commission on November 9, 1999
+

@@ -1,0 +1,1042 @@
+
+10-K
+FORM 10-K FOR PERIOD ENDING JULY 26, 1997
+
+
+
+
+
+                                    FORM 10-K
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+(Mark one)
+[X] Annual report pursuant to Section 13 or 15(d) of the Securities
+    Exchange Act of 1934 For the fiscal year ended July 26,1997
+
+[ ] Transition report pursuant to Section 13 or 15(d) of the Securities
+    Exchange Act of 1934 For the transition period from ________ to ________
+    Commission file number 0-18225
+
+                               CISCO SYSTEMS, INC.
+             (Exact name of registrant as specified in its charter)
+
+          California                                            77-0059951
+- -------------------------------                            --------------------
+(State or other jurisdiction of                               (IRS Employer
+incorporation or organization)                              Identification No.)
+
+   170 West Tasman Drive
+   San Jose, California                                            95134
+- -------------------------------                            --------------------
+(Address of principal executive offices)                         (Zip Code) 
+
+Registrant's telephone number, including area code (408) 526-4000 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                                           Name of each exchange
+ Title of each class                                        on which registered
+ -------------------                                        -------------------
+
+        None                                              Nasdaq National Market
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                                  Common Stock
+- --------------------------------------------------------------------------------
+                                (Title of class)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+                              Yes   X    No
+                                  -----    -----
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained to the best
+of Registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.
+
+                                       [ ]
+
+As of September 15, 1997, the approximate aggregate market value of voting stock
+held by non-affiliates of the registrant was $46,175,832,500 (based upon the
+closing price for shares of the Registrant's Common Stock as reported by the
+National Market System of the National Association of Securities Dealers
+Automated Quotation System on that date). Shares of Common Stock held by each
+officer, director, and holder of 5% or more of the outstanding Common Stock have
+been excluded in that such persons may be deemed to be affiliates. This
+determination of affiliate status is not necessarily a conclusive determination
+for other purposes. As of September 15, 1997, 672,119,249 shares of registrant's
+common stock were outstanding.
+
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+(1)     Portions of Annual Report to Shareholders for fiscal year ended July 26,
+        1997.
+
+(2)     Portions of the Registrant's Proxy Statement related to the 1997 Annual
+        Meeting of Shareholders, to be held on November 13, 1997, are
+        incorporated by reference into Part III of this Annual Report on 10-K
+        where indicated.
+
+      The table of exhibits filed appears at page 23.
+
+
+
+
+
+                                     PART I
+
+ITEM 1.  BUSINESS
+
+GENERAL
+
+Certain Statements contained in this Annual Report on Form 10-K, including,
+without limitation, statements containing the words "believes", "anticipates",
+"estimates", "expects", and words of similar import, constitute forward looking
+statements within the meaning of the Private Securities Litigation Reform Act of
+1995. Readers are referred to the "Financial Risk Management" and "Future Growth
+Subject to Risks" sections, of Cisco System Inc.'s 1997 Annual Report to
+Shareholders, which is hereby incorporated by reference, as well as the
+"Acquisition, Investment and Alliances", "Competition", "Research and
+Development", "Manufacturing", "Patents, Intellectual Property and Licensing"
+and "Other Risk Factors" sections contained herein, which identify important
+risk factors that could cause actual results to differ from those contained in
+the forward looking statements.
+
+Cisco Systems, Inc. and its subsidiaries ("Cisco", or the "Company") operate in
+one industry segment providing networking solutions that connect computing
+devices and computer networks. These allow people to access or transfer
+information without regard to differences in time, place or type of computer
+system.
+
+Networking is a multi-billion dollar global market whose growth is spurred by
+the increasingly critical role that electronic information plays in almost every
+facet of life today. While computer networking for many years has been a highly
+complex science employed primarily by large enterprises, the growth in use of
+the global Internet has proved beneficial to organizations of all sizes, as well
+as individuals, worldwide.
+
+The Company markets its products through its direct sales force, distributors,
+value-added resellers and system integrators. This multiple-channel approach
+allows customers to select the channel that addresses their specific needs and
+provides the Company with broad coverage of worldwide markets.
+
+Cisco was incorporated in California in December 1984. The Company's executive
+offices are located at 170 West Tasman Drive, San Jose, California 95134, and
+its telephone number at that location is (408)526-4000.
+
+END-TO-END NETWORKING SOLUTIONS
+
+Cisco's strategy is to provide end-to-end networking solutions that customers
+can use to a) build a unified information infrastructure of their own, or b) to
+connect to someone else's network. An end-to-end networking solution provides a
+common technical architecture that allows network services to be consistently
+provided to all users on the network.
+
+Cisco's products are used individually or in combination to connect computing
+devices to networks, or computer networks with each other - whether they are
+within a building, across a campus or around the world. The Company's breadth of
+product offerings enables it to configure 
+
+
+
+
+
+hardware and software features to match customer needs. Many of the Company's
+products are expandable, offering customers the option to upgrade their networks
+as their needs grow.
+
+Cisco's product offerings fall into several categories:
+
+Routing
+
+Routing is a foundation technology for computer communications. Routers move
+information from one network to another, applying intelligence in the process to
+ensure that the information reaches its destination securely and in the fastest
+way possible. Cisco offers a broad range of routers, including the Cisco 7000,
+4000, 2500 and 1000 families, as well as the recently introduced Cisco 12000, or
+Gigabit Switch Router (GSR).
+
+Switching
+
+Switching is another important networking technology, used in both local-area
+networks (LANs) and wide-area networks (WANs). Cisco's switching solutions
+employ all widely used switching technologies -- Ethernet, Token Ring and
+Asynchronous Transfer Mode (ATM). Cisco's LAN switching products are contained
+in the Catalyst(TM) family. WAN switching products include the Cisco
+StrataCom(R) IGX and BPX families, and the Cisco 3800 series.
+
+Access
+
+Computing and communications today are conducted in many locations, not just at
+a company's head office. Cisco's access solutions give groups and individuals
+who are remotely located the same level of connectivity and information access
+they would have if they were located at the company's head office. Asynchronous
+and ISDN remote-access routers and dial-up access servers are used for
+supporting telecommuters and mobile workers, for Internet access and
+branch-office connectivity. The Company's access products include the AS5000
+family of access servers; access routers such as the Cisco 4000, 2500, and 1000
+families, as well as network security and management software.
+
+SNA/LAN
+
+Most large organizations have existing IBM computing systems that use the System
+Network Architecture (SNA) networking method, as well as LANs based on open
+network architectures (such as the TCP/IP protocol). Network managers with both
+types of networks increasingly want to combine them into a single network that
+leverages existing investments. The Company's CiscoBlue strategy provides a
+roadmap for consolidating and managing SNA and non-SNA networks. It also enables
+an IBM data center to be used in Internet/intranet applications.
+
+Internet Appliances and Software
+
+Cisco offers products that improve a network manager's ability to cope with a
+number of challenges posed by the growing popularity of the Internet, such as
+security, network traffic volume, and network address shortage. These products
+include: the PIX Firewall, which prevents unauthorized access to a network; the
+Micro Webserver, which facilitates the set up of Web sites; IP/TV software,
+which transmits audio and video to desktop PCs; IPeXchange Internet Gateways,
+which are designed to provide Novell NetWare customers in small and medium-sized
+businesses with easy and secure connectivity to the Internet; and LocalDirector
+and 
+
+
+
+
+
+Distributed Director, which balance the load between multiple servers to enable
+timely access and response to requests.
+
+Cisco IOS Software
+
+Cisco Internetwork Operating System (Cisco IOS(TM)) is the common platform that
+transforms a network into a strategic asset and competitive advantage. Cisco IOS
+technologies include a wide variety of features that provide the intelligence of
+the Internet and of private networks. They are the unifying thread that connects
+otherwise disparate hardware to build a seamless, efficient infrastructure which
+facilitates network growth and the deployment of new applications, which in turn
+enhances reliability, and interoperability, and lowers the cost of ownership.
+
+The Cisco IOS software platform provides important network services and enables
+networked applications. Cisco IOS network services fall into two categories.
+Foundation Network Services are the building blocks of a robust network. They
+include connectivity, security, scalability, reliability and management.
+Enabling Network Services support the deployment of applications that take
+advantage of the underlying network. Enabling Network services include such
+areas as multimedia, quality of service(a network management and optimization
+service) and voice.
+
+Network Management
+
+Cisco provides applications that centralize management, automate routine tasks,
+and can be integrated into customers' existing network management environments.
+The CiscoWorks software is a suite of standards-based applications that allow
+users to manage their Cisco devices from a single integrated console. Cisco
+Enterprise Accounting is a new family of powerful and easy-to-use enterprise
+network management accounting and billing applications that help manage and
+control the cost of owning corporate networks and Internet access. The NETSYS
+Enterprise/Solver family of network intelligent management tools aids in
+troubleshooting, managing, and network planning.
+
+CUSTOMERS AND MARKETS
+
+Networking needs are influenced by a number of factors, including the size of
+the organization, number and types of computer systems, geographic locations,
+and the applications requiring data communications. Cisco's customer base is not
+concentrated in any particular industry and in each of the past five fiscal
+years no single customer has accounted for ten percent or more of the Company's
+net sales. For additional information regarding the Company's customers and
+markets see Note 11, "Geographic Information and Major Customers," on page 49 of
+the Company's 1997 Annual Report to Shareholders, which is incorporated by
+reference herein.
+
+Cisco's market strategy addresses three customer profiles:
+
+Enterprise
+
+Enterprise customers generally are large organizations with complex networking
+needs, usually spanning multiple locations and types of computer systems.
+Enterprise customers include corporations, government agencies, utilities and
+educational institutions.
+
+
+
+
+Service Providers
+
+These customers provide data communication services, including telecommunication
+carriers, Internet Service Providers, cable companies, and wireless
+communication providers.
+
+Small/Medium Business
+
+These customers have a need for data networks of their own, as well as
+connection to the Internet and/or to business partners. However, these customers
+generally have limited resources; therefore, the Company attempts to provide
+products which are affordable as well as easy to install and use.
+
+The Company's worldwide direct sales organization at September 20, 1997
+consisted of approximately 3,500 individuals, including managers, sales
+representatives, and technical support personnel. The Company has approximately
+105 U.S. field sales offices providing coverage in the following metropolitan
+areas: Atlanta, Boston, Chicago, Cincinnati, Cleveland, Dallas, Denver, Durham,
+Honolulu, Houston, Indianapolis, Los Angeles, Miami, New Orleans, New York,
+Orlando, Phoenix, Pittsburgh, Portland (Oregon), Princeton, Salt Lake City, San
+Antonio, San Diego, San Francisco, San Jose, Seattle, St. Louis, and Washington,
+D.C., among others.
+
+The Company's international sales are currently being made through multiple
+channels including approximately 90 international distributors and resellers
+throughout the world. These international distributors provide system
+installation, technical support, and follow-up services to end-customers.
+Generally, the Company's international distributors have nonexclusive,
+country-wide agreements. International sales through the various channels,
+including the Company's subsidiaries, accounted for approximately 43.5% of total
+sales in fiscal 1997, 48.2% in fiscal 1996, and 41.7% in fiscal 1995. Sales to
+international customers and distributors generally have been made in United
+States dollars. During fiscal 1997, the Company established its European
+Operations Center (EOC). On an ongoing basis, substantially all European orders
+will be fulfilled from the EOC.
+
+The Company has sales support subsidiaries worldwide. New subsidiaries formed in
+fiscal 1997 include Greece, India, Israel, Poland, Taiwan, and Turkey.
+
+ACQUISITIONS, INVESTMENTS AND ALLIANCES
+
+The end-to-end strategy pursued by Cisco requires a wide variety of
+technologies, products and capabilities. Additionally, the pace of change in the
+industry is very rapid. The combination of complexity and rapid change make it
+difficult for one company, no matter how large, to develop all technological
+solutions alone. Acquisitions, investments and alliances are tools used by the
+Company to fill gaps in its offerings and enable it to deliver complete
+solutions to its customers and prospects in target markets. Satisfying
+customers' networking needs requires a constant monitoring of market and
+technology trends, plus an ability to act quickly. Cisco has a four-part
+approach to satisfy the need for new or enhanced networking products and
+solutions. In order of preference, this approach is to: develop new technologies
+and products internally; enter into joint-development efforts with other
+companies; resell another company's product; and acquire all or part of another
+company. Acquisitions involve numerous risks, including difficulties in
+assimilation of the operations, technologies, and products of the acquired
+companies; the risk of diverting management's attention from normal daily
+operations of the business; risks of entering markets in which the company has
+no or limited direct prior experience and where competitors in such markets have
+stronger market positions; and the potential loss of key employees of the
+acquired company. The company must also maintain its ability to manage any such
+growth effectively. Failure to manage growth effectively and successfully
+integrate acquisitions made by the company could adversely affect the Company's
+business and operating results.
+
+
+
+
+
+Since 1993, the Company has acquired a number of companies. The Company expects
+to make future acquisitions where it believes that it can acquire new products
+and channels of distribution or otherwise rapidly enter new or emerging markets.
+Mergers and acquisitions of high-technology companies are inherently risky, and
+no assurance can be given that the Company's previous or future acquisitions
+will be successful and will not adversely affect the Company's financial
+condition or results of operations.
+
+Each of the Company's acquisitions has furthered the Company's commitment to
+providing an end-to-end solution. The Company now has a broad set of product
+offerings and technologies, which include Ethernet, Token Ring, Asynchronous
+Transfer Mode (ATM) switching, Synchronous Optical Network/Synchronous Digit
+Hierarchy (SONET/SDH), xDSL, and also network management software solutions,
+among others.
+
+Minority Investments
+
+The Company makes minority investments in companies whose technologies or
+expertise appear strategic to Cisco's interests and merit monitoring, but where
+there is not yet a compelling need to have those capabilities in house.
+
+Strategic Alliances
+
+The Company pursues strategic alliances with other industry leaders in areas
+where collaboration can produce mutual benefits. The motivation for a strategic
+alliance can include: technology exchange, product development, joint marketing
+and sales, and new-market creation. Cisco has strategic alliances with
+Microsoft, Intel, Hewlett-Packard, GTE, and Alcatel, among others.
+
+BACKLOG
+
+The Company's backlog on September 20, 1997 was approximately $442.9 million
+compared with an approximate backlog of $292.3 million at September 21, 1996.
+The Company includes in its backlog only orders confirmed with a purchase order
+for products to be shipped within six months to customers with approved credit
+status. Because of the generally short cycle between order and shipment, and
+occasional customer changes in delivery schedules or cancellation of orders
+(which are made without significant penalty), the Company does not believe that
+its backlog, as of any particular date, is necessarily indicative of actual net
+sales for any future period.
+
+COMPETITION
+
+Cisco competes in the networking market, providing solutions for Internet,
+intranet, and extranet connectivity. The networking market is characterized by
+rapid growth, technological change, and a 
+
+
+
+
+
+convergence of technologies. These market factors represent both an opportunity
+and a competitive threat to Cisco. The Company competes with numerous vendors in
+each product category. Cisco expects that the overall number of vendors will
+increase in these markets due to its attractive growth opportunities.
+
+Cisco's traditional competitors include 3Com, Ascend, Bay Networks, Cabletron,
+Fore, and IBM. As the Company focuses on new market opportunities, such as
+transporting voice, video, and data traffic across the same network, it will
+increasingly compete with large telecommunications equipment suppliers such as
+Lucent, Ericsson and Nortel. Some of the Company's competitors compete across
+all of Cisco's product lines, while others do not offer as wide a breadth of
+networking solutions. Several of the Company's current and potential competitors
+have greater financial, marketing and technical resources than the Company.
+
+The principal competitive factors in the markets in which the Company presently
+competes and may compete in the future are: price; performance; the ability to
+provide end-to-end solutions and support; conformance to standards; the ability
+to provide added value features such as security, reliability, and investment
+protection; and market presence.
+
+The Company also faces competition from customers it licenses technology to and
+suppliers from whom it transfers technology. Networking's inherent nature is
+such that the Company must compete, and at the same time cooperate, with these
+companies. The Company's inability to effectively manage these complicated
+relationships with customers and suppliers could have a material adverse effect
+on the Company's business, operating results, and financial condition.
+
+RESEARCH AND DEVELOPMENT
+
+The Company is engaged in research and development efforts to develop customer
+solutions for each of its three primary lines of business: Enterprise, Service
+Provider, and Small/Medium Business. The Company focuses its product development
+activities on networking products that are responsive to customer requirements
+and that provide end-to-end networking solutions. The Company's research and
+development investments are made either internally or through acquisition, and
+in addition, the Company makes minority equity investments in early stage
+technology development entities.
+
+The Company has recently announced several new products, including the Gigabit
+Switch Router, known as the GSR12000, and the Company's next-generation
+universal access server, the AS5300. However, the industry in which Cisco
+competes is subject to rapid technological developments, evolving industry
+standards, changes in customer requirements and frequent new product
+introductions and enhancements. As a result, the Company's success, in part,
+depends upon its ability, on a cost-effective and timely basis, to continue to
+enhance its existing solutions and to develop and introduce new solutions that
+improve performance and reduce total cost of ownership. In order to achieve
+these objectives, the Company's management and engineering personnel work
+closely with customers, to identify and respond to customer needs, as well as
+with other innovators of internetworking products, including universities,
+laboratories, and corporations. The Company will also continue to make strategic
+acquisitions and equity investments where appropriate. The Company intends to
+remain dedicated to industry standards and to continue to support important
+protocol standards as 
+
+
+
+
+
+they emerge. Still, there can be no assurance that Cisco will be able to
+successfully develop new products to address new customer requirements and
+technological changes, or that such products will achieve market acceptance.
+
+In fiscal 1997, 1996, and 1995, the Company's research and development
+expenditures were approximately $698.2 million, $399.3 million, and $210.8
+million, respectively. All of the Company's expenditures for research and
+development costs, and purchased research and development of approximately
+$508.4 million in fiscal 1997 and $95.8 million in fiscal 1995, have been
+expensed as incurred.
+
+MANUFACTURING
+
+The Company's manufacturing operations consist primarily of quality assurance of
+materials, components and subassemblies. Additionally, the Company performs
+final assembly and test. The Company presently uses a variety of independent
+third-party companies to perform printed circuit board assembly, in circuit
+test, and product repair. The Company and single enterprise partners install
+proprietary software on electronically programmable memory chips installed in
+its systems in order to configure products to customer needs and to maintain
+quality control and security. The manufacturing process enables the Company to
+configure the hardware and software in unique combinations to meet a wide
+variety of individual customer requirements. The Company and single enterprise
+partners use automated testing equipment and "burn-in" procedures, as well as
+comprehensive inspection, testing, and statistical process control to assure the
+quality and reliability of its products. The Company's and its partners'
+manufacturing processes and procedures are ISO 9001 certified. To date, the
+Company has not experienced significant customer returns of its products.
+
+PATENTS, INTELLECTUAL PROPERTY AND LICENSING
+
+Cisco's success is dependent upon its proprietary technology. Cisco generally
+relies upon patents, copyrights, trademarks and trade secret laws to establish
+and maintain its proprietary rights in its technology and products. Cisco has a
+program to file applications for and obtain patents in the United States and in
+selected foreign countries where a potential market for Cisco's products exists.
+Cisco has been issued a number of patents; other patent applications are
+currently pending. There can be no assurance that any of these patents will not
+be challenged, invalidated or circumvented, or that any rights granted
+thereunder will provide competitive advantages to Cisco. In addition, there can
+be no assurance that patents will be issued from pending applications, or that
+claims allowed on any future patents will be sufficiently broad to protect
+Cisco's technology. In addition, the laws of some foreign countries may not
+permit the protection of Cisco's proprietary rights to the same extent as do the
+laws of the United States. Although Cisco believes the protection afforded by
+its patents, patent applications, copyrights and trademarks has value, the
+rapidly changing technology in the networking industry makes Cisco's future
+success dependent primarily on the innovative skills, technological expertise
+and management abilities of its employees rather than on patent, copyright and
+trademark protection.
+
+Many of Cisco's products are designed to include software or other intellectual
+property licensed from third parties. While it may be necessary in the future to
+seek or renew licenses relating to various aspects of its products, Cisco
+believes that based upon past experience 
+
+
+
+
+
+and standard industry practice, such licenses generally could be obtained on
+commercially reasonable terms. Because of the existence of a large number of
+patents in the networking field and the rapid rate of issuance of new patents,
+it is not economically practical to determine in advance whether a product or
+any of its components infringe patent rights of others. From time to time, Cisco
+receives notices from or is sued by third parties regarding patent claims. If
+infringement is alleged, Cisco believes that, based upon industry practice, any
+necessary license or rights under such patents may be obtained on terms that
+would not have a material adverse effect on Cisco's business, operating results
+and financial condition. Nevertheless, there can be no assurance that the
+necessary licenses would be available on acceptable terms, if at all, or that
+Cisco would prevail in any such challenge. The inability to obtain certain
+licenses or other rights or to obtain such licenses or rights on favorable
+terms, or the need to engage in litigation could have a material adverse effect
+on Cisco's business, operating results and financial condition.
+
+OTHER RISK FACTORS
+
+The Company's business and stock is subject to a number of risks. Some of those
+risks are described below. Other risks are presented in the "Financial Risk
+Management," and "Future Growth Subject to Risks" sections on pages 25-29 of the
+Company's Annual Report to Shareholders for the year ended July 26, 1997, which
+is hereby incorporated by reference.
+
+Potential Fluctuations in Quarterly Results
+
+The Company's operating results have in the past been, and may continue to be,
+subject to quarterly fluctuations as a result of a number of factors. These
+factors include the introduction and market acceptance of new technologies,
+including Gigabit Switch Routing and Tag Switching; the timing of orders and
+manufacturing lead times; variations in sales channels, product costs or mix of
+products sold; increased competition in the networking industry; the overall
+trend toward industry consolidation; the integration of people, operations and
+products from acquired businesses and technologies; and changes in general
+economic conditions and specific economic conditions in the computer and
+networking industries, any of which could have an adverse impact on operations
+and financial results. For example, the Company from time to time has made
+acquisitions that result in purchased research and development expenses being
+charged in an individual quarter. These charges may occur in any particular
+quarter resulting in variability in the Company's quarterly earnings.
+Additionally, the dollar amounts of large orders for the Company's products have
+been increasing, and therefore the operating results for a quarter could be
+materially adversely affected if a number of large orders are either not
+received or are delayed, due for example, to cancellations, delays or deferrals
+by customers.
+
+Dependence on New Product Development; Rapid Technological and Market Change
+
+The Company's operating results will depend to a significant extent on its
+ability to reduce the costs to produce existing products. In particular, the
+Company broadened its product line by introducing network access products. Sales
+of these products, which are generally lower priced and carry lower margins than
+the Company's core products, have increased more rapidly than sales of the
+Company's core products. The success of these and other 
+
+
+
+
+
+new products is dependent on several factors, including proper new product
+definition, product cost, timely completion and introduction of new products,
+differentiation of new products from those of the Company's competitors and
+market acceptance of these products. The Company has addressed the need to
+develop new products through its internal development effort, joint development
+with other companies and acquisitions. There can be no assurance that the
+Company will successfully identify new product opportunities, develop and bring
+new products to market in a timely manner, and achieve market acceptance of its
+products or that products and technologies developed by others will not render
+the Company's products or technologies obsolete or noncompetitive.
+
+Strategic Alliances
+
+The Company has a number of strategic alliances with companies including
+Microsoft, Intel, Hewlett-Packard, GTE, and Alcatel, among others. These
+arrangements are generally limited to specific projects, the goal of which is
+generally to facilitate product compatibility and adoption of industry
+standards. If successful, these relationships will be mutually beneficial and
+result in industry growth. However, these alliances carry an element of risk
+because, in most cases, the Company must compete in some business areas with a
+Company with which it has strategic alliances and, at the same time, cooperate
+with such companies in other business areas. Also, if these companies fail to
+perform, or if these relationships fail to materialize as expected, Cisco could
+suffer delays in product development or other operational difficulties.
+
+Industry Consolidation
+
+There has been a trend toward industry consolidation for several years. During
+fiscal 1997, the Company saw this trend continue, with the completion of two
+significant industry mergers. In June 1997, 3Com completed its acquisition of
+U.S. Robotics and Ascend Communications, Inc. completed its acquisition of
+Cascade Communications Corporation. The Company expects this trend toward
+industry consolidation to continue as companies attempt to strengthen or hold
+their market positions in an evolving industry. The Company believes that
+industry consolidation may provide stronger competitors that are better able to
+compete as sole-source vendors for customers. This could lead to more
+variability in operating results as the Company competes to be a single vendor
+solution and could have a material adverse effect on the Company's business,
+operating results and financial condition.
+
+Organizational Changes
+
+The Company has realigned its business around three key customer groups or lines
+of business. The Company believes this realignment of resources enables it to
+better meet the needs of its customers. During fiscal 1997, the Company also
+reorganized its sales management teams to better serve customers' needs. There
+are risks inherent in any business realignment or reorganization, and the
+Company can give no assurance that these organizational changes will meet their
+intended objectives.
+
+Entering New or Developing Markets
+
+As the Company focuses on new market opportunities, such as transporting voice,
+video and data traffic across the same network, it will increasingly compete
+with a variety of large telecommunications equipment suppliers such as Lucent,
+Ericsson, and Nortel, among others. Many of these companies have substantially
+greater financial, marketing and technical resources than the Company. If the
+Company cannot successfully compete with these and other potential competitors,
+it 
+
+
+
+
+
+could have a material adverse effect on the Company's business, operating
+results and financial condition.
+
+Variability in Service Provider Sales
+
+Although sales to the service provider market have continued to grow, this
+market is characterized by large, and often sporadic purchases. Sales activity
+in this industry depends upon the stage of completion of expanding network
+infrastructures, the availability of funding, and the extent that service
+providers are affected by regulatory and business conditions in the country of
+operations. A decline or delay in sales orders from this industry could have a
+material adverse effect on the Company's business, operating results and
+financial condition.
+
+Manufacturing Risks
+
+Although the Company generally uses standard parts and components for its
+products, certain components are presently available only from a single source
+or limited sources. The Company has generally been able to obtain adequate
+supplies of all components in a timely manner from existing sources, or where
+necessary, from alternative sources of supply. A reduction or interruption in
+supply or a significant increase in the price of one or more components would
+adversely affect the Company's business, operating results and financial
+condition and could damage customer relationships.
+
+Changes in Telecommunications Laws and Tariffs
+
+Changes in domestic and international telecommunication requirements could
+affect the Company's sales of its products. In particular, the Company believes
+it is possible that there may be significant changes in domestic
+telecommunications regulations in the near future that could slow the expansion
+of the service providers' network infrastructures and adversely affect the
+Company's business, operating results and financial condition. Future changes in
+tariffs by regulatory agencies or application of tariff requirements to
+currently untariffed services could affect the sales of the Company's products
+for certain classes of customers. Additionally, in the U.S. the Company's
+products must comply with various Federal Communication Commission requirements
+and regulations. In countries outside of the U.S., the Company's products must
+meet various requirements of local telecommunications authorities. Changes in
+tariffs, or failure by the Company to obtain timely approval of products could
+have a material adverse effect on the Company's business, operating results and
+financial condition.
+
+International Operations
+
+The Company conducts business on a global basis. Accordingly, the Company's
+future results could be adversely affected by a variety of uncontrollable and
+changing factors including foreign currency exchange rates; regulatory,
+political or economic conditions in a specific country or region; trade
+protection measures and other regulatory requirements; government spending
+patterns; and natural disasters, among other factors. In fiscal 1997, the
+Company experienced slower sales growth in Japan, France and Germany, as well as
+in certain other parts of Asia and Europe. Any or all of these factors could
+have a material adverse impact on the Company's future international business in
+these or other countries.
+
+
+
+
+
+Risks Associated With Internet Infrastructure
+
+The Company's management believes that there will be performance problems with
+Internet communications in the future which could receive a high degree of
+publicity and visibility. As the Company is a large supplier of equipment for
+the Internet infrastructure, customers' perceptions of the Company's products
+and the marketplace's perception of Cisco as a supplier of networking products,
+may be adversely affected, regardless of whether or not these problems are due
+to the performance of Cisco's products. Such an event could also result in an
+adverse effect on the market price of the Company's Common Stock and could
+adversely affect Cisco's business, operating results and financial condition.
+
+Volatility of Stock Price
+
+The Company's Common Stock has experienced substantial price volatility,
+particularly as a result of variations between the Company's actual or
+anticipated financial results and the published expectations of analysts and as
+a result of announcements by the Company and its competitors. In addition, the
+stock market has experienced extreme price and volume fluctuations that have
+affected the market price of many technology companies in particular and that
+have often been unrelated to the operating performance of these companies. These
+factors, as well as general economic and political conditions, may adversely
+affect the market price of the Company's Common Stock in the future.
+
+EMPLOYEES
+
+As of September 20, 1997, the Company employed approximately 11,000 persons,
+including 2,200 in manufacturing, service and support, 4,500 in sales and
+marketing, 3,400 in engineering, and 900 in finance and administration.
+Approximately 2,000 employees were in international locations.
+
+None of the employees is represented by a labor union, and the Company considers
+its relations with its employees to be positive. The Company has experienced no
+work stoppages.
+
+Competition for technical personnel in the Company's industry is intense. The
+Company believes that its future success depends in part on its continued
+ability to hire, assimilate, and retain qualified personnel. To date, the
+Company believes that it has been successful in recruiting qualified employees,
+but there is no assurance that it will continue to be successful in the future.
+
+ITEM 2.  PROPERTIES
+
+The Company's principal corporate offices are located at sites in Santa Clara
+and San Jose, California. The Santa Clara facilities are leased through June
+1998 and have approximately .1 million square feet of office space. The
+Company's main headquarters are situated on 221 acres of leased land in San
+Jose, California. There are 15 buildings located at this site, one of which is a
+manufacturing facility. The San Jose headquarters consist of approximately 1.6
+million square feet of leased office space at the present time. A new site is
+under construction that is located near its present corporate offices in San
+Jose, California. The Company expects that initial construction on the site will
+be completed in April 1998, with total leased office space of 
+
+
+
+
+
+approximately 1.1 million square feet.
+
+As part of the StrataCom acquisition, the Company also assumed certain operating
+leases for buildings. The buildings, including an additional manufacturing
+facility, are located at various sites in San Jose, California and total
+approximately .5 million square feet.
+
+In addition to the California facilities, the Company leases approximately 45
+acres of land in Research Triangle Park, North Carolina, where the InterWorks
+Business Unit, as well as a Technical Assistance Center, telesales, and various
+other support functions, are located. Three buildings of approximately .3
+million square feet have been constructed and are currently occupied under a
+lease that expires in July 1999. A fourth building of .1 million square feet is
+currently under construction with completion expected in the second quarter of
+fiscal 1998.
+
+The Company also leases various small offices throughout the U.S. and on a
+worldwide basis. For additional information regarding the Company's obligations
+under leases, see Note 7 "Commitments and Contingencies" on page 43 of the
+Company's 1997 Annual Report to Shareholders, which is hereby incorporated by
+reference.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+None.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+No matters were submitted to a vote of security holders during the fourth
+quarter of the fiscal year covered by this report.
+
+
+
+
+
+   EXECUTIVE OFFICERS OF THE REGISTRANT
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     PART II
+
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+The information required by this Item is incorporated by reference to page 51 of
+the Company's 1997 Annual Report to Shareholders.
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+The information required by this Item is incorporated by reference to page 21 of
+the Company's 1997 Annual Report to Shareholders.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+The information required by this Item is incorporated by reference to pages
+22-30 of the Company's 1997 Annual Report to Shareholders.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The information required by this Item is incorporated by reference to pages
+25-27 of the Company's 1997 Annual Report to Shareholders.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+The information required by this Item is incorporated by reference to pages
+31-51 of the Company's 1997 Annual Report to Shareholders.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURE
+
+None.
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+Reference is made to the information regarding Directors appearing under the
+caption "Election of Directors" in the Company's proxy statement mailed to
+Shareholders on or about October 1, 1997, which information is incorporated
+herein by reference; and to the information under the heading "Executive
+Officers of the Registrant" in Part I hereof.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+The information appearing at the end of Part I and under the caption "Executive
+Compensation and Related Information" in the Company's proxy statement mailed to
+Shareholders on or about October 1, 1997, is incorporated herein by reference.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+The information appearing under the captions "Election of Directors" and
+"Ownership of Securities" in the Company's proxy statement mailed to
+Shareholders on or about October 1, 1997, is incorporated herein by reference.
+
+
+
+
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+The information appearing under the caption "Ownership of Securities" and
+"Certain Relationships and Related Transactions" in the Company's proxy
+statement mailed to Shareholders on or about October 1, 1997, is incorporated
+herein by reference.
+
+                                    PART IV
+
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULE AND REPORTS ON FORM 8-K
+
+(a)     1.      Financial Statements
+
+                The financial statements listed in Item 14(a) are filed or
+                incorporated by reference as part of this annual report. See
+                Index to Financial Statements and Financial Statement Schedule
+                on Page 20.
+
+        2.      Financial Statement Schedule
+
+                The financial statement schedule listed in Item 14(a) is filed
+                as part of this annual report. See Index to Financial Statements
+                and Financial Statement Schedule on Page 20.
+
+        3.      Exhibits
+
+                The exhibits listed in the accompanying Index to Exhibits on
+                pages 23-25 are filed or incorporated by reference as part of
+                this annual report.
+
+(b)             Reports on Form 8-K
+
+                The Company filed one report on form 8-K during the fourth
+                quarter ended July 26, 1997. The date of the filing was July 1,
+                1997. The item reported on was the acquisition of Global
+                Internet Software Group.
+
+
+
+
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Act of 1933, the Registrant has
+duly caused this Report on Form 10-K to be signed on its behalf by the
+undersigned, thereunto duly authorized, in the City of San Jose, State of
+California on this 17th day of October, 1997.
+
+                                  Cisco Systems, Inc.
+
+
+                                  /s/ John T. Chambers
+                                  ----------------------------------------
+                                  (John T. Chambers, President and
+                                  Chief Executive Officer)
+
+Pursuant to the requirements of the Securities Act of 1933, this Report on Form
+10-K has been signed by the following persons in the capacities and on the dates
+indicated.
+
+
+
+
+
+
+
+
+
+
+                               CISCO SYSTEMS, INC.
+
+                          INDEX TO FINANCIAL STATEMENTS
+                        AND FINANCIAL STATEMENT SCHEDULE
+
+                                   ITEM 14(a)
+
+
+
+
+
+All other schedules have been omitted since the required information is not
+present in amounts sufficient to require submission of the schedules, or because
+the information required is included in the consolidated financial statements or
+notes thereto.
+
+With the exception of the consolidated financial statements and the independent
+accountants' report thereon listed in the above index, the information referred
+to in Items 1, 5, 6, 7 and 7A and the supplementary quarterly financial
+information referred to in Item 8, all of which is included in the Company's
+Annual Report to Shareholders incorporated by reference into this Form 10-K
+Annual Report, the 1997 Annual Report to Shareholders is not to be deemed
+"filed" as part of this report.
+
+
+
+
+
+REPORT OF INDEPENDENT ACCOUNTANTS
+
+Board of Directors and Shareholders
+Cisco Systems, Inc.
+San Jose, California
+
+
+Our report on the consolidated financial statements of Cisco Systems, Inc. and
+its subsidiaries has been incorporated by reference in this Form 10-K from Page
+50 of the 1997 Annual Report to Shareholders of Cisco Systems, Inc. In
+connection with our audits of such financial statements, we have also audited
+the related financial statement schedule listed in the index on page 20 of this
+Form 10-K.
+
+In our opinion, the financial statement schedule referred to above, when
+considered in relation to the basic financial statements taken as a whole,
+presents fairly, in all material respects, the information required to be
+included therein.
+
+
+
+/s/ Coopers & Lybrand L.L.P.
+
+San Jose, California
+August 4, 1997
+
+
+
+
+
+                               CISCO SYSTEMS, INC.
+
+                                   SCHEDULE II
+                        VALUATION AND QUALIFYING ACCOUNTS
+                                 (In thousands)
+
+
+
+
+
+       (1) Deductions principally relate to charges for standards changes.
+
+
+
+
+
+                                INDEX TO EXHIBITS
+
+(Item 14 (a))
+
+
+
+
+
+
+
+
+
+
+
+*       Previously filed with registrant's registration statements (File
+        #33-32778)
+
+**      Previously filed with registrant's Form 8-K dated October 8, 1993
+
+@       Previously filed with registrant's Form 8-K dated December 9, 1994
+
+@@      Previously filed with registrant's Form 8-K dated January 25, 1995
+
+#       Previously filed with registrant's Form 8-K dated August 19, 1994
+
+##      Previously filed with registrant's Proxy statement dated October 2, 1995
+
+&       Previously filed with registrant's Form S-4 dated June 7, 1996
+
+&&      Previously filed with registrant's Form 10-K dated October 26, 1995
+
+(1)     Previously filed with registrant's Form 10-Q dated January 25, 1997
+
+(2)     Previously filed with registrant's Form 10-Q dated April 26, 1997
+
+
+

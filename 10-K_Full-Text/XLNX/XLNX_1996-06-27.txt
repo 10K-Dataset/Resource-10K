@@ -1,0 +1,2109 @@
+
+10-K
+
+
+
+                      SECURITIES AND EXCHANGE COMMISSION
+                           WASHINGTON, D.C.  20549
+
+
+                                  FORM 10-K
+(Mark One)
+[ X ]   Annual report pursuant to Section 13 or 15(d) of the Securities Exchange
+Act of 1934 for the fiscal year ended March 30, 1996 or
+[   ]    Transition  report pursuant to section 13 or 15(d) of the Securities
+Exchange Act of 1934
+
+COMMISSION FILE NUMBER   0-18548
+
+                                 XILINX, INC.
+            (Exact name of registrant as specified in its charter)
+
+        DELAWARE                                      77-0188631
+(State or other jurisdiction             (I.R.S. Employer Identification No.)
+ of incorporation or organization)
+
+     2100 LOGIC DRIVE, SAN JOSE, CA                      95124
+(Address of principal executive offices)              (Zip Code)
+
+                                (408) 559-7778
+              Registrant's telephone number, including area code
+
+         SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT:
+
+                                     None
+
+         SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT:
+                         COMMON STOCK, $.01 PAR VALUE
+
+Indicate  by  check  mark  whether  the  registrant  (1) has filed all reports
+required  to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934  during  the  preceding  12  months  (or for such shorter period that the
+registrant  was  required  to  file such reports), and (2) has been subject to
+such requirements for the past 90 days.
+
+          YES   [ X ]             NO   [   ]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of  Regulation  S-K is not contained herein, and will not be contained, to the
+best  of registrant's knowledge, in definitive proxy or information statements
+incorporated  by  reference  in Part III of this Form 10-K or any amendment to
+this Form 10-K.  [   ]
+
+The  aggregate  market value of the voting stock held by non-affiliates of the
+Registrant,  based  upon the closing sale price of the Common Stock on June 4,
+1996  as  reported  on  the  Nasdaq  National  Market  was  approximately
+$2,089,824,088.    Shares  of  Common Stock held by each executive officer and
+director  and  by  each  person  who owns 5% or more of the outstanding Common
+Stock  have been excluded in that such persons may be deemed affiliates.  This
+determination  of  affiliate  status  is  not  necessarily  a  conclusive
+determination for other purposes.
+
+At June 4, 1996, registrant had 72,196,484 shares of Common Stock outstanding.
+
+
+                     DOCUMENTS INCORPORATED BY REFERENCE
+
+
+Parts  of  the  Proxy  Statement  for  Registrant's  1996  Annual  Meeting  of
+Stockholders  are  incorporated  by  reference  in this Form 10-K Report (Part
+III).
+
+
+                                    PART I
+
+
+ITEM 1.     BUSINESS
+
+GENERAL
+
+Xilinx,  Inc.  ("Xilinx"  or  "the  Company")  designs,  develops  and markets
+complementary  metal-oxide-silicon  ("CMOS")  programmable  logic  devices and
+related development system software.  The Company's programmable logic product
+lines  include  field  programmable  gate  arrays  ("FPGAs")  and  complex
+programmable  logic  devices  ("CPLDs").    These  components  are  standard
+integrated  circuits  ("ICs")  programmed  by  Xilinx's  customers  to perform
+desired  logic  operations.   Xilinx introduced the first FPGA device in 1985,
+holds patents on certain FPGA architectures and technology and continues to be
+the  leading  supplier  to this market.  Xilinx also markets hardwire devices,
+which are mask-programmed ICs that are functionally equivalent to a programmed
+FPGA.
+
+Competitive  pressures  require  manufacturers  of electronic systems to bring
+increasingly  complex  products  to market rapidly.  Requirements for improved
+functionality,  performance,  reliability  and  lower cost are often addressed
+through  the  use  of  components  that  integrate  ever  larger  numbers  of
+transistors  onto  a  single  integrated  circuit.    For electronic equipment
+manufacturers  in  the  data  processing,  telecommunications,  networking,
+industrial  control,  instrumentation, and military markets, integration often
+results  in  faster  speed,  smaller  size,  lower power consumption and lower
+costs.    However,  while global competition is increasing the demand for more
+complex products, it is also shortening product life cycles and requiring more
+frequent  product  enhancements.  The length of time required to develop these
+more  sophisticated  electronic  systems  is often incompatible with stringent
+time to market requirements.
+
+Xilinx  was founded to design, develop and market FPGAs which uniquely combine
+the  high  logic density typically associated with custom gate arrays with the
+time  to  market  advantages  of  programmable logic and the availability of a
+standard  product.    The  Company offers a broad product line of programmable
+logic  devices  to provide solutions for customers. The Company's programmable
+logic  devices  serve a wide variety of applications which require high levels
+of  integration  and  for which time to market is critical, production volumes
+are  unpredictable and/or frequent design modifications are necessary to adapt
+a  product  to  new  markets.    Xilinx  CPLD's  complement the Company's FPGA
+products  and  contribute to the Company's efforts to offer total programmable
+logic  solutions.    With  FPGAs, which have the advantages of higher density,
+lower  power and lower cost, and CPLDs, which are typically faster, have lower
+density  and  have  simpler,  easier  to  use software, the Company's products
+enable  electronic  system  manufacturers to rapidly bring complex products to
+market in volume.
+
+The Xilinx software strategy is to deliver an integrated design solution for a
+broad customer base ranging from customers who are not familiar with designing
+systems using FPGA's to the most sophisticated customers who are accustomed to
+designing  high  density,  mask  programmed  gate arrays.  The objective is to
+deliver  strategic  software  advantages  that combine ease of use with design
+flexibility, effective silicon utilization and competitive performance.
+
+System  designers  use proprietary Xilinx development system software together
+with  industry  standard  electronic design automation ("EDA") tools to design
+and  develop  Xilinx  programmable  logic  applications.  Designers define the
+logic  functions  of  the  circuit  and  revise  such functions as necessary. 
+Programmable  logic  can be designed and verified in a few days, as opposed to
+several weeks or months for gate arrays, which are customized devices that are
+defined  during the manufacturing process. Moreover, programmable logic design
+changes can be implemented in as little as a few hours, as compared to several
+weeks  for  a custom gate array.  In addition, significant savings result from
+the  elimination  of  non-recurring  engineering  costs  and  the reduction of
+expenses  associated  with the redesign and testing of custom gate arrays.  By
+reducing  the  cost  and  scheduling  risks of design iterations, programmable
+logic  devices  allow greater designer creativity, including the consideration
+of  design  alternatives  which  often lead to product improvements.  Further,
+since  programmable  logic  devices  are  standard  products  and  production
+quantities  are more readily available, exposures to obsolete inventory can be
+significantly reduced.
+
+On  April  10,  1995,  the Company acquired NeoCAD, Inc. ("NeoCAD"), a company
+engaged  in  the  design,  development,  and sale of software design tools for
+programmable  electronic  technologies.   In fiscal 1996, the Company has been
+integrating  NeoCAD's  advanced  FPGA software technology into its development
+system software.
+
+Xilinx  was  organized in California in February 1984 and in November 1985 was
+reorganized  to  incorporate its research and development limited partnership.
+In  April  1990,  the  Company  reincorporated  in  Delaware.    The Company's
+corporate  facilities  and  executive offices are located at 2100 Logic Drive,
+San Jose, California 95124.
+
+PRODUCTS
+
+The  timely introduction of new products is a key factor in the success of the
+Company's  business.    Delays  in  developing  new  products with anticipated
+technological  advances  or  delays  in  commencing  volume  shipments  of new
+products  would  be  expected  to  have  an  adverse  effect  on the Company's
+business.    In  addition,  there  can  be no assurance that such products, if
+introduced,  will  gain  market  acceptance  or  respond  effectively  to  new
+technological changes or new product announcements by others.
+
+     Programmable Logic Devices
+
+The Company's FPGA products include the XC2000, XC3000 and XC4000 families and
+the  recently  introduced  XC5000,  XC6000 and XC8000 families.  The Company's
+CPLD  products  include  the  XC7000 family and the recently introduced XC9000
+family.    The  Company has also recently introduced new members of the XC4000
+family  which  include the XC4000E and XC4000EX.  The XC4000E family increased
+performance over previous versions of the XC4000 family by approximately fifty
+percent.    This  improvement  is  the  result  of a new design, a new process
+technology  and  new  on-chip  RAM  features. The XC4000EX family utilizes the
+benefits of the XC4000E architecture and provides additional routing resources
+which are expected to meet the design requirements for ICs with gate densities
+ranging  from 28,000 to 125,000 useable gates.  The XC4000EX family will offer
+the  most  powerful  solution  for  the mask-programmed gate array replacement
+market  by  addressing  80% of the density requirements for today's gate array
+design  starts.    The  XC5000  family  represents the first FPGA specifically
+developed  as  a  cost  effective,  high volume production alternative to gate
+arrays.    The  XC5000  family  significantly  reduces  the  price premium for
+customers  evaluating  an FPGA device against a comparable custom gate array. 
+Use  of the XC5000 as a low cost solution for high density designs permits the
+customer  to  also  take  advantage  of  design ease and to accelerate time to
+volume  production.    The  XC6000  family  is  designed  for  reconfigurable
+coprocessing  applications  within  the embedded controller market. The XC8000
+family  consists  of  one-time  programmable FPGAs which utilize the Company's
+innovative  MicroVia  antifuse  technology  and  proprietary  sea-of-gates
+architecture  and was developed for high gate efficiency and ease-of-use.  The
+XC9000  family  utilizes  Flash-based  architecture  and  offers  in-system
+programmability.    The  Company shipped XC4000E and XC8000 products in fiscal
+1996  and  expects  to ship the XC4000EX, XC6000 and XC9000 products in fiscal
+1997.
+
+FPGAs  are  available  in a wide variety of plastic and ceramic package types,
+including  pin-grid  array,  surface  mount and quad flat pack configurations.
+These  devices  meet  the  industry  standard  operating temperature ranges of
+commercial, industrial and military users.
+
+The  Company's  hardwire  products  offer  a  low cost migration path for high
+volume applications.  Once a programmable logic design is finalized, customers
+can  take  advantage of hardwire products which are mask-programmed during the
+manufacturing process.  For every Xilinx FPGA family, there is a corresponding
+hardwire family.
+
+In  order  to  minimize  the  printed circuit board area required for external
+storage  of the FPGA configuration program, the Company has developed a family
+of  erasable  programmable  read-only  memories ("EPROMs").  These devices are
+sold by the Company in conjunction with its FPGAs.
+
+     Development System Software
+
+The  Company's  current  version  of  XACTstep  software  combines  powerful
+technology  with  a  flexible, easy to use graphical interface to help achieve
+the  best  possible  designs.    XACTstep  provides  all of the implementation
+technology  required  to  design  with  Xilinx logic devices, including module
+generation,  design  optimization  and  mapping, placement and routing, timing
+analysis, and program file generation.  The Company's next generation software
+will  build  upon the existing user interface of the current XACTstep software
+release,  but  underneath  will be a new generation software platform based on
+the  NeoCAD  core  technologies.  This merged release, which is expected to be
+available in fiscal 1997, is designed to satisfy the complete spectrum of FPGA
+and CPLD customers.
+
+The  Company currently offers two different series of software solutions.  One
+series,  which  was  released  in  April  1996,  is  an  off-the-shelf,  or
+"shrink-wrapped", solution that is easy to learn and use.  For those customers
+that  are  new to designing with PLDs or want a low cost solution, the Company
+offers  this  entirely integrated software solution.  The second series is for
+designers  who want to integrate programmable logic design into their existing
+EDA  tool  environment.   With interfaces to over 50 EDA vendors, this product
+allows  users  to select tools with which they are most familiar and therefore
+shortens their design cycle.
+
+The  Company  is  preparing  a  third  software solution series to be directed
+towards high-end system level design applications which have historically been
+dominated by gate arrays.  Xilinx will provide pre-implemented, fully-verified
+"drop-in  modules", called LogiCores, for commonly used complex functions such
+as  digital  signal  processing.    These  cores  of intellectual property are
+expected  to change the way in which logic has been historically designed.  As
+a result, users should be able to shorten development time, reduce design risk
+and obtain superior performance for their designs.
+
+Xilinx's  XACTstep  development  system  software operates on desktop computer
+platforms,  including  personal  computers  and  workstations  from  IBM,
+IBM-compatible manufacturers, HP, DEC and Sun Microsystems.  Through March 30,
+1996, the Company had distributed over 26,700 development systems to more than
+5,000 system manufacturers worldwide.
+
+In fiscal 1996, sales of FPGAs, CPLDs, EPROMS, Hardwire and development system
+software  products  accounted  for  85%,  2%, 5%, 5% and 3% of total revenues,
+respectively.    For  additional  information  on  the Company's revenues, see
+Management's  Discussion  and  Analysis of Results of Operations and Financial
+Condition in Item 7.
+
+ RESEARCH AND DEVELOPMENT
+
+Xilinx's  research  and  development activities are primarily directed towards
+the  design  of  new integrated circuits, the design of new development system
+software  and ongoing cost reductions and performance improvements in existing
+products.   The Company's recent research and product development efforts have
+been  directed  principally  towards  its  XC3100,  XC4000, XC5000, XC6000 and
+XC8100  families of FPGAs, CPLD products, XACT development system software and
+towards other proprietary new architectures and processes.
+
+Xilinx  believes  that  development  system software is an important factor in
+expanding  the use of programmable logic devices.  The Company's R&D challenge
+is  to  continue  to  develop new products that create solutions for customers
+while  simultaneously  reducing  product development time. A further challenge
+will  be  the  completion  of  integrating  NeoCAD's  advanced  FPGA  software
+technology  into  the  existing  product line. The Company presently allocates
+approximately 60% and 40% of its research and development staff for integrated
+circuit  design  or  process  development  and  development  system  software
+products,  respectively.   As of March 30, 1996, 388 employees were engaged in
+research  and  development.  In  fiscal  1996,  1995,  and 1994, the Company's
+research and development expenses were $64.6 million, $45.3 million, and $34.3
+million,  respectively.    The  Company expects that it will continue to spend
+substantial funds on research and development.
+
+Research  and  development  expenses, while having increased in amount in each
+period  presented,  have  approximated 12% of revenues in 1996 and 13% in 1995
+and  1994.  The Company believes that technical leadership is essential to its
+success  and  is  committed  to continuing a significant level of research and
+development effort.
+
+ MARKETING AND SALES
+
+Xilinx  sells  its  products  through several channels of distribution: direct
+sales  to  manufacturers  by  independent  sales  representative  firms, sales
+through domestic distributors, and sales through foreign distributors.  Xilinx
+also  utilizes  a  direct sales management organization and field applications
+engineers (FAEs) as well as manufacturer's representatives and distributors to
+reach  a  broad  base  of  potential  customers.    The  Company's independent
+representatives  address larger OEM customers and act as a direct sales force,
+while  distributors  serve  the  balance  of the Company's customer base.  All
+channels are supported by Xilinx sales and technical support personnel.
+
+In  North  America,  Hamilton-Hallmark,  Marshall  Industries,  and  Insight
+Electronics,  Inc.  distribute  the  Company's  products  nationwide,  and  Nu
+Horizons Electronics provides additional regional sales coverage.  The Company
+believes  that  distributors  provide a cost effective means of reaching small
+and  medium-sized  customers.   Since the Company's programmable logic devices
+are  standard  products,  they  do  not present many of the inventory risks to
+distributors  of  custom  gate  arrays, and they simplify the requirements for
+distributor technical support.
+
+Because  of  the  uncertainty  associated  with future pricing adjustments and
+product  returns,  the Company defers recognition of revenues and related cost
+of  revenues  for  products  sold  through  domestic  distributors  until  the
+merchandise is sold by the distributors.
+
+
+BACKLOG AND CUSTOMERS
+
+As  of March 30, 1996, the Company's backlog was approximately $143.8 million,
+as  compared  to  approximately  $94.9  million  as  of April 1, 1995.  Xilinx
+includes  in its backlog all purchase orders scheduled for delivery within the
+next  six  months.    Xilinx produces standard products which can generally be
+shipped  from  inventory  within  a short time after receipt of an order.  The
+Company's  business,  and  to  a  large  and growing extent that of the entire
+semiconductor  industry,  is  characterized  by  short-term order and shipment
+schedules.    Orders constituting the Company's current backlog are subject to
+changes in delivery schedule or to cancellation at the option of the purchaser
+without  significant  penalty.    Accordingly,  although useful for scheduling
+production, backlog as of any particular date may not be a reliable measure of
+revenues for any future period.
+
+In  fiscal 1996, the Company shipped products to over 5,000 customers directly
+or  through  domestic  and  foreign  distributors.    No  single  end customer
+accounted for more than 6% of revenues in fiscal 1996 or 1995 and 4% in fiscal
+1994.   See Note 9 of Notes to Consolidated Financial Statements in Item 8 for
+Industry and Geographic Information.
+
+ WAFER FABRICATION
+
+The majority of wafers for FPGAs shipped by the Company have been manufactured
+by Seiko Epson Corporation (Seiko) and Yamaha Corporation (Yamaha).  Seiko has
+non-exclusive,  non-transferable rights to manufacture and sell FPGAs designed
+by  Xilinx  in Japan and Europe but is not currently exercising these rights. 
+In  exchange,  Seiko  has  provided  the  Company with access to advanced CMOS
+processes.    Precise  terms  with  respect  to the volume and timing of wafer
+production  and  the  pricing  of  wafers  produced  by  Seiko  and Yamaha are
+determined  by  periodic  negotiations  between  the Company and these foundry
+partners.    From  time  to  time, Xilinx may contract with other suppliers to
+provide wafers for the Company's products.
+
+Xilinx's  strategy  is  to  focus  its  resources  on  creating new integrated
+circuits and development system software and on market development rather than
+on  wafer  fabrication.    The Company continuously evaluates opportunities to
+enhance foundry relationships and/or obtain additional capacity.  As a result,
+the  Company  has  entered into recent agreements with United Microelectronics
+Corporation and Seiko as discussed below.
+
+The  Company  entered into a series of agreements with United Microelectronics
+Corporation  (UMC)  pursuant  to  which the Company has agreed to join UMC and
+other parties to form a joint venture for the purpose of building and managing
+an  advanced  semiconductor  manufacturing  facility  in Taiwan. See Note 4 of
+Notes  to Consolidated Financial Statements in Item 8.  Under the terms of the
+agreement,  the Company invested $34 million in fiscal 1996 and will invest an
+additional  $68  million  and  $34  million  in  December  1996 and July 1997,
+respectively,  for  a  25%  equity interest in the venture. As a result of its
+equity ownership, the Company will receive rights to purchase at market prices
+a  percentage  of  the facility 's wafer production.  The proposed facility is
+expected to commence limited production of eight-inch sub-micron wafers during
+fiscal 1998.  The Company is currently receiving eight-inch, sub-micron wafers
+in  limited  volume  from  a  recently constructed foundry in which UMC is the
+major  shareholder.  Xilinx believes it will continue to receive such products
+in moderate volumes until the joint venture facility is operational.
+
+On  May  17,  1996, the Company signed an agreement with Seiko.  The agreement
+provides  for  an  advance  to  Seiko  of  $200  million  to  be  used  in the
+construction  of  a  wafer  fabrication  facility  in Japan which will provide
+access  to  eight-inch  sub-micron wafers.  In conjunction with the agreement,
+$30  million  was  paid  in  May  1996  and further installments are scheduled
+starting  in  November 1996.  Repayment of this advance will be in the form of
+wafer  deliveries expected to begin in the first half of 1998.  In addition to
+the advance payments, the Company will provide further funding to Seiko in the
+amount  of $100 million.  This additional funding will be paid after the final
+installment  of  the  $200  million  advance,  and  the form of the additional
+funding will be negotiated at that time.
+
+ASSEMBLY AND TEST
+
+Wafers  purchased  by  the  Company  are  tested by the manufacturer or by the
+Company.    Tested  wafers  are  assembled by a subcontractor in facilities in
+various  Pacific  Rim  countries.    In  the  assembly process, the wafers are
+separated  into  individual  integrated  circuits  which are then assembled in
+packages.    Following  assembly,  the  packaged  units  are  returned  to the
+Company's  U.S.  or  Ireland facilities for further testing, marking and final
+inspection prior to shipment to customers.
+
+ PATENTS AND LICENSES
+
+Through  March  30,  1996,  the  Company held 92 United States patents and has
+filed for an additional 139 United States patents in the areas of software, IC
+architecture  and  design.    The  Company  intends  to vigorously protect its
+intellectual  property.    The  Company  believes  that failure to enforce its
+patents  or  to  effectively  protect  its trade secrets could have an adverse
+effect  on the Company's business. See Legal Proceedings in Item 3 and Note 10
+of Notes to Consolidated Financial Statements in Item 8.
+
+Xilinx has acquired various software licenses that permit the Company to grant
+object  code  sublicenses  to  its  customers for certain third party software
+programs licensed with the Company's development system software. In addition,
+the Company has licensed certain software for internal use in product design.
+
+EMPLOYEES
+
+Xilinx's  employee  population  has  grown by 38% during the past year.  As of
+March  30,  1996, Xilinx had 1,201 employees compared to 868 at the end of the
+prior year.  None of the Company's employees are represented by a labor union.
+  The  Company  has  not  experienced  any  work  stoppages  and considers its
+relations with its employees to be good.
+
+COMPETITION
+
+The  Company's  FPGA  and  CPLD  products  compete  in  the programmable logic
+marketplace,  with  a  substantial  majority of the Company's revenues derived
+from  its  FPGA product families. The industries in which the Company competes
+are intensely competitive and are characterized by rapid technological change,
+rapid  product  obsolescence  and  price  erosion.    The  Company  expects
+significantly  increased competition both from existing competitors and from a
+number of companies that may enter its market.  Xilinx believes that important
+competitive  factors  in  the programmable logic market include price, product
+performance  and  reliability,  adaptability  of  products  to  specific
+applications,  ease  of  use and functionality of development system software,
+and  technical  service and support.  The Company 's strategy for expansion in
+the programmable logic market includes continued price reductions commensurate
+with  the  ability to lower the cost of manufacture and continued introduction
+of  new product architectures which target high volume, low cost applications.
+However,  there  can  be  no assurances that the Company will be successful in
+achieving this strategy.
+
+The  Company's  major sources of competition are comprised of three elements: 
+the  manufacturers  of  custom  CMOS  gate  arrays,  providers of high density
+programmable logic products characterized by FPGA-type architectures and other
+providers  of  programmable  logic products.  The Company competes with custom
+gate  array  manufacturers  on  the  basis  of  lower  design  costs,  shorter
+development  schedules and reduced inventory risks.  The primary attributes of
+custom  gate  arrays  are high density, high speed and low production costs in
+high  volumes.    However, the Company believes that the design specifications
+for  many  customers  can  be  met  by  the  density and speed capabilities of
+Xilinx's  programmable  logic  products  which are cost effective over a broad
+range of production volumes.  In addition, the Company 's efforts to introduce
+lower cost architectures are intended to narrow the gap between current custom
+gate  array  production costs (in high volumes) and FPGA production costs.  To
+the  extent that such efforts are not successful, the Company's business could
+be materially adversely affected.
+
+The  Company  competes  with  providers  of  high  density  programmable logic
+products  characterized  by  FPGA-type  architectures on the basis of software
+capability,  product  functionally,  price, performance and customer service. 
+The  Company  believes  that  certain  of its patents have been infringed by a
+competitor  and  has  initiated  legal  action  to  protect  its  intellectual
+property.    See  Legal  Proceedings  in  Item  3  and  Note  10  of  Notes to
+Consolidated Financial Statements in Item 8.
+
+The  benefits  of  programmable  logic have attracted a number of companies to
+this  market,  competing  primarily  on  the basis of speed, density or cost. 
+Xilinx  recognizes  that different applications require different programmable
+technologies,  and the Company is developing multiple architectures, processes
+and products to meet these varying customer needs.  Recognizing the increasing
+importance of standard software solutions, Xilinx is working to develop common
+design  software that supports the full range of integrated circuit products. 
+Xilinx  believes  that  automation  and  ease  of  design  will be significant
+competitive factors in the programmable logic market.
+
+Although  certain  manufacturers  of  PLDs  compete  with  Xilinx, significant
+differences  in  logic  density  between most complex PLDs and FPGAs limit the
+amount  of  competitive overlap.  While the architecture of complex PLDs gives
+them  a  performance advantage in certain instances, the Company believes that
+the  higher  density  available with FPGAs makes them more economical for many
+designs.
+
+Several  companies, both large and small, have introduced products competitive
+with  those  of  the  Company  or have announced their intention to enter this
+market.    Some of the Company's competitors may possess innovative technology
+which  could  prove  superior to Xilinx's technology in some applications.  In
+addition,  the  Company  anticipates  potential  competition from suppliers of
+logic  products  based  on new technologies.  Many of the Company's current or
+potential  competitors  have  substantially  greater financial, manufacturing,
+marketing  and  technical  resources  than Xilinx. This additional competition
+could adversely affect the Company.
+
+Xilinx  also  faces  competition from its licensees.  Under a license from the
+Company,  AT&T  is  manufacturing  and marketing the Company's non-proprietary
+XC3000  FPGA  products  and is employing that technology to provide additional
+FPGA  products  offering  high  density.   Seiko has rights to manufacture the
+Company's  products  and  market them in Japan and Europe but is not currently
+doing  so.    AMD  is  licensed  to  use  certain  of the Company's patents to
+manufacture  and  market products other than SRAM-based FPGAs and, after March
+19, 1997, could also compete directly in this market.
+
+
+EXECUTIVE OFFICERS OF THE REGISTRANT
+
+Certain information regarding each of Xilinx's executive officers is set forth
+below:
+
+
+
+
+
+
+Except  as  set forth below, each of the Company's executive officers has been
+engaged  in  his  principal  occupation  described  above during the past five
+years.    There  is  no  family relationship between any director or executive
+officer of the Company.
+
+Willem  P.  "Wim"  Roelandts  joined  the  Company  in  January  1996 as Chief
+Executive  Officer.  He is a 28-year veteran of Hewlett-Packard Company, where
+he  most  recently served as a senior vice president and managed the company's
+Computer  Systems  Organization  from  November 1992 through January 1996.  In
+this  capacity,  he  was  responsible  for all aspects of the computer systems
+business  worldwide,  including  research  and  development,  manufacturing,
+marketing,  professional  services and sales. He also served as vice president
+and  general  manager  of  the  Network  Systems  Group  from December 1990 to
+November 1992.
+
+Robert  C.  Hinckley  joined  the  Company in November 1991 as Vice President,
+Strategic Plans and Programs, serves as the Company's General Counsel, and was
+appointed  Secretary in May 1993.  He acted as interim Chief Operating Officer
+from  March  1994 until August 1994.  From August 1990 to November 1991 he was
+engaged in the private practice of law.  From January 1989 until  August 1990,
+he  served  as  Senior  Vice President, Chief Financial Officer, Secretary and
+Treasurer of Spectra Physics, Inc.
+
+In  April  1996,  Curtis  S.  Wozniak,  President and Chief Operating Officer,
+resigned from the Company.  He had joined Xilinx in August 1994.
+
+ITEM 2.     PROPERTIES
+
+Xilinx's  principal administrative, sales, marketing, research and development
+and  final testing facility is located in adjacent buildings providing 335,000
+square  feet of available space in San Jose, California and are leased through
+1999.    The  Company  has  entered  into  lease  agreements relating to these
+facilities  which  would  allow the Company to purchase these facilities on or
+before  the lease expiration dates in December 1999.  In addition, the Company
+maintains  domestic  sales  offices  in  nineteen  locations which include the
+metropolitan  areas  of Atlanta, Boston, Chicago, Denver, Dallas, Los Angeles,
+Minneapolis, Philadelphia, Raleigh and San Jose as well as international sales
+offices located in the metropolitan areas of London, Munich, Paris, Stockholm,
+Tokyo,  Taipei, Seoul and Hong Kong.   The Company completed construction of a
+100,000 square foot administrative, research and development and final testing
+facility  in  the metropolitan area of Dublin, Ireland in 1995.  This facility
+is being used to service the Company's customer base outside of North America.
+  The  Company  is  currently  constructing  a  60,000 square foot facility in
+Boulder,  Colorado.  This facility will replace the former NeoCAD facility and
+will  be  the primary location for the Company's software efforts in the areas
+of research and development, manufacturing and quality control.
+
+ITEM 3.     LEGAL PROCEEDINGS
+
+On June 7, 1993, the Company filed suit against Altera Corporation (Altera) in
+the  United States  District Court for the Northern District of California for
+infringement  of certain of the Company's patents.  Subsequently, Altera filed
+suit  against  the  Company,  alleging  that certain of the Company's products
+infringe  certain  Altera  patents.  Fact discovery has been completed in both
+cases.   No trial date has been set.  The Court has stayed further proceedings
+in  both cases until August 30, 1996, when the next status conference with the
+Court  is  scheduled.    On  April  20,  1995, Altera filed an additional suit
+against the Company in Federal District Court in Delaware  (the Delaware suit)
+alleging  that the Company's XC5000 family infringes a certain Altera patent. 
+The  Company  answered  the  Delaware  suit  denying  that  the  XC5000 family
+infringes  the  patent  in  suit,  which  is  the  subject  of the litigation,
+asserting certain affirmative defenses and counterclaiming that the Altera Max
+9000 family infringes certain of the Company's patents.  The Delaware suit has
+now  been  transferred  to  the  United States District Court for the Northern
+District  of  California.   Due to the uncertain nature of the litigation with
+Altera and because the lawsuits are still in the pre-trial stage, the ultimate
+outcome  of  these  matters  cannot  be  determined  at this time.  Management
+believes that it has meritorious defenses to such claims and is defending them
+vigorously.   The foregoing is a forward looking statement  and actual results
+could differ materially.
+
+There are no other pending legal proceedings of a material nature to which the
+Company  is  a  party  or  of  which  any of its property is the subject.  The
+Company  knows  of  no  legal  proceedings  contemplated  by  any governmental
+authority or agency.
+
+ITEM 4.     SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+No  matters  were  submitted  to  a vote of security holders during the fourth
+quarter of the fiscal year covered by this report.
+
+
+                                   PART II
+
+
+ITEM 5.     MARKET FOR THE REGISTRANT'S COMMON EQUITY AND
+                          RELATED STOCKHOLDER MATTERS
+
+Xilinx's Common Stock is listed on the Nasdaq National Market under the symbol
+XLNX.    The  table  below reflects for the periods indicated the high and low
+closing  sales prices per share of the Common Stock, as reported on the Nasdaq
+National  Market.    Xilinx has never paid a cash dividend on its Common Stock
+and  intends  to continue this policy for the foreseeable future.  As of March
+31,  1996,  there  were  approximately 671 shareholders of record.  Since many
+holders'  shares  are  listed  under  their brokerage firms' names, the actual
+number of shareholders is estimated by the Company to be over 35,000.
+
+
+
+
+
+
+
+
+The price range of the Company's Common Stock has been restated for all
+periods presented to reflect the three-for-one stock split, which was effected
+in July 1995.
+
+
+ITEM 6.     SELECTED FINANCIAL DATA - (in thousands, except per share data)
+
+ CONSOLIDATED STATEMENT OF INCOME DATA:
+
+
+
+
+ CONSOLIDATED BALANCE SHEET DATA
+
+
+
+
+
+
+ITEM 7.     MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+                     CONDITION AND RESULTS OF OPERATIONS
+
+     Cautionary Statement
+
+The  statements  in this Management's Discussion and Analysis that are forward
+looking  involve  numerous  risks  and  uncertainties and are based on current
+expectations.    Actual  results  may  differ  materially.    Such  risks  and
+uncertainties  are  detailed in the Company's SEC reports and filings. Certain
+of these risks and uncertainties are discussed under "Factors Affecting Future
+Results".
+
+
+
+Nature of Operations
+
+Xilinx,  Inc.  ("Xilinx"  or the "Company") designs, develops and markets CMOS
+(complementary  metal-oxide-silicon)  programmable  logic  devices and related
+development  system  software.  The Company's programmable logic product lines
+include  field  programmable  gate  arrays  ("FPGAs") and complex programmable
+logic  devices  ("CPLDs").   These components are standard integrated circuits
+("ICs") programmed by Xilinx's customers to perform desired logic operations. 
+Xilinx  introduced  the  first  FPGA  device  in  1985,  holds patents on FPGA
+architecture  and technology, and continues to be the leading supplier to this
+market.    Xilinx  also markets hardwire devices which are mask-programmed ICs
+functionally  equivalent  to programmed FPGAs.  The Company's products provide
+high  integration  and  quick  time-to-market  for  electronic  equipment
+manufacturers  in  the  data  processing,  telecommunications,  networking,
+industrial control, instrumentation and military markets.  The Company markets
+its  products throughout the world through a direct sales organization, direct
+sales  to  manufacturers  by  independent  sales  representative  firms, sales
+through licensed domestic distributors and sales through foreign distributors.
+  Xilinx's  products  have  provided  effective solutions to a wide range of
+customer  logic  requirements,  thereby  permitting  the  Company  to increase
+revenues and market share and to realize excellent profitability during fiscal
+1996.
+
+     Results of Operations
+
+The following table sets forth certain operational data both as percentages of
+annual revenues and as percentage changes from the prior year 's results.
+
+
+
+
+
+
+
+     Revenue
+
+Xilinx  reported  record revenues for 1996 of  $560.8 million, representing an
+increase  of 57.9% from $355.1 million for 1995 and 118.7% from $256.4 million
+reported  for  1994.  The  growth in revenues was a function of increased unit
+sales  of  programmable  logic  devices  and, more specifically, was primarily
+attributable  to the revenue growth of the XC4000 family as well as the growth
+of  the  Company's new product, the XC5000 family. Other contributors included
+the Company 's XC3000, XC3100 and CPLD families.
+
+Xilinx's  development system software is used by the Company 's customers to
+implement  designs  in  the  Company  's  programmable logic devices. Software
+revenues increased by 36.1% in 1996 to approximately $17.1 million as compared
+to $12.6 million in 1995 and $11.6 million in 1994. Although software revenues
+have increased in dollar amounts, sales have declined as a percentage of total
+revenues,  accounting  for  3%, 4% and 5% of revenues for 1996, 1995 and 1994,
+respectively.  Cumulative licenses for proprietary development system software
+distributed to customers through the end of 1996 approximated 26,700 units, as
+compared to 21,000 and 16,500 at the end of 1995 and 1994, respectively.
+
+Revenue  contribution  by product line reflected increased customer demand for
+the functionality and performance provided by the Company's higher density and
+higher  speed  programmable  logic  devices.  Of  the $205.7 million growth in
+revenues  between  1995  and  1996,  96%  was  provided  by  revenues from the
+proprietary  products  within the XC3000 family as well as the XC3100, XC4000,
+XC5000 and CPLD families, all of which are proprietary products. Revenues from
+proprietary  products  increased from 74% of the aggregate revenues in 1995 to
+85% in 1996. In the fourth quarter of 1996, proprietary products accounted for
+88%  of  total  revenues  as  compared to 79% for the comparable 1995 quarter.
+Revenues  from  the XC4000 family increased 106% between 1995 and 1996 to $250
+million.  Deriving  revenues  from proprietary products has been emphasized by
+the  Company  as  an  effective implementation of a corporate pricing strategy
+whose  aim  is  to expand the market for its products by reducing sales prices
+coincident  with and commensurate with reductions in the cost of manufacturing
+these  products. The Company is actively pursuing a strategy of broadening the
+markets  it  serves through the enhancement of software development tools, the
+introduction of architectures offering new functionality, and the reduction of
+IC  prices  through  continuous  advancements  in  the  silicon  manufacturing
+process.
+
+During  1996,  all  product families except the non-proprietary members of the
+XC3000  family,  where  there  is  a  second  source  competitor,  experienced
+increases  in unit volume. During this period, the average selling price of an
+IC  product  family  fell  between  8% and 24%. Individual products within the
+XC3000,  XC3100 and XC4000 families experienced price decreases as much as 32%
+during  the  past  year,  as  prices were reduced in the higher complexity and
+higher  speed  families  in  order  to  be  more  competitive  in  high volume
+applications.  Price  erosion  of  this  magnitude  has  been  common  in  the
+semiconductor  industry,  as  advances  in both architecture and manufacturing
+process  technology  have  permitted  continual  reductions  in  cost.  The
+approximately  70%  increase in unit volume for the XC3100 family and the more
+than  doubling  in  unit volume for the XC4000 family outweighed the impact of
+price  erosion  on  individual  product lines, as the weighted average selling
+price  for all ICs increased approximately 4% in 1996 relative to the previous
+year.
+
+The  XC4000  products  provide  the  widest  range of densities of any family,
+currently ranging from 2,000 to 28,000 gates. The Company 's HardWire products
+offer a low cost migration path for high volume applications. During 1996, the
+Company  began  volume  production  of the XC5000 family, which represents the
+first  FPGA specifically developed as a cost effective, high volume production
+alternative to gate arrays. The XC5000 family is expected to allow the Company
+to  enter  new  market  segments,  for  which most new designs are expected to
+require higher quantities. However, there can be no assurances that the XC5000
+family  will  be  successful in entering new market segments. Revenues for the
+XC5000  family  were  $9.1  million  for  1996. In the second half of 1996 the
+Company  introduced  the XC9500 CPLD family, which provides complete in-system
+programming  and  test  capabilities  for  users  who  need  maximum  design
+flexibility throughout their product life cycle.
+
+No  single end customer accounted for more than 6% of revenues in 1996 or 1995
+and 4% of revenues in 1994.
+
+International  revenues  constituted  35%,  31%  and 28% of total revenues for
+1996,  1995  and  1994,  respectively.  International  revenues continue to be
+primarily  to customers in Europe and Japan. Revenue growth over the past year
+in  these  two  international markets was 73% and 111%, respectively. In 1996,
+the  Company  completed construction of a $32.3 million manufacturing facility
+in  Dublin,  Ireland.  The  Ireland  facility  has increased production levels
+throughout  1996  and has enhanced the Company 's ability to meet the needs of
+its  international customers. The Company believes that international revenues
+will  continue  to  grow  at  a  faster rate over the intermediate future than
+domestic sales and projects that such revenues will eventually comprise 50% of
+the  worldwide  total.  However, there can be no assurances that international
+revenues will eventually reach this level in the future. Sales to Pacific Rim,
+Middle  East  and  other  regions  outside  North  America,  Europe  and Japan
+represented approximately 4% of revenues in each year presented.
+
+Recently,  several  independent semiconductor industry analysts have indicated
+their  belief that the overall semiconductor industry will grow at lower rates
+than actual growth rates over the last few years. See "Other Factors Affecting
+Operating  Results"  for  discussion  relating  to  potential  impact  of
+semiconductor industry conditions on the Company's business.
+
+The  Company  expects  its  growth rate in revenue for fiscal 1997 to decrease
+from  the  levels  experienced  in fiscal 1996.  The Company believes that the
+conditions that led to slow growth in the last two quarters of fiscal 1996 are
+still present, although probably to a lesser degree. The Company also realizes
+that  a  prolonged  slowdown  in  the  overall  semiconductor  industry  would
+detrimentally  impact  Xilinx.  While  the  Company currently projects revenue
+growth  rates for the first two quarters of fiscal 1997 to be comparable to or
+above  the  two  to four percent quarterly growth experienced in the final two
+quarters of the prior fiscal year, no assurance can be given that this will be
+the case.
+
+The  preceding  three  paragraphs  contains  forward-looking  statements which
+involve  risks  and  uncertainties.  The Company's actual results could differ
+materially  from  those  anticipated  in these forward-looking statements as a
+result  of  certain  factors  including  those set forth in "Factors Affecting
+Future Results" and elsewhere in this section.
+
+     Gross Margin
+
+Gross margin as a percentage of revenues was 63.8% for 1996 as compared to 61%
+for  1995 and 61.5% for 1994. Recent gross margin improvements are largely due
+to  the  strengthening  of  the  dollar  versus  the  yen,  recurring  pricing
+negotiations,  improved  product  yields  associated with recent manufacturing
+technology enhancements, and realization of the benefits of expanded levels of
+production.  Over  the  past  three years, Xilinx has also been able to offset
+much  of the erosion in gross margin percentages on the more mature integrated
+circuits with increased volumes of newer, proprietary, higher margin products.
+  The  Company  recognizes  that  ongoing  price reductions for its integrated
+circuits  are  a significant element in expanding the market for its products.
+Company  management  believes  that the fiscal 1996 gross margins of 63.8% are
+neither  sustainable  nor desirable in the future. Gross margins closer to the
+Company's  historical  range  of  60%  to  62% of revenues are considered more
+appropriate  for  expanding  market  share while realizing acceptable returns,
+although  there  can be no assurance that future gross margins will be in this
+range.  Because  the Company 's wafer purchases supplied by Japanese foundries
+are  denominated  in yen, a strengthened U.S. dollar exchange rate against the
+yen  has  had  a  positive impact on manufacturing costs.  Manufacturing costs
+would  be  adversely  impacted  if  the  dollar  weakens against the yen. "See
+Factors Affecting Future Results."
+
+     Research and Development
+
+The  Company  has increased the dollars spent on research and development each
+year  in its twelve year history. These expenses in 1996 exceeded those of the
+prior  year  by  43%  and  those  of 1994 by 88%. The increase in research and
+development  expenses  is primarily attributable to increased staffing, higher
+engineering  wafer  purchases,  and  increased  facility  and  support  costs
+associated  with an expanded scope of operations. Increased staffing in fiscal
+1996  was  attributable  in part to the acquisition and integration of NeoCAD.
+See  Note 3 of Notes to Consolidated Financial Statements. The Company remains
+committed  to  a significant level of research and development effort in order
+to  continue  to  compete  aggressively in the programmable logic marketplace.
+Through  March  31, 1996, the Company had 92 U.S. patents issued and has filed
+for  an  additional 139 U.S. patents in the areas of software, IC architecture
+and  design.  As  of  March  31, 1996, research and development personnel were
+split  40%  for software development and 60% for integrated circuit design and
+process  development.  Xilinx  has not capitalized any of the costs associated
+with its software development.
+
+     Marketing, General and Administrative
+
+Marketing, general and administrative costs have increased in each of the past
+three  years  but  declined  as  a percentage of revenues, reflecting both the
+greater  growth  rate  in  revenues  and  the  Company's commitment to control
+administrative  expenses.  Sales  expenses  have  increased  each  year due to
+increasing  personnel,  increases  in  advertising,  the  costs  of  new sales
+offices,  and greater commission expenses associated with higher revenues. The
+Company  has  nineteen  sales  offices  located  throughout the United States,
+including  the  metropolitan  areas  of San Jose, Los Angeles, Denver, Dallas,
+Chicago,  Minneapolis,  Atlanta,  Raleigh,  Philadelphia and Boston as well as
+eight international sales offices located in the metropolitan areas of London,
+Munich,  Paris, Stockholm, Tokyo, Taipei, Seoul and Hong Kong. The increase in
+general and administrative expenses since 1994 is primarily attributable to an
+expanded  number of employees and to continuing legal expenses associated with
+litigation  intended  to  protect the Company 's intellectual property rights.
+The  timing  and  extent  of  future  legal  costs associated with the ongoing
+enforcement  of  the  Company's  intellectual  property rights are not readily
+predictable  and  may  increase the level of future general and administrative
+expenses.
+
+     Non-recurring Charges
+
+During  the first quarter of fiscal 1996, the Company incurred a $19.4 million
+non-recurring  write-off  of  in-process technology relating to the Company 's
+acquisition  of  NeoCAD.    During 1996, the Company has incurred research and
+development  expenses relating to its efforts to combine the Xilinx and NeoCAD
+technologies  into  an  integrated  software  product.  See Note 3 of Notes to
+Consolidated  Financial  Statements.  During 1995, the Company incurred a $2.5
+million write-off of a minority investment in Star Semiconductor Corporation.
+
+     Operating Income
+
+Operating income grew from $65.2 million in 1994 to $92 million in 1995 and to
+$165.8  million  in  1996.  Operating income in 1996 was $185.1 million before
+consideration  of  the  non-recurring write-off of in-process technology. Over
+the  past  three  years,  operating income as a percentage of revenues (before
+consideration  of  non-recurring  charges) has increased from 25.4% in 1994 to
+26.6% in 1995 and to 33% in 1996. Operating income as a percentage of revenues
+could be adversely impacted in future years by the factors noted above, and as
+the  Company  expands its efforts in research and development and continues to
+assert its intellectual property rights.
+
+     Interest, Net
+
+The  Company incurs interest expense on the $250 million of 5 1/4% convertible
+subordinated  notes issued in November 1995. The Company earns interest income
+on  its  cash,  cash  equivalents,  short-term  investments  and  restricted
+investments.    The  amount of interest earned is a function of the balance of
+cash  invested  as  well as the prevailing interest rates. Net interest income
+for  1996 increased by $2.3 million over 1995. In 1996, the increased interest
+expense  incurred  relating  to the notes was partially offset by the interest
+income  earned  from  investing  the net proceeds of such notes. The Company's
+investment portfolio contains tax-advantaged municipal bonds which have pretax
+yields  which  are  less  than  the  interest rate on the notes. For financial
+reporting purposes, the Company effectively records the difference between the
+pretax  and  tax-equivalent  yields  as  a reduction in provision for taxes on
+income.  As  a  result  of  the  difference  in  yields and future uses of the
+investment  portfolio, levels of net interest income are likely to decrease in
+the future.
+
+     Provision for Income Taxes
+
+Xilinx 's effective tax rate was 40.6% for 1996 as compared to 37.5% and 38.8%
+for  1995 and 1994, respectively. The higher tax rate for fiscal 1996 resulted
+from  the  non-recurring  write-off  of  in-process technology relating to the
+acquisition  of  NeoCAD,  which  is  not  tax  deductible.    Excluding  the
+non-recurring write-off of in-process technology, the Company 's effective tax
+rate  for  fiscal  1996  was 36.5%.  The reduced rate from the previous fiscal
+year is primarily due to the Company 's expanded operations in certain foreign
+jurisdictions  that  offer  statutory  tax  rates beneath the US effective tax
+rate.  The  Company believes that net deferred tax assets (approximately $25.1
+million  at  March 31, 1996) are realizable due to the taxable income existing
+in potential carryback years.
+
+     Inflation
+
+The  effects  of  inflation upon the Company's financial results have not been
+significant.
+
+FACTORS AFFECTING FUTURE RESULTS
+
+     Dependence Upon Independent Manufacturers
+
+The  Company  does  not manufacture the wafers used for its products. To date,
+most  of  the  Company  's  FPGA  wafers have been manufactured by Seiko Epson
+Corporation  (Seiko)  and  Yamaha  Corporation.  The Company has depended upon
+these  suppliers and others to produce wafers with competitive performance and
+cost attributes, to produce wafers at acceptable yields and to deliver them to
+the  Company  in  a  timely manner. While the quality, yield and timeliness of
+wafer deliveries to date from its suppliers have been acceptable, there can be
+no  assurance  that  manufacturing  problems will not occur in the future. Any
+prolonged  inability  to  obtain  wafers with competitive performance and cost
+attributes,  adequate yields or timely deliveries from these manufacturers, or
+any  other  circumstance  that  would  require the Company to seek alternative
+sources of supply, could delay shipments. Any significant delays could have an
+adverse effect on the Company 's operating results.
+
+The  Company  's  long-term growth will depend in large part on the Company 's
+ability  to  obtain  increased  wafer  fabrication  capacity from suppliers. A
+significant  increase in general industry demand or any interruption of supply
+could  reduce  the Company 's supply of wafers or increase the Company 's cost
+of  such  wafers,  thereby  materially  adversely  affecting  the  Company  's
+business.
+
+In  order  to  secure additional wafer capacity, the Company from time to time
+considers  a  number  of  alternatives,  including, without limitation, equity
+investments  in,  or  loans,  deposits,  or  other  financial  commitments to,
+independent  wafer  manufacturers  in exchange for production capacity, or the
+use  of contracts which commit the Company to purchase specified quantities of
+wafers  over  extended periods.  The Company has at times been unable, and may
+in  the  future  be  unable,  to  fully  satisfy  customer  demand  because of
+production  constraints, including the ability of suppliers and subcontractors
+to  provide  materials and services in a timely manner, as well as the ability
+of the Company to process products for shipment.  The Company 's future growth
+will  depend in part on its ability to locate and qualify additional suppliers
+and  subcontractors  and  to  increase  its own capacity to ship products, and
+there  can  be  no  assurance  that  the  Company  will be able to do so.  Any
+increase  in  these  constraints on the Company 's production could materially
+adversely  affect  the  Company  's  business. In this regard, the Company has
+entered  into  a  joint venture, United Silicon Inc. (USI), to construct a new
+wafer  fabrication  facility.    See  Notes  4  and 5 of Notes to Consolidated
+Financial  Statements  and  the  Commitments  discussion  within  "Financial
+Condition,  Liquidity  and  Capital  Resources." However, there are many risks
+associated  with  the  construction  of  a  new  facility, and there can be no
+assurance  that  such facility will become operational in a timely manner.  In
+addition,  the  Company  has recently entered into an agreement for additional
+capacity  with  another  foundry.    See  Note    11  of Notes to Consolidated
+Financial  Statements  and  the  Commitments  discussion  within  "Financial
+Condition,  Liquidity  and  Capital  Resources."    If  the  Company  requires
+additional  capacity  and  such  capacity  is  unavailable,  or unavailable on
+reasonable  terms,  the  Company  's  business  could  be materially adversely
+affected.
+
+     Impact of Currency
+
+The  Company  has  historically purchased most of the processed silicon wafers
+used  in  its  integrated  circuits  from  Japanese foundries, which have been
+denominated in yen. The Company has often limited its exposure to fluctuations
+in  foreign exchange rates through the purchase of forward exchange and option
+contracts  and  by  denominating  billings  to  Japanese customers in yen. The
+Company  has entered into currency option contracts to cover approximately 50%
+of  1997  yen  requirements for wafer purchases after consideration of foreign
+sales  denominated in yen. Weakness in the purchasing power of the U.S. dollar
+could  increase  the  effective cost of processed silicon and adversely affect
+the  Company 's future results of operations. Foreign sales are billed in U.S.
+dollars  except  for  sales  in Japan denominated in yen. The Company has also
+entered  into  foreign  exchange  forward contracts to eliminate the impact of
+future  exchange  fluctuations  on  the US dollar cost of investing in the USI
+joint venture.
+
+     Litigation
+
+The Company is currently involved in patent litigation with Altera Corporation
+(see  Note  10 of Notes to Consolidated Financial Statements and Item 3, Legal
+Proceedings).    Due to the uncertain nature of the litigation with Altera and
+because the lawsuits are still in the pre-trial stage, the ultimate outcome of
+these  matters cannot be determined at this time.  Management believes that it
+has meritorious defenses to such claims and is defending them vigorously.  The
+foregoing is a forward looking statement and the future outcome could differ.
+
+     Other Factors Affecting Operating Results
+
+The  semiconductor  industry  is  characterized by rapid technological change,
+intense  competitive  pressure  and  cyclical  market patterns. The Company 's
+results  of  operations  are  affected by a wide variety of factors, including
+general  economic  conditions  and  conditions  specific  to the semiconductor
+industry,  decreases  in average selling price over the life of any particular
+product,  the timing of new product introductions (both by the Company and its
+competitors), the timely implementation of new manufacturing technologies, the
+ability  to  safeguard patents and intellectual property in a rapidly evolving
+market,  and  rapid  escalation  of  demand  for  some products in the face of
+equally  steep  decline in demand for others. Market demand for the Company 's
+products, particularly for those most recently introduced, can be difficult to
+predict,  especially  in  light of customers ' demands to shorten product lead
+time.  This  could  lead  to  revenue volatility if the Company were unable to
+provide  sufficient  quantities  of  specified products in a given quarter. In
+addition,  any  difficulty in achieving targeted yields could adversely impact
+the  Company  's results of operations. The Company attempts to identify these
+changes  in  market  conditions  as soon as possible; however, the rapidity of
+their  onset makes prediction of and reaction to such events difficult. Due to
+the  foregoing  and  other  factors,  past  results  are  a much less reliable
+predictor  of  the future than is the case in many older, more stable and less
+dynamic industries.
+
+The  Company 's future success depends on its ability to develop and introduce
+on a timely basis new products which compete effectively on the basis of price
+and  performance  and  which address customer requirements. The success of new
+product  introductions  is  dependent  upon  several factors, including timely
+completion of new product designs, achievement of acceptable yields and market
+acceptance.  No assurance can be given that the Company 's product development
+efforts  will  be  successful  or  that  its  new products will achieve market
+acceptance.  In addition, the average selling price for any particular product
+tends  to decrease rapidly over the product 's life. To offset such decreases,
+the Company relies primarily on obtaining yield improvements and corresponding
+cost reductions in the manufacture of existing products and on introducing new
+products  which  incorporate  advanced  features  and  other price/performance
+factors  such  that  higher  average  selling  prices  and  higher margins are
+achievable  relative  to  mature  product  lines. To the extent that such cost
+reductions and new product introductions with higher margins do not occur in a
+timely manner or the Company 's products do not achieve market acceptance, the
+Company 's operating results could be adversely affected.
+
+The  Company's  FPGA  and  CPLD  products  compete  in  the programmable logic
+marketplace,  with  a  substantial  majority of the Company's revenues derived
+from  its FPGA product families.  The industries in which the Company competes
+are intensely competitive and are characterized by rapid technological change,
+rapid  product  obsolescence  and  price  erosion.    The  Company  expects
+significantly  increased competition both from existing competitors and from a
+number of companies that may enter its market.  Xilinx believes that important
+competitive  factors  in  the programmable logic market include price, product
+performance  and  reliability,  adaptability  of  products  to  specific
+applications,  ease  of  use and functionality of development system software,
+and  technical  service  and support.  The Company's strategy for expansion in
+the programmable logic market includes continued price reductions commensurate
+with  the  ability to lower the cost of manufacture and continued introduction
+of new product architectures which target high volume, low cost applications. 
+The  Company's  major  sources of competition are comprised of three elements:
+the  manufacturers  of  custom  CMOS  gate  arrays,  providers of high density
+programmable logic products characterized by FPGA-type architectures and other
+providers  of  programmable  logic products.  The Company competes with custom
+gate  array  manufacturers  on  the  basis  of  lower  design  costs,  shorter
+development  schedules and reduced inventory risks.  The primary attributes of
+custom  gate  arrays  are high density, high speed and low production costs in
+high  volumes.    However, the Company believes that the design specifications
+for  many  customers  can  be  met  by  the  density and speed capabilities of
+Xilinx's  programmable logic products which are cost effective in the required
+production  volumes.    In  addition, the Company's efforts to introduce lower
+cost  architectures are intended to narrow the gap between current custom gate
+array  production  costs  (in high volumes) and FPGA production costs.  To the
+extent  that  such efforts are not successful, the Company's business could be
+materially adversely affected.
+
+The  Company  relies upon patent, trademark, trade secret and copyright law to
+protect  its  intellectual  property.  There  can  be  no  assurance that such
+intellectual  property  rights  can  be successfully asserted in the future or
+will  not be invalidated, circumvented or challenged. From time to time, third
+parties,  including  competitors  of the Company, may assert exclusive patent,
+copyright  and  other  intellectual  property  rights to technologies that are
+important  to the Company. Litigation, regardless of its outcome, could result
+in  substantial  cost  and  diversion  of  resources  of  the  Company.  Any
+infringement  claim  or  other  litigation  against  or  by  the Company could
+materially, adversely affect the Company 's financial condition and results of
+operations.
+
+The Company's future success depends in large part on the continued service of
+its  key  technical,  marketing and management personnel and on its ability to
+continue  to attract and retain qualified employees, particularly those highly
+skilled  design,  process  and  test  engineers involved in the manufacture of
+existing  products  and  the  development  of new products and processes.  The
+competition for such personnel is intense, and the loss of key employees could
+have  a  material,  adverse  effect  on  the Company's financial condition and
+results of operations.
+
+Sales outside of the United States carry a number of inherent risks, including
+risks of currency exchange fluctuations, the need for export licenses, tariffs
+and  other  potential  trade  barriers,  reduced  protection  for intellectual
+property  rights in some countries, the impact of recessionary environments in
+economies outside the United States and generally longer receivable collection
+periods.   The Company's business is also subject to the risks associated with
+the imposition of legislation and regulations relating to the import or export
+of semiconductor products.  The Company cannot predict whether quotas, duties,
+taxes or other charges or restrictions will be imposed by the United States or
+other  countries upon the importation or exportation of the Company's products
+in the future or what, if any, effect such actions would have on the Company's
+financial condition and results of operations.
+
+In  order  to expand international sales and service, the Company will need to
+maintain  and  expand  existing  foreign  operations  or establish new foreign
+operations.    This  entails  hiring  additional  personnel and maintaining or
+expanding  existing  relationships  with  international distributors and sales
+representatives.    This  will  require  significant  management attention and
+financial  resources  and  could  adversely  affect  the  Company's results of
+operations.   There can be no assurance that the Company will be successful in
+its  maintenance  or  expansion  of  existing  foreign  operations,  in  its
+establishment  of  new  foreign  operations  or  in its efforts to maintain or
+expand  its  relationships  with  international  distributors  or  sales
+representatives.
+
+The  semiconductor  industry has historically been cyclical and subject to, at
+various  times,  significant  economic  downturns  characterized by diminished
+product  demand,  accelerated  erosion  of  average  selling  prices  and
+overcapacity.  The  Company  may  experience  substantial  period-to-period
+fluctuations in future operating results due to general semiconductor industry
+conditions, overall economic conditions or other factors.
+
+Currently,  most of the Company 's operations are centered in an area that has
+been seismically active.  Should there be a major earthquake in this area, the
+Company  's  operations  may  be  disrupted  resulting in the inability of the
+Company  to  ship  products  in  a timely manner, thereby materially adversely
+affecting the Company 's business.
+
+In  addition,  the  securities  of  many  high  technology  companies  have
+historically  been  subject to extreme price and volume fluctuations which may
+adversely affect the market price of the Company 's Common Stock.
+
+FINANCIAL CONDITION, LIQUIDITY AND CAPITAL RESOURCES
+
+The  Company  's financial condition at March 31, 1996 remained strong.  Total
+current  assets  exceeded  total current liabilities by 5.2 times, compared to
+3.4  times  at  March  31,  1995.  Since its inception, the Company has used a
+combination  of  equity  and  debt financing and internal cash flow to support
+operations,  make  acquisitions and investments in complementary technologies,
+obtain capital equipment and finance inventory and accounts receivable.
+
+Total assets have grown from $320.9 million in 1995 to $720.9 million in 1996.
+This  increase  reflects  the net proceeds of $243.9 million received from the
+sale   of convertible subordinated notes during the year as well as the year's
+favorable  operating results. The percentage changes of selected balance sheet
+items from March 1995 to March 1996 are shown below:
+
+
+
+
+
+     Cash, Cash Equivalents and Short-term Investments
+
+Xilinx  's  cash,  cash  equivalents  and  short-term investments increased by
+$255.1  million  in  1996  to $378 million. The Company generated cash flow of
+approximately  $150.3  million  from  operating  activities in 1996, offset by
+$352.7  million  of  cash  used  for  investing  activities,  including  the
+acquisition of NeoCAD, the USI joint venture, net purchases of investments and
+investments  in  property,  plant  and  equipment.  In  addition,  the Company
+generated  $256.7  million  of cash from financing activities, reflecting  the
+proceeds  derived  from  the  convertible  debt  offering, which netted $243.9
+million,  and $14.2 million of common stock proceeds under employee option and
+stock  purchase plans, offset by $1.4 million of principal payments on capital
+lease  obligations.  At  March 31, 1996, cash, cash equivalents and short-term
+investments represented 52% of total assets.
+
+     Receivables
+
+Receivables  grew 81.2% from $43.9 million at the end of 1995 to $79.5 million
+at  the end of 1996. The increase in receivables year-to-year is primarily due
+to  the greater volume of shipments which occurred in the last month of fiscal
+1996.
+
+     Inventories
+
+Inventories  increased 53.4% from $25.6 million at March 1995 to $39.2 million
+at  March  1996.  Inventory  levels  at  March  31,  1996 represent 69 days of
+inventory,  which  is  consistent  with Company objectives, and compares to 54
+days  at  March 31, 1995. The Company confronts dual, contradictory objectives
+with  regard  to  inventory  management. On the one hand, the Company believes
+that  its  standard,  off-the-shelf  products  should  be available for prompt
+shipment  to customers. Accordingly, it attempts to maintain sufficient levels
+of  inventory  in  various  product,  range  and  speed configurations to meet
+unpredictable  customer  demand.  At the same time, the Company also wishes to
+minimize  the  handling  costs  associated with higher inventory levels and to
+realize  fully  the  opportunities  for  cost reduction associated with future
+manufacturing process advancements. The Company continually strives to balance
+these  two  objectives  so  as  to  provide  excellent  customer response at a
+competitive  cost.  Year-end inventories as a percentage of the fourth quarter
+'s cost of revenues increased from 60% in 1995 to 76% in 1996.
+
+     Property, Plant and Equipment
+
+Xilinx  's  investment  in  property  and  equipment was $60.5 million in 1996
+compared  to  $26.2  million  in  1995.    The  Company continues to invest in
+software  design  tools  and  semiconductor  design,  test  and  manufacturing
+equipment.    The  Company  completed  construction  of  a  $32.3  million
+manufacturing  facility  in  Dublin,  Ireland in 1996 to establish capacity to
+meet  increased product demand. Although the Company anticipates significantly
+lower capital expenditures in fiscal 1997 as a result of the completion of the
+Ireland facility, significant investments with wafer suppliers are planned for
+1997.  See Commitments discussion.
+
+     Current Liabilities
+
+Current  liabilities  grew by 34.9% to $102.6 million at the end of 1996. This
+growth  is  primarily  attributable to increased deferred income for shipments
+made  to  domestic  distributors,  increased trade payables associated with an
+expanded  scale of operations and interest payable relating to the convertible
+subordinated notes.
+
+     Line of Credit
+
+The  Company  has  obtained  credit line facilities for up to $47 million (see
+Note  5  of Notes to Consolidated Financial Statements) of which $7 million is
+intended  to  meet  occasional working capital requirements for the Company 's
+wholly  owned  Irish  subsidiary.    At  March  31,  1996,  no borrowings were
+outstanding under the lines of credit.
+
+     Long-term Debt
+
+In  November 1995, the Company issued $250 million in convertible subordinated
+notes.  See Note 5 of Notes to Consolidated Financial Statements. There was no
+significant long-term debt in 1995.
+
+     Stockholders ' Equity
+
+Stockholders ' equity grew by 50.9% in 1996 to $368.2 million. The increase of
+$124.3  million was primarily attributable to $101.5 million in net income and
+$22.1  million  related to the issuance of common stock in accordance with the
+Company 's stock plans and the tax benefit from stock options.  Stockholders '
+equity as a percentage of total assets was 51.1% for 1996 and 76% for 1995.
+
+     Commitments
+
+The  Company  entered into a series of agreements with United Microelectronics
+Corporation  (UMC)  pursuant  to  which the Company has agreed to join UMC and
+other parties to form a joint venture for the purpose of building and managing
+an  advanced  semiconductor  manufacturing  facility  in Taiwan. See Note 4 of
+Notes  to Consolidated Financial Statements. Under the terms of the agreement,
+the  Company invested $34 million in fiscal 1996 and will invest an additional
+$68  million and $34 million in December 1996 and July 1997, respectively, for
+a 25% equity interest in the venture. As a result of its equity ownership, the
+Company  will  receive rights to purchase at market prices a percentage of the
+facility  's  wafer production.  The proposed facility is expected to commence
+limited  production  of  eight-inch sub-micron wafers during fiscal 1998.  The
+Company is currently receiving eight-inch, sub-micron wafers in limited volume
+from  a  recently  constructed foundry in which UMC is the major shareholder. 
+Xilinx  believes it will continue to receive such products in moderate volumes
+until the proposed facility is operational.
+
+On  May 17, 1996, the Company signed an agreement with Seiko Epson Corporation
+(Seiko),  a  primary  wafer  supplier.    See Note 11 of Notes to Consolidated
+Financial  Statements.  The agreement provides for an advance to Seiko of $200
+million  to  be  used  in  the construction of a wafer fabrication facility in
+Japan  which  will  provide  access  to  eight-inch  sub-micron  wafers.    In
+conjunction  with  the agreement, $30 million was paid in May 1996 and further
+installments  are  scheduled  starting  in  November  1996.  Repayment of this
+advance will be in the form of wafer deliveries expected to begin in the first
+half  of  1998.  In addition to the advance payments, the Company will provide
+further  funding  to  Seiko  in  the  amount  of $100 million. This additional
+funding  will  be paid after the final installment of the $200 million advance
+and the form of the additional funding will be negotiated at that time.
+
+     Employees
+
+The  number  of Company employees grew by 38% during the past year. Xilinx had
+1,201  employees at the end of 1996 as compared to 868 at the end of the prior
+year.
+
+The  Company anticipates that existing sources of liquidity and cash flow from
+operations  will  be  sufficient  to satisfy the Company 's cash needs for the
+foreseeable  future.  The  Company will continue to evaluate opportunities for
+investments  to  obtain  additional  wafer  supply  capacity,  procurement  of
+additional  capital equipment and facilities, development of new products, and
+potential  acquisitions  of  businesses,  products  or technologies that would
+complement  the  Company  's  businesses  and  may use available cash or other
+sources of funding for such purposes.
+
+
+ITEM 8.     FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+CONSOLIDATED STATEMENT OF INCOME
+
+
+
+
+CONSOLIDATED BALANCE SHEET
+
+
+
+
+CONSOLIDATED STATEMENT OF CASH FLOWS
+
+
+
+
+
+
+CONSOLIDATED STATEMENT OF STOCKHOLDERS' EQUITY
+
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1. NATURE OF OPERATIONS
+
+Xilinx  designs, develops and markets programmable logic semiconductor devices
+and related development system software.  The Company 's product lines include
+field  programmable  gate  arrays and complex programmable logic devices.  The
+wafers  used  to  manufacture  the  Company  's  products  are  obtained  from
+independent  wafer  manufacturers,  located primarily in Japan. The Company is
+dependent  upon  these manufacturers to produce and deliver wafers on a timely
+basis.    The  Company  is  also  dependent on subcontractors, located in Asia
+Pacific,  to  provide  semiconductor  assembly  services.   Xilinx is a global
+company  with  manufacturing  facilities  in the United States and Ireland and
+sales  offices  throughout  the  world.    The  Company's products are sold to
+customers  in  the data processing, telecommunications, networking, industrial
+control,  instrumentation and military markets.  The Company derives more than
+one-third  of  its  revenues from international sales, primarily in Europe and
+Japan.
+
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES AND CONCENTRATIONS OF RISKS
+
+     Basis of presentation
+
+The accompanying consolidated financial statements include the accounts of the
+Company and its wholly owned subsidiaries after elimination of all significant
+intercompany accounts and transactions. The Company 's fiscal year ends on the
+Saturday  nearest  March  31.  For  ease  of  presentation,  March 31 has been
+utilized  as  the fiscal year-end for all financial statement captions. Fiscal
+years 1996, 1995 and 1994 each consisted of 52 weeks.
+
+     Cash equivalents and  investments
+
+Cash  and  cash  equivalents  consists  of  cash  on  deposit with banks, tax-
+advantaged  municipal  bonds, and investments in money market instruments with
+insignificant  interest  rate  risk  and  original  maturities  at  date  of
+acquisition  of  90  days  or  less.  Short-term  investments  consist  of
+tax-advantaged  municipal  bonds  and  corporate bonds with maturities greater
+than  90  days  but less than one year. Restricted investments consist of U.S.
+Treasury  Securities  held as collateral relating to leases for the Company 's
+facilities.  See  Note  6  of  Notes to Consolidated Financial Statements. The
+Company  maintains  its  cash,  cash equivalents and short-term investments in
+several  financial  instruments  with  various  banks  and  investment banking
+institutions.  This  diversification of risk is consistent with Company policy
+to maintain liquidity and ensure the safety of principal.
+
+Management classifies investments as available-for-sale or held-to-maturity at
+the  time  of  purchase  and  re-evaluates such designation as of each balance
+sheet date. Securities are classified as held-to-maturity when the Company has
+the  positive  intent  and  the ability to hold the securities until maturity.
+Held-to-maturity  securities  are carried at cost adjusted for amortization of
+premiums and accretion of discounts to maturity. Such amortization, as well as
+any interest on the securities, is included in interest income. Securities not
+classified  as  held  to  maturity  are  classified  as  available-for  sale.
+Available-for-sale  securities  are  carried at fair value with the unrealized
+gains  or losses, net of tax, included as a separate component of stockholders
+'  equity.  Realized  gains  and  losses  and  declines  in value judged to be
+other-than-temporary  on  available-for-sale  securities are included in other
+income. The fair values for marketable debt and equity securities are based on
+quoted  market  prices. The cost of securities matured or sold is based on the
+specific identification method.
+
+
+     Inventories
+
+Inventories  are  stated  at the lower of cost (first-in, first-out) or market
+(estimated  net  realizable value) and are comprised of the following at March
+31, 1996 and 1995:
+
+
+
+
+
+     Advances for wafer purchases
+
+During  fiscal  1995,  the  Company  advanced  $42  million to a primary wafer
+supplier.  Repayment  of this amount is in the form of wafer deliveries and is
+expected  to  be  completed  during  fiscal  1997. Through March 31, 1996, the
+Company has received $33 million in wafers against this advance.
+
+     Property, Plant and Equipment
+
+Property, plant and equipment are stated at cost. Depreciation is computed for
+financial reporting purposes using the straight-line method over the estimated
+useful  lives  of  the assets of three to five years for machinery, equipment,
+furniture  and  fixtures  and  up  to thirty years for buildings. Assets under
+capital  leases  are amortized using the straight-line method over the shorter
+of  the  lease  term or estimated economic life. Depreciation and amortization
+for income tax purposes is computed using accelerated methods.
+
+     Deferred income on shipments to distributors
+
+Certain  of  the  Company  's  sales are made to distributors under agreements
+allowing  for  price  protection  and  limited  right of return on merchandise
+unsold  by the distributors. Because of the uncertainty associated with future
+pricing  concessions  and  returns, the Company defers recognition of revenues
+and  related  cost  of  revenues  until  the  merchandise  is  sold  by  the
+distributors.
+
+     Foreign currency translation
+
+The US dollar is the functional currency for the Company 's Irish subsidiary. 
+Assets and liabilities that are not denominated in the functional currency are
+translated  into US dollars, and the resulting gains or losses are included in
+net  income.    The  functional currency is the local currency for each of the
+Company  's  other  foreign  subsidiaries.  Translation adjustments, resulting
+from  the process of translating foreign currency financial statements into US
+dollars,  have not been material and therefore are not disclosed as a separate
+component of stockholders ' equity.
+
+     Derivative financial instruments
+
+As  part of its ongoing asset and liability management activities, the Company
+enters  into  certain  derivative  financial  arrangements to reduce financial
+market risks. The Company does not enter into derivative financial instruments
+for  trading  purposes.  See  Note  5  of  Notes  to  Consolidated  Financial
+Statements.
+
+
+     Long Lived Assets
+
+In  1995,  the  Financial Accounting Standards Board released the Statement of
+Financial  Accounting  Standard  No.  121  (SFAS  121),  "Accounting  for  the
+Impairment of Long-Lived Assets and for Long-Lived Assets to be Disposed of. "
+SFAS  121 requires recognition of impairment of long-lived assets in the event
+the  net  book value of such assets exceeds the future undiscounted cash flows
+attributable to such assets.  SFAS 121 is effective for fiscal years beginning
+after  December  15,  1995.    Adoption  of SFAS 121 is not expected to have a
+material impact on the Company's financial position or results of operations.
+
+     Employee stock plans
+
+The Company accounts for its stock option and employee stock purchase plans in
+accordance with provisions of the Accounting Principles Board's Opinion No. 25
+(APB  25),  "Accounting for Stock Issued to Employees." In 1995, the Financial
+Accounting  Standards  Board  released  the  Statement of Financial Accounting
+Standard  No.  123 (SFAS 123), "Accounting for Stock Based Compensation." SFAS
+123  provides  an  alternative  to  APB  25  and is effective for fiscal years
+beginning after December 15, 1995.  The Company expects to continue to account
+for  its  employee  stock  plans in accordance with the provisions of APB 25. 
+Accordingly,  SFAS  123  is  not  expected  to  have  a material impact on the
+Company's financial position or results of operations.
+
+     Use of estimates
+
+The  preparation of financial statements in conformity with generally accepted
+accounting  principles  requires  management to make estimates and assumptions
+that  affect  the reported amounts of assets and liabilities and disclosure of
+contingent  liabilities  at  the  date  of  the  financial  statements and the
+reported  amounts  of revenues and expenses during the reporting period.  Such
+estimates  relate  to  the useful lives of fixed assets and intangible assets,
+allowances  for  doubtful  accounts  and customer returns, inventory reserves,
+potential  reserves relating to litigation matters and other reserves.  Actual
+results  may differ from those estimates, and such differences may be material
+to the financial statements.
+
+     Net income per share
+
+Net  income  per  common  and  common  equivalent  share is computed using the
+weighted  average  number  of  common  and  dilutive  common equivalent shares
+outstanding  during  the  period. Dilutive common equivalent shares consist of
+stock  options  (using  the treasury stock method). Fully diluted earnings per
+share  is  computed  using  the  weighted  average  common and dilutive common
+equivalent shares outstanding, plus other dilutive shares which are not common
+equivalent  shares.  The  effect  of  the  convertible  subordinated notes was
+antidilutive  in  the  calculation of fully diluted earnings per share for the
+periods presented.
+
+     Concentrations of credit risk
+
+The  Company  believes  that  the  concentration  of  credit risk in its trade
+receivables  with  respect  to  the  high-technology industry is substantially
+mitigated  by  the  Company  's  credit  evaluation  process, relatively short
+collection  terms,  distributor agreements, and the geographical dispersion of
+sales.  The Company generally does not require collateral. Bad debt write-offs
+have been insignificant for all years presented.
+
+     Concentration of other risks
+
+The  semiconductor  industry  is  characterized by rapid technological change,
+intense  competitive  pressure  and  cyclical  market patterns.  The Company's
+results  of  operations  are  affected by a wide variety of factors, including
+general  economic  conditions  and  conditions  specific  to the semiconductor
+industry,  decreases  in  average selling prices over the life of a particular
+product,  the  timely  receipt of wafers with competitive performance and cost
+attributes,  the  ability to locate and qualify additional wafer suppliers and
+subcontractors,  the  timing  of  new  product  introductions,  the  timely
+implementation  of  new  manufacturing  technologies, the ability to safeguard
+patents  and  intellectual  property  in  a rapidly evolving market, and rapid
+escalation of demand for some products in the face of equally steep decline in
+demand  for  others.    As  a  result,  the Company may experience substantial
+period-to-period  fluctuations  in future operating results due to the factors
+mentioned above or other factors.
+
+3. ACQUISITION
+
+On  April  10,  1995,  the  Company  acquired NeoCAD, Inc. (NeoCAD), a private
+company  engaged  in  the design, development and sale of FPGA software design
+tools  for programmable electronic technologies, for $35 million in cash.  The
+transaction  was  treated  as a purchase for accounting purposes; accordingly,
+the  purchase  price has been allocated to the assets acquired and liabilities
+assumed  based  on  their  estimated  fair values.  The excess of the purchase
+price  over  the  fair  values  of liabilities assumed, net of tangible assets
+acquired,  was  allocated  to in-process technology ($19.4 million), developed
+technology  ($15.7  million)  and  the assembled workforce ($0.7 million). The
+amount of in-process technology was written-off as a non-recurring item during
+the  first  quarter  of  fiscal  1996.  The developed technology and assembled
+workforce assets are being amortized over six and two years, respectively.  In
+fiscal  1996,  the  Company  recorded  amortization  of  $2.6 million and $0.3
+million  relating  to the developed technology and assembled workforce assets,
+respectively.
+
+The  following pro forma information reflects the statements of income for the
+years  ended  March  31,  1996  and  March  31, 1995 as if the acquisition had
+occurred at the beginning of fiscal 1995, and includes certain adjustments for
+amortization  of  the  developed  technology  and  assembled workforce assets,
+reduced  interest  income  and  the  related  income tax impact. The pro forma
+information  excludes  the $19.4 million write-off of in-process technology as
+it  represents  a  non-recurring  item.  This pro forma information may not be
+indicative of the results that actually would have occurred if the combination
+had  been  in  effect  on  the dates indicated or which may be realized in the
+future.
+
+
+
+
+4. JOINT VENTURE
+
+The  Company, United Microelectronics Corporation (UMC) and other parties have
+entered  into  a  joint  venture  to  construct  in Taiwan a wafer fabrication
+facility,  which is known as United Silicon Inc. (USI). The Company has agreed
+to  invest  a  total  of  $3.75 billion New Taiwan dollars (approximately $136
+mil-lion),  which will result in a  25% equity ownership in  the joint venture
+and  the right to receive 31.25% of the wafer capacity from this facility.  In
+January  1996,  the  Company  invested  $937.5  million  New  Taiwan  dollars
+(approximately  $34 million) in the joint venture and expects to invest $1.875
+billion  New Taiwan dollars (approximately $68 million) and $937.5 million New
+Taiwan  dollars  (approximately  $34  million) in December 1996 and July 1997,
+respectively.    The  joint venture is accounted for by the equity method, and
+the operating results to date have not been material.
+
+
+5. FINANCIAL INSTRUMENTS
+
+     Cash and Investments
+
+The  following  is  a  summary  of  available-for-sale  and  held-to-maturity
+securities:
+
+
+
+
+
+All  investments  classified  as    "available-for-sale  securities  "  have
+maturities  due in one year or less. Proceeds from sales of available-for-sale
+securities  and  the related realized gains or losses were immaterial in 1996,
+1995 and 1994.
+
+
+
+
+
+Held-to-maturity  securities  relate  to  certain  collateral requirements for
+lease  agreements  associated with the Company's corporate facilities and have
+maturities  due  in  one  year  or  less.  See Note 6 of Notes to Consolidated
+Financial Statements.
+
+     Derivatives
+
+The  Company  enters  into  currency  forward and option contracts to minimize
+foreign exchange risk relating to the Company 's purchase of wafers, which are
+primarily  denominated  in  yen.   At March 31, 1996, commitments under option
+contracts  to  purchase  yen  in fiscal 1997 were outstanding in the aggregate
+amount  of  $18.1  million.  These contracts are accounted for as identifiable
+hedges  against wafer purchases.  Realized gains or losses are recognized upon
+maturity  of  the  contracts  and are included in cost of sales.  At March 31,
+1996,  the fair value of these option contracts was immaterial based on market
+exchange rates.  The maturities on these contracts is less than twelve months.
+
+The  Company  has entered into foreign exchange forward contracts to eliminate
+the  impact of future exchange fluctuations on the US dollar cost of investing
+in  the  USI  joint  venture. The contracts require the Company to exchange US
+dollars  for  New  Taiwan  dollars and have maturities from nine to twenty-one
+months.  The contracts are accounted for as a hedge of an identifiable foreign
+currency  commitment.    Realized  gains  or  losses  will  be recognized upon
+maturity  of  the  contracts  and  will  be  included in the USI joint venture
+investment.    At  March  31, 1996, the outstanding foreign exchange contracts
+related  to  the USI joint venture were $101.7 million and these contracts had
+an unrealized gain of $1.5 million, which represents their fair value based on
+market exchange rates.
+
+The  Company  has  entered  into  a  two  and one half year interest rate swap
+agreement  with  a third party in order to reduce risk related to movements in
+interest rates.  Under the agreement, which is effective starting in May 1996,
+the  Company  has  effectively converted the fixed rate interest rate payments
+related  to  $125  million of the Company 's convertible subordinated notes to
+variable  rate  interest  payments  without  the  exchange  of  the underlying
+principal  amounts.    The  Company  will receive fixed interest rate payments
+(equal  to 5.935%) from the third party and is obligated to make variable rate
+payments  (equal  to the three month LIBOR rate) to the third party during the
+term  of the agreement.  The net amount of interest payments received from the
+third  party and interest payments made by the Company to the third party will
+be included in interest expense.
+
+During  1995,  the Company completed a reverse repurchase transaction relating
+to  $350 million of U.S. Treasury Securities. The transaction was entered into
+with  the  intent  of generating net interest income in an increasing interest
+rate  environment  and  capital  gains that could be used to offset previously
+incurred  capital  losses relating to the non-recurring $2.5 million write-off
+of  the investment in Star Semiconductor. As a result of this transaction, the
+Company  recorded approximately $9.7 million of interest expense, $4.7 million
+of  interest  income  and  $4.8 million of bond premium amortization in 1995. 
+Although  the Company has generally invested in more conventional investments,
+such  as  municipal  bonds,  the  Company believes that the short sale of U.S.
+Treasury  Securities  met the Company 's investment objectives in 1995. Future
+investment  strategies  will  be  made  in accordance with investment policies
+designed  to  preserve  and enhance corporate assets as such strategies may be
+adopted from time to time by the Company 's Board of Directors.
+
+     Long-Term Debt and Lines of Credit
+
+In  November  1995,  the Company completed a private placement of $250 million
+aggregate  principal  convertible  subordinated  notes  under Rule 144A of the
+Securities  Act  of 1933.  The notes, which mature in 2002, are convertible at
+the  option  of  the  note  holders  into  the  Company  's  common stock at a
+conversion  price  of $51 per share, subject to adjustment upon the occurrence
+of certain events.  The conversion price represented a 24.77% premium over the
+closing  price  of  the  Company  's  stock  on November 7, 1995.  Interest is
+payable semi-annually at 5.25% per annum.  At any time on or after November 4,
+1997,  the  notes  are  redeemable  at the option of the Company at an initial
+redemption  price  of  103.75%  of  the principal amount, except that prior to
+November 3, 1998, the notes are not redeemable unless the closing price of the
+Company  's  common stock has exceeded $71.40 (40% premium over the conversion
+price) per share for twenty trading days within a period of thirty consecutive
+trading  days.   Redemption prices as a percentage of the principal amount are
+103.00%, 102.25%, 101.50% and 100.75% in the years beginning November 1, 1998,
+November  1,  1999, November 1, 2000 and November 1, 2001, respectively.  Debt
+issuance  costs  of  $6.1 million incurred in conjunction with issuance of the
+convertible subordinated notes are being amortized over the seven year life of
+the  notes.   In 1996, the Company recorded debt issuance cost amortization of
+$0.4  million.    At  March  31,  1996,  the  fair  value  of  the convertible
+subordinated  notes  was  approximately  $233.8 million based on quoted market
+prices.    The  Company  has reserved 4,901,961 shares of common stock for the
+conversion of these notes.
+
+The  Company  has $40 million available under a multicurrency revolving credit
+line  agreement  which  expires  on  March  1,  1998.    Under this agreement,
+borrowings  bear interest at the bank 's reference rate or 0.75% over the bank
+'s  interbank  market  rate depending on the currency borrowed.  Additionally,
+the Company 's Irish subsidiary has $7 million available under a multicurrency
+credit line.  Under this agreement, borrowings bear interest at 0.75% over the
+bank  's  prime rate.  At March 31, 1996, no borrowings were outstanding under
+either credit line.  The agreements require the Company to comply with certain
+covenants  and maintain certain financial ratios.  The agreements prohibit the
+payment of cash dividends without prior bank approval.
+
+
+6. COMMITMENTS
+
+The  Company  leases  its  manufacturing and office facilities under operating
+leases  that  expire  at various dates through December 2014. Lease agreements
+for the Company 's corporate facilities contain payment provisions which allow
+for  changes  in  rental  amounts  based  upon  interest  rate  changes.  The
+approximate future minimum lease payments under these leases are as follows:
+
+
+
+
+
+The  Company  has  entered  into  lease  agreements  relating to its corporate
+facilities  which  would  allow  the  Company to purchase the facilities on or
+before  the end of the lease term in December 1999. If at the end of the lease
+term the Company does not purchase the property under lease or arrange a third
+party  purchase,  then  the  Company  would  be  obligated to the lessor for a
+guarantee  payment  equal to a specified percentage of the Company 's purchase
+price  for the property. The Company would also be obligated to the lessor for
+all  or  some  portion  of this amount if the price paid by the third party is
+below  a specified percentage of the Company 's purchase price. The Company is
+also  required to comply with certain covenants and maintain certain financial
+ratios.  As  of  March  31,  1996,  the  total  amount  related  to the leased
+facilities  for  which  the  Company  is contingently liable is $39.8 million.
+Under  the  terms  of  the  agreements,  the  Company  is required to maintain
+collateral  (restricted  investments)  of approximately $36 million during the
+lease term.
+
+7. STOCKHOLDERS ' EQUITY
+
+The Company 's Certificate of Incorporation provides for 200 million shares of
+common stock and 2 million shares of undesignated preferred stock.
+
+     Treasury stock
+
+The  Company  authorized a stock buyback program in June 1992 to repurchase up
+to  4,500,000 shares of common stock. The Company has used the shares actually
+repurchased  to meet the stock requirements of the Company 's Stock Option and
+Employee  Qualified  Stock  Purchase  Plans.  Under  this program, the Company
+repurchased  3,030,000  shares  of  its common stock on the open market during
+1993  for  a  total  cost of $17.4 million.  During 1996 and 1995, the Company
+issued  1,430,502  and 1,599,498, respectively, of these shares in response to
+stock  option  exercises  and  stock  purchase plan requirements. At March 31,
+1996, there were no shares of treasury stock outstanding.
+
+     Employee qualified stock purchase plan
+
+Under  the  Company  's 1990 Employee Qualified Stock Purchase Plan (the Stock
+Purchase  Plan), qualified employees are entitled to purchase shares of common
+stock  at  85%  of  the  fair  market value at certain specified dates. Of the
+2,925,000  shares authorized to be issued under this plan, 537,451 and 635,466
+shares were issued during 1996 and 1995, respectively, and 252,050 shares were
+available  for issuance at March 31, 1996. In March 1996, the Company 's Board
+of  Directors amended the Stock Purchase Plan to increase the number of shares
+for  issuance thereunder by 460,000 shares, subject to shareholder approval in
+fiscal 1997.
+
+     Employee stock option plan
+
+The  Company  has  adopted  the 1988 Stock Option Plan (the Option Plan) under
+which  a  total  of 32,781,000 common shares has been reserved for issuance to
+employees,  directors,  and  consultants  of  the Company. Options to purchase
+shares  of the Company 's common stock under the Option Plan may be granted at
+not  less  than  85%  of  the fair value of the stock on the date of grant. To
+date,  no shares have been issued at less than 100% of the fair value. Options
+granted  to date expire ten years from date of grant and vest at varying rates
+over  five years. In March 1996, the Company 's Board of Directors amended the
+Option  Plan to increase the number of shares reserved for issuance thereunder
+by 3,300,000 shares, subject to shareholder approval in fiscal 1997.
+
+Additional information relative to the Option Plan is as follows:
+
+
+
+
+
+
+
+The  range  of  exercise  prices for options outstanding at March 31, 1996 was
+$0.12  to  $48.13.  Prices  for options exercised during the three year period
+ended March 31, 1996 ranged from $0.12 to $23.42.
+
+     Stock split
+
+On  July  26, 1995, the Company's stockholders approved a 3-for-1 stock split,
+in  the  form of a 200% dividend, payable to stockholders of record as of July
+28, 1995. Shares, per share amounts, common stock at par value, and additional
+paid  in capital have been restated to reflect the stock split for all periods
+presented.
+
+
+     Stockholder Rights Plan
+
+In  October 1991, the Company adopted a stockholder rights plan and declared a
+dividend  distribution of one common stock purchase right for each outstanding
+share  of  its  common  stock.    The rights become exercisable based upon the
+occurrence  of  certain  conditions  including  acquisitions of Company stock,
+tender or exchange offers and certain business combination transactions of the
+Company.  In the event one of the conditions is triggered, each right entitles
+the  registered  holder  to purchase a number of shares of common stock of the
+Company  or,  under  limited  circumstances,  of the acquirer.  The rights are
+redeemable  at  the  Company's  option  under certain conditions, for $.01 per
+right and expire on October 4, 2001.
+
+8. INCOME TAXES
+
+
+
+The  tax  benefits  associated  with  the  disqualifying dispositions of stock
+options  or employee stock purchase plan shares reduce taxes currently payable
+by  $7.9  million,  $3.5  million  and  $2.4 million for 1996, 1995, and 1994,
+respectively.  Such  benefits  are credited to additional paid-in capital when
+realized.
+
+The  provision  for income taxes reconciles to the amount obtained by applying
+the  Federal statutory income tax rate to income before provision for taxes as
+follows:
+
+
+
+
+
+
+
+9. INDUSTRY AND GEOGRAPHIC INFORMATION
+
+The  Company  operates  in  one single industry segment comprising the design,
+development  and marketing of programmable logic semiconductor devices and the
+related development system software.
+
+Export revenues consisting of sales from the US to non-affiliated customers in
+certain geographic areas were as follows:
+
+
+
+
+
+During fiscal 1996, the Company began operations in its European manufacturing
+facility.    Geographic information for fiscal 1996 is presented in the tables
+below.  Foreign operations prior to fiscal 1996 were not material.
+
+
+
+
+
+
+No  single end customer accounted for more than 6% of revenues in 1996 or 1995
+and  4%  of  revenues  in 1994.  Approximately 13%, 14% and 14% of net product
+revenues  were  made  through  the  Company 's largest domestic distributor in
+1996,  1995  and 1994 respectively, and another domestic distributor accounted
+for  10%  of  net  product  revenues  in  1996 and 1995 and 12% of net product
+revenues in 1994.
+
+10. LITIGATION
+
+On June 7, 1993, the Company filed suit against Altera Corporation (Altera) in
+the  United  States District Court for the Northern District of California for
+infringement  of certain of the Company 's patents. Subsequently, Altera filed
+suit  against  the  Company  alleging  that certain of the Company 's products
+infringe  certain  Altera  patents.  Fact discovery has been completed in both
+cases.   No trial date has been set.  The Court has stayed further proceedings
+in  both  cases until August 30, 1996 when the next status conference with the
+Court is scheduled.
+
+On  April  20,  1995,  Altera  filed an additional suit against the Company in
+Federal  District Court in Delaware alleging that the Company 's XC5000 family
+infringes  a  certain  Altera  patent.  The Company answered the Delaware suit
+denying  that  the  XC5000  family  infringes the patent in suit, which is the
+subject  of  the  litigation,  asserting  certain  affirmative  defenses  and
+counterclaiming  that  the  Altera  Max  9000  family infringes certain of the
+Company's  patents.  The  Delaware suit has now been transferred to the United
+States District Court for the Northern District of California.
+
+Due  to  the  uncertain  nature  of the litigation with Altera and because the
+lawsuits  are  still  in  the  pre-trial  stage, the ultimate outcome of these
+matters  cannot  be  determined at this time.  Management believes that is has
+meritorious  defenses to such claims and is defending them vigorously, and has
+not  recorded  a  provision  for  the ultimate outcome of these matters in its
+financial  statements.  The  foregoing is a forward looking statement based on
+information  presently  known  to  management,  and  the  future outcome could
+differ.
+
+In the normal course of business, the Company receives and makes inquires with
+regard  to  possible  patent infringement. Where deemed advisable, the Company
+may  seek  or  extend  licenses  or  negotiate  settlements.  Outcomes of such
+negotiations may not be determinable at any point in time; however, management
+does  not  believe  that such licenses or settlements will, individually or in
+the  aggregate,  have  a  material  adverse effect on the Company 's financial
+position or results of operations.
+
+11. SUBSEQUENT EVENT (UNAUDITED)
+
+On  May 17, 1996, the Company signed an agreement with Seiko Epson Corporation
+(Seiko),  a  primary wafer supplier.  The agreement provides for an advance to
+Seiko  of  $200  million to be used in the construction of a wafer fabrication
+facility  in Japan which will provide access to eight-inch sub-micron wafers. 
+In  conjunction  with  the  agreement,  $30  million  was paid in May 1996 and
+additional installments of $30 million are scheduled for November 1, 1996, May
+1,  1997,  November  1,  1997  and  February 1, 1998 or upon the start of mass
+production, whichever is later.  The final installment for the advance payment
+of  $50 million is due on or after the later of April 1, 1998 and the date the
+outstanding  balance  of  the  advance payment is less than $125 million. As a
+result,  the  maximum outstanding amount of the advance payment at any time is
+$175  million.  Repayment  of  this  advance  will  be  in  the  form of wafer
+deliveries  expected  to  begin  in the first half of 1998. In addition to the
+advance  payments,  the  Company  will provide further funding to Seiko in the
+amount  of  $100 million. This additional funding will be paid after the final
+installment of the $200 million advance and the form of the additional funding
+will be negotiated at that time.
+
+REPORT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+
+
+The Board of Directors and Stockholders
+Xilinx, Inc.
+
+We  have  audited the accompanying consolidated balance sheets of Xilinx, Inc.
+as  of  March  31,  1996  and 1995, and the related consolidated statements of
+income, stockholders' equity and cash flows for each of the three years in the
+period ended March 31, 1996.  Our audits also included the financial statement
+schedule  listed  in  the Index at Item 14(a).  These financial statements and
+schedule  are  the  responsibility  of  the  Company's  management.    Our
+responsibility  is  to  express  an  opinion on these financial statements and
+schedule based on our audits.
+
+We  conducted  our  audits  in  accordance  with  generally  accepted auditing
+standards.    Those  standards  require  that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement.  An audit includes examining, on a test basis, evidence
+supporting  the amounts and disclosures in the financial statements.  An audit
+also  includes  assessing  the  accounting  principles  used  and  significant
+estimates  made  by  management,  as  well as evaluating the overall financial
+statement presentation.  We believe that our audits provide a reasonable basis
+for our opinion.
+
+In  our  opinion,  the  consolidated  financial  statements  referred to above
+present  fairly, in all material respects, the consolidated financial position
+of  Xilinx,  Inc.  at March 31, 1996 and 1995, and the consolidated results of
+its  operations  and  its cash flows for each of the three years in the period
+ended  March  31,  1996,  in  conformity  with  generally  accepted accounting
+principles.  Also,  in  our  opinion, the related financial statement schedule
+taken as a whole, presents fairly in all material respects the information set
+forth therein.
+
+
+
+
+
+                                                        /s/  Ernst & Young LLP
+
+
+
+
+San Jose, California
+April 17, 1996
+
+
+
+                         Supplementary Financial Data
+(in thousands, except per share amounts)
+
+QUARTERLY DATA (UNAUDITED)
+
+
+
+
+
+
+
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+         FINANCIAL DISCLOSURE
+
+Not applicable.
+
+
+                                   PART III
+
+
+Certain  information  required by Part III is omitted from this Report in that
+the  Registrant  will file a definitive proxy statement pursuant to Regulation
+14A  (the  "Proxy  Statement")  not  later  than 120 days after the end of the
+fiscal  year  covered by this Report, and certain information included therein
+is  incorporated  herein  by  reference.    Only  those  sections of the Proxy
+Statement  which  specifically  address  the  items  set  forth  herein  are
+incorporated  by  reference.    Such  incorporation  does  not  include  the
+Compensation  Committee  Report or the Performance Graph included in the Proxy
+Statement.
+
+ITEM 10.     DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+The  information  concerning  the Company's directors required by this Item is
+incorporated by reference to the Company's Proxy Statement.
+
+The  information  concerning the Company's executive officers required by this
+Item  is  incorporated  by  reference to the section in Item 1 hereof entitled
+"Executive Officers of the Registrant".
+
+ITEM 11.     EXECUTIVE COMPENSATION
+
+The  information  required  by  this  Item is incorporated by reference to the
+Company's Proxy Statement.
+
+ITEM 12.     SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+MANAGEMENT
+
+The  information  required  by  this  Item is incorporated by reference to the
+Company's Proxy Statement.
+
+ITEM 13.     CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+The  information  required  by  this  Item is incorporated by reference to the
+Company's Proxy Statement.
+
+
+                                   PART IV
+
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+(a)        (1)  The Financial Statements required by  Item 14 (a) are filed as 
+                part of this annual report.
+
+           (2)  The Financial Statement Schedule required by Item 14 (a) is 
+                filed as part of this annual report.
+
+Schedules not filed have been omitted because they are not applicable, are not
+required  or  the  information required to be set forth therein is included in
+the financial statements or notes thereto.
+
+          (3)    The exhibits listed below in (c) are filed or incorporated by
+                 reference as part of this annual report.
+
+(b)    Reports  on  Form  8-K.    No reports on Form 8-K were filed during the
+fourth quarter of fiscal 1996.
+
+(c)  Exhibits.
+
+
+
+Exhibit Number    Description
+- ---------------  -------------------------------------------------------------
+        3.1 (2)   Restated Certificate of Incorporation of the Company, as 
+                  amended to date.
+        3.2 (1)   Bylaws of the Company, as amended to date.
+        4.1 (3)   Preferred Shares Rights Agreement dated as of October 4, 1991 
+                  between the Company and The First National Bank of Boston, as 
+                  Rights Agent.
+       10.1 (1)   Technology Transfer Agreement and Preferred Shares and Warrant
+                  Purchase Agreement for Series E Preferred Stock and Series F 
+                  Preferred Stock dated June 9, 1986 between the Company and 
+                  Monolithic Memories, Inc.
+       10.2 (1)   Common Stock Purchase Agreement dated March 19, 1990 between
+                  the Company and Advanced Micro Devices, Inc.
+       10.3 (8)   Lease dated March 27, 1995 for adjacent facilities at 2055 
+                  Logic Drive and 2065 Logic Drive, San Jose, California.
+       10.4 (8)   First Amendment to Master Lease dated April 27, 1995 for the 
+                  Company's facilities at 2100 Logic Drive and 2101 Logic Drive,
+                  San Jose, California.
+         10.5*    1988 Stock Option Plan, as amended.
+         10.6*    1990 Employee Qualified Stock Purchase Plan, as amended.
+    10.7 (1) *    Form of Indemnification Agreement between the Company and its 
+                  officers and directors.
+   10.8 (4) (6)   Patent Cross License Agreement dated as of April 22, 1993 
+                  between the Company and Actel Corporation.
+     10.9.1 (5)   Agreement and Plan of Reorganization dated as of March 29,
+                  1995, among Registrant, NeoCAD, Inc. and XNX Acquisition
+                  Corporation.
+     10.9.2 (5)   Certificate of Merger filed on April 10, 1995 between NeoCAD, 
+                  Inc. and XNX Acquisition Corporation.
+      10.10 (7)   Employment Offer Letter dated August 5, 1994.
+10.11.1 (6) (9)   Foundry Venture Agreement dated as of September 14, 1995
+                  between the Company and United Microelectronics Corporation
+                  ("UMC").
+10.11.2 (6) (9)   Fabven Foundry Capacity Agreement dated as of September 14,
+                  1995 between the Company and UMC.
+10.11.3 (6) (9)   Written Assurances Re Foundry Venture Agreement dated as of 
+                  September 29, 1995 between UMC and the Company.
+         10.12    Indenture dated November 1, 1995 between the Company and
+                  State Street Bank and Trust Company.
+         10.13    Letter Agreement dated as of January 22, 1996 of the
+                  Company to Willem P. Roelandts.
+         10.14    Separation Agreement dated as of April 8, 1996 between the 
+                  Company and Curtis Wozniak.
+         10.15    Consulting Agreement dated as of June 1, 1996 between the
+                  Company and Bernard V. Vonderschmitt.
+      10.16 (6)   Advance Payment Agreement entered into on May 17, 1996
+                  between Seiko Epson Corporation and the Company.
+            11    Statement of Computation of Net Income Per Share.
+            12    Statement of Computation of Ratios of Earnings to Fixed
+                  Charges.
+          22.1    Subsidiaries of the Company.
+            23    Consent of Ernst & Young LLP, Independent Auditors.
+          25.1    Power of Attorney.
+            27    Financial Statement Schedule - Schedule II.
+
+___________
+
+
+(1)          Filed as an exhibit to the Company's Registration Statement on
+             Form S-1 (File No. 33-34568) which was declared effective June
+             11, 1990.
+
+(2)          Filed as an exhibit to the Company's Annual Report on Form 10-K
+             for the fiscal year ended March 30, 1991.
+
+(3)          Filed as an exhibit to the Company's Registration Statement on
+             Form S-1 (File No. 33-43793) effective November 26, 1991.
+
+(4)          Filed as an exhibit to the Company 's Annual Report on Form 10-K
+             for the fiscal year ended April 3, 1993.
+
+(5)          Filed as an exhibit to the Company's Current Report on Form 8-K
+             filed on April 18, 1995.
+
+(6)          Confidential treatment requested as to certain portions of these
+             exhibits.
+
+(7)          Filed as an exhibit to the Company's Quarterly Report on Form
+             10-Q for the quarter ended October 1, 1994.
+
+(8)          Filed as an exhibit to the company's Annual Report on Form 10-K for
+             the fiscal year ended April 1, 1995.
+
+(9)          Filed as an exhibit to the Company's Quarterly Report on Form
+             10-Q for the quarter ended September 30, 1995.
+
+ *           Denotes a management contract or compensatory plan or  arrangement.
+
+
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act  of  1934, the Registrant, has duly caused this Annual Report to be signed
+on  its  behalf  by the undersigned, thereunto duly authorized, in the City of
+San Jose, State of California, on the  20th day of June, 1996.
+
+                                              XILINX, INC.
+
+
+
+                                              By: /s/Willem P. Roelandts
+                                              ---------------------------
+
+                                              Willem P. Roelandts,
+                                              Chief Executive Officer
+
+
+
+
+

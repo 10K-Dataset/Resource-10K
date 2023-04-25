@@ -1,0 +1,1603 @@
+
+10-K
+FORM 10-K
+
+
+
+ 
+                       SECURITIES AND EXCHANGE COMMISSION
+ 
+                             WASHINGTON, D.C. 20549
+                            ------------------------
+ 
+                                   FORM 10-K
+ 
+
+ 
+                         COMMISSION FILE NUMBER 0-27130
+ 
+                            NETWORK APPLIANCE, INC.
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+ 
+
+ 
+                           319 NORTH BERNARDO AVENUE
+                        MOUNTAIN VIEW, CALIFORNIA 94043
+          (Address of principal executive office, including Zip Code)
+ 
+                                 (415) 428-5100
+              (Registrant's telephone number, including area code)
+ 
+SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT: NONE
+ 
+
+ 
+SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT: Common Stock (no par
+value)
+ 
+     Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes  X   No ___
+ 
+     Indicate by a check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [ X ]
+ 
+     The aggregate market value of voting stock held by non-affiliates of the
+Registrant, as of May 31, 1996 was approximately $228,170,000 (based on the
+closing price for shares of the Registrant's Common Stock as reported by the
+Nasdaq National Market System for the last trading day prior to that date).
+Shares of Common Stock held by each executive officer, director, and holder of
+5% or more of the outstanding Common Stock have been excluded in that such
+persons may be deemed to be affiliates. This determination of affiliate status
+is not necessarily a conclusive determination for other purposes.
+ 
+     On May 31, 1996 approximately 16,156,000 shares of the Registrant's Common
+Stock, no par value, were outstanding.
+ 
+                      DOCUMENTS INCORPORATED BY REFERENCE.
+ 
+     Portions of the Registrant's Annual Report to Shareholders are incorporated
+by reference into Part II; such portions of the Annual Report to Shareholders
+incorporated by reference are filed as Exhibit 13.1 hereof.
+
+ 
+     This Annual Report on Form 10-K contains forward looking statements that
+are accompanied by cautionary statements that identify important factors that
+could cause actual results to differ materially from those in the forward
+looking statements.
+ 
+                                     PART I
+ 
+ITEM 1.  BUSINESS
+ 
+OVERVIEW
+ 
+     Network Appliance, Inc. (the "Company" or "Network Appliance") designs,
+manufactures, markets and supports high performance network data storage devices
+which provide fast, simple, reliable and cost effective file service for
+data-intensive network environments. The Company pioneered the concept of the
+"network appliance," an extension of the industry trend towards dedicated,
+specialized devices which perform a single function in the network, similar to
+the adoption of the router for network communications management. The Company's
+filer products combine specialized proprietary software and state-of-the-art
+industry standard hardware to provide a unique solution for the NFS server
+market.
+ 
+INDUSTRY BACKGROUND
+ 
+     In response to competitive pressures, businesses and other organizations
+are increasingly investing in information systems to shorten product development
+cycles, enhance customer responsiveness, lower costs, and improve the quality of
+their products and services. Networked computing offers these organizations the
+ability to increase productivity through the distribution of computing power
+across their enterprises, providing large numbers of users with access to
+applications, information and data. In this environment, it has become important
+for organizations to manage the storage of and access to large volumes of data,
+which increasingly represent critical information resources.
+ 
+  Data-Intensive Network Environment
+ 
+     Network computing environments that require large volumes of data, perform
+intensive processing or computation of data, or involve frequent user access to
+data can be characterized as "data-intensive." Increasingly, organizations are
+deploying data-intensive applications and services as core business resources.
+In addition, Internet and on-line service related businesses have grown
+significantly. The data-intensity of the network environment is expected to
+continue to increase substantially due to the development of new applications
+and services and the more prevalent use of stored digital graphics, voice and
+video, requiring dramatically more data capacity than equivalent alphanumeric
+information. Examples of data-intensive applications and services include:
+ 
+     Data-Intensive Applications.  Data-intensive applications have become
+increasingly prevalent in a variety of industries. Computer-aided design,
+manufacturing and engineering ("CAD/CAM/CAE") are data-intensive applications in
+which teams of engineers collaborate on a common design for a product such as a
+semiconductor device, computer system, aircraft or automobile. Software
+development is also inherently data-intensive, involving the creation and
+compilation by teams of developers of hundreds of thousands of lines of software
+code which must be continuously tested, revised and recompiled. Energy, seismic
+and satellite-related applications also involve the storage and manipulation of
+large quantities of graphics and imaging data. Within the securities industry,
+large volumes of trading and other market data need to be compiled and rapidly
+processed in order to support trading decisions. Airline reservation systems
+also involve the access to and processing of large quantities of data related to
+flight schedules, equipment configurations, passenger information and seat
+availability.
+ 
+     Data-Intensive Services.  Internet and public on-line services have become
+increasingly data intensive. Organizations are also providing internal on-line
+data repositories that can be accessed internally as well as by outside users.
+As these services have proliferated, they have become "information utilities"
+where increasing amounts of data are stored for broad availability to large
+numbers of distributed users.
+ 
+
+ 
+     Issues in Data Management and Network Computing.  Organizations utilizing
+data-intensive applications and services in network computing environments
+generally share a common set of requirements in order to derive the benefits
+that they are designed to provide. In this context, data management has become
+increasingly complex and challenging. Specifically, three significant problem
+areas have emerged: (i) data access performance; (ii) data administration; and
+(iii) data availability and reliability.
+ 
+     Data Access Performance.  Traditionally, management information systems
+("MIS") managers and network providers improved performance on a network by
+increasing CPU performance or increasing the underlying network bandwidth. In
+today's data-intensive network environment, performance of applications and
+services is increasingly limited by the time to read or write to hard disk
+drives. Improvements in performance for most applications and services have been
+limited by disk input/output ("I/O") performance, which because of the
+mechanical nature of disk drives, has not improved as rapidly as central
+processing unit ("CPU") performance or network bandwidth.
+ 
+     Data Administration.  A key requirement in data administration is the
+management of hardware and software systems that store the data. In the
+data-intensive network environment, data management is difficult and complex due
+to the large number of users accessing the data, the multiple servers storing
+the data and the large volume of data. Furthermore, because data may be widely
+distributed throughout the network, administrative functions such as back-up or
+expansion of the file system become substantially more difficult. Finally, the
+budgetary constraints of most organizations require that this increasingly
+complex administration be accomplished cost-effectively, without increased
+staffing.
+ 
+     Data Availability and Reliability.  As the data-intensive network
+environment grows, data availability becomes critical to the organization's
+productivity, time-to-market and responsiveness to customers. Achieving a high
+level of data availability is particularly difficult because hard disk drives
+are mechanical devices, which are prone to failure over extended periods of
+intensive use. An organization may experience costly down-time or loss of data
+from the failure of a single low-cost, network-attached disk drive. This is
+particularly important to network service providers whose business is providing
+network-stored data to their users. Therefore, it is imperative that systems
+which are repositories of network-based data and services have low failure
+rates, rapid recovery times and the ability to provide uninterrupted service in
+the event of failure of a disk drive.
+ 
+  File Servers
+ 
+     The requirements of the data-intensive network environment have contributed
+to the growing importance of the network file service function, the process of
+reading and writing files to and from shared data storage over the network.
+Until recently, the file service function had been performed exclusively by
+larger, general purpose computer systems which also executed other tasks such as
+print serving, application processing and communications functions. As networks
+evolved, network managers increasingly dedicated general purpose systems
+specifically to the file service task in order to enhance performance, simplify
+administration and reduce vulnerability to other application-related failures.
+These dedicated systems became known as "file servers."
+ 
+     Systems vendors have offered a variety of specially configured and add-on
+solutions for general purpose systems deployed as file servers. Selected vendors
+have also introduced highly specialized, hardware-intensive systems architected
+to exclusively perform the file service task. These approaches, such as the use
+of hardware accelerators and the introduction of specialized hardware
+architectures, were generally optimized for throughput (the number of I/O
+requests processed by the CPU). Although these file server approaches addressed
+throughput issues, they were not designed to address the specific problem of
+response time (the speed at which an I/O request is satisfied) which is critical
+in the data intensive network environment. In addition, because these approaches
+lack the flexibility to easily integrate additional network, file system and/or
+disk interfaces or protocols associated with today's heterogeneous networks,
+these approaches do not directly address the reliability issues associated with
+data storage on a network. Consequently, users are searching for cost-effective,
+flexible solutions to address data access performance, data administration and
+data availability and reliability issues in the data-intensive network
+environment.
+ 
+
+ 
+THE NETWORK APPLIANCE SOLUTION
+ 
+     Network Appliance pioneered the concept of a "network appliance," a fast,
+simple, reliable and cost-effective device designed to perform a specific
+network data management function. The network appliance concept is part of the
+trend towards the specialization of network devices, including the development
+of routers, dedicated devices that manage network communications functions
+previously performed by general purpose computer systems. The Company's first
+network appliance product line consists of network data storage appliances or
+"filers," developed to address the specific market requirements of
+data-intensive network environments. These products utilize an efficient
+software kernel optimized to exclusively perform the file service task. Unlike
+previous file server approaches, these products are not burdened by a general
+purpose operating system or file system overhead. By using a proprietary
+software architecture, Network Appliance is able to use industry standard
+hardware components rather than specialized hardware. The core elements of the
+Network Appliance solution are:
+ 
+     Fast Response Time.  Network Appliance uses its proprietary Write Anywhere
+File Layout ("WAFL") software architecture and a sophisticated caching scheme
+coupled with industry standard processor architectures and I/O buses to achieve
+response time over the network substantially faster than competing products.
+Faster response times result in faster execution of applications and services in
+data-intensive network environments. The filer's response time is significantly
+faster than either general purpose computers or specialized hardware-centric
+file servers. In addition, the Company's products are characterized by less
+variation in response times under increasing aggregate loads than competing
+products.
+ 
+     Network Appliance believes its approach enables its customers to meet the
+performance needs of future data-intensive applications and services. The
+Company's technology has allowed it to achieve substantial improvements in
+response time by adopting faster industry standard microprocessors, while
+competitive solutions have been generally limited by disk access time. For
+example, successive releases of Network Appliance software on the Intel
+486-based platform, in addition to supporting incremental functionality, have
+succeeded in reducing response times.
+ 
+     Ease of Administration.  Network Appliance products are easy to use and
+install. Installation by a systems administrator typically requires less than an
+hour. Administration requires knowledge of less than 40 system commands, versus
+the hundreds of commands typical of alternative products. Network Appliance's
+Snapshot feature allows on-line back-up of an active file system without
+interrupting users. This feature also allows users online access to earlier
+versions of their data without involving the systems administrator. Together,
+these features simplify administration, permit more efficient use of personnel
+resources and increase data availability.
+ 
+     High Levels of Data Availability and Reliability.  Network Appliance
+products are designed to provide high levels of data availability. Traditional
+servers do not have an integrated facility to efficiently and reliably maintain
+the availability of data upon disk drive failure. The approach to provide
+increased data-availability for these systems has been to incrementally add RAID
+(redundant array of independent disks) devices which are costly and are often
+performance-limiting. Network Appliance's unique software integration of RAID
+provides a solution at no incremental cost that yields more reliable data with
+no performance penalties. In the event of a disk drive failure, the Network
+Appliance filer will reconstruct the failed data on a spare drive which may be
+hot-swapped with the failed drive on the NetApp F220 or NetApp F330 without any
+interruption of data availability to client users. Upon disruption of the
+system, Network Appliance servers automatically reboot (with full data
+availability) at a speed of approximately one minute regardless of storage
+capacity (versus alternative systems that may take up to one minute per gigabyte
+to reboot with full data availability). The Network Appliance architecture
+allows system administrators to add storage capacity or replace a failed disk
+drive without service interruption or loss of data.
+ 
+     Scalability.  The architecture of Network Appliance products is designed to
+be scalable so that throughput and storage capacity can cost effectively grow on
+an incremental basis. Adding an additional server to a network under this
+architecture is as simple as adding an additional disk drive to many other
+systems. The system can be easily expanded to terabytes of data, while
+maintaining a relatively consistent response time.
+ 
+
+ 
+     Compatibility with Networking Environment.  Network Appliance products are
+compatible with major network and peripheral interfaces and protocols. This is
+accomplished through the use of industry standard bus architectures, providing
+compatibility with common network interfaces and protocols and disk
+interconnects. Network Appliance's software is designed to be extendable to
+additional network environments and interface standards, as appropriate.
+ 
+     Cost-Effectiveness.  By combining Network Appliance's software-centric
+architecture with state of-the-art industry standard microprocessors and hard
+disk products, Network Appliance is able to achieve fast response times at a low
+cost per unit of storage.
+ 
+STRATEGIES
+ 
+     Network Appliance's goal is to be a leader in the network data storage
+appliance market, building on the initial success of its NFS filers. The Company
+seeks to achieve this goal by employing the following core strategies:
+ 
+     Focus on Software Differentiation.  Network Appliance seeks to continue to
+differentiate its products by focusing on the development of specialized
+proprietary software. Network Appliance believes this approach allows it to
+cost-effectively integrate desirable features such as intelligent caching, the
+WAFL architecture, software integrated RAID and automated on-line backup through
+its Snapshot feature.
+ 
+     Embrace Industry Standards.  Network Appliance will continue to integrate
+its specialized software solutions with state-of-the-art industry standard
+hardware components and software interfaces. Industry standard hardware is
+generally less expensive and more readily available than proprietary hardware.
+For instance, since its first product introduction, successive generations of
+Network Appliance products have migrated from industry standard architecture
+("ISA") to peripheral connect interchange ("PCI")-bus. Network Appliance
+believes this approach allows more rapid and cost-effective development and the
+delivery of high performance products at attractive prices. Utilizing industry
+standard interfaces enables Network Appliance products to be adaptable to a
+variety of network environments.
+ 
+     Broaden Penetration Into NFS Market.  Network Appliance's initial focus has
+been on providing NFS file servers for departmental and enterprise applications.
+The Company is seeking to expand its product offerings to include a wider range
+of price, performance and storage capacities.
+ 
+     Develop New Markets.  Network Appliance is developing a multi-protocol file
+server capable of providing simultaneous NFS and System Management Block ("SMB")
+file service, the standard file service protocol for Microsoft Windows products.
+This product is being designed to meet file server requirements for the emerging
+Windows NT market. The Windows NT market is expected to be driven by trends
+toward the distributing and downsizing of centralized data-intensive
+applications, the consolidation of smaller, independent PC-based LANs, and the
+emergence of multi-media as a significant corporate communications and training
+tool.
+ 
+     Expand Distribution.  Network Appliance seeks to market and distribute its
+products and technology globally. In North America, the Company employs a
+multi-tiered distribution strategy which focuses on product sales to end-users
+through a direct sales force, as well as selected value-added resellers in
+certain geographies. In the Pacific Rim and in Europe, Network Appliance
+products are sold through resellers, which are supported by Network Appliance
+channel managers and technical support personnel. In addition, the Company seeks
+to distribute its products through original equipment manufacturers ("OEMs")
+and, where appropriate, through licensing arrangements with computer systems
+companies.
+ 
+SALES AND MARKETING
+ 
+     Network Appliance has established multiple distribution channels to
+accelerate market penetration of its products. The Company initially marketed
+its products primarily through indirect sales channels both domestically and
+internationally. In fiscal 1995, the Company shifted its emphasis domestically
+to direct sales and significantly expanded its direct sales force. The Company
+continues to rely primarily on indirect sales internationally. Network Appliance
+has established several domestic selling locations, including in Colorado,
+ 
+
+ 
+California, Massachusetts, Maryland, Michigan, Minnesota, New Jersey, New York,
+Oregon, Texas, Virginia and Washington, D.C. Additionally, the Company has
+international offices in London and Paris.
+ 
+     Network Appliance's sales personnel are responsible for the overall sales
+functions of the Company, including prospecting, lead processing, account
+strategies and development, distribution channels and other activities. The
+Company's marketing department is responsible for product planning, positioning,
+pricing, customer and sales force training, and overall promotion of Network
+Appliance products through press, direct mail, seminars, trade shows and
+advertising. Network Appliance expects to continue to increase its sales and
+marketing activities.
+ 
+     No customers accounted for 10% or more of the Company's net sales in fiscal
+1996. In fiscal 1995, sales to ITOCHU and MTI each accounted for approximately
+10% of net sales. In fiscal 1994, sales to ITOCHU accounted for approximately
+20% of net sales. The Company has entered into a Distributor Agreement with
+ITOCHU under which the Company granted ITOCHU a nonexclusive, nontransferable
+license to, among other things, market and distribute certain of the Company's
+products in Japan, with payments to the Company in U.S. dollars and a term that
+is automatically renewed each year. The Distributor Agreement had an initial
+term through March 31, 1994, which is automatically renewed for additional one
+year terms unless terminated 45 days prior to the end of a term. The agreement
+may also be terminated with or without cause upon 90 days written notice by
+either party and upon certain events of default by either party. The Company
+generally has not entered into long-term volume purchase contracts with its
+other end user customers or resellers. The Company terminated its relationship
+with MTI in the second quarter of fiscal 1996.
+ 
+PRODUCTS
+ 
+     Network Appliance currently markets three filer products: the NetApp F220,
+the NetApp F330 and the NetApp F540. All filers are based on a PCI-bus
+architecture and come packaged in rack mountable enclosures. The NetApp F220 and
+F330 filers are based on Pentium processors. The NetApp F540 is based on a
+Digital Alpha processor and is the Company's first RISC-based NFS filer.
+ 
+     Network Appliance recently began shipments of Release 3.1, which is based
+on the Company's specialized proprietary software architecture. Release 3.1 is
+standard on all new filer products shipped as of February 1996. Installed base
+customers running previous versions of the software can upgrade to Release 3.1
+at no charge if they are on the Company's Software Subscription Program, or by
+paying a per-incident upgrade price. Some customers are eligible for a free
+upgrade depending on the date of their filer purchase. Release 3.1 contains all
+of the core functionality available on prior releases and includes improvements
+in NFS throughput and NFS response time, as well as additional functionality,
+relative to prior releases of the software.
+ 
+     The current base list price for Network Appliance filers is $28,440 for the
+NetApp F220, $45,440 for the NetApp F330 and $66,135 for the NetApp F540 with
+four 4-gigabyte disk drive package. Network Appliance's discounting policy
+varies based primarily on volume purchases, sales geography and channels of
+distribution.
+ 
+CUSTOMER SERVICE AND SUPPORT
+ 
+     Network Appliance's customer service and support organization provides
+customers with technical support, education and training. Network Appliance
+believes that providing a high level of customer service and technical support
+is critical to customer satisfaction and the Company's success. In providing
+service and support to customers, the Company uses its own products extensively.
+ 
+     Warranty coverage includes 24 hour telephone support plus next business day
+hardware repair. For an additional charge, the Company also offers upgraded
+service during the warranty period, providing for faster on-site hardware
+repair.
+ 
+     Post-warranty service programs include: telephone support only; cooperative
+maintenance where the customer purchases spares and performs self-maintenance
+tasks, and full-service programs (standard, premium and ultra) involving various
+combinations of telephone-based support and on-site repair. The
+ 
+
+ 
+Company charges for service programs on an annual subscription basis, with
+discounts to sites with multiple filers.
+ 
+MANUFACTURING
+ 
+     Network Appliance's manufacturing operations, located in Mountain View,
+California, consist of procurement of materials, product assembly, product
+assurance, quality control and final test. Network Appliance relies on many
+suppliers for the procurement of materials, as well as several key
+subcontractors for the production of certain board level assemblies. The
+Company's manufacturing strategy has been to develop close relationships with
+its suppliers, exchanging critical information and implementing joint quality
+training programs. This manufacturing strategy minimizes capital investment and
+overhead expenditures and creates flexibility by providing the capacity for
+rapid expansion.
+ 
+     The Company relies upon a limited number of suppliers of several key
+components utilized in the assembly of the Company's products. The Company
+purchases disk drives and enclosures from Digital Equipment Corporation. The
+Company's reliance on its suppliers involves several risks, including a
+potential inability to obtain an adequate supply of required components, price
+increases, timely delivery and component quality. This risk is particularly
+significant with respect to suppliers of disk drives because in order to meet
+product performance requirements, the Company must obtain disk drives with
+extremely high quality and capacity. In addition, there is currently a
+significant market demand for disk drives and for semiconductor memory
+components, which could result in component shortages, selective supply
+allocations and increased prices of such components. Although to date the
+Company has been able to purchase its requirements of such components, there is
+no assurance that the Company will be able to obtain its full requirements of
+such components in the future or that prices of such components will not
+increase. In addition, there can be no assurance that problems with respect to
+yield and quality of such components and timeliness of deliveries will not
+occur. Disruption or termination of the supply of these components could delay
+shipments of the Company's products and could have a material adverse effect of
+on the Company's business, operating results and financial condition. Such
+delays could also damage relationships with current and prospective customers.
+ 
+     The Company's resellers often purchase minimally configured systems from
+the Company and source additional disk drives and memory components from other
+vendors. In addition, certain end-users also purchase disk drives and memories
+from other suppliers. Since these components do not undergo the Company's
+rigorous sourcing and testing procedures, they may experience more failures when
+deployed in the Company's products. Any such higher failure rate could
+negatively impact the Company's reputation and, as a result, could materially
+adversely affect its business, operating results and financial condition.
+ 
+RESEARCH AND DEVELOPMENT
+ 
+     Since its inception, Network Appliance has made substantial investments in
+research and development. Network Appliance believes that its future performance
+will depend in large part on its ability to maintain and enhance its current
+product line, develop new products that achieve market acceptance, maintain
+technological competitiveness and meet an expanding range of customer
+requirements. The Company intends to expand its existing product offerings and
+to introduce new products for the network file server market.
+ 
+     As part of the Company's ongoing development process, the Company
+introduced the NetApp F330 in September 1995 and the Netapp F220 in January
+1996, and announced the NetApp F540 in May 1996. In addition, the Company has
+under development new network file servers that it anticipates announcing in
+fiscal 1997. The Company's future growth depends upon the success of these and
+other new products, however there can be no assurance that these or other new
+products will attain market acceptance. Due to the complexity of network file
+servers and the difficulty in gauging the engineering effort required to produce
+new products, new products are subject to significant technical risks. There can
+be no assurance that new products will be introduced on a timely basis or at
+all. In the past, the Company has experienced delays in the shipments of its new
+products principally due to an inability to qualify component parts from disk
+drive and other suppliers, resulting in delay or loss of product sales. The
+Company has currently qualified disk drives manufactured by Seagate Technology
+Inc. If new products are delayed or do not achieve market acceptance, the
+Company's
+ 
+
+ 
+business, operating results and financial condition will be materially adversely
+affected. In addition, there can be no assurance that customers will not defer
+orders in anticipation of new product introductions by the Company or its
+competitors.
+ 
+     The network file server market is characterized by rapid technological
+change, changing customer needs, frequent new product introductions and evolving
+industry standards. The introduction of products embodying new technologies and
+the emergence of new industry standards could render the Company's existing
+products obsolete and unmarketable. The Company's future success will depend
+upon its ability to develop and introduce new products (including new software
+releases and enhancements) on a timely basis that keep pace with technological
+developments and emerging industry standards and address the increasingly
+sophisticated needs of its customers. There can be no assurance that the Company
+will be successful in developing and marketing new products that respond to
+technological changes or evolving industry standards, that the Company will not
+experience difficulties that could delay or prevent the successful development,
+introduction and marketing of new products, or that its new products will
+adequately meet the requirements of the marketplace and achieve market
+acceptance. If the Company is unable, for technological or other reasons, to
+develop and introduce new products in a timely manner in response to changing
+market conditions or customer requirements, the Company's business, operating
+results and financial condition will be materially adversely affected.
+ 
+     Network file server products like those offered by the Company may contain
+undetected software errors or failures when first introduced or as new versions
+are released. There can be no assurance that, despite testing by the Company and
+by current and potential customers, errors will not be found in new products
+after commencement of commercial shipments, resulting in loss of or delay in
+market acceptance, which could have a material adverse effect upon the Company's
+business, operating results and financial condition.
+ 
+     The Company's total expenses for research and development for fiscal years
+1996, 1995 and 1994 were $4.8 million, $2.6 million and $780,000, respectively.
+The Company anticipates that research and development expenses will increase in
+absolute dollars in future periods, however, the amount of such increases cannot
+be accurately determined.
+ 
+COMPETITION
+ 
+     The network file server market is intensely competitive and characterized
+by rapidly changing technology. The Company experiences substantial competition
+from specialized network file server companies, such as Auspex Systems, Inc.
+("Auspex"), as well as from traditional suppliers of UNIX systems and PC
+products that are used as network file servers such as Sun Microsystems, Digital
+Equipment Corporation, Hewlett-Packard Company, Silicon Graphics Inc. and IBM
+Corporation, among others. In addition, certain of these large traditional
+suppliers of general purpose computers may in the future offer specialized file
+server products which are more directly competitive with those of the Company.
+The Company also expects new and emerging competition in the network file server
+market, including competition from manufacturers of PC-based file servers based
+upon Windows NT and other emerging standards. While the Company believes that
+the price-performance characteristics of its products are currently competitive,
+increased competition is likely to result in price reductions, reduced gross
+margin and loss of market share, any of which could materially adversely affect
+the Company's business, operating results and financial condition. Many of the
+Company's current and potential competitors have significantly greater
+financial, technical, marketing and other resources than the Company. As a
+result, they may be able to respond more quickly to new or emerging technologies
+and changes in customer requirements, or to devote greater resources to the
+development, promotion, sale and support of their products than the Company. In
+addition, current and potential competitors have established or may establish
+cooperative relationships among themselves or with third parties. Accordingly,
+it is possible that new competitors or alliances among competitors may emerge
+and rapidly acquire significant market share. In addition, the Company derives a
+significant portion of its sales from the resale of disk drives as components of
+its filers and therefore experiences competition from disk drive resellers. The
+market for the resale of disk drives is highly competitive and subject to
+intense price pressures. There can be no assurance that the Company will be able
+to compete successfully against current or future competitors or that
+competitive
+ 
+
+ 
+pressures faced by the Company will not materially adversely affect its
+business, operating results and financial condition.
+ 
+     The Company believes that the principal competitive factors affecting its
+market include product features such as response time, scalability and ease of
+use, price and customer service and support. Although the Company believes that
+its products currently compete favorably with respect to these factors, there
+can be no assurance that the Company can maintain its competitive position
+against current and potential competitors, especially those with significantly
+greater financial, marketing, service, support, technical and other resources.
+ 
+PROPRIETARY RIGHTS
+ 
+     Network Appliance's success depends significantly upon its proprietary
+technology. The Company currently relies on a combination of copyright and
+trademark laws, trade secrets, confidentiality procedures and contractual
+provisions to protect its proprietary rights. The Company seeks to protect its
+software, documentation and other written materials under trade secret and
+copyright laws, which afford only limited protection. The Company has registered
+its FAServer trademark and will continue to evaluate the registration of
+additional trademarks as appropriate. The Company generally enters into
+confidentiality agreements with its employees and with its resellers and
+customers. The Company currently has three U.S. patent applications pending and
+three corresponding international patent applications pending. There can be no
+assurance that the pending applications will be approved, or that if issued,
+such patents will not be challenged, and if such challenges are brought, that
+such patents will not be invalidated. There can be no assurance that the Company
+will develop proprietary products or technologies that are patentable, that any
+issued patent will provide the Company with any competitive advantages or will
+not be challenged by third parties, or that the patents of others will not have
+a material adverse effect on the Company's ability to do business. Litigation
+may be necessary to protect the Company's proprietary technology. Any such
+litigation may be time-consuming and costly. Despite the Company's efforts to
+protect its proprietary rights, unauthorized parties may attempt to copy aspects
+of the Company's products or to obtain and use information that the Company
+regards as proprietary. In addition, the laws of some foreign countries do not
+protect proprietary rights to as great an extent as do the laws of the United
+States. There can be no assurance that the Company's means of protecting its
+proprietary rights will be adequate or that the Company's competitors will not
+independently develop similar technology, duplicate the Company's products or
+design around patents issued to the Company or other intellectual property
+rights of the Company.
+ 
+     There have also been substantial amounts of litigation in the computer
+industry regarding intellectual property rights. The Company is currently
+involved in litigation related to the alleged infringement of third party rights
+and other claims, which resulted not only in the Company incurring significant
+legal fees and related costs but also in a substantial diversion of management
+attention. In addition, the Company has from time to time received claims that
+it is infringing third parties' intellectual property rights, and there can be
+no assurance that third parties will not in the future claim infringement by the
+Company with respect to current or future products, trademarks or other
+proprietary rights. The Company expects that companies in the file server market
+will increasingly be subject to infringement claims as the number of products
+and competitors in the Company's industry segment grows and the functionality of
+products in different industry segments overlaps. Any such claims could be
+time-consuming, result in costly litigation, cause product shipment delays,
+require the Company to redesign its products or require the Company to enter
+into royalty or licensing agreements, any of which could have a material adverse
+effect upon the Company's business, operating results and financial condition.
+Such royalty or licensing agreements, if required, may not be available on terms
+acceptable to the Company or at all.
+ 
+     In July 1992, the Company received a letter from counsel to Auspex Systems,
+Inc. ("Auspex") expressing concern over the potential for misuse of Auspex trade
+secrets, infringement of Auspex copyrighted material, and infringement of Auspex
+patents. In March 1993, the Company filed suit against Auspex seeking a ruling
+that the Company had not taken Auspex trade secrets and damages based upon
+Auspex assertions, which was settled in December 1993 on terms mutually
+acceptable to Auspex and the Company. In October and November 1994, the Company
+received letters from counsel to Auspex requesting that the Company enter into
+negotiations regarding a license under a continuation in-part of a previously
+issued patent granted to
+ 
+
+ 
+Auspex in October 1994. Based upon an opinion of D'Alessandro & Ritchie, the
+Company believes that it does not infringe any valid claims under the October
+1994 patent. Although Auspex has not contacted the Company since late 1994
+regarding this patent, there can be no assurance that Auspex will not bring a
+legal action against the Company on this patent and if Auspex does commence a
+lawsuit with regard to this patent, there can be no assurance that the outcome
+of any such litigation will not have a material adverse effect on the Company's
+business, operating results and financial condition. In addition, any claims or
+litigation against the Company could result in substantial expense and
+significant diversions of management attention.
+ 
+EMPLOYEES
+ 
+     As of April 26, 1996, Network Appliance had a total of 145 employees. Of
+the total, 61 were in sales and marketing, 9 in customer support, 37 in research
+and development, 17 in finance and administration and 21 in operations. The
+Company's future performance also depends in significant part upon the continued
+service of its key technical and senior management personnel, none of whom is
+bound by an employment agreement. The loss of the services of one or more of the
+Company's officers or other key employees could have a material adverse effect
+on the Company's business, operating results and financial condition. The
+Company's future success also depends on its continuing ability to attract and
+retain highly qualified technical and management personnel. Competition for such
+personnel is intense, and there can be no assurance that the Company can retain
+its key technical and management employees or that it can attract, assimilate or
+retain other highly qualified technical and management personnel in the future.
+The Company has not experienced any work stoppages and considers its relations
+with its employees to be good.
+ 
+OTHER FACTORS AFFECTING THE COMPANY
+ 
+     History of Operating Losses; Potential Fluctuations in Quarterly
+Results.  The Company was organized in April 1992 and first shipped products in
+June 1993. The Company had an accumulated deficit of $874,000 as of April 26,
+1996. While the Company generated net income in fiscal 1996, it incurred
+significant losses in fiscal 1995 and in each of its prior fiscal years. There
+can be no assurance that the Company will remain profitable on a quarterly or
+annual basis.
+ 
+     The Company's quarterly operating results have in the past varied and may
+in the future vary significantly depending on a number of factors, including the
+level of competition; the size and timing of significant orders; product
+configuration and mix; market acceptance of new products and product
+enhancements; new product announcements or introductions by the Company or its
+competitors; deferrals of customer orders in anticipation of new products or
+product enhancements; changes in pricing by the Company or its competitors; the
+ability of the Company to develop, introduce and market new products and product
+enhancements on a timely basis; hardware component costs; supply constraints;
+the Company's success in expanding its sales and marketing programs;
+technological changes in the network file server market; the mix of sales among
+the Company's sales channels; levels of expenditure on research and development;
+changes in Company strategy; personnel changes; general economic trends and
+other factors. Although the Company has not experienced seasonality in the past,
+because of the significant seasonal effects experienced within the industry and
+the Company's goal to expand international sales, there can be no assurance that
+the Company's future operating results will not be adversely affected by
+seasonality.
+ 
+     Sales for any future quarter are not predictable with any significant
+degree of certainty. The Company generally operates with limited order backlog
+because its products typically are shipped shortly after orders are received. As
+a result, product sales in any quarter are generally dependent on orders booked
+and shipped in that quarter. Product sales are also difficult to forecast
+because the network file server market is rapidly evolving and the Company's
+sales cycle varies substantially from customer to customer. A significant
+portion of the Company's revenues in any quarter may be derived from sales to a
+limited number of customers. Any significant deferral of these sales could have
+a material adverse effect on the Company's results of operations in any
+particular quarter; and to the extent that significant sales occur earlier than
+expected, operating results for subsequent quarters may be adversely affected.
+The Company's expense levels are based, in part, on its expectations as to
+future sales. As a result, if sales levels are below expectations, net income
+may be disproportionately affected. Although the Company has experienced
+significant revenue growth in recent
+ 
+
+ 
+periods, the Company does not believe such growth is indicative of future
+operating results. The Company believes that period-to-period comparisons of its
+results of operations are not necessarily meaningful and should not be relied
+upon as an indicator of future performance. Due to all of the foregoing factors,
+it is possible that in some future quarter the Company's operating results may
+be below the expectations of public market analysts and investors. In such
+event, the price of the Company's Common Stock would likely be materially
+adversely affected.
+ 
+     Dependence on Growth in the Network File Server Market.  All of the
+Company's products address the network file server market. The Company's future
+financial performance will depend in large part on continued growth in the
+network file server market and on emerging standards in this market. There can
+be no assurance that the market for network file servers will continue to grow
+or that emerging standards in the network file server market, such as Windows
+NT, will not adversely affect the growth of the NFS server market on which the
+Company has focused to date. If the network file server market fails to grow,
+grows more slowly than anticipated, or if network file servers based on emerging
+standards other than those adopted by the Company become increasingly accepted
+by the market, the Company's business, operating results and financial condition
+would be materially adversely affected. During recent years, segments of the
+computer industry have experienced significant economic downturns characterized
+by decreased product demand, production overcapacity, price erosion, work
+slowdowns and layoffs. The Company's operations may in the future experience
+substantial fluctuations from period-to-period as a consequence of such industry
+patterns, general economic conditions affecting the timing of orders from major
+customers and other factors affecting capital spending. There can be no
+assurance that such factors will not have a material adverse effect on the
+Company's business, operating results and financial condition.
+ 
+     Expansion of International Operations.  The Company believes that its
+continued growth and profitability will require successful expansion of its
+international operations and sales and therefore the Company has committed
+significant resources to such expansion. International sales represented
+approximately 20%, 16% and 36% of the Company's net sales in fiscal 1996, 1995
+and fiscal 1994, respectively. In order to successfully expand international
+sales in fiscal 1997 and subsequent periods, the Company must establish foreign
+operations, hire additional personnel and recruit additional international
+distributors and resellers. This will require significant management attention
+and financial resources and could materially adversely affect the Company's
+business, operating results and financial condition. To the extent that the
+Company is unable to effect these additions in a timely manner, the Company's
+growth, if any, in international sales will be limited, and the Company's
+business, operating results and financial condition could be materially
+adversely affected. In addition, there can be no assurance that the Company will
+be able to maintain or increase international market demand for the Company's
+products. The Company currently sells a significant portion of its products
+internationally through resellers, most significantly, ITOCHU, which in fiscal
+1995, accounted for approximately 10% of the Company's net sales. There can be
+no assurance that ITOCHU or any of the Company's international resellers or
+customers will continue to distribute or purchase the Company's products.
+ 
+     The Company's international sales are principally denominated in U.S.
+dollars. An increase in the value of the U.S. dollar relative to foreign
+currencies could make the Company's products more expensive and, therefore,
+potentially less competitive in those markets. As the Company expands its
+foreign operations, it expects that it will face increasing pressure to
+denominate product sales in local currencies, which will subject the Company to
+risks associated with currency fluctuations. Additional risks inherent in the
+Company's international business activities generally include unexpected changes
+in regulatory requirements, tariffs and other trade barriers, if any, in foreign
+countries, longer accounts receivable payment cycles, difficulties in managing
+international operations, potentially adverse tax consequences including
+restrictions on the repatriation of earnings, and the burdens of complying with
+a wide variety of foreign laws. The Company has not received ISO 9000
+certification which in the future could impact its ability to sell its products
+in international markets. There can be no assurance that such factors will not
+have a material adverse effect on the Company's future international sales and,
+consequently, the Company's business, operating results and financial condition.
+ 
+     Product Concentration; Changing Product Mix .  The Company derives
+substantially all of its revenues from the sale of its network filer product
+line. As a result, a reduction in the demand for filer products due to increased
+competition, a general decline in the market for network file servers or other
+factors would have a
+ 
+
+ 
+material adverse effect on the Company's business, operating results and
+financial condition. Prior to fiscal 1996, the Company derived substantially all
+of its revenue from the sale of its FAServer 450 and 1400 products. The mix of
+products sold by the Company has changed substantially with the introduction of
+the NetApp F220, NetApp F330 and NetApp F540. Additional product introductions
+in fiscal 1997 are expected to impact the sales of existing products. If the
+Company is unable to introduce these new products in a timely manner,
+effectively manage the introduction of new products and any related inventory
+transitions or if such products do not achieve market acceptance, the Company's
+business, operating results and financial condition could be materially
+adversely affected.
+ 
+     Concentration of Sales.  Historically, a significant portion of the
+Company's sales have been made to a limited number of end user customers and
+resellers. In fiscal 1996, no customers accounted for 10% or more of net sales.
+In fiscal 1995, sales to resellers ITOCHU Corporation ("ITOCHU") and MTI
+Technology Corporation ("MTI") each accounted for approximately 10% of net
+sales. In fiscal 1994, ITOCHU accounted for approximately 20% of net sales. The
+Company's relationship with MTI terminated in the second quarter of fiscal 1996.
+The Company generally has not entered into long term volume purchase contracts
+with its end user customers or resellers, and such end user customers or
+resellers may have certain rights to extend or delay the shipment of their
+orders. The loss of a major end user customer or reseller, the reduction, delay
+or cancellation of orders or a delay in shipment of the Company's products to
+such end user customer or reseller could materially adversely affect the
+Company's business, operating results and financial condition. In addition,
+should one or more of these resellers choose to promote products competitive
+with the Company's products, the Company's business, operating results and
+financial condition could be materially adversely affected.
+ 
+     Recent Management Additions and Management of Expanding
+Operations.  Certain of the Company's senior management joined the Company
+during the last year. The Company's Chief Financial Officer/Vice President of
+Operations joined in May 1995, its Vice President of Engineering joined in
+September 1995 and its Vice President of Marketing joined in May 1996. The
+Company is in the process of implementing a number of new financial and
+management controls, reporting systems and procedures. In addition to its senior
+management, the Company has recently hired a significant number of employees,
+including sales staff, and plans to further increase its total employee base.
+The Company also plans to expand the geographic scope of its customer base and
+operations. This expansion has resulted and will continue to result in
+substantial demands on the Company's management systems and resources. The
+Company's ability to compete effectively and to manage future expansion of its
+operations, if any, will require the Company to continue to improve its
+financial and management controls, reporting systems and procedures on a timely
+basis and effectively expand, train and manage its work force. If the Company's
+efforts are not successful, the Company's business, operating results and
+financial condition could be materially adversely affected.
+ 
+     Possible Volatility of Stock Price.  The trading price of the Company's
+Common Stock could be subject to wide fluctuations in response to a number of
+factors, including quarterly variations in operating results, announcements of
+technological innovations or new products, applications or product enhancements
+by the Company or its competitors, changes in financial estimates by securities
+analysts and other events. In addition, the stock market has experienced
+volatility that has particularly affected the market prices of equity securities
+of many high technology companies and that often has been unrelated or
+disproportionate to the operating performance of such companies. These broad
+market fluctuations may adversely affect the market price of the Company's
+Common Stock.
+ 
+     Concentration of Stock Ownership.  The present directors, executive
+officers and principal shareholders of the Company and their affiliates will
+beneficially own approximately 43% of the outstanding Common Stock. Upon the
+anticipated elimination of cumulative voting rights currently held by the
+Company's shareholders, the foregoing shareholders will be able to control all
+matters requiring shareholder approval, including the election of directors and
+approval of significant corporate transactions. Such concentration of ownership
+may have the effect of delaying or preventing a change in control of the
+Company.
+ 
+     Effect of Certain Charter Provisions; Anti-takeover Effects of Provisions
+of the Bylaws.  The Company's Board of Directors has the authority to issue up
+to 5,000,000 shares of Preferred Stock and to determine the
+ 
+
+ 
+price, rights, preferences, privileges and restrictions, including voting
+rights, of those shares without any further vote or action by the shareholders.
+The rights of the holders of Common Stock will be subject to, and may be
+adversely affected by, the rights of the holders of any Preferred Stock that may
+be issued in the future. The issuance of Preferred Stock could have the effect
+of making it more difficult for a third party to acquire a majority of the
+outstanding voting stock of the Company. Further, certain provisions of the
+Company's Bylaws pertaining to the future elimination of cumulative voting and
+shareholder action by written consent, and the requirement that shareholders may
+call a special meeting of shareholders only upon a request of shareholders
+owning at least 50% of the Company's Common Stock, could delay or make more
+difficult a proxy contest involving the Company, which could adversely affect
+the market price of the Company's Common Stock.
+ 
+ITEM 2.  PROPERTIES
+ 
+     Network Appliance's principal administrative, sales, marketing,
+manufacturing and research and development facility is located in approximately
+51,000 square feet of space in Mountain View, California. This facility is
+leased through October 1999. The Company leases other sales offices throughout
+the U.S. and in Europe. The Company believes that the existing facilities are
+adequate for its current needs and that additional space will be available as
+needed.
+ 
+ITEM 3.  LEGAL PROCEEDINGS
+ 
+WHIPSAW LITIGATION
+ 
+     In July 1994, the Whipsaw Group, Robert and Ellen Cousins, and certain
+other individuals filed suit alleging breach of contract, breach of fiduciary
+duty, fraud, misappropriation of trade secrets and other related claims against
+the Company, Michael Malcolm (a former officer), Owen Brown and Migration
+Software Systems, Ltd. (the "Whipsaw Litigation"). The plaintiffs allege that
+they disclosed trade secrets and proprietary information to Messrs. Brown and
+Malcolm under written and/or oral confidentiality agreements, that Messrs. Brown
+and Malcolm misappropriated those trade secrets and that Network Appliance is
+based entirely on the trade secrets and proprietary information misappropriated
+from the Whipsaw Group. These allegations are based upon contacts from September
+through November 1991 between Mr. Cousins and other members of the Whipsaw Group
+and Messrs. Malcolm and Brown. During November 1991, Messrs. Malcolm and Brown
+reviewed a business plan prepared by the Whipsaw Group and had various
+discussions with Mr. Cousins and other members of the Whipsaw Group relating to
+the formation and funding of a company to develop low cost network file servers.
+Although Mr. Malcolm had written an unpublished paper in 1988 on a similar file
+server concept, he did not actively pursue the formation and funding of a
+company based upon the concept until after his meetings with the Whipsaw Group.
+In December 1991, Mr. Malcolm initiated contact with Messrs. Hitz and Lau which
+ultimately led to the formation of Network Appliance. Mr. Brown was an early
+investor in the Company and Migration Software Systems, Ltd. is a company with
+which he is affiliated. Plaintiffs are seeking an injunction against further use
+of their trade secrets and confidential information, unspecified damages and the
+imposition of a constructive trust on the things of value defendants are alleged
+to have obtained by their use of the plaintiffs' alleged trade secrets and
+proprietary information. While the damages are unspecified, based upon
+settlement demands made by the plaintiffs to date, the Company believes that any
+demand for damages at trial would be substantial and could include a one-time or
+ongoing payments. The trial is currently scheduled to commence on August 5, 1996
+in Santa Clara County Superior Court. The Company believes that it has
+meritorious defenses to such claims and intends to defend the litigation
+vigorously. However, due to the nature of the litigation, the Company cannot
+determine the total expense or possible loss, if any, that may ultimately be
+incurred either in the context of a trial or as a result of a negotiated
+settlement. Regardless of the ultimate outcome of the Whipsaw Litigation, it
+could result in significant diversion of time by the Company's technical and
+managerial personnel. While after consideration of the nature of the claims and
+facts relating to the litigation, including the results of preliminary
+discovery, and after consultation with legal counsel, management believes that
+the resolution of this matter will not have a material adverse effect on the
+Company's business, operating results and financial condition, the results of
+these proceedings, including any potential settlement, are uncertain and there
+can be no assurance that they will not have a material adverse effect on the
+Company's business, operating results and financial condition. In
+ 
+
+ 
+connection with Mr. Malcolm's termination of services with the Company, the
+Company entered into a settlement and release agreement with Mr. Malcolm under
+which the Company may be required to indemnify and defend Mr. Malcolm in
+connection with the Whipsaw Litigation, and therefore, the costs incurred by the
+Company could be increased. Mr. Malcolm's employment relationship with the
+Company terminated for reasons unrelated to the Whipsaw Litigation. The Company
+does not have any agreement with Mr. Brown or Migration Software Systems, Ltd.
+regarding the Whipsaw Litigation. Mr. Brown settled with the plaintiffs in May
+1996 and is no longer a defendant in this matter.
+ 
+ITEM 4.  SUBMISSIONS OF MATTERS TO A VOTE OF SECURITY-HOLDERS
+ 
+     No matters were submitted to a vote of security holders during the fourth
+quarter of the fiscal year covered by this Annual Report on Form 10-K.
+ 
+                        EXECUTIVE OFFICERS AND DIRECTORS
+ 
+     The executive officers and directors of the Company, and their ages as of
+April 26, 1996, are as follows:
+ 
+
+ 
+- - - ---------------
+(1) Member of Compensation Committee
+ 
+(2) Member of Audit Committee
+ 
+     Daniel J. Warmenhoven joined the Company in October 1994 as President and
+Chief Executive Officer, and has been a member of the Board of Directors since
+October 1994. Prior to joining the Company, Mr. Warmenhoven served in various
+capacities, including President, Chief Executive Officer and Chairman of the
+Board of Directors of Network Equipment Technologies, Inc., a telecommunications
+company, from November 1989 to January 1994. Mr. Warmenhoven presently serves on
+the Board of Directors of Brooktree Corporation, a semiconductor company. Mr.
+Warmenhoven holds a B.S. degree in electrical engineering from Princeton
+University.
+ 
+     Donald T. Valentine has been a director of the Company and Chairman of the
+Board of Directors since September 1994. Mr. Valentine has been a general
+partner of Sequoia Capital, a venture capital firm, since 1972. He is also
+Chairman of the Board of C-Cube Microsystems Inc., a semiconductor video
+compression company, and Elantec Semiconductor, Inc., an analog integrated
+circuit company, Vice Chairman of Cisco Systems, Inc., an internetworking
+communications company, and a director of Sierra Semiconductor, Inc., a
+communications semiconductor company.
+ 
+     M. Helen Bradley joined the Company as Vice President, Engineering in
+September 1995. Prior to that, Ms. Bradley owned a management consulting
+business from January 1995 to September 1995. She also served as Senior Vice
+President, Technology Development at Openvision, a client-server applications
+company, from May 1994 to January 1995. From August 1990 to April 1994, Ms.
+Bradley was the Vice President, Systems Software at Sun Microsystems. Ms.
+Bradley holds a B.S. degree in mathematics from the Massachusetts Institute of
+Technology and an M.S. degree in computer science from the Georgia Institute of
+Technology.
+ 
+
+ 
+     Michael J. McCloskey joined the Company in May 1995 as Vice President,
+Finance and Operations, Chief Financial Officer and Secretary. From September
+1993 to May 1995, Mr. McCloskey served as Executive Vice President and Chief
+Financial Officer at Digital Microwave Corporation, a telecommunications
+company. From September 1991 to September 1993, Mr. McCloskey was the Chief
+Operating Officer and a member of the Board of Directors of Wavefront
+Technologies, a 3-D graphics visualization software development company. From
+September 1986 to September 1991, he served as Chief Financial Officer at Everex
+Systems, Inc., a PC and PC peripherals company. Mr. McCloskey received his B.S.
+degree in business from Santa Clara University.
+ 
+     Thomas F. Mendoza joined the Company in May 1994 as Vice President, North
+American Sales. From November 1993 to April 1994, Mr. Mendoza served in various
+capacities including Vice President, Sales at Work Group Technology, a product
+data management company. Prior to that, Mr. Mendoza served in various capacities
+including Vice President of North American Sales at Auspex, a UNIX-based network
+file server company, from November 1990 to October 1993. Mr. Mendoza was
+previously Vice President of Western Operations at Stratus Computer, a vendor of
+fault tolerant computers, from May 1982 to October 1990. Mr. Mendoza holds a
+B.A. degree from the University of Notre Dame.
+ 
+     Michael E. Paul joined the Company as Vice President, International Sales
+in July 1994. Prior to that, Mr. Paul served as Vice President of World Wide
+Sales at Trade, Inc., an international trade statistics data-base company, from
+December 1993 to June 1994. In March 1991, Mr. Paul joined Ultra Network
+Technologies, a network company, as Vice President of Sales and was named
+President and Chief Executive Officer in March 1991 and served in that capacity
+until July 1993. Mr. Paul served as Vice President of North American Sales at
+MIPS Computer Systems, a RISC technology company, from April 1988 to February
+1991. Mr. Paul holds a B.S. degree in electrical and mechanical engineering and
+naval science from the U.S. Naval Academy.
+ 
+     Charles E. Simmons joined the Company in May 1996 as Vice President,
+Marketing. Prior to that, Mr. Simmons was a senior partner at Rohner &
+Associates, a consulting firm, from January 1995 to May 1995. From February 1994
+to October 1994, Mr. Simmons served as Vice President of Marketing at Voyant
+Corporation, a developer of videoconferencing equipment. Prior to that, Mr.
+Simmons was with Sun Microsystems Computer Company, a subsidiary of Sun
+Microsystems, Inc., from November 1984 to February 1994, most recently as
+Director of Business Strategy and Technology Marketing. Mr. Simmons received a
+B.S. degree in electrical engineering from Washington University, an M.S. degree
+in electrical engineering from the Massachusetts Institute of Technology and an
+MBA from Santa Clara University.
+ 
+     Carol A. Bartz has been a member of the Board of Directors since September
+1995. Since April 1992, Ms. Bartz has been Chairman of the Board, President and
+Chief Executive Officer of Autodesk, Inc., a PC software company and supplier of
+design software. Prior to that, Ms. Bartz was with Sun Microsystems from
+September 1983 to April 1992, most recently as Vice President of Worldwide Field
+Operations. Ms. Bartz also currently serves on the Board of Directors of
+Airtouch Communications, Cadence Design Systems, Inc. and BEA Systems, Inc. Ms.
+Bartz received a B.A. degree in computer science from the University of
+Wisconsin.
+ 
+     Michael R. Hallman has been a member of the Board of Directors since August
+1994. Mr. Hallman is the President of The Hallman Group, a management consulting
+firm, which he founded in June 1992. Prior to that, he served as President and
+Chief Operating Officer of Microsoft Corporation, a microcomputer software
+company, from March 1990 to March 1992. He presently serves on the Board of
+Directors of Amdahl Corporation, a manufacturer of mainframe computers and
+peripherals, InFocus Systems, a computer peripherals company, Intuit, a
+microcomputer software company, Keytronics Corporation, an input device company,
+and Timeline, a developer of financial reporting software. Mr. Hallman holds
+B.B.A. and M.B.A. degrees from the University of Michigan.
+ 
+     Kurt R. Jaggers has been a member of the Board of Directors since August
+1993. Mr. Jaggers has been at TA Associates, an equity investment firm, since
+August 1990 and has been a Principal there since January 1993. Mr. Jaggers
+presently serves on the Board of Directors of JDA Software Group, Inc. Mr.
+Jaggers received B.S. and M.S. degrees in electrical engineering and an M.B.A.
+degree from Stanford University.
+ 
+
+ 
+     Robert T. Wall has been a member of the Board of Directors since January
+1993. Mr. Wall has been the Chairman of the Board, President and Chief Executive
+Officer of Theatrix Interactive, Inc., a consumer educational software
+publisher, since April 1994. From June 1989 to December 1990, Mr. Wall served as
+Co-Head of Investment and Merchant Banking at Cowen & Company, an investment
+banking firm. In August 1984, he founded On Point Developments Inc., a venture
+management and investment banking company, where he has served as President
+since its formation. He received an A.B. degree in economics from De Pauw
+University and an M.B.A. degree from Harvard Business School.
+ 
+
+ 
+                                    PART II
+ 
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED SHAREHOLDER MATTERS
+ 
+     The Company's Common Stock commenced trading on the Nasdaq National Market
+on November 21, 1995 and is traded under the symbol "NTAP." As of May 31, 1996
+there were approximately 260 holders of record of the Common Stock. The
+following table sets forth for the periods indicated the high and low closing
+sale prices for the Common Stock as reported on the Nasdaq National Market.
+ 
+
+ 
+     The Company has never paid cash dividends on its capital stock. The Company
+currently anticipates that it will retain all available funds for use in its
+business and does not anticipate paying any cash dividends.
+ 
+ITEM 6.  SELECTED CONSOLIDATED FINANCIAL DATA
+ 
+     The information required by this item is included under the caption
+"Selected Consolidated Financial Data" in the Company's Annual Report to
+Shareholders and is incorporated herein by reference.
+ 
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+         OF OPERATIONS
+ 
+     The information required by this item is included under the caption
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations" in the Company's Annual Report to Shareholders and is incorporated
+herein by reference.
+ 
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+ 
+     The information required by this item is included under the captions
+"Independent Auditors' Report," "Consolidated Balance Sheets," "Consolidated
+Statement of Operations," "Consolidated Statements of Shareholders' Equity
+(Deficit)," "Consolidated Statements of Cash Flows" and "Notes to Consolidated
+Financial Statements" in the Company's Annual Report to Shareholders and is
+incorporated herein by reference.
+ 
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+         FINANCIAL DISCLOSURE
+ 
+     In January 1995, the Company's Board of Directors retained Deloitte &
+Touche LLP as its independent auditors and dismissed the Company's former
+auditors, Coopers & Lybrand LLP. The decision to change independent auditors was
+approved by resolution of the Board of Directors. The former independent
+auditors' report on the Company's financial statements for the years ended March
+31, 1993 and 1994 did not contain an adverse opinion, a disclaimer of opinion or
+any qualifications or modifications related to uncertainty, limitation of audit
+scope or application of accounting principles. In addition, the former
+independent auditors' report does not cover any of the consolidated financial
+statements of the Company incorporated by reference in this Annual Report on
+Form 10-K. Coopers & Lybrand LLP was not engaged to audit the Company's
+financial statements for any other period. There were no disagreements with the
+former auditors on any matter of accounting principles or practices, financial
+statement disclosure or auditing scope or procedure with respect to the
+Company's consolidated financial statements up through the time of dismissal
+which, if not resolved to the former auditors' satisfaction, would have caused
+them to make reference to the subject matter of the disagreement in connection
+with their report. Prior to retaining Deloitte & Touche LLP, the Company had not
+consulted with Deloitte & Touche LLP regarding accounting principles.
+ 
+
+ 
+                                    PART III
+ 
+ITEM 10.  DIRECTORS AND OFFICERS OF THE REGISTRANT
+ 
+     The information required by this item relating to the Company's directors,
+executive officers and key employees is included under the caption "Executive
+Officers and Directors" in Part I of this Annual Report on Form 10-K.
+ 
+     Section 16(a) of the Securities and Exchange Act of 1934 requires the
+Company's directors and executive officers, and persons who own more than ten
+percent (10%) of a registered class of the Company's equity securities, to file
+with the Securities and Exchange Commission (the "SEC") initial reports of
+ownership and reports of changes in ownership of Common Stock and other equity
+securities of the Company. Officers, directors and greater than ten percent
+(10%) shareholders are required by SEC regulations to furnish the Company with
+copies of all Section 16(a) forms they file.
+ 
+     Based upon (i) the copies of Section 16(a) reports which the Company
+received from such persons for their 1996 fiscal year transactions in the Common
+Stock and their Common Stock holdings, and (ii) the written representations
+received from one or more of such persons that no annual Form 5 reports were
+required to be filed by them for the 1996 fiscal year, the Company believes that
+all executive officers and Board members complied with all their reporting
+requirements under Section 16(a) for such fiscal year.
+ 
+ITEM 11.  EXECUTIVE COMPENSATION
+ 
+SUMMARY OF CASH AND CERTAIN OTHER COMPENSATION
+ 
+     The following Summary Compensation Table sets forth the compensation earned
+by the Company's Chief Executive Officer and the four other most highly
+compensated executive officers for the 1996 fiscal year for services rendered in
+all capacities to the Company and its subsidiaries for the 1996 and 1995 fiscal
+years. The listed individuals shall be hereinafter referred to as the "Named
+Officers."
+ 
+
+ 
+                           SUMMARY COMPENSATION TABLE
+ 
+
+ 
+- - - ---------------
+(1) The options listed in the table were granted under the Company's 1993 Stock
+    Option/Stock Issuance Plan. The options were incorporated into the Company's
+    1995 Stock Incentive Plan at the time of the Company's initial public
+    offering, but will continue to be governed by their existing terms.
+ 
+(2) Represents the cost of term life insurance.
+ 
+(3) Mr. McCloskey joined the Company in May of 1995.
+ 
+(4) Ms. Bradley joined the Company in September of 1995.
+ 
+(5) Ms. Bradley's salary on an annual basis is $150,000.
+ 
+(6) Includes a $10,000 signing bonus.
+ 
+STOCK OPTIONS
+ 
+     The following table contains information concerning the stock option grants
+made to each of the Named Officers for the 1996 fiscal year. No stock
+appreciation rights were granted to those individuals during such year.
+ 
+
+ 
+- - - ---------------
+(1) There is no assurance provided to the option holder or any other holder of
+    the Company's securities that the actual stock price appreciation over the
+    10-year option term will be at the 5% and 10% assumed annual rates of
+    compounded stock price appreciation.
+ 
+(2) The options were granted under the Company's 1993 Stock Option/Stock
+    Issuance Plan on the following dates: Mr. Warmenhoven, November 1, 1995; Mr.
+    McCloskey, May 25, 1995, and Ms. Bradley, September 26, 1995. Each option
+    has a maximum term of 10 years measured from the grant date, subject
+ 
+
+ 
+    to earlier termination upon the optionee's cessation of service with the
+    Company. Mr. Warmenhoven's option is immediately exercisable for 87,655
+    shares and exercisable for the remaining 12,345 shares on January 3, 1996.
+    Each of the other granted options is immediately exercisable for all the
+    option shares. However, any shares purchased under the options are subject
+    to repurchase by the Company at the option exercise price paid per share,
+    should the optionee leave the Company prior to vesting in the shares. With
+    respect to the option granted to Mr. Warmenhoven, the option will vest as to
+    ten percent (10%) of the shares on the first anniversary of the date of
+    grant; another twenty percent (20%) of the shares in equal monthly
+    installments over the twenty-four (24) month period starting from the first
+    anniversary of the grant date; another thirty percent (30%) of the shares in
+    equal monthly installments over the twelve-month period starting from the
+    third anniversary of the grant date; and the remaining forty percent (40%)
+    of the shares in equal monthly installments over the twelve-month period
+    starting from the fourth anniversary of the grant date. With respect to the
+    options granted to Mr. McCloskey and Ms. Bradley, the options will vest as
+    to twenty-five percent (25%) of the shares upon the optionee's completion of
+    one year of service measured from May 25, 1995 and September 8, 1995,
+    respectively, and with respect to the balance of the shares in a series of
+    equal monthly installments over the thirty-six (36) months of service
+    thereafter. Full and immediate vesting of Messrs. Warmenhoven's and
+    McCloskey's options will occur in the event the Company is acquired by
+    merger or asset sale. Full and immediate vesting of Ms. Bradley's option
+    will occur in the event the Company is acquired by merger or asset sale,
+    unless the option is assumed by the acquiring company.
+ 
+(3) The exercise price may be paid in cash, in shares of Common Stock valued at
+    fair market value on the exercise date or through a cashless exercise
+    procedure involving a same-day sale of the purchased shares. The Company may
+    also finance the option exercise by loaning the optionee sufficient funds to
+    pay the exercise price for the purchased shares and the Federal and state
+    income and employment tax liability incurred by the optionee in connection
+    with such exercise.
+ 
+AGGREGATED OPTION EXERCISES IN LAST FISCAL YEAR AND FISCAL YEAR-END OPTION
+VALUES
+ 
+     The following table sets forth information concerning option exercises and
+option holdings for the 1996 fiscal year by each of the Named Officers. No stock
+appreciation rights were exercised during such year or were outstanding at the
+end of the year.
+ 
+
+ 
+- - - ---------------
+(1) Based on the fair market value (as determined by the Board of Directors) of
+    the purchased option shares at the time of exercise less the option exercise
+    price paid for those shares.
+ 
+(2) Based on the fair market value of the shares at the end of the 1996 fiscal
+    year ($34.25 per share) less the option exercise price payable for those
+    shares.
+ 
+(3) The options are fully exercisable as of the fiscal year end, but any shares
+    purchased thereunder will be subject to repurchase by the Company at the
+    original option exercise price paid per share should the optionee leave the
+    Company prior to vesting in the shares. As of April 26, 1996, Mr.
+    Warmenhoven and Ms. Bradley had not vested in any shares.
+ 
+
+ 
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+ 
+     The following table sets forth certain information regarding beneficial
+ownership of the Company's Common Stock as of May 31, 1996 by (i) each person
+who is known by the Company to own beneficially more than five percent of the
+Company's Common Stock, (ii) each of the Company's directors and Named Officers
+and (iii) all current executive officers and directors as a group.
+ 
+
+ 
+- - - ---------------
+* Less than 1%
+ 
+ (1) Except as indicated in the footnotes to this table and pursuant to
+     applicable community property laws, the persons named in the table have
+     sole voting and investment power with respect to all shares of Common
+     Stock.
+ 
+ (2) Includes 1,835,226 shares held by Advent VII L.P., 378,818 shares held by
+     Advent Atlantic and Pacific II Limited Partnership, 183,456 shares held by
+     Advent New York L.P., 136,540 shares held by Advent Industrial II L.P. and
+     27,518 shares held by TA Venture Investors, L.P. Advent VII L.P., Advent
+     Atlantic and Pacific II Limited Partnership, Advent Industrial II Limited
+     Partnership, Advent New York L.P., and TA Venture Investors, L.P. are part
+     of an affiliated group of investment partnerships referred to,
+     collectively, as the TA Associates Group. The general partner of Advent VII
+     L.P. is TA Associates VII L.P. The general partner of each of Advent New
+     York L.P. and Advent Industrial II L.P. is TA Associates VI, L.P. The
+     general partner of Advent Atlantic and Pacific II Limited Partnership is TA
+     Associates AAP II Partners, L.P. The general partner of each of TA
+     Associates VII, L.P., TA Associates VI, L.P. and TA Associates AAP II
+     Partners, L.P. is TA Associates, Inc. In such capacity, TA Associates, Inc.
+     exercises sole voting and investment power with respect to all of the
+     shares held of record by the named investment partnerships, with the
+     exception of those shares held by TA Venture Investors, L.P.; individually
+     no stockholder, director or officer of TA Associates, Inc. is deemed to
+     have or share such voting or investment power. Principals and employees of
+     TA Associates, Inc. (including Mr. Jaggers, a director of the Company)
+     comprise the general partners of TA Venture
+ 
+
+ 
+     Investors, L.P. In such capacity, Mr. Jaggers may be deemed to share voting
+     and investment power with respect to the 27,518 shares held of record by TA
+     Venture Investors, L.P. Mr. Jaggers disclaims beneficial ownership of such
+     shares, except to the extent of the 5,860 shares as to which he holds a
+     pecuniary interest.
+ 
+ (3) Includes 999,566 shares held by Sequoia Capital Growth Fund, 641,539 shares
+     held by Sequoia Capital VI, 63,801 shares held by Sequoia Technology
+     Partners III, 35,248 shares held by Sequoia Technology Partners VI and
+     28,199 shares held by Sequoia XXIV. Mr. Valentine, the Chairman of the
+     Company's Board of Directors, is an affiliate of the foregoing entities and
+     may be deemed to share voting and investment power with respect to such
+     shares. Mr. Valentine disclaims beneficial ownership of such shares, except
+     to the extent of his pecuniary interest in such shares arising from his
+     interests in the entities referred to above.
+ 
+ (4) Includes 457,000 shares held by Daniel J. Warmenhoven & Charmaine A.
+     Warmenhoven, trustees to The Warmenhoven 1987 Revocable Trust UTA dated
+     12/16/87, as amended, of which Mr. Warmenhoven is a trustee and shares
+     voting and investment powers. Excludes 8,500 shares held by Charmaine A.
+     Warmenhoven, Mr. Warmenhoven's spouse, as separate property. Also excludes
+     200,000 shares held by Richard A. Andre, trustee to The Warmenhoven 1995
+     Children's Trust, under trust agreement dated 5/1/95, and 9,000 shares held
+     by Richard A. Andre, trustee to the Daniel J. Warmenhoven 1991 Children's
+     Trust, as Mr. Warmenhoven disclaims beneficial ownership over the shares
+     held by such trusts.
+ 
+ (5) Does not include 16,000 shares held by Mr. Mendoza's spouse.
+ 
+ (6) Includes 100,000 shares of Common Stock issuable upon exercise of a
+     currently exercisable option granted under the 1993 Plan.
+ 
+ (7) Includes 40,000 shares of Common Stock issuable upon exercise of a
+     currently exercisable option granted under the 1993 Plan. Some of these
+     shares are subject to a repurchase right of the Company. In addition,
+     includes 17,857 shares held by Wampum Partners II. Mr. Wall, a director of
+     the Company, is the Managing Joint Venturer of Wampum Partners II, an
+     investment joint venture. In such capacity, Mr. Wall exercises sole voting
+     and investment power with respect to all of the shares held of record by
+     Wampum Partners II. Mr. Wall disclaims beneficial ownership of such shares
+     held by Wampum Partners II, except to the extent of his pecuniary interest
+     in 3,657 of such shares. Also includes 1,000 shares held by Mr. Wall as
+     custodian for each of his two adult children and 1,000 shares held by Mr.
+     Wall as trustee of a trust for the benefit of his children. Mr. Wall
+     disclaims beneficial ownership of these 3,000 shares.
+ 
+ (8) Includes 80,000 shares of Common Stock issuable upon exercise of a
+     currently exercisable option granted under the 1993 Plan.
+ 
+ (9) Includes 30,000 shares of Common Stock issuable upon exercise of a
+     currently exercisable option granted under the 1993 Plan. In addition,
+     includes 51,423 shares held by the Carol Ann Bartz Trust UAD 10/14/87.
+ 
+(10) Includes 30,000 shares of Common Stock issuable upon exercise of a
+     currently exercisable option granted under the 1993 Plan. In addition,
+     includes 27,518 shares held by TA Venture Investors, L.P., all of which
+     shares are included in the 2,041,933 shares described in footnote (2)
+     above. Mr. Jaggers disclaims beneficial ownership to such shares, except to
+     the extent of the 5,860 shares as to which he holds a pecuniary interest.
+     Does not include any shares beneficially owned by Advent VII L.P., Advent
+     Atlantic and Pacific II Limited Partnership, Advent Industrial II L.P. or
+     Advent New York L.P., of which Mr. Jaggers disclaims beneficial ownership.
+ 
+(11) Includes a total of 280,000 shares of Common Stock issuable upon the
+     exercise of options exercisable within 60 days of May 31, 1996. Also,
+     includes all shares held by TA Associates Group and entities affiliated
+     with Sequoia Capital. Mr. Jaggers disclaims beneficial ownership of the
+     shares held by TA Associates Group except to the extent of his pecuniary
+     interest in TA Venture Investors, L.P., and Mr. Valentine disclaims
+     beneficial ownership of the shares held by entities affiliated by Sequoia
+     Capital except to the extent of his pecuniary interest in such entities.
+ 
+
+ 
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+ 
+     In June 1995, the Company and Mr. Michael Malcolm, a greater than five
+percent shareholder and former director and executive officer of the Company,
+entered into a Settlement Agreement and General Release (the "Settlement
+Agreement") relating to Mr. Malcolm's termination of services with the Company.
+Under the material terms of the Settlement Agreement, Mr. Malcolm and the
+Company release each other of any claims, damages, and causes of action that
+they might have against each other arising out of Mr. Malcolm's employment with
+the Company. The Company also agreed to pay Mr. Malcolm the lump sum of $220,000
+and a monthly consulting fee, which terminated in November 1995, of $15,000. In
+addition, the Company agreed to indemnify and defend Mr. Malcolm under certain
+circumstances in connection with the Whipsaw Litigation.
+ 
+     The Company has also granted options to certain of its directors and
+executive officers.
+ 
+     The Company believes that all of the transactions set forth above were made
+on terms no less favorable to the Company than could have been obtained from
+unaffiliated third parties. All future transactions, including loans, between
+the Company and its officers, directors, principal shareholders and their
+affiliates will be approved by a majority of the Board of Directors, including a
+majority of the independent and disinterested outside directors on the Board of
+Directors, and will continue to be on terms no less favorable to the Company
+than could be obtained from unaffiliated third parties.
+ 
+
+ 
+                                    PART IV
+ 
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+ 
+     (a) List of Documents filed as part of this Annual Report on Form 10-K.
+ 
+        1. The following consolidated financial statements of Network Appliance,
+           Inc. are incorporated by reference into Part II, Item 8 of this
+           Report on Form 10-K from the Company's Annual Report to Shareholders
+           filed as Exhibit 13.1 hereof:
+ 
+                Independent Auditors' Report
+              Consolidated Balance Sheets -- April 30, 1996 and 1995
+              Consolidated Statements of Operations for the years ended April
+                30, 1996, 1995 and 1994
+              Consolidated Statements of Shareholders' Equity (Deficit) for the
+                years ended April 30,   1996, 1995 and 1994
+              Consolidated Statements of Cash Flows for the years ended April
+                30, 1996,
+                1995 and 1994
+              Notes to Consolidated Financial Statements
+ 
+        2. Financial Statement Schedules.
+ 
+          The following financial statement schedule of the Company is filed in
+           Part IV, Item 14(d) of this Annual Report on Form 10-K:
+ 
+                Schedule II -- Valuation and Qualifying Accounts
+ 
+All other schedules have been omitted since the required information is not
+present in amounts sufficient to require submission of the schedule or because
+the information required is included in the consolidated financial statements or
+notes thereto.
+ 
+        3. Exhibits.
+ 
+
+ 
+
+ 
+   
+
+    
+ 
+- - - ---------------
+(1) Previously filed as an exhibit to the Company's Registration Statement on
+     Form S-1 (No. 33-97864).
+ 
+(2) Confidential treatment requested as to certain portions of these exhibits.
+ 
+     (b) Reports on Form 8-K.
+ 
+         No reports on Form 8-K were filed during the last quarter of the fiscal
+         year covered by this Annual Report on Form 10-K.
+ 
+
+ 
+                                   SIGNATURES
+ 
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Company has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized, on July 25, 1996.
+ 
+                                          NETWORK APPLIANCE, INC.
+ 
+                                          By: DANIEL J. WARMENHOVEN
+ 
+                                            ------------------------------------
+                                            Daniel J. Warmenhoven
+                                            President and Chief Executive
+                                              Officer
+ 
+
+ 
+                               POWER OF ATTORNEY
+ 
+     KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature
+appears below constitutes and appoints Daniel J. Warmenhoven and Michael J.
+McCloskey, and each of them, as his true and lawful attorneys-in-fact and
+agents, with full power of substitution and resubstitution, for him and in his
+name, place and stead, in any and all capacities, to sign any and all amendments
+(including post-effective amendments) to this Report on Form 10-K, and to file
+the same, with all exhibits thereto, and other documents in connection
+therewith, with the Securities and Exchange Commission, granting unto said
+attorneys-in-fact and agents, and each of them, full power and authority to do
+and perform each and every act and thing requisite and necessary to be done in
+connection therewith, as fully to all intents and purposes as he might or could
+do in person, hereby ratifying and confirming all that said attorneys-in-fact
+and agents, or any of them, or their or his substitute or substitutes, may
+lawfully do or cause to be done by virtue hereof.
+ 
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the Company
+and in the capacities and on the dates indicated.
+ 
+
+ 
+
+ 
+                                                                    EXHIBIT 23.1
+ 
+              INDEPENDENT AUDITORS' CONSENT AND REPORT ON SCHEDULE
+ 
+To the Board of Directors and Shareholders of
+Network Appliance, Inc.
+ 
+We consent to the incorporation by reference in Registration Statement No.
+33-99638 on Form S-8 of our report dated May 10, 1996, incorporated by reference
+in this Annual Report on Form 10-K of Network Appliance, Inc. for the year ended
+April 30, 1996.
+ 
+Our audits of the financial statements referred to in our aforementioned report
+also included the financial statement schedule of Network Appliance, Inc.,
+listed in Item 14.(a)2. The financial statement schedule is the responsibility
+of the Company's management. Our responsibility is to express an opinion based
+on our audits. In our opinion, such financial statement schedule, when
+considered in relation to the basic financial statements taken as a whole,
+presents fairly in all material respects the information set forth therein.
+ 
+                                          DELIOTTE & TOUCHE LLP
+ 
+San Jose, California
+July 23, 1996
+ 
+
+ 
+                                                                     SCHEDULE II
+ 
+                            NETWORK APPLIANCE, INC.
+ 
+                       VALUATION AND QUALIFYING ACCOUNTS
+                   YEARS ENDED APRIL 30, 1996, 1995 AND 1994
+                                 (IN THOUSANDS)
+ 
+
+ 
+

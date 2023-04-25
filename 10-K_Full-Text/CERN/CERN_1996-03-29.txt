@@ -1,0 +1,2242 @@
+
+10-K405
+
+
+
+                          UNITED STATES
+               SECURITIES AND EXCHANGE COMMISSION
+                     Washington, D.C.  20549
+                                
+                            FORM 10-K
+(Mark One)
+                                
+( X )     ANNUAL REPORT PURSUANT TO SECTION 13 or 15(d) OF THE
+          SECURITIES EXCHANGE ACT OF 1934 [FEE REQUIRED]
+
+     For the fiscal year ended December 30, 1995
+
+                               OR
+
+(    )    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+          THE SECURITIES EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+
+     For the transition period from _____________ to ___________
+
+
+                 Commission File Number 0-15386
+
+                       CERNER CORPORATION
+     (Exact name of Registrant as specified in its charter)
+
+                   Delaware                             43-1196944
+      (State or other jurisdiction                   (I.R.S. Employer
+     of incorporation or organization)            Identification Number)
+
+                2800 Rockcreek Parkway, Suite 601
+                   Kansas City, Missouri 64117
+                         (816) 221-1024
+  (Address of principal executive offices, including zip code;
+       Registrant's telephone number, including area code)
+
+
+   Securities registered pursuant to Section 12(b) of the Act:   NONE
+                                
+   Securities registered pursuant to Section 12(g) of the Act:
+                                
+             Common Stock, par value $.01 per share
+                        (Title of Class)
+
+     Indicate by check mark whether the Registrant (1) has filed
+all reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the Registrant was required to
+file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+                     Yes     X      No _____
+
+     Indicate by check mark if disclosure of delinquent filers
+pursuant to Item 405 of Regulation S-K is not contained herein,
+and will not be contained, to the best of registrant's
+knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K.    [ X ]
+
+     At March 1, 1996, there were 32,542,563 shares of Common
+Stock outstanding, of which 7,491,002 shares were owned by
+affiliates.  The aggregate market value of the outstanding
+Common Stock of the Registrant held by non-affiliates, based on
+the average of bid and asked prices of such stock on March 1,
+1996, was $591,843,128.
+
+     Documents incorporated by reference: portions of the
+Registrant's Proxy Statement for the 1996 Annual Meeting of
+Stockholders are incorporated by reference in Part III hereof.
+
+
+
+
+
+PART I
+
+Item 1.  Business
+
+General
+- -------
+
+          Cerner Corporation was incorporated in Missouri in
+1980.  Through a merger into a wholly-owned Delaware subsidiary
+effected in June 1987, Cerner Corporation ("Cerner" or the
+"Company") became a Delaware corporation.  The Company's
+principal offices are located at 2800 Rockcreek Parkway, Kansas
+City, Missouri 64117, and its telephone number is
+(816) 221-1024.
+
+          Cerner designs, develops, markets, installs and
+supports member/patient-focused clinical and management
+information systems that are capable of being implemented on an
+individual, combined or enterprise-wide basis.  Cerner systems
+are designed to automate the process of healthcare by
+accumulating data on care provided to members/patients,
+maintaining such data in a member/patient database repository
+and providing access to such data for users of clinical
+information across a healthcare system.  Cerner's systems are
+designed and developed using the Health Network Architecture
+(''HNA''), a single architecture.  HNA is a unified system for
+combining clinical and management information applications.  HNA
+allows each participating facility within an integrated
+healthcare enterprise to access an individual's clinical record
+at the point of care, to organize it for the specific needs of
+the physician, nurse, laboratory technician or other care
+provider on a real-time basis, and to use the information in
+management decisions to improve the efficiency and productivity
+of the location and the entire enterprise.
+
+Healthcare Industry
+- -------------------
+
+          The dramatic increase in healthcare costs in the
+United States, which historically were based on a fee-for-
+service model, has caused significant changes in the healthcare
+industry.  Managed care organizations and other payers have
+developed alternative payment models to control costs, including
+procedure-based cost limits, contractually approved providers
+and capitation (a fixed monthly fee per member in payment for
+all required services).  The result has been a continuing shift
+of financial risk from the payer to both the physician provider
+and the institutional provider (hospitals, clinics, long-term
+care, subacute providers and rehabilitative care centers).  In
+response, institutional providers are aligning with one another
+and with physician groups to form Integrated Delivery Systems
+(''IDSs''), and IDSs are aligning with payer organizations to
+form Integrated Health Organizations (''IHOs''), in each case in
+an effort to compete more effectively in the changing healthcare
+environment.
+
+          The changes occurring in the healthcare industry have
+resulted in changes in the needs for clinical and management
+information systems by hospitals, physicians, managed care
+organizations and Integrated Delivery Systems.  Hospitals'
+information requirements have become more complex as cost
+containment pressures have driven the needs for efficiency and
+process automation while the increasing number of relationships
+they have with other providers requires additional
+sophistication.  As physicians combine into a variety of
+provider configurations, management structures and incentive
+plans, they are increasingly utilizing member/patient focused
+information systems to improve quality and efficiency for their
+growing practices and physician networks, to develop the data
+necessary to compete for contracts with payers and to be able to
+share the financial risks of healthcare delivery.  Managed care
+organizations are increasingly recognizing the value of process-
+oriented and clinically-driven information as it relates to
+understanding and improving the health of their members.
+Information system requirements for IDSs and IHOs encompass many
+of the same needs as hospitals, physicians and managed care
+organizations.  Many IDSs and IHOs are becoming aggressively
+involved with institutional providers and physicians in various
+relationships where information sharing and process automation
+are paramount.  Many of these larger, more complex organizations
+are seeking closer relationships with suppliers that can provide
+comprehensive information systems solutions.  Information system
+requirements for IDSs and IHOs include integrated process-based
+systems for clinical domains, data repositories and applications
+for physicians and management teams.
+
+Healthcare Information Systems Industry
+- ---------------------------------------
+
+          Healthcare information systems are evolving to meet
+the needs of a changing marketplace.  Initially, computer
+systems developed for use in healthcare were financially
+oriented, with a focus on the ability to capture charges and
+generate patient bills.  Beginning in the mid-1960s,
+institutional provider organizations began to use clinical
+information systems, which automate the activities within
+clinical departments, such as laboratory, pharmacy, radiology
+and surgery departments, to improve the productivity of
+resources and automate the production and use of significant
+amounts of clinical information.  Individual departments
+selected systems based upon specific features on a ''best of
+breed'' basis resulting in disparate information systems within
+the institutional provider.
+
+          More recently, there has been a shift from the
+purchase of disparate clinical systems on a ''best of breed''
+basis to systems which are able to integrate communication
+effectively throughout the healthcare enterprise.  The two
+principal approaches to meet this need are a common
+architecture, in which systems communicate through inherent
+design, and point-to-point interfaces, in which systems with
+different architectures communicate through interface linkages.
+This infrastructure trend also affects the relationship between
+the health system and the suppliers of information technology.
+The approach of interfacing disparate systems typically involves
+multiple system suppliers and the health system must act as the
+intermediary and integrator.  The common architecture approach
+relies more on a strategic relationship with one or very few
+suppliers dedicated to implementing a shared vision for the role
+of information in the operation of the health system.
+
+          The same forces that are causing other healthcare
+providers to join together are causing physicians to combine
+into larger organizations, including Independent Practice
+Associations (''IPAs'') and Preferred Provider Organizations
+(''PPOs'').  In some cases, such organizations align with IDSs
+and IHOs.  Cerner believes that such physician groups require
+clinical and management information systems that allow them to
+participate in the community-wide clinical and management
+information systems employed by the IDSs and IHOs.
+
+The Cerner Vision
+- -----------------
+
+          As a result of the rapid transformation of the
+healthcare industry, Cerner believes that a new center of
+healthcare will emerge-the IHO, which is a combination of
+payers, physicians and institutional providers, into a single
+organization to service a community or defined member
+population.  IHOs have the capacity to contract with both the
+government and employers to provide healthcare services to
+member/patients.  The focus of the IHO is to be accountable for
+the health status of a defined population, with strong financial
+incentives to manage health on a preventive or wellness basis
+and reduce costs.
+
+          Cerner believes that many large IHOs will emerge in
+the United States in the next decade.  The creation of IHOs
+results from the combination of existing payers, physicians and
+institutional providers.  These IHOs will need to implement
+information systems that manage the delivery of care across its
+entire community while simultaneously managing the business side
+of health management.  Only through automating the core process
+of healthcare delivery from member enrollment through the
+ordering and delivery of care will IHOs be able to actually
+manage and measure care.  Process automation will enable
+healthcare systems interactively to affect the care that is
+delivered throughout the entire system at each point of
+delivery.  Cerner believes that managing these integrated
+healthcare systems will require the accumulation and refining of
+enormous amounts of process-related data in order to monitor
+performance against projected plan and to make informed business
+decisions.  This process-oriented approach will also provide the
+information basis to measure health system performance, in
+values known as outcomes, from clinical, functional, process,
+member satisfaction and economic perspectives.  When all of the
+complex clinical processes that comprise care delivery in IHOs
+are automated using fully integrated information systems, it
+becomes possible to extend automation to the management
+processes of healthcare.
+
+Cerner's HNA Approach
+- ---------------------
+
+          The cornerstone of Cerner's information systems
+strategy is HNA, the single architecture around which each of
+Cerner's products is developed.  This highly scaleable
+architecture allows Cerner to meet the clinical and management
+information requirements of a healthcare delivery system across
+the continuum of care from the physician practice to the IHO.
+The value of HNA is the creation of systems that ''intrarelate''
+as opposed to being integrated.  Most healthcare organizations
+are using some form of information technology to manage their
+clinical, financial and administrative operations.  Typically, a
+multitude of systems, operating on differing technology
+platforms from various suppliers, are used within a single
+organization.  These systems rely on a series of interfaces to
+transmit information to one another which may inhibit real-time
+access to comprehensive patient information.  In addition, the
+data collected by disparate systems is usually maintained in a
+variety of formats, and is indexed or codified using different
+approaches, which dilutes the data's usefulness.
+
+          Cerner's approach to system design is to first
+understand the intricate processes of providing care and then to
+design systems that support and streamline those processes.
+Cerner's system architecture allows its applications to work
+together as one system.  Cerner's systems are ''intrarelated'',
+which means that they are designed around a single architecture
+that automatically organizes and presents information in a
+manner relevant to a clinician's decision process.  With
+''intrarelated'' systems, all caregivers are kept apprised of
+each patient's condition, allowing the activities of the care
+team to be more carefully and efficiently orchestrated in an
+effort to deliver the highest possible quality of care.
+
+Strategy
+- --------
+
+     Key elements of the Company's business strategy include:
+
+          To penetrate the integrated healthcare market.  The
+transformation of healthcare delivery must deal with the
+changing financial model from fee-for-service to fixed or
+controlled fee payments for services provided.  In order to
+accomplish the transition, integrated healthcare systems must
+decrease costs generally, utilize fewer resources per patient or
+member encounter, decrease the amount of care required by
+focusing on preventative measures and increase member
+populations by attracting additional members through better
+quality healthcare and services.  Cerner's process-based,
+repository and clinical systems provide the technology to enable
+an integrated system to manage healthcare to significantly
+reduce costs, improve the efficiency of healthcare delivery and
+maintain and improve the quality of healthcare.
+
+          To penetrate the physician market.  As physicians
+combine to form organizations such as IPAs and PPOs, they
+require clinical and process-based systems to manage the
+member/patient care processes within their own practices.  As
+such groups align with IDSs and IHOs, they further require
+clinical and management information systems that allow them to
+share clinical and management processes with these community-
+wide systems.  Cerner's systems provide the member/patient data
+repositories and clinical and management tools required by
+physicians in order for them to participate effectively in the
+changing healthcare marketplace.
+
+          To expand its core business.  Cerner expects continued
+growth in core business areas, including clinical domain systems
+such as PathNet, RadNet and PharmNet, as institutional providers
+look to restructure and reengineer these high cost centers
+within their IDSs and IHOs.  The Company also intends to market
+aggressively Cerner clinical and management information systems
+and services, such as RadNet and PharmNet, to its existing
+client base.
+
+          To remain committed to a unified architecture.
+Because Cerner believes that the constituents in health
+management need to work together to benefit defined populations
+in a community, the Company has made a commitment to a single
+unified architecture as the platform for fully ''intrarelated''
+health information and management systems.  This platform
+enables Cerner's process-based HNA system to be scaleable on a
+linear basis, using either Cerner compatible modules for process-
+oriented applications or competitive systems interfaced using
+open system protocols.  In addition, the HNA system can be
+accessed throughout the enterprise at the point of care, which
+improves data integrity, allows for coordination of procedures
+at multiple locations and enables reliable communication without
+delay.
+
+          To expand its products and services.  Using its HNA
+platform, Cerner intends to expand the range of products and
+services offered to providers, including IDSs and IHOs, either
+through internal development or by acquisitions or joint
+ventures.  These new products and services will complement the
+systems currently offered, address the emerging information
+needs of clients or employ technological advances.  Cerner
+believes that major opportunities exist as IHOs begin to include
+service organizations and on-line services to the home,
+particularly because the member/patient focus of Cerner's
+architecture provides the basis for individual electronic
+medical records which can be used throughout a member-focused
+health system.  In addition, Cerner recognizes the value of the
+aggregate database being developed by its broad client base as a
+potential means to enable comparative or normative procedure
+evaluations as a powerful new tool in the healthcare industry.
+
+Products
+- --------
+
+          The Company's products include: (i) process-based
+systems, which automate clinical care processes throughout and
+between entities; (ii) repository systems, which capture, sort,
+present and analyze clinical and process related data; and (iii)
+clinical domain systems, which automate complex clinical
+processes within specific departments or domains.  These systems
+can be acquired individually or as a fully intrarelated health
+information system.  The individual systems perform together
+even if installed at different times.  Cerner also markets over
+200 product options that complement Cerner's major information
+systems.
+
+     Process-based Systems
+
+          Cerner's CareNet Care Management System is designed to
+automate the entire care process.  It collects, refines,
+organizes, and evaluates vast amounts of detailed clinical and
+management data.  CareNet enables the data and information to be
+used as executable knowledge.  CareNet supports the delivery of
+care throughout the enterprise, from acute care settings to
+outpatient facilities and ambulatory services.  Care teams,
+therefore, can not only treat illness but also proactively
+manage the health status of a population.  CareNet also supports
+point-of-care (POC) automation, which enables real-time
+documentation, simplifies information management, and drives
+enhancements to the delivery of care.  It enables the entire
+care team to plan and manage individual activities and plans, as
+well as measure outcomes and goals.  All care team members have
+immediate access to clinical and management information and can
+customize plans of care for each patient.  CareNet heightens
+communication, optimizes use of time, and eliminates redundant
+data entry-all in real-time.
+
+          CareNet consists of five major components: Patient
+Management, Order Management, Scheduling Management,
+Documentation Management, and Case Management.
+
+          Patient Management is the hub of patient
+communications and the link between a lifetime of care episodes
+across a spectrum of providers in the community.  It enables
+care providers to transfer and discharge patients electronically
+as they are actually moving or leaving.  Order Management
+simplifies and streamlines the process of order entry, whether
+from ad hoc orders or order sets, by communicating orders
+electronically.  The system warns of contradictions and
+eliminates duplicate orders-all from a single screen.  Charges
+also can be automatically generated at various stages within the
+order communication process.  Scheduling Management supports
+referrals and schedules procedures and appointments for all
+providers across all institutions within an organization.
+Documentation Management is designed to automate the information
+gathering, recording, and reporting activities of the care team.
+It eliminates redundant charting and streamlines documentation
+by allowing care team members to enter information once and have
+it automatically updated throughout the system.  Case Management
+plans and orchestrates patient care activities throughout the
+care delivery cycle.  When a clinical guideline or plan of care
+is activated, it automatically initiates ordering, scheduling,
+and documentation.
+
+          Discern Expert is an event-driven, rule-based,
+decision support software application integrated with other
+Cerner HNA clinical and management information systems.  This
+tool allows users to define clinical and management rules that
+are applied to events accessing data that is captured or
+generated by other HNA applications.  Discern Expert
+accomplishes a variety of tasks, including cost reduction,
+resource utilization, quality-assurance and risk management.
+The users can define the action to be taken by the system
+ranging broadly from sending an alert to the appropriate
+caregiver to creation, cancellation or suspension of an active
+clinical order.
+
+     Repository Systems
+
+          Open Clinical Foundation Data Repository (''OCF'') is
+a structured repository of clinical information of
+members/patients.  OCF forms the foundation of Cerner's
+electronic medical record functionality.  This information can
+originate from numerous sources and is maintained in an easily
+accessible, standardized format.  OCF can be used on a stand-
+alone basis, but is significantly more effective when used as
+part of the comprehensive HNA solution.  For most enterprises in
+which the various laboratories and ancillaries cooperatively
+share data over the entire enterprise, OCF provides a means of
+sorting and retrieving data.  With OCF, the amount of on-line
+clinical data that are retained in departmental systems can be
+significantly reduced.  Furthermore, health enterprises can
+scale OCF for a particular clinical area's use and integrate it
+into an environment containing products from different
+suppliers, including competitors.  The interface specifications
+to OCF are available for use by suppliers who comply with the
+interface requirements.
+
+          PowerChart is a PC-workstation-based product that
+enables care providers to electronically view, organize,
+annotate and amend a patient record so that it is presented in a
+manner that allows them to navigate through the chart using
+patient-provider and encounter relationships.  PowerChart gives
+healthcare providers structured access to the clinical
+information contained electronically in OCF.  The format of the
+on-line patient chart consists of pages displayed from a
+patient's computer-based patient record and information
+electronically transmitted from connected systems.  Clinicians
+are able to browse through pages much the same as with printed
+documents.  Clinicians can access documents through tables of
+contents or search for terms in the document text.  The scope of
+documents available is limited only by the system interfaces to
+OCF.
+
+          Open Management Foundation Data Repository (''OMF'')
+is a structured repository for process-and activity-related
+information useful for management of a healthcare institution.
+Information can originate from numerous sources and can be
+maintained in an easily accessible, standardized format.  OMF
+can be scaled for a particular department's use and can be
+integrated into an architecture containing products from
+different suppliers.
+
+          PowerVision is a comprehensive, PC-based health
+management information system used to view information in OMF in
+much the same manner as PowerChart is used with OCF.  This
+management access tool presents summary information through a
+graphical user interface, making key information available to
+all levels of management.  PowerVision is equipped with features
+that allow the user to pursue ''what if '' and other
+investigatory information paths.  This enables an executive to
+determine the status of the institution in many critical areas,
+as well as provides managers with a quick, up-to-the-minute view
+of leading business management indicators regarding the
+performance of a department, care area or facility.
+
+          Open Engine Application Gateway System facilitates the
+exchange of data and assists in the management of point-to-point
+interfaces between foreign systems and serves as a toolkit to
+help clients write interface code.
+
+     Clinical Domain Systems
+
+          PathNet Laboratory Information System addresses the
+information management needs of five clinical areas: general
+laboratory, microbiology, blood bank transfusion services, blood
+bank donor services and anatomic pathology.  PathNet automates
+the ordering and reporting of procedures, the production of
+accurate and timely reports and the maintenance of accessible
+clinical records.  PathNet can be interfaced with automated
+instruments and databases, allowing for efficient and accurate
+transfer of information.  PathNet communicates laboratory
+information to patient care areas and other information systems.
+Cerner attributes PathNet's acceptance to its functional
+capability, ease of use and event-level cost accounting, which
+allows healthcare managers to better control costs and assess
+profitability.
+
+          MedNet Internal Medicine Information System is a
+family of software products that addresses the clinical
+information needs of various internal medicine areas within the
+health organization.  Introduced as a pulmonary information
+system in 1987, MedNet's functionality now serves the
+disciplines of cardiology, neuro-diagnostics, rehabilitation
+services and nutritional services, as well as many ancillary
+areas.  Like PathNet, MedNet automates procedure requests,
+patient and therapist scheduling and the processing, validation
+and presentation of results.  The system provides reports on
+clinical activity, workload and billing charges by drawing from
+the departmental databases.
+
+          RadNet Radiology Information System addresses the
+operational and management requirements of diagnostic radiation
+and radiation oncology departments.  It allows a department to
+replace its manual, paper-based system of record-keeping with an
+efficient computer-based system.  RadNet is designed to adapt
+easily to the department's existing operations.  In addition,
+the system addresses such tasks as scheduling patients,
+modifying orders, tracking patients, locating films,
+transcribing reports, upgrading the quality and content of
+reports and reporting on productivity.
+
+          PharmNet Pharmacy Information System provides
+intrarelation in an HNA environment for rapid pharmacy order
+entry and support of the clinical pharmacy in either an
+inpatient or outpatient setting.  PharmNet streamlines
+medication order entry, enabling the pharmacist or technician to
+place all types of pharmaceutical orders on one easy-to-use
+screen.  Dispensing functions also are fully automated.
+Medication, intravenous fill lists and medication administration
+records are produced automatically or on demand.  Charges are
+automatically captured at the time the fill list is generated.
+Patient profiles and pharmaceutical inventories are maintained
+without the intervention of the pharmacist, saving significant
+time and resources.  Features are designed to address the
+special needs of the clinical pharmacy, including on-line order
+entry screening for drug-drug interactions, drug-food and drug-
+lab interferences, drug-disease states, intravenous
+incompatibilities, dose range and therapeutic treatment
+duplication.  Clinical notes can be recorded on-line and sent to
+other clinicians for comment or follow-up.
+
+          MSmeds Pharmacy Information System focuses on
+automating the pharmacy department.  MSmeds was developed by a
+company acquired by Cerner in 1993.  MSmeds is sold on a stand-
+alone basis, but can be interfaced to the Company's HNA
+products.  Designed to meet the specialized and individual needs
+of the pharmacy department, MSmeds incorporates windows, on-line
+help, menu and table-driven entry, a built-in system
+customization tool, and an application generator.  The order
+entry application gives the pharmacist fast order entry
+capabilities with a high level of quality control.  Safeguards
+that ensure the integrity of patient therapy include: dose level
+checking by 36 parameters, drug warnings, drug-drug interaction
+checking and pharmacokinetics.  The system generates a number of
+reports to assure the appropriateness of drug therapy, including
+drug interaction, patients on specific drugs, drug utilization
+by therapeutic category and dose checking.  On-line storage on
+removable disks provides full patient detail for a period of up
+to ten years.  MSmeds offers the availability of full detail
+patient information for drug utilization evaluation, as well as
+labor and cost efficiencies.  Admission, discharge and transfer,
+billing, results display and order entry interfaces are
+contained within the system.
+
+          SurgiNet Surgery Information System and MRNet Medical
+Record Department Information System are scheduled for
+commercial release in the first half of 1996.  SurgiNet is
+intended to address the needs of the surgical department,
+including automating the functions of resource and equipment
+scheduling, inventory management and operating room management.
+MRNet is intended to help meet the operations management needs
+of the medical records department and includes functionality for
+the various chart tracking and completion tasks commonly
+associated with maintaining medical records.
+
+Software Development
+- --------------------
+
+          Cerner commits significant resources to developing new
+health information system products.  As of December 30, 1995,
+556 employees were engaged full-time in product development
+activities.  Total expenditures for the development and
+enhancement of the Company's products were approximately
+$19,432,000, $26,897,000, and $33,957,000 in 1993, 1994 and
+1995, respectively.  These figures include the amounts
+capitalized and exclude amounts amortized for financial
+reporting purposes.
+
+          The Company expects to continue investment and
+development efforts for its current and future product
+offerings.  As new clinical and management information needs
+emerge, Cerner intends to enhance its current HNA-based product
+lines with new versions released to clients on a periodic basis.
+In addition, Cerner plans to expand its current product lines by
+developing additional information systems for use in clinical
+departments and to continue to support simultaneous use of
+Cerner's HNA products across multiple facilities.  All Cerner
+systems are developed under HNA using a proprietary systems
+development methodology.  This methodology defines and controls
+each task throughout the product development cycle and ensures
+that current and future products can be fully intrarelated.
+
+          The Company is committed to maintaining open
+attributes in its system architecture through operability in a
+diverse set of technical and application environments.  The
+Company strives to design its systems to
+co-exist with disparate applications developed and supported by
+other suppliers.  This effort is exemplified by Cerner's Open
+Engine, OCF and OMF product lines.
+
+          Cerner is developing a new version (referred to as
+V500) of its software, which will incorporate a client-server
+architecture, a comprehensive graphical user interface and open
+systems concepts for relational databases, operating systems,
+networks and hardware platforms.  Development of V500 began in
+the summer of 1993.  The Company is committed to maintaining
+open attributes in its V500 system architecture.  Cerner expects
+its V500 applications to run on multiple operating systems,
+networks, databases and hardware platforms and to co-exist with
+disparate applications developed and supported by other
+companies.  Cerner expects to begin installation of V500
+applications in the third quarter of 1996.
+
+Sales and Marketing
+- -------------------
+
+          The market for Cerner's information system products
+includes IHOs, IDSs, physician groups and networks, managed care
+organizations, hospitals, free-standing reference laboratories,
+blood banks, imaging centers and pharmacies.  To date, a
+substantial portion of system sales have been in clinical
+applications in hospital-based provider organizations.  Cerner's
+architecture is highly scaleable, with applications being used
+in hospitals ranging from under 50 beds to over 2,000 beds and
+managed care settings with over 2,000,000 members.  All current
+HNA systems are designed to operate on computers manufactured by
+Digital Equipment Corporation (''Digital'').  In addition, Open
+Engine, PathNet, RadNet and MSmeds are available on IBM's RISC
+System/6000 AIX (UNIX) platform.  Over time, all HNA
+applications will be available on both the Digital and IBM
+platforms, thereby allowing Cerner to be price competitive
+across the full range of size and organizational structure of
+healthcare providers.  The sale of a health information system
+usually takes approximately nine to fifteen months, from the
+time of initial contact to the signing of a contract.
+
+          The Company's executive marketing management is
+located in its Kansas City, Missouri, headquarters, while its
+account representatives are deployed through regional offices
+across the United States.  The Company, through subsidiaries,
+has offices and sales staff in the United Kingdom, Australia,
+Germany and Saudi Arabia.  The Company supports its sales force
+with technical personnel who perform demonstrations of Cerner's
+products and assist clients in determining the proper hardware
+and software configurations.  The Company has developed a
+demonstration and presentation facility at its headquarters in
+Kansas City, Missouri, called the Cerner Vision Center.  This
+facility enables the Company to actually demonstrate the
+processes automated through HNA and adapt the presentations to
+the clients' environments.  The Company's primary direct
+marketing strategy is to generate sales contacts from its
+existing client base and through presentations at industry
+seminars and trade shows.  Cerner attends a number of major
+trade shows each year and has begun to sponsor executive
+conferences, which feature industry experts who address the
+information system needs of large healthcare organizations.
+Consolidated revenues include foreign sales of $8,417,000,
+$13,274,000 and $8,823,000 for the years ended December 31, 1993
+and 1994, and December 30, 1995, respectively.
+
+Client Services
+- ---------------
+
+          Cerner uses a regional strategy to provide the full
+range of product and service capabilities to its clients from
+eight locations throughout the United States and four
+international locations.  Each regional center reflects Cerner's
+corporate culture and interfaces with the Company's clients on a
+regular and highly accessible basis.  In this way, Cerner can
+provide on-site personnel for the development and management of
+systems projects, learn the evolving information needs of
+clients based on geographical trends in the healthcare industry,
+work with clients in the development of new products and
+services and share with clients Cerner's vision of the changing
+healthcare delivery market and the role of information systems
+in that transformation.  The Company has regional offices in
+Atlanta, Boston, Dallas, Detroit, Kansas City, Los Angeles,
+Seattle and Washington, D.C. and international offices in Luton,
+England; Munich, Germany; Riyadh, Saudi Arabia; and Sydney,
+Australia.  Each regional office is focused on long-term
+marketplace development, product marketing, client project
+management, long-term client service and client satisfaction for
+a group of clients within a specific geographical region.
+
+          All of Cerner's clients enter into software
+maintenance agreements with Cerner for support of their Cerner
+systems.  In addition to immediate software support in the event
+of problems, these agreements allow these clients the use of new
+releases of the Cerner products covered by these agreements.
+Each client has 24-hour access to the client support staff
+located at Cerner's corporate headquarters.  Most of Cerner's
+clients also enter into hardware maintenance agreements with
+Cerner.  These arrangements normally provide for a fixed monthly
+fee for specified services.  In the majority of cases, Cerner
+subcontracts hardware maintenance to the hardware manufacturer.
+
+Backlog
+- -------
+
+          At December 30, 1995 Cerner had contract backlog of
+$77,495,000.  Such backlog represents system sales from signed
+contracts which have not yet been recognized as revenue.  The
+Company recognizes revenue on a percent of completion basis,
+based on certain milestone conditions, for its software
+products.  At December 30, 1995, the Company had $48,625,000 of
+contracts receivable, which represents revenues recognized under
+the percent of completion method but not yet billable under the
+terms of the contract.  At December 30, 1995, Cerner had a
+software support and maintenance backlog of $94,538,000.  Such
+backlog represents contracted software support and hardware
+maintenance services for a period of twelve months.
+
+Item 2.  Properties
+
+          The Company's offices are located in an office park in
+North Kansas City, Missouri.  As of December 30, 1995, the
+Company was using approximately 482,000 square feet and
+substantially all of the remainder was leased to tenants.  In
+December 1995 the Company completed construction of a
+combination child care and fitness facility at the office park
+for the use of the Company's employees.  The Company believes
+that its employees are its most important asset and that this
+facility will enable the Company to attract and retain it's
+relatively young work force which contains a large number of
+married women.  The Company also leases office space for its
+branch offices in Atlanta, Boston, Dallas, Detroit, Los Angeles,
+Seattle and Washington D.C.
+
+Item 3.  Legal Proceedings
+
+          The Company is not involved in any material pending
+litigation.
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+          No matters were submitted to a vote of the
+stockholders of the Company during the fourth quarter of the
+fiscal year ended December 30, 1995.
+
+Item 4A.  Executive Officers of the Company
+
+          The following table sets forth the names, ages,
+positions and certain other information regarding the Company's
+executive officers as of March 1, 1996.  Officers are elected
+annually and serve at the discretion of the board of directors.
+
+
+
+          Neal L. Patterson was President, Chairman of the Board
+of Directors and Chief Executive Officer of the Company from its
+incorporation to May 1987.  Since May 1987 he has been Chairman
+of the Board of Directors and Chief Executive Officer of the
+Company.  Mr. Patterson has served as a director of Home Office
+Reference Laboratory since August 1988.
+
+          Clifford W. Illig was Executive Vice President,
+Secretary, Treasurer and Chief Financial Officer and a Director
+of the Company from its incorporation to May 1987.  From May
+1987 to May 1993, he was a Director, President, Chief Operating
+Officer and Chief Financial Officer of the Company.  Since May
+1993, he has been a Director, President and Chief Operating
+Officer.
+
+          Charles S. Runnion, III joined the Company in July
+1989 and since that date has been an Executive Vice President
+and Director of the Company.  Prior to working at the Company,
+he spent fourteen years with the IBM Corporation in a variety of
+marketing and management positions.
+
+          David M. Margulies, M.D. joined the Company in
+February 1991 and since that date has been an Executive Vice
+President of the Company.  Prior to joining the Company, for
+four years, he was Vice President in charge of information
+systems at Children's Hospital, a healthcare institution located
+in Boston, Massachusetts.  During this time Dr. Margulies also
+was the Director of the Program in Medical Information Sciences
+at Harvard Medical School.  Dr. Margulies has served as a
+Director of the Company since May 1991.
+
+          Jeffrey C. Reene joined the Company in September 1991
+as Group Vice President of Client Services.  He was promoted to
+Executive Vice President in June of 1994.  Prior to joining the
+Company, he was with Andersen Consulting from July 1978 to
+August 1991, being a Partner with Andersen Consulting since
+September, 1988.
+
+          Jack A. Newman, Jr. joined the Company in January 1996
+as Senior Vice President and Managing Director of Cerner 2000.
+Prior to joining the Company, he was with KPMG Peat Marwick LLP
+for 22 years.  Most recently he was National Partner-in-Charge of
+of KPMG's Health Care Strategy Practice, leading more than 200
+professional and administrative staff members who provided strategy
+consulting services to healthcare clients nationwide, including
+healthcare systems, physician groups, managed care plans, and other
+provider and payor organizations.
+
+          Thomas C. Tinstman, M.D. joined the Company in November 
+1995 and has been a Director of the Company since May 1989.  Prior
+to joining the Company, Dr. Tinstman was Director of Medical
+Informatics with University of Texas Medical Branch in Galveston,
+Texas.  Prior to that he was a physician in private practice with
+Internal Medicine Associates, P.C. in Omaha, Nebraska.  From 1977
+to January, 1994, Dr. Tinstman served as Assciate Medical Director
+of Pulmonary Medical Services at Bishop Clarkson Memorial Hospital
+and as Medical Director of the Respiratory Therapy Department of
+Midland Hospital, both in Omaha, Nebraska.  Dr. Tinstman has served
+as a director of Smith-Haynes Trust, Inc. since 1988.
+
+          Alan D. Dietrich joined the Company in 1990 as
+Director of Business, Planning and Development.  In January 1994
+he was promoted to Vice President.  Prior to joining the
+Company, he spent seven years with IBM Corporation.
+
+          Charles O. Whitcraft joined the Company as Vice
+President of Technology in January 1984.  Since that time he has
+served in several executive positions dealing with technology
+and engineering.
+
+          Gary W. Willett joined the Company in April 1990 as
+Group Vice President of Client Services and has served in
+various executive capacities.  Prior to joining the Company, he
+spent twenty-one years with IBM Corporation in a variety of
+marketing and management positions.
+
+          Marc G. Naughton joined the Company in November 1992 as 
+Manager of Taxes.  In November 1995 he was elected Chief Financial
+Officer and in February 1996 he was promoted to Vice President.
+Prior to joining the Company, he spent nine years with The Marley
+Company, a multinational manufacturing company, in a variety of
+financial management positions.
+
+
+
+
+PART II
+
+Item 5.  Market for the Registrant's Common Stock and Related
+         Security Holder Matters
+
+          The Company's common stock trades on the Nasdaq
+National Market tier of the Nasdaq Stock Market under the symbol
+CERN.  The following table sets forth the high, low, and last
+sales prices for the fiscal quarters of 1995 and 1994 as
+reported by the Nasdaq National Market System.  These quotations
+represent prices between dealers and do not include retail mark-
+up, mark-down, or commissions, and do not necessarily represent
+actual transactions.
+
+
+
+          At February 10, 1996, there were approximately 1,300
+owners of record.  To date, the Company has paid no dividends
+and it does not intend to pay dividends in the foreseeable
+future.  Management believes it is in the stockholders' best
+interest to reinvest funds in the operation of the business.
+
+Item 6.  Selected Financial Data
+
+ 
+
+Item 7.  Management's Discussion and Analysis of Financial
+         Condition and Results of Operations
+
+For a more thorough understanding of management's analysis of
+results of operations and financial condition, the following
+discussion should be read in conjunction with the Letter to
+Shareholders and the discussion of the Company's business
+operations.
+
+Year Ended December 30, 1995 Compared to Year Ended December 31, 1994
+
+Results of Operations - The Company's revenues increased 20% to
+$186,901,000 in 1995, from $155,917,000 in 1994.  Net earnings
+increased 15% to $22,521,000 in 1995 from $19,501,000 in 1994.
+Net earnings from the Company's foreign operations decreased
+195% to a loss of $1,867,000 in 1995 from earnings of
+$1,973,000 in 1994.
+
+Revenues - In 1995, revenues increased due to an increase in
+system sales and support of installed systems.  System sales
+increased 20% to $129,917,000 in 1995, from $108,322,000 in
+1994.  This increase in system sales resulted principally from
+an increase in installations under HNA contracts and additional
+hardware and software sales to the Company's existing client
+base.  HNA contracts were 42% of total system sales in 1995,
+compared to 37% in 1994.  The sale of additional hardware and
+software products to the installed client base increased 36% in
+1995 and 40% in 1994.
+
+The Company has seen a significant increase in the number of
+clients who have purchased two or more clinical system units on
+their initial contract, or clients from the installed base who
+purchase one or more system units subsequent to their initial
+contract.  Total sales to the installed base in 1995, including
+new systems, incremental hardware and software, and recurring
+and discrete services, were 71% of total revenues in 1995
+compared to 73% in 1994.
+
+At December 30, 1995, the Company had $77,495,000 in contract
+backlog and $94,538,000 in support and maintenance backlog,
+compared to $57,547,000 in contract backlog and $77,222,000 in
+support and maintenance backlog at the end of 1994.
+
+Support and maintenance revenues increased 19% in 1995 compared
+to 24% in 1994.  These revenues represented 26% of 1995 total
+revenues and 27% of 1994 total revenues.
+
+Other revenues increased 22% to $7,633,000 in 1995 from
+$6,273,000 in 1994.  This increase was due primarily to twelve
+months of real estate lease revenues from the rental to outside
+tenants as compared to eight months of lease revenues in 1994;
+space in the Company's headquarters complex not currently being
+utilized by the Company is leased to outside tenants.
+
+Cost of Revenues - The cost of revenues includes the cost of
+computer hardware and sublicensed software purchased from
+computer and software manufacturers for delivery to clients.  It
+also includes the cost of hardware maintenance and sublicensed
+software support subcontracted to the manufacturers.  The cost
+of revenues was 28% of total revenues in 1995 and 30% of total
+revenues in 1994.  Such costs, as a percent of revenues,
+typically have varied as the mix of revenue (software, hardware,
+and support) components carrying different margin rates changes
+from period to period.  The decrease in the cost of revenue as a
+percent of total revenues resulted principally from an increase
+in multiproduct projects which carry a lower cost of revenue
+percentage.
+
+Sales and Client Service -  Sales and client service expenses
+include salaries of client service personnel, communications
+expenses, and unreimbursed travel expenses.  Also included are
+sales and marketing salaries, tradeshow costs, and advertising
+costs.  These expenses as a percent of total revenues were 27%
+in 1995 compared to 26% in 1994.  The increase in total sales
+and client service expenses is attributable to the cost of a
+larger field sales and services organization and marketing of
+new products.
+
+Software Development - Software development expenses include
+salaries, documentation, and other direct expenses incurred in
+product development and amortization of software development
+costs.  Total expenditures for software development, including
+both capitalized and noncapitalized portions, for 1995 and 1994
+were $33,957,000 and $26,897,000, respectively.  These amounts
+exclude amortization.  Capitalized software costs were
+$9,210,000 and $8,131,000 for 1995 and 1994, respectively.  The
+increase in aggregate expenditures for software development in
+1995 is due to development of more clinical information system
+products to complement the existing product line.  The
+percentage of costs capitalized is expected to remain fairly
+constant as the Company continues to develop new products.
+
+General and Administrative - General and administrative expenses
+include salaries for corporate, financial, and administrative
+staffs, utilities, communications expenses, and professional
+fees.  These expenses as a percent of total revenues were 9% in
+1995 and 8% in 1994.
+
+Interest Expense - Net interest expense was considerably lower
+in 1995 than in 1994.  This decrease was due primarily to
+interest income from investment of  the proceeds from the sale
+of 3,716,000 new shares of common stock from the August 1995
+public offering.
+
+Income Taxes - The Company's effective tax rates were 39.4% and
+39.9% for 1995 and 1994, respectively, which were not
+significantly different from the combined federal and state
+statutory rates.
+
+Year Ended December 31, 1994 Compared to Year Ended December 31, 1993
+
+Results of Operations - The Company's revenues increased 29% to
+$155,917,000 in 1994, from $120,572,000 in 1993.  Net earnings
+increased 34% to $19,501,000 in 1994 from $14,558,000 in 1993.
+Net earnings from the Company's foreign operations increased
+110% to $1,973,000 in 1994 from $938,000 in 1993.
+
+Revenues - In 1994, revenues increased due to an increase in
+system sales and support of installed systems.  System sales
+increased 29% to $108,322,000 in 1994 from $84,024,000 in 1993.
+This increase in system sales resulted principally from an
+increase in installations under HNA contracts and additional
+hardware and software sales to the Company's existing client
+base.  HNA contracts were 37% of total system sales in 1994,
+compared to 30% in 1993.  The sale of additional hardware and
+software products to the installed client base increased 40% in
+1994 and 9% in 1993.
+
+The Company has seen a significant increase in the number of
+clients who have purchased two or more clinical system units on
+their initial contract, or clients from the installed base who
+purchase one or more system units subsequent to their initial
+contract.  Total sales to the installed base in 1994, including
+new systems, incremental hardware and software, and recurring
+and discrete services, were  73% in 1994 compared to 63% in
+1993.
+
+At December 31, 1994, the Company had $57,547,000 in contract
+backlog and $77,222,000 in support and maintenance backlog,
+compared to $42,183,000 in contract backlog and $57,341,000 in
+support and maintenance backlog at the end of 1993.
+
+Support and maintenance revenues increased 24% in 1994 and 25%
+in 1993.  These revenues represented 27% of 1994 total revenues
+and 28% of total 1993 total revenues.
+
+Other revenues increased 87% to $6,273,000 in 1994 from
+$3,348,000 in 1993.  This increase was due primarily to real
+estate lease revenues from the rental to outside tenants of
+space in the Company's headquarters complex not currently being
+utilized by the Company.
+
+Cost of Revenues - The cost of revenues includes the cost of
+computer hardware and sublicensed software purchased from
+computer and software manufacturers for delivery to clients.  It
+also includes the cost of hardware maintenance and sublicensed
+software support subcontracted to the manufacturers.  The cost
+of revenues was 30% of total revenues in 1994 and 36% in 1993.
+Such costs, as a percent of revenues, typically have varied as
+the mix of revenue (software, hardware, and support) components
+carrying different margin rates changes from period to period.
+The decrease in the cost of revenue as a percent of total
+revenues resulted principally from an increase in multiproduct
+projects which carry a lower cost of revenue percentage.
+
+Sales and Client Service -  Sales and client service expenses
+include salaries of client service personnel, communications
+expenses, and unreimbursed travel expenses.  Also included are
+sales and marketing salaries, tradeshow costs, and advertising
+costs.  These expenses as a percent of total revenues were 26%
+and 23% in 1994 and 1993, respectively.  Increases in total
+sales and client service expenses are attributable to the cost
+of a larger field sales and services organization, marketing of
+new products, and international marketing initiatives.
+
+Software Development - Software development expenses include
+salaries, documentation, and other direct expenses incurred in
+product development and amortization of software development
+costs.  Total expenditures for software development, including
+both capitalized and noncapitalized portions, for 1994 and 1993
+were $26,897,000 and $19,432,000, respectively.  These amounts
+exclude amortization.  Capitalized software costs were
+$8,131,000 and $6,181,000 for 1994 and 1993, respectively.  The
+increase in aggregate expenditures for software development in
+1994 was due to development of more clinical information system
+products to complement the existing product line.  The
+percentage of costs capitalized should remain fairly constant as
+the Company continues to develop new products.
+
+General and Administrative - General and administrative expenses
+include salaries for corporate, financial, and administrative
+staffs, utilities, communications expenses, and professional
+fees.  These expenses as a percent of total revenues were 8% and
+7% for  1994 and 1993, respectively.
+
+Interest Expense - Net interest expense was considerably higher
+in 1994 than 1993.  This increase in interest expense was due to
+financing the $20,000,000 purchase of the Company's headquarters
+complex.  The financing initially consisted of a term loan for
+$17,425,000, with the remainder provided by additional borrowing
+under the Company's revolving line of credit.  On July 29, 1994,
+the Company issued $30,000,000 in Senior Notes bearing an
+interest rate of 8.3%.  The proceeds of the Senior Notes were
+used to repay the term loan and reduce the outstanding
+borrowings under the revolving line of credit.  The remaining
+proceeds will be used for capital improvements to the
+headquarters complex.  The higher interest expense was offset by
+a reduction in the Company's rent expense and an increase in
+lease revenues from unrelated parties.
+
+Income Taxes - The Company's effective tax rates were 39.9% and
+39.6% for 1994 and 1993, respectively, which were not
+significantly different from the combined federal and state
+statutory rates.
+
+Quarterly Results
+
+Quarterly Results - The Company's quarterly revenues and net
+earnings historically have been variable and cyclical.  The
+variability is attributable primarily to the number and size of
+project milestone events in any fiscal quarter.  The Company
+expects the fluctuation in quarterly financial results to
+continue.
+
+Liquidity and Capital Resources
+
+Liquidity and Capital Resources - The Company's liquidity
+position remains strong, with total cash and cash equivalents of
+$8,640,000 and short-term investments of $103,478,000 at
+December 30, 1995 and working capital of $174,064,000 compared
+to cash and cash equivalents of $5,984,000 and short-term
+investments of $9,321,000 at December 31, 1994, and working
+capital of $52,370,000.  During August 1995, the Company sold
+3,716,000 shares of common stock in a public offering.  The
+proceeds of this sale, net of underwriting discounts and
+commissions and expenses, were $108,287,000.  Prior to the
+public offering the Company financed its operations, capital
+expenditures (other than the purchase of the Kansas City
+headquarters complex and its related capital improvements), and
+working capital from internally generated funds and bank
+borrowings.  The Company has $18,000,000 of long-term, revolving
+credit from banks, all of which was available as of December 30,
+1995.
+
+On April 19, 1994, the Company purchased its Kansas City
+headquarters complex for $20,000,000.  The purchase was
+initially funded by bank borrowings.  The purchase has no
+material effect on operating cash flow, since the reduction in
+lease payments and increase in net rental income approximates
+the debt service payments.
+
+On July 29, 1994, the Company issued $30,000,000 of Senior
+Notes, due in 2004.  The proceeds were used to repay the bank
+borrowings related to the purchase of the Company's headquarters
+complex and retire existing debt.  The interest is paid
+semiannually; principal is due in five equal installments
+beginning in 2000.
+
+The Company generated cash of $15,329,000, $18,949,000, and
+$15,856,000, from operations in 1995, 1994, and 1993,
+respectively.  Cash flow from operations in 1994 increased
+primarily because of the increase in net earnings and decreased
+in 1995 due primarily to an increase in receivables.
+
+Revenues provided under support and maintenance agreements of
+the Company represent recurring cash flows.  Support and
+maintenance revenues increased 19%, 24%, and 25% in 1995, 1994,
+and 1993, respectively, and the Company expects these revenues
+to continue to grow as the base of installed systems grows.
+
+The Company believes its present cash and cash equivalent
+position, together with cash generated from operations and the
+current bank borrowing facility, will be sufficient to meet
+anticipated cash requirements.
+
+Inflation -  The effects of inflation were minimal on the
+Company's business.
+
+Recent Accounting Pronouncement - Statement of Financial
+Accounting Standards No. 123, "Accounting for Stock-Based
+Compensation" (Statement 123) will require pro forma disclosures
+in 1996 of net income and earnings per share as if a new
+accounting method based on estimated fair value of employee
+stock options had been adopted.  The Company has not yet decided
+if the optional accounting treatment proposed, Statement 123,
+will be adopted.
+
+Item 8.  Financial Statements and Supplementary Data
+
+          The Financial Statements and Notes required by this
+Item are submitted as a separate part of this report.
+
+Item 9.  Changes in and Disagreements with Accountants on
+         Accounting and Financial Disclosure
+
+          None.
+
+
+
+
+
+PART III
+
+Item 10.  Directors and Executive Officers of the Registrant
+
+          The Registrant's Proxy Statement to be used in
+connection with the Annual Meeting of Stockholders to be held on
+May 14, 1996, contains under the caption "Election of Directors"
+certain information required by Item 10 of Form 10-K and such
+information is incorporated herein by this reference.  The
+information required by Item 10 of Form 10-K as to executive
+officers is set forth in Item 4A of Part I hereof.
+
+          The Registrant's Proxy Statement to be used in
+connection with the Annual Meeting of Stockholders to be held on
+May 14, 1996, contains under the caption "Compliance with
+Section 16(a) of the Securities Exchange Act of 1934" certain
+information required by Item 10 of Form 10-K and such
+information is incorporated herein by this reference.
+
+Item 11.  Executive Compensation
+
+          The Registrant's Proxy Statement to be used in
+connection with the Annual Meeting of Stockholders to be held on
+May 14, 1996, contains under the caption "Executive
+Compensation" the information required by Item 11 of Form 10-K
+and such information is incorporated herein by this reference
+(except that the information set forth under the following sub
+captions is expressly excluded from such incorporation:
+"Executive Compensation and Stock Option Committee Report" and
+"Company Performance").
+
+Item 12.  Security Ownership of Certain Beneficial Owners and
+          Management
+
+          The Registrant's Proxy Statement to be used in
+connection with the Annual Meeting of Stockholders to be held on
+May 14, 1996, contains under the caption "Voting Securities and
+Principal Holders Thereof" the information required by Item 12
+of Form 10-K and such information is incorporated herein by this
+reference.
+
+Item 13.  Certain Relationships and Related Transactions
+
+          The Registrant's Proxy Statement to be used in
+connection with the Annual Meeting of Stockholders to be held on
+May 14, 1996, contains under the caption "Certain Transactions"
+the information required by Item 13 of Form 10-K and such
+information is incorporated herein by this reference.
+
+
+
+
+
+PART IV
+
+Item 14.  Exhibits, Financial Statement Schedules, and Reports
+          on Form 8-K
+
+     (a)  Financial Statements.
+
+          (1)  Consolidated Financial Statements:
+
+               Independent Auditors' Report on Consolidated Financial
+               Statements
+
+               Consolidated Balance Sheets -
+               December 30, 1995 and December 31, 1994
+
+               Consolidated Statements of Earnings -
+               Years Ended December 30, 1995, and December 31, 1994 and 1993
+
+               Consolidated Statements of Stockholders'
+               Equity - Years Ended December 30, 1995, and December 31,
+               1994 and 1993
+
+               Consolidated Statements of Cash
+               Flows - Years Ended December 30, 1995, and December 31,
+               1994 and 1993
+
+               Notes to Consolidated Financial Statements
+
+          (2)  The following financial statement,
+               schedule and independent auditors' report
+               on financial statement schedule of the
+               Registrant for the three-year period ended
+               December 30, 1995 are included herein:
+
+               Schedule II - Valuation and Qualifying Accounts,
+
+               Independent Auditors' Report on Consolidated
+               Financial Statement Schedule.
+          
+          All other schedules are omitted, as the required
+information is inapplicable or the information is presented in
+the consolidated financial statements or related notes.
+
+          (3)  The exhibits required to be filed by
+               this item are set forth below:
+
+Number    Description
+- ------    -----------
+
+3(a)(i)   Restated Certificate of Incorporation, as amended
+          through December 31, 1993, (filed as Exhibit 3(a) to
+          Registrant's Annual Report on Form 10-K for the year
+          ended December 31, 1993 and hereby incorporated by
+          reference).
+
+3(a)(ii)  Amendment to the Restated Certificate of Incorporation
+          (filed as Exhibit 3(a) to Registrant's Annual Report
+          on Form 10-K for the year ended December 31, 1993, and
+          hereby incorporated by reference).
+
+3(b)      Bylaws, as amended (filed as Exhibit 3 to the
+          Registrant's Quarterly Report on Form 10-Q for the six
+          months ended June 30, 1995, and hereby incorporated by
+          reference).
+
+4(a)      Reference is made to the Restated Certificate of
+          Incorporation and Bylaws of Registrant described above
+          under 3(a) and 3(b), respectively.
+
+4(b)      Specimen stock certificate (filed as Exhibit 4(a)
+          to Registrant's Registration Statement on Form S-8
+          (File No. 33-15156) and hereby incorporated herein by
+          reference).
+
+4(c)      Note Agreement between Cerner Corporation,
+          Principal Mutual Life Insurance Company,  and
+          Principal National Life Insurance Company dated July
+          1, 1994, (filed as Exhibit 10(a) to Registrant's
+          Quarterly Report on Form 10-Q for the quarter ended
+          September 30, 1994, and hereby incorporated by
+          reference.
+
+4(d)      Credit Agreement between Cerner Corporation,
+          Cerner Properties, Inc. Mark Twain Kansas Bank, and
+          Harris Trust & Savings Bank dated April 18, 1994,
+          (filed as Exhibit 10(b) to Registrant's Quarterly
+          Report on Form 10-Q for the quarter ended June 30,
+          1994, and hereby incorporated by reference).
+
+10(a)     Employment Agreement, dated January 1, 1990,
+          between Clifford W. Illig and Registrant (filed as an
+          Exhibit to Registrant's Annual Report on Form 10-K for
+          the year ended December 31, 1990, and hereby
+          incorporated herein by reference).*
+
+10(b)     Employment Agreement, dated January 1, 1990,
+          between Neal L. Patterson and Registrant (filed as an
+          Exhibit to Registrant's Annual Report on Form 10-K for
+          the year ended December 31, 1990, and hereby
+          incorporated herein by reference).*
+
+10(c)     Standard Volume Agreement, dated July 6, 1989,
+          between Digital Equipment Corporation and Registrant
+          (filed as Exhibit 10(g) to Registrant's Annual Report
+          on Form 10-K for the year ended December 31, 1989, and
+          hereby incorporated herein by reference).
+
+10(d)     Incentive Stock Option Plan C of Registrant
+          (filed as Exhibit 10(f) to Registrant's Annual Report
+          on Form 10-K for the year ended December 31, 1993, and
+          hereby incorporated herein by reference).*
+
+10(e)     Indemnification Agreements between the Registrant
+          and Neal L. Patterson, Clifford W. Illig, Gerald E.
+          Bisbee, Jr., David J. Hart, Thomas C. Tinstman, David
+          M. Margulies and Charles S. Runnion, III (filed as
+          Exhibit 10(i) to Registrant's Annual report on Form 10-
+          K for the year ended December 31, 1992, and
+          incorporated herein by reference).*
+
+10(f)     Amended Non-Qualified Stock Option Plan of
+          Registrant (filed as Exhibit 10(a) to Registrant's
+          Quarterly Report on Form 10-Q for the quarter ended
+          July 1, 1995, and hereby incorporated herein by
+          reference).*
+
+10(g)     Employment Agreement dated February 22, 1991,
+          between Cerner Corporation and David M. Margulies,
+          M.D. (filed as Exhibit 10(1) to Registrant's Annual
+          Report on Form 10-K for the year ended December 31,
+          1991, and hereby incorporated herein by reference).*
+
+10(h)     Incentive Stock Option Agreement (Non-Standard
+          Vesting) dated February 22, 1991, between Cerner
+          Corporation and David M. Margulies, M.D. (filed as
+          Exhibit 10(m) to Registrant's Annual Report on Form 10-
+          K for the year ended December 31, 1991, and hereby
+          incorporated herein by reference).*
+
+10(i)     Stock Option Agreement (Non-Qualified-Milestone)
+          dated February 22, 1991, between Cerner Corporation
+          and David M. Margulies, M.D. (filed as Exhibit 10(n)
+          to Registrant's Annual Report on Form 10-K for the
+          year ended December 31, 1991, and hereby incorporated
+          herein by reference).*
+
+10(j)     Cerner East Deferred Payout Plan dated March 7,
+          1991, for the benefit David M. Margulies, M.D. and
+          Edwin D. Trautman (filed as Exhibit 10(o) to
+          Registrant's Annual Report on Form 10-K for the year
+          ended December 31, 1991, and hereby incorporated
+          herein by reference).*
+
+10(k)     Non-Qualified Stock Option Agreement dated
+          February 19, 1991, between Cerner Corporation and
+          David J. Hart (filed as Exhibit 10(q) to Registrant's
+          Annual Report on Form 10-K for the year ended December
+          31, 1991, and hereby incorporated herein by
+          reference).*
+
+10(l)     Stock Option Agreement dated May 15, 1990,
+          between Cerner Corporation and Gerald E. Bisbee, Jr.
+          (filed as Exhibit 10(r) to Registrant's Annual Report
+          on Form 10-K for the year ended December 31, 1991, and
+          hereby incorporated herein by reference).*
+
+10(m)     Stock Option Agreement dated May 15, 1990,
+          between Cerner Corporation and Thomas C. Tinstman
+          (filed as Exhibit 10(s) to Registrant's Annual Report
+          on Form 10-K for the year ended December 31, 1991, and
+          hereby incorporated herein by reference).*
+
+10(n)     Cerner Performance Plan for 1994 (filed as
+          Exhibit 10(u) to Registrant's Annual Report on Form 10-
+          K for the year ended December 31, 1994, and hereby
+          incorporated herein by reference).*
+
+10(o)     Non-Qualified Stock Option Agreement dated July
+          20, 1994, between the Registrant and Alan E. Dietrich
+          (filed as Exhibit 10(o) to Registrant's Annual Report
+          on Form 10-K for the year ended December 31, 1994, and
+          hereby incorporated herein by reference).*
+
+10(p)     Incentive Stock Option Agreement dated September
+          12, 1990, between the Registrant and Alan E. Dietrich
+          (filed as Exhibit 10(p) to Registrant's Annual Report
+          on Form 10-K for the year ended December 31, 1994, and
+          hereby incorporated herein by reference).*
+
+10(q)     Incentive Stock Option Agreement dated August 22,
+          1991, between the Registrant and Jeffrey C. Reene
+          (filed as Exhibit 10(q) to Registrant's Annual Report
+          on Form 10-K for the year ended December 31, 1994, and
+          hereby incorporated herein by reference).*
+
+10(r)     Incentive Stock Option Agreement dated May 15,
+          1990, between the Registrant and Gary W. Willett
+          (filed as Exhibit 10(r) to Registrant's Annual Report
+          on Form 10-K for the year ended December 31, 1994, and
+          hereby incorporated herein by reference).*
+
+10(s)     Incentive Stock Option Agreement dated February 27,
+          1985, between the Registrant and Charles O.
+          Whitcraft (filed as Exhibit 10(s) to Registrant's
+          Annual Report on Form 10-K for the year ended December
+          31, 1994, and hereby incorporated herein by
+          reference).*
+
+10(t)     Incentive Stock Option Agreement dated May 15,
+          1990, between the Registrant and Charles O. Whitcraft
+          (filed as Exhibit 10(t) to Registrant's Annual Report
+          on Form 10-K for the year ended December 31, 1994, and
+          hereby incorporated herein by reference).*
+
+10(u)     Non-Qualified Stock Option Agreement between the
+          Registrant and Michael E. Herman (filed as Exhibit
+          10(b) to the Registrant's Quarterly Report on Form 10-
+          Q for the quarter ended July 1, 1995, and hereby
+          incorporated herein by reference).*
+
+10(v)     Non-Qualified Stock Option Agreement between the
+          Registrant and Clifford W. Illig (filed as Exhibit
+          10(c) to the Registrant's Quarterly Report on Form 10-
+          Q for the quarter ended July 1, 1995, and hereby
+          incorporated herein by reference).*
+
+10(w)     Non-Qualified Stock Option Agreement between the
+          Registrant and Neal L. Patterson (filed as Exhibit
+          10(d) to the Registrant's Quarterly Report on Form 10-
+          Q for the quarter ended July 1, 1995, and hereby
+          incorporated herein by reference).*
+
+10(x)     Non-Qualified Stock Option Agreement between the
+          Registrant and Jack A. Newman, Jr.*
+
+10(y)     Non-Qualified Stock Option Agreement between the
+          Registrant and Thomas C. Tinstman, M.D.*
+
+10(z)     Cerner Performance Plan for 1995.*
+
+10(aa)    Real Estate Sales Contract dated April 18, 1994,
+          between Northtown Devco and Cerner Corporation (filed
+          as Exhibit 10(c) to Registrant's Quarterly Report on
+          Form 10-Q for the quarter ended June 30, 1994, and
+          hereby incorporated herein by reference).
+
+10(bb)(i)  Standard Form of Agreement between Owner and
+           Contractor dated September 1, 1994, between Cerner
+           Properties, Inc. and J. E. Dunn Construction Company
+           (filed as Exhibit 10(w)(i) to Registrant's Annual
+           Report on Form 10-K for the year ended December 31,
+           1994, and hereby incorporated herein by reference).
+
+10(bb)(ii)  Supplement to General Conditions of the
+            Contractor for Construction dated September 1, 1994,
+            between Cerner Properties, Inc. and J. E. Dunn
+            Construction Company (filed as Exhibit 10(w)(ii) to
+            Registrant's Annual Report on Form 10-K for the year
+            ended December 31, 1994, and hereby incorporated
+            herein by reference).
+
+10(bb)(iii)  Amendment No. 1 to the Agreement dated October 24,
+             1994, between Cerner Properties, Inc. and J. E.
+             Dunn Construction Company (filed as Exhibit 10(w)(iii)
+             to Registrant's Annual Report on Form 10-K for the
+             year ended December 31, 1994, and hereby incorporated
+             herein by reference).
+
+10(cc)    Standard Form of Agreement Between Owner and Architect
+          dated April 29, 1994, between Cerner Properties, Inc.
+          and The Hollis & Miller Group, Inc. (filed as Exhibit
+          10(x) to Registrant's Annual Report on Form 10-K for
+          the year ended December 31, 1994, and hereby
+          incorporated herein by reference).
+
+11        Computation of Registrant's Earnings Per Share.
+
+22        Subsidiaries of Registrant.
+
+23        Consent of Independent Auditors.
+
+27        Financial Data Schedule.
+
+* Management contracts or compensatory plans or arrangements
+  required to be identified by Item 14(a)(3).
+
+          (b)  Reports on Form 8-K.
+
+          No reports on Form 8-K were filed by Registrant during
+the fourth quarter of the fiscal year ended December 30, 1995.
+
+          (c)  Exhibits.
+
+          The response to this portion of Item 14 is submitted
+as a separate section of this report.
+
+          (d)  Financial Statement Schedules.
+
+          The response to this portion of Item 14 is submitted
+as a separate section of this report.
+
+
+
+
+
+                           SIGNATURES
+
+          Pursuant to the requirements of Section 13 or 15(d) of
+the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+                              CERNER CORPORATION
+
+
+Dated:  March 28, 1996             By: /s/Neal L. Patterson
+        --------------                ---------------------
+                                      Neal L. Patterson
+                                      Chairman of the Board and
+                                      Chief Executive Officer
+
+
+            Pursuant  to  the  requirements  of  the  Securities
+Exchange Act of 1934, this report has been signed below  by  the
+following  persons  on  behalf of  the  registrant  and  in  the
+capacities and on the dates indicated:
+
+          Signature and Title                          Date
+          -------------------                          ----
+
+
+/s/Neal L. Patterson                                   March 28, 1996
+- ------------------------------                         --------------
+Neal L. Patterson, Chairman of the Board
+  and Chief Executive Officer (Principal Executive Officer)
+
+
+
+/s/Clifford W. Illig                                   March 28, 1996
+- ------------------------------                         --------------
+Clifford W. Illig, President, Chief
+  Operating Officer and Director
+
+
+
+/s/Marc G. Naughton                                    March 28, 1996
+- ------------------------------                         --------------
+Marc G. Naughton, Principal Financial
+  and Accounting Officer
+
+
+
+/s/David M. Margulies, M.D.                            March 28, 1996
+- ------------------------------                         --------------
+David M. Margulies, M.D., Director
+
+
+
+/s/Michael E. Herman                                   March 28, 1996
+- ------------------------------                         --------------
+Michael E. Herman, Director
+
+
+
+
+          Signature and Title                          Date
+          -------------------                          ----
+
+
+/s/Gerald E. Bisbee, Jr.                               March 28, 1996
+- ------------------------------                         --------------
+Gerald E. Bisbee, Jr., Director
+
+
+
+/s/Charles S. Runnion, III                             March 28, 1996
+- ------------------------------                         --------------
+Charles S. Runnion, III, Director
+
+
+
+/s/Thomas C. Tinstman, M.D.                            March 28, 1996
+- ------------------------------                         --------------
+Thomas C. Tinstman, M.D., Director
+
+
+
+/s/David J. Hart                                       March 28, 1996
+- ------------------------------                         --------------
+David J. Hart, Director
+
+
+
+
+
+Independent Auditors' Report
+- ----------------------------------------------------------------
+
+
+The Board of Directors and Stockholders
+Cerner Corporation:
+
+
+
+We have audited the accompanying consolidated balance sheets of
+Cerner Corporation and subsidiaries as of December 30, 1995 and
+December 31, 1994, and the related consolidated statements of
+earnings, stockholders' equity, and cash flows for each of the
+years in the three-year period ended December 30, 1995.  These
+consolidated financial statements are the responsibility of the
+Company's management.  Our responsibility is to express an
+opinion on these consolidated financial statements based on our
+audits.
+
+We conducted our audits in accordance with generally accepted
+auditing standards.  Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether
+the financial statements are free of material misstatement.  An
+audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements.  An
+audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating
+the overall financial statement presentation.  We believe that
+our audits provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred
+to above present fairly, in all material respects, the financial
+position of Cerner Corporation and subsidiaries as of December
+30, 1995 and December 31, 1994, and the results of their
+operations and their cash flows for each of the years in the
+three-year period ended December 30, 1995, in conformity with
+generally accepted accounting principles.
+
+
+
+KPMG Peat Marwick LLP
+
+Kansas City, Missouri
+February 10, 1996
+
+
+
+
+
+Management's Report
+- ----------------------------------------------------------------
+
+
+The management of Cerner Corporation is responsible for the
+consolidated financial statements and all other information
+presented in this report.  The financial statements have been
+prepared in conformity with generally accepted accounting
+principles appropriate in the circumstances, and, therefore,
+included in the financial statements are certain amounts based
+on management's informed estimates and judgments.  Other
+financial information in this report is consistent with that in
+the consolidated financial statements.  The consolidated
+financial statements have been audited by Cerner Corporation's
+independent certified public accountants and have been reviewed
+by the audit committee of the Board of Directors.
+
+
+
+
+
+Consolidated Balance Sheets
+- -------------------------------------------------------------------------------
+December 30, 1995 and December 31, 1994
+
+
+
+
+
+
+Consolidated Statements of Earnings
+- -----------------------------------------------------------------------------
+For the years ended December 30, 1995, December 31, 1994, and 1993
+
+
+
+
+
+
+Consolidated Statements of Stockholders' Equity
+- ----------------------------------------------------------------------------
+For the years ended December 30, 1995, December 31, 1994, and 1993
+
+
+
+
+
+
+
+Consolidated Statements of Cash Flows
+- -----------------------------------------------------------------------------
+For the years ended December 30, 1995, December 31, 1994, and 1993
+
+
+
+
+
+
+
+Notes to Consolidated Financial Statements
+- ----------------------------------------------------------------------------
+
+
+1    Summary of Significant Accounting Policies
+
+(a)  Principles of Consolidation - The consolidated financial
+statements include the accounts of Cerner Corporation and its
+wholly owned subsidiaries.  All significant intercompany
+transactions and balances have been eliminated in consolidation.
+
+(b)  Revenue Recognition - Revenues are derived primarily from
+the sale of clinical information systems.  In addition, revenue
+is generated from servicing installed clinical information
+systems, which generally include support of software and
+maintenance of hardware.  The Company also derives revenue from
+the sale of computer hardware.
+
+Clinical information system sales contracts are negotiated
+separately and generally include the licensing of the Company's
+clinical information system software and the sale of computer
+hardware.  Clinical information system sales contracts are
+noncancelable and provide for a right of return only in the
+event the system fails to meet the performance criteria set
+forth in the contracts.  The Company recognizes revenue from
+sales of clinical information systems using a percentage-of-
+completion method based on meeting key milestone events over the
+term of the contracts in accordance with Statement of Position
+91-1, "Software Revenue Recognition."
+
+Revenue from the licensing of additional software is recognized
+upon installation at the client's site.  Revenue from the sale
+of computer hardware is recognized upon shipment.  Revenue from
+ongoing software support and equipment maintenance is recognized
+as the services are rendered.
+
+(c)  Software Development Costs - Costs incurred internally in
+creating computer software products are expensed until
+technological feasibility has been established upon completion
+of a detail program design.  Thereafter, all software
+development costs are capitalized and subsequently reported at
+the lower of amortized cost or net realizable value.
+Capitalized costs are amortized based on current and future
+revenue for each product with minimum annual amortization equal
+to the straight-line amortization over the estimated economic
+life of the product.  The Company is amortizing capitalized
+costs on a straight-line basis over five years.  During the
+years ended December 30, 1995, December 31, 1994 and 1993, the
+Company capitalized $9,210,000, $8,131,000, and $6,181,000,
+respectively, of total software development costs of
+$33,957,000,  $26,897,000,  and $19,432,000, respectively.
+Amortization expense of capitalized software development costs
+for the years ended December 30, 1995, December 31, 1994, and
+1993, was $5,109,000, $3,918,000, and $2,652,000, respectively,
+and accumulated amortization was $18,963,000, $13,854,000, and
+$9,936,000, respectively.
+
+(d)  Inventory - Inventory consists primarily of computer
+hardware held for resale and is recorded at the lower of cost
+(first-in, first-out) or market.
+
+(e)  Property and Equipment - Property, equipment, and leasehold
+improvements are stated at cost.  Depreciation of property and
+equipment is computed using the straight-line method over
+periods of 5 to 39 years.  Amortization of leasehold
+improvements is computed using a straight-line method over the
+lease terms, which range from periods of two to five years.
+
+(f)  Earnings Per Share - Earnings per share is based on the
+weighted average number of common shares and common share
+equivalents outstanding.  Common share equivalents consist of
+shares issuable upon exercise of stock options using the
+treasury stock method.  The computation of fully diluted
+earnings per share reflects additional dilution under the
+treasury stock method when the Company's stock price at the end
+of a reporting period exceeds the average price.  Fully diluted
+earnings per share is not materially different from primary
+earnings per share.  Weighted average shares outstanding
+utilized in the computation of primary earnings per share were
+31,448,053, 29,762,208, and 29,158,356, and fully diluted
+earnings per share were 31,448,053, 29,807,504, and 29,285,798,
+for the years ended December 30, 1995, December 31, 1994, and
+1993, respectively.
+
+(g)  Stock Split - On July 17, 1995, the Company's Board of
+Directors declared a two-for-one stock split in the form of a
+one hundred percent (100%) stock dividend payable on August 4,
+1995, to stockholders of record July 24, 1995.  All share and
+per share data have been restated for all periods presented
+herein to reflect the stock split.
+
+(h)  Foreign Currency - Assets and liabilities in foreign
+currencies are translated into dollars at rates prevailing at
+the balance sheet date.  Revenues and expenses are translated at
+average rates for the year.  The net exchange differences
+resulting from these translations are reported in stockholders'
+equity.  Gains and losses resulting from foreign currency
+transactions are included in the consolidated statements of
+earnings.  The net gain (loss) resulting from foreign currency
+transactions was $33,000, $107,000, and ($83,000), in 1995,
+1994, and 1993, respectively.
+
+(i)  Income Taxes - Deferred tax assets and liabilities are
+recognized for the future tax consequences attributable to
+differences between the financial statement carrying amounts of
+existing assets and liabilities and their respective tax bases.
+Deferred tax assets and liabilities are measured using enacted
+tax rates expected to apply to taxable income in the years in
+which those temporary differences are expected to be recovered
+or settled.
+
+(j)  Goodwill - Excess of cost over net assets acquired
+(goodwill) is being amortized on a straight-line basis over
+eight years.  Accumulated amortization was $1,355,000 at
+December 30, 1995 and $916,000 at December 31, 1994.  The
+Company assesses the recoverability of goodwill based on
+forecasted undiscounted future operating cash flows.
+
+(k)  Reclassifications - Certain prior year amounts have been
+reclassified to conform with current year presentation.
+
+(l)  Use of Estimates - The preparation of financial statements
+in conformity with generally accepted accounting principles
+requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of
+the financial statements and the reported amounts of revenues
+and expenses during the reporting period.  Actual results could
+differ from those estimates.
+
+2    Acquisition
+
+On November 1, 1993, the Company completed the acquisition of
+Megasource, Inc. through the merger of Megasource, Inc. into a
+new wholly owned subsidiary of the Company.  The Company issued
+519,540 shares of common stock, valued at approximately
+$6,773,000, in the merger.  Megasource, Inc. was engaged in the
+design, sale, and support of several clinical information
+systems, the most significant of which was its pharmacy system.
+The acquisition has been accounted for as a purchase with the
+operating results of Megasource, Inc. included in the Company's
+consolidated statement of earnings from November 1, 1993.  The
+Company has determined that the consolidated results of
+operations as if the acquisition had occurred at the beginning
+of 1993 would have had no material effect on the overall results
+of the Company.
+
+3    Cash and Short-term investments
+
+Cash, cash equivalents, and short-term investments consist of
+the following:
+
+
+
+On January 1, 1995, the Company adopted Statement of Financial
+Accounting Standards No. 115, "Accounting for Certain
+Investments in Debt and Equity Securities" (Statement 115).
+Under Statement 115, debt and marketable equity securities are
+classified in one of three categories:  trading, available for
+sale or held-to-maturity.  The Company classifies all of its
+investment securities as held-to-maturity.  Held-to-maturity
+securities are those securities in which the Company has the
+positive intent and ability to hold until maturity.  Held-to-
+maturity securities are recorded at cost, adjusted for the
+amortization or accretion of premiums or discounts.  There was
+no financial statement impact upon adoption of Statement 115.
+
+All cash equivalents and short-term investments held at December
+30, 1995 mature within 90 days.  The amortized cost of cash
+equivalents and short-term investments approximates fair value.
+
+4    Receivables
+
+Receivables consist of accounts receivable and contracts
+receivable.  Accounts receivable represent recorded revenues
+that have been billed.  Contracts receivable represent recorded
+revenues that are billable by the Company at future dates under
+the terms of a contract with a client.  Contract receivables
+that are not expected to be collected within one year are
+classified as noncurrent.  Billings on contracts in excess of
+related revenues recognized under the percentage of completion
+method are recorded as advanced billings.   A summary of current
+receivables is as follows:
+
+
+
+Substantially all receivables are derived from sales and related
+support and maintenance of the Company's clinical information
+systems to healthcare providers located throughout the United
+States and in certain foreign countries.  Included in
+receivables at December 30, 1995 and December 31, 1994, are
+amounts due from healthcare providers located in foreign
+countries of $3,821,000 and $3,777,000 respectively.
+Consolidated revenues include foreign sales of $8,823,000,
+$13,274,000, and $8,417,000, for the years ended December 30,
+1995, December 31, 1994, and 1993, respectively.
+
+The Company provides an allowance for estimated uncollectible
+accounts based upon historical experience and management's
+judgment.  At December 30, 1995 and December 31, 1994 the
+estimated allowance for uncollectible accounts was $1,109,000
+and $734,000, respectively.
+
+The fair value of the Company's noncurrent receivables is
+estimated to be $3,808,000, based on current interest rates
+offered to the Company for debt of the same maturities.
+
+5    Property and Equipment
+
+A summary of property, equipment, and leasehold improvements
+stated at cost, less accumulated depreciation and amortization,
+is as follows:
+
+
+
+6    Indebtedness
+
+The Company has a loan agreement with two banks which provides
+for a long-term revolving line of credit for working capital
+purposes.  The long-term revolving line of credit is unsecured
+and requires monthly payments of interest only.  Interest is
+payable at the Company's option at a rate based on prime (8.5%
+at December 30, 1995) or LIBOR plus 1.75% (7.59% at December 30,
+1995).  The interest rate may be reduced by up to .5% if certain
+net worth ratios are maintained.  At December 30, 1995, the
+Company had no outstanding borrowings under this agreement and
+had $18,000,000 available for working capital purposes.  The
+agreement contains certain net worth, current ratio, and fixed
+charge coverage covenants and provides certain restrictions on
+the Company's ability to borrow, incur liens, sell assets, and
+pay dividends.  A commitment fee of 3/16% is payable quarterly
+on the unused portion of the revolving line of credit.
+
+The Company also had a loan agreement with two banks that
+provided for a term loan of $17,425,000 to fund the $20,000,000
+purchase of its Kansas City headquarters complex.  On July 29,
+1994, the Company issued $30,000,000 of Senior Notes.  The note
+proceeds were used to repay the term loan, which then
+terminated, and reduce borrowings under the revolving line of
+credit.
+
+The Senior Notes are payable in five equal annual installments
+beginning in August 2000.  Interest is payable on February 1 and
+August 1 at a rate of 8.3%.  The note agreement contains certain
+net worth, current ratio, and fixed charge coverage covenants
+and provides certain restrictions on the Company's ability to
+borrow, incur liens, sell assets, and pay dividends.
+
+The fair value of the Company's Senior Notes is estimated to be
+$32,400,000, based on the quoted market prices for similar
+issues offered to the Company for debt of the same remaining
+maturities.  The Company estimates that the fair value of the
+long-term portion of capital leases approximates the carrying
+value.
+
+Long-term debt is as follows:
+
+
+
+Scheduled maturities of long-term debt (in thousands) at
+December 30, 1995, are as follows:
+
+                                            
+               Years                        
+               ------------
+                                            
+               1996                 $    130
+               1997                      104
+               2000 and thereafter    30,000
+                                    --------
+                                    $ 30,234
+                                    --------
+                                    --------
+
+
+7    Interest Income and Expense
+
+A summary of interest income and expense is as follows:
+
+
+
+
+8    Stock Options
+
+The Company has three incentive stock option plans and a non-
+qualified stock option plan.  Stock Option Plan A (Plan A) was
+approved by the Board of Directors on September 20, 1983, and
+expired on September 20, 1993.  Stock Option Plan B (Plan B) was
+approved by the Board of Directors on November 30, 1983, and
+expired on November 30, 1993.  Stock Option Plan C (Plan C) was
+approved by the Board of Directors on May 18, 1993.  Stock
+Option Plan D (Plan D), formerly the Non-Qualified Stock Option
+Plan, was approved by the Board of Directors on February 19,
+1991.
+
+All associate stock options authorized under Plan A were granted
+prior to December 31, 1983.  Options granted under Plan A were
+exercisable through September 20, 1993, at $.19 per share (fair
+market value on the date of grant) and contained restrictions as
+to transferability and exercisability after termination of
+employment.  Transactions for associate stock options under Plan
+A are summarized as follows:
+
+
+
+Under Plan B, the Company could grant to associates options to
+purchase shares of common stock through November 30, 1993.  The
+options are exercisable at the fair market value on the date of
+grant for a period determined by the Board of Directors (not
+more than ten years from the date granted).  The options contain
+restrictions as to transferability and exercisability after
+termination of employment.  Transactions for associate stock
+options under Plan B are summarized as follows:
+
+
+
+Under Plan C, the Company may grant to associates options to
+purchase shares of common stock through May 18, 2003.  The
+options are exercisable at the fair market value on the date of
+grant for a period determined by the Board of Directors (not
+more than ten years from the date granted).  The options contain
+restrictions as to transferability and exercisability after
+termination of employment.  Transactions for associate stock
+options under Plan C are summarized as follows:
+
+
+
+     
+Under Plan D, the Company may grant to associates, consultants,
+or advisors options to purchase shares of common stock through
+January 1, 2000.  The options are exercisable at a price and
+during a period determined by the Stock Option Committee.
+Options under this plan currently vest over periods of up to ten
+years.
+
+Transactions under Plan D and other non-qualified stock option
+agreements are summarized as follows:
+
+
+
+Statement of Financial Accounting Standards No. 123, "Accounting
+for Stock-Based Compensation" (Statement 123) will require pro
+forma disclosures in 1996 of net income and earnings per share
+as if a new accounting method based on estimated fair value of
+employee stock options had been adopted.  The Company has not
+yet decided if the optional accounting treatment proposed,
+Statement 123, will be adopted.
+
+9    Income Taxes
+
+Income taxes for the years ended December 30, 1995 and December 31,
+1994, and 1993, consist of the following:
+
+
+
+Included in 1993 deferred income tax expense is approximately
+$88,000 resulting from the increase in the statutory tax rate.
+
+Temporary differences between the financial statement carrying
+amounts and tax bases of assets and liabilities that give rise
+to significant portions of deferred income taxes at December 30,
+1995 and December 31, 1994, relate to the following:
+
+
+
+The valuation allowance for 1995 and 1994 was $1,189,000 and
+$404,000 respectively.  The valuation allowance is attributable
+to the continued uncertainty of the future realization of
+deferred tax assets generated mainly from losses recorded by
+certain foreign operations.
+
+The effective income tax rates for 1995, 1994, and 1993 were
+39.4%, 39.9%, and 39.6%, respectively.  These effective rates
+differ from the federal statutory rate of 35% in 1995, 1994, and
+1993 as follows:
+
+
+
+Income taxes payable at December 30, 1995 and December 31, 1994
+and 1993,  are reduced by the tax benefit resulting from
+disqualifying dispositions of stock acquired under the Company's
+stock option plans.  The 1995, 1994, and 1993 benefits of
+$3,325,000, $1,000,000, and $3,200,000, respectively, are
+treated as increases to additional paid-in capital.  Income
+taxes payable as December 30, 1995 are also reduced by the use
+of separate return net operating losses.  The 1995 tax benefit
+of $431,000 was treated as a reduction in goodwill.
+
+10   Associate Stock Purchase Retirement Plan
+
+The Company established the Cerner Corporation Associate Stock
+Purchase Retirement Plan (the Plan) under Section 401(k) of the
+Internal Revenue Code.  All full-time associates are eligible to
+participate.  Participants may elect to make pre-tax
+contributions from 1% to 15% of compensation to the Plan,
+subject to annual limitations determined by the Internal Revenue
+Service.  Participants may direct contributions into mutual
+funds, a money market fund, or a Company stock fund.  The
+Company makes matching contributions to the Plan, on behalf of
+participants, in an amount equal to 20% of the participant's
+contribution, limited to a maximum of $600 per participant.  The
+Company's expense for the plan amounted to $431,000, $316,000,
+and $275,000 for 1995, 1994, and 1993, respectively.
+
+11   Commitments
+
+The Company is committed under operating leases for office space
+through December 1999 and for computer equipment through
+December 1996.  Rent expense for office and warehouse space for
+the Company's regional and international offices for 1995, 1994,
+and 1993 was $1,192,000, $1,721,000, and $2,195,000,
+respectively.  Lease expense for computer equipment was $68,000,
+$328,000, and $323,000, in 1995, 1994, and 1993, respectively.
+Aggregate minimum future payments (in thousands) under these
+noncancelable leases are as follows:
+                                         
+               Years                     
+             ----------------
+                                         
+               1996              $  1,539
+               1997                 1,502
+               1998                 1,279
+               1999                   531
+               2000                   180
+
+12   Real Estate Lease Revenue
+
+The Company leases space to unrelated parties in its Kansas City
+headquarters complex under noncancelable operating leases.
+Rental income from January 1, 1995  to  December 30, 1995, was
+$2,577,000.  Future minimum lease revenues (in thousands) under
+these noncancelable operating leases expiring through 2000 are
+as follows:
+
+               Years                     
+             ----------------
+                                         
+               1996              $  2,040
+               1997                 1,695
+               1998                 1,285
+               1999                 1,018
+               2000                   694
+
+13   Stockholders' Equity
+
+At December 30, 1995 and December 31, 1994, the Company had
+1,000,000 shares of authorized but unissued preferred stock,
+$.01 par value.
+
+14   Quarterly Results (unaudited)
+
+Selected quarterly financial data for 1995 and 1994 is set forth
+below:
+
+
+
+
+
+                                                           
+
+
+                         INDEPENDENT AUDITORS' REPORT
+                         ----------------------------
+                        ON FINANCIAL STATEMENT SCHEDULE
+                        -------------------------------
+
+
+The Board of Directors
+Cerner Corporation:
+
+Under date of February 10, 1996, we reported on the consolidated
+balance sheets of Cerner Corporation and subsidiaries as of December
+30, 1995 and December 31, 1994, and the related consolidated
+statments of earnings, stockholders' equity and cash flows for each
+of the years in the three-year period ended Decmeber 30, 1995.  These
+consolidated financial statements and our report thereon are included
+in the Company's annual report on Form 10-K for the year 1995.  In
+connection with our audits of the aforementioned consolidated financial
+statements, we also have audited the related financial statement
+schedule as listed in Item 14(a)(2).  This financial statement schedule
+is the responsibility of the Company's management.  Our responsibility
+is to express an opinion on the financial statement schedule based on
+our audits.
+
+In our opinion, this financial statement schedule, when considered in
+relation to the basic consolidated financial statements taken as a
+whole, presents fairly, in all material respects, the information
+set forth therein.
+
+
+                                       KPMG Peat Marwick LLP
+
+Kansas City, Missouri
+February 10, 1996
+
+
+

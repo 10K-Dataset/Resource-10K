@@ -1,0 +1,2145 @@
+
+10-K
+FORM 10-K FOR THE YEAR ENDED APRIL 25, 1997
+
+
+
+ 
+================================================================================
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                            ------------------------
+ 
+                                   FORM 10-K
+ 
+(MARK ONE)
+ 
+     [X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+       SECURITIES EXCHANGE ACT OF 1934
+ 
+                    FOR THE FISCAL YEAR ENDED APRIL 25, 1997
+ 
+                                       OR
+ 
+     [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+       SECURITIES EXCHANGE ACT OF 1934
+ 
+            FOR THE TRANSITION PERIOD FROM __________ TO __________
+ 
+                         COMMISSION FILE NUMBER 0-27130
+ 
+                            NETWORK APPLIANCE, INC.
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+ 
+
+ 
+                           2770 SAN TOMAS EXPRESSWAY
+                         SANTA CLARA, CALIFORNIA 95051
+          (ADDRESS OF PRINCIPAL EXECUTIVE OFFICE, INCLUDING ZIP CODE)
+ 
+                                 (408) 367-3000
+              (REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE)
+ 
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+                                      None
+ 
+
+ 
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT:
+                          Common Stock (no par value)
+ 
+     Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes  [X] No [ ]
+ 
+     Indicate by a check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K.  [ ]
+ 
+     The aggregate market value of voting stock held by non-affiliates of the
+Registrant, as of May 31, 1997 was approximately $497,013,000 (based on the
+closing price for shares of the Registrant's common stock as reported by the
+Nasdaq National Market System for the last trading day prior to that date).
+Shares of common stock held by each executive officer, director, and holder of
+5% or more of the outstanding common stock have been excluded in that such
+persons may be deemed to be affiliates. This determination of affiliate status
+is not necessarily a conclusive determination for other purposes.
+ 
+     On May 31, 1997 approximately 16,665,993 shares of the Registrant's common
+stock, no par value, were outstanding.
+ 
+                      DOCUMENTS INCORPORATED BY REFERENCE
+ 
+     Certain information called for by Part III is incorporated by reference
+from designated sections of the definitive Proxy Statement for the Annual
+Meeting of Shareholders to be held September 25, 1997, which will be filed with
+the Securities and Exchange Commission not later than 120 days after April 25,
+1997.
+ 
+================================================================================
+
+ 
+     This Annual Report on Form 10-K contains forward looking statements that
+are accompanied by cautionary statements that identify important factors that
+could cause actual results to differ materially from those in the forward
+looking statements.
+ 
+                                     PART I
+ 
+ITEM 1. BUSINESS
+ 
+OVERVIEW
+ 
+     Network Appliance, Inc. (the "Company" or "Network Appliance") designs,
+manufactures, markets and supports high performance network data storage devices
+which provide fast, simple, reliable and cost effective file service for
+data-intensive network environments. The Company pioneered the concept of the
+"network appliance," an extension of the industry trend towards dedicated,
+specialized devices which perform a single function in the network, similar to
+the adoption of the router for network communications management. The Company's
+filer products combine specialized proprietary software and state-of-the-art
+industry standard hardware to provide a unique solution for the NFS, Common
+Internet File System ("CIFS"), and HTTP server markets.
+ 
+ACQUISITION
+ 
+     In March 1997, the Company acquired all outstanding shares and options to
+purchase shares of Internet Middleware Corporation ("IMC") common stock by
+issuing 187,023 shares of the Company's common stock and options to purchase
+shares of the Company's common stock. Certain key employees of IMC who continued
+as employees of the Company were also granted vested options to purchase shares
+of the Company's common stock at a discount to the market price of the Company's
+common stock immediately preceding the acquisition. In connection with the
+granting of these options, the Company recorded a compensation charge of $3.2
+million in the fourth quarter of fiscal 1997. The acquisition was accounted for
+as a purchase and, accordingly, the results of operations of IMC from the date
+of acquisition forward have been included in the Company's consolidated
+financial statements. A substantial portion of the purchase price was charged to
+expense as purchased in-process technology.
+ 
+INDUSTRY BACKGROUND
+ 
+     In response to competitive pressures, businesses and other organizations
+are increasingly investing in information systems to shorten product development
+cycles, enhance customer responsiveness, lower costs, and improve the quality of
+their products and services. Networked computing offers these organizations the
+ability to increase productivity through the distribution of computing power
+across their enterprises, providing large numbers of users with access to
+applications, information and data. In this environment, it has become important
+for organizations to manage the storage of and access to large volumes of data,
+which increasingly represent critical information resources.
+ 
+  Data-Intensive Network Environment
+ 
+     Network computing environments that require large volumes of data, perform
+intensive processing or computation of data, or involve frequent user access to
+data can be characterized as "data-intensive." Increasingly, organizations are
+deploying data-intensive applications and services as core business resources.
+In addition, Internet and on-line service related businesses have grown
+significantly. The data-intensity of the network environment is expected to
+continue to increase substantially due to the development of new applications
+and services and the more prevalent use of stored digital graphics, voice and
+video, requiring dramatically more data capacity than equivalent alphanumeric
+information. Examples of data-intensive applications and services include:
+ 
+     Data-Intensive Applications -- Data-intensive applications have become
+increasingly prevalent in a variety of industries. Computer-aided design,
+manufacturing and engineering ("CAD/CAM/CAE") are data-intensive applications in
+which teams of engineers collaborate on a common design for a product such as
+ 
+
+ 
+a semiconductor device, computer system, aircraft or automobile. Software
+development is also inherently data-intensive, involving the creation and
+compilation by teams of developers of hundreds of thousands of lines of software
+code which must be continuously tested, revised and recompiled. Energy, seismic
+and satellite-related applications also involve the storage and manipulation of
+large quantities of graphics and imaging data. Within the securities industry,
+large volumes of trading and other market data need to be compiled and rapidly
+processed in order to support trading decisions. Airline reservation systems
+also involve the access to and processing of large quantities of data related to
+flight schedules, equipment configurations, passenger information and seat
+availability.
+ 
+     Data-Intensive Services -- Internet and public on-line services have become
+increasingly data intensive. Organizations are also providing internal on-line
+data repositories that can be accessed internally as well as by outside users.
+As these services have proliferated, they have become "information utilities"
+where increasing amounts of data are stored for broad availability to large
+numbers of distributed users.
+ 
+  Issues in Data Management and Network Computing
+ 
+     Organizations utilizing data-intensive applications and services in network
+computing environments generally share a common set of requirements in order to
+derive the benefits that they are designed to provide. In this context, data
+management has become increasingly complex and challenging. Specifically, three
+significant problem areas have emerged: (i) data access performance; (ii) data
+administration; and (iii) data availability and reliability.
+ 
+     Data Access Performance -- Traditionally, management information systems
+("MIS") managers and network providers improved performance on a network by
+increasing central processing unit ("CPU") performance or increasing the
+underlying network bandwidth. In today's data-intensive network environment,
+performance of applications and services is increasingly limited by the time to
+read or write to hard disk drives. Improvements in performance for most
+applications and services have been limited by disk input/output ("I/O")
+performance, which because of the mechanical nature of disk drives, has not
+improved as rapidly as CPU performance or network bandwidth.
+ 
+     Data Administration -- A key requirement in data administration is the
+management of hardware and software systems that store the data. In the
+data-intensive network environment, data management is difficult and complex due
+to the large number of users accessing the data, the multiple servers storing
+the data and the large volume of data. Furthermore, because data may be widely
+distributed throughout the network, administrative functions such as back-up or
+expansion of the file system become substantially more difficult. Finally, the
+budgetary constraints of most organizations require that this increasingly
+complex administration be accomplished cost-effectively, without increased
+staffing.
+ 
+     Data Availability and Reliability -- As the data-intensive network
+environment grows, data availability becomes critical to the organization's
+productivity, time-to-market and responsiveness to customers. Achieving a high
+level of data availability is particularly difficult because hard disk drives
+are mechanical devices, which are prone to failure over extended periods of
+intensive use. An organization may experience costly down-time or loss of data
+from the failure of a single low-cost, network-attached disk drive. This is
+particularly important to network service providers whose business is providing
+network-stored data to their users. Therefore, it is imperative that systems
+which are repositories of network-based data and services have low failure
+rates, rapid recovery times and the ability to provide uninterrupted service in
+the event of failure of a disk drive.
+ 
+  File Servers
+ 
+     The requirements of the data-intensive network environment have contributed
+to the growing importance of the network file service function, the process of
+reading and writing files to and from shared data storage over the network.
+Until recently, the file service function had been performed exclusively by
+larger, general purpose computer systems which also executed other tasks such as
+print serving, application processing and communications functions. As networks
+evolved, network managers increasingly dedicated general purpose
+ 
+
+ 
+systems specifically to the file service task in order to enhance performance,
+simplify administration and reduce vulnerability to other application-related
+failures. These dedicated systems became known as "file servers."
+ 
+     Systems vendors have offered a variety of specially configured and add-on
+solutions for general purpose systems deployed as file servers. Selected vendors
+have also introduced highly specialized, hardware-intensive systems architected
+to exclusively perform the file service task. These approaches, such as the use
+of hardware accelerators and the introduction of specialized hardware
+architectures, were generally optimized for throughput (the number of I/O
+requests processed by the CPU). Although these file server approaches addressed
+throughput issues, they were not designed to address the specific problem of
+response time (the speed at which an I/O request is satisfied) which is critical
+in the data-intensive network environment. In addition, because these approaches
+lack the flexibility to easily integrate additional network, file system and/or
+disk interfaces or protocols associated with today's heterogeneous networks,
+these approaches do not directly address the reliability issues associated with
+data storage on a network. Consequently, users are searching for cost-effective,
+flexible solutions to address data access performance, data administration and
+data availability and reliability issues in the data-intensive network
+environment.
+ 
+THE NETWORK APPLIANCE SOLUTION
+ 
+     Network Appliance pioneered the concept of a "network appliance," a fast,
+simple, reliable and cost-effective device designed to perform a specific
+network data management function. The network appliance concept is part of the
+trend towards the specialization of network devices, including the development
+of routers, dedicated devices that manage network communications functions
+previously performed by general purpose computer systems. The Company's network
+appliance product line consists of network data storage appliances or "filers,"
+developed to address the specific market requirements of data-intensive network
+environments. These products utilize an efficient software kernel optimized to
+exclusively perform the file service task. Unlike previous file server
+approaches, these products are not burdened by a general purpose operating
+system or file system overhead. By using a proprietary software architecture,
+Network Appliance is able to use industry standard hardware components rather
+than specialized hardware. The core elements of the Network Appliance solution
+are:
+ 
+     Fast Response Time -- Network Appliance uses its proprietary Write Anywhere
+File Layout ("WAFL") software architecture and a sophisticated caching scheme
+coupled with industry standard processor architectures and I/O buses to achieve
+response time over the network substantially faster than competing products.
+Faster response times result in faster execution of applications and services in
+data-intensive network environments. The filer's response time is significantly
+faster than either general purpose computers or specialized hardware-centric
+file servers. In addition, the Company's products are characterized by less
+variation in response times under increasing aggregate loads than competing
+products.
+ 
+     Network Appliance believes its approach enables its customers to meet the
+performance needs of future data-intensive applications and services. The
+Company's technology has allowed it to achieve substantial improvements in
+response time by adopting faster industry standard microprocessors, while
+competitive solutions have been generally limited by disk access time. For
+example, successive releases of Network Appliance software on the Intel 486 or
+Pentium(R)-based platforms, in addition to supporting incremental functionality,
+have succeeded in reducing response times.
+ 
+     Ease of Administration -- Network Appliance products are easy to use and
+install. Installation by a systems administrator typically requires less than an
+hour. Administration requires knowledge of approximately 40 system commands,
+versus the hundreds of commands typical of alternative products. Network
+Appliance's Snapshot feature allows on-line back-up of an active file system
+without interrupting users. This feature also allows users on-line access to
+earlier versions of their data without involving the systems administrator.
+During fiscal 1997, the Company introduced a Web-based graphical user interface
+("GUI") administration tool called FilerView(TM) which allows for filer
+administration using a standard web browser. Together, these features simplify
+administration, permit more efficient use of personnel resources and increase
+data availability.
+ 
+
+ 
+     High Levels of Data Availability and Reliability -- Network Appliance
+products are designed to provide high levels of data availability. Traditional
+servers do not have an integrated facility to efficiently and reliably maintain
+the availability of data upon disk drive failure. The approach to provide
+increased data-availability for these systems has been to incrementally add RAID
+(redundant array of independent disks) devices which are costly and are often
+performance-limiting. Network Appliance's unique software integration of RAID
+provides a solution at no incremental cost that yields more reliable data with
+no performance penalties. In the event of a disk drive failure, the Network
+Appliance filer will reconstruct the failed data on a spare drive which may be
+hot-swapped with the failed drive without any interruption of data availability
+to client users. Upon disruption of the system, Network Appliance servers
+automatically reboot (with full data availability) at a speed of approximately
+one to three minutes regardless of storage capacity (versus alternative systems
+that may take up to one minute per gigabyte to reboot with full data
+availability). The Network Appliance architecture allows system administrators
+to add storage capacity or replace a failed disk drive without service
+interruption or loss of data.
+ 
+     Scalability -- The architecture of Network Appliance products is designed
+to be scalable so that performance, both in response time as well as in
+aggregate throughput and storage capacity can cost-effectively grow on an
+incremental basis. Adding an additional server to a network under this
+architecture is as simple as adding an additional disk drive to many other
+systems. The system can be easily expanded to terabytes of data, while
+maintaining a relatively consistent response time.
+ 
+     Compatibility with Networking Environment -- Network Appliance products are
+compatible with major network and peripheral interfaces and protocols. This is
+accomplished through the use of industry standard I/O bus architectures,
+providing compatibility with common network interfaces and protocols and disk
+interconnects. Network Appliance's software is designed to be extendable to
+additional network environments and interface standards, as appropriate.
+ 
+     Cost-Effectiveness -- By combining Network Appliance's software-centric
+architecture with state of-the-art industry-standard microprocessors and hard
+disk products, Network Appliance is able to achieve fast response times at a low
+cost per unit of storage.
+ 
+     Multiprotocol Capabilities -- The addition of multiprotocol capabilities
+through recently developed software began the Company's entry into the HTTP, and
+CIFS markets (CIFS is the standard file service protocol for Microsoft
+Windows(R) products). The Company's product family now enables different types
+of clients -- such as PCs, UNIX workstations and standard web browsers -- to
+simultaneously access information on a single server.
+ 
+STRATEGIES
+ 
+     Network Appliance's goal is to be a leader in the network data storage
+appliance market, building on the initial success of its NFS filers. The Company
+seeks to achieve this goal by employing the following core strategies:
+ 
+     Focus on Software Differentiation -- Network Appliance seeks to continue to
+differentiate its products by focusing on the development and enhancements to
+its specialized proprietary software. Network Appliance believes this approach
+allows it to cost-effectively integrate desirable features such as intelligent
+caching, the WAFL architecture, software integrated RAID and automated on-line
+restoration of deleted or changed files through its Snapshot feature.
+ 
+     Embrace Industry Standards -- Network Appliance will continue to integrate
+its specialized software solutions with state-of-the-art industry standard
+hardware components and software interfaces. Industry standard hardware is
+generally less expensive and more readily available than proprietary hardware.
+For instance, since its first product introduction, successive generations of
+Network Appliance products have migrated from industry standard architecture
+("ISA") to peripheral connect interchange ("PCI")-bus. Network Appliance
+believes this approach allows more rapid and cost-effective development and the
+delivery of high performance products at attractive prices. Utilizing industry
+standard interfaces enables Network Appliance products to be adaptable to a
+variety of network environments.
+ 
+
+ 
+     Broaden Penetration Into NFS Market -- Network Appliance's initial focus
+was to provide NFS file servers for departmental and enterprise applications.
+The Company's current focus is to expand its product offerings to include a
+wider range of price, performance and storage capacities, as well as penetrating
+additional vertical markets.
+ 
+     Develop New Markets -- During fiscal 1997, Network Appliance developed
+multiprotocol software capable of providing simultaneous NFS and CIFS file
+service. This product was designed to meet file server requirements for the
+Windows NT market and to address the need to unify UNIX and Windows network file
+services. The Windows NT market has been characterized by trends toward the
+distributing and downsizing of centralized data-intensive applications, the
+consolidation of smaller, independent PC-based LANs and the emergence of
+multimedia as a significant corporate communications and training tool. Network
+Appliance began shipping the first release of the Windows Networking file
+protocol option in the third quarter of fiscal 1997.
+ 
+     In the predominantly Windows environment, Network Appliance's filers can
+help proliferate Windows NT adoption at the enterprise level by providing much
+higher capacities for network data access consolidation for Windows and UNIX
+desktops, allowing the deployment of Windows NT(R) servers primarily for
+application services. This not only helps scale application performance, by
+off-loading network file service operations, but also contributes to easier data
+administration through using the 40 standard commands which allows system
+administrators to focus on user and application related issues.
+ 
+     Also during fiscal 1997, Network Appliance released its Web Filer(TM)
+software. Web Filer is compatible with all standard Web servers, enables users
+to update pages while the filer is simultaneously handling Web (HTTP) requests
+and improves the performance of Internet networks, including corporate
+intranets. Web Filer operates on any Network Appliance filer, either as a single
+function HTTP data access server, or in a multiprotocol environment for file and
+web data access. With the release of Web Filer, a single Network Appliance filer
+can simultaneously support three different network file sharing protocols,
+including NFS for UNIX clients, Microsoft's CIFS protocol for Windows 3.1,
+Windows 95 and Windows NT clients and HTTP for any standard Web browser. By
+supporting all three types of clients in a single, high-speed, data-access
+server, Network Appliance enables corporations to avoid costly and complex data
+replication and add-on client software, while simplifying system and network
+administration.
+ 
+     In April 1997, Network Appliance released NetCache(TM), a Web proxy-caching
+software product made available through the Company's recent acquisition of IMC.
+NetCache improves Web access times and reduces network traffic by creating
+read-only copies of Web pages that reside closer to users. NetCache is designed
+for enterprise-wide corporate intranets and for Internet Service Providers who
+have multiple points-of-presence and data centers. By caching copies of Web
+content on multiple locations throughout the network, NetCache reduces access
+times, particularly for users located in remote offices who access the corporate
+intranet over a wide-area network connection. NetCache also reduces
+telecommunications costs by eliminating the need for multiple end-user requests
+for the same data. With support for traffic analysis, the new product also
+improves network auditing and security. Network Appliance intends to release an
+appliance version of the software in the future.
+ 
+     Expand Distribution -- Network Appliance seeks to market and distribute its
+products and technology globally. In North America and in much of Europe, the
+Company employs a multi-tiered distribution strategy which focuses on product
+sales to end-users through a direct sales force, as well as selected value-added
+resellers in certain geographies. In the Pacific Rim and in portions of Europe,
+Network Appliance products are sold through resellers, which are supported by
+Network Appliance channel managers and technical support personnel. In addition,
+the Company seeks to distribute its products through original equipment
+manufacturers ("OEMs") and, where appropriate, through licensing arrangements
+with computer systems companies.
+ 
+SALES AND MARKETING
+ 
+     Network Appliance has established multiple distribution channels to
+accelerate market penetration of its products. The Company initially marketed
+its products primarily through indirect sales channels both domestically and
+internationally. In fiscal 1995, the Company shifted its emphasis domestically
+to direct sales
+ 
+
+ 
+and significantly expanded its direct sales force. The Company continues to rely
+primarily on indirect sales in the Pacific Rim and in some portions of Europe.
+Network Appliance has approximately 20 sales offices within North America.
+Additionally, the Company has international offices in London, Paris, Munich,
+Milan and Sydney.
+ 
+     No customers accounted for 10% or more of the Company's net sales in fiscal
+1997 or 1996. In fiscal 1995, sales to ITOCHU and MTI each accounted for
+approximately 10% of net sales. The Company entered into a Distributor Agreement
+with ITOCHU under which the Company granted ITOCHU a nonexclusive,
+nontransferable license to, among other things, market and distribute certain of
+the Company's products in Japan, with payments to the Company in U.S. dollars
+and a term that is automatically renewed each year. The Distributor Agreement
+had an initial term through March 31, 1994, which is automatically renewed for
+additional one year terms unless terminated 45 days prior to the end of a term.
+The agreement may also be terminated with or without cause upon 90 days written
+notice by either party and upon certain events of default by either party. The
+Company generally has not entered into long-term volume purchase contracts with
+its other end user customers or resellers. The Company terminated its
+relationship with MTI in the second quarter of fiscal 1996.
+ 
+BACKLOG
+ 
+     The Company manufactures its products based upon forecast of customers'
+demand. Orders are generally placed by customers on an as-needed basis and
+products are typically shipped within one to four weeks following receipt of an
+order. In general, customers may cancel or reschedule orders without penalty.
+For these reasons, the Company does not believe "orders" constitute a firm
+"backlog" and believes it is not a meaningful indicator of revenues nor material
+to an understanding of its business.
+ 
+PRODUCTS
+ 
+     In May 1997, the Company transformed its entire product line by adding the
+NetApp(TM) F520 departmental filer, the NetApp F230 workgroup filer and the
+NetApp F630, an enterprise-class filer that offers double the throughput and
+capacity of its predecessor. The Company also introduced the F210 entry-level
+filer for small workgroups. All filers are based on a PCI-bus architecture and
+come packaged in rack mountable enclosures. The NetApp F210 and F230 filers are
+based on Pentium processors. The NetApp F520 and NetApp F630 are based on
+Digital's Alpha processor. Since the third quarter of fiscal 1997, customers
+have had the option of purchasing filers that include from one to three software
+protocols -- NFS, CIFS and HTTP. NetApp filer list prices range from
+approximately $15,000 to $400,000, depending primarily on product configuration.
+ 
+     NetCache, the Web proxy caching software made available through the IMC
+acquisition, was designed for heterogeneous Windows NT and UNIX server
+infrastructures, can scale to growing demands, features a software architecture
+optimized for a large volume of HTTP connections and provides proxy caching for
+a number of data-sharing technologies, including HTTP, FTP, Gopher, and SSL
+tunneling. The software is currently available for Windows NT, SPARC Solaris and
+Digital UNIX. A single underlying software code base and user interface support
+each product. NetCache supports environments with T1 speed (1.544 Mbps)
+connections or greater. Network Appliance also offers NetCache Lite, a
+scaled-back version of NetCache, which supports environments with up to a 256
+Kbps connection to the Internet (roughly two ISDN lines). Network Appliance
+intends to release an appliance version of the proxy caching software in the
+future.
+ 
+     In the third quarter of fiscal 1997, Network Appliance began production
+shipments of Data ONTAP(TM) Release 4.0, which is based on the Company's
+specialized proprietary software architecture. Release 4.0 enables NetApp filers
+to simultaneously access UNIX, Windows and Web network files. Release 4.0 added
+new features, including ATM, full duplex Ethernet connectivity and FilerView,
+which offers HTML/Java(R)-based server administration.
+ 
+     In June 1997, Network Appliance released Data ONTAP Release 4.1 which
+features improved CIFS throughput. Data ONTAP Release 4.1 is standard on all new
+filer products shipped as of June 1997. Installed base customers running
+previous versions of the software can upgrade to Release 4.1 at no charge if
+they are
+ 
+
+ 
+on the Company's Software Subscription Program, or by paying a per-incident
+upgrade price. Some customers are eligible for a free upgrade depending on the
+date of their filer purchase.
+ 
+CUSTOMER SERVICE AND SUPPORT
+ 
+     Network Appliance's customer service and support organization provides
+customers with technical support, education and training. Network Appliance
+believes that providing a high level of customer service and technical support
+is critical to customer satisfaction and the Company's success. In providing
+service and support to customers, the Company uses its own products extensively.
+Warranty coverage includes 24 hour telephone support plus next business day
+hardware repair. For an additional charge, the Company also offers upgraded
+service during the warranty period, providing for faster on-site hardware
+repair. The standard hardware warranty for most parts includes one year of part
+replacement for failed components. Software support, including bug fixes and new
+release updates are provided at no extra charge for 90 days after product
+shipment. Support for software is available beyond the initial period through
+the software subscription program.
+ 
+     Post-warranty service programs include: cooperative maintenance where the
+customer purchases spares and performs self-maintenance tasks, a full-service
+program involving a combination of telephone-based support and on-site repair,
+and a software subscription program that includes telephone support and software
+upgrades. The Company charges for service programs on an annual subscription
+basis, with discounts to sites with multiple filers. On-site support is
+primarily provided by independent parties both in North America and
+internationally.
+ 
+MANUFACTURING
+ 
+     Network Appliance's manufacturing operations, located in Santa Clara,
+California, consist of procurement of materials, product assembly, product
+assurance, quality control and final test. Network Appliance relies on many
+suppliers for the procurement of materials, as well as several key
+subcontractors for the production of certain board level assemblies. The
+Company's manufacturing strategy has been to develop close relationships with
+its suppliers, exchanging critical information and implementing joint quality
+training programs. This manufacturing strategy minimizes capital investment and
+overhead expenditures and creates flexibility by providing the capacity for
+rapid expansion. During May 1997, Network Appliance was awarded the ISO 9001
+certification.
+ 
+     The Company relies upon a limited number of suppliers of several key
+components utilized in the assembly of the Company's products. The Company
+purchases disk drives and enclosures from Digital Equipment Corporation and from
+other vendors. The Company's reliance on its suppliers involves several risks,
+including a potential inability to obtain an adequate supply of required
+components, price increases, timely delivery and component quality. This risk is
+particularly significant with respect to suppliers of disk drives because in
+order to meet product performance requirements, the Company must obtain disk
+drives with extremely high quality and capacity. In addition, there are periodic
+supply and demand issues for disk drives and for semiconductor memory
+components, which could result in component shortages, selective supply
+allocations and increased prices of such components. Although to date the
+Company has been able to purchase its requirements of such components, there is
+no assurance that the Company will be able to obtain its full requirements of
+such components in the future or that prices of such components will not
+increase. In addition, there can be no assurance that problems with respect to
+yield and quality of such components and timeliness of deliveries will not
+occur. Disruption or termination of the supply of these components could delay
+shipments of the Company's products and could have a material adverse effect on
+the Company's business, operating results and financial condition. Such delays
+could also damage relationships with current and prospective customers.
+ 
+     The Company's resellers sometimes purchase minimally configured systems
+from the Company and source additional disk drives and memory components from
+other vendors. In addition, certain end-users also purchase disk drives and
+memories from other suppliers. Since these components do not undergo the
+Company's rigorous sourcing and testing procedures, they may experience more
+failures when deployed in the
+ 
+
+ 
+Company's products. Any such higher failure rate could negatively impact the
+Company's reputation and, as a result, could materially adversely affect its
+business, operating results and financial condition.
+ 
+RESEARCH AND DEVELOPMENT
+ 
+     Since its inception, Network Appliance has made substantial investments in
+research and development. Network Appliance believes that its future performance
+will depend in large part on its ability to maintain and enhance its current
+product line, develop new products that achieve market acceptance, maintain
+technological competitiveness and meet an expanding range of customer
+requirements. The Company intends to expand its existing product offerings and
+to introduce new products for the network file server market.
+ 
+     As part of the Company's ongoing development process, the Company
+introduced a significant software release during fiscal 1997 -- Data ONTAP
+release 4.0. In July 1997, The Company released Data ONTAP Release 4.1. The
+Company also worked extensively in bringing four new products to market in May
+1997 -- the NetApp F210, NetApp F230, NetApp F520 and NetApp F630. The Company
+also released NetCache software in April 1997. In addition, the Company has
+under development new network file servers. The Company's future growth depends
+upon the success of these and other new products, however there can be no
+assurance that these or other new products will attain market acceptance. Due to
+the complexity of network file servers and the difficulty in gauging the
+engineering effort required to produce new products, new products are subject to
+significant technical risks. There can be no assurance that new products will be
+introduced on a timely basis or at all. In the past, the Company has experienced
+delays in the shipments of its new products principally due to an inability to
+qualify component parts from disk drive and other suppliers, resulting in delay
+or loss of product sales. If new products are delayed or do not achieve market
+acceptance, the Company's business, operating results and financial condition
+will be materially adversely affected.
+ 
+     The network file server market is characterized by rapid technological
+change, changing customer needs, frequent new product introductions and evolving
+industry standards. The introduction of products embodying new technologies and
+the emergence of new industry standards could render the Company's existing
+products obsolete and unmarketable. The Company's future success will depend
+upon its ability to develop and introduce new products (including new software
+releases and enhancements) on a timely basis that keep pace with technological
+developments and emerging industry standards and address the increasingly
+sophisticated needs of its customers. There can be no assurance that the Company
+will be successful in developing and marketing new products that respond to
+technological changes or evolving industry standards, that the Company will not
+experience difficulties that could delay or prevent the successful development,
+introduction and marketing of new products, or that its new products will
+adequately meet the requirements of the marketplace and achieve market
+acceptance. If the Company is unable, for technological or other reasons, to
+develop and introduce new products in a timely manner in response to changing
+market conditions or customer requirements, the Company's business, operating
+results and financial condition will be materially adversely affected.
+ 
+     Network file server products like those offered by the Company may contain
+undetected software errors or failures when first introduced or as new versions
+are released. There can be no assurance that, despite testing by the Company and
+by current and potential customers, errors will not be found in new products
+after commencement of commercial shipments, resulting in loss of or delay in
+market acceptance, which could have a material adverse effect upon the Company's
+business, operating results and financial condition.
+ 
+     The Company's total expenses for research and development for fiscal years
+1997, 1996 and 1995 were $9.0 million, $4.8 million and $2.6 million,
+respectively. The Company anticipates that research and development expenses
+will increase in absolute dollars in future periods.
+ 
+COMPETITION
+ 
+     The network file server market is intensely competitive and characterized
+by rapidly changing technology. The Company experiences substantial competition
+from specialized network file server companies, such as Auspex Systems, Inc.
+("Auspex"). The Company also competes against traditional suppliers of UNIX
+systems and PC products that are used as network file servers including Sun
+Microsystems, Digital Equipment
+ 
+
+ 
+Corporation, Hewlett-Packard Company, Silicon Graphics, Inc. and IBM
+Corporation, among others. In addition, certain of these large traditional
+suppliers of general purpose computers may in the future offer specialized file
+server products which are more directly competitive with those of the Company.
+The Company also expects new and emerging competition in the network file server
+market, including competition from manufacturers of PC-based file servers based
+upon Windows NT and other emerging standards. While the Company believes that
+the price-performance characteristics of its products are currently competitive,
+increased competition is likely to result in price reductions, reduced gross
+margin and loss of market share, any of which could materially adversely affect
+the Company's business, operating results and financial condition. Many of the
+Company's current and potential competitors have significantly greater
+financial, technical, marketing and other resources than the Company. As a
+result, they may be able to respond more quickly to new or emerging technologies
+and changes in customer requirements, or devote greater resources to the
+development, promotion, sale and support of their products than the Company. In
+addition, current and potential competitors have established or may establish
+cooperative relationships among themselves or with third parties. Accordingly,
+it is possible that new competitors or alliances among competitors may emerge
+and rapidly acquire significant market share. In addition, the Company derives a
+significant portion of its sales from the resale of disk drives as components of
+its filers and therefore experiences competition from disk drive resellers. The
+market for the resale of disk drives is highly competitive and subject to
+intense price pressures. There can be no assurance that the Company will be able
+to compete successfully against current or future competitors or that
+competitive pressures faced by the Company will not materially adversely affect
+its business, operating results and financial condition.
+ 
+     The Company believes that the principal competitive factors affecting its
+market include product features such as response time, scalability and ease of
+use, price, multiprotocol capabilities and customer service and support.
+Although the Company believes that its products currently compete favorably with
+respect to these factors, there can be no assurance that the Company can
+maintain its competitive position against current and potential competitors,
+especially those with significantly greater financial, marketing, service,
+support, technical and other resources.
+ 
+PROPRIETARY RIGHTS
+ 
+     Network Appliance's success depends significantly upon its proprietary
+technology. The Company currently relies on a combination of copyright and
+trademark laws, trade secrets, confidentiality procedures and contractual
+provisions to protect its proprietary rights. The Company seeks to protect its
+software, documentation and other written materials under trade secret and
+copyright laws, which afford only limited protection. The Company has registered
+its FAServer trademark and will continue to evaluate the registration of
+additional trademarks as appropriate. The Company generally enters into
+confidentiality agreements with its employees and with its resellers and
+customers. The Company currently has four U.S. patent applications pending and
+three corresponding international patent applications pending. There can be no
+assurance that the pending applications will be approved, or that if issued,
+such patents will not be challenged, and if such challenges are brought, that
+such patents will not be invalidated. There can be no assurance that the Company
+will develop proprietary products or technologies that are patentable, that any
+issued patent will provide the Company with any competitive advantages or will
+not be challenged by third parties, or that the patents of others will not have
+a material adverse effect on the Company's ability to do business. Litigation
+may be necessary to protect the Company's proprietary technology. Any such
+litigation may be time-consuming and costly. Despite the Company's efforts to
+protect its proprietary rights, unauthorized parties may attempt to copy aspects
+of the Company's products or to obtain and use information that the Company
+regards as proprietary. In addition, the laws of some foreign countries do not
+protect proprietary rights to as great an extent as do the laws of the United
+States. There can be no assurance that the Company's means of protecting its
+proprietary rights will be adequate or that the Company's competitors will not
+independently develop similar technology, duplicate the Company's products or
+design around patents issued to the Company or other intellectual property
+rights of the Company.
+ 
+     There have also been substantial amounts of litigation in the computer
+industry regarding intellectual property rights. In the first quarter of fiscal
+1997, the Company settled litigation related to the alleged infringement of
+third party rights and other claims, which resulted in the Company recording a
+pre-tax
+ 
+
+ 
+expense of $4.3 million ($3.5 million in payments to the plaintiffs and $0.8
+million in legal fees). In addition, the Company has from time to time received
+claims that it is infringing third parties' intellectual property rights, and
+there can be no assurance that third parties will not in the future claim
+infringement by the Company with respect to current or future products,
+trademarks or other proprietary rights. The Company expects that companies in
+the file server market will increasingly be subject to infringement claims as
+the number of products and competitors in the Company's industry segment grows
+and the functionality of products in different industry segments overlaps. Any
+such claims could be time-consuming, result in costly litigation, cause product
+shipment delays, require the Company to redesign its products or require the
+Company to enter into royalty or licensing agreements, any of which could have a
+material adverse effect upon the Company's business, operating results and
+financial condition. Such royalty or licensing agreements, if required, may not
+be available on terms acceptable to the Company or at all.
+ 
+EMPLOYEES
+ 
+     As of May 31, 1997, Network Appliance had a total of approximately 265
+employees. Of the total, 122 were in sales and marketing, 18 in customer
+support, 61 in research and development, 28 in finance and administration and 36
+in operations. The Company's future performance also depends in significant part
+upon the continued service of its key technical and senior management personnel,
+none of whom is bound by an employment agreement. The loss of the services of
+one or more of the Company's officers or other key employees could have a
+material adverse effect on the Company's business, operating results and
+financial condition. The Company's future success also depends on its continuing
+ability to attract and retain highly qualified technical and management
+personnel. Competition for such personnel is intense, and there can be no
+assurance that the Company can retain its key technical and management employees
+or that it can attract, assimilate or retain other highly qualified technical
+and management personnel in the future. The Company has not experienced any work
+stoppages and considers its relations with its employees to be good.
+ 
+OTHER FACTORS AFFECTING THE COMPANY
+ 
+     History of Operating Losses; Potential Fluctuations in Quarterly
+Results -- The Company was organized in April 1992 and first shipped products in
+June 1993. The Company had an accumulated deficit of $624,000 as of April 25,
+1997. While the Company generated net income in fiscal 1997 and in fiscal 1996,
+it incurred significant losses in fiscal 1995 and in each of its prior fiscal
+years. There can be no assurance that the Company will remain profitable on a
+quarterly or annual basis.
+ 
+     The Company's quarterly operating results have in the past varied and may
+in the future vary significantly depending on a number of factors, including the
+level of competition; the size and timing of significant orders; product
+configuration and mix; market acceptance of new products and product
+enhancements; new product announcements or introductions by the Company or its
+competitors; deferrals of customer orders in anticipation of new products or
+product enhancements; changes in pricing by the Company or its competitors; the
+ability of the Company to develop, introduce and market new products and product
+enhancements on a timely basis; hardware component costs; supply constraints;
+the Company's success in expanding its sales and marketing programs;
+technological changes in the network file server market; the mix of sales among
+the Company's sales channels; levels of expenditure on research and development;
+changes in Company strategy; personnel changes; general economic trends and
+other factors. Although the Company has not experienced seasonality in the past,
+because of the significant seasonal effects experienced within the industry and
+the Company's goal to expand international sales, there can be no assurance that
+the Company's future operating results will not be adversely affected by
+seasonality.
+ 
+     Sales for any future quarter are not predictable with any significant
+degree of certainty. The Company generally operates with limited order backlog
+because its products typically are shipped shortly after orders are received. As
+a result, product sales in any quarter are generally dependent on orders booked
+and shipped in that quarter. Product sales are also difficult to forecast
+because the network file server market is rapidly evolving and the Company's
+sales cycle varies substantially from customer to customer. A significant
+portion of the Company's revenues in any quarter may be derived from sales to a
+limited number of customers. Any significant deferral of these sales could have
+a material adverse effect on the Company's results of operations
+ 
+
+ 
+in any particular quarter; and to the extent that significant sales occur
+earlier than expected, operating results for subsequent quarters may be
+adversely affected. The Company's expense levels are based, in part, on its
+expectations as to future sales. As a result, if sales levels are below
+expectations, net income may be disproportionately affected. Although the
+Company has experienced significant revenue growth in recent periods, the
+Company does not believe such growth is indicative of future operating results.
+The Company believes that period-to-period comparisons of its results of
+operations are not necessarily meaningful and should not be relied upon as an
+indicator of future performance. Due to all of the foregoing factors, it is
+possible that in some future quarter the Company's operating results may be
+below the expectations of public market analysts and investors. In such event,
+the price of the Company's common stock would likely be materially adversely
+affected.
+ 
+     Dependence on Growth in the Network File Server Market -- All of the
+Company's filer products address the network file server market. The Company's
+future financial performance will depend in large part on continued growth in
+the network file server market and on emerging standards in this market. There
+can be no assurance that the market for network file servers will continue to
+grow or that emerging standards in the network file server market, such as
+Windows NT, will not adversely affect the growth of the NFS server market on
+which the Company has focused to date. If the network file server market fails
+to grow, grows more slowly than anticipated, or if network file servers based on
+emerging standards other than those adopted by the Company become increasingly
+accepted by the market, the Company's business, operating results and financial
+condition would be materially adversely affected. During recent years, segments
+of the computer industry have experienced significant economic downturns
+characterized by decreased product demand, production overcapacity, price
+erosion, work slowdowns and layoffs. The Company's operations may in the future
+experience substantial fluctuations from period-to-period as a consequence of
+such industry patterns, general economic conditions affecting the timing of
+orders from major customers and other factors affecting capital spending. There
+can be no assurance that such factors will not have a material adverse effect on
+the Company's business, operating results and financial condition.
+ 
+     Expansion of International Operations -- The Company believes that its
+continued growth and profitability will require successful expansion of its
+international operations and sales and therefore the Company has committed
+significant resources to such expansion. Sales by the Company's foreign
+subsidiaries represented approximately 11% of the Company's net sales in fiscal
+1997 and less than 10% of net sales in fiscal 1996 and 1995. In order to
+successfully expand international sales in fiscal 1998 and subsequent periods,
+the Company must establish foreign operations, hire additional personnel and
+recruit additional international distributors and resellers. This will require
+significant management attention and financial resources and could materially
+adversely affect the Company's business, operating results and financial
+condition. To the extent that the Company is unable to effect these additions in
+a timely manner, the Company's growth, if any, in international sales will be
+limited, and the Company's business, operating results and financial condition
+could be materially adversely affected. In addition, there can be no assurance
+that the Company will be able to maintain or increase international market
+demand for the Company's products. The Company currently sells a significant
+portion of its products internationally through resellers, most significantly,
+ITOCHU. There can be no assurance that ITOCHU or any of the Company's
+international resellers or customers will continue to distribute or purchase the
+Company's products.
+ 
+     The Company's international sales are denominated in U.S. dollars and in
+foreign currencies. An increase in the value of the U.S. dollar relative to
+foreign currencies could make the Company's products more expensive and,
+therefore, potentially less competitive in those markets. For international
+sales denominated in foreign currencies, the Company is subject to risks
+associated with currency fluctuations. Additional risks inherent in the
+Company's international business activities generally include unexpected changes
+in regulatory requirements, tariffs and other trade barriers, if any, in foreign
+countries, longer accounts receivable payment cycles, difficulties in managing
+international operations, potentially adverse tax consequences including
+restrictions on the repatriation of earnings, and the burdens of complying with
+a wide variety of foreign laws. There can be no assurance that such factors will
+not have a material adverse effect on the Company's future international sales
+and, consequently, the Company's business, operating results and financial
+condition.
+ 
+
+ 
+     Product Concentration; Changing Product Mix -- The Company derives
+substantially all of its revenues from the sale of its network filer product
+line. As a result, a reduction in the demand for filer products due to increased
+competition, a general decline in the market for network file servers or other
+factors would have a material adverse effect on the Company's business,
+operating results and financial condition. Prior to fiscal 1996, the Company
+derived substantially all of its revenue from the sale of its FAServer 450 and
+1400 products. The mix of products sold by the Company has changed substantially
+with the introduction of the NetApp F220, NetApp F330 and NetApp F540. In May
+1997, the Company transformed its product line by introducing four new products:
+the NetApp F210, NetApp F230, NetApp F520 and NetApp F630. Additional product
+introductions in future years are expected to impact the sales of existing
+products. If the Company is unable to introduce new products in a timely manner,
+effectively manage the introduction of new products and any related inventory
+transitions or if such products do not achieve market acceptance, the Company's
+business, operating results and financial condition could be materially
+adversely affected.
+ 
+     Concentration of Sales -- Historically, a significant portion of the
+Company's sales have been made to a limited number of end user customers and
+resellers. In fiscal 1997 and 1996, no customers accounted for 10% or more of
+net sales. In fiscal 1995, sales to resellers ITOCHU Corporation ("ITOCHU") and
+MTI Technology Corporation ("MTI") each accounted for approximately 10% of net
+sales. The Company's relationship with MTI terminated in the second quarter of
+fiscal 1996. The Company generally has not entered into long term volume
+purchase contracts with its end user customers or resellers, and such end user
+customers or resellers may have certain rights to extend or delay the shipment
+of their orders. The loss of a major end user customer or reseller, the
+reduction, delay or cancellation of orders or a delay in shipment of the
+Company's products to such end user customer or reseller could materially
+adversely affect the Company's business, operating results and financial
+condition. In addition, should one or more of these resellers choose to promote
+products competitive with the Company's products, the Company's business,
+operating results and financial condition could be materially adversely
+affected.
+ 
+     Recent Management Additions and Management of Expanding
+Operations -- Certain of the Company's senior management joined the Company
+during the last year. The Company's Chief Financial Officer/Vice President of
+Operations joined in December 1996 and its Vice President of Marketing joined in
+May 1996. The Company is in the process of implementing a number of new
+financial and management controls, reporting systems and procedures. In addition
+to its senior management, the Company has recently hired a significant number of
+employees, including sales staff, and plans to further increase its total
+employee base. The Company also plans to expand the geographic scope of its
+customer base and operations. This expansion has resulted and will continue to
+result in substantial demands on the Company's management systems and resources.
+The Company's ability to compete effectively and to manage future expansion of
+its operations, if any, will require the Company to continue to improve its
+financial and management controls, reporting systems and procedures on a timely
+basis and effectively expand, train and manage its work force. If the Company's
+efforts are not successful, the Company's business, operating results and
+financial condition could be materially adversely affected.
+ 
+     Possible Volatility of Stock Price -- The trading price of the Company's
+common stock could be subject to wide fluctuations in response to a number of
+factors, including quarterly variations in operating results, announcements of
+technological innovations or new products, applications or product enhancements
+by the Company or its competitors, changes in financial estimates by securities
+analysts and other events. In addition, the stock market has experienced
+volatility that has particularly affected the market prices of equity securities
+of many high technology companies and that often has been unrelated or
+disproportionate to the operating performance of such companies. These broad
+market fluctuations may adversely affect the market price of the Company's
+common stock.
+ 
+     Effect of Certain Charter Provisions; Anti-takeover Effects of Provisions
+of the Bylaws -- The Company's Board of Directors has the authority to issue up
+to 5,000,000 shares of Preferred Stock and to determine the price, rights,
+preferences, privileges and restrictions, including voting rights, of those
+shares without any further vote or action by the shareholders. The rights of the
+holders of common stock will be subject to, and may be adversely affected by,
+the rights of the holders of any Preferred Stock that may be issued in the
+future. The issuance of Preferred Stock could have the effect of making it more
+difficult for a third party to acquire a
+ 
+
+ 
+majority of the outstanding voting stock of the Company. Further, certain
+provisions of the Company's Bylaws pertaining to the future elimination of
+cumulative voting and shareholder action by written consent, and the requirement
+that shareholders may call a special meeting of shareholders only upon a request
+of shareholders owning at least 50% of the Company's common stock, could delay
+or make more difficult a proxy contest involving the Company, which could
+adversely affect the market price of the Company's common stock.
+ 
+ITEM 2. PROPERTIES
+ 
+     Network Appliance's principal administrative, sales, marketing,
+manufacturing and research and development facility is located in approximately
+95,000 square feet of space in Santa Clara, California. This facility is leased
+through May 2000. The Company leases other sales offices throughout the U.S. and
+in Europe. The Company believes that the existing facilities are adequate for
+its current needs and that additional space will be available as needed.
+ 
+ITEM 3. LEGAL PROCEEDINGS
+ 
+     None.
+ 
+ITEM 4. SUBMISSIONS OF MATTERS TO A VOTE OF SECURITY-HOLDERS
+ 
+     No matters were submitted to a vote of security holders during the fourth
+quarter of the fiscal year covered by this Annual Report on Form 10-K.
+ 
+                               EXECUTIVE OFFICERS
+ 
+     The executive officers of the Company, and their ages as of May 31, 1997,
+are as follows:
+ 
+
+ 
+     DANIEL J. WARMENHOVEN joined the Company in October 1994 as President and
+Chief Executive Officer, and has been a member of the Board of Directors since
+October 1994. Prior to joining the Company, Mr. Warmenhoven served in various
+capacities, including President, Chief Executive Officer and Chairman of the
+Board of Directors of Network Equipment Technologies, Inc., a telecommunications
+company, from November 1989 to January 1994. Mr. Warmenhoven holds a B.S. degree
+in electrical engineering from Princeton University.
+ 
+     M. HELEN BRADLEY joined the Company as Vice President, Engineering in
+September 1995. Prior to that, Ms. Bradley owned a management consulting
+business from January 1995 to September 1995. She also served as Senior Vice
+President, Technology Development at Openvision, a client-server applications
+company, from May 1994 to January 1995. From August 1990 to April 1994, Ms.
+Bradley was the Vice President, Systems Software at Sun Microsystems. Ms.
+Bradley holds a B.S. degree in mathematics from the Massachusetts Institute of
+Technology and an M.S. degree in computer science from the Georgia Institute of
+Technology.
+ 
+     JEFFRY R. ALLEN joined the Company in December 1996 as Vice President,
+Finance and Operations, Chief Financial Officer and Secretary. From October 1994
+to December 1996, Mr. Allen served in various capacities, including Senior Vice
+President of Operations and Vice President and Controller of Bay Networks, Inc.,
+a networking company. From December 1990 to October 1994, Mr. Allen held various
+positions at SynOptics, the latest of which was Vice President and Controller.
+Before joining SynOptics, he held various positions, from December 1973 to
+November 1990, at Hewlett-Packard Company, the latest of which was Controller of
+the Information Networks Group. Mr. Allen holds a B.S. degree from San Diego
+State University.
+ 
+
+ 
+     THOMAS F. MENDOZA joined the Company in May 1994 as Vice President, North
+American Sales. From November 1993 to April 1994, Mr. Mendoza served in various
+capacities including Vice President, Sales at Work Group Technology, a product
+data management company. Prior to that, Mr. Mendoza served in various capacities
+including Vice President of North American Sales at Auspex, a UNIX-based network
+file server company, from November 1990 to October 1993. Mr. Mendoza was
+previously Vice President of Western Operations at Stratus Computer, a vendor of
+fault tolerant computers, from May 1982 to October 1990. Mr. Mendoza holds a
+B.A. degree from the University of Notre Dame.
+ 
+     CHARLES E. SIMMONS joined the Company in May 1996 as Vice President,
+Marketing. Prior to that, Mr. Simmons was a senior partner at Rohner &
+Associates, a consulting firm, from January 1995 to May 1996. From February 1994
+to October 1994, Mr. Simmons served as Vice President of Marketing at Voyant
+Corporation, a developer of videoconferencing equipment. Prior to that, Mr.
+Simmons was with Sun Microsystems Computer Company, a subsidiary of Sun
+Microsystems, Inc., from November 1984 to February 1994, most recently as
+Director of Business Strategy and Technology Marketing. Mr. Simmons received a
+B.S. degree in electrical engineering from Washington University, an M.S. degree
+in electrical engineering from the Massachusetts Institute of Technology and an
+MBA from Santa Clara University.
+ 
+                                    PART II
+ 
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED SHAREHOLDER MATTERS
+ 
+     The Company's common stock commenced trading on the Nasdaq National Market
+on November 21, 1995 and is traded under the symbol "NTAP." As of May 31, 1997
+there were approximately 380 holders of record of the common stock. The
+following table sets forth for the periods indicated the high and low closing
+sale prices for the common stock as reported on the Nasdaq National Market.
+ 
+
+ 
+     The Company has never paid cash dividends on its capital stock. The Company
+currently anticipates that it will retain all available funds for use in its
+business and does not anticipate paying any cash dividends.
+ 
+ITEM 6. SELECTED CONSOLIDATED FINANCIAL DATA
+ 
+  FIVE FISCAL YEARS ENDED APRIL 30, 1997
+  (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+ 
+
+ 
+- ---------------
+ 
+(1) Fiscal 1997 includes the purchased in-process technology and compensation
+    charge related to the IMC acquisition of $10,519 and the Whipsaw litigation
+    of $4,300. See Notes 6 and 11 of Notes to Consolidated Financial Statements.
+ 
+(2) Fiscal 1997 includes the purchased in-process technology and compensation
+    charge related to the IMC acquisition of $9,215 (net of taxes) and the
+    Whipsaw litigation of $2,795 (net of taxes).
+ 
+
+ 
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+ 
+OVERVIEW
+ 
+     Network Appliance, Inc. was incorporated in April 1992 to design,
+manufacture, market and support network data storage appliances ("filers"). The
+Company's filer products combine specialized proprietary software and
+state-of-the-art industry standard hardware to provide a unique solution for the
+NFS, CIFS and HTTP server markets.
+ 
+     In September 1995, the Company introduced the NetApp F330, a rack-mounted,
+Pentium and PCI bus-based filer. In January 1996, the Company introduced the
+NetApp F220, a rack-mounted, Pentium and PCI bus-based filer designed for
+workgroup and LAN environments. In May 1996, the Company introduced the NetApp
+F540, an enterprise-class file server appliance. In October 1996, the Company
+first shipped systems and software with multiprotocol capabilities.
+ 
+     In March 1997, the Company acquired IMC, a developer of Internet/intranet
+proxy-caching software. The acquisition was accounted for as a purchase and,
+accordingly, the results of operations of IMC from the date of acquisition
+forward have been included in the Company's consolidated financial statements. A
+substantial portion of the purchase price was charged to expense as purchased
+in-process technology. IMC net sales and expenses subsequent to the acquisition
+were not significant. The Company intends to continue product development and to
+incorporate IMC software into the Company's future product line. See Note 6 of
+Notes to Consolidated Financial Statements.
+ 
+     In May 1997, the Company announced a new product expansion. Included within
+the new products is the NetApp F630, a high-capacity enterprise class server,
+and the NetApp F210, an entry-level filer for small workgroups.
+ 
+RESULTS OF OPERATIONS
+ 
+     The following table sets forth certain consolidated statement of operations
+data as a percentage of net sales for the periods indicated:
+ 
+
+ 
+FISCAL 1997 COMPARED TO FISCAL 1996
+ 
+     Net Sales -- Net sales increased by 100% from $46.6 million in fiscal 1996
+to $93.3 million in fiscal 1997. This increase was attributable to an increased
+shipping volume of filers and related peripheral devices and
+ 
+
+ 
+higher average selling prices of filers. The increase in filer shipments
+resulted primarily from the Company's expansion of its domestic and
+international direct sales force, growth of the Company's domestic and
+international indirect sales channel, increased market acceptance of the
+Company's products and the introduction of the NetApp F540. The higher average
+selling prices resulted primarily from the introduction of the enterprise-class
+NetApp F540 and the shipment of a greater number of units directly to end users,
+who generally purchase more highly configured systems at higher average selling
+prices than resellers. Net sales also increased as a result of the introduction
+of multiprotocol systems and the licensing of multiprotocol software to
+pre-existing customers. See revenue recognition policy within Note 2 of Notes to
+Consolidated Financial Statements.
+ 
+     There can be no assurance that the Company's net sales will continue to
+increase in absolute dollars or at the rate at which they have grown in recent
+fiscal years.
+ 
+     Gross Margin -- Gross margin increased from 55.9% in fiscal 1996 to 59.2%
+in fiscal 1997. This increase in gross margin was primarily attributable to the
+increase in product volume in fiscal 1997, lower costs of key components and
+increased manufacturing efficiencies. Gross margin also increased over the prior
+fiscal year as a result of licensing multiprotocol software and increases in
+software subscription revenue due to a larger installed base. These factors
+offset the effect of increased sales of highly configured systems during fiscal
+1997, which generally generate lower gross margins per system due to higher disk
+drive content.
+ 
+     The Company's gross margin has been and will continue to be affected by a
+variety of factors, including competition, product configuration, direct versus
+indirect sales, the mix and average selling prices of products, new product
+introductions and enhancements, and the cost of components and manufacturing
+labor. In particular, the Company's gross margin varies based upon the
+configuration of systems that are sold and whether they are sold directly or
+through indirect channels. Highly configured systems typically generate lower
+overall gross margin percentages due to greater disk drive and memory content.
+ 
+     Sales and Marketing -- Sales and marketing expenses consist primarily of
+salaries, commissions, advertising and promotional expenses and customer service
+and support costs. Sales and marketing expenses increased 90.6% from $12.7
+million in fiscal 1996 to $24.3 million in fiscal 1997. These expenses were
+26.0% and 27.3% of net sales in fiscal 1997 and 1996, respectively. The increase
+in absolute dollars was primarily related to the expansion of the Company's
+sales and marketing organization, particularly the increase in the direct sales
+force, and increased commission expenses related to higher sales volumes. The
+Company expects to continue to increase its sales and marketing expenses in an
+effort to expand domestic and international markets. The Company believes that
+its continued growth and profitability is dependent in part on the successful
+expansion of its international operations, and therefore, has committed
+significant resources to international sales.
+ 
+     Research and Development -- Research and development expenses consist
+primarily of salaries and benefits, prototype expenses, and fees paid to outside
+consultants. Research and development expenses increased 88.3% from $4.8 million
+in fiscal 1996 to $9.0 million in fiscal 1997. These expenses represented 9.6%
+and 10.2% of net sales in fiscal 1997 and 1996, respectively, and increased in
+absolute dollars primarily as a result of increased headcount, prototyping
+expenses associated with the development of new products and the support of the
+current and future product development and enhancement efforts. Software
+development costs capitalized in fiscal 1997 were not significant. In fiscal
+1996, no software development costs were capitalized as amounts that qualified
+for capitalization were immaterial. The Company believes that significant
+investments in research and development will be required to remain competitive
+and expects that such expenditures will continue to increase in absolute
+dollars.
+ 
+     General and Administrative -- General and administrative expenses were $4.1
+million in fiscal 1997, compared to $2.6 million in fiscal 1996, an increase of
+60.4%. These expenses represented 4.4% and 5.5%, respectively, of net sales for
+such periods. In fiscal 1997, the Company continued its investments in
+additional staffing, facilities expansion and related occupancy costs necessary
+to manage and support the Company's growth. Professional fees also increased
+from fiscal 1996 to fiscal 1997. The growth in professional fees was primarily
+related to increases in general legal fees, investor relation activities and
+accounting related services.
+ 
+
+ 
+     The Company believes that its general and administrative expenses will
+increase in absolute dollars as the Company continues to build its
+infrastructure to support future growth.
+ 
+     The level of the Company's operating expenses are partially based on its
+expectations of future revenue. Since expense levels are usually committed in
+advance of revenues and because only a small portion of expenses vary with
+revenue, the Company's operating results may be materially adversely affected if
+revenue does not materialize in a period as expected.
+ 
+     Purchased In-Process Technology and Related Compensation Charge -- On March
+17, 1997, the Company acquired all outstanding shares and options to purchase
+shares of IMC common stock by issuing 187,023 shares of the Company's common
+stock and options to purchase shares of the Company's common stock. In
+connection with the acquisition, intangible assets of $8.4 million were
+acquired, of which $7.4 million was reflected as a one-time charge to operations
+for the write-off of in-process research and development that had not reached
+technological feasibility and, in management's opinion, had no probable
+alternative future use. The remaining intangible assets of $1.0 million,
+consisting of existing technology and goodwill, are included in other assets in
+the accompanying consolidated balance sheets and are being amortized over their
+estimated useful lives of five years.
+ 
+     Certain key employees of IMC who continued as employees of the Company were
+also granted vested options to purchase shares of the Company's common stock at
+a discount to the market price of the Company's common stock immediately
+preceding the acquisition. In connection with the granting of these options, the
+Company recorded a compensation charge of $3.2 million in the fourth quarter of
+fiscal 1997.
+ 
+     The acquisition was accounted for as a purchase and, accordingly, the
+results of operations of IMC from the date of acquisition forward have been
+included in the Company's consolidated financial statements. IMC results of
+operations included in the Company's consolidated financial statements for
+fiscal 1997 were not significant. See Note 6 of Notes to Consolidated Financial
+Statements for pro forma financial information.
+ 
+     Litigation Settlement -- In July 1994, the Company and certain of its
+former employees were named as defendants in a lawsuit which alleged that one of
+the Company's founders, who left the Company in March 1995, misappropriated
+confidential information prior to the Company's founding in April 1992. In
+August 1996, the Company entered into a settlement with the plaintiff which
+resulted in a charge to earnings of $4.3 million in the first quarter of fiscal
+1997, which included a $3.5 million payment to the plaintiffs and $0.8 million
+of legal fees. As the payment released the Company from all liabilities
+associated with the case, the Company has no future obligations to the
+plaintiffs. The Company denies any wrongdoing on its part or on the part of the
+founder.
+ 
+     Other Income, net -- Other income, net, was $1.0 million and $0.6 million
+in fiscal 1997 and 1996, respectively. In both of these periods, other income,
+net, represented less than 2% of net sales. Other income, net, increased in
+fiscal 1997 due primarily to interest income earned over four quarters of fiscal
+1997 on the net proceeds of $25.7 million from the Company's November 1995
+initial public offering ("IPO") compared to interest earnings on IPO proceeds
+over two quarters for fiscal 1996.
+ 
+     Provision for Income Taxes -- The fiscal 1997 income tax provision was $3.8
+million (effective rate of 93.8%). The fiscal 1997 tax rate was primarily
+affected by the one-time charge to operations of $7.4 million for the write-off
+of purchased in-process research and development related to the IMC acquisition
+which is not deductible for income tax purposes. Excluding the net effect of the
+IMC acquisition, the effective tax rate would have been 35%. As of April 30,
+1997, a valuation allowance was deemed unnecessary as Company management
+determined that it is more likely than not that the net deferred tax asset is
+realizable.
+ 
+     In fiscal 1996, the Company's federal and state income tax liabilities were
+offset by the realization of a portion of its net deferred tax assets. The
+Company recognized a benefit for its net deferred tax assets to the extent that
+they were recoverable through tax refunds in the event of future net operating
+losses. The Company recorded a valuation allowance for the balance of its net
+deferred tax assets as a result of uncertainty regarding realization of the
+assets, including the limited operating history of the Company.
+ 
+
+ 
+     The Company expects that its effective tax rate will be slightly higher in
+fiscal 1998 than the 35% rate in fiscal 1997, excluding the net effect of the
+IMC acquisition, as fiscal 1997 included a benefit for the reversal of a
+valuation allowance previously provided against deferred tax assets which will
+not occur in fiscal 1998.
+ 
+FISCAL 1996 COMPARED TO FISCAL 1995
+ 
+     Net Sales -- Net sales increased by 215% from $14.8 million in fiscal 1995
+to $46.6 million in fiscal 1996. In fiscal 1995, the Company sold its products
+primarily through indirect channels. The increase in net sales in fiscal 1996
+resulted primarily from the Company's expansion of its domestic direct sales
+force, increased market acceptance of the Company's products, and the
+introduction of two new system products, the NetApp F330 and F220. The Company
+also shipped a greater number of units directly to end users in fiscal 1996,
+which generally purchase more highly configured systems at higher average
+selling prices than resellers.
+ 
+     Gross Margin -- Gross margin increased from 46.2% in fiscal 1995 to 55.9%
+in fiscal 1996. This increase in gross margin was primarily attributable to more
+efficient absorption of manufacturing overhead, lower costs of key components
+and manufacturing efficiencies achieved during fiscal 1996, all of which were
+related to the significant increase in production volume. These factors offset
+the effect of increased sales of highly configured systems during fiscal 1996
+which generally generate lower gross margins per system.
+ 
+     Sales and Marketing -- Sales and marketing expenses increased 102.3% from
+$6.3 million in fiscal 1995 to $12.7 million in fiscal 1996. These expenses were
+27.3% and 42.5% of net sales in fiscal 1996 and 1995, respectively. The increase
+in absolute dollars was primarily related to the expansion of the Company's
+sales and marketing organization, particularly the increase in the direct sales
+force, and increased commission expenses related to higher sales volumes.
+ 
+     Research and Development -- Research and development expenses increased
+82.6% from $2.6 million in fiscal 1995 to $4.8 million in fiscal 1996. These
+expenses represented 10.2% and 17.6% of net sales in fiscal 1996 and 1995,
+respectively. These expenses increased in absolute dollars primarily as a result
+of increased headcount, prototyping expenses associated with the development of
+new products and the support of the current and future product development and
+enhancement efforts.
+ 
+     General and Administrative -- General and administrative expenses were $2.6
+million in fiscal 1996, compared to $2.9 million in fiscal 1995. These expenses
+represented 5.5% and 19.3%, respectively, of net sales for such periods. The
+higher level of general and administrative expenses during fiscal 1995 related
+primarily to certain litigation expenses, severance costs and increases in the
+provision for bad debts. In fiscal 1996, the Company continued its investments
+in additional staffing, facilities expansion and related occupancy costs and
+information system investments necessary to manage and support the Company's
+growth.
+ 
+     Other Income, net -- Other income, net, was $0.6 million and $0.1 million
+in fiscal 1996 and 1995, respectively. In both of these periods, other income,
+net, represented less than 2% of net sales. Other income, net, increased in
+fiscal 1996 due primarily to interest income earned on the net proceeds of $25.7
+million from the Company's initial public offering that was completed in
+November 1995.
+ 
+     Provision for Income Taxes -- The Company did not incur state or federal
+income taxes in fiscal 1995 due to operating losses incurred during those
+periods. In fiscal 1996, the Company's federal and state income tax liabilities
+were offset by the realization of a portion of its net deferred tax assets. The
+Company recognized a benefit for its net deferred tax assets to the extent that
+they are recoverable through tax refunds in the event of future net operating
+losses. The Company recorded a valuation allowance for the balance of its net
+deferred tax assets as a result of significant uncertainties regarding the
+realization of the assets, including the limited operating history of the
+Company, a recent history of losses and the variability of operating results.
+ 
+LIQUIDITY AND CAPITAL RESOURCES
+ 
+     As of April 25, 1997, the Company's liquidity primarily consisted of cash
+and cash equivalents of $21.5 million and short-term investments of $6.9
+million. The Company generated cash from operating activities totaling $6.3
+million and $3.5 million in fiscal 1997 and fiscal 1996, respectively. Net cash
+provided by operating activities in fiscal 1997 principally related to purchased
+in-process technology and related
+ 
+
+ 
+compensation expense (a non-cash expense of $10.5 million), and to increases in
+accounts payable, accrued compensation and related benefits and income taxes
+payable, offset by increases in accounts receivable and inventories.
+ 
+     The Company used $7.1 million and $4.3 million of cash during fiscal 1997
+and 1996, respectively, to purchase property and equipment. The increase in
+purchases of property and equipment over the prior year was primarily due to
+computer and equipment purchases to support increased headcount and to the
+Company's move to a new leased facility which required furniture purchases and
+leasehold improvements. In addition, the Company used $3.9 million and $3.0
+million in fiscal 1997 and 1996, respectively, for net short-term investment
+purchases. Financing activities provided $1.7 million and $26.6 million during
+fiscal 1997 and 1996, respectively, due primarily to the exercise of stock
+options in fiscal 1997 and 1996 and to proceeds from the Company's IPO in fiscal
+1996.
+ 
+     The Company currently has no significant capital commitments other than
+commitments under operating and capital leases. The Company believes that its
+existing liquidity and capital resources are sufficient to fund its operations
+for at least the next twelve months.
+ 
+RECENTLY ISSUED ACCOUNTING STANDARD
+ 
+     In February 1997, the Financial Accounting Standards Board issued Statement
+of Financial Accounting Standards No. 128, "Earnings per Share" ("SFAS 128").
+The Company is required to adopt SFAS 128 in the third quarter of fiscal 1998
+and will restate at that time earnings per share ("EPS") data for prior periods
+to conform with SFAS 128. Earlier application is not permitted.
+ 
+     SFAS 128 replaces current EPS reporting requirements and requires a dual
+presentation of basic and diluted EPS. Basic EPS excludes dilution and is
+computed by dividing net income by the weighted average of common shares
+outstanding for the period. Diluted EPS reflects the potential dilution that
+could occur if securities or other contracts to issue common stock were
+exercised or converted into common stock. If SFAS 128 had been in effect for
+fiscal 1997, basic and diluted EPS would not have been significantly different
+than EPS currently reported in fiscal 1997.
+ 
+
+ 
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+ 
+                          INDEPENDENT AUDITORS' REPORT
+ 
+To the Shareholders of
+Network Appliance, Inc.:
+ 
+     We have audited the accompanying consolidated balance sheets of Network
+Appliance, Inc. and its subsidiaries as of April 30, 1997 and 1996, and the
+related consolidated statements of operations, shareholders' equity (deficit)
+and cash flows for each of the three years in the period ended April 30, 1997.
+Our audit also included the consolidated financial statement schedule listed in
+Item 14(a)(2). These financial statements and financial statement schedule are
+the responsibility of the Company's management. Our responsibility is to express
+an opinion on these financial statements based on our audits.
+ 
+     We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+ 
+     In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of Network
+Appliance, Inc. and its subsidiaries as of April 30, 1997 and 1996, and the
+results of their operations and their cash flows for each of the three years in
+the period ended April 30, 1997 in conformity with generally accepted accounting
+principles. Also, in our opinion, such consolidated financial statement
+schedule, when considered in relation to the basic financial statements taken as
+a whole, presents fairly in all material respects the information set forth
+therein.
+ 
+/s/ DELOITTE & TOUCHE LLP
+ 
+San Jose, California
+May 5, 1997
+ 
+
+ 
+                            NETWORK APPLIANCE, INC.
+ 
+                          CONSOLIDATED BALANCE SHEETS
+                      (IN THOUSANDS, EXCEPT SHARE AMOUNTS)
+ 
+
+ 
+                See notes to consolidated financial statements.
+ 
+
+ 
+                            NETWORK APPLIANCE, INC.
+ 
+                     CONSOLIDATED STATEMENTS OF OPERATIONS
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+ 
+
+ 
+                See notes to consolidated financial statements.
+ 
+
+ 
+                            NETWORK APPLIANCE, INC.
+ 
+           CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY (DEFICIT)
+                      (IN THOUSANDS, EXCEPT SHARE AMOUNTS)
+ 
+
+ 
+                See notes to consolidated financial statements.
+ 
+
+ 
+                            NETWORK APPLIANCE, INC.
+ 
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (IN THOUSANDS)
+ 
+
+ 
+                See notes to consolidated financial statements.
+ 
+
+ 
+                            NETWORK APPLIANCE, INC.
+ 
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+             (DOLLAR VALUES IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+ 
+ 1. THE COMPANY
+ 
+     Network Appliance, Inc., incorporated in the state of California in April
+1992, and its subsidiaries (the "Company") operates in a single industry segment
+and is involved in the design, manufacturing, marketing and support of network
+data storage appliances.
+ 
+ 2. SIGNIFICANT ACCOUNTING POLICIES
+ 
+     Basis of Presentation -- The consolidated financial statements include the
+Company and its wholly-owned subsidiaries. Intercompany accounts and
+transactions are eliminated in consolidation. Beginning in fiscal 1996, the
+Company's fiscal year ended on the Friday nearest to April 30. For fiscal 1997
+and for fiscal 1996, the Company's fiscal years ended on April 25 and April 26,
+respectively. For presentation purposes, the Company reflects April 30 as the
+fiscal year end for all periods presented in the accompanying consolidated
+financial statements.
+ 
+     Cash and Cash Equivalents -- The Company considers all highly liquid debt
+investments with original maturities of three months or less to be cash
+equivalents.
+ 
+     Short-term Investments -- The Company's short-term investments consist of
+securities with original maturities ranging between three and six months. All of
+the Company's investments are classified as available-for-sale, and are stated
+at amortized cost, which approximates fair market value. Short-term investments
+consisted of $6,916 of municipal securities at April 30, 1997, and $1,982 of
+corporate debt securities and $1,000 of certificates of deposit at April 30,
+1996. No short-term investments were sold during fiscal 1997.
+ 
+     Inventories -- Inventories are stated at the lower of cost (first-in,
+first-out basis) or market.
+ 
+     Property and Equipment -- Property and equipment is stated at cost and is
+depreciated on a straight-line basis over estimated useful lives which range
+from three to five years. Equipment under capital lease is stated at the present
+value of the minimum lease payments at the inception of the lease. Such
+equipment and leasehold improvements are amortized over their estimated useful
+lives or the life of the lease, whichever is shorter.
+ 
+     Revenue Recognition -- The Company recognizes revenue and records estimated
+product return and warranty reserves upon shipment if no material obligations
+remain outstanding and the collectibility of receivables is deemed to be
+probable. Service revenues are recognized over the term of the related
+contractual period. Software subscription revenues are recognized over the term
+of the related contractual period. Combined service and software subscription
+revenues were less than 10% of net sales for all of the periods presented.
+ 
+     Software Development Costs -- The Company capitalizes eligible computer
+software development costs, which include software enhancement costs, upon the
+establishment of technological feasibility, which occurs upon the completion of
+a working model. For fiscal 1997 software development costs capitalized were not
+significant. In fiscal 1996 and 1995, costs which were eligible for
+capitalization were insignificant, and thus, the Company charged all software
+development costs to research and development expense in the accompanying
+consolidated statements of operations.
+ 
+     Foreign Currency Translation -- The functional currency of the Company's
+foreign subsidiaries is the U.S. dollar. Accordingly, all monetary assets and
+liabilities are translated at the current exchange rate at the end of the year,
+nonmonetary assets and liabilities are translated at historical rates and net
+sales and expenses are translated at average exchange rates in effect during the
+period. Transaction gains and losses, which are included in other income
+(expense) in the accompanying consolidated statements of operations, have not
+been significant.
+ 
+
+ 
+                            NETWORK APPLIANCE, INC.
+ 
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+             (DOLLAR VALUES IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+ 
+     Certain Significant Risks and Uncertainties -- The preparation of financial
+statements in conformity with generally accepted accounting principles requires
+management to make estimates and assumptions that affect the reported amounts of
+assets and liabilities and disclosure of contingent assets and liabilities at
+the date of the financial statements and the reported amounts of revenues and
+expenses during the reporting period. Such management estimates include the
+allowance for doubtful accounts receivable, inventory reserves, various
+accruals, valuation allowances for deferred tax assets and warranty reserves.
+Actual results could differ from those estimates.
+ 
+     Financial instruments which potentially subject the Company to
+concentrations of credit risk consist primarily of cash equivalents, short-term
+investments and accounts receivable. Cash equivalents and short-term investments
+consist primarily of money market funds that are held with two financial
+institutions and municipal securities. The Company sells its products primarily
+to large organizations in different industries and geographies. Credit risk is
+further mitigated by the Company's credit evaluation process and limited payment
+terms. The Company does not require collateral or other security to support
+accounts receivable. While the Company maintains an allowance for potential
+credit losses, such losses have not been significant.
+ 
+     The Company is subject to certain risks, including without limitation risks
+relating to history of operating losses, fluctuating operating results, customer
+and market acceptance of new products, dependence on new products, rapid
+technological change, litigation, dependence on growth in the network file
+server market, expansion of international operations, product concentration,
+changing product mix, competition, recent management additions, management of
+expanding operations, dependence on high-quality components, dependence on
+proprietary technology, intellectual property rights, dependence on key
+personnel, volatility of stock price, shares eligible for future sale, effect of
+certain anti-takeover provisions and dilution.
+ 
+     Net Income (Loss) Per Share -- Net income (loss) per share is computed
+using the weighted average number of common and common equivalent shares
+outstanding during the period. Common equivalent shares include preferred stock
+(using the "if converted" method) and stock options and warrants (using the
+treasury stock method). Common equivalent shares are excluded from the
+computation if their effect is anti-dilutive except that, pursuant to the
+Securities and Exchange Commission's Staff Accounting Bulletins and staff
+policy, such computations include all common and common equivalent shares issued
+within the 12 months preceding the initial filing date of the Company's Form S-1
+Registration Statement (October 6, 1995) as if they were outstanding for all
+periods presented. In addition, all outstanding preferred stock that converted
+in connection with the initial public offering is included in the computation as
+common equivalent shares even when the effect is anti-dilutive.
+ 
+
+ 
+                            NETWORK APPLIANCE, INC.
+ 
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+             (DOLLAR VALUES IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+ 
+     Statements of Cash Flows -- Supplemental cash flow and noncash investing
+and financing activities are as follows:
+ 
+
+ 
+     Reclassification -- Certain amounts in prior years have been reclassified
+to conform with the fiscal 1997 presentation. These reclassifications did not
+change previously reported total assets, liabilities, shareholders' equity or
+net income (loss).
+ 
+     Stock-Based Compensation -- The Company accounts for stock-based awards to
+employees using the intrinsic value method in accordance with APB No. 25,
+"Accounting for Stock Issued to Employees."
+ 
+     Accounting for Long-Lived Assets -- Effective May 1, 1996, the Company
+adopted Financial Accounting Standards Board Statement No. 121 ("SFAS 121"),
+"Accounting for the Impairment of Long-Lived Assets and for Long-Lived Assets to
+be Disposed of," which requires the Company to review the impairment of long-
+lived assets, certain identifiable intangibles and goodwill related to those
+assets whenever events or changes in circumstances indicate that the carrying
+amount of an asset may not be recoverable. The adoption of SFAS 121 had no
+impact on the Company's financial condition or results of operations.
+ 
+     Recently Issued Accounting Standard -- In February 1997, the Financial
+Accounting Standards Board issued Statement of Financial Accounting Standards
+No. 128, "Earnings per Share" ("SFAS 128"). The Company is required to adopt
+SFAS 128 in the third quarter of fiscal 1998 and will restate at that time
+earnings per share ("EPS") data for prior periods to conform with SFAS 128.
+Earlier application is not permitted. SFAS 128 replaces current EPS reporting
+requirements and requires a dual presentation of basic and diluted EPS. Basic
+EPS excludes dilution and is computed by dividing net income by the weighted
+average of common shares outstanding for the period. Diluted EPS reflects the
+potential dilution that could occur if securities or other contracts to issue
+common stock were exercised or converted into common stock. If SFAS 128 had been
+in effect for fiscal 1997, basic and diluted EPS would not have been
+significantly different than EPS currently reported in fiscal 1997.
+ 
+
+ 
+                            NETWORK APPLIANCE, INC.
+ 
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+             (DOLLAR VALUES IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+ 
+ 3. INVENTORIES
+ 
+     Inventories consist of the following:
+ 
+
+ 
+ 4. PROPERTY AND EQUIPMENT
+ 
+     Property and equipment consists of the following:
+ 
+
+ 
+ 5. COMMITMENTS AND CAPITAL LEASE OBLIGATIONS
+ 
+     Certain equipment is leased under capital lease agreements. As of April 30,
+1997 the net book value of equipment under capital lease was $23 (net of
+accumulated amortization of $37).
+ 
+     The Company leases its main facility and various sales offices under
+operating leases that expire through fiscal 2001. The Company is responsible for
+certain maintenance costs, taxes and insurance under the leases. Future minimum
+annual lease payments as of April 30, 1997 are as follows:
+ 
+
+ 
+     Rent expense was approximately $1,195, $755, and $566 for the years ended
+April 30, 1997, 1996 and 1995, respectively. Rent expense under a Company
+facility lease is recognized on a straight-line basis over the term of the
+lease. The difference between the amounts paid and the amounts expensed is
+classified as deferred rent in the accompanying consolidated balance sheets.
+ 
+
+ 
+                            NETWORK APPLIANCE, INC.
+ 
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+             (DOLLAR VALUES IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+ 
+     The total of minimum rental payments to be received through 1999 under
+non-cancelable subleases is $2,016 as of April 30, 1997.
+ 
+ 6. ACQUISITION
+ 
+     On March 17, 1997, the Company acquired all outstanding shares and options
+to purchase shares of IMC common stock by issuing 187,023 shares of the
+Company's common stock and options to purchase shares of the Company's common
+stock. The purchase price related to the common stock and options to purchase
+shares of the Company's common stock was $7,350. IMC was founded in 1996 to
+develop and commercialize Internet/intranet proxy caching software.
+ 
+     Certain key employees of IMC who continued as employees of the Company were
+also granted vested options to purchase shares of the Company's common stock at
+a discount to the market price of the Company's common stock immediately
+preceding the acquisition. In connection with the granting of discounted options
+to purchase shares of the Company's common stock, the Company recorded a
+compensation expense of approximately $3,150 in the fourth quarter of fiscal
+1997. The Company also recorded a deferred income tax benefit of $1,304,
+primarily related to the compensation charge.
+ 
+     The acquisition was accounted for as a purchase and, accordingly, the
+results of operations of IMC from the date of acquisition forward have been
+included in the Company's consolidated financial statements. In connection with
+the acquisition, intangible assets of $8,362 were acquired, of which $7,369 was
+reflected as a one-time charge to operations for the write-off of purchased
+in-process research and development that had not reached technological
+feasibility and, in management's opinion, had no probable alternative future
+use. The $10,519 combined one-time charge for purchased in-process technology
+and compensation expense has been reflected in the Company's fiscal 1997
+consolidated statement of operations within operating expenses. The remaining
+intangible assets of $993, consisting of existing technology and goodwill, are
+included in other assets in the accompanying consolidated balance sheets and are
+being amortized over their estimated useful lives of five years.
+ 
+     In connection with the acquisition, net assets acquired are as follows:
+ 
+
+ 
+     The following unaudited pro forma information shows the results of
+operations for the two fiscal years ended April 30, 1997 as if the IMC
+acquisition had occurred at the beginning of each period presented and at the
+purchase price established in March 1997. The results are not necessarily
+indicative of what would have occurred had the acquisition actually been made at
+the beginning of each of the respective periods presented or of future
+operations of the combined companies. The pro forma results for fiscal 1997
+combine the Company's results of operations for the fiscal year ended April 30,
+1997 with the results of IMC for the period
+from inception (May 6, 1996) through the date of acquisition and include the
+$10,519 charge for purchased in-process technology and the related compensation
+charge, as well as the related tax benefits, and the straight-line amortization
+of intangible assets over a period of five years. The pro forma results for
+fiscal 1996
+ 
+
+ 
+                            NETWORK APPLIANCE, INC.
+ 
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+             (DOLLAR VALUES IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+ 
+reflect the Company's actual results of operations for that year less the
+amortization of intangible assets related to the acquisition:
+ 
+
+ 
+ 7. COMMON STOCK AND STOCK OPTION PLANS
+ 
+     Initial Public Offering -- In November 1995, the Company completed its
+initial public offering of 2,155,000 shares of its common stock. Net proceeds
+from the offering were approximately $25,714. In conjunction with the offering,
+all outstanding shares of preferred stock automatically converted into common
+stock. In addition, the Company issued 181,119 shares of common stock upon the
+exercise of Series A preferred warrants, and 178,571 shares of common stock upon
+the exercise of Series C preferred warrants. The Company received total proceeds
+of approximately $708 from the exercise of these warrants.
+ 
+     Stock Option Plans -- The Company adopted the 1993 Stock Option/Stock
+Issuance Plan (the "1993 Plan") in April 1993. In September 1995, the Company
+adopted the 1995 Stock Incentive Plan (the "1995 Plan"). The 1995 Plan replaced
+the 1993 Plan, and provides for the grant of options and the issuance of common
+stock under terms substantially the same as those provided under the 1993 Plan,
+except that the 1995 Plan does not allow for the exercise of options prior to
+vesting. Accordingly, all options and shares issued under the 1993 Plan were
+incorporated into the 1995 Plan upon the effectiveness of the Company's initial
+public offering.
+ 
+
+ 
+                            NETWORK APPLIANCE, INC.
+ 
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+             (DOLLAR VALUES IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+ 
+     Under the 1995 Plan, the Board of Directors may grant to employees,
+directors and consultants options to purchase shares of the Company's common
+stock. The exercise price for an incentive stock option and a nonqualified stock
+option cannot be less than 100% and 85%, respectively, of the fair market value
+of the Company's common stock as determined by the Board of Directors on the
+date of grant. Options granted under the 1995 Plan generally vest at a rate of
+25% on the first anniversary of the vesting commencement date and then ratably
+over the following 36 months. Options expire as determined by the Board of
+Directors, but not more than ten years after the date of grant. A summary of the
+combined activity under the Company's stock option plans and agreements is as
+follows:
+ 
+
+ 
+     Options for the purchase of approximately 497,709 shares of common stock
+were vested as of April 30, 1997. Unvested common shares issued under the 1993
+Plan of approximately 577,013 as of April 30, 1997 are subject to repurchase by
+the Company.
+ 
+     Additional information regarding options outstanding as of April 30, 1997
+is as follows:
+ 
+
+ 
+
+ 
+                            NETWORK APPLIANCE, INC.
+ 
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+             (DOLLAR VALUES IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+ 
+     Employee Stock Purchase Plan -- Under the Employee Stock Purchase Plan,
+employees are entitled to purchase shares of the Company's common stock at 85%
+of the fair market value at certain specified dates. Of the 350,000 shares
+authorized to be issued under this plan, 267,628 shares were available for
+issuance at April 30, 1997 and 82,372 shares were issued in fiscal 1997 at a
+weighted average price of $12.65.
+ 
+     Pro Forma Information -- As discussed in Note 2, the Company continues to
+account for its stock-based awards using the intrinsic value method in
+accordance with Accounting Principles Board No. 25, "Accounting for Stock Issued
+to Employees" and its related interpretations. Accordingly, no compensation
+expense has been recognized in the financial statements for employee stock
+arrangements with the exception of $85 and $132 in fiscal 1997 and 1996,
+respectively, which relates to amortization of deferred stock compensation
+initially recorded in May 1995.
+ 
+     Statement of Financial Accounting Standards No. 123, "Accounting for
+Stock-Based Compensation," ("SFAS 123") requires the disclosure of pro forma net
+income and earnings per share had the Company adopted the fair value method as
+of the beginning of fiscal 1996. Under SFAS 123, the fair value of stock-awards
+to employees is calculated through the use of option pricing models, even though
+such models were developed to estimate the fair value of freely tradeable, fully
+transferable options without vesting restrictions, which significantly differ
+from the Company's stock option awards. These models also require subjective
+assumptions, including future stock price volatility and expected time to
+exercise, which greatly affect the calculated values. The Company's calculations
+were made using the Black-Scholes option pricing model with the following
+weighted average assumptions:
+ 
+
+ 
+     The Company's calculations are based on a multiple option valuation
+approach and forfeitures are recognized as they occur. If the computed fair
+values of the fiscal 1997 and 1996 awards had been amortized to expense over the
+vesting period of the awards, pro forma net income (loss) would have been
+$(4,661) or $(.29) per share in fiscal 1997 and $5,824 or $.37 per share in
+fiscal 1996. However, the impact of outstanding non-vested stock options granted
+prior to fiscal 1996 has been excluded from the pro forma calculations;
+accordingly, the fiscal 1997 and 1996 pro forma adjustments are not indicative
+of future period pro forma adjustments, when the calculation will apply to all
+applicable stock options.
+ 
+     Deferred Stock Compensation -- In May 1995, the Company issued stock
+options for the purchase of 531,500 shares of common stock at $.28 per share.
+The Company recognized $515 of deferred compensation in May 1995 equal to the
+difference between the option price as determined by the Board of Directors and
+$1.25 (the deemed fair value for financial reporting purposes) for each option.
+The Company is amortizing the deferred compensation expense ratably over the
+four-year period in which the options vest.
+ 
+ 8. EMPLOYEE BENEFIT PLAN
+ 
+     The Company has established a 401(k) tax-deferred savings plan. Employees
+meeting the eligibility requirements, as defined, may contribute specified
+percentages of their salaries. For the fiscal year ended April 30, 1997, the
+Company contributed $119 (none in fiscal 1996 and 1995).
+ 
+
+ 
+                            NETWORK APPLIANCE, INC.
+ 
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+             (DOLLAR VALUES IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+ 
+ 9. INCOME TAXES
+ 
+     The Company incurred losses for financial reporting and tax purposes in
+fiscal 1995, and accordingly did not record a provision for income taxes. In
+fiscal 1997 and 1996, the provision for income taxes consists of the following:
+ 
+
+ 
+     Deferred income taxes result from differences in the timing of certain
+expense items for tax and financial reporting purposes.
+ 
+     The provision for income taxes differs from the amount computed by applying
+the statutory federal income tax rate as follows:
+ 
+
+ 
+     The income tax benefits associated with dispositions from employee stock
+transactions reduced taxes currently payable for fiscal 1997 by $2,487 ($238 and
+$0 for fiscal 1996 and 1995, respectively).
+ 
+     Income before income taxes is as follows:
+ 
+
+ 
+
+ 
+                            NETWORK APPLIANCE, INC.
+ 
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+             (DOLLAR VALUES IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+ 
+     Current net deferred tax assets at April 30, 1997 and 1996 were $3,100 and
+$2,100, respectively. Non-current net deferred tax assets at April 30, 1997 and
+1996 of $1,794 and $0, respectively, are included in other assets within the
+accompanying consolidated balance sheets. The components of the Company's net
+deferred tax assets are as follows:
+ 
+
+ 
+     As of April 30, 1997, the Company had federal net operating loss
+carryforwards of approximately $332 available to offset future taxable income.
+These carryforwards expire in 2010.
+ 
+10. OPERATIONS BY GEOGRAPHIC AREA AND SIGNIFICANT CUSTOMERS
+ 
+     The Company operates primarily in one industry segment: the design,
+manufacturing and marketing of high-performance network data storage devices.
+ 
+     The Company's foreign operations consist of sales by its subsidiaries in
+the United Kingdom, France, Germany and Italy to either unaffiliated European
+customers or to independent distributors. The following table summarizes the
+Company's fiscal 1997 operations by geographic area:
+ 
+
+ 
+     Sales by the Company's foreign subsidiaries for fiscal 1996 and fiscal 1995
+were less than 10% of net sales. No customer accounted for 10% or more of net
+sales in either fiscal 1997 or in fiscal 1996. In fiscal 1995, two customers
+each accounted for 10% of net sales.
+ 
+11. LITIGATION
+ 
+     The computer industry is characterized by frequent litigation regarding
+intellectual property rights. During fiscal 1995 a lawsuit of this nature was
+filed against the Company and two of its shareholders (the "Whipsaw
+Litigation"). During the first quarter of fiscal 1997, the Company settled the
+Whipsaw litigation and recorded a pre-tax expense of $4,300 ($3,500 in payments
+to the plaintiffs and $800 in legal fees). In connection with the settlement,
+the Whipsaw group released the Company from all liabilities.
+ 
+
+ 
+ITEM 9.CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL
+       DISCLOSURE
+ 
+     None.
+ 
+                                    PART III
+ 
+ITEM 10. DIRECTORS AND OFFICERS OF THE REGISTRANT
+ 
+     The information required by this Item with respect to the Company's
+executive officers is incorporated herein by reference from the information
+under Item 4 of Part I of this Report under the section entitled "Executive
+Officers". The information required by this Item with respect to the Company's
+directors is incorporated herein by reference from the information provided
+under the heading "Election of Directors" of the Proxy Statement which will be
+filed with the Commission. The information required by Item 405 of Regulation
+S-K is incorporated herein by reference from the information provided under the
+heading "Section 16(a) Beneficial Ownership Reporting Compliance" of the Proxy
+Statement.
+ 
+ITEM 11. EXECUTIVE COMPENSATION
+ 
+     Information regarding the compensation of executive officers and directors
+of the Company is incorporated by reference from the information under the
+heading "Executive Compensation and Related Information" in the Company's Proxy
+Statement.
+ 
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+ 
+     Information regarding security ownership of certain beneficial owners and
+management is incorporated by reference from the information under the heading
+"Security Ownership of Certain Beneficial Owners and Management" in the
+Company's Proxy Statement.
+ 
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+ 
+     Information regarding certain relationships and related transactions is
+incorporated by reference from the information under the caption "Employment
+Contracts, Termination of Employment and Change-In-Control Agreements" in the
+Company's Proxy Statement.
+ 
+                                    PART IV
+ 
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+ 
+     (a) List of Documents filed as part of this Annual Report on Form 10-K.
+ 
+         1. The following consolidated financial statements of Network
+            Appliance, Inc. are filed as part of this Form 10-K:
+ 
+             Independent Auditors' Report
+             Consolidated Balance Sheets -- April 30, 1997 and 1996
+             Consolidated Statements of Operations for the years ended April 30,
+               1997, 1996 and 1995
+             Consolidated Statements of Shareholders' Equity (Deficit) for the
+               years ended April 30, 1997, 1996 and 1995
+             Consolidated Statements of Cash Flows for the years ended April 30,
+               1997, 1996 and 1995
+             Notes to Consolidated Financial Statements
+ 
+         2. Financial Statement Schedule.
+ 
+            The following financial statement schedule of the Company is filed
+            as part of this Annual Report on Form 10-K:
+ 
+             Schedule II -- Valuation and Qualifying Accounts
+ 
+            All other schedules have been omitted since the required information
+            is not present in amounts sufficient to require submission of the
+            schedule or because the information required is included in the
+            consolidated financial statements or notes thereto.
+ 
+
+ 
+     3. Exhibits.
+ 
+
+ 
+- ---------------
+ 
+(1) Previously filed as an exhibit with the Company's Form 8-K dated March 17,
+    1997.
+ 
+(2) Previously filed as an exhibit with the Company's Annual Report on Form 10-K
+    dated July 25, 1996.
+ 
+(3) Previously filed as an exhibit to the Company' Registration Statement on
+    Form S-1 (No. 33-97864).
+ 
+(4) Confidential treatment requested as to certain portions of these exhibits.
+ 
+(5) Previously filed as an exhibit with the Company's Quarterly Report on Form
+    10-Q dated March 7, 1997.
+ 
+
+ 
+     (b) Reports on Form 8-K.
+ 
+     On March 28, 1997, the Company filed a current report on Form 8-K,
+announcing the execution of an Agreement and Plan of Reorganization with
+Internet Middleware Corporation on March 17, 1997.
+ 
+                                   SIGNATURES
+ 
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Company has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized, on July 22, 1997.
+ 
+                                          NETWORK APPLIANCE, INC.
+ 
+                                          By:   /s/ DANIEL J. WARMENHOVEN
+                                            ------------------------------------
+                                                   Daniel J. Warmenhoven
+                                               President and Chief Executive
+                                                           Officer
+ 
+
+ 
+                               POWER OF ATTORNEY
+ 
+     KNOW ALL MEN BY THESE PRESENTS, that each person whose signature appears
+below constitutes and appoints Daniel J. Warmenhoven and Jeffry R. Allen, and
+each of them, as his true and lawful attorneys-in-fact and agents, with full
+power of substitution and resubstitution, for him and in his name, place and
+stead, in any and all capacities, to sign any and all amendments (including
+post-effective amendments) to this Report on Form 10-K, and to file the same,
+with all exhibits thereto, and other documents in connection therewith, with the
+Securities and Exchange Commission, granting unto said attorneys-in-fact and
+agents, and each of them, full power and authority to do and perform each and
+every act and thing requisite and necessary to be done in connection therewith,
+as fully to all intents and purposes as he might or could do in person, hereby
+ratifying and confirming all that said attorneys-in-fact and agents, or any of
+them, or their or his substitutes, may lawfully do or cause to be done by virtue
+thereof.
+ 
+     Pursuant to the requirements of the Securities Exchange Act of 1934, as
+amended, this report has been signed below by the following persons on behalf of
+the Company and in the capacities and on the dates indicated:
+ 
+
+ 
+
+ 
+                                  SCHEDULE II
+ 
+                            NETWORK APPLIANCE, INC.
+ 
+                       VALUATION AND QUALIFYING ACCOUNTS
+                   YEARS ENDED APRIL 30, 1997, 1996 AND 1995
+                                 (IN THOUSANDS)
+ 
+
+
+ 
+                              INDEX TO EXHIBITS
+ 
+
+ 
+

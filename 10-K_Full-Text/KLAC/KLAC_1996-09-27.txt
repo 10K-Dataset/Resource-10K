@@ -1,0 +1,1045 @@
+
+10-K
+FORM 10-K FOR THE FISCAL YEAR ENDED JUNE 30, 1996
+
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+(Mark One)
+[X]   ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE 
+      ACT OF 1934 [FEE REQUIRED]
+      FOR THE FISCAL YEAR ENDED JUNE 30, 1996
+                                       OR
+[ ]   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES 
+      EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+
+          FOR THE TRANSITION PERIOD FROM       TO     COMMISSION FILE NO. 0-9992
+
+                           KLA INSTRUMENTS CORPORATION
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+                     DELAWARE                         04-2564110
+           (STATE OR OTHER JURISDICTION OF          (I.R.S. EMPLOYER
+           INCORPORATION OR ORGANIZATION)           IDENTIFICATION NO.)
+
+                       160 RIO ROBLES                      95134
+                    SAN JOSE, CALIFORNIA                 (ZIP CODE)
+          (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)
+
+     REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: (408) 468-4200
+
+     SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+
+      TITLE OF EACH CLASS             NAME OF EACH EXCHANGE ON WHICH REGISTERED
+            NONE                                      NONE
+
+     SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT:
+
+                         COMMON STOCK, $0.001 PAR VALUE
+                          COMMON STOCK PURCHASE RIGHTS
+                                (TITLE OF CLASS)
+
+     Indicate by check mark whether the Registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.   Yes X   No
+                                               ---    ---
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ ]
+
+     The aggregate market value of the voting stock held by non-affiliates of
+the Registrant based upon the average bid and asked prices of the registrant's
+stock, as of August 31, 1996, was $761,763,320. Shares of common stock held by
+each officer and director and by each person or group who owns 5% or more of the
+outstanding common stock have been excluded in that such persons or groups may
+be deemed to be affiliates. This determination of affiliate status is not
+necessarily a conclusive determination for other purposes.
+
+     The registrant had 51,050,005 shares of Common Stock outstanding as of
+August 31, 1996.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+     Portions of the Annual Report to Stockholders for the fiscal year ended
+June 30, 1996 ("1996 Annual Report to Stockholders" ) are incorporated by
+reference into Parts I, II and IV of this Report.
+
+     Portions of the Proxy Statement for the Annual Meeting of Stockholders
+("Proxy Statement" ) to be held on November 18, 1996, and to be filed pursuant
+to Regulation 14A within 120 days after registrant's fiscal year ended June 30,
+1996, are incorporated by reference into Part III of this Report.
+
+
+PART I
+
+ITEM 1.    DESCRIPTION OF BUSINESS
+
+THE COMPANY AND ITS PRODUCTS
+
+     KLA Instruments Corporation was incorporated in Delaware in July 1975. The
+Company's headquarters are located at 160 Rio Robles, San Jose, California,
+95134, telephone (408) 468-4200. Unless the text requires otherwise, the
+"Company" or "KLA" refers to KLA Instruments Corporation and its subsidiaries.
+
+     KLA is the leader in the design, manufacture, marketing and service of
+yield management and process monitoring systems for the semiconductor industry.
+KLA believes that it is the world's largest supplier to the wafer and reticle
+inspection and optical metrology equipment markets. KLA's systems are used to
+analyze product and process quality at critical steps in the manufacture of
+integrated circuits and to provide feedback so that fabrication problems can be
+identified, addressed and contained. This understanding of defect sources and
+how to contain them enables semiconductor manufacturers to increase yields.
+Quickly attaining and then maintaining high yields is one of the most important
+determinants of profitability in the semiconductor industry. The Company
+believes that its customers typically experience rapid paybacks on their
+investments in the Company's systems. The Company sells to virtually all of the
+world's semiconductor manufacturers and has achieved very high market shares in
+its principal businesses.
+
+     The Company's technological strength has enabled it to develop and
+introduce major new product families in the past four years for the following
+three business units: WISARD, which addresses semiconductor wafer inspection;
+RAPID, which addresses reticle inspection; and Metrology, which addresses
+overlay registration and linewidth measurement. The Company believes that its
+WISARD and RAPID product families incorporate proprietary technologies which
+provide greater sensitivity to defects than any competing systems.
+
+YIELD MANAGEMENT
+
+     Maximizing yields, or the number of good die per wafer, is a key goal of
+modern semiconductor manufacturing. Higher yields increase the revenue a
+manufacturer can obtain for each semiconductor wafer processed. As geometry
+linewidths decrease, yields become more sensitive to the size and density of
+defects. Semiconductor manufacturers use yield management and process monitoring
+systems to improve yields by identifying defects, by analyzing them to determine
+process problems, and, after corrective action has been taken, by monitoring
+subsequent results to ensure that the problem has been contained. Monitoring and
+analysis often takes place at various points in the fabrication process as
+wafers move through a production cycle consisting of hundreds of separate
+process steps.
+
+     Semiconductor factories are increasingly expensive to build and equip.
+Yield management and process monitoring systems, which typically represent a
+small percentage of the total investment required to build and equip a
+fabrication facility, enable integrated circuit manufacturers to leverage these
+expensive facilities and improve their returns on investment.
+
+     The most significant opportunities for yield improvement generally occur
+when production is started at new factories and when new products are first
+built. Equipment that helps a manufacturer quickly increase new product yields
+enables the manufacturer to offer these new products in volume at a time when
+they are likely to generate the greatest profits.
+
+
+     The following are some of the methods used to manage yield, all of which
+require the capture and analysis of data gathered through many measurements:
+
+- -     Engineering analysis is performed off the manufacturing line to identify
+      and analyze defect sources. Engineering analysis equipment operates with
+      very high sensitivity to enable comprehensive analysis of wafers. Because
+      they operate off-line, engineering analysis systems do not require high
+      speeds of operation.
+
+- -     In-line monitoring is used to review the status of circuits during
+      production steps. Information generated is used to determine whether the
+      fabrication process steps are within required tolerances and to make any
+      necessary process adjustments in real-time before wafer lots move to
+      subsequent process stations. Because the information is needed quickly to
+      be of greatest value, in-line monitoring requires both high throughput and
+      high sensitivity.
+
+- -     Pass/fail tests are used at several steps in the manufacturing process to
+      evaluate products. For example, a pass/fail test is used to determine
+      whether reticles used in photolithography are defect-free; electrical
+      pass/fail testing is performed at the end of the manufacturing process to
+      determine whether products meet performance specifications.
+
+
+YIELD MANAGEMENT AND PROCESS MONITORING SYSTEMS
+
+     KLA's systems are developed to offer customers integrated yield management
+solutions. KLA offers inspection systems for key steps in the semiconductor
+manufacturing process and analysis systems comprised of database management
+hardware and software to translate raw inspection data into patterns which
+reveal process problems. The Company's wafer inspection and metrology systems
+are used for engineering analysis and in-line monitoring, and its reticle
+inspection systems are used for pass/fail tests. The Company's software
+productivity and analysis systems collect, store and analyze data collected by
+test equipment manufactured by both the Company and others to provide
+semiconductor manufacturers with an integrated yield management application. The
+Company's principal business units are: Wafer Inspection Systems (WISARD);
+Reticle Inspection Systems (RAPID); Metrology, including Optical Metrology and
+E-Beam Metrology; Software Productivity and Analysis Systems (PRISM); Scanning
+Electron Microscope Inspection Systems (SEMSpec); and ATS Watcher Division
+(ATS).
+
+WISARD-WAFER INSPECTION SYSTEMS
+
+      KLA's WISARD business unit created the market for automated inspection of
+semiconductor wafers with the introduction of the KLA 2000 series over eleven
+years ago. KLA continues to have a predominant market share with its current
+generation of wafer inspection systems, the 2100 series.
+
+     The 2100 series of inspection systems offers an increase in inspection
+speed of up to 2,000 times over that of KLA's original wafer inspection system.
+This marked increase in speed and sensitivity allows customers to obtain very
+prompt feedback on process status by placing wafer inspection systems on the
+production line. The selection of the technology architecture for the 2100
+series was made to allow the base unit to support a family of products capable
+of performance enhancements through upgrades of various subsystems. The first
+model, the KLA 2110, was introduced in 1991 with sufficient speed and
+sensitivity to enable in-line inspection of repeating arrays typical in memory
+devices. Since then, KLA has introduced three new repeating array models in
+succession, the 2111, 2112 and 2115. Each new model has had greater sensitivity
+and greater maximum speed compared to its predecessor. The 2115 was introduced
+in 1996 with twice the throughput and higher sensitivity compared to the 2112.
+
+     In 1992, KLA introduced the KLA 2130 which is capable of "all pattern"
+inspection required for microprocessors and other logic devices as well as both
+the logic and repeating array portions of memory devices. Since then, KLA has
+introduced three new all pattern inspection models in succession, the 2131, 2132
+and 2135. Each new model has had greater sensitivity and greater maximum speed
+compared to its predecessor. The 2135 was introduced in 1996 with twice the
+throughput and higher sensitivity compared to the 2132. The Company believes
+that there are further opportunities to expand the 2100 series and has several
+new models under development.
+
+
+RAPID-RETICLE INSPECTION SYSTEMS
+
+     RAPID, KLA's first business unit, created the market for automated
+inspection of reticles and photomasks for the semiconductor manufacturing
+industry over 18 years ago and continues to have a predominant market share. KLA
+has delivered over 750 reticle and photomask inspection systems worldwide.
+
+     During photolithography, a stepper projects a circuit pattern from a
+reticle onto a wafer. Error-free reticles are the first step in ensuring high
+yields in the manufacturing process because defects in reticles can translate
+into millions of ruined die.
+
+     In 1992, KLA introduced a new generation of reticle inspection systems, the
+300 series. The KLA 301 Reticle Inspection System and the KLA 50 Reference Data
+Computer together form the KLA 351 Inspection System, which represents a major
+advance in speed, sensitivity and flexibility. The KLA 351 offers the highest
+inspection sensitivity available in the marketplace, which the Company believes
+is vital to meet reticle inspection requirements for today's more complex
+microprocessors and larger DRAMs. This dedicated image processor employs a
+flexible system architecture which permits future upgrades and enhancements
+through software, rather than hardware changes. Furthermore, the KLA 351's
+optics include a rotating telescope turret to provide three sensitivities in one
+system. The KLA 351 offers flexibility for users who need a versatile inspection
+system to address the inspection needs of both the most demanding and the more
+routine semiconductor manufacturing processes. Users may obtain higher
+throughput by selecting lower sensitivity inspections.
+
+     The KLA 351 incorporates a reference database generator and data
+preparation system which gives full die-to-database functionality to the
+inspection, permitting inspection against the ideal reticle pattern as specified
+by the user's CAD program. The Company is continuing to develop enhancements to
+the KLA 351 inspection system to improve performance, serviceability and
+reliability.
+
+     In 1995, the Company introduced a new reticle inspection product,
+STARlight, which uses reflected and transmitted light detection techniques
+simultaneously to identify reticle contaminants, including particles. STARlight
+permits users to identify defects which previously had not been detectable. The
+Company believes STARlight will be applied by mask manufacturers and
+semiconductor manufacturers. STARlight is offered as an option on the KLA 351
+inspection system and as a stand-alone unit.
+
+METROLOGY GROUP
+
+     Optical Metrology Business Unit. Lithography for sub-micron semiconductor
+fabrication requires increasingly stringent overlay and critical dimension
+tolerances. In particular, decreasing linewidths, larger die sizes, and
+additional layers have made overlay mis-registration errors a crucial cause of
+yield loss. To address these challenges, KLA offers the KLA 5000 series
+metrology systems: the 5100 for overlay; and the 5105 for both overlay and
+critical dimension measurement. In June 1996, KLA introduced the 5200 overlay
+system, which has performance and usability enhancements compared to the 5100.
+KLA estimates that during fiscal 1994, 1995 and 1996, it had the leading share
+in the worldwide market for overlay registration systems.
+
+     The KLA 5000 series uses a patented coherence probe microscopy technology
+which permits fast autofocus and precision critical dimension measurements.
+Applying its expertise in digital image processing, KLA has developed
+sophisticated measurement algorithms that are more tolerant of process
+variations. With coherence probe microscopy, the system scans the image-forming
+coherence region through the wafer plane, only gathering information from
+in-focus surfaces. As a result, measurements are more tolerant of process and
+substrate reflectivity variations than those from ordinary optical systems.
+
+     The precision measurements from the KLA 5000 series identify the magnitude
+and direction of overlay mis-registration errors arising from the stepping
+process and from optical distortion inherent in the stepper lens. Based upon
+these measurements, users can fine-tune the stepper program to compensate for
+these errors, and improve process yield.
+
+     The disk drive manufacturing industry is an emerging market for KLA's
+metrology systems. Disk drive manufacturers use a semiconductor photolithography
+process to produce thin film heads. The Company's coherence probe technology is
+particularly well-suited to handle the complex topography characteristics
+encountered in the thin film head process. The Company believes that its
+solution to these requirements has allowed it to achieve the major share of the
+thin film head metrology market.
+
+
+
+     E-Beam Metrology Business Unit. KLA broadened its portfolio of metrology
+products in December 1994 with the acquisition of Metrologix, Inc., a
+manufacturer of advanced electron beam measurement equipment. With this
+acquisition, KLA's E-Beam Metrology business gained an established position in
+the CD SEM inspection market, a market which KLA believes is larger than the
+optical overlay market, and one which it believes will grow as semiconductor
+manufacturers continue to produce more complex semiconductor devices.
+
+     KLA's first generation E-Beam metrology system features high throughput and
+automated setup. One major U.S. memory manufacturer and two major U.S.
+microprocessor manufacturers have purchased multiple systems for use in both
+production and research and development. The Company has made substantial
+investments in engineering and manufacturing to bring to market the
+next-generation tool, the KLA 8100. Production shipments of this product began
+in June 1996.
+
+PRISM-SOFTWARE PRODUCTIVITY AND ANALYSIS SYSTEMS
+
+     The PRISM division was formed in April 1994 to address the market for
+software products that can be utilized in semiconductor fabrication applications
+for yield management and productivity improvement. The PRISM division is
+developing and marketing two software product lines, Discovery and CIMA.
+Discovery is an enterprise-wide yield management system that collects, stores
+and correlates yield information from multiple data sources in a fabrication
+facility. This product was the result of a cooperative development project with
+Motorola. The Company released production versions of Discovery in early fiscal
+1996. CIMA is a test floor automation product that was developed by the Company
+and introduced in August 1994. CIMA collects test data from, and automates the
+operation of, the wafer floor. CIMA is currently in production and is installed
+in several modern fabrication facilities. PRISM has formed a client services
+organization to provide system integration and consulting services to assist its
+customers in the integration of its software products into the facility's
+information systems.
+
+SEMSPEC-SCANNING ELECTRON MICROSCOPE INSPECTION SYSTEMS
+
+     As feature sizes of semiconductor circuits continue to decrease for leading
+edge semiconductor products, the Company believes that conventional optical
+technologies ultimately will begin to reach physical limits imposed by the
+wavelength of light and fail to provide the necessary inspection resolution.
+Working closely with those customers with the most advanced inspection
+requirements, KLA has developed the world's only fully automatic electron beam
+inspection systems. These systems, comprised of the world's fastest scanning
+electron-optical column and a high speed image computer, are used for wafer and
+x-ray mask inspection. The development of these systems was funded in part by
+customer-sponsored research and development programs. KLA expects the market for
+these inspection systems to emerge slowly.
+
+ATS WATCHER DIVISION-IMAGE PROCESSING SUBSYSTEMS
+
+     The ATS Watcher division develops and manufactures the image processing
+electronics and optical subsystems sold to Tokyo Electron, Limited ("TEL") for
+inclusion in TEL's wafer probers. TEL manufactures the prober's mechanical
+chassis and incorporates the KLA electronics and subsystems.
+
+     On April 30, 1996, TEL and KLA reached agreement to transfer all of KLA's
+prober distribution operations to TEL. Under the agreement, KLA transferred all
+prober related assets to TEL, and KLA is no longer selling or servicing prober
+systems.
+
+CUSTOMERS AND APPLICATIONS
+
+     The Company believes that it is one of the few suppliers which sells its
+systems to virtually all of the world's semiconductor manufacturers. In fiscal
+1994, 1995 and 1996, no single customer accounted for more than 10% of the
+Company's revenues.
+
+
+SALES, SERVICE AND MARKETING
+
+     The Company believes that the size and location of its field sales, service
+and applications engineering organization represents a competitive advantage
+in its served markets. In the United States, Europe, Asia Pacific and Japan the
+Company has a direct sales force located in major geographical markets. The
+Company's sales, service and applications facilities throughout the world
+employ over 600 sales, service and applications engineers.
+
+     In fiscal 1996, the Company sold its systems in Japan, Singapore and Taiwan
+through local sales representatives. Starting in July 1996, KLA began selling
+direct in these countries and no longer uses a local sales representative,
+except in Japan. In Japan, the Company took over the majority of the sales
+duties in July 1996, but will be phasing out its distributor (TEL) through
+December 1996.
+
+     KLA maintains an export compliance program that fully meets the
+requirements of the U.S. Department of Commerce. KLA has never been denied
+approval to ship against a purchase order.
+
+     For information regarding the Company's revenues from foreign operations
+for the Company's last three fiscal years, see Note 10 on page 22 of the 1996
+Annual Report to Stockholders, incorporated herein by reference.
+
+TECHNOLOGY
+
+     The Company's inspection and metrology systems precisely capture trillions
+of features on wafers and reticles that are as small as 10 millionths of an inch
+on a side and analyze each of these features for possible defects through the
+use of the following technologies:
+
+     Image Acquisition. The Company's systems acquire images of sub-micron
+features on wafers and reticles. The quality and brightness of the images
+greatly influence the speed and sensitivity of the final inspection system. The
+Company has developed a wide range of optical imaging systems, such as laser
+scanners, interference microscope systems, and conventional white light and deep
+UV optical systems. To satisfy the future sensitivity requirements of advanced
+lithography, the Company has developed an electron beam system which
+incorporates the world's fastest scanning electron-optical column.
+
+     Image Conversion. The Company's equipment converts the photon or electron
+image to an electronic digital format. The Company has been a pioneer in the use
+of time-delay-integration sensors. The Company also utilizes other image
+conversion technologies such as avalanche diode detectors, photo multiplier
+systems and fixed frame pickups.
+
+     Precision Mechanics. In the most common configuration of an inspection
+system, the reticle or the wafer is moved at a constant speed through the field
+of the imaging system. Since areas of interest are as small as 5 millionths of
+an inch, and vibrations in the scanning system of one-tenth of the area of
+interest can degrade system performance, the mechanical stage must be extremely
+smooth and precise. To address these requirements, the Company has ten years of
+experience in the design and manufacture of air-bearing linear drive stages.
+
+     Proprietary Algorithms. To perform the inspection or measurement task, the
+Company's equipment examines the properties of the digitized images using a set
+of logical steps (algorithms) which measure the desired image property. The
+Company's engineers develop sets of algorithms that are specifically tailored to
+obtain optimum performance for its wafer, reticle and metrology systems. These
+algorithms are largely responsible for the state-of-the-art performance of the
+Company's systems.
+
+     Image Computers. The combination of proprietary algorithms and special
+purpose computers allows the Company's equipment to have a high performance to
+cost ratio. While general purpose computers are capable of executing the
+Company's algorithms, very few computer architectures can sustain the computing
+speed that is required in the Company's systems. To address this requirement,
+the Company develops and builds special purpose image computers designed to
+execute its algorithms.
+
+     Database Analysis. Many of the inspections that the Company's reticle
+inspection systems perform require a digital image representation of the ideal
+pattern obtained from the data used to manufacture the reticle. This capability
+allows inspection systems to compare the actual circuit with its design
+specifications. The Company has been developing database systems for over 16
+years to satisfy this objective. Its present generation of special purpose
+database computers is capable of generating simulated images at the same high
+speeds at which the Company's image conversion systems generate the digital
+image from the actual reticle.
+
+
+     Statistical Process Control. Integrated circuit yield management and
+process monitoring systems generate hundreds of thousands of data items each
+day. To enhance the utility of this data, the Company has a team of software
+engineers who build systems containing statistical process control software to
+simplify data and present this data in a useful manner. The Company is
+continuing to work on new software to enhance its statistical process control
+systems.
+
+RESEARCH AND DEVELOPMENT
+
+     The market for yield management and process monitoring systems is
+characterized by rapid technological development and product innovation. The
+Company believes that continued and timely development of new products and
+enhancements to existing products are necessary to maintain its competitive
+position. Accordingly, the Company devotes a significant portion of its
+personnel and financial resources to research and development programs and seeks
+to maintain close relationships with customers to remain responsive to their
+needs. In order to meet continuing developments in the semiconductor industry
+and to broaden the applications for its image processing technology, the Company
+is committed to significant engineering efforts for product improvement and new
+product development. The Company reports engineering, research and development
+expense net of this funding.
+
+     KLA typically receives some external funding from customers, industry
+groups, and government sources to augment its engineering, research and
+development efforts. The Company reports engineering, research and development
+expense net of this funding. Thus, recorded amounts for engineering, research
+and development expense were 9%, 10% and 11% of sales in fiscal 1994, 1995 and
+1996, respectively. For information regarding the Company's research and
+development expense during the last three fiscal years, see Notes 1 and 8 on
+pages 18 and 22, respectively, of the 1996 Annual Report to Stockholders
+incorporated herein by reference.
+
+
+MANUFACTURING
+
+     The Company's principal manufacturing activities take place in San Jose,
+California, and Migdal Ha'Emek, Israel, and consist primarily of manufacturing,
+assembling and testing components and subassemblies which are acquired from
+third party vendors and then integrated into the Company's finished products.
+Due to the discontinuation of the Wafer Probing Systems agreement with TEL, the
+Company discontinued manufacturing operations in Bevaix, Switzerland in
+April 1996. The Company is also cross-training personnel, so that it can respond
+to changes in product mix by reallocating personnel in addition to hiring.
+
+     The Company has been working with key vendors to improve inventory
+management. Volume purchase agreements and just-in-time delivery schedules have
+helped control both inventory levels and costs. The Company's manufacturing
+engineers, in conjunction with key vendors, are improving the manufacturability
+and reliability of the new wafer and reticle inspection systems and metrology
+systems.
+
+     Many of the components and subassemblies are standard products, although
+certain items are made to Company specifications. Certain of the components and
+subassemblies included in the Company's systems are obtained from a single
+source or a limited group of suppliers. Those parts subject to single or limited
+source supply are routinely monitored by management and the Company endeavors to
+ensure that adequate supplies are available to maintain manufacturing schedules,
+should supply for any part be interrupted. Although the Company seeks to reduce
+its dependence on sole and limited source suppliers, in some cases the partial
+or complete loss of certain of these sources could have at least a temporary
+adverse effect on the Company's results of operations and damage customer
+relationships.
+
+COMPETITION
+
+     The market for yield management and process control systems is highly
+competitive. In each of the markets it serves, the Company faces competition
+from established and potential competitors, some of which may have greater
+financial, engineering, manufacturing and marketing resources than the Company.
+Significant competitive factors in the market for yield management and process
+control systems include system performance, ease of use, reliability, installed
+base and technical service and support.
+
+     The Company believes that, while price and delivery are important
+competitive factors, the customers' overriding requirement is for systems which
+easily and effectively incorporate automated, highly accurate inspection
+capabilities into their existing manufacturing processes, thereby enhancing
+productivity. The Company's yield management and process control systems for the
+semiconductor industry are generally higher priced than those of its present
+competitors and are intended to compete based upon performance and technical
+capabilities. These systems also compete with less expensive, more
+labor-intensive manual inspection devices.
+
+     The Company's wafer and reticle inspection systems have a predominant share
+of their respective markets. The Company believes that it is the leading
+provider of overlay registration systems.
+
+
+     Many of the Company's competitors are investing in the development of new
+products aimed at applications currently served by the Company. The Company's
+competitors can be expected to continue to improve the design and performance of
+their products in each product area and to introduce new products with
+competitive price/performance characteristics. Competitive pressures often
+necessitate price reductions which can adversely affect operating results.
+Although the Company believes that it has certain technical and other advantages
+over its competitors, maintaining such advantages will require a continued high
+level of investment by the Company in research and development and sales and
+marketing. There can be no assurance that the Company will have sufficient
+resources to continue to make such investments or that the Company will be able
+to make the technological advances necessary to maintain these competitive
+advantages.
+
+     The yield management and process control industry is characterized by
+rapidly changing technology and a high rate of technological obsolescence.
+Development of new technologies that have price/performance characteristics
+superior to the Company's technologies could adversely affect the Company's
+results of operations. In order to remain competitive, the Company believes that
+it will be necessary to expend substantial effort on continuing product
+improvement and new product development. There can be no assurance that the
+Company will be able to develop and market new products successfully or that the
+products introduced by others will not render the Company's products or
+technologies non-competitive or obsolete.
+
+PATENTS AND OTHER PROPRIETARY RIGHTS
+
+     The Company believes that, due to the rapid pace of innovation within the
+yield management and process control systems industry, its protection of patent
+and other intellectual property rights is less important than factors such as
+its technological expertise, continuing development of new systems, market
+penetration and installed base and the ability to provide comprehensive support
+and service to customers.
+
+     The Company protects its proprietary technology through a variety of
+intellectual property laws including patents, copyrights and trade secrets. The
+Company's source code is protected as a trade secret and as an unpublished
+copyright work. The Company has a number of United States and foreign patents
+and patent applications. The Company's effort to protect its intellectual
+property rights through trade secret and copyright protection may be impaired if
+third parties are able to copy or otherwise obtain and use the Company's
+technology without authorization. Effective intellectual property protection may
+be unavailable or limited in certain foreign countries. In addition, the
+semiconductor industry is characterized by frequent litigation regarding patent
+and other intellectual property rights. No assurance can be given that any
+patent held by the Company will provide sufficient protection.
+
+BACKLOG
+
+     Backlog orders for systems were $250 and $385 million at June 30, 1995 and
+1996, respectively. In general, systems ship within six months to a year after
+receipt of a customer's purchase order.
+
+EMPLOYEES
+
+     As of August 31, 1996, the Company employed a total of approximately 2,500
+persons. None of the Company's employees are represented by a labor union. The
+Company has experienced no work stoppages and believes that its employee
+relations are good.
+
+     Competition in the recruiting of personnel in the semiconductor and
+semiconductor equipment industry is intense. The Company believes that its
+future success will depend in part on its continued ability to hire and retain
+qualified management, marketing and technical employees.
+
+
+
+ITEM 2.    PROPERTIES
+
+     The Company owns a corporate facility which houses engineering,
+manufacturing and administrative functions in San Jose, California, occupying
+approximately 232,000 square feet. The Company purchased this facility in 1990
+at a total cost of approximately $30 million, including improvements. The
+Company leases additional office space for manufacturing, engineering, sales and
+service activities, including seven locations in the U.S., eleven in Japan,
+eight in Europe, two each in Korea and Israel, and one each in Malaysia and
+Taiwan. The Company leases three buildings adjacent to its campus facility,
+consisting of an aggregate of approximately 87,000 square feet. Two of these
+leases have been extended to fiscal 2000 (73,000 square feet).
+
+     In June 1995, the Company entered into a five-year operating lease for a 
+105,000 square-foot building constructed on land owned by the Company in San 
+Jose, California. Monthly rent payments for the building commenced on July 1, 
+1996, and will vary based on the London interbank offering rate (LIBOR). The 
+Company may, at its option, purchase the building during the term of the lease 
+for $12.5 million. In August 1995, the Company entered into a five-year 
+operating lease agreement for an additional 120,000 square feet in two 
+buildings in San Jose, California. Monthly rent payments for the buildings 
+commenced on May 1, 1996, and will vary based on the LIBOR rate. The Company 
+may, at its option, purchase the buildings during the term of the lease for 
+$18.7 million. If the Company does not purchase any or all of the buildings at 
+the end of their respective leases, the Company will guarantee the lessor 85% 
+of the aforementioned purchase prices of the building or buildings not 
+purchased. In addition, the lease agreements require the Company to maintain, 
+among other items, minimum quick ratio, tangible net worth and profitability. 
+As of June 30, 1996, the Company was in compliance with all of these covenants.
+
+ITEM 3.    LEGAL PROCEEDINGS
+
+     Not Applicable.
+
+Item 4.    SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     Not Applicable.
+
+
+PART II
+
+ITEM 5. MARKET FOR THE REGISTRANT'S COMMON STOCK AND RELATED STOCKHOLDER MATTERS
+
+         "Common Stock" on page 24 of the 1996 Annual Report to Stockholders is
+incorporated herein by reference.
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+         "Selected Financial Data" on page 14 of the 1996 Annual Report to
+Stockholders is incorporated herein by reference.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF RESULTS OF OPERATIONS AND 
+        FINANCIAL   CONDITION
+
+         "Management's Financial Commentary" on pages 12 and 13 of the 1996
+Annual Report to Stockholders is incorporated herein by reference.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     The consolidated financial statements, together with the report thereon of
+Price Waterhouse LLP dated August 7, 1996, appearing on pages 14 through 24 of
+the 1996 Annual Report to Stockholders are incorporated herein by reference.
+With the exception of the aforementioned information and the information
+incorporated in Items 5, 6, 7 and 8, the 1996 Annual Report to Stockholders is
+not to be deemed filed as part of this Form 10-K Annual Report.
+
+ITEM 9. DISAGREEMENTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+     Not Applicable.
+
+
+PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+     Set forth below are the names of the present executive officers of the
+Company, their ages and positions held with the Company.
+
+
+
+
+     Mr. Levy co-founded the Company in July 1975 and served as President and
+Chief Executive Officer and a Director of the Company until November 1991, when
+he became Chairman of the Board of Directors and Chief Executive Officer. Since
+May 1993, Mr. Levy has been a Director of Ultratech Stepper, Inc., a
+manufacturer of photolithography equipment; since April 1993, a Director of
+Network Peripherals, Inc., a supplier of high-performance client-server
+networking solutions; and since August 1995, a Director of Integrated Process
+Equipment Corporation, a manufacturer of chemical, mechanical, polishing and
+cleaning equipment which is used in the manufacturing of advanced semiconductor
+devices.
+
+     Mr. Schroeder rejoined the Company in November 1991 as President, Chief
+Operating Officer and Director. Mr. Schroeder had worked previously at KLA from
+1979 through 1987, during which time he held the positions of Vice President of
+Operations (1979); Vice President and General Manager, RAPID (1982); Vice
+President and General Manager, WISARD (1983); and Senior Vice President (1985).
+In July 1988, he became President and Chief Executive Officer of Photon
+Dynamics, Inc., a manufacturer of electro-optic test equipment. In mid-1990, he
+was appointed President, Chief Operating Officer and Director of Genus, Inc., a
+manufacturer of CVD chemical vapor deposition and ion implant equipment. He left
+Genus in October 1991, to rejoin KLA. Since July, 1993, Mr. Schroeder has been a
+director of SEMI/SEMATECH, an organization of American equipment companies
+supporting SEMATECH and its mission; since August, 1995, Mr. Schroeder has been
+a director of GaSonics, International, a supplier of resist stripping, cleaning,
+etching and deposition equipment.
+
+     Mr. Boehlke joined the Company in April 1983 as Vice President and General
+Manager of the RAPID Division. Subsequently, he was General Manager of several
+divisions and groups of divisions at KLA. In June 1985, Mr. Boehlke was elected
+to Senior Vice President and to Executive Vice President in January 1989, and to
+Chief Operating Officer in August 1989 until July 1990, when he became Chief
+Financial Officer. From 1988 until 1993 he served on the Board of Directors of 
+SEMI/SEMATECH, where he was a member of the executive committee.
+
+     Mr. Brienzo joined the Company in March 1986 as Director of Quality
+Assurance and Customer Acceptance, WISARD Division. In Sept. 1986, he became
+Vice President of Operations, WISARD Division. In October 1990, he was named
+President of KLA Acrotec. He served there until September 1994, when he took the
+position of Vice 
+
+
+President Operations, KLA Japan. In July 1995, he was promoted to Vice
+President, Asia Operations and General Manager, KLA Japan.
+
+     Ms. DeMars joined KLA in 1988 as Director of Human Resources after a 13
+year career in Employee Relations at Monolithic Memories, Inc. and Advanced
+Micro Devices. In November 1991, KLA promoted Ms. DeMars to Vice President of
+Human Resources, worldwide.
+
+     Mr. Dickerson joined KLA in January 1986 as a Senior Applications Engineer
+in the Wafer Inspection Division. In July 1987 he was promoted to Manager of
+Applications Engineering for the Wafer Inspection Division, followed by Manager
+of Product Planning in July 1989, Director of Marketing in July 1990, and Vice
+President of Marketing in July 1992. In July 1993, he was promoted to Vice
+President and Director of the Wafer Inspection Business Unit. In July 1994, he
+was elected Vice President of the Company and promoted to Group Vice President
+in January, 1996.
+
+     Dr. Harrell joined the Company in September 1995 as Senior Vice President
+and Chief Strategy Officer. Dr. Harrell is responsible for strategic corporate
+development. Dr. Harrell served from October 1992 to December 1995 as the Senior
+Vice President and Chief Strategy Officer of SEMATECH. From August 1987 to
+September 1992 he served as President of SEMI/SEMATECH.
+
+     Mr. Morrissey joined KLA in April 1996 as Group Vice President for the
+Customer Group, after a 26 year career with NCR and AT&T. He was Vice President
+of NCR's Workstation Product Division from July 1993 to April 1996 and Vice
+President of the Microelectronics Division from March 1991 to June 1993. Mr.
+Morrissey has also served on the Board of Directors for SEMATECH.
+
+     Dr. Richardson joined KLA in June 1993 as Vice President and General
+Manager of the Metrology Division, and was elected Vice President of the Company
+in July 1994. He served as Vice President and General Manager of the Diagnostic
+Systems Group of Schlumberger Technologies from September 1985 to November 1991,
+and was the Corporate Technology Adviser for Schlumberger Ltd., a manufacturer
+of electronic test equipment, from November 1991 to May 1993.
+
+     Mr. Ryde joined KLA in June 1980 as Production Control Manager. In May 1981
+he was promoted to Materials Manager, followed by Production Manager in January
+1982 and Manager, Advance Manufacturing - KLA208 in May 1984. In March 1985, he
+became Product Marketing Manager for the RAPID Division. In December 1988, after
+leaving KLA for 6 months to pursue other interests, he returned as Director of
+EMMI Business within the ATS Division. In January 1989, he was promoted to
+Director of Operations - Europe, and in January 1991 became Vice President of
+Operations for the ATS Division. He was promoted to Vice President and General
+Manager of the Customer Support Division in July 1992 and was elected to Vice
+President of the Company in July 1994. In July 1995, he became Vice President of
+the U.S. and European Sales Organizations.
+
+     Mr. Schnitzer joined the Company in July 1978 as Software Engineering
+Manager, was promoted to Director of Engineering of the RAPID Division in July
+1982, and was promoted to Vice President in July 1983. He became Vice President
+of Technology and Marketing of RAPID in May 1987, and Vice President of Advanced
+Inspection in January 1989. In October 1989, he was promoted to General Manager
+of the WISARD Division and, additionally, was elected to Vice President of the
+Company in July 1990. In July 1993, he became Group Vice President and is
+presently responsible for RAPID, SEMSpec and PRISM.
+
+     Mr. Stoddart joined the Company in December 1991 as Treasurer. Prior to
+joining the Company, Mr. Stoddart was Treasurer of General Cellular Corporation,
+a cellular telephone service provider, from October 1989 to September 1991 and
+previously with The Cooper Companies, Inc., a manufacturer of pharmaceuticals
+and medical and implant equipment, as Assistant Treasurer from August 1986 to
+July 1988, and then Treasurer from July 1988 to September 1989.
+
+     Dr. Tsai joined the Company in June 1984 as a member of the WISARD
+Technical Staff and was promoted to Manager of Algorithm Development for the
+WISARD Division. From August 1989 until September 1990 he served as Director of
+Engineering for WISARD. In October 1990, he was promoted to Vice President of
+Engineering for KLA Acrotec, and in July 1994 he was elected Vice President of
+the Company and promoted to Chief Technical Officer.
+
+     Mr. Turner joined the Company in September 1983 as a Financial Analyst.
+After serving as Controller for the Rapid, ATS and International divisions, he
+was named Corporate Controller in December 1989 and was elected Vice President
+of the Company in July 1990. In August 1996, he was named Vice President of
+Corporate Finance.
+
+
+     Mr. Barnholt has served as a Director of the Company since September 1995.
+From October 1990 to October 1993 he served as Vice President and General
+Manager of the Test and Measurement Organization for Hewlett-Packard. In
+November 1993 he was promoted to Senior Vice President and General Manager of
+the Test and Measurement Organization.
+
+      Mr. Chamberlain has served as a Director of the Company since 1982. He has
+also served as a Director of Octel Communications Corporation, a manufacturer of
+high performance voice processing systems since March 1989.
+
+     Mr. Lorenzini has served as a Director of the Company since 1976. He has
+served since January 1993 as Chairman of SunPower Corporation, a manufacturer of
+optoelectronic devices, and from October 1988 to January 1993, he served as
+President and Chief Executive Officer. Since July 1993, he has also been a
+Principal in Dalton Partners, a turn-around management company. He was a founder
+and, until December 1986, Chairman of the Board of Siltec Corporation, a
+manufacturer of semiconductor materials and manufacturing equipment. Since
+October 1986, Mr. Lorenzini has also served as a Director of FSI International,
+a semiconductor process equipment manufacturer.
+
+     Dr. Nishi has served as a Director of the Company since 1989. He has served
+as Senior Vice President and Director of Research and Development for the
+Semiconductor Group of Texas Instruments since May 1995. Mr. Nishi served as a
+Director of numerous research laboratories at Hewlett-Packard from January 1986
+to April 1995. He is a consulting professor in the Stanford University
+Department of Electrical Engineering and teaches at Waseda University in Japan
+as a visiting Professor of the Materials Science and Engineering Department and
+the Electronic Communication Engineering Department.
+
+     Mr. Rubinovitz previously served as a Director of the Company from October
+1979 to January 1989, and rejoined the Company as a Director in 1990. From April
+1989 through January 1994, he served as Executive Vice President of EG&G, Inc.,
+a diversified manufacturer of scientific instruments and electronic, optical and
+mechanical equipment, and previously as Senior Vice President of EG&G, Inc.
+between April 1986 and April 1989. From April 1989 to April 1996, Mr. Rubinovitz
+served as a Director of EG&G. Since October 1984, he has served as Director of
+Richardson Electronics, Inc., a manufacturer and distributor of electron tubes
+and semiconductors and, since October 1986, Director of Kronos, Inc., a
+manufacturer of electronic time keeping systems. Since December 1994, he has
+served as a Director of LTX Corporation, a manufacturer of Semiconductor Test
+Equipment.
+
+     Mr. Tellefsen has served as a Director of the Company since 1978. He is
+Managing Partner of Glenwood Management, a venture capital firm. Since January
+1983, he has served as a Director of Iwerks Entertainment, a producer of
+movie-based specialty theaters, and since 1982, as a director of Octel
+Communications Corporation.
+
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+     The information regarding Executive Compensation as it appears in the Proxy
+Statement is incorporated herein by reference.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+     The information regarding Security Ownership of Certain Beneficial Owners
+and Management as it appears in the Proxy Statement is incorporated herein by
+reference.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     The information regarding Certain Relationships and Related Transactions as
+it appears in the Proxy Statement is incorporated herein by reference.
+
+PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENTS, SCHEDULES, AND REPORT ON FORM 8-K
+
+     (a)  (1) Financial Statements: See Index to Financial Statements, page 14.
+          (2) Financial Statement Schedules: See Index to Financial Statement 
+              Schedules, page 14.
+          (3) Exhibits: See Index to Exhibits, pages 15 and 16.
+
+     (b) No reports on Form 8-K were filed during the quarter ended June 30,
+         1996.
+
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized in the City of San
+Jose, State of California, on the 26th day of September 1996.
+
+
+                                    KLA INSTRUMENTS CORPORATION
+
+
+
+                                       By    /s/   WILLIAM TURNER
+                                          ------------------------------------
+                                                William Turner
+                                       Vice President of Corporate Finance
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of this
+registrant and in the capacities and on the dates indicated.
+
+
+
+
+                  KLA INSTRUMENTS CORPORATION AND SUBSIDIARIES
+
+                          INDEX TO FINANCIAL STATEMENTS
+
+
+
+
+*Incorporated by reference from the indicated pages of the 1996 Annual Report to
+Stockholders.
+
+
+                     INDEX TO FINANCIAL STATEMENT SCHEDULES
+
+
+      Financial Statement Schedules not included in this Form 10-K Annual Report
+have been omitted because they are not applicable or the required information is
+shown in the consolidated financial statements or notes thereto.
+
+
+                                INDEX TO EXHIBITS
+
+
+(i)      EXHIBITS INCORPORATED BY REFERENCE:
+
+ 3.1     Certificate of Incorporation as amended(7)
+
+ 3.2     Bylaws, as amended(7)
+
+ 4.1     Amended and Restated Rights Agreement dated as of August 26, 1995,
+             between the Company and First National Bank of Boston, as Rights
+             Agent. The Rights Agreement includes as Exhibit A, the form of
+             Right Certificate and as Exhibit B, the summary of transactions of
+             Rights.(1)
+
+10.15    Statement of Partnership to Triangle Partners dated April 12, 1983(2) 
+
+10.16    Lease Agreement and Addendum thereto dated January 10, 1983, between 
+             BB&K Partnership and the Company(2)
+
+10.18    Purchase and Sale Agreement dated January 10, 1983, between BB&K
+             Partnership, Triangle Partners and the Company(2)
+
+10.35    Research and Development Agreement, Cross License and Technology 
+             Transfer Agreement and Agreement for Option to License and Purchase
+             Resulting Technology, all dated October 1, 1986, by and between KLA
+             Development No. 4, Ltd., and the Company(3)
+
+10.45    Distribution Agreement dated July 1990, by and between Tokyo Electron 
+             Limited, a Japanese Corporation, and the Company(4)
+
+10.46    Principal facility Purchase Agreement dated July 1990, including
+             all exhibits and amendments; Lease Agreement, Termination of Lease,
+             Lot line adjustment, rights of first refusal, Deeds of Trust(4)
+
+10.47    Joint Venture Agreement between the Company and Nippon Mining Company,
+             Limited, dated September 18, 1990(5)
+
+10.49    Exercise of Option to Purchase Technology made effective as of January
+             1, 1990, by and between KLA Development No. 4, and the Company(5)
+
+10.54    Micrion Corporation Series E Preferred Stock Purchase Agreement, dated
+             September 13, 1991(6) 
+
+10.67    Amendment of Credit Agreement between Bank of America NT & SA and the 
+             Company, dated April 30, 1994(9)
+
+10.68    Credit Agreement between Bank of America NT & SA and the Company as
+             amended, on February 7, 1996(9) 
+
+10.71    1990 Outside Directors Stock Option Plan(8) 
+
+10.73    Amendment of Credit Agreement between Bank of America NT & SA and the 
+             Company dated December 31, 1994(10)
+
+10.74    1981 Employee Stock Purchase Plan, as amended by the Board of Directors
+             on October 7, 1994(10)
+
+10.75    1982 Stock Option Plan, as amended on November 15, 1995(10) 
+
+10.76    Amendment of Credit Agreement between Bank of America NT & SA and the 
+             Company dated February 15, 1995(10)
+
+10.77    Lease Agreement, Ground Lease Agreement and Purchase Agreement dated 
+             June 5, 1995, between BNP Leasing Corporation and the Company(10)
+
+10.78    Lease Agreement and Purchase Agreement dated August 10, 1995, between 
+             BNP Leasing Corporation and the Company(10)
+
+10.79    Amendment of Credit Agreement between Bank of America NT & SA and the 
+             Company dated December 29, 1995(11)
+
+(ii)     EXHIBITS INCLUDED HEREWITH:
+
+10.80    Mortgage Loan Supplement Program between Bank of the West and the 
+             Company dated May 8, 1996.
+
+13.1     1996 Annual  Report to  Stockholders.  This Annual  Report shall not be
+             deemed to be filed except to the extent that the information is
+             specifically incorporated by reference.
+
+21       List of Subsidiaries of KLA Instruments Corporation
+
+23.1     Consent of Independent Accountants
+
+27       Financial Data Schedule
+
+
+(1)Filed  as  exhibit  number 1 to  Registrant's  Form  8-A/A  Amendment  number
+2 to  Registration  Statement,  filed on September 24, 1996
+
+
+(2)Filed as the same exhibit number as set forth herein to Registrant's Form
+10-K for the year ended June 30, 1983
+
+(3)Filed as the same exhibit number as set forth herein to Registrant's Form
+10-K for the year ended June 30, 1987
+
+(4)Filed as the same exhibit number as set forth herein to Registrant's Form
+10-K for the year ended June 30, 1990
+
+(5)Filed as the same exhibit number as set forth herein to Registrant's Form
+10-K for the year ended June 30, 1991
+
+(6)Filed as the same exhibit number as set forth herein to Registrant's Form
+10-K for the year ended June 30, 1992
+
+(7)Filed as the same exhibit number to Registrant's registration statement
+no.33-51819 on Form S-3, dated February 2, 1994
+
+(8)Filed as exhibit number 4.6 as set forth herein to Registrant's Form 10-K for
+the year ended June 30, 1991
+
+(9)Filed as the same exhibit number as set forth herein to Registrant's Form
+10-K for the year ended June 30, 1994
+
+(10)Filed as the same exhibit number as set forth herein to Registrant's Form
+10-K for the year ended June 30, 1995
+
+(11)Filed as the same exhibit number as set forth herein to Registrant's Form
+10-Q for the quarter ended December 31, 1995
+
+

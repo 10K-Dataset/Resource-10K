@@ -1,0 +1,3026 @@
+
+10-K405
+d84862e10-k405.txt
+FORM 10-K FOR FISCAL YEAR END DECEMBER 31, 2000
+
+
+
+================================================================================
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                   ---------
+
+                                    FORM 10-K
+
+              [X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                     THE SECURITIES AND EXCHANGE ACT OF 1934
+
+                   For the Fiscal Year Ended December 31, 2000
+
+                                       OR
+
+            [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                       THE SECURITIES EXCHANGE ACT OF 1934
+
+                                    ---------
+
+                         Commission File Number 1-10485
+
+                            TYLER TECHNOLOGIES, INC.
+             (Exact name of registrant as specified in its charter)
+
+            DELAWARE                                     75-2303920
+   (State or other jurisdiction                       (I.R.S. employer
+        of incorporation or                           identification no.)
+          organization)
+
+    2800 W. MOCKINGBIRD LANE                                75235
+        DALLAS, TEXAS                                     (Zip code)
+     (Address of principal
+      executive offices)
+
+    Registrant's telephone number, including area code: (214) 902-5086
+
+                                   ----------
+
+           Securities registered pursuant to Section 12(b) of the Act:
+
+                                                   NAME OF EACH EXCHANGE
+         TITLE OF EACH CLASS                        ON WHICH REGISTERED
+     -----------------------------                -----------------------
+     COMMON STOCK, $0.01 PAR VALUE                NEW YORK STOCK EXCHANGE
+
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                                      NONE
+
+                                    ---------
+
+    INDICATE BY CHECK MARK WHETHER THE REGISTRANT (1) HAS FILED ALL REPORTS
+REQUIRED TO BE FILED BY SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+1934 DURING THE PRECEDING 12 MONTHS (OR FOR SUCH SHORTER PERIOD THAT THE
+REGISTRANT WAS REQUIRED TO FILE SUCH REPORTS), AND (2) HAS BEEN SUBJECT TO SUCH
+FILING REQUIREMENTS FOR THE PAST 90 DAYS. YES X  NO
+                                             ---   ---
+
+    INDICATE BY CHECK MARK IF DISCLOSURE OF DELINQUENT FILERS PURSUANT TO ITEM
+405 OF REGULATION S-K IS NOT CONTAINED HEREIN, AND WILL NOT BE CONTAINED, TO THE
+BEST OF REGISTRANT'S KNOWLEDGE, IN DEFINITIVE PROXY OR INFORMATION STATEMENTS
+INCORPORATED BY REFERENCE IN PART III OF THE FORM 10-K OR ANY AMENDMENT TO THIS
+FORM 10-K. YES X  NO
+              ---   ---
+
+         THE AGGREGATE MARKET VALUE OF THE VOTING STOCK HELD BY NON-AFFILIATES
+OF THE REGISTRANT ON MARCH 19, 2001 WAS $ 45,185,000.
+
+         THE NUMBER OF SHARES OF COMMON STOCK OF THE REGISTRANT OUTSTANDING ON
+MARCH 19, 2001 WAS 47,179,371.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+    CERTAIN INFORMATION REQUIRED BY PART III OF THIS ANNUAL REPORT IS
+INCORPORATED BY REFERENCE FROM THE REGISTRANT'S DEFINITIVE PROXY STATEMENT FOR
+ITS ANNUAL MEETING OF STOCKHOLDERS TO BE HELD ON MAY 31, 2001.
+================================================================================
+
+
+
+
+                            TYLER TECHNOLOGIES, INC.
+                                    FORM 10-K
+                                
+
+
+
+
+
+                                     PART I
+
+ITEM 1. BUSINESS.
+
+GENERAL
+
+    Tyler Technologies, Inc. ("Tyler" or the "Company") is a leading provider of
+end-to-end, e-government information management solutions for local governments.
+Tyler partners with clients to make local government more accessible to the
+public, more responsive to needs of citizens and more efficient. Tyler has a
+broad line of products and services to address the information technology needs
+of virtually every area of operation for cities, counties, schools and other
+local government entities. Tyler's client base includes nearly 6,000 local
+government offices in 49 states, Canada and Puerto Rico.
+
+    The Company was founded in 1966. With the sale of Business Resources
+Corporation for cash in a transaction valued at $71.0 million, the Company
+discontinued the information and property records services segment in December
+2000. The continuing segment of the Company consists of the businesses in the
+software systems and services segment. Unless otherwise specified, the following
+description of the Company's business relates only to the continuing operations
+of its software systems and services segment. In February 1998, the Company
+embarked on a multi-phase strategy and growth plan focused on serving the
+specialized information management needs of local government. Since that time,
+Tyler has experienced significant growth both internally and as a result of a
+number of acquisitions, both in the information and property records services
+segment as well as strategic acquisitions in the software systems and services
+segment. Prior to February 1998, the Company provided products and services to
+customers in other segments through ownership of various diversified operating
+companies, all of which have been discontinued.
+
+    Tyler made the decision to dispose of the information and property records
+services segment in order to strengthen its balance sheet and allow the Company
+to focus its financial and human capital on what management believes are
+opportunities for more rapid growth in the local government software and
+services business. Tyler expects to capitalize on these growth opportunities by
+leveraging its nationally installed client base, its long-term relationships
+with local governments, and its domain expertise in the marketplace through the
+development of state-of-the-art technologies and new nationwide branded
+application solutions. Tyler began in 2000 and is continuing in 2001 several
+significant initiatives to design and develop a new generation of certain of its
+software products built on state-of-the-art n-tier architecture, SQL compliant
+databases, browser compatible, and component-based technology. In addition, in
+2001 Tyler will begin to deploy certain products in an application service
+provider ("ASP") environment, providing hosting and data center services for
+clients. Tyler expects to deploy both existing legacy applications solutions and
+newly developed Tyler branded products in the ASP model.
+
+MARKET OVERVIEW
+
+    The state, local, and municipal government market is one of the largest and
+most decentralized information technology markets in the United States,
+consisting of all 50 states with over 40,000 municipalities and agencies and
+3,200 counties. This market is also comprised of hundreds of various
+governmental agencies, each with specialized, delegated responsibilities and
+unique information management requirements.
+
+    Traditionally, local governmental bodies and agencies performed
+state-mandated duties, including property assessment, record keeping, road
+maintenance, administration of election and judicial functions, and the
+provision of welfare assistance. Today, a host of emerging and urgent issues are
+confronting local government, each of which demands a service response. These
+areas include criminal justice and corrections, administration and finance,
+public safety, health and human services, and public works. Transfers of
+responsibility from the federal and state governments to county and municipal
+governments and agencies in these and other areas also place additional service
+and financial requirements on these governmental units. As a result, these
+governmental bodies and agencies recognize the increasing value of information
+management services and systems to, for example, improve revenue collection,
+provide increased access to information, and streamline delivery of government
+services to their constituents. Local governmental bodies are now recognizing
+that `e-government' is an additional responsibility for community development.
+From integrated tax systems to integrated criminal justice information systems,
+many counties and municipal governments have benefited significantly from the
+implementation of jurisdiction-wide systems that allow different agencies to
+share data and provide a more comprehensive approach to information management.
+Many of the county and municipal government agencies also have individual
+information management requirements, which must be tailored to the specific
+services being provided.
+
+
+                                     Page 3
+
+
+
+    In 2000, Dataquest (a unit of Gartner Group) estimated the annual
+expenditures by state, local, and municipal governmental bodies and agencies for
+information technology products and services at approximately $43 billion.
+Dataquest estimates this market will grow to over $59 billion by 2005. The
+external services and software segments of the market, in which Tyler has
+significant offerings, are expected to be the most rapidly growing areas of the
+local government information technology market.
+
+PRODUCTS AND SERVICES
+
+    Tyler provides cities, counties and other local government entities with
+software systems and services to meet their diverse information technology and
+automation needs. The Company designs, develops, markets and supports a broad
+range of application software products to serve mission-critical back-office
+functions. Certain software products include Internet-accessible solutions that
+allow for real-time public access to a variety of public information or that
+allow the public to transact business with local governments via the Internet.
+Tyler also assists local governments with all aspects of software and hardware
+selection, network design and management, installation and training, and ongoing
+support and related services. In connection with these services the Company
+integrates its own products with computer equipment from hardware vendors,
+third-party database management applications, and office automation software.
+Tyler is also the nation's largest provider of mass appraisal services to taxing
+jurisdictions, including physical inspection of properties in assessing
+jurisdictions, data collection and processing, computer analysis for property
+valuation and preparation of tax rolls.
+
+    Tyler's products and services generally are grouped in four major areas -
+Financial and City Solutions, Justice and Courts, Property Appraisal and Tax,
+and Recording Systems.
+
+Financial and City Solutions
+
+    Tyler's financial and city solutions products include modular fund
+accounting solutions that can be tailored to meet the needs of virtually any
+government agency or not-for-profit entity. Tyler's systems include modules for
+general ledger, budget preparation, payroll, human resources, fixed assets,
+purchasing, accounts payable and investment management. All of Tyler's systems
+conform to government auditing and financial reporting requirements and
+generally accepted accounting principles.
+
+    The Company offers utility billing systems that support the billing and
+collection of multiple metered and non-metered services, as well as multiple
+billing cycles. Comprehensive applications calculate and generate bills for one
+or more cycles and generate penalties and late notices for each billing cycle.
+Tyler offers Web-enabled utility billing solutions that allow customers to
+access information such as average consumption, flood plain information and
+transaction history. In addition, the utility billing solutions can allow
+Tyler's clients to accept secured Internet payments via credit cards and checks.
+
+    Tyler's specialized municipal information products automate numerous
+functions of city hall, including municipal court management, equipment and
+project costing, inventory, special assessments, and tax billing and collection.
+Other applications designed to meet specific municipal government needs include
+cemetery records management, ambulance billing and fleet maintenance, citizen
+complaint tracking, permits and inspections, and business licenses.
+
+Justice and Courts
+
+    Tyler offers a complete integrated suite of law enforcement and justice
+products designed to automate, track and manage the judicial process from
+incidents initiated in computer-aided dispatch/emergency E-911 systems through
+the process of arrest, court appearances and final disposition to probation.
+These applications may be installed on a stand-alone basis or integrated with
+other Tyler law enforcement and justice products to eliminate duplicate entries
+and improve efficiency.
+
+    Tyler's Web-enabled court systems are designed to automate the tracking and
+management of information involved in criminal and civil court cases. These
+applications track the status of criminal and civil cases, process fines and
+fees and generate the specialized judgment and sentencing documents, citations,
+notices and forms required in court proceedings. Additional judicial
+applications automate the management of court calendars, coordinate judges'
+schedules, generate court dockets, manage justice of the peace processes and
+automate district attorney and prosecutor functions. Related products also
+include jury selection, "hot" check processing, and adult and juvenile probation
+processing applications. Tyler's technologies for courtrooms allow judges to
+review cases, calendars, scanned documents and mug shots using a Web browser.
+Additionally, document-imaging options include the ability to scan, store,
+retrieve and archive a variety of criminal and civil case-related documents.
+
+
+                                     Page 4
+
+
+    Tyler's law enforcement systems automate law enforcement agency functions
+from dispatch and police records management to booking and jail management.
+Searching, reporting and tracking features are integrated, allowing reliable,
+up-to-date access to the latest arrest and incarceration data. The system also
+provides warrant checks for visitors or book-ins, inmate classification and risk
+assessment, commissary, property and medical processing, and automation of
+statistics and state and federal reporting. Tyler's computer-aided
+dispatch/emergency E-911 system tracks calls and the availability and status of
+emergency response vehicles, interfaces with local and state searches, and
+generally assists dispatchers in processing emergency situations. The law
+enforcement and jail management systems are fully integrated with the suite of
+court related products that track and manage the judicial process.
+
+    Tyler's judicial systems also allow the public to access via the Internet a
+variety of information contained in the judicial system, including criminal and
+civil court records, jail booking and release information, bond and bondsmen
+information and court calendars and dockets. Tyler's e-government systems also
+allow cities and counties to accept payments for traffic and parking tickets
+over the Internet, with a seamless and automatic interface to the back-office
+system.
+
+Property Appraisal and Tax
+
+    Tyler provides systems that automate the appraisal and assessment of real
+and personal property, including record keeping, mass appraisal, inquiry and
+protest tracking, appraisal and tax roll generation, tax statement processing,
+and electronic state level reporting. These systems are image- and video-enabled
+to facilitate the storage of the many property-related documents involved and
+for the on-line storage of digital photographs of properties for use in
+defending values in protest situations. Other related applications are available
+for tax billing and collection agencies, including counties and cities, school
+tax offices, and special collection agencies. These systems support billing,
+collections, lock box operations, mortgage company electronic payments, and
+automate various reporting requirements.
+
+    Tyler is also the nation's largest provider of mass real property appraisal
+services for local government taxing authorities. These services include:
+
+     o    the physical inspection of all properties in the assessing
+          jurisdiction,
+
+     o    data collection and processing,
+
+     o    sophisticated computer analysis for property valuation,
+
+     o    preparation of tax rolls,
+
+     o    community education on the assessment process and
+
+     o    arbitration between taxpayers and the assessing jurisdiction.
+
+    Property appraisal and tax services are seasonal to the extent that harsh
+winter weather conditions reduce the time available to perform certain services.
+
+Recording Systems
+
+    Tyler offers a number of specialized applications designed to help county
+governments enhance and automate courthouse operations. These systems record and
+index information for the many documents maintained at the courthouse, such as
+deeds, mortgages, liens, UCC financing statements and vital records (birth,
+death and marriage certificates). Tyler also offers applications to automate
+such functions as child support tracking, voter registration and election result
+tabulations, and motor vehicle registration.
+
+Other
+
+    The Company also provides Website development and hosting services for local
+government clients. Tyler's InSite product includes turn-key services to build,
+maintain and host a community's presence on the Internet. InSite includes an
+e-portal to allow Internet access to information maintained in the client's
+back-office systems, and allows the public to transact business with the local
+government via the Web. The first installations of InSite were completed during
+2000 and the Company believes that the availability of these features enhances
+the appeal of its core systems to customers.
+
+    In addition, Tyler provides a variety of products that interface with and
+enhance its other products, including electronic document imaging systems that
+integrate scanning, retrieval, and display of document images into other
+applications where needed. Other products add electronic video imaging, which
+integrates the capture and display of pictures with other applications.
+
+
+                                     Page 5
+
+
+SALES, MARKETING, AND CUSTOMERS
+
+    Tyler markets its products and services through direct sales and marketing
+personnel located throughout the United States. Other in-house marketing staff
+focus on add-on sales, professional services and support.
+
+    Sales of new systems are typically generated from referrals from other
+governmental offices or departments within a county or municipality, referrals
+from other local governments, relationships established between sales
+representatives and county or local officials, contacts at trade shows, direct
+mailings, and direct contact from prospects already familiar with the Company.
+The Company is active in numerous state, county, and local government
+associations, and participates in annual meetings, trade shows, and educational
+events.
+
+    Customers consist primarily of county, municipal agencies, school districts
+and other local government offices. In counties, customers include the auditor,
+treasurer, tax assessor/collector, county clerk, district clerk, county and
+district court judges, probation officers, sheriff's office, and county
+appraiser. At municipal government sites, customers include directors from
+various departments, including administration, finance, utilities, public works,
+code enforcement, personnel, purchasing, taxation, municipal court, and police.
+No single customer accounted for more than 10% of the Company's total revenues
+in 2000. Contracts for software products and services are generally implemented
+over periods of three months to one year, with annually renewing service and
+software update agreements thereafter. Although these agreements can be
+terminated by either the Company or the customer, historically most support and
+maintenance agreements are automatically renewed annually. Contracts for mass
+appraisal services are generally one to three years in duration. During 2000,
+approximately 35% of the Company's revenue was attributable to ongoing support
+and maintenance agreements.
+
+    Tyler's installed customer base includes nearly 6,000 local government
+offices in 49 states, Canada and Puerto Rico. The Company's operating units have
+historically experienced very low customer turnover, averaging less than 1%
+annually.
+
+COMPETITION
+
+    The Company competes with numerous local, regional, and national firms that
+provide or offer some or all of the products and services provided by the
+Company. Most of these competitors are smaller companies that may be able to
+offer less expensive solutions than the Company. Tyler also competes with
+national firms, some of which have greater financial and technical resources
+than Tyler. The Company also occasionally competes with central internal
+information service departments of county or local governments, which requires
+the Company to persuade the end-user department to discontinue service by its
+own personnel and outsource the service to the Company. The Company competes on
+a variety of factors, including price, service, name recognition, reputation,
+technological capabilities, and the ability to modify existing products and
+services to accommodate the individual requirements of the customer. The
+Company's ability to offer an integrated system of applications for several
+offices or departments is often a factor in its favor. County and local
+governmental units often are required to put their contracts up for competitive
+bid. Competition may be increased if a customer seeks bids on only one aspect of
+its system (such as only motor vehicle registration) rather than bidding all of
+the system as an integrated whole, because single function bidding generally
+results in more bidders and more intense price competition.
+
+SUPPLIERS
+
+    All computers, peripherals, printers, scanners, operating system software,
+office automation software, and other equipment necessary for the implementation
+and provision of software systems and services by Tyler are presently available
+from several third-party sources. Hardware is purchased on original equipment
+manufacturer or distributor terms at discounts from retail. The Company has not
+experienced any significant supply problems.
+
+BACKLOG
+
+    At December 31, 2000, the Company's estimated sales backlog was
+approximately $97.1 million, compared to $67.2 million at December 31, 1999.
+Backlog increased primarily due to a contract the Company signed in August 2000
+for reappraisal services and software with Nassau County, New York which will
+run through the end of 2002. The backlog represents contracts that have been
+signed but not delivered or performed as of year-end. Approximately $67.9
+million of the backlog is expected to be installed or services are expected to
+be performed during 2001.
+
+                                     Page 6
+
+
+INTELLECTUAL PROPERTY, PROPRIETARY RIGHTS, AND LICENSES
+
+    The Company regards certain features of its internal operations, software,
+and documentation as confidential and proprietary and relies on a combination of
+contractual restrictions, trade secret laws, and other measures to protect its
+proprietary intellectual property. The Company does not rely on patents. The
+Company believes that, due to the rapid rate of technological change in the
+computer software industry, trade secrets and copyright protection are less
+significant than factors such as knowledge, ability and experience of the
+Company's employees, frequent product enhancements, and timeliness and quality
+of support services. The Company typically licenses its software products under
+exclusive license agreements, which are generally non-transferable and have a
+perpetual term.
+
+EMPLOYEES
+
+    At December 31, 2000, the Company had approximately 1,267 employees, of
+which approximately 29 were employed in the corporate office. Mass property
+appraisal projects are periodic in nature and can be widely dispersed
+geographically. The Company often hires temporary employees to assist in these
+projects whose term of employment generally ends with the project's completion.
+None of the Company's employees are represented by a labor union or are subject
+to collective bargaining agreements. Management considers its relations with its
+employees to be positive.
+
+OTHER INFORMATION
+
+    The Company previously classified its operations into two segments -
+software systems and services and information and property records services. In
+September 2000, the Company sold certain real estate and the assets of two
+businesses in the information and property records services segment, including
+Kofile, Inc., for $14.4 million in cash. In December 2000, the Company sold for
+cash in a transaction valued at $71.0 million its Business Resources Corporation
+and affiliated units, which comprised the majority of the remaining operations
+of the information and property records services segment. The Company expects to
+sell or otherwise dispose of the remaining units in that segment during 2001.
+Accordingly, the operating results of the information and property records
+services segment has been classified as discontinued operations in the
+accompanying consolidated financial statements.
+
+ITEM 2.   PROPERTIES.
+
+    The Company occupies approximately 216,000 square feet of office and
+warehouse space, 27,000 of which is owned by the Company. The Company leases its
+principal executive office located in Dallas, Texas, as well as other offices,
+facilities and project offices for its operating companies in Texas, Iowa,
+Maine, Ohio, Michigan, Colorado, Idaho, North Carolina, Massachusetts,
+Pennsylvania, Connecticut, New Hampshire, New York, Rhode Island, California,
+Georgia, Wisconsin and Florida. The Company's owned property has been pledged as
+security under its senior credit facility.
+
+ITEM 3.   LEGAL PROCEEDINGS.
+
+    Two of the Company's non-operating subsidiaries, Swan Transportation Company
+("Swan") and TPI of Texas, Inc. ("TPI"), have been and/or are currently involved
+in various claims raised by approximately 550 former TPI employees for work
+related injuries and physical conditions resulting from alleged exposure to
+silica, asbestos, and/or related industrial dusts during their employment by
+TPI. Swan was the parent company of TPI, which owned and operated a foundry in
+Tyler, Texas for approximately 28 years. As non-operating subsidiaries of the
+Company, the assets of Swan and TPI consist primarily of various insurance
+policies issued to each company during the relevant time periods. Swan and TPI
+have tendered the defense and indemnity obligations arising from these claims to
+their insurance carriers. To date, Swan's insurance carriers have entered into
+settlement agreements with over 230 of the plaintiffs, each of which agreed to
+release Swan, TPI, the Company, and its subsidiaries and affiliates from all
+such claims in exchange for payments made by the insurance carriers. Because of
+the inherent uncertainties discussed above, it is reasonably possible that the
+amounts recorded as liabilities for TPI and Swan related matters could change in
+the near term by amounts that would be material to the consolidated financial
+statements.
+
+    Other than ordinary course, routine litigation incidental to the business of
+the Company and except as described herein, there are no material legal
+proceedings pending to which the Company or its subsidiaries are parties or to
+which any of its properties are subject.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+    Not applicable.
+
+
+
+                                     Page 7
+
+
+
+
+                                     PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS.
+
+    Tyler common stock is traded on the New York Stock Exchange. At December 31,
+2000, Tyler had approximately 3,000 stockholders of record. A number of the
+Company's stockholders hold their shares in street name; therefore, there are
+substantially more than 3,000 beneficial owners of its common stock.
+
+    The following table sets forth for the calendar periods indicating the high
+and low sales price per share of Tyler common stock as reported on the New York
+Stock Exchange.
+
+
+
+    No cash dividends were paid in 2000 or 1999. The Company intends to retain
+earnings for use in the operation and expansion of its business, and therefore
+does not anticipate declaring a cash dividend in the foreseeable future.
+
+
+
+
+                                     Page 8
+
+
+
+
+ITEM 6.   SELECTED FINANCIAL DATA.
+(In thousands, except per share data)
+
+
+
+
+
+
+(1) 2000, 1999, and 1998 include the results of operations of the companies
+    formerly comprising the software systems and services segment from the
+    acquired companies' respective dates of acquisition and excludes the results
+    of operations of the discontinued automotive parts and supplies segment and
+    the information and property records services segment. Prior years' selected
+    financial data have been restated to reflect discontinuation of the
+    information and property records services segment in 2000, the automotive
+    parts and supply segment in 1998, and the fund-raising segment in 1997. For
+    years prior to 1998, selling, general and administrative expense includes
+    only amounts relating to the holding company. See Notes 2 and 3 in Notes to
+    Consolidated Financial Statements.
+
+(2) Depreciation and amortization included in cost of revenues and selling,
+    general and administrative expenses for 2000, 1999, 1998, 1997, and 1996 was
+    $2,783, $1,145, $493, $116, and $101, respectively.
+
+(3) 1996 selling, general and administrative expenses include pretax
+    restructuring and other charges of $3,616.
+
+(4) EBITDA consists of income from continuing operations before interest, costs
+    of certain acquisition opportunities, income taxes, depreciation, and
+    amortization. Although EBITDA is not calculated in accordance with
+    accounting principles generally accepted in the United States, the Company
+    believes that EBITDA is widely used as a measure of operating performance.
+    Nevertheless, this measure should not be considered in isolation or as a
+    substitute for operating income, cash flows from operating activities, or
+    any other measure for determining the Company's operating performance or
+    liquidity that is calculated in accordance with generally accepted
+    accounting principles. EBITDA does not take into account the Company's debt
+    service requirements and other commitments and accordingly EBITDA is not
+    necessarily indicative of amounts that may be available for reinvestment in
+    the Company's business or other discretionary uses. In addition, since all
+    companies do not calculate EBITDA in the same manner, this measure may not
+    be comparable to similarly titled measures reported by other companies.
+
+    On a pro forma basis, EBITDA for the year ended December 31, 2000 and 1999,
+    was $4,253 and $13,135, respectively. Pro forma information presents the
+    consolidated results of operations as if all the Company's acquisitions and
+    the disposition of the information and property records services segment
+    occurred as of the beginning of 1999, after giving effect to certain
+    adjustments, including amortization of intangibles, interest and income tax
+    effects.
+
+
+
+                                     Page 9
+
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+         RESULTS OF OPERATIONS.
+
+FORWARD - LOOKING STATEMENTS
+
+    This Annual Report on Form 10-K contains forward-looking statements within
+the meaning of Section 27A of the Securities Act of 1933, as amended, and
+Section 21E of the Securities Exchange Act of 1934, as amended. All statements
+other than historical or current facts, including, without limitation,
+statements about the business, financial condition, business strategy, plans and
+objectives of management, and prospects of the Company are forward-looking
+statements. Although the Company believes that the expectations reflected in
+such forward-looking statements are reasonable, such forward-looking statements
+are subject to risks and uncertainties that could cause actual results to differ
+materially from these expectations. Such risks and uncertainties include,
+without limitation, the ability of the Company to successfully integrate the
+operations of acquired companies, technological risks associated with the
+development of new products and the enhancement of existing products, changes in
+the budgets and regulatory environments of the Company's government customers,
+the ability to attract and retain qualified personnel, changes in product
+demand, the availability of products, changes in competition, changes in
+economic conditions, changes in tax risks and other risks indicated in the
+Company's filings with the Securities and Exchange Commission. These risks and
+uncertainties are beyond the ability of the Company to control, and in many
+cases, the Company cannot predict the risks and uncertainties that could cause
+its actual results to differ materially from those indicated by the
+forward-looking statements.
+
+    When used in this Annual Report, the words "believes," "plans," "estimates,"
+"expects," "anticipates," "intends," "continue," "may," "will," "should,"
+"projects," "forecasts," "might," "could," or the negative of such terms and
+similar expressions as they relate to the Company or its management are intended
+to identify forward-looking statements.
+
+GENERAL
+
+    On September 29, 2000, the Company sold for cash certain net assets of
+Kofile, Inc. ("Kofile") and another subsidiary, the Company's interest in a
+certain intangible work product, and a building and related building
+improvements. Effective December 29, 2000, the Company sold for cash its land
+records business unit, Business Resources Corporation ("Resources"), including
+among others, Resources wholly-owned subsidiaries Government Records Services,
+Inc. and Title Records Corporation, to an affiliate of Affiliated Computer
+Services, Inc. ("ACS"). Concurrent with the sale to ACS, management of the
+Company with the Board of Director's approval adopted a formal plan of disposal
+for the remaining businesses and assets of the information and property records
+services segment. This restructuring program was designed to focus the Company's
+resources on its software systems and services segment and to reduce debt. In
+March 1999, the Company sold Forest City Auto Parts Company ("Forest City"),
+which was an automotive parts and supplies business. The business and assets
+divested or identified for divesture have been classified as discontinued
+operations in 2000, 1999, and 1998. All prior year financial information
+included herein has been restated to reflect these dispositions. Continuing
+operations in 2000, 1999, and 1998 are comprised of the results of operations of
+the companies formerly comprising the software systems and services segment.
+
+    The following is a summary of significant acquisitions consummated in 1998
+and 1999 that remain in continuing operations:
+
+    On February 19, 1998, the Company acquired The Software Group ("TSG") and
+Interactive Computer Designs, Inc. ("INCODE"), which provide county, local and
+municipal governments with software, systems and services to serve their
+information technology and automation needs. Their customer base is mainly
+located in Texas, Georgia and Oregon.
+
+    Effective August 1, 1998, the Company completed the purchase of Computer
+Management Services ("CMS"). CMS provides integrated information management
+systems and services to county and municipal governments throughout Iowa,
+Minnesota, Missouri, South Dakota, Illinois, Wisconsin and other states,
+primarily in the upper Midwest.
+
+    Effective March 1, 1999, the Company acquired Eagle Computer Systems,  Inc.
+("Eagle"). Eagle supplies networked computing solutions and services for county
+governments, primarily in the western United States.
+
+    Effective April 1, 1999, the Company completed its acquisition of Micro
+Arizala Systems, Inc. d/b/a FundBalance ("FundBalance"), a company which
+develops and markets fund accounting software and other applications for state
+and local governments, not-for-profit organizations and cemeteries.
+
+
+                                    Page 10
+
+
+    On April 21, 1999, the Company acquired Process Incorporated d/b/a Computer
+Center Software ("MUNIS"), which designs and develops integrated financial and
+land management information systems for counties, cities, schools and
+not-for-profit organizations primarily located in the northeastern and
+southeastern United States.
+
+    On November 4, 1999, the Company acquired selected assets and assumed
+selected liabilities of Cole Layer Trumble Company, ("CLT"), a division of a
+privately held company. CLT provides property appraisal software and services to
+governments.
+
+    All of the Company's acquisitions have been accounted for using the
+purchase method for business combinations, and the results of operations of the
+acquired entities are included in the Company's historical consolidated
+financial statements from their respective dates of acquisition. Because of the
+significance of these acquisitions, in the following analysis of results of
+operations, the Company has provided pro forma amounts as if all of the
+Company's acquisitions and dispositions previously discussed had occurred as of
+the beginning of 1998. There were no acquisitions during 2000 that remain in
+continuing operations.
+
+2000 COMPARED TO 1999
+
+REVENUES
+
+    On a pro forma basis, revenues were $93.2 million for the year ended
+December 31, 2000, compared to $107.4 million in the comparable prior year
+period. The decline in revenues on a pro forma basis was primarily because of
+post-Year 2000 ("Y2K") related factors. Local governments reduced spending for
+software applications and systems for a variety of reasons, including
+anticipation of Y2K problems and delaying new systems projects while they
+recover from their intensive efforts to become Y2K compliant in the prior year.
+Many customers and potential customers appeared to have instituted Y2K
+"lockdowns" and did not install new systems during 2000. Additionally, the 1999
+pro forma revenues benefited somewhat from accelerated Y2K compliance related
+sales.
+
+    Pro forma software license revenue in 2000 decreased approximately 25% to
+$18.6 million from $24.9 million compared to 1999. Pro forma software license
+revenue comparisons were negatively impacted by the post-Y2K factors described
+above.
+
+    Professional service revenue on a pro forma basis decreased approximately
+$6.5 million to $37.4 million in 2000 compared from $43.9 million in 1999.
+Professional services such as data conversion and training are often contracted
+for in conjunction with software license products. Thus, the decline in software
+license sales volume in 2000 negatively impacted professional services. Pro
+forma professional services revenue declined despite the inclusion of
+approximately $4.7 million of appraisal services and software revenue in 2000
+from the Company's contract with Nassau County, New York Board of Assessors
+("Nassau County"). The Nassau County contract to reassess all residential and
+commercial properties in Nassau County and provide assessment administration
+software and training to help maintain equity and manage the property tax
+process is valued at $34.0 million. Implementation of the Nassau County contract
+began in September 2000 and is expected to be completed late 2002.
+
+    Pro forma maintenance revenue was $32.5 million for 2000 and $28.3 million
+for the comparable prior year period. The 15% increase is due to an increase in
+the Company's base of installed software and systems products. Maintenance
+revenue was approximately 35% of total revenue in 2000 compared to approximately
+26% in 1999, on a pro forma basis. Maintenance and support services are provided
+for the Company's software products, including property appraisal products, and
+third party software and hardware. The renewal rates for property appraisal
+system maintenance agreements are not as high as other software and hardware
+maintenance agreements and will vary somewhat from period to period. Excluding
+property appraisal maintenance agreements, pro forma maintenance revenue
+increased approximately 20% for the year ended December 31, 2000 compared to the
+comparable prior year period.
+
+    Hardware revenue on a pro forma basis decreased $5.7 million in 2000
+compared to 1999 as a result of the Company focusing its sales effort on higher
+margin products and services.
+
+COST OF REVENUES
+
+    For the year ended December 31, 2000, on a pro forma basis, cost of revenues
+was $58.9 million compared to $60.9 million in 1999. Gross margin, on a pro
+forma basis, decreased to 37% in 2000 from 43% for the same period in the prior
+year. Gross margin decreased because software license revenue was a lower
+percentage of the overall product mix in 2000 compared to 1999. Software license
+revenue carries higher margins than other revenue categories. Another
+contributing factor to a lower gross margin in 2000 was
+
+
+
+
+                                    Page 11
+
+
+higher personnel costs. Personnel costs, which is the primary component of cost
+of service and maintenance revenue, increased due to higher costs of contract
+labor, salary adjustments and higher head count as a result of staffing
+increases associated with record high revenues in 1999.
+
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSES
+
+    For the year ended December 31, 2000, selling, general and administrative
+expenses were $32.8 million, or 35% of revenues. For the same period in the
+prior year, selling, general and administrative expenses were $35.1 million, or
+33% of revenues, on a pro forma basis. Selling, general and administrative
+expenses include sales commission costs which declined as a result of lower
+sales volume. This decline was offset somewhat by costs associated with
+consolidating certain finance and administrative functions and higher personnel
+costs.
+
+COSTS OF CERTAIN ACQUISITION OPPORTUNITIES
+
+    In March 1999, the Company entered into a merger agreement pursuant to which
+the Company contemplated the acquisition of all of the outstanding common stock
+of CPS Systems, Inc. ("CPS"). In connection with that agreement, the Company
+provided CPS with bridge financing in the form of notes secured by a second lien
+on substantially all of the assets of CPS, including accounts receivable,
+inventory, intangibles, equipment and intellectual property.
+
+    In January 2000, CPS filed a voluntary petition for relief under Chapter 11
+of the United States Bankruptcy Code. On March 24, 2000, the bankruptcy court
+conducted a public auction of the assets of CPS. The Company anticipates minimal
+to no recovery of amounts due under its secured notes. Accordingly, the
+aggregate bridge financings and related accrued interest receivable and other
+costs amounting to $1.9 million were expensed in the 1999 consolidated financial
+statements.
+
+
+AMORTIZATION OF INTANGIBLES
+
+    The Company accounted for all 1999 and 1998 acquisitions using the purchase
+method of accounting for business combinations. The excess of the purchase price
+over the net identifiable assets of the acquired companies ("goodwill") is
+amortized using the straight-line method of amortization over their respective
+estimated useful lives.
+
+    At December 31, 2000 and 1999, the Company had $84.7 million and $85.7
+million, respectively, of goodwill and other intangible assets, net of
+accumulated amortization. Such intangibles amounted to 55% and 34% of total
+assets and 88% and 62% of shareholders' equity at December 31, 2000 and 1999,
+respectively. Goodwill excluding accumulated amortization at December 31, 2000
+and 1999 was $51.1 million and $53.8 million, respectively. The decrease in
+unamortized goodwill from the prior year is primarily due to adjustments made to
+goodwill in the third quarter of 2000 relating to appraisal reports for CLT from
+an outside appraisal firm that assisted the Company in assigning value to its
+newly acquired identifiable intangible assets.
+
+    The Company considers a variety of factors in estimating the useful lives of
+goodwill and other intangible assets to be recorded as a result of its
+acquisitions. Determining the appropriate useful life of goodwill and other
+intangible assets is a matter of judgment. In making its determination, the
+Company considered a number of factors, including the following:
+
+     o    position of the acquired enterprise in the market and the extent of
+          barriers to entry for competitors;
+
+     o    age, historical operating performance, and quality of earnings of the
+          acquired enterprise, including the extent of operating history and the
+          presence or lack of stable earnings history;
+
+     o    experience of the acquired enterprise's management;
+
+     o    the future viability of products and services, including the impact of
+          technological changes and advances and the level of continued
+          investment necessary to maintain the acquired enterprise's
+          technological position;
+
+     o    competition; and
+
+     o    industry practice.
+
+    In addition, the Company periodically retains the services of an outside
+appraisal firm to assist in determining the value assigned to newly acquired
+identifiable intangible assets and the estimated useful lives. At December 31,
+2000 and 1999, management of the Company believes such assets are recoverable
+and the estimated useful lives are reasonable.
+
+                                    Page 12
+
+
+NET INTEREST EXPENSE
+
+    Interest expense increased substantially for the year ended December 31,
+2000 compared to the same period in 1999. The senior credit facility was amended
+in August 2000 and December 2000 to, among other things, accelerate repayment of
+borrowings under the facility. Accordingly, a cumulative $1.4 million charge was
+recorded in 2000 to accelerate the amortization of previously capitalized loan
+costs. Borrowings under the senior credit facility were used to finance
+acquisitions, as well as capital expenditures, including proprietary software
+development costs, resulting in higher interest expense. Capitalized software
+development costs were $6.7 million for 2000, as compared to $1.4 million for
+1999. In addition to higher debt levels, the average effective interest rate for
+2000 was 10.2% compared to 7.7% for 1999.
+
+INCOME TAX PROVISION
+
+    In 2000, the Company had a pre-tax loss from continuing operations of $10.3
+million and an income tax benefit of $2.8 million, resulting in an effective
+benefit rate of 27%. In 1999, the Company had a pretax loss from continuing
+operations of $1.8 million and an income tax provision of $188,000. The lower
+effective income tax benefit is due to non-deductible items such as goodwill
+amortization as compared to the relative amount of pretax loss.
+
+DISCONTINUED OPERATIONS
+
+Information and Property Records Services Segment Divestiture
+
+    On September 29, 2000, the Company sold for cash certain net assets of
+Kofile and another subsidiary, the Company's interest in a certain intangible
+work product, and a building and related building improvements (the "Kofile
+sale"). Effective December 29, 2000, the Company sold for cash its land records
+business unit, Resources including among others, Resources wholly-owned
+subsidiaries Government Records Services, Inc. and Title Records Corporation, to
+an affiliate of ACS (the "Resources sale"). Concurrent with the Resources sale,
+management of the Company with the Board of Director's approval adopted a formal
+plan of disposal for the remaining businesses and assets of the information and
+property records services segment. This restructuring program was designed to
+focus the Company's resources on its software systems and services segment and
+to reduce debt. The business and assets divested or identified for divesture
+have been classified as discontinued operations in the accompanying consolidated
+financial statements with prior years' financial statements restated to report
+separately their operations in compliance with Accounting Principles Board
+("APB") Opinion No. 30.
+
+    The Kofile sale was to investment entities beneficially owned by a principal
+shareholder of the Company. The cash sales price was $14.4 million and the gain
+on the sale, after the effects of transaction costs, amounted to $403,000 (net
+of an income tax benefit of $200,000).
+
+    The Resources sale was valued at approximately $71.0 million, consisting of
+approximately $70.0 million in cash and ACS's assumption of approximately $1.0
+million of capital lease obligations. The gain on the sale, after transaction
+costs, amounted to $1.1 million (net of an income tax benefit of $2.2 million).
+Transaction costs and certain costs directly related to the sale were estimated
+to be $4.1 million and included investment banking fees, professional fees, cash
+payments to departing employees and approximately $844,000 in connection with
+the issuance of 500,000 shares of restricted common stock to departing
+employees.
+
+    The Company anticipates that the remaining businesses and assets of the
+segment will be disposed of by December 29, 2001. One of the remaining assets
+consists of a start-up company that has been engaged in constructing a
+Web-enabled national repository of public records data. Another remaining
+business is Capitol Commerce Reporter, Inc. ("CCR"), which was purchased in
+January 2000 and provides public records research, principally UCCs in Texas.
+The interdependency of these operations with those of Resources resulted in the
+Company's decision to discontinue the development of the database and other
+related products and exit the land records business following the Resources
+sale. The estimated loss on the disposal of these remaining businesses and
+assets amounted to $13.6 million (after an income tax benefit of $3.8 million),
+consisting of an estimated loss on disposal of the businesses of $11.5 million
+(net of an income tax benefit of $2.7 million) and a provision of $2.1 million
+(after an income tax benefit of $1.1 million) for anticipated operating losses
+from the measurement date of December 29, 2000 to the estimated disposal dates.
+The anticipated operating losses to the disposal dates include the effects of
+the settlement of certain employment contracts, losses on real property leases,
+severance costs and similar closing related costs. The amounts the Company will
+ultimately realize could differ materially from the amounts assumed in arriving
+at the loss on disposal of the discontinued operations.
+
+
+                                    Page 13
+
+Automotive Parts Segment Divestiture
+
+    In December 1998, the Company entered into a letter of intent to sell its
+non-core automotive parts business, Forest City. Accordingly, this segment has
+been accounted for as a discontinued operation in compliance with APB Opinion
+No. 30.
+
+    On March 26, 1999, the Company sold all of the outstanding common stock of
+Forest City, to a private investor (the "Purchaser") for $24.5 million. Proceeds
+consisted of $12.0 million in cash, $3.8 million in a short-term secured
+promissory note, $3.2 million in senior secured subordinated notes and $5.5
+million in preferred stock. The short-term secured promissory note was fully
+paid in July 1999. The senior secured subordinated notes carry interest rates
+ranging between 6% to 8%, become due in March 2002, and are secured by a second
+lien on Forest City inventory and real estate. The preferred stock will be
+mandatorily redeemable March 2006. Both the subordinated notes and the preferred
+stock will be subject to partial or whole redemption upon the occurrences of
+specified events.
+
+    In determining the loss on the disposal of the business, the subordinated
+notes were valued using present value techniques. As discussed in Note 2 in the
+Notes to Consolidated Financial Statements, the $3.2 million in senior secured
+subordinated notes were subsequently assigned without recourse to another party
+in connection with an acquisition. Because redemption of the preferred stock is
+highly dependent upon future successful operations of the buyer and due to the
+extended repayment terms, the Company is unable to estimate the degree of
+recoverability. Accordingly, the Company determined it would record the value of
+the preferred stock as cash is received. The Company originally estimated the
+loss on the disposal of Forest City to be $8.9 million, which was recorded in
+the fourth quarter of 1998. The estimated loss included anticipated operating
+losses from the measurement date of December 1998 to the date of disposal and
+associated transaction costs. In 1999, the Company recorded additional losses of
+$907,000 (including taxes of $183,000) to reflect adjusted estimated transaction
+costs, funded operating losses which were higher than originally estimated,
+income tax benefit adjustment and a write down of a receivable in connection
+with a dispute.
+
+    Subsequent to December 31, 2000, Forest City filed for bankruptcy under
+Chapter 11 of the United States Bankruptcy Code. The Company does not expect
+this matter to have a material adverse effect on the financial statements.
+
+Other
+
+    In 1998, the Company recorded a final gain adjustment of $801,000 relating
+to the 1997 sale of its subsidiary Institutional Financing Services Inc.
+
+    For the year ended December 31, 2000, loss from operations, net of income
+tax benefit for the discontinued information and property records services
+segment was $4.3 million. For the year ended December 31, 1999, income from
+operations, net of income tax for the discontinued information and property
+records services segment was $1.9 million. During the year ended December 31,
+1998, income from the operations, net of income tax, for the discontinued
+information and property records services segment as well as the automotive
+parts segment amounted to $2.2 million.
+
+    Two of the Company's non-operating subsidiaries are involved in various
+claims for work related injuries and physical conditions and for environmental
+claims relating to a formerly owned subsidiary that was sold in 1995. During
+2000 and 1999, the Company expensed $748,000 (net of an income tax benefit of
+$403,000) and $1.9 million (net of an income tax benefit of $877,000),
+respectively, for trial costs and settlement costs in excess of the amounts
+accrued associated with these claims. See Note 17 in the Notes to Consolidated
+Financial Statements.
+
+INVESTMENT SECURITY AVAILABLE-FOR-SALE
+
+    Pursuant to an agreement with two major shareholders of H.T.E., Inc.
+("HTE"), the Company acquired approximately 32% of HTE's common stock in two
+separate transactions in 1999. On August 17, 1999, the Company exchanged 2.3
+million shares of its common stock for 4.7 million shares of HTE common stock.
+This initial investment was recorded at $14.0 million. The second transaction
+occurred on December 21, 1999, in which the Company exchanged 484,000 shares of
+its common stock for 969,000 shares of HTE common stock. This additional
+investment was recorded at $1.8 million. The investment in HTE common stock is
+classified as a non-current asset since it was made for a continuing business
+purpose.
+
+    Florida state corporation law restricts the voting rights of "control
+shares", as defined, acquired by a third party in certain types of acquisitions,
+which restrictions may be removed by a vote of the shareholders. The Florida
+"control share" statute has not been interpreted by the courts. HTE has taken
+the position that, under the Florida statute, all of the shares acquired by the
+Company
+
+
+
+                                    Page 14
+
+
+constitute "control shares" and therefore do not have voting rights until such
+time as shareholders of HTE, other than the Company, restore voting rights to
+those shares. Management of the Company believes that only the shares acquired
+in excess of 20% of the outstanding shares of HTE constitute "control shares"
+and therefore believes it currently has the right to vote all HTE shares it owns
+up to at least 20% of the outstanding shares of HTE. On November 16, 2000, the
+shareholders of HTE, other than Tyler, voted to deny the Company its right to
+vote the "control shares" of HTE.
+
+    Under generally accepted accounting principles, an investment of 20% or more
+of the voting stock of an investee should lead to a presumption that in absence
+of evidence to the contrary, an investor has the ability to exercise significant
+influence over the operating and financial policies of an investee. Management
+of the Company has concluded that it currently does not have such influence as
+evidenced by the following key factors:
+
+     o    Inability to resolve the different interpretations regarding the
+          ability to vote the shares;
+
+     o    Inability to obtain additional financial information not otherwise
+          available to other shareholders; and
+
+     o    Inability to obtain certain confirmations and consents from the
+          investee's independent auditors.
+
+    Accordingly, the Company accounts for its investment in HTE pursuant to the
+provisions of Statement of Financial Accounting Standards ("SFAS") No. 115,
+"Accounting for Certain Investments in Debt and Equity Securities". These
+securities are classified as available-for-sale and are recorded at fair value
+as determined by quoted market prices. Unrealized holding gains and losses, net
+of the related tax effect, on available-for-sale securities are excluded from
+earnings and are reported as a separate component of shareholders' equity until
+realized. Realized gains and losses from the sale of available-for-sale
+securities (none in each of the three years ended December 31, 2000) are
+determined on a specific identification basis. A decline in the market value of
+any available-for-sale security below cost that is deemed to be other than
+temporary results in a reduction in carrying amount to fair value.
+
+    At December 31, 2000, the cost, fair value and gross unrealized holding
+losses of the investment securities available-for-sale amounted to $15.8
+million, $5.1 million and $10.7 million, respectively, based on a quoted market
+price for HTE stock of $.91 per share. At December 31, 1999, the fair value and
+gross unrealized holding gains of the investment securities available-for-sale
+amounted to $33.7 million and $17.9 million, respectively, based on a quoted
+market price of $6.00. At March 12, 2001, the fair value of the investment
+securities available-for-sale was $8.4 million based on a quoted market price of
+$1.50 per share.
+
+    At December 31, 2000, the Company has an unrealized loss on its investment
+in HTE of $10.7 million. A decline in the market value of any available for sale
+security below cost that is deemed to be other than temporary results in a
+reduction in the carrying amount to fair value and the impairment is charged to
+earnings and a new cost basis for the security is established. At this time,
+management of the Company does not believe the decline in the market value is
+other than temporary. In making this determination, management concluded it has
+both the intent and the ability to hold the investment for a period of time
+sufficient to allow for the anticipated recovery in fair value. Other conditions
+considered, among others, included the conditions in the local government
+software industry, the financial condition of the issuer, and recent favorable
+public statements by the issuer concerning its future prospects.
+
+    If the uncertainty regarding the voting shares is resolved in the Company's
+favor, the Company will retroactively adopt the equity method of accounting for
+this investment. Therefore, the Company's results of operations and retained
+earnings for periods beginning with the 1999 acquisition will be retroactively
+restated to reflect the Company's investment in HTE for all periods in which it
+held an investment in the voting stock of HTE. Under the equity method, the
+original investment is recorded at cost and is adjusted periodically to
+recognize the investor's share of earnings or losses after the respective dates
+of acquisition. The Company's investment in HTE would include the unamortized
+excess of the Company's investment over its equity in the net assets of HTE.
+This excess would be amortized on a straight-line basis over the estimated
+economic useful life of ten years. In addition, any loss in value of an
+investment which is other than a temporary decline would also be charged to
+earnings.
+
+NET LOSS AND OTHER MEASURES
+
+    Net loss was $24.6 million in 2000 compared to $2.8 million in 1999. Diluted
+loss per share was $0.54 and $0.07 for 2000 and 1999, respectively. Net loss
+from continuing operations was $7.5 million, or $0.17 per diluted share, in 2000
+compared to net loss of $2.0 million, or $0.05 per diluted share, in 1999. On a
+pro forma basis, net loss from continuing operations was $4.0 million, or $0.09
+per diluted share, in 2000 compared to income from continuing operations of
+$905,000 or $0.02 per diluted share in 1999.
+
+
+                                    Page 15
+
+
+    Earnings before interest, taxes, depreciation, amortization and costs of
+certain acquisition opportunities ("EBITDA") for the year ended December 31,
+2000, was $4.3 million compared to $8.0 million in 1999. EBITDA consists of
+income from continuing operations before interest, costs of certain acquisition
+opportunities, income taxes, depreciation and amortization. Although EBITDA is
+not calculated in accordance with accounting principles generally accepted in
+the United States, the Company believes that EBITDA is widely used as a measure
+of operating performance. Nevertheless, the measure should not be considered in
+isolation or as a substitute for operating income, cash flows from operating
+activities, or any other measure for determining the Company's operating
+performance or liquidity that is calculated in accordance with generally
+accepted accounting principles. EBITDA is not necessarily indicative of amounts
+that may be available for reinvestment in the Company's business or other
+discretionary uses. In addition, because all companies do not calculate EBITDA
+in the same manner, this measure may not be comparable to similarly titled
+measures reported by other companies.
+
+1999 COMPARED TO 1998
+
+REVENUES
+
+    On a pro forma basis, total revenues increased $23.7 million, or 28% to
+$107.4 million, for the twelve months ended December 31, 1999 compared to $83.7
+million in the comparable prior year period. Pro forma software license revenue
+in 1999 increased approximately 31% compared to 1998. Software license revenues
+benefited from customers' efforts to become Year 2000 compliant by upgrading
+their software systems. In addition, software license revenue in 1999 included
+the installation of several large contracts for judicial information management
+and court systems and property appraisal and tax systems and increased sales
+volume from utilities applications. As a percentage of total revenues on a pro
+forma basis, software license revenue was approximately 23% in both 1999 and
+1998.
+
+    Professional service revenue on a pro forma basis increased approximately
+37% in 1999 compared to 1998. Approximately two-thirds of this increase is due
+to customization and modifications of software products required in several
+large contracts installed in 1999. The remaining one-third of the increase is
+due to increased volume in mass appraisal services. Professional service revenue
+was approximately 40% of total revenues in 1999 compared to approximately 38% in
+1998, on a pro forma basis.
+
+    Pro forma maintenance revenue increased $7.1 million due to an increase in
+the Company's base of installed software and systems products. Maintenance
+revenue was approximately 26% and 25% of total revenue for 1999 and 1998,
+respectively, on a pro forma basis.
+
+    Hardware revenues on a pro forma basis decreased approximately 10% in 1999
+compared to 1998 as a result of the Company focusing its sales effort on higher
+margin products and services. This decrease was offset slightly by an increase
+in customer upgrades due to Y2K compliance requirements.
+
+COST OF REVENUES
+
+    On a pro forma basis, total cost of revenues increased $11.7 million, or
+24%, for the twelve months ended December 31, 1999 compared to $49.2 million in
+the comparable prior year period. Gross margin increased to 43% in 1999 compared
+to 41% for same period in the prior year, on a pro forma basis. The gross margin
+benefited from a product mix in 1999 that included less hardware and third party
+software than the prior year on a pro forma basis. Hardware and third party
+software have lower margins than proprietary software license products and
+services. The gross margin increase was offset slightly by higher costs
+associated with third party services utilized in connection with the performance
+of two large mass property appraisal contracts in 1999.
+
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSES
+
+    Selling, general and administrative expenses on a pro forma basis were $35.1
+million in 1999, compared to $25.6 million in 1998. Selling, general and
+administrative expense as a percentage of pro forma revenues was approximately
+33% and 31% for the twelve months ended December 31, 1999 and 1998,
+respectively.
+
+COSTS OF CERTAIN ACQUISITION OPPORTUNITIES
+
+    On July 31, 1998, the Company entered into a letter of intent with a Fortune
+500 company to acquire certain businesses of the company in a transaction to be
+accounted for as a purchase business combination. These businesses had estimated
+annual revenues in excess of $500 million and represented a business opportunity
+which was aligned with the Company's strategy in the information
+
+
+                                    Page 16
+
+
+management business. Direct and incremental costs totaling $3.1 million
+associated with the combination, primarily consisting of fees paid to outside
+legal and accounting advisors for due diligence, were incurred by the Company
+and would have been considered as a cost of the acquisition upon the successful
+closing of the transaction. Subsequent to September 30, 1998, the potential
+seller elected not to sell any of the businesses. Accordingly, all costs
+associated with this opportunity were expensed in the 1998 consolidated
+financial statements.
+
+AMORTIZATION OF INTANGIBLES
+
+    The Company accounted for all of its acquisitions using the purchase method
+of accounting for business combinations. Unallocated purchase price over the net
+identifiable assets of the acquired companies is amortized using the
+straight-line method of amortization over their respective useful lives.
+
+NET INTEREST EXPENSE
+
+    As a result of the debt incurred to finance acquisitions and their related
+transaction costs in 1999, the Company recorded net interest expense of $1.8
+million compared to $234,000 in 1998.
+
+INCOME TAX PROVISION
+
+    In 1999, the Company had a pretax loss from continuing operations of $1.8
+million and an income tax provision of $188,000 resulting in a negative
+effective tax rate of 11%. The comparable 1998 effective benefit rate was 21%.
+The difference in the tax rates is due to non-deductible items such as goodwill
+amortization as compared to the relative amount of pretax earnings or loss.
+
+NET LOSS AND OTHER MEASURES
+
+    Net loss was $2.8 million in 1999 compared to $8.4 million in 1998. Diluted
+loss per share was $0.07 and $0.26 for 1999 and 1998, respectively. Net loss
+from continuing operations was $2.0 million, or $0.05 per diluted share, in 1999
+compared to a net loss of $2.5 million, or $0.08 per diluted share in 1998.
+
+ACCOUNTING PRONOUNCEMENTS NOT YET ADOPTED
+
+    In June 1999, SFAS No. 137 "Accounting for Derivative Instruments and
+Hedging Activities-Deferral of Effective Date of FASB Statement No. 133" was
+issued by the Financial Accounting Standards Board ("FASB"). The Statement
+defers for one year the effective date of FASB Statement No. 133, "Accounting
+for Derivative Instruments and Hedging Activities". The rule now will apply to
+all fiscal years beginning after June 15, 2000. FASB Statement No. 133 will
+require the Company to recognize all derivatives on the balance sheet at fair
+value. Derivatives that are not hedges must be adjusted to fair value through
+income. If the derivative is a hedge, depending on the nature of the hedge,
+changes in the fair value of derivatives will either be offset against the
+change in fair value of the hedged assets, liabilities, or firm commitments
+through earnings or recognized in other comprehensive income until the hedged
+item is recognized in earnings. The adoption of SFAS No. 133 did not have a
+material impact on the Company's consolidated financial statements and related
+disclosures.
+
+LIQUIDITY
+
+    In December 2000, the Company amended its revolving credit agreement with a
+group of banks ("Senior Credit Facility") to provide for total borrowings of up
+to $15.0 million and a maturity date of July 1, 2002. Borrowings under the
+Senior Credit Facility, as amended, initially bear interest at the lead bank's
+prime rate plus a margin of 2.00%, which margin increases by 0.50% quarterly
+through January 1, 2002. Borrowings under the Senior Credit Facility are limited
+to 80% of eligible accounts receivable. At December 31, 2000, the Company had
+outstanding borrowings and letters of credit of $4.8 million and unused
+available borrowing capacity of $10.2 million under the Senior Credit Facility.
+The interest rate at December 31, 2000 was 11.5%. The effective average interest
+rates for borrowings during 2000 and 1999 were 10.2% and 7.7%, respectively.
+
+    The Senior Credit Facility is secured by substantially all of the Company's
+real and personal property and by a pledge of the common stock of present and
+future significant operating subsidiaries. The Senior Credit Facility is also
+guaranteed by such subsidiaries. Under the terms of the Senior Credit Facility,
+the Company is required to maintain certain financial ratios and other financial
+conditions. The Senior Credit Facility also prohibits the Company from making
+certain investments, advances or loans and
+
+
+
+                                    Page 17
+
+
+restricts substantial asset sales, capital expenditures and cash dividends. At
+December 31, 2000, the Company was in compliance with its various covenants
+under the Senior Credit Facility, as amended.
+
+    In addition, at December 31, 2000, the Company had several promissory notes
+payable, and other installment notes totaling $3.4 million (including current
+portion of $353,000). Fixed interest rates on the promissory and installment
+notes ranged from 6.1% to 10.0% The Company made principal payments of $3.8
+million during 2000 on these notes and notes included in the information and
+property records segment.
+
+    On September 29, 2000, the Company sold for cash certain non-core assets for
+an aggregate sale price of $14.4 million. The assets sold consisted of certain
+net assets of two operating subsidiaries, the Company's interest in a certain
+intangible work product, and the sale of a building and related building
+improvements. The net proceeds of the sale were used to repay an existing
+obligation of one of the companies sold and to reduce the Company's borrowings
+under the Senior Credit Facility.
+
+    Effective December 29, 2000, the Company sold for cash its land records
+business unit, Resources, including among others, Resources' wholly-owned
+subsidiaries Government Records Services, Inc. and Title Records Corporation, to
+ACS. The Resources sale was valued at approximately $71.0 million, consisting of
+approximately $70.0 million in cash and ACS's assumption of approximately $1.0
+million of capital lease obligations. The net proceeds of the sale were used to
+reduce the Company's borrowing under the Senior Credit Facility.
+
+    In 2000, the Company made capital expenditures for continuing operations of
+$9.4 million. These expenditures included $6.7 million relating to the
+development of proprietary software, including new products and new versions of
+existing products. The remaining expenditures were primarily for computer
+equipment for internal use and use in connection with the Company's ASP services
+and building and leasehold improvements at the Company's operating facilities.
+
+    The Company entered into a tax-benefit transfer lease in 1983 pursuant to
+which it is obligated to make income tax payments totaling $713,000 in 2001.
+This obligation is included in deferred taxes at December 31, 2000.
+
+    Excluding acquisitions, Tyler anticipates that 2001 capital spending will be
+approximately $12.0 million, which is expected to be funded from a combination
+of internal operations and bank financing. In January 2001, the Company
+purchased a formerly leased building in Austin, Texas for $1.3 million, which is
+included in 2001 anticipated expenditures of $12.0 million.
+
+    In May 2000, the Company sold 3.3 million shares of common stock and 333,380
+warrants pursuant to a private placement agreement with Sanders Morris Harris
+Inc. for approximately $10.0 million in gross cash proceeds before deducting
+commissions and offering expenses of approximately $730,000. Each warrant is
+convertible into one share of common stock at an exercise price of $3.60 per
+share. The warrants expire in May 2005. The common stock sold in this
+transaction is not registered and may only be sold pursuant to Rule 144 under
+the Securities Act of 1933, generally after being held for at least one year.
+Tyler used the proceeds from the offering primarily for new product development.
+
+    On November 4, 1999, the Company purchased Cole Layer Trumble Company
+("CLT") from a privately held company (the "Seller"). A portion of the
+consideration consisted of restricted shares of Tyler common stock and included
+a price protection on the future sale of the Company's common stock by the
+Seller, which expires no later than November 4, 2001. The price protection is
+equal to the difference between the actual sale proceeds of the Tyler common
+stock and $6.25 on a per share basis, but is limited to $2.8 million.
+
+    The Company is from time to time engaged in discussions with respect to
+selected acquisitions and expects to continue to assess these and other
+acquisition opportunities as they arise. The Company may also require additional
+financing if it decides to make additional acquisitions. There can be no
+assurance, however, that any such opportunities will arise, that any such
+acquisitions will be consummated or that any needed additional financing will be
+available when required on terms satisfactory to the Company. Absent any
+acquisitions, the Company anticipates that cash flows from operations, working
+capital and available borrowing capacity under the Senior Credit Facility will
+provide sufficient funds to meet its needs for at least the next year.
+
+
+                                    Page 18
+
+
+CAPITALIZATION
+
+    The Company's capitalization at December 31, 2000, consisted of $8.1 million
+in long-term obligations (including current portion) and $96.1 million in
+shareholders' equity. The total debt-to-capital ratio was 7.8% at December 31,
+2000.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+    The Company's market risk sensitive instruments do not subject the Company
+to material market risk exposure.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+
+    The consolidated financial statements of the Company, together with the
+report of independent auditors and financial statement schedule, are included
+herein and listed under the heading "(a)(1) The consolidated financial
+statements of the Company of Part IV, Item 14." Financial statement schedules
+other than the schedule included have been omitted because the required
+information is contained in the consolidated financial statements or related
+notes, or such information is not applicable.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURE.
+
+    None.
+
+
+
+
+                                    Page 19
+
+
+                                    PART III
+
+    The information required by Items 10 through 13 of Part III is incorporated
+herein by reference from the indicated sections of Tyler's definitive proxy
+statement for its annual meeting of stockholders to be held on May 31, 2001 (the
+"Proxy Statement"). Only those sections of the Proxy Statement that specifically
+address the items set forth herein are incorporated by reference. Such
+incorporation by reference does not include the Compensation Committee Report,
+the Audit Committee Report or the Stock Performance Graphs, included in the
+Proxy Statement.
+
+
+
+                                     PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULE AND REPORTS ON FORM 8-K.
+
+  (a) (1)  The consolidated financial statements of the Company
+           are filed as part of this report.
+
+
+
+    Certain of the exhibits to this report are hereby incorporated by reference,
+as specified:
+
+ EXHIBIT
+ NUMBER                         DESCRIPTION
+ -------  -------------------------------------------------------------------
+ 3.1      Restated Certificate of Incorporation of Tyler Three, as amended
+          through May 14, 1990, and Certificate of Designation of Series A
+          Junior Participating Preferred Stock (filed as Exhibit 3.1 to the
+          Company's Form 10-Q for the quarter ended June 30, 1990, and
+          incorporated herein).
+
+                                    Page 20
+
+
+ 3.2      Certificate of Amendment to the Restated Certificate of Incorporation
+          (filed as Exhibit 3.1 to the Company's Form 8-K, dated February 19,
+          1998, and incorporated herein).
+
+ 3.3      Amended and Restated By-Laws of Tyler Corporation, dated November 4,
+          1997 (filed as Exhibit 3.3 to the Company's Form 10-K for the year
+          ended December 31, 1997, and incorporated herein).
+
+*3.4      Certificate of Amendment dated May 19, 1999 to the Restated
+          Certificate of Incorporation.
+
+ 4.1      Rights Agreement, dated as of March 14, 1993, by and between Tyler
+          Corporation and The First National Bank of Boston, as Rights Agent,
+          which includes the form of Rights Certificate as Exhibit B thereto
+          (filed as Exhibit 4 to the Company's Form 8-K, dated January 29, 1993,
+          and incorporated herein).
+
+ 4.2      Specimen of Common Stock Certificate (filed as Exhibit 4.1 to the
+          Company's registration statement no. 33-33505 and incorporated
+          herein).
+
+ 4.3      Credit agreement among Tyler Technologies, Inc., Bank of America,
+          N.A., Chase Bank of Texas, N.A., BankOne, Texas, N.A. and Bank of
+          America Securities LLC, dated October 1, 1999 (filed as Exhibit 4.3 to
+          the Company's Form 10-Q for the quarter ended September 30, 1999, and
+          incorporated herein).
+
+ 4.4      Purchase Agreement dated May 19, 2000, between Tyler Technologies,
+          Inc., and Sanders Morris Harris Inc. (filed as Exhibit 4.4 to the
+          Company's Form 10-Q for the quarter ended June 30, 2000, and
+          incorporated herein).
+
+ 4.5      Warrant to purchase common stock of Tyler Technologies, Inc. (filed as
+          Exhibit 4.5 to the Company's Form 10-Q for the quarter ended June 30,
+          2000, and incorporated herein).
+
+ 4.6      Amendment #3 to the Credit Agreement dated October 1, 1999 (filed as
+          Exhibit 4.6 to the Company's Form 10-Q for the quarter ended June 30,
+          2000, and incorporated herein).
+
+*4.9      Amendment #5 to the Credit Agreement dated October 1, 1999.
+
+ 10.1     Form of Indemnification Agreement for directors and officers (filed as
+          Exhibit 10.1 to the Company's Form 10-Q for the quarter ended March
+          31, 1992, and incorporated herein).
+
+ 10.2     Stock Option Plan amended and restated as of February 7, 1997 (filed
+          as Exhibit 4.1 to the Company's registration statement no. 33-34809
+          and incorporated herein).
+
+ 10.3     Asset Purchase Agreement dated September 29, 2000, by and among Tyler
+          Technologies, Inc., Kofile, Inc., Spectrum Data, Inc., EiSolutions,
+          Inc., Kofile Acquisition Corporation and Spectrum Data Acquisition
+          Corporation (filed as Exhibit 4.7 to the Company's Form 10-Q for the
+          quarter ended September 30, 2000, and incorporated herein).
+
+                                    Page 21
+
+
+ 10.4     Real Estate Purchase and Sale Agreement dated September 29, 2000, by
+          and among Business Resources Corporation, Spectrum Data, Inc. and
+          William D. and Marilyn Oates (filed as Exhibit 4.8 to the Company's
+          Form 10-Q for the quarter ended September 30, 2000, and incorporated
+          herein).
+
+ 10.5     Indemnification Agreement, dated December 20, 1989 (filed as Exhibit
+          2.3 to the Company's registration statement no. 33-33505 and
+          incorporated herein).
+
+ 10.6     Second Amended and Restated Agreement and Plan of Merger, dated as of
+          December 29, 1997, and effective as of October 8, 1997, among the
+          Company, T1 Acquisition Corporation, Business Resources Corporation,
+          and William D. Oates (filed as Exhibit 10.1 to the Company's Form 8-K,
+          dated February 19, 1998, and incorporated herein).
+
+ 10.7     Amended and Restated Agreement and Plan of Merger, dated as of
+          December 29, 1997, and effective as of October 8, 1997, among the
+          Company, T2 Acquisition Corporation, The Software Group, Inc., and
+          Brian B. Berry and Glenn A. Smith (filed as Exhibit 10.2 to the
+          Company's Form 8-K, dated February 19, 1998, and incorporated herein).
+
+ 10.8     Amendment Number One, dated February 19, 1998, and effective as of
+          October 8, 1997, to the Amended and Restated Agreement and Plan of
+          Merger among the Company, T2 Acquisition Corporation, The Software
+          Group, Inc. and Brian B. Berry and Glenn A. Smith (filed as Exhibit
+          10.3 to the Company's Form 8-K, dated February 19, 1998, and
+          incorporated herein).
+
+ 10.9     Acquisition Agreement dated as of November 20, 1995, by and among the
+          Registrants, Tyler Pipe Industries, Inc. and Ransom Industries, Inc.,
+          formerly known as Union Acquisition Corporation (filed as Exhibit 2.1
+          to the Company's Form 8-K, dated December 14, 1995, and incorporated
+          herein).
+
+ 10.10    Purchase Agreement between Tyler Corporation, Richmond Partners, Ltd.
+          and Louis A. Waters, dated August 20, 1997 (filed as Exhibit 10.24 to
+          the Company's Form 8-K, dated September 2, 1997, and incorporated
+          herein).
+
+ 10.11    Employment agreement between the Company and Brian K. Miller, dated
+          December 1, 1997. (filed as Exhibit 10.16 to the Company's Form 10-K
+          for the year ended December 31, 1997 and incorporated herein).
+
+ 10.12    Employment agreement between the Company and Theodore L. Bathurst,
+          dated October 7, 1998, (filed as Exhibit 10.18 to the Company's Form
+          10-Q for the quarter ended September 30, 1998, and incorporated
+          herein).
+
+ 10.13    Purchase agreement dated March 26, 1999 between Tyler Corporation and
+          HalArt, L.L.C. (filed as Exhibit 10.1 to the Company's Form 8K, dated
+          April 8, 1999, and incorporated herein).
+
+ 10.14    Agreement and Plan of Merger dated April 20, 1999, between Tyler
+          Corporation ("Parent") and Computer Center Software Inc., a Delaware
+          corporation and wholly-owned subsidiary of
+
+
+                                    Page 22
+
+
+          Parent, Process, Incorporated d/b/a Computer Center Software (filed as
+          exhibit 10.1 to the Company's Form 8K, dated May 4, 1999 and
+          incorporated herein).
+
+ 10.15    Asset Purchase Agreement dated November 3, 1999 to be effective as of
+          October 29, 1999, by and among Tyler Technologies, Inc., CLT Company,
+          a Delaware corporation and wholly-owned subsidiary of the Company, and
+          Day & Zimmermann, L.L.C., a Delaware limited liability corporation
+          (filed as Exhibit 10.1 to the Company's Form 8K, dated November 18,
+          1999 and incorporated herein).
+
+ 10.16    Stock Purchase Agreement, dated as of December 29, 2000, among
+          Affiliated Computer Services, Inc., ACS Enterprise Solutions, Inc.,
+          Tyler Technologies, Inc., and Business Resources Corporation (filed as
+          Exhibit 10.1 to the Company's Form 8K, dated January 16, 2001 and
+          incorporated herein).
+
+*21       Subsidiaries of Tyler
+
+*23       Consent of Ernst & Young LLP
+
+          Tyler will furnish copies of these exhibits to shareholders upon
+          written request and payment for copying charges of $0.15 per page.
+
+*     Filed herewith.
+
+(b)   Reports on Form 8-K
+
+
+
+
+                                    Page 23
+
+
+
+
+                                   SIGNATURES
+
+    Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                              TYLER TECHNOLOGIES, INC.
+
+Date: March 19, 2001                          By:  /s/ Louis A. Waters
+                                                   -----------------------------
+                                                   Louis A. Waters
+                                                   Co-Chief Executive Officer
+                                                   Chairman of the Board
+                                                   (principal executive officer)
+
+    Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+    Date: March 19, 2001           By: /s/ Louis A. Waters
+                                       ----------------------------------------
+                                       Louis A. Waters
+                                       Chairman of the Board
+                                       Co-Chief Executive Officer
+
+    Date: March 19, 2001           By: /s/ John M. Yeaman
+                                       ----------------------------------------
+                                       John M. Yeaman
+                                       Co-Chief Executive Officer and President
+                                       Director
+                                       (principal executive officer)
+
+    Date: March 19, 2001           By: /s/ Theodore L. Bathurst
+                                       ----------------------------------------
+                                       Theodore L. Bathurst
+                                       Vice President and Chief
+                                       Financial Officer
+                                       (principal financial officer)
+
+    Date: March 19, 2001           By: /s/ Brian K. Miller
+                                       ----------------------------------------
+                                       Brian K. Miller
+                                       Vice President - Finance and Treasurer
+
+    Date: March 19, 2001           By: /s/ Terri L. Alford
+                                       ----------------------------------------
+                                       Terri L. Alford
+                                       Controller
+                                       (principal accounting officer)
+
+    Date: March 19, 2001           By: /s/ Ernest H. Lorch
+                                       ----------------------------------------
+                                       Ernest H. Lorch
+                                       Director
+
+    Date: March 19, 2001           By: /s/ F. R. Meyer
+                                       ----------------------------------------
+                                       F. R. Meyer
+                                       Director
+
+    Date: March 19, 2001           By: /s/ C.A. Rundell, Jr.
+                                       ----------------------------------------
+                                       C.A. Rundell, Jr.
+                                       Director
+
+
+
+                                    Page 24
+
+
+
+
+                REPORT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+
+The Board of Directors and Shareholders
+Tyler Technologies, Inc.
+
+    We have audited the accompanying consolidated balance sheets of Tyler
+Technologies, Inc. and subsidiaries as of December 31, 2000 and 1999, and the
+related consolidated statements of operations, shareholders' equity, and cash
+flows for each of the three years in the period ended December 31, 2000. Our
+audits also included the financial statement schedule listed in the Index at
+Item 14(a). These financial statements and schedule are the responsibility of
+the Company's management. Our responsibility is to express an opinion on these
+financial statements and schedule based on our audits.
+
+    We conducted our audits in accordance with auditing standards generally
+accepted in the United States. Those standards require that we plan and perform
+the audit to obtain reasonable assurance about whether the financial statements
+are free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements. An
+audit also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+
+    In our opinion, the financial statements referred to above present fairly,
+in all material respects, the consolidated financial position of Tyler
+Technologies, Inc. and subsidiaries at December 31, 2000 and 1999, and the
+consolidated results of their operations and their cash flows for each of the
+three years in the period ended December 31, 2000, in conformity with accounting
+principles generally accepted in the United States. Also, in our opinion, the
+related financial statement schedule, when considered in relation to the basic
+financial statements taken as a whole, presents fairly in all material respects
+the information set forth therein.
+
+                                           ERNST & YOUNG LLP
+
+Dallas, Texas
+March 9, 2001
+
+
+
+
+                                    Page 25
+
+
+
+
+Tyler Technologies, Inc.
+Consolidated Statements of Operations
+For the years ended December 31
+In thousands, except per share amounts
+
+
+
+
+         See accompanying notes
+
+
+
+
+                                    Page 26
+
+
+
+
+Tyler Technologies, Inc.
+Consolidated Balance Sheets
+December 31
+In thousands, except share and per share amounts
+
+
+
+       See accompanying notes.
+
+
+
+
+                                    Page 27
+
+
+
+
+Tyler Technologies, Inc.
+Consolidated Statements of Shareholders' Equity
+For the years ended December 31, 2000, 1999 and 1998
+In thousands
+
+
+
+See accompanying notes.
+
+
+
+
+                                    Page 28
+
+
+
+
+Tyler Technologies, Inc.
+Consolidated Statements of Cash Flows
+For the years ended December 31
+In thousands
+
+
+
+      See accompanying notes.
+
+
+
+
+                                    Page 29
+
+
+
+
+                            Tyler Technologies, Inc.
+                   Notes to Consolidated Financial Statements
+                  (Tables in thousands, except per share data)
+
+                           December 31, 2000 and 1999
+
+(1) SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+DESCRIPTION OF BUSINESS
+
+    Tyler Technologies, Inc. (the "Company") provides county, local and
+municipal governments with software systems and services to serve their
+information technology and automation needs. Software products are integrated
+with computer equipment from hardware vendors, third-party database management
+applications and office automation software. In addition, the Company also
+assists local and county governments with all aspects of software and hardware
+selection, network design and management, installation and training and on-going
+support and related services. The Company also provides mass property appraisal
+services to taxing jurisdictions, including physical inspection of all
+properties in the assessing jurisdiction, data collection and processing,
+computer analysis for property valuation and preparation of tax rolls.
+
+    The Company discontinued the operations of its information and property
+records services segment and automotive parts segment. See Note 3 for discussion
+of discontinued businesses.
+
+PRINCIPLES OF CONSOLIDATION
+
+    The consolidated financial statements include the accounts of the Company
+and its subsidiaries, all of which are wholly-owned. All significant
+intercompany balances and transactions have been eliminated in consolidation.
+Prior years' financial statements have been restated to reflect discontinued
+businesses.
+
+CASH AND CASH EQUIVALENTS
+
+    Cash and cash equivalents of $8.9 million and $2.0 million at December 31,
+2000 and 1999, respectively, consist of money market accounts with an initial
+term of less than three months. For purposes of the statements of cash flows,
+the Company considers all highly liquid debt instruments with original
+maturities of three months or less to be cash equivalents.
+
+REVENUE RECOGNITION
+
+    The Company derives revenue from software licenses, postcontract customer
+support/maintenance ("PCS"), and services. PCS includes telephone support, bug
+fixes, and rights to upgrade on a when-and-if available basis. Services range
+from installation, training, and basic consulting to software modification and
+customization to meet specific customer needs. In software arrangements that
+include rights to multiple software products, specified upgrades, PCS, and/or
+other services, the Company allocates the total arrangement fee among each
+deliverable based on the relative fair value of each of the deliverables,
+determined based on vendor-specific objective evidence.
+
+    In October 1997, the American Institute of Certified Public Accountants
+("AICPA") issued Statement of Position ("SOP") 97-2, "Software Revenue
+Recognition" which supersedes SOP 91-1. The Company was required to adopt SOP
+97-2 for software transactions entered into beginning January 1, 1998.
+
+    The Company recognizes revenue in accordance with SOP 97-2 as amended, as
+follows:
+
+    Software Licenses - The Company recognizes the revenue allocable to software
+licenses and specified upgrades upon delivery and installation of the software
+product or upgrade to the end user, unless the fee is not fixed or determinable
+or collectibility is not probable. If the fee is not fixed or determinable,
+revenue is recognized as payments become due from the customer. If
+collectibility is not considered probable, revenue is recognized when the fee is
+collected. Arrangements that include software services, such as training or
+installation, are evaluated to determine whether those services are essential to
+the functionality of other elements of the arrangement.
+
+
+                                    Page 30
+
+
+    A majority of the Company's software arrangements involve "off-the-shelf"
+software and the other elements are not considered essential to the
+functionality of the software. For those software arrangements in which services
+are not considered essential, the software license fee is recognized as revenue
+after delivery and installation have occurred, customer acceptance is reasonably
+assured, the fee represents an enforceable claim and probable of collection and
+the remaining services such as training are considered nominal.
+
+    Software Services - When software services are considered essential, revenue
+under the entire arrangement is recognized as the services are performed using
+the percentage-of-completion contract accounting method. When software services
+are not considered essential, the fee allocable to the service element is
+recognized as revenue as the services are performed.
+
+    Computer Hardware Equipment - Revenue allocable to equipment based on vendor
+specific evidence of fair value is recognized when the equipment is delivered
+and collection is probable.
+
+    Postcontract Customer Support - PCS agreements are generally entered into in
+connection with initial license sales and subsequent renewals. Revenue allocated
+to PCS is recognized on a straight-line basis over the period the PCS is
+provided. All significant costs and expenses associated with PCS are expensed as
+incurred.
+
+    Contract Accounting - For arrangements that include customization or
+modification of the software, or where software services are otherwise
+considered essential, or for real estate mass appraisal projects, revenue is
+recognized using contract accounting. Revenue from these arrangements is
+recognized on a percentage-of-completion method with progress-to-completion
+measures based primarily upon labor hours incurred or units completed.
+
+    Deferred revenue consists primarily of payments received in advance of
+revenue being earned under software licensing, software and hardware
+installation, support and maintenance contracts.
+
+    Prior to the disposal of its information and property records services
+segment, the Company provided computerized indexing and imaging of real property
+records, records management and micrographic reproduction, as well as
+information management outsourcing and professional services required by county
+and local government units and agencies. The Company also provided title plant
+update services to title companies and sales of copies of title plants. The
+Company recognized service revenue when services were performed and equipment
+sales when the products were shipped.
+
+    The information and property records services segment also sold copies of
+title plants which were usually made under long-term installment contracts. The
+contract with the customer was generally bundled with a long-term title plant
+update service arrangement. The bundled fees were payable on a monthly basis
+over the respective contract period and revenue was recognized on an as-billable
+basis over the terms of the arrangement.
+
+    The information and property records services segment also received royalty
+revenue relating to the current activities of two of its operating companies.
+Royalty revenue was recognized as earned upon receipt of royalty payments.
+
+USE OF ESTIMATES
+
+    The preparation of the consolidated financial statements in conformity with
+generally accepted accounting principles requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+
+PROPERTY AND EQUIPMENT
+
+    Property, equipment and purchased software are recorded at cost.
+Depreciation and amortization are computed for financial reporting purposes
+primarily utilizing the straight-line method over the estimated useful lives of
+the related assets, or for leasehold improvements and capital leases, the
+shorter of the base lease term or estimated useful life. For income tax
+purposes, accelerated depreciation methods are primarily used with the
+establishment of deferred income tax liabilities for the resulting temporary
+differences.
+
+    Maintenance and repairs are charged to expense as incurred. Costs of
+renewals and betterments are capitalized. The cost and accumulated depreciation
+and amortization applicable to assets sold or otherwise disposed of are removed
+from the asset accounts, and any net gain or loss is included in the statement
+of operations.
+
+
+
+                                    Page 31
+
+
+IMPAIRMENT OF LONG-LIVED ASSETS
+
+    The Company accounts for its long-lived assets in accordance with the
+provisions of Statement of Financial Accounting Standards ("SFAS") No. 121,
+"Accounting for the Impairment of Long-Lived Assets and for Long-Lived Assets to
+be Disposed Of". SFAS No. 121 requires that long-lived assets and certain
+identifiable intangibles be reviewed for impairment whenever events or changes
+in circumstances indicate that the carrying amount of an asset may not be
+recoverable. Recoverability of assets, including goodwill, to be held and used
+is measured by a comparison of the carrying amount of an asset to future net
+cash flows expected to be generated by the asset. If such assets are considered
+to be impaired, the impairment to be recognized is measured by the amount by
+which the carrying amount of the assets exceed the fair value of the assets.
+
+    Assets to be disposed of are reported at the lower of carrying amount or
+fair value less costs to sell.
+
+INTEREST COST
+
+    The Company capitalizes interest cost as a component of capitalized software
+development costs. During the year ended December 31, 2000, the Company
+capitalized $586,000 of interest cost. No interest cost was capitalized in 1999
+or 1998.
+
+RESEARCH AND DEVELOPMENT COSTS
+
+    The Company expenses all research and development costs as incurred. The
+Company expensed $973,000 and $1.6 million of research and development costs in
+2000 and 1999, respectively. Research and development costs in 1998 were
+insignificant.
+
+INCOME TAXES
+
+    Income taxes are accounted for under the asset and liability method.
+Deferred tax assets and liabilities are recognized for future tax consequences
+attributable to differences between the financial statement carrying amounts of
+existing assets and liabilities and their respective tax bases. Deferred tax
+assets and liabilities are measured using enacted tax rates expected to apply to
+taxable income in the years in which those temporary differences are expected to
+be recovered or settled. The effect on deferred tax assets and liabilities of a
+change in tax rates is recognized in income in the period that includes the
+enactment date.
+
+STOCK COMPENSATION
+
+    The Company has adopted the provisions of SFAS No. 123, "Accounting for
+Stock-Based Compensation", which permits entities to recognize as expense over
+the vesting period the fair value of all stock-based awards as of the date of
+grant. Alternatively, SFAS No. 123 also allows entities to continue to apply the
+provisions of Accounting Principle Board ("APB") Opinion No. 25, "Accounting for
+Stock Issued to Employees", and related interpretations and provide pro forma
+net income and pro forma earnings per share disclosures for employee stock
+option grants made in 1995 and future years as if the fair-value-based method
+defined in SFAS No. 123 had been applied. Under APB Opinion No. 25, compensation
+expense would be recorded on the date of grant only if the current market price
+of the underlying common stock exceeded the exercise price.
+
+    The Company has elected to continue to apply the provisions of APB Opinion
+No. 25 and provide the pro forma disclosure provisions of SFAS No. 123. See Note
+13 for additional information.
+
+COMPREHENSIVE INCOME (LOSS)
+
+    SFAS No. 130, "Reporting Comprehensive Income", requires the reporting and
+displaying of comprehensive income and its components. The Statement also
+requires that the accumulated balance of the other comprehensive income to be
+displayed separately from retained earnings and additional paid-in-capital in
+the equity section of the consolidated balance sheet. For the year ended
+December 31, 2000, the Company reported a comprehensive loss of $53.2 million,
+including a change of $28.6 million in the unrealized loss on investment
+classified as available-for-sale. There was no tax effect in connection with the
+change in the unrealized loss for the year ended December 31, 2000 since
+management could not conclude it was more likely than not that the tax benefit
+would be realized. For the year ended December 31, 1999, the Company reported
+comprehensive income of $15.1 million, including a change of $17.9 million in
+the unrealized gain on investment classified as available-for-sale. There was no
+tax effect in connection with the change in the unrealized gain for the year
+ended December 31, 1999 due to the change in the valuation allowance related to
+the then existing capital loss carryforwards.
+
+                                    Page 32
+
+
+SEGMENT AND RELATED INFORMATION
+
+    The Company has adopted SFAS No. 131, "Disclosures About Segments of an
+Enterprise and Related Information", which establishes standards for reporting
+information about operating segments. As this statement pertains to disclosure
+and informational requirements, it has no impact on the Company's operating
+results or financial position. Although the Company has a number of operating
+subsidiaries, separate segment data has not been presented as they meet the
+criteria set forth in SFAS No. 131 for aggregation.
+
+GOODWILL AND OTHER INTANGIBLE ASSETS
+
+    The cost of acquired companies is allocated first to identifiable assets
+based on estimated fair values. Costs allocated to identifiable intangible
+assets are amortized on a straight-line basis over the remaining estimated
+useful lives of the assets, as determined principally by underlying contract
+terms or independent appraisals. The excess of the purchase price over the fair
+value of identifiable assets acquired, net of liabilities assumed, is recorded
+as goodwill and amortized on a straight-line basis over the estimated useful
+life. The useful life is determined based on the individual characteristics of
+the acquired entity and ranges from five to twenty-five years.
+
+    The Company periodically evaluates the carrying amounts of goodwill, as well
+as the related amortization periods, to determine whether adjustments to these
+amounts or useful lives are required based on current events and circumstances.
+The evaluation is based on the Company's projection of the undiscounted future
+operating cash flows of the acquired operation over the remaining useful lives
+of the related goodwill. To the extent such projections indicate that future
+undiscounted cash flows are not sufficient to recover the carrying amounts of
+related goodwill, the underlying assets are written down by charges to expense
+so that the carrying amount is equal to fair value, primarily determined based
+on future discounted cash flows. The assessment of recoverability of goodwill
+will be affected if estimated future operating cash flows are not achieved.
+
+COSTS OF COMPUTER SOFTWARE
+
+    SFAS No. 86, "Accounting for the Costs of Computer Software to be Sold,
+Leased, or Otherwise Marketed", requires capitalization of software development
+costs incurred subsequent to establishment of technological feasibility and
+prior to the availability of the product for general release to customers. In
+2000 and 1999, the Company capitalized approximately $6.7 million and $1.4
+million, respectively, of software development costs, which primarily include
+personnel costs. No such costs were capitalized in 1998. Systematic amortization
+of capitalized costs begins when a product is available for general release to
+customers and is computed on a product-by-product basis at a rate not less than
+straight-line basis over the product's remaining estimated economic life.
+Amortization of software development costs in 2000 and 1999 was approximately
+$622,000 and $75,000, respectively.
+
+FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+    The following methods and assumptions were used to estimate the fair value
+of each class of financial instruments:
+
+    Cash and cash equivalents, trade accounts receivables, other current assets,
+other assets, notes payable to banks, trade accounts payables, and accrued
+expenses (nonderivatives): The carrying amounts approximate fair value because
+of the short maturity of these instruments. The Company's available-for-sale
+investments are carried at fair value.
+
+    Long-term obligations: The fair value of the Company's long-term obligations
+is estimated by discounting the future cash flows of each instrument at rates
+currently offered to the Company for similar debt instruments of comparable
+maturities by the Company's banks. Based upon the borrowing rates available to
+the Company for bank loans with similar terms and average maturities, the
+estimated fair value of the long-term obligations approximates carrying value at
+December 31, 2000 and 1999.
+
+    The Company has no involvement with derivative financial instruments,
+including those for speculative or trading purposes.
+
+CONCENTRATIONS OF CREDIT RISK AND UNBILLED RECEIVABLES
+
+    Concentrations of credit risk with respect to receivables are limited due to
+the wide variety of customers and markets into which the Company's products and
+services are provided, as well as their dispersion across many different
+geographic areas. As a result, as of December 31, 2000, the Company does not
+consider itself to have any significant concentrations of credit risk. See Note
+2 in connection with a receivable due from the seller of a business the Company
+acquired.
+
+                                    Page 33
+
+
+    The Company's mass property appraisal service contracts can range up to
+three years in duration. In connection with these percentage of completion
+contracts and for certain software service contracts, the Company may perform
+the work prior to when the services are billable pursuant to the contract. The
+Company has recorded unbilled receivables (costs and estimated profit in excess
+of billings) of approximately $4.7 million and $5.4 million at December 31, 2000
+and 1999, respectively, in connection with such contracts. Retentions included
+in trade accounts receivable and current assets that are expected to be
+collected in excess of one year amounted to approximately $1.2 million at
+December 31, 2000.
+
+COMMITMENTS AND CONTINGENCIES
+
+    The Company accounts for certain environmental matters in accordance with
+SOP 96-1, "Environment Remediation Liabilities". The Company accrues for losses
+associated with environmental remediation obligations when such losses are
+probable and reasonably estimatable.
+
+    Accruals for estimated losses from environmental remediation obligations
+generally are recognized no later than completion of the remedial feasibility
+study. Such accruals are adjusted as further information develops or
+circumstances change. Such costs include the incremental direct costs of the
+remediation effort, including fees estimated to be paid to outside law firms and
+certain internal employee compensation and benefits directly related to the
+remediation effort. Costs of future expenditures for environmental remediation
+obligations are not discounted to their present value. Recoveries of
+environmental remediation costs from other parties are recorded as assets when
+their receipt is deemed probable and have been included in noncurrent other
+receivables at December 31, 1999.
+
+    Legal costs to defend nonenvironmental litigation matters are expensed as
+incurred.
+
+RECLASSIFICATIONS
+
+    As a result of the implementation of a new management information system,
+the Company has been able to more accurately allocate certain costs between cost
+of revenues and selling, general and administrative expense. Accordingly,
+certain amounts for previous years have been reclassified to conform to the 2000
+presentation.
+
+(2) ACQUISITIONS
+
+    On February 19, 1998, the Company completed the purchases of Business
+Resources Corporation ("Resources"), The Software Group, Inc. ("TSG") and
+Interactive Computer Designs, Inc. ("INCODE"). Resources, which was included in
+the information and property records services segment, provides a wide range of
+information management outsourcing services, primarily to county governments as
+well as to some commercial users. TSG and INCODE provide county, local and
+municipal governments with software, systems and services to serve their
+information technology and automation needs.
+
+    Effective August 1, 1998, the Company completed the purchase of Computer
+Management Services, Inc. ("CMS"). CMS provides integrated information
+management systems and services to county and municipal governmental agencies
+throughout Iowa, Minnesota, Missouri, South Dakota, Illinois, Wisconsin and
+other states, primarily in the upper Midwest.
+
+    Effective March 1, 1999, the Company acquired Eagle Computer Systems,  Inc.
+("Eagle"). Eagle is a leading supplier of networked computing solutions for
+county governments, primarily in the western United States.
+
+    Effective April 1, 1999, the Company completed its acquisition of Micro
+Arizala Systems, Inc. d/b/a FundBalance ("FundBalance"), a company which
+develops and markets fund accounting software and other applications for local
+governments, not-for-profit organizations and cemeteries.
+
+    On April 21, 1999, the Company acquired Process Incorporated d/b/a Computer
+Center Software ("MUNIS"), which designs and develops integrated financial and
+land management information systems for counties, cities, schools and
+not-for-profit organizations. MUNIS provides software solutions to customers
+primarily located throughout the northeastern and southeastern United States.
+
+    Effective May 1, 1999, the Company acquired Gemini Systems, Inc.
+("Gemini"). Gemini develops and markets software products for municipal
+governments and utilities primarily in the eastern United States.
+
+                                    Page 34
+
+
+    On July 16, 1999, the Company acquired Pacific Data Technologies, Inc.
+("Pacific Data"), which was included in the information and property records
+services segment. Pacific Data is the primary developer of the Company's
+database initiative to automate and manage public information records for
+Internet delivery.
+
+    On November 4, 1999, the Company purchased Cole Layer Trumble Company
+("CLT") from a privately held company ("Seller"). A portion of the consideration
+consisted of restricted shares of Tyler common stock and included a price
+protection on the sale of the Company's common stock, which expires no later
+than November 4, 2001. The price protection is equal to the difference between
+the actual sale proceeds of the Tyler common stock and $6.25 on a per share
+basis, but is limited to $2.8 million. The subsequent payment, if any, of the
+contingent consideration will not change the recorded costs of the acquisition.
+The purchase agreement contained a number of post-closing adjustments and, in
+addition, certain CLT customers inadvertently submitted post-closing cash
+receipts to the Seller. As a result of this activity, the Company has recorded a
+receivable from the Seller amounting to $1.3 million at December 31, 2000. As
+consideration for the purchase, the Company assigned, without recourse, a note
+receivable to the Seller obtained in connection with the sale of Forest City
+Auto Parts Company (See Note 3). Although the Company did not assume any credit
+risk in connection with this assignment, the Seller has withheld payment on its
+payable to the Company. After consideration of the price protection granted to
+Seller in connection with the issuance of 1.0 million shares of restricted Tyler
+common stock at the time of purchase, management of the Company believes the
+receivable is recoverable.
+
+    On January 3, 2000, the Company acquired Capitol Commerce Reporter, Inc.
+("CCR"). CCR, which was included the information and property records services
+segment, provides public records research, document retrieval, filing and
+information services.
+
+    During 1998 and 1999, the Company also made other acquisitions which were
+immaterial.
+
+    The Company accounted for all of the aforementioned acquisitions using the
+purchase method of accounting for business combinations. Under this method of
+accounting, the aggregate purchase price is allocated to assets acquired and
+liabilities assumed based on their estimated fair values. During the year ended
+December 31, 2000, the Company completed its evaluation of the fair value of
+assets acquired and liabilities assumed for certain 1999 acquisitions. The
+effects of the final purchase price allocations in 2000 were not significant.
+Results of operations of the acquired entities are included in the Company's
+consolidated financial statements from the respective dates of acquisition. The
+excess purchase price over the fair value of the net identifiable assets of the
+acquired companies (goodwill) is amortized using the straight-line method of
+amortization over their respective estimated useful lives.
+
+    Following is a summary of the Company's 2000, 1999 and 1998 acquisitions:
+
+
+
+    In addition to consideration paid in cash and common stock for the 1999
+acquisitions, the Company provided other consideration which totaled
+approximately $3.2 million and consisted of assignment of notes obtained in
+conjunction with the Forest City Auto Parts Company disposition (See Note 3).
+
+    Cash paid for acquisitions does not reflect cash paid for transaction costs
+related to the execution of the acquisitions, such as legal, accounting and
+consulting fees, of approximately $90,000, $673,000 and $2.5 million in 2000,
+1999 and 1998, respectively and excludes acquired cash balances of approximately
+$17,000, $338,000 and $2.6 million in 2000, 1999 and 1998, respectively.
+
+
+
+                                    Page 35
+
+
+    The following unaudited pro forma information presents the consolidated
+results of operations as if all of the Company's acquisitions and disposition of
+the information and property records services segment (See Note 3) occurred as
+of the beginning of 2000 and 1999, after giving effect to certain adjustments,
+including amortization of intangibles, interest and income tax effects and
+reflecting only the loss on the respective disposals of the discontinued
+operations in the year reflected in the historical consolidated financial
+statements. The pro forma information does not purport to represent what the
+Company's results of operations actually would have been had such transactions
+or events occurred on the dates specified, or to project the Company's results
+of operations for any future period.
+
+
+
+(3) DISCONTINUED OPERATIONS
+
+Information and Property Records Services Segment
+
+    On September 29, 2000, the Company sold for cash certain net assets of
+Kofile, Inc. ("Kofile") and another subsidiary, the Company's interest in a
+certain intangible work product, and a building and related building
+improvements (the "Kofile sale"). Effective December 29, 2000, the Company sold
+for cash its land records business unit, Resources, including among others,
+Resources' wholly-owned subsidiaries Government Records Services, Inc. and Title
+Records Corporation, to an affiliate of Affiliated Computer Services, Inc.
+("ACS") (the "Resources sale"). Concurrent with the Resources sale, management
+of the Company with the Board of Director's approval adopted a formal plan of
+disposal for the remaining businesses and assets of the information and property
+records services segment. This restructuring program was designed to focus the
+Company's resources on its software systems and services segment and to reduce
+debt. The business and assets divested or identified for divesture have been
+classified as discontinued operations in the accompanying consolidated financial
+statements with prior years' financial statements restated to report separately
+their operations in compliance with APB Opinion No. 30.
+
+    The Kofile sale was to investment entities beneficially owned by Mr. William
+D. Oates, a principal shareholder, who was also a Director and Chairman of the
+Executive Committee of the Company at the time of the sale. The cash sale price
+was $14.4 million and the gain on the sale after the effects of transaction
+costs, amounted to $403,000 (net of an income tax benefit of $200,000).
+
+    The Resources sale was valued at approximately $71.0 million, consisting of
+$70.0 million in cash and the assumption by ACS of $1.0 million of capital lease
+obligations. The gain on the sale, after transaction costs, amounted to $1.1
+million (net of an income tax benefit of $2.2 million). Transaction costs and
+certain costs directly related to the sale were estimated to be $4.1 million and
+included investment banking fees, professional fees, cash payments to departing
+employees and approximately $844,000 in connection with the issuance of 500,000
+shares of restricted common stock to departing employees.
+
+    The Company's formal plan of disposal provides for the remaining businesses
+and assets of the segment to be disposed of by December 29, 2001. One of the
+remaining assets consists of a start-up company which has been engaged in
+constructing a Web-enabled national repository of public records data. Another
+remaining business is CCR, which was purchased in January 2000 and provides
+public records research, principally UCCs in Texas. The interdependency of these
+operations with those of Resources resulted in the Company's decision to
+discontinue the development of the database and other related products and exit
+the land records business following the Resources sale. The estimated loss on
+the disposal of these remaining businesses and assets amounted to $13.6 million
+(after an income tax benefit of $3.8 million), consisting of an estimated loss
+on disposal of the businesses of $11.5 million (net of an income tax benefit of
+$2.7 million) and a provision of $2.1 million (after an income tax benefit of
+$1.1 million) for anticipated operating losses from the measurement date of
+December 29, 2000 to the estimated disposal dates. The anticipated operating
+losses to the disposal dates include the effects of the settlement of certain
+employment contracts, losses on real property leases, severance costs and
+similar closing related costs. The amounts the Company will ultimately realize
+could differ materially from the amounts assumed in arriving at the loss on
+disposal of the discontinued operations.
+
+                                    Page 36
+
+
+    The income tax expense or benefit associated with the gains or losses on the
+respective sales of the businesses in the information and property records
+services segment and the planned dispositions of the remaining assets and
+businesses differs from the statutory income tax rate of 35% due to the
+elimination of deferred taxes related to the basis difference between amounts
+reported for income taxes and financial reporting purposes and the utilization
+of available capital loss carryforwards which were fully reserved in the
+valuation account prior to the respective sales.
+
+    The condensed components of net assets of discontinued operations of the
+information and property records services segment included in the consolidated
+balance sheets as of December 31, 2000 and 1999 are as follows:
+
+
+
+    The condensed statements of operations relating to the information and
+property records services segment as well as the automotive parts segment in
+1998 discussed below for the years ended December 31 are presented below:
+
+
+
+Automotive Parts Segment
+
+    In December 1998, the Company entered into a letter of intent to sell its
+non-core automotive parts retailer, Forest City Auto Parts Company ("Forest
+City"). Accordingly, this segment has been accounted for as a discontinued
+operation with prior years' financial statements restated to report separately
+their operations in compliance with APB Opinion No. 30.
+
+    On March 26, 1999, the Company sold all of the outstanding common stock of
+Forest City to a private investor (the "Purchaser") for approximately $24.5
+million. Proceeds consisted of $12.0 million in cash, $3.8 million in a
+short-term secured promissory note, $3.2 million in senior secured subordinated
+notes and $5.5 million in preferred stock. The short-term secured promissory
+note was fully paid in July 1999. The senior secured subordinated notes carry
+interest rates ranging between 6% to 8%, become due in March 2002, and are
+secured by a second lien on Forest City inventory and real estate. The preferred
+stock will be mandatorily redeemable in March 2006. Both the subordinated notes
+and the preferred stock are subject to partial or whole redemption upon the
+occurrences of specified events.
+
+    In determining the loss on the disposal of the business, the subordinated
+notes were valued using present value techniques. As discussed in Note 2, the
+$3.2 million in senior secured subordinated notes were subsequently assigned
+without recourse to the Seller on November 4, 1999 in connection with an
+acquisition.
+
+    Because the redemption of the preferred stock was highly dependent upon
+future operations of the buyer and due to its extended repayment terms, the
+Company was unable to estimate the degree of recoverability. Accordingly, the
+Company determined it would record the value of the preferred stock as cash is
+received. The Company originally estimated the loss on the disposal of Forest
+City to be $8.9 million, which was recorded in the fourth quarter of 1998. The
+estimated loss included anticipated operating losses from the
+
+
+
+                                    Page 37
+
+
+measurement date of December 1998 to the date of disposal and associated
+transaction costs. In 1999, the Company recorded additional losses of $907,000
+(including income taxes of $183,000) to reflect adjusted estimated transaction
+costs, funded operating losses which were higher than originally estimated,
+adjustments to amounts previously provided for income taxes in connection with
+the sale and to write down to estimated net realizable value a post-closing
+receivable in connection with a dispute with the purchaser.
+
+Other
+
+    In 1998, the Company recorded a final gain adjustment of $801,000 relating
+to the 1997 sale of its subsidiary Institutional Financing Services Inc.
+
+    Two of the Company's non-operating subsidiaries are involved in various
+claims for work related injuries and physical conditions and for environmental
+claims relating to a formerly owned subsidiary that was sold in 1995. During
+2000 and 1999, the Company expensed $748,000 (net of an income tax benefit of
+$403,000) and $1.9 million (net of an income tax benefit of $877,000),
+respectively, for trial costs and settlement costs in excess of the amounts
+accrued associated with these claims (See Note 17).
+
+    Interest has been charged to discontinued operations based on the net assets
+of the information and property records services segment and the automotive
+parts segment. External interest expense of $4.2 million, $2.1 million and $2.0
+million, was allocated to discontinued operations in 2000, 1999 and 1998,
+respectively. Income tax (benefit) has been charged (credited) to discontinued
+operations based on the income tax (benefit) resulting from inclusion of the
+discontinued segments in the Company's consolidated federal income tax return.
+
+    The income tax provision (benefit) differs from the amount which would be
+provided by applying the statutory income tax rate to income (loss) before
+income tax (benefit) due to permanent difference items consisting primarily of
+non-deductible goodwill and state income taxes.
+
+(4) RELATED PARTY TRANSACTIONS
+
+    On September 29, 2000, the Company sold for cash certain net assets of
+Kofile and another subsidiary, the Company's interest in a certain intangible
+work product, and a building and related building improvements to investment
+entities beneficially owned by a principal shareholder of the Company, who was
+also a director at the time (See Note 3).
+
+    From time to time, the Company charters aircraft from businesses in which
+either a former director and/or member of management of the Company is an owner
+or part owner. For the years ended December 31, 2000 and 1999, the Company
+incurred rental expense related to such arrangements to a non-corporate officer
+management member of $81,000 and $116,000, respectively, and to a former
+director of $325,000 and $133,000, respectively.
+
+    The Company has several notes receivable from non-officer employees totaling
+$367,000 and $443,000 at December 31, 2000 and 1999, respectively. All of the
+notes are non-interest bearing and are due between 2000 and 2005. There is no
+significant difference between the face value and the present value of the
+notes.
+
+    The Company has four office building lease agreements with various
+shareholders of the Company. Total rental expense related to such leases for the
+years ended December 31, 2000, 1999 and 1998 was $679,000, $525,000 and $83,000,
+respectively.
+
+    Total future minimum rental under noncancelable related party operating
+leases as of December 31, 2000, are as follows:
+
+
+
+
+
+
+                                    Page 38
+
+
+
+
+(5) PROPERTY AND EQUIPMENT
+
+    Property and equipment consists of the following at December 31:
+
+
+
+Depreciation expense totaled $2.0 million, $1.1 million and $309,000 during the
+years ended December 31, 2000, 1999 and 1998, respectively.
+
+(6) INVESTMENT SECURITY AVAILABLE-FOR-SALE
+
+    Pursuant to an agreement with two major shareholders of H.T.E., Inc.
+("HTE"), the Company acquired approximately 32% of HTE's common stock in two
+separate transactions in 1999. On August 17, 1999, the Company exchanged 2.3
+million shares of its common stock for 4.7 million shares of HTE common stock.
+This initial investment was recorded at $14.0 million. The second transaction
+occurred on December 21, 1999, in which the Company exchanged 484,000 shares of
+its common stock for 969,000 shares of HTE common stock. The additional
+investment was recorded at $1.8 million. The investment in HTE common stock is
+classified as a non-current asset since it was made for a continuing business
+purpose.
+
+    Florida state corporation law restricts the voting rights of "control
+shares", as defined, acquired by a third party in certain types of acquisitions,
+which restrictions may be removed by a vote of the shareholders. The Florida
+"control share" statute has not been interpreted by the courts. HTE has taken
+the position that, under the Florida statute, all of the shares acquired by the
+Company constitute "control shares" and therefore do not have voting rights
+until such time as shareholders of HTE, other than the Company, restore voting
+rights to those shares. Management of the Company believes that only the shares
+acquired in excess of 20% of the outstanding shares of HTE constitute "control
+shares" and therefore believes it currently has the right to vote all HTE shares
+it owns up to at least 20% of the outstanding shares of HTE. On November 16,
+2000, the shareholders of HTE, other than Tyler, voted to deny the Company its
+right to vote the "control shares" of HTE.
+
+    Under generally accepted accounting principles, an investment of 20% or more
+of the voting stock of an investee should lead to a presumption that in absence
+of evidence to the contrary, an investor has the ability to exercise significant
+influence over the operating and financial policies of an investee. Management
+of the Company has concluded that it currently does not have such influence as
+evidenced by the following key factors:
+
+     o    Inability to resolve the different interpretations regarding the
+          ability to vote the shares;
+
+     o    Inability to obtain additional financial information not otherwise
+          available to other shareholders; and
+
+     o    Inability to obtain certain confirmations and consents from the
+          investee's independent auditors.
+
+    Accordingly, the Company accounts for its investment in HTE pursuant to the
+provisions of SFAS No. 115, "Accounting for Certain Investments in Debt and
+Equity Securities". These securities are classified as available-for-sale and
+are recorded at fair value as determined by quoted market prices. Unrealized
+holding gains and losses, net of the related tax effect, on available-for-sale
+securities are excluded from earnings and are reported as a separate component
+of shareholders' equity until realized. Realized gains and losses from the sale
+of available-for-sale securities (none in each of the three years ended December
+31, 2000) are determined on a specific identification basis.
+
+    At December 31, 2000, the cost, fair value and gross unrealized holding
+losses of the investment securities available-for-sale amounted to $15.8
+million, $5.1 million and $10.7 million, respectively, based on a quoted market
+price for HTE common stock of $0.91 per share. At December 31, 1999, the fair
+value and gross unrealized holding gains of the investment securities
+available-for-sale amounted to $33.7 million and $17.9 million, respectively,
+based on a quoted market price of $6.00. At March 12, 2001, the fair value of
+the investment securities available-for-sale was $8.4 million based on a quoted
+market price of $1.50 per share.
+
+                                    Page 39
+
+
+    At December 31, 2000, the Company has an unrealized loss on its investment
+in HTE of $10.7 million. A decline in the market value of any available for sale
+security below cost that is deemed to be other than temporary results in a
+reduction in the carrying amount to fair value. The impairment is charged to
+earnings and a new cost basis for the security is established. At this time,
+management of the Company does not believe the decline in the market value is
+other than temporary. In making this determination, management concluded it has
+both the intent and the ability to hold the investment for a period of time
+sufficient to allow for the anticipated recovery in fair value. Other conditions
+considered, among others, included the conditions in the local government
+software industry, the financial condition of the issuer, and recent favorable
+public statements by the issuer concerning its future prospects.
+
+    If the uncertainty regarding the voting shares is resolved in the Company's
+favor, the Company will retroactively adopt the equity method of accounting for
+this investment. Therefore, the Company's results of operations and retained
+earnings for periods beginning with the 1999 acquisition will be retroactively
+restated to reflect the Company's investment in HTE for all periods in which it
+held an investment in the voting stock of HTE. Under the equity method, the
+original investment is recorded at cost and is adjusted periodically to
+recognize the investor's share of earnings or losses after the respective dates
+of acquisition. The Company's investment in HTE would include the unamortized
+excess of the Company's investment over its equity in the net assets of HTE.
+This excess would be amortized on a straight-line basis over the estimated
+economic useful life of ten years.
+
+    Because of the effects of such a future change, the following information
+has been provided or derived from publicly filed financial information which has
+not been independently confirmed to the Company and is considered unaudited. HTE
+reported net losses of $3.4 million and $14.9 million for the years ended
+December 31, 2000 and 1999, respectively. Subsequent to the Company's initial
+acquisition of HTE's shares in August 1999, HTE recorded charges of
+approximately $7.9 million, net of tax, related to write-offs of software
+development costs, certain accounts receivables and employee-termination
+benefits that were recorded by HTE as a result of changes in management and
+charges for litigation settlements. During 2000, HTE recovered a portion of
+these costs, which totaled $1.1 million. These costs would be considered
+pre-acquisition costs by the Company in determining its share of HTE's loss from
+the respective dates of acquisition. Had the Company's investment in HTE been
+accounted for under the equity method, the Company would have recorded equity in
+losses of HTE of $2.3 million and $1.4 million for the years ended December 31,
+2000 and 1999, respectively.
+
+(7) COSTS OF CERTAIN ACQUISITION OPPORTUNITIES
+
+CPS Systems Notes Receivable
+
+    In March 1999, the Company entered into a merger agreement pursuant to which
+the Company contemplated the acquisition of all of the outstanding common stock
+of CPS Systems, Inc. ("CPS"). In connection with that agreement, the Company
+provided CPS with bridge financing of $1.0 million in the form of a note secured
+by a second lien on substantially all of the assets of CPS, including accounts
+receivable, inventory, intangibles, equipment and intellectual property. The
+note bore interest at 2% over the prime rate and was initially due on October
+30, 1999. In June 1999, Tyler provided notice to CPS that it was exercising its
+right to terminate the merger agreement. Although the original agreement was
+terminated, the Company and CPS continued to negotiate to find an alternative
+structure for the transaction. In August 1999, Tyler provided an additional
+$200,000 of bridge financing, on terms similar to the original note and
+continued to provide additional bridge financings on terms similar to the other
+notes.
+
+    In January 2000, CPS filed a voluntary petition for relief under Chapter 11
+of the United States Bankruptcy Code. On March 24, 2000, the bankruptcy court
+conducted a public auction of the assets and the Company submitted a cash only
+bid of $100,000 for the California Visual Basic/Oracle Tax and CAMA software
+assets of CPS.
+
+    The Company closed on the transaction on March 30, 2000, and anticipates
+minimal to no recovery of amounts due under its secured notes. Accordingly, the
+aggregate bridge financings and related accrued interest receivable and other
+costs amounting to $1.9 million was charged to 1999 operations.
+
+Other
+
+    On July 31, 1998, the Company entered into a letter of intent with a Fortune
+500 company to acquire certain businesses of the company in a transaction to be
+accounted for as a purchase business combination. These businesses had estimated
+annual revenues of over $500 million and represented a business opportunity
+which was aligned with the Company's strategy in the information management
+business. Direct and incremental costs associated with the proposed combination,
+primarily consisting of fees paid to
+
+
+
+                                    Page 40
+
+
+outside legal and accounting advisors for due diligence, were incurred by the
+Company and would have been considered as a cost of the acquisition upon the
+successful closing of the transaction. Subsequent to September 30, 1998, the
+potential seller elected not to sell any of the businesses. Accordingly, all
+costs associated with this opportunity have been expensed in the accompanying
+1998 consolidated financial statements and are included in "costs of certain
+acquisition opportunities."
+
+(8) GOODWILL AND OTHER INTANGIBLE ASSETS
+
+    Goodwill, other intangible assets and related accumulated amortization
+consists of the following at December 31:
+
+
+
+    Annual amortization expense totaled $7.5 million, $5.0 million and $1.5
+million during the years ended December 31, 2000, 1999 and 1998, respectively.
+
+(9) ACCRUED LIABILITIES
+
+    Accrued liabilities consists of the following at December 31:
+
+
+
+(10) LONG-TERM OBLIGATIONS
+
+     Long-term obligations consists of the following at December 31:
+
+
+
+    The aggregate maturities of long-term obligations for each of the years
+subsequent to December 31, 2000, assuming the revolving credit facility matures
+as scheduled, are as follows: 2001 - $353,000; 2002 - $4.9 million; 2003 -
+$54,000; 2004 - $24,000; 2005 - $2.8 million.
+
+    Interest paid in 2000, 1999 and 1998 was $8.8 million, $4.1 million, $1.8
+million, respectively.
+
+    In December 2000, the Company amended its revolving credit agreement with a
+group of banks (the "Senior Credit Facility") to provide for total borrowings of
+up to $15.0 million and a maturity date of July 1, 2002. Borrowings under the
+Senior Credit Facility, as amended, initially bear interest at the lead bank's
+prime rate plus a margin of 2.00%, which margin increases by 0.50% quarterly
+through January 1, 2002. Borrowings under the Senior Credit Facility are limited
+to 80% of eligible accounts receivable. At December 31, 2000, the Company had
+outstanding borrowings and letters of credit of $4.8 million and unused
+available borrowing capacity of $10.2 million under the Senior Credit Facility.
+The interest rate at December 31, 2000 was 11.5%. The effective average interest
+rates for borrowings during 2000 and 1999 were 10.2% and 7.7%, respectively. As
+a result of the amendments made to the
+
+
+
+                                    Page 41
+
+
+credit facility during 2000, a $1.4 million charge was recorded pursuant to
+Emerging Issues Task Force ("EITF") 98-14 "Accounting for Changes in
+Line-of-Credit or Revolving-Debt Arrangements" to accelerate the amortization of
+previously capitalized loan costs.
+
+    The Senior Credit Facility is secured by substantially all of the Company's
+real and personal property and by a pledge of the common stock of present and
+future significant operating subsidiaries. The Senior Credit Facility is also
+guaranteed by such subsidiaries. Under the terms of the Senior Credit Facility,
+the Company is required to maintain certain financial ratios and other financial
+conditions. The Senior Credit Facility also prohibits the Company from making
+certain investments, advances or loans and restricts substantial asset sales,
+capital expenditures and cash dividends. At December 31, 2000, the Company is in
+compliance with its various covenants under the Senior Credit Facility, as
+amended.
+
+(11) INCOME TAX
+
+    The provision (benefit) included in continuing operations for income tax
+consists of the following:
+
+
+
+    The income tax provision (benefit) differs from amounts computed by applying
+the federal statutory tax rate of 35% to loss from continuing operations as
+follows:
+
+
+
+    Significant components of deferred tax assets and liabilities as of December
+31 are as follows:
+
+
+
+    At December 31, 2000, the Company had available approximately $11.6 million
+of net tax operating loss carryforwards for federal income tax purposes. These
+carryforwards, which may provide future tax benefits, expire in 2020. Based upon
+the periods in which taxable temporary differences are anticipated to reverse,
+management believes it is more likely than not that the Company will realize the
+benefits of these deductible differences, including the net operating loss
+carryforwards, at December 31, 2000. However, the
+
+
+
+                                    Page 42
+
+
+amount of the deferred tax asset considered realizable could be adjusted in the
+future if estimates of reversing taxable temporary differences are revised.
+
+    Although realization is not assured, management believes it is more likely
+than not that all the deferred tax assets will be realized except for those
+relating to the capital loss carryforwards and the related basis difference on
+investment security available-for-sale. Accordingly, the Company believes that
+no valuation allowance is required for the remaining deferred tax assets. The
+Company's capital loss carryforwards expire beginning in 2003.
+
+    During the year ended December 31, 2000, the Company sold Resources, Kofile
+and certain other businesses (see Note 3). In connection with these respective
+sales, the Company utilized approximately $45.9 million of available capital
+loss carryforwards which were fully reserved in the valuation allowance
+account at December 31, 1999.
+
+    The Company received a refund of prior years' income taxes of $2.7 million
+in 2000, and paid income taxes, net of refunds received, of $2.8 million and
+$1.5 million in 1999 and 1998, respectively.
+
+(12) SHAREHOLDERS' EQUITY
+
+    The Company has authorized 1.0 million shares of $10 par value voting
+preferred stock. The board of directors had designated 250,000 shares as Series
+A Junior Participating Preferred Stock which were reserved for issuance upon
+exercise of the Company's stock purchase rights. In December 1997, the board of
+directors authorized the redemption of the preferred stock purchase rights in
+connection with the contemplated acquisitions of Resources, TSG and INCODE. The
+rights were redeemed in January 1998 at $.01 per share. Prior to this
+redemption, each share of the Company's common stock included a stock purchase
+right. These rights, which did not have voting rights, could be exercised only
+after public announcement that a person or group had acquired 20% or more of the
+Company's common stock or public announcement of an offer for 30% or more of the
+Company's common stock. The Company had the right to redeem the rights at a
+price of $.01 per right at any time prior to 15 days (or such longer period as
+the board of directors may have determined) after the acquisition of 20% of the
+Company's common stock. Upon exercise each right could have been used to
+purchase 1/100 of a share of Series A Junior Participating Preferred Stock for
+$21. Each share of Series A Junior Participating Preferred Stock would have had
+a minimum preferential quarterly dividend of 100 times the dividend declared on
+common stock, minimum liquidation preference of $100 per share and other
+preferential common stock conversion features in connection with mergers or
+other business combinations.
+
+    In May 2000, the Company sold 3.3 million shares of common stock and 333,380
+warrants pursuant to a private placement agreement with Sanders Morris Harris
+Inc. for approximately $10.0 million in gross cash proceeds, before deducting
+commissions and offering expenses of approximately $730,000. Each warrant is
+convertible into one share of common stock at an exercise price of $3.60 per
+share. The warrants expire in May 2005. The common stock sold in this
+transaction is not registered and may only be sold pursuant to Rule 144 under
+the Securities Act of 1933, generally after being held for at least one year.
+
+    As of December 31, 2000, the Company had an additional warrant outstanding
+to purchase 2.0 million shares of the Company's common stock at $2.50 per share.
+The warrant expires in September 2007.
+
+(13) STOCK OPTION PLAN
+
+    The Company's stock option plan provides for the granting of non-qualified
+and incentive stock options, as defined by the Internal Revenue Code, to key
+employees and directors of the Company and its subsidiaries of up to 5.5 million
+shares of the Company's common stock at prices which represent fair market value
+at dates of grant. All options granted have ten year terms and generally vest
+over, and become fully exercisable at the end of, three to five years of
+continued employment.
+
+
+
+
+                                    Page 43
+
+
+
+
+    The following table summarizes the transactions of the Company's stock
+option plan for the three-year period ended December 31, 2000:
+
+
+
+    The following table summarizes information concerning outstanding and
+exercisable options at December 31, 2000:
+
+
+
+    As allowed by SFAS No. 123, the Company has continued to follow APB Opinion
+No. 25, "Accounting for Stock Issued to Employees", which does not recognize
+compensation expense on the issuance of its stock options because the option
+terms are fixed and the exercise price equals the market price of the underlying
+stock on the grant date.
+
+    As required by SFAS No. 123, the Company has determined the pro forma
+information as if the Company had accounted for stock options granted since
+January 1, 1995, under the fair value method of SFAS No. 123. The Black-Scholes
+option pricing model was used with the following weighted-average assumptions
+for 2000, 1999 and 1998, respectively: risk-free interest rates of 6.1%, 5.56%
+and 5.16%; dividend yield of 0%; expected common stock market price volatility
+factor of .73, .70 and .68; and a weighted-average expected life of the options
+of seven years. The weighted-average fair value of options granted in 2000, 1999
+and 1998 was $2.02, $3.47 and $4.93 per share, respectively.
+
+    Had compensation expense been recorded based on the fair values of the stock
+option grants, the Company's 2000, 1999, and 1998 pro forma net loss would have
+been $26.0 million, $4.6 million and $9.0 million, or $0.57, $0.12, and $0.28
+per diluted share, respectively. These pro forma calculations only include the
+effects of grants since 1995. Accordingly, the impacts are not necessarily
+indicative of the effects on reported net income of future years.
+
+    During the year ended December 31, 2000, the Company granted to an employee
+50,000 shares of restricted common stock with a fair value of $303,000 at the
+grant date. The Company recorded compensation expense of $151,500 and $151,500
+during the years ended December 31, 2000 and 1999, respectively, based on the
+service period provided for in the agreement and the vesting period over which
+the restrictions lapse.
+
+                                    Page 44
+
+
+(14) EARNINGS (LOSS) PER COMMON SHARE - BASIC AND DILUTED
+
+    In accordance with SFAS No. 128 "Earnings per Share", the Company has
+presented basic income (loss) per share, computed on the basis of the weighted
+average number of common shares outstanding during the year, and diluted income
+(loss) per share, computed on the basis of the weighted average number of common
+shares and all dilutive potential common shares outstanding during the year.
+
+    The Company incurred a loss from continuing operations in 2000, 1999 and
+1998. As a result, the denominator was not adjusted for dilutive securities in
+these years as the effect would have been antidilutive.
+
+    For the years ended December 31, the following options were not included in
+the computation of diluted earnings per share because the effect would have been
+antidilutive:
+
+
+
+    Additionally, the warrants to purchase 2.3 million shares of the Company's
+common stock were not included in the computation of diluted earnings per share
+for the years ended December 31, 2000, 1999 and 1998 because the effect would
+have been antidilutive.
+
+(15) LEASES
+
+    The Company leases certain offices, and transportation, computer and other
+equipment used in its operations under noncancelable operating lease agreements
+expiring at various dates through 2010. Most leases contain renewal options and
+some contain purchase options. The leases generally provide that the Company pay
+taxes, maintenance, insurance and certain other operating expenses.
+
+    Rent expense was approximately $2.1 million in 2000, $1.1 million in 1999
+and $486,000 in 1998.
+
+    The Company has capital leases for certain equipment, which is included in
+"Property and equipment, net." The present value of future minimum lease
+payments relating to these assets are capitalized based on contract provisions.
+Capitalized amounts are depreciated over the lesser of the term of the lease or
+the normal depreciable lives of the assets.
+
+    Future minimum lease payments under noncancelable leases at December 31,
+2000 are as follows:
+
+
+
+(16) EMPLOYEE BENEFIT PLANS
+
+    The Company has a retirement savings plan structured under Section 401(k) of
+the Internal Revenue Code (the "Code"). The plan covers substantially all
+employees meeting minimum service requirements. Under the plan, employees may
+elect to reduce their current compensation by up to 15%, subject to certain
+maximum dollar limitations prescribed by the Code, and have the amount
+contributed to the plan as salary deferral contributions. The Company
+contributes up to a maximum of 2% of an employee's compensation to the plan. The
+Company made contributions to the plan and charged continuing operations
+$761,000, $396,000 and $106,000 in 2000, 1999 and 1998, respectively.
+
+
+
+
+                                    Page 45
+
+
+
+
+(17) COMMITMENTS AND CONTINGENCIES
+
+    Two of the Company's non-operating subsidiaries, Swan Transportation Company
+("Swan") and TPI of Texas, Inc. ("TPI"), have been and/or are currently involved
+in various claims raised by approximately 550 former TPI employees for work
+related injuries and physical conditions resulting from alleged exposure to
+silica, asbestos, and/or related industrial dusts during their employment by
+TPI. Swan was the parent company of TPI, which owned and operated a foundry in
+Tyler, Texas for approximately 28 years. As non-operating subsidiaries of the
+Company, the assets of Swan and TPI consist primarily of various insurance
+policies issued to each company during the relevant time periods. Swan and TPI
+have tendered the defense and indemnity obligations arising from these claims to
+their insurance carriers. To date, Swan's insurance carriers have entered into
+settlement agreements with over 230 of the plaintiffs, each of which agreed to
+release Swan, TPI, the Company, and its subsidiaries and affiliates from all
+such claims in exchange for payments made by the insurance carriers.
+
+    The Company initially provides for estimated claim settlement costs when
+minimum levels can be reasonably estimated. If the best estimate of claim costs
+can only be identified within a range and no specific amount within that range
+can be determined more likely than any other amount within the range, the
+minimum of the range is accrued. Based on an initial assessment of claims and
+contingent claims that may result in future litigation involving TPI, a reserve
+for the minimum amount of $2.0 million for claim settlements was recorded in
+1996. Legal and related professional services costs to defend litigation of this
+nature have been expensed as incurred. During the years ended December 31, 2000
+and 1999, the Company charged discontinued operations $748,000 and $1.9 million,
+respectively, in connection with settlement, legal and related professional
+costs, and the remaining liability was approximately $1.9 million at December
+31, 2000.
+
+    The New Jersey Department of Environmental Protection (the "NJDEP") has
+alleged that a site where Jersey-Tyler Company ("Jersey-Tyler"), a former
+affiliate of TPI, once operated a foundry contains lead and possible other
+priority pollutant metals and may need on-site and off-site remediation. In
+January 1995, TPI agreed with the NJDEP to undertake certain investigatory
+actions relating to the alleged contamination in and around the site, which
+investigation was completed during the first quarter of 2001. Notwithstanding
+the foregoing, TPI has in the past denied, and continues to deny, any liability
+for alleged environmental contamination at the site. The NJDEP has not asserted
+that the Company is a potentially responsible party for the site.
+
+    On November 27, 2000, TPI consummated a transaction with a third party
+contractor for a complete transfer of environmental liabilities and obligations
+relating to the site. Under the agreement, the third party contractor has
+executed an enforceable agreement with the NJDEP whereby such contractor has
+assumed substantially all liability related to the site and has been identified
+as the responsible party for all clean up activities of the site as required by
+the NJDEP. The remedial activities conducted by the third party contractor are
+funded by a trust and are secured by clean-up cost containment insurance and
+environmental response, compensation, and liability insurance, of which the
+Company and TPI are a named insured. The funds placed in the trust are governed
+by a trust agreement that only permits distribution for remediation of the site.
+The trust was funded from various sources, including other alleged potentially
+responsible parties, TPI's insurance carriers, and TPI.
+
+    Because of the inherent uncertainties discussed above, it is reasonably
+possible that the amounts recorded as liabilities for TPI and Swan related
+matters could change in the near term by amounts that would be material to the
+consolidated financial statements.
+
+    Other than ordinary course, routine litigation incidental to the business of
+the Company and except as described herein, there are no material legal
+proceedings pending to which the Company or its subsidiaries are parties or to
+which any of its properties are subject.
+
+
+
+                                    Page 46
+
+
+
+
+(18) QUARTERLY FINANCIAL INFORMATION (unaudited)
+
+    The following tables contain selected financial information from unaudited
+consolidated statements of operations for each quarter of 2000 and 1999.
+
+
+
+
+
+                                    Page 47
+
+
+
+
+                            TYLER TECHNOLOGIES, INC.
+
+                 SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+                                 (IN THOUSANDS)
+
+                  Years ended December 31, 2000, 1999 and 1998
+
+
+
+
+
+
+
+
+
+                                    Page 48
+
+
+                                 EXHIBIT NUMBER
+
+
+
+

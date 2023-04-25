@@ -1,0 +1,1578 @@
+
+10-K
+
+
+                                   FORM 10-K 
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C. 20549
+
+(Mark One) 
+[X]  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+       ACT OF 1934   [FEE REQUIRED]
+
+For the fiscal year ended              September 1, 1994
+                         ----------------------------------------------
+
+                                           OR
+
+[ ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+       EXCHANGE ACT OF 1934   [NO FEE REQUIRED]
+
+For the transition period from                   to
+                               ------------------  --------------------
+Commission file number              1-10658
+                      -------------------------------------------------
+
+                             Micron Technology, Inc.
+                             -----------------------
+                (Exact name of registrant as specified in its charter)
+
+             Delaware                                  75-1618004
+- - ----------------------------------------           ---------------------
+(State or other jurisdiction of	                   (I.R.S. Employer
+incorporation or organization)	                    Identification No.)
+
+2805 East Columbia Road, Boise, Idaho	               83706-9698
+- - ----------------------------------------           ---------------------
+(Address of principal executive offices)	       (Zip Code)
+
+Registrant's telephone number, including area code	 (208) 368-4000
+                                                   ---------------------
+
+Securities registered pursuant to Section 12(b) of the Act:
+       Title of each class             Name of each exchange on which registered
+Common Stock, par value $.10 per share	       New York Stock Exchange
+- - --------------------------------------------------------------------------------
+
+         Securities registered pursuant to Section 12(g) of the Act:
+                                  None
+                         ------------------------
+                              (Title of Class)
+
+    Indicate by check mark whether the registrant (1) has filed all 
+reports required to be filed by Section 13 or 15(d) of the Securities 
+Exchange Act of 1934 during the preceding 12 months (or for such shorter 
+period that the registrant was required to file such reports), and (2) 
+has been subject to such filing requirements for the past 90 days. Yes X  No
+                                                                      ---   ---
+
+     Indicate by check mark if disclosure of delinquent filers pursuant 
+to Item 405 of Regulation S-K is not contained herein, and will not be 
+contained to the best of registrant's knowledge, in definitive proxy or 
+information statements incorporated by reference in Part III of this 
+Form 10-K or any amendment to this Form 10-K.[   ]
+
+    The aggregate market value of the voting stock held by nonaffiliates 
+of the registrant, based upon the closing price of such stock on 
+September 1, 1994, as reported by the New York Stock Exchange, was 
+approximately $3.1 billion.  Shares of Common Stock held by each officer 
+and director and by each person who owns 5% or more of the outstanding 
+Common Stock have been excluded in that such persons may be deemed to be 
+affiliates.  This determination of affiliate status is not necessarily a 
+conclusive determination for other purposes.
+
+The number of outstanding shares of the registrant's Common Stock as of 
+September 1, 1994, was 101,896,582.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+    Portions of the Proxy Statement for registrant's 1994 Annual Meeting 
+of Shareholders to be held on January 30, 1995, are incorporated by 
+reference to Part III of this Annual Report on Form 10-K.
+
+
+                                   PART I
+Item 1. Business
+
+General
+
+     Micron Technology, Inc., is a Delaware holding company with the 
+following principal operating subsidiaries: Micron Semiconductor, Inc., 
+Micron Custom Manufacturing Services, Inc., and Micron Computer, Inc. 
+These subsidiaries' operations principally serve the computer, 
+telecommunications, and office automation industries. As used in this 
+Annual report on Form 10-K, the term "company" means Micron Technology,
+Inc., and its subsidiaries.
+
+     Micron Semiconductor, Inc. ("MSI"), the primary operating subsidiary of 
+Micron Technology, Inc., designs, manufactures, and markets 
+semiconductor memory components primarily for use in various computer 
+applications. MSI's products include Dynamic Random Access Memories 
+("DRAM"s), Static RAMs ("SRAM"s), specialty DRAMs, and specialty SRAMs. 
+Micron Custom Manufacturing Services, Inc., specializes in the custom 
+manufacture of complex circuit board assemblies and the recovery and 
+test of nonstandard semiconductor memory components. Micron Computer, 
+Inc., develops, assembles, and markets high-performance, memory-
+intensive personal computers.
+
+     Additional subsidiaries include: Micron Communications, Inc., which is 
+engaged in research and development of technologies related to radio 
+frequency identification products; Micron Construction, Inc., which 
+provides construction management services for facility owners and 
+developers; Micron Display Technology, Inc., which is engaged in 
+research and development of technologies related to flat panel field 
+emission displays; Micron Investments, Inc., which makes investments in 
+publicly held securities; Micron Quantum Devices, Inc., which is engaged 
+in research and development of nonvolatile semiconductor memory devices; 
+and Micron Systems Integration, Inc., which designs, manufactures, and 
+markets semiconductor testing equipment, including AMBYX(registered) 
+Intelligent Test and Burn-in systems, and high throughput device loading and 
+unloading equipment.
+
+Products
+
+     The company's product strategy is focused primarily on the design, 
+development, and manufacture of semiconductor memory products for 
+standard and custom memory applications, with various packaging and 
+configuration options, architectures, and performance characteristics.
+
+     (a) Dynamic Random Access Memory. DRAMs are semiconductor devices which 
+store digital information in the form of bits and provide high speed 
+storage and retrieval of data. Manufacture of the company's DRAM 
+products utilizes proprietary advanced complimentary metal-oxide-silicon 
+("CMOS") process technologies. DRAMs are the highest density, lowest 
+cost per bit, random access memory component available, and are the most 
+widely used semiconductor memory components in most computer systems. 
+Demand for the company's products has recently benefited primarily from 
+strong market conditions for personal computers and increasingly memory-
+intensive software applications. The company's primary product during 
+1994 was the 4 Meg DRAM, which sells in multiple configurations, speeds, 
+and package types.  The company is currently pursuing internal qualification 
+of its 16 Meg DRAM in a 300 mil package, which is expected to be the preferred 
+market package, and is beginning to transfer the 64 Meg DRAM from the pilot 
+line to the manufacturing area. The 256 Meg DRAM is in the early stages 
+of development (see "Research and Development"). Efficient DRAM 
+production requires utilization of advanced semiconductor manufacturing 
+techniques. The company is engaged in an ongoing effort to enhance its 
+production processes to reduce the die size of existing products and 
+increase capacity utilization. Smaller die sizes and higher production 
+yields reduce manufacturing costs. Development of Video RAMs beyond the 
+company's current 2 Meg generation has been terminated, as the company 
+pursues development of more cost-effective memory products for graphics 
+applications. DRAM sales, including specialty DRAMs, represented 
+approximately 73%, 72%, and 79% of total company net sales in fiscal 
+1994, 1993, and 1992, respectively.
+
+     (b) Static Random Access Memory. SRAMs perform memory functions much the 
+same as DRAMs; however, unlike DRAMs, SRAM memory cells are not required 
+to be electronically refreshed, which generally increases the speed at 
+which they operate and simplifies system designs. The company's SRAM 
+family focuses on the high-performance sector of the SRAM market, which 
+requires very high speed access to memory. SRAMs include more complex 
+electronic circuitry than DRAMs, resulting in higher per bit production 
+costs. The market for high-performance SRAMs has grown with the number 
+of applications that require a "buffer" or "cache" of high speed memory 
+between the central processing unit and the main DRAM-based memory. The 
+company manufactures its current SRAM products utilizing CMOS process 
+technologies. The company currently sells 64K, 256K, and 1 Meg SRAMs in 
+a variety of configurations, speeds, and package types, and has a 4 Meg 
+SRAM under development. SRAM sales represented approximately 8%, 14%, 
+and 18% of total company net sales in fiscal 1994, 1993, and 1992, 
+respectively.
+ 
+     (c) Board-level products. The company manufactures and markets a 
+variety of memory-intensive module and complex printed circuit board 
+products, all of which utilize semiconductor memory components. The 
+company's custom manufacturing efforts are focused on providing a full 
+range of turnkey manufacturing services, including design layout and 
+product engineering, materials procurement, inventory management, 
+quality assurance, and just-in-time delivery. The company's board-level 
+products are assembled utilizing surface mount technology ("SMT") that 
+can accommodate a high density of memory components. Revenue from sales 
+of board-level products reached approximately 7% of consolidated net 
+sales in fiscal 1994.
+
+     (d) Personal Computers. The company established a personal computer 
+manufacturing operation in fiscal 1992 focusing on high-performance, 
+memory-intensive personal computer systems. Revenue from sales of 
+personal computers constitute an increasing percentage of total net 
+sales and comprised approximately 8% of consolidated net sales in fiscal 
+1994.
+
+Marketing and Customers
+
+     The semiconductor memory industry is characterized by rapid 
+technological change, frequent product introductions and enhancements, 
+difficult product transitions, relatively short product life cycles, and 
+volatile market conditions. These circumstances historically have made 
+the semiconductor industry highly cyclical, particularly in the market 
+for DRAMs, which are the company's primary products.
+
+     The company's products are essentially interchangeable with, and have 
+similar functionality to, products offered by the company's competition. 
+Customers for the company's semiconductor memory products include most 
+major domestic computer manufacturers and other customers in the 
+computer, telecommunications, and office automation industries. The 
+company markets products worldwide through independent sales 
+representatives, distributors, and direct sales personnel.
+Sales representatives serve on a commission basis and obtain orders 
+subject to final acceptance by the company. Shipments against accepted 
+orders are made directly to the customer by the company. Distributors 
+carry the company's products in inventory and typically sell a variety 
+of products, including competitors' products. Under the company's 
+distribution agreements, distributors may be entitled to price rebates 
+on inventory if the company lowers the price of its products, and to 
+rights to return certain company products.
+
+     Many of the company's customers require a thorough review or 
+"qualification" of new products and processes. In some instances, 
+qualification may take six months or longer. As the company diversifies 
+its product lines and reduces the die sizes of existing products, 
+acceptance of these products and processes may be inhibited by this 
+qualification procedure.There can be no assurance that new products or 
+processes will be qualified for purchase by existing customers.
+
+     The company sells products in both domestic and international markets. 
+Sales to Compaq Computer Corporation approximated 11% of net sales in 
+fiscal 1994 and 10% in fiscal 1993. No customer's sales individually 
+comprised 10% or more of net sales in fiscal 1992. Export sales totaled 
+approximately $471 million for fiscal 1994, including approximately $248 
+million to the Far East and $159 million to Europe. Export sales 
+approximated $251 million and $162 million for fiscal years 1993 and 
+1992, respectively. Export sales are primarily in United States 
+currency. The company incurs import duties on sales into Europe of up to 
+14% of the product value. The company's subsidiaries have sales offices 
+in the United Kingdom, Germany, Singapore, and Taiwan.
+
+     The company markets its custom manufacturing services through a direct 
+sales force that interfaces with independent sales representatives and, 
+to a lesser extent, original equipment manufacturers. Board level 
+products are also marketed directly to existing DRAM and SRAM component 
+customers.
+
+     The company's personal computers are marketed primarily through direct 
+advertising. Sales have historically been made through mail and 
+telephone orders and through a single retail outlet. Increasingly, sales 
+are made through industrial distributors and value-added resellers.
+
+     Consistent with industry practice, the company typically provides a 
+limited warranty that its products are in compliance with specifications 
+existing at the time of delivery. All other warranties are typically 
+disclaimed. Liability for a stated warranty period is usually limited to 
+replacement of defective items or return of amounts paid.
+
+Backlog
+
+     The rate of booking new orders varies from month to month and depends 
+upon the scheduling practices of individual customers. Cyclical industry 
+conditions make it difficult for many customers to enter into long-term, 
+fixed-price contracts.  Orders for the company's primary products are 
+typically entered into with acknowledgment that the terms may be adjusted to 
+reflect market conditions at the delivery date. For the foregoing reasons, 
+and because of the possibility of
+
+
+customer changes in delivery schedules or cancellation of orders 
+without significant penalty, the company does not believe that its 
+backlog, as of any particular date, is firm or that it is a reliable 
+indicator of actual sales for any succeeding period.
+
+Research and Development
+
+     Rapid technological change and intense price competition place a premium 
+on new product and process development efforts. The company's continued 
+ability to compete in the memory market will depend in part on its 
+ability to continue to develop technologically advanced products and 
+processes, of which there can be no assurance. Research and development 
+is being performed in strategic areas related to the company's 
+historical semiconductor expertise. See "Item 7. Management's Discussion 
+and Analysis of Financial Condition and Results of Operations - Certain 
+Factors" and "Item 8. Financial Statements and Supplementary Data - Notes to 
+Consolidated Financial Statements - Contingencies".
+
+     Internal qualification is under way on the 16 Meg DRAM in a 300 mil 
+package, which is expected to be the preferred market package. Internal 
+qualification typically occurs at the end of the development cycle 
+before initial production quantities are released for qualification by 
+major customers. The company's research and development efforts on the 
+64 Meg DRAM have progressed and the company is beginning to transfer a 
+prototype part from the pilot line to the manufacturing area for further 
+product development and evaluation. Additional research and development 
+efforts are focused primarily on design and development of the 256 Meg 
+DRAM and 4 Meg SRAM. Manufacturing efficiencies from new product and 
+process development are incorporated into the manufacture of existing 
+products where cost reductions can be realized.
+
+     The company has entered into various research and development cost-
+sharing contracts with the Advanced Research Projects Agency ("ARPA") 
+aggregating approximately $21 million to pursue multi-year development 
+of an advanced 16 Meg SRAM process, a flat panel field emission display, 
+and alternative semiconductor materials. The company is also researching 
+and developing technologies related to radio frequency identification 
+products and nonvolatile memory devices. Research and development 
+expenditures were $83 million, $57 million, and $48 million in 1994, 
+1993, and 1992, respectively.
+
+Patents and Licenses
+
+     As of September 1, 1994, the company owned 557 United States patents 
+relating to the use of its products and processes. In addition, the 
+company has numerous United States and foreign patent applications 
+pending. There can be no assurance that patents will ever be issued for 
+such applications or that any issued patents will be determined to be 
+valid.  The company intends to continue to seek patent protection on any 
+of its significant patentable technology.
+
+     The company has entered into several cross-license agreements with 
+third parties. The agreements require one-time and/or periodic royalty 
+payments and expire at various times. A significant portion of the one-
+time payments were capitalized and are being amortized over the shorter 
+of the estimated useful life of the technology, the patent term, or the 
+term of the agreement. Royalty and other product and process technology 
+expenses were $128 million, $78 million, and $45 million in fiscal 1994, 
+1993, and 1992, respectively. It may be necessary or advantageous in the 
+future for the company to obtain additional patent licenses or to renew 
+existing license agreements, several of which expire in the next fiscal 
+year. The company is unable to predict whether these license agreements 
+can be obtained or renewed on terms acceptable to the company.
+
+     Periodically, the company is made aware that technology used by the 
+company in the manufacture of some or all of its products may infringe 
+on product or process technology rights held by others. An adverse 
+decision on infringement of patents may have a material adverse effect 
+on the company's financial position or results of operations, and may 
+require material changes in production processes or products. For 
+additional discussion of product and process technology issues, see 
+"Item 8. Financial Statements and Supplementary Data - Notes to 
+Consolidated Financial Statements - Contingencies".
+
+Competition
+
+     The company's semiconductor memory operations experience intense 
+competition from a number of substantially larger foreign and domestic 
+companies, including Fujitsu, Ltd., Goldstar Electron, Co., Ltd., 
+Hitachi, Ltd., Hyundai Electronics, Co., Ltd., Mitsubishi Electric 
+Corp., Motorola, Inc., NEC Corp., Samsung Semiconductor, Inc., Texas 
+Instruments, Inc., and Toshiba Corporation. The company has captured a 
+very small percentage of the semiconductor memory market and may be at a 
+disadvantage in competing against these larger manufacturers with 
+significantly greater capital resources, larger engineer/employee bases, 
+and more diversified product lines which may provide long-term 
+advantages in research and new product development and better enable 
+them to withstand periodic downturns in the semiconductor market. In 
+addition, the company believes its competition has sufficient resources 
+and manufacturing capacity to influence market pricing.
+
+
+     As has occurred in the past in reaction to improved market conditions, 
+many of the company's competitors are adding new facilities designed to 
+use 8-inch wafers, which have approximately 84% greater usable surface 
+area than the 6-inch wafer currently used by the company. The company 
+believes many competitors are currently achieving significantly lower 
+yields for their 16 Meg DRAM products than would be expected when such 
+products mature. Yield improvements by these competitors would 
+dramatically increase worldwide semiconductor memory capacity. Excess 
+supply as a result of increased semiconductor manufacturing capacity, 
+adverse market conditions, or currency fluctuations resulting in a 
+strengthening dollar against the yen, could result in downward pricing 
+pressure. A decline in the current favorable product pricing would have 
+a material adverse effect on the company's results of operations.
+
+     The company's custom manufacturing operations compete against numerous 
+domestic and offshore contract manufacturers, including such companies 
+as Avex, Benchmark, DOVAtron, Jabil, SCI, and Solectron. In addition, 
+the company competes against the in-house manufacturing capabilities of 
+its existing customers as well as with certain large computer 
+manufacturers, including DEC and IBM. Many of the company's custom 
+manufacturing competitors have substantially greater manufacturing, 
+financial, and marketing resources dedicated to custom manufacturing. 
+These resources and the competitors' multiple domestic and overseas 
+manufacturing locations in close geographic proximity to the customer 
+base, may place the company's limited custom manufacturing operations at 
+a competitive disadvantage.
+
+     The company's personal computer operations experience intense 
+competition from a number of domestic and foreign personal computer 
+manufacturers, particularly from those who also market personal computer 
+systems through direct distribution channels. The company's principal 
+personal computer competitors include Compaq Computer Corporation, Dell 
+Computer Corporation, and Gateway 2000, Inc. Personal computer products 
+are differentiated based primarily on price, performance, reliability, 
+service and support. As a result of competitive pricing pressures, the 
+margins realized on the company's personal computer products are 
+substantially lower than the margins currently realized by the company's 
+primary semiconductor memory products.
+
+Manufacturing
+
+     Semiconductor memory manufacturing cost is primarily a function of 
+circuit size (since the potential number of good circuits per wafer 
+increases with reduced circuit size), number of mask layers, and the 
+yield of acceptable die produced on each wafer. Other contributing 
+factors are wafer size, number of fabrication steps, costs and 
+sophistication of the manufacturing equipment, package type, equipment 
+up time, process complexity, and cleanliness. The manufacture of the 
+company's semiconductor products is a complex process and involves a 
+number of precise steps, including wafer fabrication, assembly, burn-in, 
+and final test.
+
+     The company's principal semiconductor memory manufacturing facility 
+includes two 6-inch wafer fabrication lines equipped with diffusion 
+tubes, photolithography systems, ion implant equipment, chemical vapor 
+deposition reactors, sputtering systems, plasma and wet etchers, and 
+automated mask inspection systems. The production facility operates in 
+12-hour shifts, 24 hours per day, and 7 days per week (in three or four 
+day shift cycles) to reduce down time during shift changes, and seeks to 
+reduce fabrication costs further through 100% utilization of fabrication 
+capacity. Wafer fabrication occurs in a highly controlled, clean 
+environment to minimize dust and other yield- and quality-limiting 
+contaminants.  Notwithstanding the highly controlled manufacturing operation, 
+equipment does not consistently perform flawlessly, and minute impurities, 
+defects in the photomasks, or other difficulties in the process may cause a 
+substantial percentage of the wafers to be rejected or individual 
+circuits to be nonfunctional. The success of the company's manufacturing 
+operations will be dependent largely on the ability to minimize such 
+impurities and to maximize yield of acceptable, high-quality circuits. 
+In this regard, the company employs rigorous quality controls throughout 
+the manufacturing, screening, and testing processes.
+
+     After fabrication, each silicon wafer is separated into individual 
+circuits. Functional circuits are connected to external leads by 
+extremely fine wire and are assembled into plastic packages. Each 
+completed package is then inspected, sealed, and tested. The assembly 
+process uses high speed automatic systems such as wire bonders, as well 
+as semiautomatic plastic encapsulation and solder systems. The company 
+tests its products at various stages in the manufacturing process, 
+performs high temperature burn-in on finished products, and conducts 
+numerous quality control inspections throughout the entire production 
+flow. In addition, through the utilization of its proprietary AMBYX line 
+of intelligent test and burn-in systems, the company simultaneously 
+conducts circuit testing of all die during the burn-in process, thereby 
+providing improved quality and reliability data and reduced time and 
+cost of testing.
+
+
+     The company may convert some or all of its 6-inch wafer fabrication 
+lines to 8-inch processing capabilities over the next several years. 
+Significant capital expenditures would be required for the conversion 
+and there can be no assurance that the conversion can be accomplished 
+without disruption of production. Several other semiconductor 
+manufacturers are also adding significant manufacturing capacity. All 
+semiconductor memory manufacturers compete for and are dependent upon a 
+limited number of sophisticated equipment suppliers. The cyclical nature 
+of the industry often results in extended lead times for equipment 
+deliveries. There can be no assurance the company will not encounter 
+delays in the company's currently planned expansion as a result of 
+limited availability of equipment.
+
+     The company's custom manufacture of board-level products involves the 
+attachment of various electronic components, such as memory components 
+and processors, to a printed circuit board. Nearly all of the board-
+level products assembled by the company are assembled utilizing SMT, in 
+which the component leads are soldered to the printed circuit board 
+rather than being inserted into holes as in pin-through-hole technology. 
+In-circuit testing verifies that components have been properly inserted 
+and that the electrical circuits are complete. Functional and 
+environmental tests determine if the board or system assembly is 
+performing to customer specifications.
+
+     Component recovery efforts conducted by the company's custom 
+manufacturing operations involve the testing and grading of components 
+not meeting full industry specifications to determine their highest 
+level of functionality. These devices are placed in applications in 
+which the functionality meets or exceeds customer requirements, such as 
+PCs and peripherals, telephone answering machines, electronic games, 
+laser printers, facsimile machines, and cellular telephones.
+
+     The company's personal computers are designed to maximize performance of 
+each system utilizing extensive DRAM and SRAM memory. Personal computers 
+are assembled to standard and unique customer specifications on an 
+integrated production line. Components, subassemblies, and software are 
+obtained from a wide range of PC industry suppliers. Each personal 
+computer is subjected to a burn-in and test process to ensure high-
+quality performance on delivery.
+
+Availability of Raw Materials
+
+     Raw materials utilized by the company generally must meet exacting 
+product specifications. The company is generally able to arrange for 
+multiple sources of supply, but the number of suppliers capable of 
+delivering certain raw materials is very limited. Many semiconductor 
+manufacturers are adding new facilities designed to use 8-inch wafers. 
+The level of both 6-inch and 8-inch wafers available for semiconductor 
+memory production is partially dependent on how readily wafer suppliers 
+can increase capacity or create additional capacity to match the demand 
+for 8-inch wafers without creating shortages in the supply of 6-inch 
+wafers. Other materials used in the manufacture of the company's 
+products may experience declines in availability due to the overall 
+increase in worldwide semiconductor manufacturing. Although shortages 
+have occurred from time to time and lead times have been extended on 
+occasion in the industry, the company has not experienced any 
+significant production interruption as a result of difficulty in 
+obtaining raw materials to date.  Interruption of any one raw material 
+source could negatively impact the company's operations.
+
+Environmental Compliance
+
+     Government regulations impose various environmental controls on the 
+discharge of chemicals and gasses used in the manufacturing process. The 
+company believes that its activities conform to present environmental 
+regulations. While the company has not experienced any materially 
+adverse effects on its operations from environmental regulations, there 
+can be no assurance that changes in such regulations will not impose the 
+need for additional capital equipment or other compliance requirements. 
+Additionally, the extensive process required to obtain permits for 
+expansion of the company's facilities may impact how quickly the company 
+can respond to increases in market demand.
+
+Employees
+
+     As of September 1, 1994, the company had approximately 5,450 full-time 
+employees, including approximately 4,530 in the semiconductor memory 
+manufacturing operations, 440 in the custom manufacturing services 
+operations, and 270 in the personal computer manufacturing operations. 
+Employment levels can vary depending on market conditions and the level 
+of utilization of the company's fabrication, assembly, and test 
+facilities, as well as on research and development and product and 
+process development activities. Many of the company's employees are 
+highly-skilled, and the company's continued success will depend in part 
+upon its ability to retain such employees. None of the company's 
+employees are represented by a labor organization, the company has never 
+had a work stoppage, and the company considers its employee relations to 
+be satisfactory.
+
+
+     
+Executive Officers of the Registrant
+     The executive officers of the company and their ages as of September 1, 
+1994 are as follows:
+
+
+
+
+Background of Executive Officers
+
+     Joseph L. Parkinson, a co-founder of Micron Technology, Inc., served as 
+its President and a director from July 1980 through January 1986, when 
+he was named Chairman of the Board and Chief Executive Officer.
+
+     James W. Garrett joined Micron Technology, Inc., in April 1985 as Sales 
+Manager. In January 1986, he became Vice President, Sales and Marketing 
+and held that position until July 1988, when he was named Executive Vice 
+President. He was elected to the Board of Directors in August 1988, and 
+served as Vice Chairman of the Board from April 1991 until July 1992, 
+when he was named President and Chief Operating Officer.
+
+     Reid N. Langrill joined Micron Technology, Inc., in March 1984 as a 
+financial planner. From December 1986 until July 1988, he served as 
+Controller. In July 1988, he was named Vice President, Finance, 
+Treasurer, and Chief Financial Officer and served in that position until 
+May 1989. He served as Vice President, Business Units from August 1989 
+until December 1989 when he was named Vice President, Finance, and Chief 
+Financial Officer. In July 1992, Mr. Langrill was elected to the Board 
+of Directors and was also named Treasurer.
+
+     Kipp A. Bedard joined Micron Technology, Inc., in November 1983 as an 
+accountant and held various management responsibilities until he was 
+appointed Manager of Investor Relations in June 1988. Mr. Bedard held 
+that position until April 1990 when he was named Vice President and 
+Manager of Investor Relations. From July 1992 to January 1994, Mr.
+Bedard served as Vice President, Public Relations for Micron 
+Semiconductor, Inc. In January 1994, he was named Vice President, 
+Investor Relations for Micron Technology, Inc.
+
+     Nancy M. Self joined Micron Technology, Inc., in February 1988 as a 
+benefits specialist. In July 1988, she was named Benefits Manager and 
+served in that position until July 1989, when she was named Risk 
+Manager. In March 1993, she was named Vice President, Administration.
+
+     Steven R. Appleton joined Micron Technology, Inc., in February 1983 and 
+served in various manufacturing management positions until April 1988 
+when he was named Director of Manufacturing. He was appointed Vice 
+President, Manufacturing in August 1989 and served in that position 
+until April 1991 when he was appointed President and Chief Operating 
+Officer of Micron Technology, Inc. He was elected to the Board of 
+Directors in April 1991. Mr. Appleton served in these positions until 
+July 1992, when he assumed responsibilities as Chairman of the Board, 
+President, and Chief Executive Officer for Micron Semiconductor, Inc. In 
+May 1994, Mr. Appleton was re-elected to the Board of Directors of 
+Micron Technology, Inc.
+
+     Tyler A. Lowrey joined Micron Technology, Inc., in July 1984 as a senior 
+process engineer. In March 1986, he became a Process Research 
+Development/Device Group Manager and was promoted to Vice President, 
+Process Research and Development, and Assistant Technical Officer in 
+September 1986. In April 1990, he was named Vice President, Research and 
+Development. Mr. Lowrey was appointed to the Board of Directors of 
+Micron Technology, Inc., in August 1990. Mr. Lowrey served in these 
+positions until July 1992, when he was elected a director and named Vice 
+President, Chief Technical Officer for Micron Semiconductor, Inc.
+
+     Larry L. Grant joined Micron Technology, Inc., in January 1985 and 
+served as General Counsel until July 1985, when he was named Vice 
+President and General Counsel. Mr. Grant served in this position until 
+July 1992, when he was named Vice President, General Counsel and 
+Secretary for Micron Semiconductor, Inc.
+
+     Thomas M. Trent joined Micron Technology, Inc., in July 1980 as a senior 
+design engineer. From August 1986 to April 1990, Mr. Trent served as 
+Vice President, Research and Development, and Chief Technical Officer, 
+at which time he was named Vice President and Manager of DRAM Design. In 
+June 1991, he assumed responsibilities of all DRAM products and was 
+named Vice President and Manager of DRAM Products Group. Mr. Trent 
+served in these positions until July 1992, when he was named Vice 
+President, DRAM Products Group for Micron Semiconductor, Inc. In April 
+1993, he was named Vice President for Micron Semiconductor, Inc.
+
+     Edward J. Heitzeberg joined Micron Technology, Inc., in January 1984 as 
+Information Systems Manager. In March 1986, he became Senior Staff 
+Engineer and served in that capacity until June 1986, when he was named 
+Vice President, Quality. Mr. Heitzeberg served in this position until 
+July 1992, when he was named Vice President, Quality for Micron 
+Semiconductor, Inc.
+
+     Norman L. Schlachter joined Micron Technology, Inc., in March 1987 as 
+Treasury Manager. From October 1988 until May 1989, he served as 
+Assistant Treasurer, at which time he was named Vice President, Finance, 
+and Treasurer, and Chief Financial Officer. In December 1989, he was 
+named Vice President and Treasurer. Mr. Schlachter served in these 
+positions until July 1992, when he was named Vice President and 
+Treasurer for Micron Semiconductor, Inc.
+
+
+
+      Robert M. Donnelly joined Micron Technology, Inc., in September 1988 
+and served in various manufacturing management positions until August 
+1989, at which time he was appointed Vice President, Business Units. 
+From April 1990 to June 1991, Mr. Donnelly served as Vice President and 
+Manager of DRAM Products Group. In June 1991, he was named Vice 
+President and Manager of SRAM Products Group. Mr. Donnelly served in 
+this position until July 1992, when he was named Vice President, SRAM 
+Products Group for Micron Semiconductor, Inc.
+
+     Eugene H. Cloud joined Micron Technology, Inc., in January 1985 as an 
+applications engineer. In June 1985, he was named Applications Manager. 
+He served in that position until June 1986, when he was named Marketing 
+Manager. In April 1990, he was named Vice President, Semiconductor 
+Marketing. Mr. Cloud served in this position until July 1992, when he 
+was named Vice President, Marketing for Micron Semiconductor, Inc.
+
+     Donald D. Baldwin joined Micron Technology, Inc., in April 1984 and 
+served in various manufacturing and sales positions until April 1987, 
+when he was named Key Accounts Manager. From April 1990 to May 1991, he 
+served as Manager of North American Sales. In May 1991, he was named 
+Vice President, Sales. Mr. Baldwin served in this position until July 
+1992, when he was named Vice President, Sales for Micron Semiconductor, 
+Inc.
+
+     Kenneth G. Smith joined Micron Technology, Inc., in November 1987 as a 
+senior diffusion engineer and held various positions in manufacturing 
+until he was named Fab I/II Manager in May 1989. In July 1992, Mr. Smith 
+was named Vice President, Operations for Micron Semiconductor, Inc.
+
+     Wilbur G. Stover, Jr., joined Micron Technology, Inc., in June 1989 as 
+an accounting manager. In February 1990, Mr. Stover was named Controller 
+where he served until July 1992, when he was named Vice President, Finance, 
+and Chief Financial Officer of Micron Semiconductor, Inc.
+
+Item 2. Properties
+
+     The company's principal semiconductor manufacturing, engineering, 
+administrative, and support facilities are located on a 665 acre site in 
+Boise, Idaho. All facilities have been constructed since 1981 and are 
+owned by the company. The company has 1,245,000 square feet of building 
+space at this primary site. Of the total, 263,000 square feet are 
+production space, 506,000 square feet are facility support space, and 
+476,000 square feet are office and other space. The company's custom 
+manufacturing and component recovery operations are housed in a 52,000 
+square foot facility also located in Boise, Idaho. In addition, the 
+company owns a 128,000 square foot facility and approximately 30 acres 
+of land in Nampa, Idaho, housing the company's personal computer 
+manufacturing operations.
+
+     The company is in the process of qualifying its newly-constructed 
+central implant building at the main Boise site. This facility is 
+expected to be qualified for the production of commercial volumes in 
+early fiscal 1995. In addition, the company has initiated construction 
+of a .25 micron, 8-inch development facility, and an additional assembly 
+and test facility encompassing a total of approximately 340,000 square 
+feet. The development facility and additional assembly and test facility 
+are expected to be operational in fiscal 1995.
+
+     Fixed assets with a book value of approximately $74 million are pledged 
+as collateral for outstanding debt and capital leases as of September 1, 
+1994. Substantially all of the tangible assets of the company's 
+semiconductor memory, and custom manufacturing and component recovery 
+operations not otherwise pledged as collateral for other notes payable 
+and capital leases are pledged as collateral under the company's bank 
+credit agreements.
+
+     A utility-owned power substation and a vendor-owned and operated 
+nitrogen production plant, each of which is dedicated for the company's 
+use, were constructed on land owned by the company.
+
+Item 3. Legal Proceedings
+
+     As of September 1, 1994, there were no material pending lawsuits to 
+which the company is a party.
+
+Item 4. Submission of Matters to a Vote of Security Holders
+
+     There were no matters submitted to a vote of security holders during the 
+fourth quarter of fiscal 1994.
+
+
+
+                                    PART II
+
+Item 5. Market for Registrant's Common Equity and Related Stockholder 
+Matters
+
+Market for Common Stock
+
+     Micron Technology, Inc.'s common stock is listed on the New York Stock 
+Exchange and is traded under the symbol MU. The following table 
+represents the high and low sales prices for the company's common stock 
+for each quarter of fiscal 1994 and 1993, as reported by The Wall Street 
+Journal. All stock prices presented have been restated to reflect a 5 
+for 2 stock split effected in the form of a stock dividend to 
+shareholders of record as of April 1, 1994.
+
+
+Holders of Record
+
+     As of September 1, 1994, there were 2,843 shareholders of record of the 
+company's Common Stock.
+
+Dividends
+
+     The company declared and paid cash dividends totaling $0.12 during 
+fiscal 1994, and $0.02 during each of fiscal 1993 and 1992. The 
+company's Board of Directors further approved a $0.05 per share cash 
+dividend to shareholders of record as of September 30, 1994, for payment 
+on October 24, 1994. Future dividends, if any, will vary depending on 
+the company's profitability and anticipated capital requirements.
+
+Item 6. Selected Financial Data
+
+(Amounts in millions, except for per share amounts)
+
+     See "Item 7. Management's Discussion and Analysis of Financial Condition 
+and Results of Operations - Certain Factors" for a discussion of 
+material uncertainties which might cause the data reflected herein not 
+to be indicative of the company's future financial condition or results 
+of operations.
+
+ 
+
+Item 7. Management's Discussion and Analysis of Financial Condition 
+and Results of Operations
+
+     All yearly references are to the company's fiscal years ended September 
+1, 1994, September 2, 1993, and September 3, 1992, unless otherwise 
+indicated. Fiscal year 1992 contained fifty-three weeks compared to 
+fifty-two weeks in fiscal years 1994 and 1993. All tabular dollar 
+amounts are stated in millions.
+
+Overview
+
+     The company achieved record sales and net income in 1994 primarily as a 
+result of favorable market conditions and increased production of 
+semiconductor memory. Net income for 1994 was $400.5 million, or $3.80 
+per fully diluted share, on net sales of $1,628.6 million. Fiscal year 
+1993's net income was $104.1 million, or $1.03 per fully diluted share, 
+on net sales of $828.3 million. Historical per share amounts have been 
+restated to reflect a 5 for 2 stock split effected in the form of a 
+stock dividend to shareholders of record as of April 1, 1994. During 
+fiscal year 1994, the company paid cash dividends totaling $0.12 per 
+share. The company's Board of Directors further approved a $0.05 per 
+share cash dividend to shareholders of record as of September 30, 1994 
+for payment on October 24, 1994. Future dividends, if any, will vary 
+depending on the company's profitability and anticipated capital 
+requirements.
+
+Results of Operations
+
+
+     The company's overall success continues to be dependent on the memory 
+operations of the company's wholly-owned subsidiary, Micron 
+Semiconductor, Inc. Favorable market conditions for memory products in 
+1994 resulted in relatively stable pricing. In addition, the company's 
+production of semiconductor memory, as measured in megabits, nearly 
+doubled in 1994 compared to 1993. The increase in volume of 
+semiconductor memory during 1994 was principally due to increased wafer 
+capacity, principally as a result of continued expenditures on equipment 
+and facilities; improved manufacturing yields resulting from increased 
+manufacturing efficiencies; and conversion to further shrinks of 
+existing products.
+
+     The company has benefited from market supply and demand relationships 
+resulting in relatively stable product pricing for approximately the 
+past nine quarters. Pricing per megabit for DRAM products has 
+historically declined approximately 30% per year on a long-term trend 
+line. While the company expects average selling prices to return to 
+their historical long-term declining trend line, market dynamics make 
+it difficult to forecast when or how quickly average selling prices will 
+fall.
+
+     The company's principal product in 1994 was the 4 Meg DRAM. Volumes for 
+specialty DRAMs decreased during 1994 as compared to 1993 as the company 
+dedicated more production resources to the 4 Meg DRAM. SRAM net sales 
+were higher in 1994 as compared to 1993, but declined as a percentage of 
+total net sales to approximately 8% in 1994.  SRAM net sales were 14% and 
+18% of total net sales in 1993 and 1992, respectively.
+
+     Similar to the factors leading to the increase in net sales comparing 
+1994 to 1993, the increase in net sales for 1993 as compared to 1992 was 
+principally due to higher volumes of semiconductor memory sold and 
+slightly higher average selling prices. Volume increases were achieved 
+through die-size reductions and increased manufacturing yields. Selling 
+prices, on average, were higher in 1993 as compared to 1992 for 4 Meg 
+and 1 Meg DRAM products, but were lower for specialty DRAM and SRAM 
+products.
+
+
+     The company's overall gross margin percentage improved significantly in 
+1994 as compared to 1993 due to relatively stable selling prices and 
+reductions in cost per unit of memory sold for DRAM products. Reductions 
+in costs per unit sold were realized primarily from a combination of 
+increased wafer output, yield improvements, die shrinks, and transitions 
+to higher density memory products.
+
+     Internal qualification is under way on the 16 Meg DRAM in a 300 mil 
+package, which is expected to be the preferred market package. 
+Manufacturing yields associated with the 16 Meg DRAM are currently lower 
+than those for the company's more mature products. A shift to the 300 
+mil package 16 Meg DRAM as the industry's primary product without 
+significant improvement in the company's manufacturing yields would have 
+a negative impact on the results of operations.
+ 
+
+
+     Sales of personal computers, and custom modules and boards accounted 
+for approximately 8% and 7%, respectively, of total net sales for 1994. 
+Gross margin percentages for such products are substantially lower than 
+the gross margins currently realized for the company's primary 
+semiconductor products. Should sales of personal computers and custom 
+modules and boards increase as a percentage of total net sales, the 
+company's overall gross margin percentage would decrease. Sales of 
+personal computers for 1993 and 1992 were approximately 4% and 2%, 
+respectively. Net sales for custom modules and boards for 1993 and 1992 
+were approximately 7% and 8%, respectively.
+
+     Cost of goods sold includes estimated costs of settlement or 
+adjudication of asserted and unasserted claims for patent infringement 
+prior to the balance sheet date, and costs of product and process 
+technology licensing arrangements. The charges for product and process 
+technology have remained relatively constant as a percentage of net 
+sales across all periods presented. Future product and process 
+technology charges may increase, however, as a result of claims that may 
+be asserted in the future. See "Certain Factors".
+
+     Similar to the factors leading to the increase in gross margin comparing 
+1994 to 1993, the increase in gross margin in 1993 as compared to 1992 
+was primarily due to reductions in cost per unit of memory sold realized 
+primarily from die shrinks and yield improvements, and slightly higher 
+average selling prices for DRAM products. These factors were partially 
+offset by increases in amortization of product and process technology 
+associated with a higher level of net sales, and by generally lower 
+average selling prices for SRAM and specialty DRAM products.
+
+
+     Selling, general, and administrative expenses increased in 1994 as 
+compared to 1993, but decreased as a percentage of net sales. The higher 
+level of selling, general, and administrative expenses for 1994 as 
+compared to 1993 was principally due to higher personnel costs; 
+increased costs incurred in conjunction with the company's action before 
+the International Trade Commission and patent litigation, each of which 
+has been settled; increased sales commissions based on a higher level of 
+net sales; and a higher level of state sales tax. The higher personnel 
+costs in 1994 were principally due to an increase in amounts paid under 
+the company's profit sharing programs. The increase in selling, general, 
+and administrative expenses for 1993 compared to 1992 was principally 
+due to a combination of higher personnel costs, increased sales 
+commissions, settlement costs for the shareholders' class action 
+lawsuit, legal fees associated with the shareholders' suit, and patent 
+litigation.
+
+
+     Research and development expenses, which vary primarily with the number 
+of wafers and personnel dedicated to new product and process 
+development, were higher for 1994 compared to 1993, but decreased as a 
+percentage of net sales.  Efforts in 1994 were focused primarily on 
+development of the 16 Meg DRAM, and design and development of the 64 Meg 
+DRAM and the 4 Meg and 16 Meg SRAMs. Development of VRAMs beyond the 
+company's current 2 Meg generation has been terminated as the company 
+pursues development of more cost-effective alternatives for graphics 
+applications. The company expects research and development expense in the 
+next year to be higher than 1994 as additional resources are dedicated to 
+development of the 16 Meg and 64 Meg DRAMs and to design and develop the 256 
+Meg DRAM, as well as design and development of new technologies related to 
+radio frequency identification products, nonvolatile semiconductor memory 
+devices, and flat panel field emission displays.
+
+
+     The effective tax rate for 1994 was 36% which primarily reflects the 
+statutory corporate tax rate and the net effect of state taxation. State 
+taxes reflect the utilization of $20 million of investment tax credits. 
+The effective tax rate for 1993 and 1992 was 36% and 31%, respectively. 
+Effective September 3, 1993, the company adopted Statement of Financial 
+Accounting Standards (SFAS) No. 109, "Accounting for Income Taxes." 
+Adoption of SFAS No. 109 did not have a material effect on the company's 
+financial position or results of operations.
+
+
+Liquidity and Capital Resources
+
+     The company had cash and liquid investments of $433 million as of 
+September 1, 1994, representing an increase of $247 million during 1994. 
+The company's principal sources of liquidity during 1994 were cash flows 
+from operations of $558 million, equipment financing of $126 million, 
+issuance of long-term debt of $119 million, and proceeds of $12 million 
+from the issuance of common stock in connection with the company's 
+employee stock purchase and stock option plans. The principal uses of 
+funds in 1994 were $251 million for property, plant, and equipment, $119 
+million for repayments of equipment contracts, $46 million for payments 
+on long-term debt, $18 million for acquisition and license of product 
+and process technology, and $12 million for payments of cash dividends.
+
+     As of September 1, 1994, the company had commitments of approximately 
+$290 million for equipment purchases and approximately $28 million for 
+the construction of buildings. Anticipated capital expenditures are 
+primarily for remodels and upgrades of existing fabrication facilities 
+and equipment, including upgrading manufacturing equipment to 8-inch 
+wafer processing capability, qualification of a newly constructed 
+central implant facility and a .25 micron 8-inch research and 
+development facility, and construction of an additional assembly and 
+test facility. Completion of these and future projects as currently 
+anticipated will require substantial cash resources including 
+significant payments out of the company's cash flow from near-term 
+operations.
+
+     The company's bank credit agreements provide for borrowings of up to 
+$130 million under revolving loans expiring through May 1997. 
+Substantially all of the tangible assets of the company's semiconductor 
+memory, and custom manufacturing and component recovery operations not 
+otherwise pledged as collateral for other notes payable and capital 
+leases are pledged as collateral under the agreements. The agreements 
+contain certain financial covenants, including a limitation on the 
+transfer of funds from consolidated subsidiaries to Micron Technology, 
+Inc. The limitation on transfer of funds is not expected to impair the 
+ability of the company to meet its cash obligations. As of September 1, 
+1994, the company had no borrowings outstanding under the agreements.
+
+     The company believes continuing investments in manufacturing technology, 
+facilities and capital equipment, research and development, and product 
+and process technology are necessary to support future growth, achieve 
+operating efficiencies, and maintain product quality. Although external 
+sources of cash have been required historically to supplement the 
+company's cash flows from operations to fund these ongoing investments, 
+the company currently expects that it will be able to fund its near-term 
+liquidity needs through cash flows from operations, existing cash and 
+liquid investment balances, and equipment financings. Depending on 
+overall market conditions, the company may borrow amounts available 
+under the bank credit agreements or pursue other external sources of 
+liquidity.
+
+
+
+Certain Factors
+
+     The semiconductor memory industry is characterized by rapid 
+technological change, frequent product introductions and enhancements, 
+difficult product transitions, relatively short product life cycles, and 
+volatile market conditions. These circumstances historically have made 
+the semiconductor industry highly cyclical, particularly in the market 
+for DRAMs, which are the company's primary products. Demand for 
+semiconductor memory products has grown, fueled primarily by growth in 
+the personal computer industry. Many of the company's competitors are 
+adding new facilities designed to process 8-inch wafers which have 
+approximately 84% greater usable surface area than the 6-inch wafer 
+currently used by the company. Many competitors are believed to be 
+running their 16 Meg DRAM manufacturing operations at significantly 
+lower yields than would be expected when such products mature. Yield 
+improvements by these competitors would dramatically increase 
+semiconductor memory capacity. Excess supply as a result of increased 
+semiconductor manufacturing capacity, adverse market conditions, or 
+currency fluctuations resulting in a strengthening dollar against the 
+yen, could result in downward pricing pressure. A decline in the current 
+favorable product pricing would have a material adverse effect on the 
+company's results of operations.
+
+     The manufacture of the company's semiconductor memory products is a 
+complex process and involves a number of precise steps, including wafer 
+fabrication, assembly in a variety of packages, burn-in, and final test. 
+From time to time, the company has experienced volatility in its 
+manufacturing yields, as it is not unusual to encounter difficulties in 
+ramping shrink versions of existing devices or new generation devices to 
+commercial volumes. The company continues to develop a reduced die size 
+16 Meg DRAM in a 300 mil package, which is expected to be the preferred 
+market package. The company's net sales and operating results are highly 
+dependent on increasing yields at an acceptable rate and to an 
+acceptable level, of which there can be no assurance. Future results of 
+operations may be adversely impacted if the company is unable to 
+transition to future generation products in a timely fashion or at gross 
+margin rates comparable to the company's current primary products.
+
+     Periodically, the company is made aware that technology used by the 
+company in the manufacture of some or all of its products may infringe 
+on product or process technology rights held by others. The company has 
+accrued a liability and charged operations for the estimated costs of 
+settlement or adjudication of asserted and unasserted claims for 
+infringement prior to the balance sheet date. Management can give no 
+assurance that the amounts accrued have been adequate and cannot 
+estimate the range of additional possible loss, if any, from resolution 
+of these uncertainties. Resolution of whether the company's manufacture 
+of products has infringed on valid rights held by others may have a 
+material adverse effect on the company's financial position or results 
+of operations, and may require material changes in production processes 
+and products. The company has various product and process technology 
+agreements expiring in the next fiscal year. The company is not able to 
+predict whether these license agreements can be renewed on terms 
+acceptable to the company.
+
+ 
+(This page intentionally left blank)
+
+
+
+Item 8. Financial Statements and Supplementary Data
+
+Index to Consolidated Financial Statements
+                                                                        Page
+Financial Statements:
+    Consolidated Statements of Operations  for...........................16
+     Fiscal Years Ended September 1, 1994,
+     September 2, 1993, and September 3, 1992
+
+    Consolidated Balance Sheets as of September 1,.......................17
+     1994, and September 2, 1993 
+
+    Consolidated Statements of Shareholders'.............................18
+     Equity for Fiscal Years Ended September 1,
+     1994, September 2, 1993, and September 3, 1992
+ 
+    Consolidated Statements of Cash Flows for............................19
+     Fiscal Years Ended September 1, 1994,
+     September 2, 1993, and September 3, 1992
+
+    Notes to Consolidated Financial Statements...........................20
+
+    Report of Independent Accountants....................................28
+
+Financial Statement Schedules as of September 1, 1994, and for Fiscal 
+Years Ended September 1, 1994, September 2, 1993, and September 3, 1992, 
+are set forth as follows:
+
+    I.  Marketable Securities............................................32
+
+    V.  Property, Plant, and Equipment...................................33
+
+    VI. Accumulated Depreciation and Amortization of.....................34
+        Property, Plant, and Equipment
+    X.  Supplementary Income Statement Information.......................35
+
+     Financial statement schedules and captions other than those included are 
+omitted because they are not required or are not applicable, or the 
+required information is given in the consolidated financial statements 
+including the notes thereto.  Captions and column headings have been 
+omitted where not applicable.
+
+
+Micron Technology, Inc.
+Consolidated Statements of Operations
+(Amounts in millions, except for per share amounts)
+
+The accompanying notes are an integral part of the financial statements.
+
+
+Micron Technology, Inc.
+Consolidated Balance Sheets
+(Dollars in millions, except for par value amount)
+
+The accompanying notes are an integral part of the financial statements.
+
+Micron Technology, Inc.
+Consolidated Statements of Shareholders' Equity
+(Dollars and shares in millions)
+
+The accompanying notes are an integral part of the financial statements.
+
+Micron Technology, Inc.
+Consolidated Statements of Cash Flows
+(Dollars in millions)
+
+The accompanying notes are an integral part of the financial statements.
+
+Micron Technology, Inc.
+Notes to Consolidated Financial Statements
+(All tabular dollar and share amounts are stated in millions)
+
+Significant Accounting Policies
+
+Basis of presentation: The consolidated financial statements include the 
+accounts of Micron Technology, Inc., and its domestic and foreign 
+subsidiaries (the "company"). The company develops, manufactures, and 
+markets DRAMs, very fast SRAMs, other semiconductor components, board-
+level and system-level products, and personal computers. All significant 
+intercompany accounts and transactions have been eliminated. Investments 
+in other entities in which the company does not have control are accounted 
+for by the cost method. The company's fiscal year ends on the Thursday 
+closest to August 31. Fiscal years 1994 and 1993 contained fifty-two weeks 
+compared to fifty-three weeks in 1992.
+
+Revenue recognition: Revenue from product sales to direct customers is 
+recognized upon shipment. The company defers recognition of sales to 
+distributors, which allow certain rights of return and price protection, 
+until distributors have sold the products. Net sales include amounts earned 
+under cross-license agreements with third parties and amounts received 
+under government contracts.
+
+Earnings per share: Earnings per share are computed using the weighted 
+average number of common and common equivalent shares outstanding.  Common 
+equivalent shares result from the assumed exercise of outstanding stock 
+options and affect earnings per share when they have a dilutive effect. On 
+March 1, 1994, the company's board of directors announced a 5-for-2 stock 
+split effected in the form of a stock dividend to shareholders of record as 
+of April 1, 1994. A total of 60,942,448 additional shares were issued in 
+conjunction with the stock split. The company distributed cash in lieu of 
+fractional shares resulting from the stock split. The company's par value 
+of $0.10 per share remained unchanged.  As a result, $6.1 million was 
+transferred from additional paid-in capital to common stock. All historical 
+share and per share amounts have been restated to reflect retroactively the 
+stock split.
+
+Financial instruments: Cash equivalents include highly liquid short-term 
+investments with original maturities of three months or less, readily 
+convertible to known amounts of cash. The amounts reported as cash and 
+equivalents, liquid investments, receivables, other assets, accounts 
+payable and accrued expenses, and equipment purchase contracts are 
+considered to be reasonable approximations of their fair values. The fair 
+value estimates presented herein were based on market information available 
+to management as of September 1, 1994. The use of different market assumptions 
+and/or estimation methodologies could have a material effect on the estimated 
+fair value amounts. The reported fair values do not take into consideration 
+potential taxes or other expenses that would be incurred in an actual 
+settlement.
+
+Financial instruments that potentially subject the company to concentrations 
+of credit risk, consist principally of cash, liquid investments, and trade 
+accounts receivable. The company invests its cash through high-credit-quality 
+financial institutions and performs periodic evaluations of the relative 
+credit standing of these financial institutions.  The company, by policy, 
+limits the concentration of credit exposure by restricting investments with 
+any single obligor, instrument, or geographic area. A concentration of credit 
+risk may exist with respect to trade receivables, as substantially all 
+customers are affiliated with the computer, telecommunications, and office 
+automation industries. The company has a large number of customers worldwide 
+on which it performs ongoing credit evaluations and generally does not require 
+collateral from its customers. Historically, the company has not experienced 
+significant losses related to receivables for individual customers or groups 
+of customers in any particular industry or geographic area.
+
+Inventories: Inventories are stated at the lower of average cost or market. 
+Costs include labor, material, and overhead costs, including product and 
+process technology costs.
+
+Property, plant, and equipment: Property, plant, and equipment are stated 
+at cost. Depreciation is computed using the straight-line method over the 
+estimated useful lives of 5 to 30 years for buildings and 2 to 5 years for 
+equipment.
+
+Product and process technology: Costs related to the conceptual formulation 
+and design of products and processes are expensed as research and development. 
+Costs incurred to establish patents and acquire product and process technology 
+are capitalized. Capitalized costs are amortized on the units-of-production 
+method and on the straight-line method over the shorter of the estimated 
+useful life of the technology, the patent term, or the agreement, ranging up 
+to 15 years.
+
+Foreign currency: The U.S. dollar is the company's functional currency for 
+financial reporting.
+
+
+Liquid Investments
+
+The company adopted Statement of Financial Accounting Standards ("SFAS") No. 
+115 "Accounting for Certain Investments in Debt and Equity Securities" as of 
+September 1, 1994. Under SFAS No. 115, securities classified as held-
+to-maturity are stated at amortized cost. Securities classified as 
+available-for-sale and trading are stated at their fair values which 
+approximate cost.
+
+
+Securities classified as held-to-maturity have remaining maturities within 
+one year, and securities classified as available-for- sale mature within 
+one to three years.
+
+Receivables
+
+
+ 
+
+Product and Process Technology
+
+Amortization of capitalized product and process technology costs charged to 
+operations was $40.9 million in 1994; $26.2 million in 1993; and $10.0 
+million in 1992. Accumulated amortization was $100.4 million and $59.5 
+million as of September 1, 1994, and September 2, 1993, respectively.
+
+Property, Plant, and Equipment
+
+
+Maintenance and repair expenses were $45.9 million in 1994; $38.8 million 
+in 1993; and $30.3 million in 1992.
+
+In May 1994, the company purchased approximately 30 acres of land for 
+$258,000 for development and use by the company's personal computer 
+operation and obtained an option on an additional 40 acres from a director 
+of the company.
+
+Accounts Payable and Accrued Expenses
+ 
+
+
+Long-Term Debt
+
+The notes payable are collateralized by plant and equipment with a total 
+cost of approximately $91.2 million and accumulated depreciation of 
+approximately $25.3 million as of September 1, 1994. The company is required 
+to maintain certain financial ratios under loan agreements. Equipment 
+recorded under capital leases, and the accumulated depreciation thereon, 
+were approximately $16.9 million and $8.5 million as of September 1, 1994, 
+and $42.6 million and $20.4 million as of September 2, 1993. Maturities of 
+long-term debt are as follows:
+
+
+
+The company's bank credit agreements provide for borrowings up to $130.0 
+million expiring through January 1997.  Substantially all of the tangible 
+assets of the company's semiconductor manufacturing, and custom manufacturing 
+and component recovery operations not otherwise pledged as collateral for 
+other notes payable and capital leases are pledged as collateral under the 
+agreements. The agreements contain certain financial covenants, including a 
+limitation on the transfer of funds from consolidated subsidiaries to Micron 
+Technology, Inc. The limitation on transfer of funds is not expected to impair 
+the ability of the company to meet its cash obligations. As of September 1, 
+1994, the company had no borrowings outstanding under the agreements.
+
+The estimated fair value of the company's long-term debt as of September 1, 
+1994 was $155.6 million, based on a discount rate of 6.50%. The estimated 
+fair value of long-term debt was based on interest rates available to the 
+company for issuance of debt with similar terms and remaining maturities. 
+Settlement at the estimated fair values may not be possible due to terms 
+and conditions of existing agreements, or may not be a prudent management
+decision.
+
+Interest income in 1994 is net of $5.8 million of interest expense. Interest 
+expense is net of $4.5 million and $4.2 million of interest income in 1993 
+and 1992, respectively.  Construction period interest of $2.6 million; $0.3 
+million; and $0.2 million was capitalized in 1994, 1993, and 1992, 
+respectively.
+
+
+
+Stock Purchase Plans
+
+The company's 1985 Incentive Stock Option Plan ("ISO Plan") provides for 
+the granting of incentive or nonstatutory stock options.  As of September 1, 
+1994, there was an aggregate of 12.4 million shares of common stock reserved 
+for issuance of which 9.5 million are committed under the plan. To date, the 
+exercise prices of the incentive and nonstatutory stock options have been 
+100% and 85%, respectively, of the fair market value of the company's common 
+stock on the date of grant.  Options are subject to terms and conditions 
+determined by the Board of Directors, and generally are exercisable in 
+increments of 20% during each year of employment beginning one year from 
+date of grant and expire six years from date of grant.
+
+Option activity under the ISO Plan is summarized as follows:
+
+
+Options outstanding under the ISO Plan as of September 1, 1994, were at per 
+share prices ranging from $2.60 to $42.66.  Options exercised were at per 
+share prices ranging from $2.60 to $23.55 in 1994,  $4.25 to $20.28 in 1993, 
+and $4.25 to $19.48 in 1992.
+
+The 1989 Employee Stock Purchase Plan allows eligible employees of the 
+company to purchase shares of common stock through payroll deductions. 
+The shares can be purchased for 85% of the lower of the beginning or ending 
+fair market value of each three-month offering period and are restricted 
+from resale for a period of one year from purchase.  Purchases are limited 
+to 20% of an employee's eligible compensation.  A total of 1.8 million shares 
+are reserved for issuance under the plan, of which 1.0 million shares have 
+been issued as of September 1, 1994.
+
+Employee Savings Plan
+
+The company has a 401(k) profit-sharing plan ("RAM Plan") in which 
+substantially all employees are participants.  Employees may contribute 
+from 2 to 16 percent of their eligible pay to various savings alternatives 
+in the RAM Plan.  In fiscal 1994, the company modified the plan to provide 
+for an annual match of the first $1,500 of eligible employee contributions, 
+and for additional contributions based on the company's financial performance. 
+The company's RAM Plan expense was $4.6 million in 1994, $2.4 million in 
+1993, and $2.0 million in 1992.
+
+Commitments
+
+As of September 1, 1994, the company had commitments of $289.7 million for 
+equipment purchases and $27.9 million for the construction of buildings. 
+Future obligations under operating leases are not material to the company's 
+operations.
+
+Income Taxes
+
+Effective the first day of fiscal 1994, the company adopted SFAS No. 109, 
+"Accounting for Income Taxes", which prescribes the liability method of 
+accounting for income taxes. Adoption of SFAS No. 109 did not have a material 
+effect on the company's financial position or results of operations.  Prior 
+years accounted for under SFAS No. 96 have not been restated.
+
+
+
+
+The provision for income taxes consists of the following:
+
+
+The tax benefit associated with disqualifying dispositions by employees of 
+shares issued in the company's stock purchase plans reduced taxes payable 
+by $10.7 million for 1994.  Such benefits are credited to additional paid-in 
+capital.
+
+A reconciliation between the income tax provision and income tax computed 
+using the federal statutory rate follows:
+
+
+
+State taxes reflect utilization of $20.1 million of investment tax credits. 
+As of September 1, 1994, the company had unused state credits of 
+approximately $2.8 million for tax and financial reporting purposes which 
+expire through 1999.
+
+Deferred income taxes reflect the net tax effects of temporary differences 
+between the carrying amount of assets and liabilities for financial reporting 
+purposes and the amounts used for income tax purposes. The approximate tax 
+effect of temporary differences and carryforwards which give rise to the net 
+deferred tax liability are as follows:
+
+
+
+During 1993 and 1992, in accordance with SFAS No. 96, deferred income taxes 
+were provided for significant temporary differences. The significant 
+components of the 1993 deferred tax benefit were $14.5 million for product and 
+process technology, reduced by $2.8 million for depreciation and $6.5 million 
+for other items. Deferred tax expense for 1992 included product and process 
+technology of $3.2 million, depreciation of $1.6 million, and other items of 
+$2.0 million.
+
+
+ 
+Export Sales and Major Customers
+
+Export sales were $471.0 million, $250.9 million, and $161.7 million in 1994, 
+1993, and 1992, respectively. Sales to one personal computer manufacturing 
+customer approximated 11% of total net sales in 1994 and 10% of total net 
+sales in 1993.
+
+Contingencies
+
+Periodically, the company is made aware that technology used by the company 
+in the manufacture of some or all of its products may infringe on product or 
+process technology rights held by others. The company has accrued a liability 
+and charged operations for the estimated costs of settlement or adjudication 
+of asserted and unasserted claims for infringement prior to the balance sheet 
+date. Management can give no assurance that the amounts accrued have been 
+adequate and cannot estimate the range of additional possible loss, if any, 
+from resolution of these uncertainties. Resolution of whether the company's 
+manufacture of products has infringed on valid rights held by others may have 
+a material adverse effect on the company's financial position or results of 
+operations, and may require material changes in production processes and 
+products. The company has various product and process technology agreements 
+expiring in the next fiscal year. The company is not able to predict whether 
+these license agreements can be renewed on terms acceptable to the company.
+
+On March 9, 1994, the company entered into a patent cross-license agreement 
+with Texas Instruments, Inc. ("TI"). As a result of this agreement, the 
+various patent lawsuits between Micron Semiconductor, Inc., and TI in Idaho, 
+Texas, and Delaware were settled. Similar to a prior cross-license agreement 
+between the parties which expired in 1992, the company will pay ongoing 
+royalties to TI based on sales of DRAMs and other semiconductor devices. 
+The company accrued a sufficient amount to pay the royalties related to sales 
+for periods from expiration of the previous cross-license to the date of the 
+settlement.
+
+On November 13, 1992, Micron Semiconductor, Inc., filed a patent infringement 
+action with the United States International Trade Commission ("ITC") against 
+Goldstar Electron Company, Ltd., and Goldstar Electron America, Inc.
+(collectively, "Goldstar"), and Hyundai Electronics Industries Co., Ltd., 
+and Hyundai Electronics America, Inc. (collectively, "Hyundai"). The company 
+has since entered into patent cross-license agreements with Goldstar and with 
+Hyundai. The ITC action against Goldstar and Hyundai was dismissed.
+
+On November 20, 1992, Thorn EMI North America, Inc. ("Thorn"), filed suit 
+against Micron Technology, Inc., and MSI in the federal district court in 
+Wilmington, Delaware, alleging infringement of four of Thorn's patents.  On 
+December 4, 1993, the parties entered into a settlement agreement dismissing 
+the lawsuit.
+
+The company is currently a party to various other legal actions arising out 
+of the normal course of business, none of which are expected to have a 
+material effect on the company's financial position or results of operations.
+
+
+Quarterly Financial and Market Information (Unaudited)
+(Dollars in millions, except for per share amounts)
+
+
+
+The company declared and paid cash dividends totaling $0.12 and $0.02 per 
+share in fiscal years 1994 and 1993, respectively. The company's Board of 
+Directors further approved a $0.05 per share cash dividend to shareholders of 
+record as of September 30, 1994, for payment on October 24, 1994.  Future 
+dividends, if any, will vary depending on the company's profitability and 
+anticipated capital requirements. As of September 1, 1994, the company had 
+2,843 shareholders of record.
+
+Net sales for the fourth quarter of 1993 includes $8.4 million from licensing 
+product and process technology.
+
+ 
+
+Report of Independent Accountants
+
+The Shareholders and Board of Directors 
+Micron Technology, Inc.
+
+We have audited the consolidated financial statements and financial statement 
+schedules of Micron Technology, Inc., and subsidiaries listed in the index on 
+page 15 of this Form 10-K. These financial statements and financial statement 
+schedules are the responsibility of the company's management.  Our 
+responsibility is to express an opinion on these financial statements and 
+financial statement schedules based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing 
+standards. Those standards require that we plan and perform the audit to 
+obtain reasonable assurance about whether the financial statements are free 
+of material misstatement. An audit includes examining, on a test basis, 
+evidence supporting the amounts and disclosures in the financial statements. 
+An audit also includes assessing the accounting principles used and 
+significant estimates made by management, as well as evaluating the overall 
+financial statement presentation. We believe that our audits provide a 
+reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, 
+in all material respects, the consolidated financial position of Micron 
+Technology, Inc., and subsidiaries as of September 1, 1994, and September 2, 
+1993, and the consolidated results of their operations and their cash flows 
+for each of the three years in the period ended September 1, 1994, in 
+conformity with generally accepted accounting principles. In addition, in our 
+opinion, the financial statement schedules referred to above, when considered 
+in relation to the basic financial statements taken as a whole, present 
+fairly, in all material respects, the information required to be included 
+therein.
+
+As discussed in the contingencies note to the consolidated financial 
+statements, management can give no assurance that the amounts accrued as of 
+September 1, 1994, for estimated costs of settlement or adjudication of 
+asserted and unasserted claims for infringement of product and process 
+technology rights held by others, have been adequate, nor can management 
+estimate the range of additional possible loss, if any, from resolution of 
+these uncertainties.
+
+Coopers & Lybrand L.L.P.
+
+Boise, Idaho 
+September 22, 1994
+
+
+
+Item 9. Changes in and Disagreements With Accountants on Accounting and 
+Financial Disclosure
+
+    None.
+
+                                 PART III
+
+Item 10. Directors and Executive Officers of the Registrant
+
+Item 11. Executive Compensation
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management
+
+Item 13. Certain Relationships and Related Transactions
+
+Certain information concerning the registrant's executive officers is 
+included under the caption "Executive Officers of the Registrant" 
+following Part I, Item 1 of this report. Other information required by 
+Items 10, 11, 12 and 13 will be contained in the registrant's Proxy 
+Statement which will be filed with the Securities and Exchange 
+Commission within 120 days after September 1, 1994, and is incorporated 
+herein by reference.
+
+
+
+                                  PART IV
+Item 14. Exhibits, Financial Statement Schedules, and Reports on Form 8-K
+
+(a)  The following documents are filed as part of this report:
+
+     Consolidated financial statements and financial statement schedules -- 
+see "Item 8. Financial Statements and Supplementary Data - Notes to 
+Consolidated Financial Statements - Contingencies".
+
+
+
+Exhibit numbers from Registration Statement on Form S-1 (Reg. No. 2-93343) 
+retained, where applicable.
+
+(b)Reports on Form 8-K:
+
+The registrant did not file any Reports on Form 8-K during the quarter 
+ended September 1, 1994.
+
+
+                                SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities 
+Exchange Act of 1934, the Registrant has duly caused this report to be 
+signed on its behalf by the undersigned, thereunto duly authorized, in 
+the City of Boise, State of Idaho, on the 22nd day of September, 1994.
+
+                                     MICRON TECHNOLOGY, INC.
+
+                              By     /s/ Reid N. Langrill
+                                     -----------------------
+                                     Reid N. Langrill, Vice President, 
+                                     Finance, Treasurer, and
+                                     Chief Financial Officer
+                                     (Principal Financial and Accounting 
+                                     Officer)
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, 
+this Annual Report has been signed below by the following persons on 
+behalf of the Registrant and in the capacities and on the dates 
+indicated.
+
+
+                             MICRON TECHNOLOGY, INC.
+
+                                  Schedule I
+                              Marketable Securities
+                              (Dollars in millions)
+
+
+                             MICRON TECHNOLOGY, INC.
+                                 Schedule V
+                        Property, Plant, and Equipment
+                             (Dollars in millions)
+
+
+
+                              MICRON TECHNOLOGY, INC.
+                                    Schedule VI
+                    Accumulated Depreciation and Amortization of
+                          Property, Plant, and Equipment
+                              (Dollars in millions)
+
+
+                           MICRON TECHNOLOGY, INC.
+                                Schedule X
+                  Supplementary Income Statement Information
+                           (Dollars in millions)
+
+
+
+                               INDEX TO EXHIBITS
+
+
+
+

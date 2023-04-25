@@ -1,0 +1,2948 @@
+
+10-K405
+0001.txt
+FORM 10-K405
+
+
+
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                               ----------------
+
+                                   FORM 10-K
+
+                               ----------------
+
+                 ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+
+                 For the Fiscal Year Ended: September 30, 2000
+
+                        Commission File Number: 0-18059
+
+                               ----------------
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+
+
+                     140 Kendrick Street, Needham, MA 02494
+          (Address of principal executive offices, including zip code)
+
+                                 (781) 370-5000
+              (Registrant's telephone number, including area code)
+
+
+
+                               ----------------
+
+Indicate by check mark whether the registrant has (i) filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports) and (ii) has been subject to such
+filing requirements for the past 90 days. YES [X]  NO [_]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein and will not be contained, to the
+best of the registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K, or any
+amendment to this Form 10-K. [X]
+
+The aggregate market value of our voting stock held by non-affiliates was
+approximately $3,303,192,083 on October 31, 2000 based on the last reported
+sale price of our common stock on The Nasdaq Stock Market on that day. There
+were 268,279,560 shares of our common stock outstanding on that day.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the definitive Proxy Statement in connection with the Annual
+Meeting of Stockholders to be held February 15, 2001 (2001 Proxy Statement) are
+incorporated by reference into Part III.
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+                ANNUAL REPORT ON FORM 10-K FOR FISCAL YEAR 2000
+
+                               
+
+
+                                       i
+
+
+                           Forward-Looking Statements
+
+This Annual Report on Form 10-K contains forward-looking statements about our
+anticipated financial results and growth, as well as about the development of
+our products and our markets, which are based on our plans and assumptions.
+Important information about the basis for these plans and assumptions and
+certain factors that may cause our actual results to differ materially from
+these statements is discussed in this report and contained in "Management's
+Discussion and Analysis of Financial Condition and Results of Operations"
+beginning on page 7 below.
+
+                                     PART I
+
+ITEM 1: Business
+
+                                  Introduction
+
+Parametric Technology Corporation (PTC), founded in 1985 and headquartered in
+Needham, MA, develops, markets and supports collaborative product commerce
+(CPC) software solutions that help companies manage the product development
+process in order to better shape innovation and achieve sustained competitive
+advantage. These solutions, which include a suite of flexible engineering MCAD
+tools and a range of Internet-based collaboration technologies for both
+enterprise and exchange level solutions, leverage our leadership in providing
+software that streamlines engineering processes, improves product quality,
+optimizes product information management and reduces cost and time-to-market
+cycles. Our CPC software solutions are complemented by the strength and
+experience of our Global Services Organization, as well as our systems
+integrators and other strategic partners, who provide training, consulting,
+implementation and support to customers worldwide.
+
+Our CPC solutions include software and services that use Internet-based
+architecture to permit individuals using different computer-based tools in
+different locations with different roles in the commercialization of a product
+to collaboratively develop, build and manage products throughout their entire
+lifecycle. CPC subsumes many smaller, previously isolated markets that address
+various phases of the product lifecycle, such as product data management (PDM),
+component and supplier management (CSM), visualization and digital mockup,
+mechanical computer-aided design, manufacturing and engineering (MCAD),
+enterprise application integration (EAI), program and project management,
+manufacturing planning and maintenance, repair and overhaul (MRO).
+
+Our flexible engineering MCAD solutions, based on our flagship Pro/ENGINEER(R)
+design software, provide our customers with industry-leading product
+development and engineering solutions. MCAD has been our core business focus;
+however, we believe there is growing demand for a broader suite of solutions
+from manufacturers who, in order to stay competitive, must deliver more custom-
+tailored goods faster and at lower prices while relying more than ever before
+on geographically dispersed and dynamic supply chains. In order to pursue this
+opportunity, we have expanded our focus to encompass the collaborative
+solutions offered by our Windchill(R) software. This expanded CPC focus allows
+us to increase the business impact our customers derive from our flexible
+engineering solutions and provides our customers with the additional tools they
+need to elevate their products into enterprise assets and to leverage these
+assets into new business opportunities.
+
+In the third quarter of fiscal 2000 we reorganized to provide more discrete
+product line focus and to improve our overall profitability. The reorganization
+resulted in the creation of the Windchill Solutions and MCAD Solutions business
+units. Each unit is responsible for research and development, marketing,
+professional services, customer support and indirect sales. All of our
+solutions continue to be distributed primarily through our direct sales force.
+Within our direct sales force, there are geographic divisions focused both on
+the domestic market and on sales outside of the United States. Each division,
+in turn, is further divided into two groups based on account type, with one
+group focusing on major accounts and the other on all other (primary) accounts.
+Moreover, we are attempting to broaden our indirect distribution channel and,
+toward that end, have formed alliances with systems integrators, resellers,
+strategic partners and entities with complementary software products. In fiscal
+2000, we began working on a new initiative, called Windchill Netmarkets(TM),
+that enables us
+
+
+
+to address opportunities to utilize our Windchill technology in the business-
+to-business exchange marketplace. This initiative was integrated into our
+Windchill Solutions business unit in November 2000.
+
+                             Products and Services
+
+Our family of MCAD flexible engineering software solutions encompasses a broad
+spectrum of engineering disciplines essential to the development of virtually
+all manufactured products, ranging from consumer products to jet aircraft.
+Manufacturers compete on the basis of cost, time to market and product
+performance criteria, which are significantly affected by the quality and
+length of the product development process. These tools offer high-performance,
+fully integrated solutions available on all leading hardware platforms,
+including Windows(R) native solutions, that enable end-users to reduce their
+time to market and manufacturing costs for their products and to improve
+product quality by easily evaluating multiple design alternatives and sharing
+data with bi-directional associativity. Our MCAD suite includes:
+
+  Pro/ENGINEER--our cornerstone mechanical design automation suite for 3D
+  solid modeling with next generation behavioral modeling technology.
+  Behavioral modeling is a knowledge management capability that provides a
+  unique method of capturing engineers' innovations by generating objective-
+  driven design solutions that then may be automatically optimized and re-
+  used on subsequent designs. Pro/ENGINEER is based on the industry's most
+  robust, parametric, feature-based solid modeler--enabling changes made
+  during the design process to be associatively updated throughout the
+  design. These features, along with its "Certified for Microsoft(R) Windows
+  2000" user-interface, allow companies to create more innovative,
+  differentiated and functional products more quickly and easily than ever
+  before. In addition to these Pro/ENGINEER Design Solutions, the suite
+  offers Pro/ENGINEER Production Solutions (Pro/NC), which provide
+  intelligent production and manufacturing tools, and Pro/ENGINEER
+  Shipbuilding Solutions, which make available Pro/ENGINEER's associative
+  features with industry specific functionality.
+
+  Pro/MECHANICA(R)--our functional simulation software allows users to
+  evaluate and optimize the mechanical performance of product designs in
+  real-world situations, reducing the need for expensive physical prototypes
+  and enhancing overall product quality.
+
+  DIVISION(TM)--our suite of visualization solutions ranging from readily
+  deployable 2D and 3D viewing and redlining, to digital virtual mockup,
+  behavior simulation and total-body virtual reality immersion.
+
+  ICEM(TM) Styling and Surfacing (including CDRS(TM))--provides advanced
+  interactive tools for free-form surface and shape modeling, from industrial
+  design to production surface development and engineering. ICEM Surf is a
+  premier Class A surface modeling product used in the automotive industry by
+  nearly all major manufacturers for modeling high-quality, Class A surfaces
+  as well as in the industrial design, tool design and consumer product
+  markets. CDRS is a complete set of integrated tools for quickly creating
+  realistic images with free-form surfaces that can be used throughout the
+  product design cycle to evaluate, explore and communicate ideas to
+  management and clients.
+
+  InPart(R)--our Internet-based library of CAD parts containing 2D and 3D
+  geometry, technical specifications and component selection software that
+  allows mechanical engineers to download over one million certified part
+  designs via the Internet, saving valuable time and expense.
+
+  Pro/INTRALINK(R)--our workgroup management solution for product development
+  using Pro/ENGINEER. It lets Pro/ENGINEER users facilitate design team
+  collaboration and manages the power of Pro/ENGINEER associativity. Its
+  dynamic collaborative environment supports Pro/ENGINEER's rapid and
+  effective design approach.
+
+  Pro/DESKTOP(TM)--our conceptual engineering solution which allows users to
+  easily explain design possibilities and rapidly capture ideas right at the
+  beginning of the product development process.
+
+
+
+  CADDS(R)5i--our 3D mechanical design software, originally developed by
+  Computervision Corporation, offers production-proven product development
+  tools spanning concept, design, analysis, drafting and manufacturing. It is
+  used by many of the world's largest discrete manufacturing companies for
+  the design and engineering of airplanes, ships and automobiles.
+
+  MEDUSA(R)--our world-class 2D detailing and design documentation solution
+  with specific applications focused on plant design and electrical and
+  process related diagrams.
+
+  DIMENSION(TM) III--our comprehensive core product for plant design.
+  Available in both two-dimensional and three-dimensional versions, DIMENSION
+  III facilitates concurrent design engineering and quick access to model
+  data information.
+
+Our MCAD solutions benefit from the unique level of interoperability provided
+by our Associative Topology Bus (ATB) technology which allows for the exchange
+of data between various CAD tools without the loss of any design geometry. When
+changes occur, the ATB propagates those changes through the other MCAD solution
+members, automatically updating affected deliverables, such as drawings and
+tooling.
+
+Our Windchill enterprise suite is a comprehensive set of business software
+solutions for CPC. Built around Windchill's federated, Web-based architecture,
+these solutions enable manufacturers to leverage the Internet in their product
+development and delivery process from customer driven engineer-to-order through
+development, manufacturing and retirement. Windchill enables manufacturers to
+create innovative new products, deliver those products to market faster and
+manage the complexities of an evolving supply chain. Windchill's core
+capabilities include:
+
+  Collaboration. Provides an environment where businesses can share valuable
+  product and process information throughout the extended enterprise,
+  regardless of where that information resides or in what format it is.
+
+  Product Planning. Enables businesses to meet the increasing demand for
+  custom-tailored products while minimizing the overall number of product
+  variations. This is accomplished by providing the means to define flexible
+  engineered-to-order products, supply customer-specific portals and easily
+  identify existing variations for future reuse.
+
+  Engineering. Optimizes the product innovation and design environment to
+  reduce concept-to-design cycle times and improve team collaboration by
+  linking directly with the engineering team using MCAD interface and PDM
+  tools.
+
+  Sourcing. Gives manufacturers the ability to reduce global procurement and
+  product development costs by standardizing and consolidating part and
+  supplier information. The solution enables companies to identify re-usable
+  parts, commercially available solutions and preferred sources.
+
+  Product Management. Offers a complete set of enterprise scalable PDM
+  functionality to promote concurrent engineering and to create a single
+  source of product information available to all functional organizations,
+  facilitating product change management throughout the entire product life
+  cycle.
+
+  Manufacturing. Integrates a company's product development and design with
+  its manufacturing processes by creating and maintaining detailed process
+  plans and executing production analysis and process simulation. This
+  solution allows companies to increase information capture and reuse,
+  optimize manufacturing processes and share this knowledge across the
+  enterprise.
+
+  Production. Integrates Windchill with market-leading enterprise resource
+  planning systems allowing the exchange of valuable product-related
+  information including part masters, bills of material and engineering
+  change information, between Windchill and those systems.
+
+  Customization. Lets manufacturers rapidly create and deploy customized
+  Windchill lifecycle applications allowing them to leverage their own
+  internal processes and practices into a competitive advantage.
+
+
+
+Windchill Netmarkets, which is based on the Windchill collaboration technology,
+provides collaborative product development capabilities on Internet exchanges,
+portals and marketplaces. The solution permits all members of a globally
+dispersed design chain (customers, suppliers, partners and internal product
+teams) to connect beyond the corporate firewall on a self-service project
+basis. Exchanges powered by Windchill Netmarkets may be either public
+(available to the general commercial community to provide project management
+capabilities) or private (sponsored by a single company or consortium for
+managing specific collaboration projects with certain invitees). The Windchill
+standards-based architecture permits the Windchill Netmarkets solution to
+provide a flexible project environment that facilitates efficient communication
+of high-level project management activities. Project leaders can create dynamic
+management teams, establish business processes and roles, and define and track
+project tasks, milestones and deliverables while utilizing automated processes
+such as change management, escalation policies and requests for
+information/quotation/proposal (RFI/RFQ/RFP).
+
+Our CPC solutions are complemented by our systems integrators, resellers and
+strategic partners, as well as our Global Services Organization (GSO), which is
+committed to providing the expertise needed to meet the consulting, education
+and technical support requirements of every type of company and user--in seven
+major support centers and more than 70 educational facilities worldwide. Our
+GSO, which has been one of the fastest growing areas of our business, focuses
+on:
+
+  Consulting Services designed to transform a company's business process into
+  a competitive advantage by evaluating and recommending the tools and
+  practices needed to create more productive engineering and information
+  management environments, including long-range planning, process
+  improvement, system implementation and product program strategies.
+
+  Education Services offering expert, comprehensive and efficient training
+  programs for our entire product line tailored to the needs of each student
+  and combining hands-on and classroom training.
+
+  Technical Support Services providing fast, accurate answers to software and
+  product development questions through a variety of resources which are
+  available worldwide.
+
+                              Product Development
+
+In order to be competitive in the CPC marketplace, we must continually provide
+our customers with new software and service solutions. As a result, we have
+increased our spending on research and development, and we are constantly
+looking for opportunities to acquire new technologies suited to our customers'
+needs.
+
+Our ability to rapidly develop new MCAD products that provide for flexible
+engineering is facilitated by the modular structure of our software code, which
+enables functional capabilities used in existing products to be accessed and
+utilized by new software modules, thereby reducing the amount of new code
+required to develop additional products. The major benefit of this approach is
+rapid development of new functionality. Our Windchill products expand the
+breadth of our offerings allowing a comprehensive CPC solution. The developing
+CPC industry is characterized by new technologies, including Internet-centric,
+Java-based, object-oriented software. The Windchill products depend upon these
+new technologies as well as certain licensed third-party technologies.
+
+We work closely with our customers to define improvements and enhancements to
+be integrated into our products. Using this approach, customers become involved
+in the product design process to validate feasibility and to influence
+functionality early in the product's life cycle. In addition, we maintain an
+Enterprise Software Partners program (successor to our Cooperative Software
+Program) and a Windchill Technology Partner program. These programs are
+designed to provide partners with access to our Windchill and MCAD products and
+provide the mechanism and environment to facilitate the integration of
+complementary products with our product lines. Through our open software
+toolkits, program members can build tightly integrated solutions that satisfy
+the various requirements of our customers.
+
+Our fiscal year research and development expenses were $93.2 million in 1998,
+$124.1 million in 1999 and $143.8 million in 2000.
+
+
+
+                              Sales and Marketing
+
+We derived most of our revenue from products distributed directly by our sales
+force to our end-user customers with the remainder offered through third-party
+distributors. We also began offering some of our MCAD products over the
+Internet during fiscal 2000. No single customer accounted for more than 10% of
+our revenue in any of the last three fiscal years.
+
+Within our direct sales force, we have created geographic divisions focused on
+the domestic market and on sales outside the United States. Within these
+geographic divisions there are both major and primary accounts focused units.
+In addition, we are broadening our indirect distribution channel through
+alliances with systems integrators, resellers and other strategic partners. The
+systems integrators, which include Accenture (formerly Andersen Consulting),
+Atos Origin, Deloitte Consulting and Computer Science Corporation, will work in
+tandem with our direct sales force to locate and target potential CPC
+opportunities. We have also signed an agreement with Rand A Technology
+Corporation (Rand) as a distributor of our core flexible engineering MCAD
+products. This agreement gives Rand the rights to distribute certain products
+and their related maintenance services throughout North America, Europe and
+parts of Asia/Pacific.
+
+Information about our foreign and domestic operations and export sales, and the
+risks thereof, may be found in Note M to the consolidated financial statements
+and the section entitled "Management's Discussion and Analysis of Financial
+Condition and Results of Operations" beginning on page 7 below.
+
+                                  Competition
+
+CPC is a relatively new industry, and there are a number of companies offering
+solutions that address specific functional areas within CPC such as: Agile
+Software Corp., Dassault Systemes, MatrixOne and Structural Dynamics Research
+Corporation for PDM solutions; i2 Technologies Inc. for part sourcing
+solutions; and Dassault Systemes and Engineering Animation, Inc. for
+visualization and mock-up solutions. We also face competition from companies
+that are developing these solutions in-house. In addition, larger, better-known
+enterprise-solution companies with established customer bases may enter the CPC
+market and offer more complete solutions. There are also an increasing number
+of competitive MCAD products. In our traditional MCAD market, we compete most
+directly with products developed by Dassault Systemes and marketed by IBM and
+products developed by Unigraphics and Structural Dynamics Research Corporation.
+For smaller manufacturing businesses, we, along with our resellers, compete
+with products from companies like Solidworks, a subsidiary of Dassault
+Systemes, and Autodesk, Inc.
+
+                               Proprietary Rights
+
+Our software products and our other trademarks, including our company names,
+product names and logos, are proprietary. We protect our intellectual property
+rights in these items by relying on copyrights, trademarks, patents and common
+law safeguards, including trade secret protection, as well as restrictions on
+disclosures and transferability contained in our agreements with other parties.
+Despite these measures, there can be no assurance that the laws of all relevant
+jurisdictions will afford adequate protection to our products and other
+intellectual property. The software industry is characterized by frequent
+litigation regarding copyright, patent and other intellectual property rights.
+While we have not, to date, had any significant claims of this type asserted
+against us, there can be no assurance that someone will not assert such claims
+against us with respect to existing or future products or other intellectual
+property or that, if asserted, we would prevail in such claims. In the event a
+lawsuit of this type is filed, it could result in significant expense to us and
+divert the efforts of our technical and management personnel, whether or not we
+ultimately prevail.
+
+We believe that, due to the rapid pace of innovation within our industry,
+factors such as the technological and creative skills of our personnel are as
+important to establishing and maintaining a technology leadership position
+within the industry as are the various legal protections surrounding our
+technology. We believe that our products, technology and trademarks do not
+infringe any existing proprietary rights of others, although there can be no
+assurance that third parties will not assert infringement claims in the future.
+Certain of our
+
+
+
+products also contain technology developed and licensed from third parties. We
+may likewise be susceptible to infringement claims with respect to these third
+party technologies.
+
+PTC, Parametric Technology Corporation, Pro/ENGINEER, Windchill, Windchill
+Netmarkets and all product names in the PTC product family are trademarks or
+registered trademarks of PTC or our subsidiaries in the United States and/or
+other countries.
+
+                                    Backlog
+
+We generally ship our products within 30 days after acceptance of a customer
+purchase order and execution of a software license agreement. Accordingly, we
+do not believe that our backlog at any particular point in time is indicative
+of future sales levels.
+
+                                   Employees
+
+As of September 30, 2000, we had 4,725 employees, including 1,702 in sales,
+marketing and support activities; 1,405 in customer support, training and
+consulting; 430 in general and administration; and 1,188 in product
+development. Of these employees, 2,142 were located throughout the United
+States and 2,583 were located in foreign countries.
+
+ITEM 2: Properties
+
+In December 1999, we sold land and certain improvements under construction and
+entered into a lease covering approximately 381,000 square feet of office space
+in Needham, MA to consolidate and replace our Waltham, MA operations. Our
+corporate offices currently occupy 210,000 square feet in the new Needham
+facility and we expect to occupy the remaining 171,000 square feet in the
+second quarter of fiscal 2001, subject to completion of construction. Occupancy
+and rent began in December 2000 and the lease expires in December 2012, subject
+to certain renewal rights.
+
+We also lease 175 offices in the United States and internationally through our
+foreign subsidiaries, predominately as sales and/or support offices and for
+development work. Of our total of approximately 1,470,000 square feet of leased
+facilities, approximately 701,000 is located in the U.S. and 769,000 is located
+outside the U.S. Several of our leased facilities were acquired in our merger
+with Computervision, including 518,000 square feet of office space in Bedford,
+MA still under lease. Approximately 456,000 square feet is not used for our
+current operations and is primarily subleased to other entities. As described
+in Notes B and G to the consolidated financial statements, these facilities
+have been included in our restructuring provisions. We continue to engage in
+subleasing and early lease termination initiatives to employ alternate uses for
+these facilities. We believe that our facilities are adequate for our present
+needs.
+
+ITEM 3: Legal Proceedings
+
+Certain class action lawsuits were filed by shareholders in the fourth quarter
+of 1998 against us and certain of our current and former officers and directors
+in the U.S. District Court in Massachusetts claiming violations of the federal
+securities laws based on alleged misrepresentations regarding our anticipated
+revenue and earnings for the third quarter of 1998. An amended complaint,
+consolidating these lawsuits into one action, was filed in the second quarter
+of 1999, seeking unspecified damages. We believe the claims made in the
+consolidated action are without merit, and we intend to defend them vigorously.
+In the third quarter of 1999 we filed a motion to dismiss the consolidated
+action. We cannot predict the outcome of this motion or the ultimate resolution
+of this action at this time, and there can be no assurance that the litigation
+will not have a material adverse impact on our financial condition or results
+of operations.
+
+We are also subject to various legal proceedings and claims that arise in the
+ordinary course of business. We currently believe that resolving these matters
+will not have a material adverse impact on our financial condition or results
+of operations.
+
+ITEM 4: Submission of Matters to a Vote of Security Holders
+
+No matters were submitted to a vote of security holders during the last quarter
+of fiscal 2000.
+
+
+
+                                    PART II
+
+ITEM 5: Market for Registrant's Common Equity and Related Stockholder Matters
+
+Information with respect to this item may be found in the section captioned
+"Quarterly Financial Information" on page F-24 below.
+
+On September 30, 2000, our common stock was held by 6,565 shareholders of
+record. We have not paid cash dividends on our common stock and have
+historically retained earnings for use in our business. We intend to review our
+policy with respect to the payment of dividends from time to time; however,
+there can be no assurance that any dividends will be paid in the future.
+
+ITEM 6: Selected Financial Data
+
+Information with respect to this item may be found in the section captioned
+"Five Year Summary of Selected Financial Data" on page F-24 below.
+
+ITEM 7: Management's Discussion and Analysis of Financial Condition and Results
+of Operations
+
+                                  Introduction
+
+In January 1998, we completed a merger with Computervision Corporation that has
+been accounted for as a pooling of interests. Accordingly, we have restated our
+consolidated financial statements to include the accounts and operations of
+Computervision for all periods prior to the merger presented in this Annual
+Report on Form 10-K. See Note B. This discussion and the accompanying
+consolidated financial statements and notes to the consolidated financial
+statements (Notes) reflect that restatement. Unless otherwise indicated, all
+references to a year reflect our fiscal year that ends on September 30.
+
+                           Forward-Looking Statements
+
+This Annual Report on Form 10-K contains forward-looking statements about our
+anticipated financial results and growth, as well as about the development of
+our products and our markets, which are based on our plans and assumptions.
+Important information about the basis for these plans and assumptions and
+certain factors that may cause our actual results to differ materially from
+these statements is contained below and in "Important Factors That May Affect
+Future Results" beginning on page 16.
+
+                               Business Overview
+
+Historically, our core business focus has been to provide MCAD solutions to
+customers through our flagship Pro/ENGINEER(R) design software, and we remain
+committed to providing our customers with industry leading flexible engineering
+solutions based on this software. Additionally, we believe that there is
+growing demand for additional collaborative product commerce (CPC) solutions
+from manufacturers who, in order to stay competitive, must deliver more custom-
+tailored goods faster and at lower prices while relying more than ever before
+on geographically dispersed and dynamic supply chains. These CPC solutions
+include software and services that utilize Internet technologies to permit
+individuals - no matter what role they have in the commercialization of a
+product, no matter what computer-based tools they use, no matter where they are
+located geographically or in the supply chain - to collaboratively design,
+develop, build and manage products throughout their entire lifecycle. In order
+to pursue this opportunity, we expanded our focus in 1999 to encompass a
+complete CPC solution and introduced our Web-based Windchill(R) information
+management and collaboration software. We continued this CPC focus in 2000 and
+will do so for the foreseeable future. This expanded focus allows us to
+increase the business impact our customers derive from our flexible engineering
+MCAD solutions and provides our customers with the additional tools they need
+to elevate their products into enterprise assets and to leverage these assets
+into new business opportunities.
+
+As a result of the difficulty we experienced in transitioning from a one
+product company to a multi-product company and in balancing our efforts between
+our traditional MCAD solutions business and our growing CPC
+
+
+
+solutions business, in the third quarter of 2000 we reorganized ourselves to
+provide more discrete product line focus and accountability and to improve our
+overall profitability. The reorganization resulted in the creation of the
+following business units:
+
+  . Windchill Solutions. This business unit is responsible for expanding our
+    reach in the CPC market in terms of product content, collaboration and
+    sourcing services. It encompasses our efforts to develop new
+    partnerships, business relationships and indirect channels of
+    distribution in support of our web infrastructure efforts. Our Windchill
+    exchange solutions, called Windchill Netmarkets(TM), provides these
+    collaborative capabilities on Internet exchanges, portals and
+    marketplaces, which, among other things, permits collaboration outside
+    the corporate firewall.
+
+  . MCAD Solutions. This business unit is responsible for the Pro/ENGINEER
+    product line as well as other applications within our MCAD suite of
+    flexible engineering solutions. It focuses full-time on the needs of the
+    MCAD marketplace.
+
+Each unit is responsible for research and development, marketing, professional
+services, customer support and indirect sales. All of our solutions continue to
+be distributed primarily through our direct sales force. Within our direct
+sales force, there are geographic divisions focused both on the domestic market
+and on sales outside of the U.S. Each division, in turn, is further divided
+into two groups based on account type, with one group focusing on major
+accounts and the other on all other (primary) accounts. Moreover, we are
+attempting to broaden our indirect distribution channel and, toward that end,
+have formed alliances with systems integrators, resellers, strategic partners
+and entities with complementary software products. In 2000, we began working on
+a new initiative, called Windchill Netmarkets, that enables us to address
+opportunities to utilize our Windchill technology in the business-to-business
+exchange marketplace. This initiative was integrated into our Windchill
+Solutions business unit in November 2000.
+
+                             Results of Operations
+
+The following is an overview of our results of operations for the last three
+years:
+
+  . Total revenue was $1,018.0 million for 1998, $1,057.6 million for 1999
+    and $928.4 million for 2000.
+
+  . Our year-over-year revenue increased 4% from 1998 to 1999 and decreased
+    12% from 1999 to 2000.
+
+  . Windchill revenue increased from $13.4 million in 1998 to $81.3 million
+    in 1999 and to $174.7 million in 2000.
+
+  . MCAD revenue decreased from $1,004.6 million in 1998 to $976.3 million in
+    1999 and to $753.7 million in 2000.
+
+  . Income (loss) before extraordinary loss was $105.7 million in 1998,
+    $119.3 million in 1999 and ($4.0) million in 2000.
+
+  . Pro forma net income, which excludes the amortization of goodwill and
+    intangible assets, acquisition and nonrecurring charges and the
+    extraordinary loss, was $199.4 million in 1998, $184.4 million in 1999
+    and $38.9 million in 2000.
+
+
+
+The following table shows certain consolidated financial data as a percentage
+of our total revenue for the last three years.
+
+
+
+Revenue
+
+As a result of our expanded focus on providing CPC solutions, software and
+service revenue from our Windchill products grew to 19% of total revenue in
+2000, up from 8% in 1999 and 1% in 1998. Overall, however, total revenue
+decreased 12% in 2000 compared to 1999 after an increase of 4% in 1999 compared
+to 1998.
+
+License revenue decreased 8% in 1999 and 33% in 2000. Several factors,
+including those described below, contributed to these decreases. While we
+continue to derive our license revenue primarily from our MCAD software
+solutions, our Windchill software solutions are starting to comprise an
+increasing percentage of total license revenue. In order to meet what we
+believe is a large market opportunity for overall CPC solutions, over the past
+two years we have channeled significant resources into the Windchill product
+line. This emphasis on larger, more enterprise-wide solutions has resulted in
+longer and less predictable sales cycles and increased dependence on
+consummating larger transactions in general. The transfer of resources to
+Windchill also reduced the sales capacity for the MCAD product line and
+contributed to a loss of market share for MCAD.
+
+In addition, we have experienced increased competition in the MCAD industry
+from native Windows(R)-based products offering more limited functionality at
+lower costs. In August 1998 we repackaged and repriced our
+
+
+
+core Pro/ENGINEER design software. Due in large part to these factors, the
+average selling price of this software decreased by 16% in 1999 and 6% in 2000.
+We also experienced some weakness with existing customers in North America and
+Europe during 2000.
+
+Furthermore, in order to better leverage the efforts of our direct sales force,
+in October 1998 we appointed Rand A Technology Corporation as our exclusive
+MCAD distributor to small businesses in the United States and Europe. Rand's
+performance was impacted by the transition required by this relationship and
+its level of revenue contribution has been lower than originally anticipated.
+Our results could be adversely affected if Rand is unable to achieve certain
+sales levels or make existing or future payments.
+
+Due in large part to the factors described above, unit sales decreased 40% in
+2000 compared to 1999 and increased 1% in 1999 compared to 1998. Additional
+factors affecting our revenues and operating results are listed under
+"Important Factors That May Affect Future Results" below.
+
+We licensed over 90% of our products directly to end-user customers in each of
+the last three fiscal years. The balance was licensed through third-party
+distributors, primarily Rand. We expect the percentage of our MCAD products
+that we license through third-party distributors may increase in the future as
+we enter into new reseller and other distribution agreements.
+
+Our service revenue is derived from the sale of software maintenance contracts
+and the performance of training and consulting services. Service revenue, which
+has a lower gross profit margin than license revenue, accounted for 40% of
+total revenue in 1998, 47% in 1999 and 59% in 2000. Service revenue increased
+21% in 1999 and 11% in 2000. This increase is the result of growth in our
+installed customer base for both product lines and increased training and
+consulting services performed for Windchill customers. We expect service
+revenue to continue to increase in absolute dollars in 2001.
+
+We derived 56%, 56% and 59% of our total revenue from sales to international
+customers in 1998, 1999 and 2000, respectively. Direct export sales were $115.2
+million, $166.2 million and $81.5 million in 1998, 1999 and 2000, respectively.
+
+                              [GRAPH APPEARS HERE]
+
+              [Chart Showing Revenue By Geography (in millions)]
+
+
+
+
+Over the past year, we implemented a number of strategic actions designed to
+improve profitability and provide a foundation for growth. For example, in
+order to provide more discrete product line focus and accountability, in May
+2000 we created separate business units with overall responsibility for the
+company's different product lines. We also have established several new
+alliances with leading systems integrators. In addition, in the fourth
+
+
+
+quarter of 2000, we modified our arrangement with Rand to remove Rand's
+exclusivity in the small business segment while broadening Rand's distribution
+rights on a non-exclusive basis. This allows us to increase the number of
+distributors for our MCAD solutions to provide greater geographic coverage and
+specialized focus on discrete products. Between September 2000 and November
+2000 we entered into arrangements with over twenty new distributors.
+
+Looking forward, our overall revenue levels will be dependent on our ability to
+successfully balance our efforts between our traditional MCAD business and our
+growing Windchill business. Our challenge is to effectively manage and improve
+performance in our MCAD business while continuing to aggressively pursue a new
+product area that presents significant growth opportunities. Toward this end,
+we believe that our initiative in building separate business units and
+expanding our alliances and indirect distribution channels are having a
+positive impact on our transformation from a one product company to a multi-
+product company and will result in improved and more consistent performance.
+Factors affecting our revenues and operating results are listed under
+"Important Factors That May Affect Future Results" below.
+
+Costs and Expenses
+
+All cost and expense categories in 1998, 1999 and 2000 were impacted by the
+acquisition and/or nonrecurring charges taken in those periods. See Note B. Our
+operating expenses are based on anticipated future revenue and are relatively
+fixed for the short term. From the fourth quarter of 1998 through the second
+quarter of 2000 we had been incurring expenses that would have supported
+revenues in excess of the then current levels in order to implement our
+strategic initiatives, particularly as they related to our Windchill solutions.
+Given the lower than expected revenue in the first two quarters of 2000, we
+reduced our existing cost structure during the third quarter of 2000 to improve
+profitability (see "Nonrecurring Charges--Reorganization into Business Units"
+below).
+
+Cost of License Revenue
+
+Our cost of license revenue consists of costs associated with reproducing and
+distributing software and documentation and the payment of royalties. Cost of
+license revenue as a percentage of license revenue was 3% for both 1998 and
+1999 and 4% for 2000. The increase in cost of license revenue as a percentage
+of license revenue is primarily a result of paying higher royalties to third
+parties for technologies used in connection with the Windchill products.
+
+Cost of Service Revenue
+
+Our cost of service revenue includes costs associated with training and
+consulting personnel, such as salaries and related costs and travel, and costs
+related to software maintenance, including costs incurred for customer support
+personnel and the release of maintenance updates. Cost of service revenue as a
+percentage of service revenue was 34%, 39% and 42% in 1998, 1999 and 2000,
+respectively. This increase reflects our investment in the staffing necessary
+to support our new product offerings, principally our Windchill solutions.
+
+Sales and Marketing
+
+Our sales and marketing expenses primarily include salaries and benefits, sales
+commissions, travel and facility costs. These costs increased 3% in 1999 and 2%
+in 2000 primarily due to the growth of the sales force related to our Windchill
+solutions, partially offset by reductions associated with the sales force
+reorganizations. Total sales and marketing employees were 2,440 in 1998, 1,980
+in 1999 and 1,702 in 2000. The higher costs in 1999 and 2000 are due to the
+higher average cost per sales employee, as we are hiring a more experienced CPC
+solutions focused sales force. International sales and marketing expenses
+represented 59% in 1998, 57% in 1999 and 58% in 2000 of total sales and
+marketing expenses.
+
+Research and Development
+
+Our research and development expenses consist principally of salaries and
+benefits, expenses associated with product translations, costs of computer
+equipment used in software development and facility expenses. Compared to the
+prior years, research and development expenses increased 33% in 1999 and 16% in
+2000. The
+
+
+
+increase in 1999 and 2000 is primarily attributable to our continued investment
+in Windchill solutions, as well as our InPart, Division and auxilium
+acquisitions in 1999. We expect our investment in research and development to
+increase in absolute dollars in 2001.
+
+General and Administrative
+
+Our general and administrative expenses include the costs of our corporate,
+finance, information technology, human resources and administrative functions.
+These costs increased 10% in 1999 and 13% in 2000. These increases represent
+our continued investment in information technology infrastructure, the
+integration of acquired companies and higher costs associated with increasing
+service revenue.
+
+                              [GRAPH APPEARS HERE]
+
+                [Chart Showing Cost and Expenses (in millions)]
+
+
+
+
+Amortization of Goodwill and Other Intangible Assets
+
+These costs represent the amortization of intangible assets acquired, including
+developed technology, goodwill, customer lists, assembled work force and trade
+names. The increase in amortization of $20.2 million in 1999 and $15.5 million
+in 2000 compared to the prior years resulted principally from our 1999
+acquisitions of InPart, Division and auxilium.
+
+Acquisitions
+
+Computervision. In January 1998, we merged with Computervision Corporation by
+issuing 11.6 million shares of common stock in exchange for all of the
+outstanding common stock of Computervision. In connection with the merger, we
+incurred a nonrecurring charge of $76.8 million for merger-related integration,
+consolidation and transaction costs in the second quarter of 1998. The charge
+included $18.1 million of severance and termination benefits related to the
+elimination of approximately 450 positions, $12.7 million for the write-off of
+assets, $8.2 million for transaction costs, $17.4 million of contract costs
+associated with revised estimates, $7.2 million for the closing of leased
+facilities and $13.2 million of lease termination and other costs. For
+additional information see Note B.
+
+ICEM. In June 1998, we acquired ICEM Technologies, a division of Control Data
+Systems, Inc. for $40.6 million in cash. Headquartered in Frankfurt, Germany,
+ICEM provides advanced surfacing and reverse engineering software tools used by
+body and styling engineers in the automotive and aerospace industries. The
+acquisition was accounted for as a purchase. Accordingly, we allocated the
+purchase price to the assets acquired and liabilities assumed based on our
+estimates of fair value. The amounts allocated to tangible and intangible
+assets acquired less the liabilities assumed exceeded the purchase price by
+approximately $7.0 million. This excess value over the purchase price was
+allocated to reduce proportionately the values assigned to long-term assets and
+
+
+
+purchased in-process research and development (R&D) in determining their
+values. The values assigned included $2.1 million for net assets acquired,
+$28.9 million for purchased in-process R&D, $8.0 million for developed
+technology, $1.6 million for an assembled workforce and $1.0 million for trade
+names.
+
+InPart. In October 1998, we purchased InPart Design, Inc., a developer of
+DesignSuite, a Web-based repository of 3D mechanical component data, as well as
+the developer of enterprise software applications focused on Web-based
+component and supplier management, which was founded in 1996. We allocated the
+purchase price of $38.1 million to the assets acquired and liabilities assumed
+based on our estimate of fair value. The values assigned included $741,000 for
+net liabilities assumed, $10.6 million for purchased in-process R&D, $4.1
+million for developed technology, $1.1 million for customer lists, $200,000 for
+an assembled workforce and $300,000 for trade names. The excess purchase price
+over the amounts allocated to assets acquired and liabilities assumed was
+recorded as goodwill of $22.5 million.
+
+Division. In March 1999, we purchased Division Group plc, a developer of
+enterprise product data visualization, simulation and integration tools. We
+allocated the purchase price of $48.1 million to the assets acquired and
+liabilities assumed based on our estimates of fair value. The values assigned
+included $555,000 for net assets acquired, $9.0 million for purchased in-
+process R&D, $3.3 million for developed technology, $2.0 million for customer
+lists, $970,000 for an assembled workforce and $2.5 million for trade names.
+The excess purchase price over the amounts allocated to assets acquired and
+liabilities assumed was recorded as goodwill of $29.8 million.
+
+auxilium. In March 1999, we purchased auxilium inc., a developer of Web-based
+software tools for the integration of legacy systems, databases and
+applications, which was founded in 1997. We allocated the purchase price of
+$101.7 million to the assets acquired and liabilities assumed based on our
+estimates of fair value. The values assigned included $182,000 for net
+liabilities assumed, $18.6 million for purchased in-process R&D, $700,000 for
+developed technology, $5.0 million for customer lists, $630,000 for an
+assembled workforce and $6.0 million for trade names. The excess purchase price
+over the amounts allocated to assets acquired and liabilities assumed was
+recorded as goodwill of $70.9 million.
+
+In the opinion of management, the purchased in-process R&D for the acquisitions
+of ICEM, InPart, Division and auxilium had not yet reached technological
+feasibility and had no alternative future use. Accordingly, we recorded
+nonrecurring charges of $28.9 million during the third quarter of 1998 related
+to ICEM, $10.6 million in the first quarter of 1999 related to InPart and $27.6
+million in the second quarter of 1999 related to Division and auxilium. The
+values assigned to purchased in-process R&D were determined by identifying
+research projects for which technological feasibility had not been established.
+The values of the purchased in-process R&D were determined by estimating the
+stage of completion, including consideration of the complexity of the work
+completed, the costs incurred and the projected costs to complete, the
+contribution of any core technology and other acquired assets and the projected
+product introduction dates, estimating the resulting net cash flows from the
+products developed and discounting the net cash flows back to their present
+value. For each acquisition, the estimates were based on the following major
+assumptions:
+
+ICEM:
+
+  . Revenue was estimated to grow at a compound rate of 33% over the first
+    five years and 14% thereafter.
+
+  . Cost of revenue for the purchased in-process technology, expressed as a
+    percentage of revenue, was estimated to decline from 20% to 10% through
+    2006 based on ICEM's average historical cost of revenue and reflect
+    future economies of scale.
+
+  . Selling, general and administrative expenses were estimated to be 29% of
+    revenue for all periods, consistent with ICEM's historical average.
+
+InPart:
+
+  . Revenue was estimated to begin late in 1999 and to grow based on industry
+    growth rates and InPart's specific product offerings.
+
+
+
+  . Cost of revenue for the purchased in-process technology, expressed as a
+    percentage of revenue, was estimated to decline from 22% to 11% based on
+    InPart's average historical cost of revenue and reflect future economies
+    of scale.
+
+  . Selling, general and administrative expenses, as a percentage of revenue,
+    were estimated to be 99% in 1999, reflecting an initial investment in the
+    marketing of the in-process technology and declining to 40% thereafter.
+    These amounts were based on industry average historical selling, general
+    and administrative costs.
+
+Division:
+
+  . Revenue was based on industry growth rates and Division's specific
+    product offerings.
+
+  . Cost of revenue for the purchased in-process technology, expressed as a
+    percentage of revenue, was estimated to be 15% based on Division's
+    average historical cost of revenue.
+
+  . Selling, general and administrative expenses, as a percentage of revenue,
+    were estimated to be 47% in 1999, reflecting an initial investment in the
+    marketing of the in-process technology and declining to 41% thereafter.
+    These amounts were based on industry average historical selling, general
+    and administrative costs.
+
+auxilium:
+
+  . Revenue was based on industry growth rates and auxilium's specific
+    product offerings.
+
+  . Cost of revenue for the purchased in-process technology, expressed as a
+    percentage of revenue, was estimated to be between 32% and 26% based on
+    auxilium's average historical cost of revenue.
+
+  . Selling, general and administrative expenses, as a percentage of revenue,
+    were estimated to be 53% in 1999, reflecting an initial investment in the
+    marketing of the in-process technology and declining to 40% thereafter.
+    These amounts were based on industry average historical selling, general
+    and administrative costs.
+
+The net cash flows also considered net working capital requirements and capital
+spending needs related to the purchased in-process technology. The rates used
+to discount net cash flows for the purchased in-process technology to its
+present value for the ICEM (24%), InPart (28%), Division (25%) and auxilium
+(26% to 30%) acquisitions were based on the weighted average cost of capital
+and took into account the uncertainty surrounding the successful development of
+the purchased in-process technology for each acquisition. If these projects are
+not successfully developed, future revenue and profitability may be adversely
+affected, and the value of intangible assets acquired may become impaired.
+
+Nonrecurring Charges
+
+Sales Force Reorganizations. During the first quarter of 1999, we reorganized
+our sales force and, in connection with this action, incurred a restructuring
+charge of $3.2 million for the severance and termination benefits of
+approximately 170 people who were terminated during the first quarter of 1999
+in accordance with management's plans. During the second quarter of 1999, we
+incurred a restructuring charge of $5.8 million for the severance and
+termination benefits of approximately 150 people in connection with the
+integration of our sales and related support groups. All amounts related to
+terminated employees were paid in 1999.
+
+Facility Consolidation and Asset Impairment. During the second quarter of 1999,
+we incurred a restructuring charge of $1.4 million for the consolidation of
+certain excess leased facilities. Also, in the second quarter we recorded an
+impairment loss of $4.7 million on certain intangible assets related to our
+industrial design (CDRS) activities. Due to acquisitions and the development of
+new technology, the carrying value of these assets was impaired.
+
+Reorganization into Business Units. During the third quarter of 2000, we
+recorded a $21.5 million nonrecurring charge primarily associated with our
+reorganization into business units and with the development and execution of
+management's plans to reduce our cost structure and improve profitability. The
+nonrecurring charge is comprised
+
+
+
+of $11.9 million for severance and termination benefits of approximately 280
+people who were notified or terminated during the third quarter of 2000 and
+$9.6 million for facility consolidations. Of the $21.5 million nonrecurring
+charge, $12.2 million was paid during 2000. We expect to pay $6.0 million over
+the next twelve months.
+
+Interest Expense
+
+Our interest expense in 1998 related primarily to debt incurred by
+Computervision prior to the merger that we paid off in the second quarter of
+1998. See Note F.
+
+Interest Income
+
+Interest income relates to the earnings on the investment of our excess cash
+balance in various financial instruments. The 41% decrease in interest income
+in 1999 compared to 1998 resulted from lower average annual yields and lower
+average cash balances of approximately $140.0 million. The 17% increase in
+interest income in 2000 compared to 1999 resulted from higher average annual
+yields and higher average cash balances of approximately $24.0 million.
+
+Other Expense
+
+A large portion of our revenue and expenses is transacted in foreign
+currencies. In order to reduce our exposure to fluctuations in foreign exchange
+rates, from time to time we engage in hedging transactions involving the use of
+foreign exchange forward contracts and foreign exchange option contracts in the
+primary European and Asian currencies. Our other expense includes the costs of
+the hedging contracts, the gain or loss from the translation of results for
+subsidiaries for which the U.S. dollar is the functional currency and other
+charges incurred in connection with financing customer contracts. See Note A.
+
+Income Taxes
+
+Our effective income tax provision (benefit) rate was 48% in 1998, 34% in 1999
+and (21)% in 2000. The higher effective tax rate in 1998 over the statutory
+federal tax rate (35)% was due primarily to the non-deductibility of certain
+expenses included in the acquisition of Computervision and nonrecurring
+charges. The lower effective tax rate in 1999 resulted primarily from the use
+of Computervision net operating losses, partially offset by the non-
+deductibility of certain acquisition-related charges and net operating losses
+of foreign entities which could not be benefited. The reduced effective tax
+rate benefit in 2000 resulted primarily from the non-deductibility of certain
+acquisition-related amortization and net operating losses of foreign entities
+which could not be benefited. On a pro forma basis, which excludes amortization
+of goodwill and intangible assets and acquisition and nonrecurring charges, our
+tax rate was 34% in 1998, 27% in 1999 and 29% in 2000. See Note E.
+
+Extraordinary Loss
+
+In connection with the Computervision merger, we assumed a revolving note
+payable and long-term debt obligations. During the second quarter of 1998, we
+paid $275.7 million for settlement of the outstanding note, debt obligations,
+accrued interest and related fees, and we incurred an extraordinary after-tax
+loss of $19.0 million related to the write-off of deferred financing costs and
+other prepayment costs associated with this debt. See Note F.
+
+                        Liquidity and Capital Resources
+
+Our operating activities, the proceeds from our issuance of stock under stock
+plans and existing cash and investments provided sufficient resources to fund
+our employee base, capital asset needs, stock repurchases, acquisitions and
+financing needs, in all years presented.
+
+As of September 30, 2000, cash and investments totaled $375.1 million, up from
+$353.9 million at September 30, 1999. The primary reasons for the increase in
+cash and investments during 2000 was $79.6 million of proceeds from issuance of
+common stock under our stock plans, cash provided by operating activities of
+$51.9 million and $30.8 million from the sale of land and certain improvements
+partially offset by the repurchase of $90.0 million of common stock and $37.0
+million in expenditures to acquire property and
+
+
+
+equipment. Our investment portfolio is diversified among security types,
+industries and individual issuers. Our investments are generally liquid and
+investment grade. The portfolio is primarily invested in short-term securities
+to minimize interest rate risk and to facilitate rapid deployment in the event
+of immediate cash needs.
+
+Cash generated from operating activities was $181.9 million in 1998, $150.8
+million in 1999 and $51.9 million in 2000, including cash expenditures for
+nonrecurring charges of $62.3 million in 1998, $34.2 million in 1999 and $30.3
+million in 2000.
+
+In 1998, 1999 and 2000, we acquired $35.8 million, $35.2 million and $37.0
+million, respectively, of capital equipment consisting principally of computer
+equipment, software and office equipment. We spent $40.6 million in 1998, $72.9
+million in 1999 and $7.9 million in 2000 to acquire businesses. In December
+1999, we sold land and certain improvements under construction for $30.8
+million and entered into an operating lease covering approximately 381,000
+square feet of office space in Needham, MA to consolidate and replace our
+Waltham, MA operations. Our corporate offices currently occupy 210,000 square
+feet in the new Needham facility and we expect to occupy the remaining 171,000
+square feet in the second quarter of fiscal 2001, subject to completion of
+construction. Occupancy and rent began in December 2000 and the lease expires
+in December 2012, subject to certain renewal rights. In the first half of 2001
+we expect to make approximately $25.0 million of capital expenditures primarily
+for tenant improvements and furniture and fixtures related to the new facility.
+
+We used net cash for financing activities in 1998, 1999 and 2000, primarily to
+repurchase $50.0 million, $90.0 million and $90.0 million, respectively, of our
+stock, and to pay off the Computervision debt in 1998 of $275.7 million. These
+expenditures were partially offset by proceeds of $70.4 million, $23.9 million
+and $79.6 million, in 1998, 1999 and 2000, respectively, from the issuance of
+our common stock under our stock plans.
+
+In September 1998, our Board of Directors authorized a plan allowing us to
+repurchase up to 20.0 million shares of our common stock. Through September 30,
+2000, we purchased 18.7 million shares at a cost of $230.0 million. In July
+2000 our Board of Directors authorized an additional 20.0 million shares to be
+repurchased. At September 30, 2000, 6.5 million shares were held in treasury.
+These repurchased shares and any future repurchases will be used to issue
+shares for stock option exercises, employee stock purchase plans and potential
+acquisitions.
+
+We believe that existing cash and short-term investments together with cash
+generated from operations and the issuance of common stock under our stock
+plans will be sufficient to meet our working capital, financing and capital
+expenditure requirements through at least 2001.
+
+                         New Accounting Pronouncements
+
+In accordance with recently issued accounting pronouncements, we will be
+required to comply with certain changes in accounting rules and regulations.
+See Note A.
+
+                Important Factors That May Affect Future Results
+
+The following are some of the factors that could affect our future results.
+They should be considered in connection with evaluating forward-looking
+statements contained in this Annual Report on Form 10-K and otherwise made by
+us or on our behalf, because these factors could cause actual results and
+conditions to differ materially from those projected in forward-looking
+statements.
+
+I. Operational Considerations
+
+Our operating results fluctuate within each quarter and from quarter-to-quarter
+making our future revenues and operating results difficult to predict
+
+While our sales cycle varies substantially from customer to customer, we
+usually realize a high percentage of our revenue in the third month of each
+fiscal quarter, and this revenue tends to be concentrated in the later part of
+that month. Our orders early in a quarter will not generally occur at a rate
+which, if sustained throughout the quarter, would be sufficient to assure that
+we will meet our revenue targets for any particular quarter. Moreover,
+
+
+
+our reorganization into business units, our shift in business emphasis to a
+more solutions-oriented sales process--undertaken in part to increase our
+average order size--and our transition from a one product to a multi-product
+company have resulted in longer and more unpredictable sales cycles for
+products and services. Accordingly, our quarterly results may be difficult to
+predict prior to the end of the quarter. Any inability to obtain large orders
+or orders in large volumes or to make shipments or perform services in the
+period immediately preceding the end of any particular quarter may cause the
+results for that quarter to fall short of our revenue targets. In addition, our
+operating expenses are based on expected future revenue and are relatively
+fixed for the short term. As a result, a revenue shortfall in any quarter could
+cause our earnings for that quarter to fall below expectations as well. Any
+failure to meet our quarterly revenue or earnings targets could adversely
+impact the market price of our stock.
+
+Other factors that may also cause quarter-to-quarter revenue and earnings
+fluctuation include the following:
+
+  . our sales incentive structure is weighted more heavily toward the end of
+    the fiscal year, and the rate of revenue growth for the first quarter
+    historically has been lower and more difficult to predict than that for
+    the fourth quarter of the immediately preceding fiscal year;
+
+  . variability in the levels of professional service revenues and the mix of
+    our license and service revenues;
+
+  . declines in license revenue may adversely affect the size of our
+    installed base and our level of service revenue; and
+
+  . the increased utilization of third parties, such as systems integrators,
+    resellers, strategic partners and application service providers, as
+    distribution mechanisms for our software products and related services,
+    may lessen the control we have over any particular sales cycle.
+
+In addition, the levels of quarterly or annual software or service revenue in
+general, or for particular geographic areas, may not be comparable to those
+achieved in previous periods.
+
+We may not be able to implement new initiatives successfully
+
+Part of our success in the past has resulted from our ability to implement new
+initiatives. Our future operating results will continue to depend upon:
+
+  . the successful implementation of a divisionalized business unit
+    structure, including the realignment of internal functions, the
+    management of divisionalized processes and effective mitigation of
+    disruption that may result from organizational change;
+
+  . our ability to sustain the appropriate balance between our MCAD and
+    Windchill businesses;
+
+  . our ability to appropriately allocate and implement cost cutting measures
+    that increase profitability while maintaining adequate resources for
+    effective and coordinated organizational performance;
+
+  . the success of our sales force reorganization initiatives, including:
+
+   -- our shift from point sales to solution sales,
+
+   -- the effectiveness of our organizational sales model,
+
+   -- the ability of our sales reps to learn and sell our products, and
+
+   -- Rands' and other distributors' ability to perform successfully in the
+     MCAD arena;
+
+  . our ability to anticipate and meet evolving customer requirements in the
+    CPC arena and successfully deliver products and services at an enterprise
+    level;
+
+  . our ability to broaden indirect distribution channels through alliances
+    with systems integrators, resellers, strategic partners and application
+    service providers;
+
+  . our ability to develop Windchill Netmarkets opportunities; and
+
+
+
+
+  . our ability to identify and penetrate additional industry sectors that
+    represent growth opportunities.
+
+We may not be successful in integrating recently acquired businesses or
+products
+
+We have increased our product range and customer base in the recent past due in
+part to acquisitions. We may acquire additional businesses or product lines in
+the future. The success of any acquisition may be dependent upon our ability to
+integrate the acquired business or products successfully and to retain key
+personnel and customers associated with the acquisition. If we fail to do so,
+or if the costs of or length of time for integration increase significantly, it
+could negatively affect our business.
+
+We are dependent on key personnel whose loss could cause delays in our product
+development and sales efforts
+
+Our success depends upon our ability to attract and retain highly skilled
+technical, managerial and sales personnel. Competition for such personnel in
+the high technology industry is intense. We assume that we will continue to be
+able to attract and retain such personnel. The failure to do so, however, could
+have a material adverse effect on our business.
+
+We must continually modify and enhance our products to keep pace with changing
+technology, and we may experience delays in developing and debugging our
+software
+
+We must continually modify and enhance our products to keep pace with changes
+in computer software, hardware and database technology, as well as emerging
+standards in the Internet software industry. Our ability to remain competitive
+will depend on our ability to:
+
+  . enhance our current offerings and develop new products and services that
+    keep pace with technological developments through:
+
+   -- internal research and development,
+
+   -- acquisition of technology, and
+
+   -- strategic partnerships;
+
+  . meet evolving customer requirements, especially ease-of-use;
+
+  . provide adequate funding for development efforts; and
+
+  . license appropriate technology from third parties.
+
+Also, as is common in the computer software industry, we may from time to time
+experience delays in our product development and "debugging" efforts. Our
+performance could be hurt by significant delays in developing, completing or
+shipping new or enhanced products. Among other things, such delays could cause
+us to incorrectly predict the fiscal quarter in which we will realize revenue
+from the shipment of the new or enhanced products and give our competitors a
+greater opportunity to market competing products.
+
+We may be unable to price our products competitively or distribute them
+effectively
+
+Our success is tied to our ability to price our products and services
+competitively and to deliver them efficiently, including our ability to:
+
+  . provide products with functionality that our customers want at a price
+    they can afford;
+
+  . build appropriate direct distribution channels;
+
+  . utilize the Internet for sales; and
+
+  . build appropriate indirect distribution channels through Rand or others.
+
+We depend on sales from outside the United States that could be adversely
+affected by changes in the international markets
+
+A significant portion of our business comes from outside the United States.
+Accordingly, our performance could be adversely affected by economic downturns
+in Europe or the Asia/Pacific region. Another consequence of
+
+
+
+significant international business is that a large percentage of our revenues
+and expenses are denominated in foreign currencies that fluctuate in value.
+Although we may enter into foreign exchange forward contracts and foreign
+exchange option contracts to offset a portion of the foreign exchange
+fluctuations, unanticipated events may have a material impact on our results.
+Other risks associated with international business include:
+
+  . changes in regulatory practices and tariffs;
+
+  . staffing and managing foreign operations, including the difficulties in
+    providing cost-effective, equity-based compensation to attract skilled
+    workers;
+
+  . longer collection cycles in certain areas;
+
+  . potential changes in tax and other laws;
+
+  . greater difficulty in protecting intellectual property rights; and
+
+  . general economic and political conditions.
+
+We may not be able to obtain copyright or patent protection for the software
+products we develop or our other trademarks
+
+Our software products and our other trademarks, including our company names,
+product names and logos, are proprietary. We protect our intellectual property
+rights in these items by relying on copyrights, trademarks, patents and common
+law safeguards, including trade secret protection, as well as restrictions on
+disclosures and transferability contained in our agreements with other parties.
+Despite these measures, there can be no assurance that the laws of all relevant
+jurisdictions will afford adequate protection to our products and other
+intellectual property. The software industry is characterized by frequent
+litigation regarding copyright, patent and other intellectual property rights.
+While we have not, to date, had any significant claims of this type asserted
+against us, there can be no assurance that someone will not assert such claims
+against us with respect to existing or future products or other intellectual
+property or that, if asserted, we would prevail in such claims. In the event a
+lawsuit of this type is filed, it could result in significant expense to us and
+divert the efforts of our technical and management personnel, whether or not we
+ultimately prevail. Certain of our products also contain technology developed
+and licensed from third parties. We may likewise be susceptible to infringement
+claims with respect to these third party technologies.
+
+II. MCAD-Related Considerations
+
+Increasing competition in the MCAD marketplace may reduce our revenues
+
+There are an increasing number of competitive MCAD products. Despite our belief
+that our products are technologically superior, some competitive products have
+reached a level of functionality whereby product differentiation is less
+likely, in and of itself, to dislodge incumbent MCAD systems, given the
+training and other startup costs associated with system replacement. Increased
+competition and market acceptance of these competitive products could have a
+negative effect on pricing and revenues for our products, which could have a
+material adverse affect on our results.
+
+In addition, our MCAD software is capable of performing on a variety of
+platforms. Several of our competitors focus on single platform applications,
+particularly Windows-based platforms. There can be no assurance that we will
+have a competitive advantage with multiple platform applications.
+
+We continue to enhance our existing products by releasing updates. Our
+competitive position and operating results could suffer if:
+
+  . we fail to anticipate or to respond adequately to customer requirements
+    or to technological developments, particularly those of our competitors;
+
+  . we delay the development, production, testing, marketing or availability
+    of new or enhanced products or services; or
+
+  . customers fail to accept such products or services.
+
+
+
+Growth in the MCAD industry appears to have slowed
+
+Growth in certain segments of the MCAD industry appears to have slowed and,
+coupled with decreased functional differentiation among flexible engineering
+tools, may affect our ability to penetrate the market for new customers and
+recapture our market share. Over the long term, we believe our emphasis on CPC
+solutions will allow us to differentiate our flexible engineering products from
+the competition and invigorate sales of those products. However, the strategy
+may not be successful or may take longer than we plan. There could be a
+material adverse affect on our operating results in any quarter if these
+assumptions prove to be incorrect.
+
+III. Windchill Strategy Considerations
+
+We are implementing a new strategy to capitalize on an Internet-based,
+business-to-business market opportunity known as Collaborative Product Commerce
+(CPC). It may be that our assumptions about the CPC market opportunity are
+wrong, which could adversely affect our results
+
+We have identified CPC as a new market opportunity for us, and have devoted
+significant resources toward capitalizing on that opportunity. CPC solutions
+include software and services that utilize Internet technologies to permit
+employees, customers, suppliers and others to collaboratively develop, build
+and manage products throughout their entire lifecycle. Because the market for
+software products that allow companies to collaborate on product information on
+an enterprise-wide level is newly emerging and because companies have not
+traditionally linked customers and suppliers in this process directly, we
+cannot be certain as to the size of this market, whether it will grow, or
+whether companies will elect to utilize our products rather than attempt to
+develop applications internally or through other sources.
+
+In addition, companies that have already invested substantial resources in
+other methods of sharing product information in the design-through-manufacture
+process may be reluctant to adopt a new approach that may replace, limit or
+compete with their existing systems or methods. We expect that we will continue
+to need to pursue intensive marketing and sales efforts to educate prospective
+customers about the uses and benefits of our products. Demand for and market
+acceptance of our products will be affected by the success of these efforts.
+
+Our Windchill software, which is central to our CPC strategy, is relatively new
+and is not yet well established in the marketplace
+
+The success of our CPC strategy will depend in large part on the ability of our
+Windchill solutions to meet customer expectations, especially with respect to:
+
+  . measuring and understanding the benefits of Windchill, including return
+    on investment and value creation;
+
+  . ease of installation;
+
+  . ease of use;
+
+  . full capability, functionality and performance;
+
+  . ability to support a large, diverse and geographically dispersed user
+    base; and
+
+  . quality and efficiency of the services we perform relating to
+    implementation and customization.
+
+The software is still relatively new. If our customers cannot successfully
+deploy large-scale implementation projects or if they determine that we or our
+partners are unable to accommodate large-scale deployments, our operating
+results may be affected.
+
+In addition, implementing a Windchill software solution on an enterprise level
+takes longer and requires greater expertise than does installing our other
+products. Our Windchill software must integrate with existing computer systems
+and software programs used by our customers and their partners. Because we are
+one of the first companies to offer a CPC solution, many customers will be
+facing these integration issues for the first time, particularly in the context
+of collaborating with members of the extended enterprise, including customers
+and
+
+
+
+supply chain partners. Our customers could become dissatisfied with our
+products or services if integrations prove to be difficult, costly or time
+consuming, and our operating results may be affected.
+
+We intend to utilize third parties, such as system integrators, resellers,
+strategic partners and application service providers, for the distribution and
+implementation of Windchill software, which may result in management
+difficulties and customer retention problems
+
+As an enterprise solution, Windchill may require large scale organizational
+implementations that in today's marketplace are often performed by third
+parties. We have entered into and are currently developing additional
+relationships with third parties and intend to continue to do so. Using third
+parties to both implement and promote our products can result in a reduction in
+our control to both drive the sales process and service our customers. In
+addition, the successful utilization of third parties will depend on:
+
+  . our ability to enter into definitive agreements with appropriate third
+    parties that can deliver our products in appropriate markets;
+
+  . the third party's ability to learn, promote and implement our products;
+    and
+
+  . the effective coordination and management of joint activities (including
+    sales, marketing, development, implementation and support) in order to
+    deliver products and services that meet customer requirements.
+
+Competition among providers of CPC solutions may increase, which may reduce our
+profits and limit or reduce our market share
+
+The market for CPC solutions is new, highly fragmented, rapidly changing and
+increasingly competitive. We expect competition to intensify, which could
+result in price reductions for our products and services, reduced gross margins
+and loss of market share. Our primary competition comes from:
+
+  . in-house development efforts by potential customers or partners;
+
+  . other vendors of engineering information management software; and
+
+  . larger, more well-known enterprise software providers seeking to extend
+    the functionality of their products to encompass CPC.
+
+In addition, our Global Services Organization may face increasing competition
+for follow-on customization services from other third-party consultants and
+service providers.
+
+If use of the Internet does not continue to develop or reliably support the
+demands placed on it by electronic commerce, we may experience a loss of sales
+
+Our success depends upon continued growth in the use of the Internet as a
+medium of commerce. Although the Internet is experiencing rapid growth in the
+overall number of users, this growth is a recent phenomenon and may not
+continue. Furthermore, the use of the Internet for commerce is still relatively
+new. As a result, a sufficiently broad base of companies and their supply chain
+partners may not adopt or continue to use the Internet as a medium of
+exchanging product information. Our CPC strategy would be seriously harmed if:
+
+  . use of the Internet does not continue to increase or increases more
+    slowly than expected;
+
+  . the infrastructure for the Internet does not effectively support
+    enterprises and their supply chain partners;
+
+  . the Internet does not create a viable commercial marketplace, thereby
+    inhibiting the development of electronic commerce and reducing the demand
+    for our products; or
+
+  . concerns over the secure transmission of confidential information over
+    public networks inhibit the growth of the Internet as a means of
+    conducting commercial transactions.
+
+Our CPC strategy will also be seriously harmed if the Internet infrastructure
+is not able to support the demands placed on it by increased usage or the
+limited capacity of networks to transmit large amounts of data, or if delays in
+the development or adoption of new equipment standards or protocols required to
+handle increased levels of
+
+
+
+Internet activity, or increased governmental regulation, cause the Internet to
+lose its viability as a means of communication between manufacturers and their
+customers and supply chain partners.
+
+Our Windchill Netmarkets solutions provides CPC capabilities on Internet
+exchanges, portals and marketplaces. Accordingly, its success will be highly
+dependent upon the success of the Internet as a viable collaboration medium and
+on our successful development and integration of the technologies necessary to
+offer tools for exchanges, portals, and other forms of Net marketplaces that
+are acceptable to customers and suitable for the evolving nature of the
+Internet.
+
+IV. Other Considerations
+
+Our stock price, which may reflect an Internet valuation, has been highly
+volatile; this may make it harder to resell your shares at the time and at a
+price that is favorable to you
+
+Market prices for securities of software companies have generally been
+volatile. In particular, the market price of our common stock has been and may
+continue to be subject to significant fluctuations.
+
+In addition, our expanded focus on delivering Internet-based solutions may
+cause us to be viewed, in part, as an Internet company. The trading prices of
+Internet stocks in general have been unusually high under conventional
+valuation standards such as price-to-earnings and price-to-sales ratios and
+have experienced fluctuations unrelated or disproportionate to the operating
+performance of these companies. The trading prices and valuations of these
+stocks, and of ours, may not be sustained. Negative changes in the public's
+perception of the prospects of Internet or e-commerce companies, or of PTC as
+an Internet company, could depress our stock price regardless of our results.
+
+Also, a large percentage of our common stock traditionally has been held by
+institutional investors. Consequently, actions with respect to our common stock
+by certain of these institutional investors could have a significant impact on
+the market price of the stock. For more information, please see our proxy
+statement with respect to our most recent annual meeting of stockholders and
+Schedules 13D and 13G filed with the SEC with respect to our common stock.
+
+We are currently defending a securities class action lawsuit in which we could
+be liable for damages
+
+Certain class action lawsuits were filed by shareholders in the fourth quarter
+of 1998 against us and certain of our current and former officers and directors
+in the U.S. District Court in Massachusetts claiming violations of the federal
+securities laws based on alleged misrepresentations regarding our anticipated
+revenue and earnings for the third quarter of 1998. An amended complaint,
+consolidating these lawsuits into one action, was filed in the second quarter
+of 1999, seeking unspecified damages. We believe the claims made in the
+consolidated action are without merit, and we intend to defend them vigorously.
+In the third quarter of 1999 we filed a motion to dismiss the consolidated
+action. We cannot predict the outcome of this motion or the ultimate resolution
+of this action at this time, and there can be no assurance that the litigation
+will not have a material adverse impact on our financial condition or results
+of operations.
+
+ITEM 7A: Quantitative and Qualitative Disclosures about Market Risk
+
+We face exposure to financial market risks, including adverse movements in
+foreign currency exchange rates and changes in interest rates. These exposures
+may change over time as business practices evolve and could have a material
+adverse impact on our financial results. Our primary exposure has been related
+to local currency revenue and operating expenses in Europe and the Asia/Pacific
+region. Historically, we have hedged currency exposures associated with certain
+accounts receivable denominated in local currencies and certain anticipated
+foreign currency revenue transactions. The goal of our hedging activity is to
+offset the impact of currency fluctuations on certain local currency accounts
+receivable and foreign currency revenue transactions. The success of this
+activity depends upon forecasts of transaction activity denominated in various
+currencies. To the extent that these forecasts are overstated or understated
+during periods of currency volatility, we could experience unanticipated
+currency gains or losses. Outstanding forward foreign exchange contracts at
+September 30, 2000 matured within three months, and did not have a material
+impact on our financial results.
+
+
+
+The carrying amounts reflected in the consolidated balance sheets for cash and
+cash equivalents, accounts receivable, and accounts payable approximate fair
+value at the balance sheet date due to the short maturities of these
+instruments.
+
+We maintain investment portfolio holdings of various issuers, types and
+maturities. These securities are generally classified as available for sale,
+and consequently, are recorded on the balance sheet at fair market value with
+unrealized gains or losses included in stockholders' equity. Given the short
+maturities and investment grade quality of the portfolio holdings at September
+30, 2000, a sharp rise in interest rates should not have a material adverse
+impact on the fair value of our investment portfolio. As a result, we do not
+currently hedge these interest rate exposures.
+
+The following table presents hypothetical changes in fair values in our
+financial instruments at September 30, 2000 that are sensitive to changes in
+interest rates. Our modeling technique measures the change in fair value
+arising from selected potential changes in interest rates. Movements in
+interest rates of plus or minus 50 basis points (BP) and 100 BP reflect
+immediate hypothetical shifts in the fair value of these investments. Fair
+value represents the market principal plus accrued interest and dividends of
+certain interest-rate-sensitive securities considered cash equivalents or
+investments for financial reporting purposes at September 30, 2000.
+
+
+
+The Federal Reserve has adjusted the Federal Funds Rate by a 50 BP move nine
+times during the last 40 quarters, whereas they have never adjusted the Federal
+Funds Rate by a 100 BP move during the same period. The last 50 BP move
+occurred in May 2000.
+
+ITEM 8: Financial Statements and Supplementary Data
+
+The consolidated financial statements and notes to the consolidated financial
+statements are attached as APPENDIX A below.
+
+ITEM 9: Changes in and Disagreements with Accountants on Accounting and
+Financial Disclosure
+
+None.
+
+                                    PART III
+
+ITEM 10: Directors and Executive Officers of the Registrant
+
+Information with respect to our directors may be found in the sections
+captioned "Proposal 1: Elect Two Directors" and "Who Are Our Directors"
+appearing in our 2001 Proxy Statement. Such information is incorporated herein
+by reference.
+
+Our executive officers are:
+
+
+
+
+
+
+Mr. Harrison has been Chief Executive Officer and President since March 2000.
+Prior to that, Mr. Harrison served as President and Chief Operating Officer
+since August 1994.
+
+Mr. Gillis has been Executive Vice President since October 1996 and Chief
+Financial Officer and Treasurer since October 1995. Mr. Gillis had served as
+Senior Vice President of Finance and Administration from October 1995 to
+September 1996. Prior to joining PTC, Mr. Gillis was Senior Vice President of
+Finance and Operations and Chief Financial Officer at Lotus Development
+Corporation from August 1991 until September 1995.
+
+Mr. Cohen has been Executive Vice President, Marketing since January 1998.
+Prior to joining PTC, Mr. Cohen was Senior Vice President, Human Development
+and Organizational Productivity at Computervision Corporation from November
+1993 to January 1998.
+
+Mr. Heppelmann has been Executive Vice President, General Manager-Windchill
+Solutions since November 2000. He had served as Executive Vice President and
+General Manager of Windchill Netmarkets from July 2000 to November 2000 and
+Senior Vice President of Windchill from January 1998 to July 2000. Prior to
+joining PTC, Mr. Heppelmann was Vice President of Marketing and Chief
+Technology Officer of Windchill Technology, Inc. from September 1997 to January
+1998. From October 1992 to September 1997, he held various positions at
+Metaphase Technology Inc. including Chief Technology Officer.
+
+Mr. Stevenson has been Executive Vice President, General Manager-MCAD Solutions
+since May 2000. Mr. Stevenson was Senior Vice President, Research & Development
+from March 1999 to May 2000 and was Senior Vice President, Designwave from
+January 1998 to March 1999. Prior to joining PTC, Mr. Stevenson was employed by
+Computervision Corporation as Vice President, Research & Development from April
+1996 to January 1998 and Director of Research and Development from February
+1995 to April 1996.
+
+Mr. Brown has been Executive Vice President, International Sales since July
+2000. Mr. Brown was Divisional Vice President, Asia Pacific from April 2000 to
+July 2000 and Sector Vice President from October 1999 to April 2000. Prior to
+that, he was Area Vice President-Sales from October 1998 to October 1999 and
+Regional Director from April 1998 to October 1998. He also served as District
+Manager from December 1997 to April 1998. Prior to joining PTC, Mr. Brown
+served as District Manager of Nalco Chemical Inc. from September 1989 to
+December 1997.
+
+Mr. Cunningham has served as Executive Vice President, Americas Sales since
+July 2000 and from October 1998 to June 2000 he was Executive Vice President,
+Primary Sales. Mr. Cunningham was Senior Vice President, European Sales from
+April 1997 to October 1998 and Senior Vice President, North America West Sales
+from October 1996 to April 1997. Prior to that, he was Area Vice President-
+Sales from January 1996 to October 1996 and Vice President, Western Operations
+& Sales Development from October 1994 to January 1996.
+
+Mr. Friedman has served as Senior Vice President, General Counsel and Clerk
+since October 1999. Mr. Friedman had served as Vice President, General Counsel
+and Clerk from October 1998 to September 1999 and as Associate Corporate
+Counsel from September 1996 to September 1998. Prior to joining PTC,
+Mr. Friedman was a Partner at the law firm of Palmer & Dodge LLP from January
+1994 to August 1996.
+
+Mr. Beaudoin has been Senior Vice President, Finance since joining PTC in
+October 2000. Prior to joining PTC, Mr. Beaudoin was Chief Financial Officer,
+Infinite Supply at i2 Technologies Inc. from June 2000 to September 2000. Mr.
+Beaudoin has served in the following positions at Compaq Computer Corporation:
+Vice President Finance, Enterprise from July 1999 to June 2000; Vice President,
+Services from January 1998 to July 1999; and, Vice President, Asia Pacific from
+January 1995 to January 1998.
+
+ITEM 11: Executive Compensation
+
+Information with respect to executive compensation may be found under the
+headings captioned "How We Compensate Our Directors" and "Information About
+Executive Compensation" appearing in our 2001 Proxy Statement. Such information
+is incorporated herein by reference.
+
+
+
+
+ITEM 12: Security Ownership of Certain Beneficial Owners and Management
+
+Information with respect to security ownership may be found under the heading
+captioned "Information About PTC Common Stock Ownership" appearing in our 2001
+Proxy Statement. Such information is incorporated herein by reference.
+
+ITEM 13: Certain Relationships and Related Transactions
+
+Information with respect to this item may be found under the heading
+"Information About Certain Insider Relationships" appearing in our 2001 Proxy
+Statement. Such information is incorporated herein by reference.
+
+                                    PART IV
+
+ITEM 14: Exhibits, Financial Statement Schedules and Reports on Form 8-K
+
+(a) Documents Filed as Part of Form 10-K
+     1. Financial Statements
+      -- Consolidated Balance Sheets as of September 30, 1999 and 2000
+      -- Consolidated Statements of Income for the years ended September
+         30, 1998, 1999 and 2000
+      -- Consolidated Statements of Cash Flows for the years ended
+         September 30, 1998, 1999 and 2000
+      -- Consolidated Statements of Stockholders' Equity for the years
+         ended September 30, 1998, 1999 and 2000
+      -- Consolidated Statements of Comprehensive Income for the years
+         ended September 30, 1998, 1999 and 2000
+      -- Notes to Consolidated Financial Statements
+      -- Report of Independent Accountants
+
+     2. Financial Statement Schedules
+      -- Schedules have been omitted since they are either not required,
+         not applicable, or the information is otherwise included.
+
+     3. Exhibits
+      -- As part of this Annual Report on Form 10-K, we hereby file and
+         incorporate by reference the Exhibits listed in the Exhibit Index
+         immediately preceding such Exhibits.
+
+(b) Reports on Form 8-K
+
+None.
+
+(c) Exhibits
+
+As part of this Annual Report on Form 10-K, we hereby file the Exhibits listed
+in the attached Exhibit Index.
+
+(d) Financial Statement Schedules
+
+None.
+
+
+
+
+                                   SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized on the 20th day of
+December, 2000.
+
+                                          Parametric Technology Corporation
+
+
+                                          By /s/ C. Richard Harrison
+                                             ----------------------------------
+                                            C. Richard Harrison,
+                                            Chief Executive Officer and
+                                            President
+
+                               POWER OF ATTORNEY
+
+We, the undersigned officers and directors of Parametric Technology
+Corporation, hereby severally constitute Edwin J. Gillis and David R. Friedman,
+Esq., and each of them singly, our true and lawful attorneys with full power to
+them, and each of them singly, to sign for us and in our names in the
+capacities indicated below any and all subsequent amendments to this report,
+and to file the same, with exhibits thereto and other documents in connection
+therewith, with the Securities and Exchange Commission, hereby ratifying and
+confirming all that each of said attorneys-in-fact may do or cause to be done
+by virtue hereof.
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in the capacities indicated below.
+
+
+
+
+
+
+                                 EXHIBIT INDEX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- --------
+*  Identifies a management contract or compensatory plan or arrangement in
+   which an executive officer or director of PTC participates.
+
+
+
+                                                                      APPENDIX A
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+                          CONSOLIDATED BALANCE SHEETS
+                                 (in thousands)
+
+
+
+   The accompanying notes are an integral part of the consolidated financial
+                                  statements.
+
+                                      F-1
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+                       CONSOLIDATED STATEMENTS OF INCOME
+                     (in thousands, except per share data)
+
+
+
+
+   The accompanying notes are an integral part of the consolidated financial
+                                  statements.
+
+                                      F-2
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (in thousands)
+
+
+   The accompanying notes are an integral part of the consolidated financial
+                                  statements.
+
+                                      F-3
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+                CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+                                 (in thousands)
+
+
+
+   The accompanying notes are an integral part of the consolidated financial
+                                  statements.
+
+                                      F-4
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+A. Summary of Significant Accounting Policies
+
+Business
+
+Parametric Technology Corporation (PTC) develops, markets and supports
+collaborative product commerce (CPC) solutions that help manufacturing
+companies shape innovation and achieve sustainable competitive advantage in the
+Internet age. These B2B e-commerce solutions employ powerful Web-based
+collaboration and flexible engineering technologies to streamline product
+development and delivery processes. Our software solutions are complemented by
+the strength and experience of our Global Services Organization, which provides
+training, consulting, support, and e-commerce services to customers worldwide.
+With our CPC solutions, manufacturers can take advantage of the Internet to
+improve product quality, reduce costs and shorten time-to-market cycles. We
+operate in a single segment-computer software and related services.
+
+Basis of Presentation
+
+Our fiscal year-end is September 30. The consolidated financial statements
+include the parent company and its wholly owned subsidiaries, including those
+operating outside the U.S. All significant intercompany balances and
+transactions have been eliminated in the financial statements. Certain
+reclassifications have been made for consistent presentation. We prepare our
+financial statements under generally accepted accounting principles that
+require management to make estimates and assumptions that affect the amounts
+reported and the related disclosures. Actual results could differ from these
+estimates.
+
+As described in Note B, in January 1998, we merged with Computervision
+Corporation. The merger was accounted for as a pooling of interests.
+Accordingly, the accompanying consolidated financial statements and notes have
+been restated for all prior periods presented.
+
+Foreign Currency Translation
+
+For our foreign operations where the functional currency is the local currency,
+we translate assets and liabilities at rates in effect at the balance sheet
+date and record translation adjustments in stockholders' equity. For our
+foreign operations where the U.S. dollar is the functional currency, we
+translate monetary assets and liabilities using exchange rates in effect at the
+balance sheet date and nonmonetary assets and liabilities at historical rates
+and record translation adjustments in income. We translate income statement
+amounts at average rates for the period. Transaction gains and losses are
+recorded in other expense in the statement of income.
+
+Revenue Recognition
+
+Our revenue is derived from the licensing of computer software products and
+from service revenue consisting of training, consulting and maintenance.
+License revenue is recognized upon contract execution, provided all shipment
+obligations have been met, fees are fixed or determinable and collection is
+probable. Revenue from software maintenance contracts is recognized ratably
+over the contract period. Revenue from consulting and training is recognized
+upon performance.
+
+Cash, Cash Equivalents and Investments
+
+Our cash is invested in debt instruments of financial institutions, government
+entities, corporations and mutual funds. We have established guidelines
+relative to credit ratings, diversification and maturities that maintain safety
+and liquidity. Our cash equivalents include highly liquid investments with
+maturity periods of three months or less when purchased. Our short-term
+investments include those investments with maturities in excess of three months
+but less than one year. Our marketable investments are those with maturities in
+excess of one year but less than two years. Our cash equivalents and short-term
+and marketable investments are classified as available for sale and reported at
+fair value with unrealized gains and losses included in the accumulated other
+
+                                      F-5
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+comprehensive loss component of stockholders' equity. We have not had any
+significant losses related to our investments.
+
+Concentration of Credit Risk and Fair Value of Financial Instruments
+
+The amounts reflected in the consolidated balance sheets for cash and cash
+equivalents, accounts receivable and accounts payable approximate their fair
+value due to their short maturities. Financial instruments that potentially
+subject us to concentration of credit risk consist primarily of investments,
+trade receivables and derivatives. Our cash, cash equivalents, investments and
+derivatives are held with financial institutions with high credit standings.
+Our customer base consists of large numbers of geographically diverse customers
+dispersed across many industries. As a result, concentration of credit risk
+with respect to trade receivables is not significant except for a receivable
+from our preferred distributor, which accounts for 13% and 12% of total
+receivables as of September 30, 1999 and 2000, respectively.
+
+Trade Accounts Receivable Allowance for Doubtful Accounts
+
+Our allowance for doubtful accounts was $7.7 million, $6.4 million and $6.3
+million as of September 30, 1998, 1999 and 2000, respectively. Uncollectible
+trade accounts receivable written-off, net of recoveries was $5.5 million, $5.7
+million and $7.7 million for 1998, 1999 and 2000, respectively.
+
+Transfers of Financial Assets
+
+We offer our customers the option to purchase software and services through
+payment plans, financing or leasing contracts. In general, we transfer future
+payments under certain of these contracts to financing institutions on a non-
+recourse basis. We record such transfers as sales of the related accounts
+receivable when we surrender control of such receivables under the provisions
+of Statement of Financial Accounting Standards (SFAS) No. 125, Accounting for
+Transfers and Servicing of Financial Assets and Extinguishments of Liabilities.
+
+Derivatives
+
+Derivatives are financial instruments whose value is derived from one or more
+underlying financial instruments, such as foreign currency. We enter into
+derivative transactions, specifically foreign exchange forward contracts and
+foreign exchange option contracts, to manage our exposure to fluctuations in
+foreign exchange rates. The contracts are primarily in European currencies and
+Japanese yen and have maturities less than one year. Any derivative we enter
+into is designated at inception as a hedge of risks associated with specific
+assets, liabilities or future commitments and is monitored to determine if it
+remains an effective hedge. The effectiveness of the derivative as a hedge is
+based on changes in its market value being highly correlated with changes in
+market value of the underlying hedged items. We do not enter into or hold
+derivatives for trading or speculative purposes.
+
+We use forward exchange contracts to hedge specific foreign currency
+denominated receivables. These contracts, which are one year or less in length,
+require us to exchange foreign currencies for U.S. dollars at maturity at rates
+agreed to at inception of the contracts. We enter into transactions denominated
+in foreign currencies and include the exchange gain or loss arising from such
+transactions in other expense. As of September 30, 1999 and 2000, we had
+approximately $190.0 million and $116.0 million, respectively, of forward
+contracts outstanding. Net unrealized and realized gains and losses associated
+with exchange rate fluctuations on forward contracts and the underlying foreign
+currency exposure being hedged were immaterial for all periods presented. Cash
+flows from forward contracts are classified with the related receivables.
+
+From time to time, we purchase foreign exchange option contracts to limit
+potential losses from adverse exchange-rate movements on certain anticipated
+revenue transactions. Premiums to purchase option contracts
+
+                                      F-6
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+are capitalized in other assets and amortized to other expense over the life of
+the contract. Gains on option contracts, if any, are included in license and
+service revenue in the period in which the related local currency revenue is
+reported. There were no outstanding option contracts at September 30, 1999 or
+2000.
+
+Property and Equipment
+
+Property and equipment are recorded at cost and depreciated using the straight-
+line method over their estimated useful lives. Computer hardware and software
+are typically amortized over three to five years, and furniture and fixtures
+three to eight years. Leasehold improvements are amortized over the shorter of
+their useful lives or the remaining terms of the related leases. Property and
+equipment under capital leases are amortized over the lesser of the lease terms
+or their estimated useful lives. Maintenance and repairs are charged to expense
+when incurred; additions and improvements are capitalized. When an item is sold
+or retired, the cost and related accumulated depreciation is relieved, and the
+resulting gain or loss, if any, is recognized in income.
+
+Goodwill and Other Intangible Assets
+
+Goodwill and other intangible assets includes the values attributable to
+intangible assets acquired and are amortized using the straight-line method.
+Goodwill is amortized over five to seven years and other intangible assets,
+such as assembled workforces, customer lists and developed technology, are
+amortized over three to five years, and trademarks, which is also included in
+other intangible assets, are amortized over seven years.
+
+Management regularly evaluates the net realizable value of long lived assets
+including property and equipment, computer software costs and goodwill and
+other intangible assets relying on a number of factors including operating
+results, business plans, budgets and economic projections.
+
+Computer Software Costs
+
+We incur costs to develop computer software to be licensed or otherwise
+marketed to customers. Development costs incurred in the research and
+development of new software products and enhancements to existing products are
+expensed in the period incurred, unless these costs qualify for capitalization.
+Capitalized computer software costs are amortized over the economic lives of
+the related products, typically three to five years, beginning at their initial
+shipment date. Net capitalized computer software costs are included in other
+assets and were immaterial at September 30, 1999 and 2000. Amortization charged
+to cost of license revenue was $521,000, $220,000 and $17,000 for fiscal 1998,
+1999 and 2000, respectively.
+
+Income Taxes
+
+Our income tax expense includes U.S. and international income taxes. Certain
+items of income and expense are not reported in tax returns and financial
+statements in the same year. The tax effect of these differences are reported
+as deferred tax assets and liabilities. Deferred tax assets are recognized, net
+of valuation allowances, for the estimated future tax effects of deductible
+temporary differences and tax operating loss and credit carryforwards. Changes
+in deferred tax assets and liabilities are recorded in the provision for income
+taxes.
+
+                                      F-7
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+Earnings Per Share (EPS)
+
+Basic EPS is calculated by dividing net income by the weighted average number
+of shares outstanding during the period. Diluted EPS is calculated by dividing
+net income by the weighted average number of shares outstanding plus the
+dilutive effect, if any, of outstanding stock options using the "treasury
+stock" method. The following table, adjusted for stock dividends, presents the
+calculation for both basic and diluted EPS:
+
+
+
+Options to purchase shares of our common stock of 11.7 million shares for 1998,
+18.2 million shares for 1999 and 13.3 million shares for 2000 were outstanding
+but were not included in the computations of diluted EPS because the price of
+the options was greater than the average market price of the common stock for
+the period reported. For 2000, the dilutive effect of an additional 8.5 million
+shares was excluded from the computation of diluted EPS, as the effect was
+anti-dilutive with the net loss.
+
+Stock-Based Compensation
+
+We account for stock-based compensation using the intrinsic value method
+prescribed in Accounting Principles Board Opinion No. 25, Accounting for Stock
+Issued to Employees (APB No. 25), and related interpretations. Under APB No.
+25, no compensation cost is recognized because the option price is equal to the
+market price of the underlying stock on the date of grant. An alternative
+method of accounting is SFAS No. 123, Accounting for Stock-Based Compensation.
+Under SFAS No. 123, employee stock options are valued at the grant date using a
+valuation model, and compensation cost is recognized ratably over the vesting
+period. The impact of recording stock-based compensation under the provisions
+of SFAS No. 123 is disclosed in Note J.
+
+New Accounting Pronouncements
+
+In June 1998, the Financial Accounting Standards Board (FASB) issued SFAS No.
+133, Accounting for Derivative Instruments and Hedging Activities. SFAS No. 133
+establishes accounting and reporting standards for derivative instruments,
+including certain derivative instruments embedded in other contracts
+(collectively referred to as derivatives), and for hedging activities. SFAS No.
+133 requires companies to recognize all derivatives as either assets or
+liabilities, with the instruments measured at fair value. The accounting for
+changes in fair value, gains or losses, depends on the intended use of the
+derivative and its resulting designation. In June 2000, the FASB issued SFAS
+No. 138, Accounting for Certain Derivative Instruments and Certain Hedging
+Activities--an amendment of FASB Statement No. 133 which amended SFAS No. 133
+for a limited number of issues that have caused application difficulties. The
+statement is effective for all quarters of fiscal years beginning after June
+15, 2000. We plan to implement SFAS No. 133 in our fiscal year 2001. The
+adoption of this statement will not have a significant effect on our
+consolidated financial statements.
+
+In December 1999, the Securities and Exchange Commission ("SEC") issued Staff
+Accounting Bulletin ("SAB") 101, Revenue Recognition in Financial Statements,
+which provides guidance related to revenue recognition based on interpretations
+and practices followed by the SEC. SAB 101 is effective for the fourth
+
+                                      F-8
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+quarter of our fiscal 2001. We do not expect the implementation of SAB 101 to
+have a significant effect on our consolidated financial statements.
+
+In September 2000, the FASB issued SFAS No. 140, Accounting for Transfers and
+Servicing of Financial Assets and Extinguishments of Liabilities. SFAS No. 140
+provides accounting and reporting standards for transfers and servicing of
+financial assets and extinguishments of liabilities. SFAS No. 140 replaces SFAS
+No. 125 but it carries over most of SFAS No. 125's provisions. The statement is
+effective for transfers and servicing of financial assets and extinguishments
+of liabilities occurring after March 31, 2001. We believe the adoption of this
+statement will not have a significant effect on our consolidated financial
+statements.
+
+B. Acquisitions and Nonrecurring Charges
+
+Acquisitions
+
+Computervision
+
+In January 1998, we merged with Computervision Corporation by issuing 11.6
+million shares of common stock in exchange for all of the outstanding common
+stock of Computervision. In connection with the merger, we incurred a
+nonrecurring charge of $76.8 million for merger-related integration,
+consolidation and transaction costs, which are described in the acquisition and
+nonrecurring charges activity table below.
+
+As our fiscal year-end differed from Computervision's, we combined financial
+information for dissimilar year-ends. Computervision's results of operations
+for its fiscal year ended December 31, 1997 were combined with our results of
+operations for the fiscal year ended September 30, 1997. In order to conform
+Computervision's fiscal year-end to ours, Computervision's results of
+operations for the three months ended December 31, 1997 were combined with our
+results of operations for the three months ended January 3, 1998.
+Computervision's net loss of $20.2 million for the three months ended December
+31, 1997, which has been included in the consolidated statements of income for
+the fourth quarter of fiscal 1997 and the first quarter of fiscal 1998, has
+been reflected as an adjustment to our beginning balance of fiscal 1998
+accumulated deficit. Due to the change in Computervision's year-end, their cash
+flow activity for the three-month period ended December 31, 1997 has been shown
+as a separate component of the cash flow statement. Adjustments recorded to
+conform Computervision's accounting policies to ours were not material to the
+consolidated financial statements. The following table shows revenue and net
+income of the separate companies during the period preceding the combination:
+
+
+
+ICEM
+
+In June 1998, we acquired ICEM Technologies (ICEM), a division of Control Data
+Systems, Inc., for $40.6 million in cash. Headquartered in Frankfurt, Germany,
+ICEM provides advanced surfacing and reverse-
+
+                                      F-9
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+engineering software tools used by body and styling engineers in the automotive
+and aerospace industries. The acquisition was accounted for as a purchase.
+Accordingly, we allocated the purchase price to the assets acquired and
+liabilities assumed based on our estimates of fair value. The fair value
+assigned to intangible assets acquired consisted of purchased in-process
+research and development (R&D), developed technology, an assembled workforce
+and trade names. The amounts allocated to tangible and intangible assets
+acquired less the liabilities assumed exceeded the purchase price by
+approximately $7.0 million. This excess value over the purchase price was
+allocated to reduce proportionately the values assigned to long-term assets and
+purchased in-process R&D in determining their values. The values assigned
+included $2.1 million for net assets acquired, $28.9 million for purchased in-
+process R&D, $8.0 million for developed technology, $1.6 million for an
+assembled workforce and $1.0 million for trade names.
+
+InPart
+
+In October 1998, we acquired all of the outstanding stock in InPart Design,
+Inc. by issuing 2.0 million shares of our common stock. As of September 30,
+1999, we issued 600,000 additional shares to satisfy certain contingent
+conditions, which were included in the purchase price described below. In
+addition, we reserved 386,000 shares of common stock for outstanding InPart
+options assumed. The acquisition was accounted for as a purchase. Accordingly,
+we allocated the purchase price of $38.1 million to the assets acquired and
+liabilities assumed based on our estimates of fair value. The values assigned
+included $741,000 for net liabilities assumed, $10.6 million for purchased in-
+process R&D, $4.1 million for developed technology, $1.1 million for customer
+lists, $200,000 for an assembled workforce and $300,000 for trade names. The
+excess purchase price over the amounts allocated to assets acquired and
+liabilities assumed was recorded as goodwill of $22.5 million.
+
+Division
+
+In March 1999, we acquired Division Group plc for $37.3 million in cash and
+593,000 shares of our common stock. The acquisition was accounted for as a
+purchase. Accordingly, we allocated the purchase price of $48.1 million to the
+assets acquired and liabilities assumed based on our estimates of fair value.
+The values assigned included $555,000 for net assets acquired, $9.0 million for
+purchased in-process R&D, $3.3 million for developed technology, $2.0 million
+for customer lists, $970,000 for an assembled workforce and $2.5 million for
+trade names. The excess purchase price over the amounts allocated to assets
+acquired and liabilities assumed was recorded as goodwill of $29.8 million.
+
+auxilium
+
+In March 1999, we acquired all of the outstanding stock of auxilium inc. in
+exchange for 2.6 million shares of our common stock and $39.4 million in cash.
+In addition, we reserved 1.1 million shares of common stock for outstanding
+auxilium options assumed. The acquisition was accounted for as a purchase.
+Accordingly, we allocated the purchase price of $101.7 million to the assets
+acquired and liabilities assumed based on our estimates of fair value. The
+values assigned included $182,000 for net liabilities assumed, $18.6 million
+for purchased in-process R&D, $700,000 for developed technology, $5.0 million
+for customer lists, $630,000 for an assembled workforce and $6.0 million for
+trade names. The excess purchase price over the amounts allocated to assets
+acquired and liabilities assumed was recorded as goodwill of $70.9 million.
+
+The operating results of ICEM, InPart, Division and auxilium have been included
+in our results of operations from the date of each acquisition. Our purchases
+of ICEM, InPart, Division and auxilium did not require the presentation of pro
+forma information.
+
+In the opinion of management, the purchased in-process R&D for the acquisitions
+of ICEM, InPart, Division and auxilium had not yet reached technological
+feasibility and had no alternative future use. Accordingly, we recorded
+nonrecurring charges of $28.9 million during the third quarter of 1998 related
+to ICEM, $10.6 million in the first quarter of 1999 related to InPart and $27.6
+million in the second quarter of 1999 related to Division
+
+                                      F-10
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+and auxilium. The values assigned to purchased in-process R&D were determined
+by identifying research projects for which technological feasibility had not
+been established. The values of the purchased in-process R&D were determined by
+estimating the stage of completion, including consideration of the complexity
+of the work completed, the costs incurred and the projected cost to complete,
+the contribution of any core technology and other acquired assets and the
+projected product introduction dates, estimating the resulting net cash flows
+from the products developed and discounting the net cash flows back to their
+present value. The discount rates used included a factor that took into account
+the uncertainty surrounding the successful development of the purchased in-
+process technology for each acquisition. If these projects are not successfully
+developed, future revenue and profitability may be adversely affected, and the
+value of intangible assets acquired, which aggregated $160.6 million at the
+time of acquisition, may become impaired.
+
+Nonrecurring Charges
+
+Sales Force Reorganizations
+
+During the first quarter of 1999, we reorganized our sales force and, in
+connection with this action, incurred a restructuring charge of $3.2 million
+for the severance and termination benefits of approximately 170 people who were
+terminated during the first quarter of 1999 in accordance with management's
+plan. During the second quarter of 1999, we incurred a restructuring charge of
+$5.8 million primarily for the severance and termination benefits of
+approximately 150 people in connection with the integration of our sales and
+related support groups. All amounts related to terminated employees were paid
+in 1999.
+
+Facility Consolidation and Asset Impairment
+
+During the second quarter of 1999, we incurred a restructuring charge of $1.4
+million for the consolidation of certain excess leased facilities. Also, in the
+second quarter we recorded an impairment loss of $4.7 million on certain
+intangible assets related to our industrial design (CDRS) activities. Due to
+recent acquisitions and the development of new technology, the carrying value
+of these assets was impaired.
+
+Reorganization into Business Units
+
+During the third quarter of 2000, we recorded a $21.5 million nonrecurring
+charge primarily associated with our reorganization into business units and
+with the development and execution of management's plans to reduce our cost
+structure and improve profitability. The nonrecurring charge is comprised of
+$11.9 million for severance and termination benefits of approximately 280
+people who were notified or terminated during the third quarter of 2000 and
+$9.6 million for facility consolidations. Of the $21.5 million nonrecurring
+charge, $12.2 million was paid through September 30, 2000. We expect to pay
+$6.0 million over the next twelve months.
+
+                                      F-11
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+The following table summarizes all of our acquisition and nonrecurring charges
+activity:
+
+
+
+As of September 30, 2000, of the $34.6 million remaining in accrued acquisition
+and nonrecurring charges, $18.1 million was included in current liabilities and
+$16.5 million in other liabilities.
+
+                                      F-12
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+C. Investments
+
+The fair values of our investments have been determined through information
+obtained from market sources and management estimates. We use a specific
+identification cost method to determine the gross realized gains and losses on
+the sale of our securities. Realized gains and losses on the sale of
+investments were immaterial for 1998, 1999 and 2000.
+
+
+
+D. Property and Equipment
+
+Our property and equipment consisted of the following:
+
+
+
+                                      F-13
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+Depreciation expense was $26.4 million in 1998, $33.3 million in 1999 and $35.9
+million in 2000. There were no capital leases as of September 30, 1999 or 2000.
+
+E. Income Taxes
+
+Our income (loss) before taxes consisted of the following:
+
+
+
+We paid $71.3 million in 1998, $57.7 million in 1999 and $52.0 million in 2000
+for income taxes.
+
+                                      F-14
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+The significant temporary differences that create deferred tax assets and
+liabilities are shown below:
+
+
+
+For U.S. tax return purposes, net operating losses (NOLs) and tax credit
+carryforwards are generally available to be carried forward to future years.
+However, the Internal Revenue Code limits a corporation's use of NOLs and tax
+credits after a change of more than 50% of the ownership of the corporation.
+Our merger with Computervision in January 1998 changed their ownership more
+than 50%. This change limits our usage of the Computervision NOLs to $14.0
+million per year and $196.0 million cumulatively through 2011, plus any built-
+in gains which existed at the time of the ownership change. There are other
+limitations imposed on the utilization of such NOLs that could further restrict
+the recognition of such tax benefits. We have foreign NOLs that are also
+subject to various limitations. Due to these limitations, we recorded a
+valuation allowance for the tax benefit of a majority of NOLs since realization
+of these future benefits was not sufficiently assured. During 1999 and 2000, we
+reduced our valuation allowance $22.1 million and $4.7 million, respectively,
+primarily due to anticipated future benefits from the utilization of certain
+NOLs in 1999 and 2000.
+
+F. Debt
+
+In connection with the Computervision merger, we acquired debt obligations,
+which were paid in full during the second quarter of fiscal 1998. The total
+cash outlay for settlement of these obligations plus accrued interest and
+related fees was $275.7 million. We incurred an extraordinary after-tax loss of
+$19.0 million related to the write-off of deferred financing costs and other
+prepayment costs associated with the payment of these debt obligations. We paid
+interest of $10.7 million in 1998 related to these debt obligations.
+
+
+                                      F-15
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+G. Commitments and Contingencies
+
+Leasing Arrangements
+
+We lease office facilities and certain equipment under operating leases
+expiring at various dates through 2014. In addition to rent, certain leases
+require us to pay directly for taxes, insurance, maintenance and other
+operating expenses. Lease expense, net of sublease income, was $45.0 million in
+1998, $54.6 million in 1999 and $54.1 million in 2000. At September 30, 2000,
+our future minimum lease payments under noncancellable operating leases with
+remaining terms of one or more years are as follows:
+
+
+
+As a result of Computervision's cost saving initiatives in prior years, our
+merger with Computervision and our cost saving initiatives in 1999 and 2000,
+certain leased facilities were considered excess. As of September 30, 2000 we
+had $24.9 million reserved for facility obligations in excess of sublease
+income.
+
+In December 1999, we sold land and certain improvements under construction for
+$30.8 million and entered into an operating lease covering approximately
+381,000 square feet of office space in Needham, MA that will allow us to
+consolidate and replace our Waltham, MA operations. Our corporate offices
+currently occupy 210,000 square feet in the new Needham facility and we expect
+to occupy the remaining 171,000 square feet in the second quarter of fiscal
+2001, subject to completion. Occupancy and rent began in December 2000 and the
+lease expires in December 2012, subject to certain renewal rights. In the first
+half of 2001 we expect to make approximately $25.0 million of capital
+expenditures primarily for tenant improvements and furniture and fixtures
+related to the new facility. As of September 30, 2000, we have letters of
+credit outstanding of approximately $25.5 million primarily related to the
+lease of the new facility.
+
+Legal Proceedings
+
+Certain class action lawsuits were filed by shareholders in the fourth quarter
+of 1998 against us and certain of our current and former officers and directors
+in the U.S. District Court in Massachusetts claiming violations of the federal
+securities laws based on alleged misrepresentations regarding our anticipated
+revenue and earnings for the third quarter of 1998. An amended complaint,
+consolidating these lawsuits into one action, was filed in the second quarter
+of 1999, seeking unspecified damages. We believe the claims made in the
+consolidated action are without merit, and we intend to defend them vigorously.
+In the third quarter of 1999 we filed a motion to dismiss the consolidated
+action. We cannot predict the outcome of this motion or the ultimate resolution
+of this action at this time, and there can be no assurance that the litigation
+will not have a material adverse impact on our financial condition or results
+of operations.
+
+We are also subject to various legal proceedings and claims that arise in the
+ordinary course of business. We currently believe that resolving these matters
+will not have a material adverse impact on our financial condition or results
+of operations.
+
+                                      F-16
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+H. Stockholders' Equity
+
+Preferred Stock
+
+We may issue up to 5.0 million shares of our preferred stock in one or more
+series. Our Board of Directors is authorized to fix the rights and terms for
+any series of preferred stock without additional shareholder approval. As of
+September 30, 1999 and 2000, there were no outstanding shares of preferred
+stock.
+
+In November 2000, our Board of Directors authorized and designated 500,000
+shares of preferred stock as Series A Junior Participating Preferred Stock for
+issuance pursuant to our Shareholder Rights Plan (discussed below in Note I).
+
+Common Stock
+
+Our Articles of Organization authorize us to issue up to 500 million shares of
+our common stock. Shares of common stock outstanding are shown below:
+
+
+
+On February 12, 1998, our Board of Directors declared a one-for-one stock
+dividend on our common stock to all stockholders of record on February 27,
+1998. Our consolidated financial statements and notes have been retroactively
+adjusted to reflect this stock dividend.
+
+In September 1998, our Board of Directors authorized a plan that allows us to
+repurchase up to 20.0 million shares. Through September 30, 2000, we
+repurchased 18.7 million shares at a cost of $230.0 million. Our treasury stock
+is held on a first in, first out cost basis. The repurchased shares are used to
+issue shares for stock option exercises, employee stock purchase plans and
+potential acquisitions. In July 2000, our Board of Directors authorized an
+additional 20.0 million shares to be repurchased.
+
+I. Shareholder Rights Plan
+
+In November 2000, our Board of Directors adopted a Shareholder Rights Plan and
+declared a dividend distribution of one share purchase right (a "Right") for
+each outstanding share of our common stock to stockholders of record at the
+close of business on January 5, 2001. Each share of common stock newly issued
+after the date also will carry with it one Right. Each Right will entitle the
+record holder to purchase from us one one-thousandth of a share of our Series A
+Junior Participating Preferred Stock at an exercise price of $60.00 per unit
+subject to adjustment. The Rights become exercisable ten (10) days after the
+earlier of our announcement that a person has acquired 15% or more of our
+outstanding common stock or an announcement of a tender offer which would
+result in a person or group acquiring 15% or more of our common stock; in
+either case, the Board of Directors can extend the 10 day period. If we have
+not redeemed or exchanged the Rights and a person becomes the beneficial owner
+of 15% or more of our common stock (a "Triggering Event"), each holder of a
+Right will have the right to purchase shares of our common stock having a value
+equal to two times the exercise price of the Right. If, at any time following
+the Triggering Event, we are acquired in a merger or other business combination
+transaction in which we are not the surviving corporation or more than 50% of
+its assets or earning power is sold to a person or group, each holder of a
+Right shall have the
+
+                                      F-17
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+right to purchase shares of common stock of the acquiring person, group or
+company having a value equal to two times the exercise price of the Right. The
+Rights expire on January 5, 2011, and may be redeemed by us for $.001 per
+Right.
+
+J. Stock Plans
+
+Employee Stock Purchase Plans
+
+We offer an employee stock purchase plan for all eligible employees. Under the
+plan offered through September 1999, up to 4.0 million shares of our common
+stock could be purchased at 85% of the lower of the fair market value of the
+stock on the first or the last day of each six-month offering period. Each
+employee could have elected to have up to 10% of his or her base pay withheld
+and applied toward the purchase of shares in such offering, up to a maximum of
+ten thousand dollars withheld in any year. On September 16, 1999, our Board of
+Directors approved a new employee stock purchase plan that terminates on
+September 30, 2009 (the "2000 Plan"). The 2000 Plan qualifies as an "employee
+stock purchase plan" under Section 423 of the Internal Revenue Code and its
+terms are similar to the prior plan, except that employee purchases in any year
+are limited to the lesser of $25,000 worth of stock, determined by the fair
+market value of the common stock at the time the offering begins, or 15% of his
+or her base pay. We have reserved 2.0 million shares of common stock for
+issuance under the 2000 Plan. During fiscal 1998, 1999 and 2000, employees
+purchased 677,000, 1.0 million and 757,000 shares at average prices of $11.36,
+$9.20 and $11.67, respectively. On November 17, 2000 the Board of Directors
+approved, subject to shareholder approval, an increase in the number of shares
+issuable under the 2000 Plan from 2.0 million shares to 10.0 million shares.
+
+Stock Option Plans
+
+We have stock option plans for employees, directors, officers and consultants
+that provide for issuance of nonqualified and incentive stock options. The
+option exercise price is typically the fair market value at the date of grant.
+These options generally vest over four years and expire ten years from the date
+of grant. As of September 30, 2000, 18.2 million shares were available for
+grant and 78.1 million shares were reserved for future issuance under stock
+option plans.
+
+In conjunction with the Computervision merger on January 12, 1998, we reserved
+1.6 million shares of our common stock for outstanding Computervision options
+assumed. These assumed options were granted at prices equal to the fair market
+value at the date of grant, become exercisable generally in annual installments
+over four to five years and expire ten years from the date of grant.
+
+                                      F-18
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+In July 1998, our Board of Directors approved a one-for-one stock option
+exchange program that provided employees the opportunity to exchange stock
+options previously granted for new options with a current market price and new
+vesting period. Executive officers and directors were not eligible to
+participate in the program. The new options were priced at $13.63 based on the
+closing price of our common stock as reported by the Nasdaq Stock Market on
+August 3, 1998, vest in equal installments over four years from the August 3,
+1998 grant date and expire on August 3, 2008. A total of 20.0 million options
+with exercise prices ranging from $15.06 to $33.50 per share were exchanged
+under the program. The exchange of such options is presented in the following
+table of stock option activity as cancellations and subsequent grants:
+
+
+
+Certain employees have disposed of stock acquired through the employee stock
+purchase plan and the exercise of incentive stock options earlier than the
+mandatory holding period required for certain tax treatment. These
+dispositions, together with the tax benefits realized from the exercise of
+nonqualified stock options, create tax benefits that have been recorded as
+increases to additional paid-in capital.
+
+For various price ranges, information for options outstanding and exercisable
+at September 30, 2000 was as follows:
+
+
+
+                                      F-19
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+Valuation of Stock Plans
+
+We have not recognized compensation expense in connection with stock option
+grants to employees, directors and officers under our plans. We have recognized
+compensation expense of $0 in 1998, $927,000 in 1999 and $652,000 in 2000 in
+connection with stock option grants to consultants as prescribed by APB No. 25
+and FASB Interpretation No. 44, Accounting for Certain Transactions Involving
+Stock Compensation--an Interpretation of APB Opinion No. 25. However, had
+compensation expense for stock option and employee stock purchase plans been
+determined based on fair value at the grant dates as prescribed by SFAS No.
+123, pro forma net income (loss) and earnings (loss) per share would have been:
+
+
+
+The pro forma disclosures above include the amortization of the fair value of
+all options vested between 1996 and 2000, regardless of the grant date. If only
+options granted after 1996 were valued, as prescribed by SFAS No. 123, pro
+forma net income (loss) and pro forma diluted EPS would have been $22.4 million
+and $0.09 for 1998, $39.4 million and $0.14 for 1999 and $(89.6) million and
+$(0.33) for 2000. The effects on pro forma disclosures of applying SFAS No. 123
+are not necessarily representative of the effects on pro forma disclosures of
+future years.
+
+The fair value of options granted has been estimated at the date of grant using
+the Black-Scholes option-pricing model assuming the following weighted-average
+assumptions:
+
+
+
+The weighted average fair value of employee stock options granted was $9.95 in
+1998, $7.96 in 1999 and $7.46 in 2000. The expected life used for stock
+purchase plans was six months. The weighted average fair value of shares
+granted under the stock purchase plan was $7.77 in 1998, $3.80 in 1999 and
+$4.10 in 2000.
+
+The Black-Scholes option-pricing model was developed for use in estimating the
+fair value of traded options that have no vesting restrictions and are fully
+transferable. In addition, option valuation models require the input of highly
+subjective assumptions, including the expected stock price volatility. Because
+our options have characteristics significantly different from those of traded
+options, and because changes in the subjective input assumptions can materially
+affect the fair value estimate, in the opinion of management, the existing
+models do not necessarily provide a reliable measure of the fair value of our
+options.
+
+                                      F-20
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+K. Employee Benefit Plans
+
+We offer a savings plan (PTC plan) to eligible employees. The plan is intended
+to qualify under Section 401(k) of the Internal Revenue Code. Participating
+employees may defer up to 15% of their pre-tax compensation, as defined, but
+not more than statutory limits. We contribute 50% of the amount contributed by
+the employee, up to a maximum of 10% of the employee's earnings. Our matching
+contributions vest at a rate of 25% per year of service. We made matching
+contributions of $3.2 million, $4.7 million and $5.1 million in 1998, 1999 and
+2000, respectively.
+
+L. Pension Plans
+
+We maintain a defined benefit pension plan covering certain employees of
+Computervision. Benefits are based upon length of service and average
+compensation and generally vest after five years of service. Accrued pension
+costs have been included in other liabilities.
+
+U.S. Pension Plan
+
+Effective April 1, 1990, the benefits under the U.S. pension plan were frozen
+indefinitely. We contribute all amounts deemed necessary on an actuarial basis
+to satisfy Internal Revenue Service funding requirements. Based upon the
+actuarial valuations, we contributed $3.8 million in 1998, $13.7 million in
+1999 and $0 in 2000. Due to the changes in actuarial assumptions and
+underperformance of plan investments, as shown below, we were required to
+record a minimum pension liability adjustment of $7.8 million in 1998. This
+minimum pension liability did not change significantly in 2000 and was reduced
+by $3.7 million in 1999 due to contributions and fund performance. Plan assets
+consist primarily of indexed funds.
+
+Foreign Pension Plans
+
+The accrued international pension cost was actuarially computed using
+assumptions applicable to each subsidiary plan and economic environment. We
+adjusted our minimum pension liability related to our foreign plans due to the
+changes in actuarial assumptions and performance of plan investments, as shown
+below. Plan assets consist of investments in equities and guaranteed investment
+contracts with several insurance companies and banks.
+
+The following table presents the actuarial assumptions used in accounting for
+the pension plans:
+
+
+
+                                      F-21
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+The following tables display the change in benefit obligation, plan assets and
+funded status:
+
+
+
+The following table shows the amounts recognized in the balance sheet:
+
+
+
+M. Segment Information
+
+Operating segments are defined as components of an enterprise about which
+separate financial information is available that is evaluated regularly by the
+chief operating decision maker, or decision-making group, in deciding how to
+allocate resources and in assessing performance. Our chief operating decision-
+making group is our executive officers.
+
+We operate within a single industry segment--computer software and related
+services. We have two major product categories within that one segment: (1) our
+MCAD solutions including our flagship Pro/ENGINEER(R) design software, which
+provides flexible engineering solutions to our customers and (2) our Web-based
+Windchill(R) software which provides collaborative information management
+solutions to our customers using Internet technologies. These CPC solutions
+permit customers to collaboratively develop, build and manage products
+throughout their entire lifecycle. Our products are sold worldwide by our sales
+force and distributors.
+
+                                      F-22
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+While we are predominately a computer software company, our business is
+organized geographically. Data for the geographic regions in which we operate
+is presented below:
+
+
+We license products to customers worldwide. Our sales and marketing operations
+outside the United States are conducted principally through our foreign sales
+subsidiaries throughout Europe and the Asia/Pacific region. Intercompany sales
+and transfers between geographic areas are accounted for at prices that are
+designed to be representative of unaffiliated party transactions. Total exports
+were $115.2 million, $166.2 million and $81.5 million in 1998, 1999 and 2000,
+respectively.
+
+                       REPORT OF INDEPENDENT ACCOUNTANTS
+
+To the Stockholders and Board of Directors of Parametric Technology
+Corporation:
+
+In our opinion, the consolidated financial statements listed in the index
+appearing under Item 14(a)(1) present fairly, in all material respects, the
+financial position of Parametric Technology Corporation and its subsidiaries at
+September 30, 2000 and 1999, and the results of their operations and their cash
+flows for each of the three years in the period ended September 30, 2000 in
+conformity with accounting principles generally accepted in the United States
+of America. These financial statements are the responsibility of the Company's
+management; our responsibility is to express an opinion on these financial
+statements based on our audits. We conducted our audits of these statements in
+accordance with auditing standards generally accepted in the United States of
+America, which require that we plan and perform the audit to obtain reasonable
+assurance about whether the financial statements are free of material
+misstatement. An audit includes examining on a test basis, evidence supporting
+the amounts and disclosures in the financial statements, assessing the
+accounting principles used and significant estimates made by management, and
+evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for our opinion.
+
+                                          /s/ PricewaterhouseCoopers LLP
+
+Boston, Massachusetts
+October 16, 2000, except for Note I,
+as to which the date is November 17, 2000
+
+                                      F-23
+
+
+                FIVE YEAR SUMMARY OF SELECTED FINANCIAL DATA(1)
+
+
+
+                  QUARTERLY FINANCIAL INFORMATION (UNAUDITED)
+
+
+- --------
+(1) All financial information has been retroactively restated to reflect the
+    merger with Computervision in 1998 (Note B).
+(2) Per share data has been retroactively adjusted to reflect the one-for-one
+    stock dividends in 1996 and 1998 (Note H).
+(3) The pro forma results exclude (i) the amortization of goodwill and
+    intangible assets; (ii) acquisition and related costs of $35.6 million in
+    1996, $105.8 million in 1998, $10.6 million in the first quarter of 1999
+    and $27.6 million in the second quarter of 1999 (Note B); (iii)
+    nonrecurring charges of $11.0 million in 1996, $45.0 million in 1997,
+    $3.2 million in the first quarter of 1999, $11.9 million in the second
+    quarter of 1999 and $21.5 million in the third quarter of 2000 (Note B);
+    (iv) an extraordinary loss of $19.0 million in 1998 (Note F); and (v) the
+    results of Computervision's other services business unit for 1996 and
+    through the date it was sold in 1997.
+(4) Our common stock is traded on the Nasdaq National Market under the symbol
+    "PMTC". The common stock prices are based on the Nasdaq Stock Market daily
+    closing stock price.
+
+                                      F-24
+

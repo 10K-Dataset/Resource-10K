@@ -1,0 +1,2482 @@
+
+10-K405
+FORM 10-K FOR THE YEAR ENDED 12/31/96
+
+
+
+
+
+
+
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                   FORM 10-K
+
+[X]            ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+
+                  FOR THE FISCAL YEAR ENDED DECEMBER 31, 1996
+
+                                       OR
+
+[ ]         TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+
+              FOR THE TRANSITION PERIOD FROM ________ TO ________
+
+                         Commission file number 0-27488
+
+
+                          INCYTE PHARMACEUTICALS, INC.
+             (Exact name of registrant as specified in its charter)
+
+           Delaware                                      94-3136539
+ (State or other jurisdiction of          (I.R.S. Employer Identification No.)
+  incorporation or organization)
+
+         3174 Porter Drive                                  
+        Palo Alto, California                               94304
+ (Address of principal executive offices)                (Zip Code)
+
+       Registrant's telephone number, including area code (415) 855-0555
+
+            Securities registered to Section 12(b) of the Act:  None
+
+          Securities registered pursuant to Section 12(g) of the Act:
+
+                         Common Stock, par value $.001
+
+         Indicate by check mark whether the registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  Yes [X]  No [ ]
+
+         Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K (Section  229.405 of this chapter) is not contained
+herein, and will not be contained, to the best of registrant's knowledge, in
+definitive proxy or information statements incorporated by reference in Part
+III of this Form 10-K or any amendment to this Form 10-K.  [X]
+
+         The aggregate market value of Common Stock held by nonaffiliates
+(based upon the closing sale price on the Nasdaq National Market) on March 3,
+1997 was approximately $ 521,225,888.
+
+         As of March 3, 1997, there were 10,458,924 shares of Common Stock, 
+$.001 par value, outstanding.
+                     
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+         Items 10 (as to directors), 11, 12 and 13 of Part III incorporate by
+reference information from the registrant's proxy statement to be filed with
+the Securities and Exchange Commission in connection with the solicitation of
+proxies for the registrant's 1997 Annual Meeting of Stockholders to be held on
+May 21, 1997.
+
+                                     PART I
+
+
+ITEM 1.       BUSINESS.
+
+       When used in this Report, the word "expects," "anticipates,"
+"estimates," and similar expressions are intended to identify forward- looking
+statements.  Such statements, which include statements as to the  timing of
+availability of products under development, the ability to commercialize
+products developed under collaborations and alliances, the performance and
+utility of the Company's products and services, and the adequacy of capital
+resources, are subject to risks and uncertainties that could cause actual
+results to differ materially from those projected.  These risks and
+uncertainties include, but are not limited to, those risks discussed below as
+well as the extent of utilization of genomic information by the pharmaceutical
+industry in both research and development, risks relating to the development of
+new database products and their use by potential collaborators of the Company,
+the impact of technological advances and competition, and the risks set forth
+below under "Factors That May Affect Results." These forward-looking statements
+speak only as of the date hereof.  The Company expressly disclaims any 
+obligation or undertaking to release publicly any updates or revisions to any 
+forward-looking statements contained herein to reflect any change in the
+Company's expectations with regard thereto or any change in events, conditions
+or circumstances on which any such statement is based.
+
+
+OVERVIEW
+
+       Incyte Pharmaceuticals, Inc. ("Incyte" or the "Company"), incorporated
+in Delaware in 1991, is a leader in the design, development and marketing of
+genomic database products, software tools, and related genomic reagents and
+services.  Genome Systems, Inc. ("Genome Systems"), a wholly owned subsidiary
+that was acquired in July 1996, produces a line of genomic reagents and
+services for scientists at academic institutions and pharmaceutical and
+biotechnology companies.  Combion, Inc. ("Combion"), acquired in August 1996,
+contributed staff, advisors, and intellectual property which now serve as the
+center of Incyte's microarray technology development group.
+
+       Incyte's genomic databases integrate bioinformatics software with both
+proprietary and, when appropriate, publicly available genetic information to
+create information-based tools used by pharmaceutical and biotechnology
+companies in drug discovery and development.  In building the databases, the
+Company utilizes high-throughput, computer-aided gene sequencing and analysis
+technologies to identify and characterize the expressed genes of the human
+genome as well as certain animal, plant and microbial genomes.  Each database
+module consists of a relational database that runs on UNIX-based client/server
+networks and incorporates HyperText Markup Language ("HTML") graphical user
+interfaces enabling customers to use multiple search tools and browse various
+database modules.  The databases are available using either Oracle or Sybase
+database architectures and operate on Sun, Digital Equipment Corporation and
+Silicon Graphics workstations.
+
+       The portfolio of databases modules are available separately or as an
+integrated set and include: the LifeSeq(R) gene sequence and expression
+database, the LifeSeq FL(TM) database of full-length genes, the LifeSeq
+Atlas(TM) mapping database, and the PathoSeq(TM) microbial database.  In
+addition, Incyte offers the LifeTools(TM) suite of software tools, the
+GeneAlbum(TM) reagent set, and a variety of custom database and sequencing
+services.
+
+       Incyte currently markets access to its genomic databases through
+collaborations with top pharmaceutical and biotechnology companies worldwide.
+As of March 3, 1997, thirteen pharmaceutical
+
+
+
+
+
+                                      -2-
+
+or biotechnology companies and one agricultural company had access to the
+Company's databases on a non-exclusive basis through multi-year database
+collaboration agreements.  Revenues from these customers generally include
+database access fees and in some cases include additional fees for specific
+sequencing services, such as custom or "satellite" database services.  The
+Company's database agreements also provide for milestone payments and royalties
+from the sale of products by collaborative partners derived from proprietary
+information contained within one or more database modules.
+
+
+SCIENTIFIC BACKGROUND
+
+       Genomics is the study of genetic information, particularly human genes
+and their relationship to disease.  Each gene encodes information which directs
+the body to produce a specific molecule capable of assisting in every day
+functions of a cell or defending the body against disease.  Each cell type in
+the body uses a different subset of the genome to carry out its functions.  In
+fact, a gene can be "active" or "inactive" in a particular cell as well as
+activated at "high" levels or "low" levels.  There are three main approaches
+used by researchers to understand gene function.
+
+       Homology -- Frequently genes can be grouped into "related" families
+based on similarities in structure or function.  One approach is to search for
+genes related to those for which a function is already known or related to
+genes presumed to have an involvement in a disease process.  Each gene consists
+of some linear combination of four building blocks called nucleotide bases
+(A,C,T,G).  Thus by examining the "sequence" of the building blocks that make
+up a set of genes, one can identify those with a high degree of "sequence
+homology" and thus identify genes that may be part of a related family.
+
+       Gene expression profiles -- When a gene is active, its DNA is copied by
+the body into a molecule called messenger RNA or "mRNA".  Incyte isolates the
+mRNA from cells and tissues and converts it into copy DNA or "cDNA", a molecule
+which is easier to manipulate.  In a process called "transcript imaging" or
+"gene expression profiling", Incyte uses high-throughput cDNA sequencing and
+computer analysis to quantify which genes are "active" or "inactive", and if
+active at what levels.  This process is performed to analyze the expression
+profiles of different tissues, different disease states, or developmental
+stages.  These "transcript images" provide a picture of cellular genetics at a
+level of detail greater than that possible with conventional laboratory
+techniques, revealing which genes, both known and novel, are specifically
+correlated to discrete biological events in normal and disease- state cells.
+All of this information is incorporated into the appropriate database enabling
+biology "in silico" -- computer-aided analysis to screen and identify human
+genes that may have value as therapeutics, diagnostic markers, or as new
+targets for drug development.
+
+       Mapping or Positional Cloning -- Genes are organized into discrete units
+called chromosomes.  Each person has 23 pairs of chromosomes containing an
+estimated 100,000 to 150,000 genes.  By studying the medical histories of a
+population of patients in which a disease appears to be highly prevalent,
+abnormalities, such as a deletion or insertion, in a specific chromosomal
+region can be correlated with the presence of a particular disease.  This
+narrows down the genes associated with that disease to the genes contained
+within that chromosomal region.  By locating or "mapping" the genes uncovered
+through a high-throughput sequencing effort onto the chromosomes, a reference
+map can then be created which can assist in identifying selected genes
+associated with disease.
+
+
+
+
+
+                                      -3-
+
+PRODUCTS
+
+       Incyte's products include an integrated platform of genomic databases,
+software analysis tools, and genomic reagents and services.
+
+       Non-exclusive Genomic Databases.  Non-exclusive database access is
+provided through a collaboration agreement.  Customers receive periodic data
+updates, usually monthly, as well as software upgrades and additional search
+and analysis tools when they become available.  The fees and the period of
+access are negotiated with each customer, but the initial terms are typically
+for a period of three years.  Fees generally consist of database access fees;
+non-exclusive or exclusive license fees and option fees corresponding to patent
+rights on proprietary sequences; and potential milestone and royalty payments
+on the sale of products commercialized if a database collaborator develops any
+products utilizing the Company's technology and database information.
+Additional fees for specific sequencing and database services, and the supply
+of DNA clones may be included as described below.  Where appropriate, customers
+can browse not only Incyte-generated data, but also the data found in external
+sources of public domain information by HTML links through the World Wide Web.
+The database modules currently offered include the following:
+
+   The LifeSeq(R) database consists of two integrated database modules, a
+   proprietary sequence database module and a gene expression database module.
+   Customers can easily move from one module to another through an HTML-based
+   graphical interface.  The sequence database contains Incyte's
+   computer-edited gene sequence files and is used by customers to identify
+   related or homologous genes.  For example, a customer may wish to identify
+   new genes homologous to a gene sequence identified through the customer's own
+   independent research and believed to be linked to a disease, or a customer
+   may wish to identify a potentially related family of genes homologous to an
+   interesting gene uncovered while searching another Incyte database module.
+   The expression database contains biological information about each sequence
+   in the Company's sequence database, including tissue source, homologies, and
+   annotations regarding characteristics of the gene sequence.  Most
+   importantly, the expression database contains a gene expression profile or
+   "transcript image" for every tissue in the database combined with
+   proprietary bioinformatics software to allow customers to browse data and
+   compare differences in gene expression across cells, tissues, and different
+   disease states.  Thus the expression database can be used to assist
+   researchers in correlating the presence of specific genes to discrete
+   biological events in normal and disease-state cells.
+
+   The LifeSeq FL(TM) database, first introduced in 1996, contains the
+   full-length gene sequences for DNA fragments of medically interesting genes
+   found in the LifeSeq(R) gene sequence and expression database.  Incyte
+   scientists select genes for inclusion in the LifeSeq FL database based on
+   their sequence homology to therapeutically important gene families, unusual
+   expression patterns or chromosomal location.  A proprietary, high-throughput
+   cloning technology is then used to obtain the full-length sequence.
+
+   The PathoSeq(TM) database, first introduced in 1996, currently contains
+   sequence information for medically relevant microbes.  Sequence information
+   for additional bacterial and fungal pathogens will be added in 1997 as the 
+   data is generated.  With drug-resistant strains of bacteria and other 
+   microorganisms posing an increasing threat to world health, pharmaceutical 
+   and biotechnology companies are turning to microbial genomics to assist in 
+   identifying genes unique to these pathogens that might serve as new drug 
+   targets for combating infectious disease.
+
+
+
+
+
+                                      -4-
+
+   The LifeSeq Atlas(TM)  database, still under development, will contain the
+   chromosomal locations for genes that the Company believes may be of
+   particular utility to its customers.  The database may be used to identify
+   genes responsible for genetic disorders.
+
+   Other Databases in development include: the PhytoSeq(TM) database, a
+   database of plant sequences targeting agricultural and agrochemical
+   companies interested in identifying genes responsible for desirable crop and
+   disease resistance characteristics; and the ZooSeq(TM) database, a reference
+   database of sequence and gene expression information from animal models
+   designed to assist in the analysis of physiological responses to the
+   preclinical testing of new drug therapies.
+
+         Custom or Satellite Database Services.  Satellite databases provide
+pharmaceutical company customers with the opportunity to conduct custom
+sequencing and database programs.  To construct a satellite database, Incyte
+generates sequence data and transcript images using genetic material from
+tissues or cells selected by the customer.  Typically these cells and tissues
+are provided by the customer from its own tissue bank or internal research
+programs.  The resulting information will be placed in a proprietary satellite
+database, in a format compatible with the appropriate non-exclusive database
+module, and available to the satellite database customer on an exclusive basis
+for a negotiated period of time.
+
+         Software.  Incyte has developed a sophisticated suite of data mining,
+search, analysis, editing, and data visualization software tools in developing
+its portfolio of genomic databases.  These tools allow the user to compare
+sequence data against public-domain databases, to manage data within a
+relational database architecture and to present data with a graphical HTML
+interface.  Beginning in 1996 the Company began offering access to the
+LifeTools(TM) suite of data analysis software tools.  This will assist the
+customer in capturing, storing, and analyzing internally generated
+sequence-related data.  LifeTools software is offered on a consultancy basis,
+being installed and customized to meet specific client needs.
+
+         Reagent Services.  Incyte offers a variety of reagent services
+designed to assist its customers in using information from its databases in
+internal lab-based experiments.  The DNA fragments upon which the information
+in Incyte's databases are derived represent valuable resources for researchers,
+enabling them to perform bench-style experiments to supplement the information
+obtained from searching Incyte's databases.  Incyte retains a copy of all
+isolated clones corresponding to the sequences in the database.  Customers may
+request from the Company a sample of all clones corresponding to a sequence of
+interest, including the full-length DNA clone corresponding to the partial gene
+fragment sequences found in the database.  Typically, the Company's customers
+require full-length clones to derive receptors for small molecule binding
+studies or therapeutic proteins.  Upon the request of a customer, the Company
+will isolate a full-length clone, on a fee for service basis.  Finally the
+GeneAlbum(TM) program, which was introduced for the first time in 1996, allows
+customers to subscribe to a service that provides them with large numbers of
+DNA clones on an annual basis.  This service is more economical for those
+customers that desire large numbers of DNA clones.
+
+         Genome Systems' Reagents.  Genome Systems produces a broad line of
+genomic research products, such as DNA clones and insert libraries, and offers
+technical support services, including high-throughput DNA screening, custom
+robotic services, contract DNA preparation, and fluorescent in-situ
+hybridization, to assist researchers in the identification and isolation of
+novel genes.
+
+
+
+
+
+                                      -5-
+
+DATABASE PRODUCTION
+
+         The Company engages in the high-throughput automated sequencing of
+genes derived from tissue samples followed by the computer-aided analysis of
+each gene sequence to identify similarities, or homologies, to genes of known
+function in order to predict the biological function of newly identified
+sequences.  The derivation of information in the Company's databases involves
+the following steps:
+
+   Tissue Access.  Incyte obtains tissue samples representing most major organs
+   in the human body from various academic and commercial sources.  Where
+   possible, in addition to the tissue sample, the Company obtains information
+   as to the medical history and pathology of the tissue.  The genetic material
+   is isolated from these tissues and prepared for analysis.  The results of
+   this analysis as well as the corresponding pathology and medical history
+   information are incorporated into the database.  This information enables
+   customers to relate gene expression information to biological function.
+
+   High-Throughput cDNA Sequencing.  The Company utilizes specialized teams in
+   an integrated approach to its high-throughput sequencing and analysis
+   effort.  Gene sequencing is performed using multiple work shifts to increase
+   daily throughput.  The Company is currently sequencing approximately 10,000
+   cDNA sequences per day.  One team develops and prepares cDNA libraries from
+   biological sources of interest.  A second team prepares the cDNAs using
+   robotic workstations to perform key steps that result in purified cDNAs for
+   sequencing (called cDNA templates).  A third team operates automated DNA
+   sequencers that typically sequence from 200 to 800 base pairs from each cDNA
+   template.  These base pairs represent a portion of the entire cDNA sequence.
+   The Company believes that those partial gene sequences are often sufficient
+   to identify the expressed gene and allow for more rapid gene discovery.
+
+   Bioinformatics.  The finished sequence is uploaded from the DNA sequencers
+   into the Company's proprietary sequence database.  Automated bioinformatics
+   software eliminates low quality sequences from the database.  The sequence
+   of each cDNA is then compared via automated, computerized algorithms, to the
+   sequences of known genes in the Company's databases and public domain
+   databases to identify whether the cDNA codes for a known protein.  Each
+   sequence is annotated as to its cell or tissue source, its relative
+   abundance and whether it is a known gene with known function or previously
+   unidentified.  The bioinformatics staff monitors this computerized analysis
+   and may perform additional analysis on sequence information.
+
+
+CUSTOMERS
+
+         The Company has entered into database collaboration agreements with
+thirteen pharmaceutical or biotechnology companies and one agricultural company
+as of March 3, 1997.  Each collaborator has agreed to pay, during an average
+term of three years, annual fees to receive non-exclusive access to the
+Company's databases.  In 1996, the Company recognized revenue from ten of these
+companies, three of which each contributed in excess of 10% of total revenues.
+
+         Certain of these agreements contain minimum annual database
+requirements which if not met could result in Incyte's breach of the respective
+agreement. The Company's first two database agreements expire at the end of
+1997 and it is not known if either of these will be renewed, and if renewed,
+under what terms.  The loss of revenues from any customer could have a
+significant effect on the Company's business, financial condition, and results
+of operations. See "Factors That May Affect Results -- Limited Operating
+History; History of Operating Losses; Uncertainty of Future Profitability
+
+
+
+
+
+                                      -6-
+
+or Continuing Revenues," "-- New and Uncertain Business," and "--Competition
+and Technological Changes."
+
+
+DEVELOPMENT PROGRAMS
+
+         Since its inception, the Company has made substantial investments in
+research and technology development.  During the years ended December 31, 1996,
+1995 and 1994, the Company spent approximately $40.9 million, $19.2 million,
+and $11.2 million, respectively, on research and development activities.  The
+investment in research and development includes an active program to enter into
+alliances with other technology-driven companies and when appropriate, acquire
+licenses to technologies for evaluation or use in the production and analysis
+process.  The Company has entered into a number of research and development
+alliances with companies and research institutions.  The Company's commitments
+under any one of these agreements do not represent a significant expenditure in
+relation to the Company's total research and development expense.  Significant
+areas of current technology and product development include the following:
+
+         Technology Development.  Incyte has made, and intends to continue to
+make, a substantial investment in searching for, and evaluating, new
+technologies that can improve its DNA sequencing and analysis process.  This
+includes, but is not limited to tissue processing, DNA amplification and
+advanced automated sequencing and expression profiling technologies.  In
+particular the Company is continually evaluating alternative technologies that
+may result in additional productivity, efficiency and quality improvements.  To
+acquire access to these technologies, the Company may be required to pay
+upfront license fees and ongoing research fees or make equity investments.  In
+1996 Incyte entered into alliances designed to evaluate the use of mass
+spectrometry for high throughput expression profiling with GeneTrace Systems
+Inc. and Perseptive Biosystems, Inc.
+
+         Incyte is making a significant investment in the area of microarray
+technology development.  Microarray technology consists of the attachment of
+DNA fragments onto a solid substrate, such as a chemically treated glass
+surface, in a specific grid formation ("gridding") so that the identity and
+placement of each DNA fragment is known.  These grids can then be used to probe
+the expression patterns of thousands of genes at a time.  In August 1996,
+Incyte acquired Combion, a private company focusing on the creation of
+microarrays using a proprietary "ink- jet" technology whereby presynthesized
+DNA fragments ("GeneJet") or individual nucleotides ("ChemJet") are printed
+onto designated sites on the array.  This technology is being developed
+in-house as a method of producing arrays of DNA fragments representing genes
+from Incyte's databases for use by customers in their internal experimental
+research programs.  In addition, Incyte has an alliance with Affymetrix, Inc.
+to utilize Affymetrix's array technology to develop a series of specific arrays
+containing disease or application related genes.  The two companies are jointly
+developing such arrays, which are called LifeChips(TM), as research tools to
+create information for disease-specific database modules.
+
+         There is no assurance that any of these agreements will be successful
+or that competitors will not gain access to particular sequence- related or
+microarray-related technologies to the exclusion of Incyte.  See "Factors that
+May Affect Results -- Risks Associated with Acquisitions" and "-- Dependence on
+Others."
+
+         Database Product Development.  Version 1.0 of Incyte's core database,
+the LifeSeq(R) gene expression database, was introduced in 1994.  Version 2.0,
+introduced in the first half of 1995, was in a relational database format using
+a Sybase platform running on UNIX systems.  Version 3.0, introduced in October
+1995, included for the first time an HTML-based graphical user interface which
+enabled the
+
+
+
+
+
+                                      -7-
+
+user to access the gene expression relational database and provided links to
+public domain data.  Versions 4.0-4.3, introduced in 1996, consist of a
+relational database format available on both a Sybase or an Oracle platform,
+include automated search and annotation capabilities and contain a separate
+sequence database with links to the gene expression relational database.
+Future versions are being developed to include three dimensional data
+visualization and mining tools and flexible annotation features. There can be
+no assurance that subsequent versions of the LifeSeq(R) database will be
+completed, or completed in a timely manner.
+
+         In addition, Incyte introduced a number of new database products
+during 1996 including the LifeSeq FL(TM) database of full-length genes, the
+LifeSeq Atlas(TM) mapping database, the PathoSeq(TM) database of microbial
+sequences, and the LifeTools(TM) suite of software database analysis tools.
+The Company is continuing to develop improvements to these modules, and to that
+end is developing  additional search and analysis features.  The Company is
+also focusing significant efforts on the development of new database products,
+including the ZooSeq(TM) reference database of gene expression profiles for
+commonly used animal modules to assist with the evaluation of data from the
+preclinical testing of prospective new drugs; and LifeChips(TM) based database
+modules in development as part of the Affymetrix collaboration.  There can be
+no assurance that improvements of these database modules or new modules will be
+completed, or if completed, will be completed in a timely manner. See "Factors
+That May Affect Results -- Competition and Technological Changes."
+
+         Incyte entered into a number of alliances intended to improve its
+bioinformatics capabilities and to investigate the development of new data
+analysis tools.  Some of these programs include: the investigation of the use
+of Oceania Inc.'s computerized patient medical record software to assist in the
+organization and searching of tissue pathology data and patient medical
+histories from the tissues used in Incyte's databases; and a collaboration with
+the bioinformatics lab at the French National Center for Scientific Research
+(the CNRS or Centre National de la Recherche Scientifique) to develop new
+algorithms.  There is no assurance that any of these agreements will be
+successful.  See "Factors That May Affect Results -- Dependence on Others."
+
+
+PATENTS AND PROPRIETARY TECHNOLOGY
+
+         The Company's database business and competitive position is dependent
+upon its ability to protect its proprietary database information and software
+technology.  The Company relies on patent, trade secret and copyright law, and
+nondisclosure and other contractual arrangements to protect its proprietary
+information.  To date, the Company has not been issued registered copyrights
+for its database-related software and has been issued several patents with
+respect to full-length gene sequences.
+
+         The Company's ability to license proprietary genes may be dependent
+upon its ability to obtain patents, protect trade secrets and operate without
+infringing upon the proprietary rights of others.  Other pharmaceutical,
+biotechnology and biopharmaceutical companies, as well as academic and other
+institutions have filed applications for, may have been issued patents or may
+obtain additional patents and proprietary rights relating to products or
+processes competitive with those of the Company.  Patent applications filed by
+competitors, including Human Genome Sciences, Inc. ("HGS"), may claim some of
+the same gene sequences or partial gene sequences as those claimed in patent
+applications filed by the Company.  Merck & Co., Inc. in conjunction with
+Washington University has made certain gene sequences publicly available which
+may adversely affect the ability of the Company and others to obtain patents on
+genes.  Furthermore, The Institute for Genomic Research ("TIGR") has made
+publicly available partial gene sequences generated at TIGR and full-length
+gene sequences assembled from partial gene sequences found in publicly
+available databases or sequenced at TIGR; and there can be no
+
+
+
+
+
+                                      -8-
+
+assurance that TIGR will not continue to release such information.  There can
+be no assurance that such publication of sequence information will not
+adversely affect the Company's ability to obtain patent protection for certain
+sequences.
+
+         The Company is aware that certain of its patent applications cover
+genes which are also contained in patent applications filed by others with
+potentially competing patent claims.  Some of these potential conflicts may be
+decided in interference proceedings before the United States Patent and
+Trademark Office ("USPTO").  Given the large number of applications filed by
+the Company, a large number of interference proceedings could be expensive and
+time consuming.  In addition, it is impossible to predict how many, if any, of 
+these competing patent claims will be resolved in the Company's favor.
+
+         The Company's current policy is to file patent applications on what it
+believes to be novel full-length cDNA sequences and partial sequences obtained
+through the Company's high-throughput computer-aided gene sequencing efforts.
+The Company has filed United States patent applications in which the Company
+has claimed certain partial gene sequences and has filed U.S. and European
+patent applications claiming full- length gene sequences associated with cells
+and tissues that are the subject of the Company's high-throughput gene
+sequencing program.  To date the Company holds several issued U.S. patents on
+full-length genes, and no patent has issued under any of the Company's patent
+applications claiming partial gene sequences.
+
+         The patentability of gene sequences and other genetic information in
+general is highly uncertain.  Although no clear policy has emerged with respect
+to the breadth of claims allowable for full-length genes as well as partial
+gene fragments, there is significant uncertainty as to what claims, if any,
+will be allowed on partial gene sequences derived through high-throughout gene
+sequencing.  The USPTO initially rejected an application filed by the National
+Institutes of Health ("NIH") claiming a large number of partial gene sequences,
+and the NIH announced in February 1994 that it would not pursue further such
+applications.  Certain court decisions suggest that disclosure of a partial
+sequence may not be sufficient to support the patentability of a full-length
+sequence.  In 1996 the USPTO issued guidelines limiting the number of gene
+sequences that can be contained within a single patent application.  Many of
+the Company's patent applications containing multiple partial sequences contain
+more sequences than the maximum number allowed under the new guidelines.  The
+Company is reviewing its options, and it is possible that due to the excessive
+resources needed to comply with the guidelines, the Company may decide to
+abandon seeking patent protection for some of its partial gene sequences.
+
+         As a result, there can be no assurance that patent applications
+relating to the Company's products or processes will result in patents being
+issued, or that any issued patents will provide protection against competitors.
+Even if patents are issued on the basis of gene sequences, there may be
+uncertainty as to the scope of the coverage, enforceability or commercial
+protection provided by any such patents.  See "Factors That May Affect Results
+- -- Uncertainty of Protection of Patents and Proprietary Rights."
+
+         The Company was formed in 1991 to acquire certain assets and
+technology of Invitron Corporation ("Invitron").  The Company's initial
+research and development programs focused on the discovery of proteins that
+might have pharmaceutical activity.  The Company has filed, or owns patent
+applications and certain issued patents, in the U.S. and certain foreign
+countries relating to distinct molecules and/or families of related molecules
+developed from the Company's protein research programs.  Patents that have
+issued relate to Bacterial Permeability Inhibitor ("BPI") and certain uses
+thereof, Protease Nexin-1 ("PN-1") and certain uses thereof, Galectin 14-1
+("GL14-1"), and Defensin HNP-4 and other granulocyte proteins.  There can be no
+assurance that any pending patent applications will issue as patents or that
+any issued patents will provide Incyte with adequate protection with respect to
+the
+
+
+
+
+
+                                      -9-
+
+covered products, processes or technology.  In particular, the Company is aware
+that Xoma Corporation ("Xoma") is developing a BPI product, has several issued
+patents related to BPI and has licensed an issued patent and patent
+applications relating to BPI from New York University.  In the event that Xoma
+is successful in developing its BPI product and such product is believed by the
+Company possibly to infringe or otherwise threaten the Company's patent rights
+with respect to BPI, the Company may choose to protect or enforce such patent
+rights through negotiations or litigation, which could require a protracted
+period of time and could result in substantial cost to and diversion of effort
+by the Company.
+
+
+COMPETITION
+
+         There are a finite number of genes in the human genome, and
+competitors in gene sequencing may seek to identify, sequence and determine in
+the shortest time possible the biological function of a large number of genes
+in order to obtain a proprietary position with respect to the largest number of
+new genes discovered.  There are a large number of companies, other
+institutions, and government-financed entities, including HGS, the NIH, and the
+Department of Energy, engaged in gene sequencing.  Some of these companies,
+institutions and entities have greater financial and human resources than the
+Company.
+
+         HGS has entered into a collaboration with SmithKline Beecham
+("SmithKline") to engage in large-scale gene sequencing and to develop from
+gene sequence data therapeutic, vaccine and diagnostic products.  HGS and
+SmithKline have made certain gene sequence information available to a
+consortium of four pharmaceutical companies and have announced their intention
+to add at least one more pharmaceutical company to the consortium.   HGS is
+also funding gene sequencing and gene research at The Institue for Genomic
+Research ("TIGR"), a not-for-profit research institute.  TIGR has announced
+that it, HGS and SmithKline have established a human cDNA database that is
+available to academic researchers.  In addition, Merck & Co, Inc. is funding
+gene sequencing efforts at Washington University and making sequencing
+information publicly available (the "Merck Gene Index").  The Company expects
+that additional competitors may attempt to establish gene sequence or genomics
+databases in the future.  In addition, such entities or other persons may
+discover and establish patent positions with respect to gene sequences in the
+Company's databases.  Such patent positions or the public availability of gene
+sequences comprising substantial portions of the human genome would decrease
+the potential value of the Company's databases to the Company's customers and
+adversely affect the Company's ability to realize royalties or other revenue
+from commercialization of products based upon such genetic information.
+
+         In addition, the gene sequencing machines that are utilized in the
+Company's high-throughput computer-aided gene sequencing operations are
+commercially available and are currently being utilized by several competitors.
+Moreover, some of the Company's competitors or potential competitors are in the
+process of developing, and may successfully develop, proprietary sequencing
+technologies that may be more advanced than the technology used by the Company.
+There can be no assurance that such advanced sequencing technology, if
+developed, will be commercially available for purchase or license by the
+Company on reasonable terms, or at all.
+
+         A number of companies have announced their intent to develop and
+market software to assist pharmaceutical companies and academic researchers in
+the management and analysis of their own genomic data as well as the analysis
+of sequence data available in the public domain.  Some of these entities have
+access to significantly greater resources than the Company and there can be no
+assurance that these products would not achieve greater market acceptance than
+the products offered by the Company.
+
+
+
+
+
+                                      -10-
+
+         The Company believes that the features and ease of use of its database
+software, its experience in high-throughput gene sequencing, the cumulative
+size of its database, the quality of the data, including the annotations in its
+database, and its experience with bioinformatics and database software are
+important aspects of the Company's competitive position.
+
+         The genomics industry is characterized by extensive research efforts
+and rapid technological progress.  New developments are expected to continue
+and there can be no assurance that discoveries by others will not render the
+Company's services and potential products noncompetitive.  In addition,
+significant levels of research in biotechnology and medicine occur in
+universities and other non-profit research institutions.  These entities have
+become increasingly active in seeking patent protection and licensing revenues
+for their research results.  These entities also compete with the Company in
+recruiting talented scientists.  See "Factors That May Affect Results --
+Competition and Technological Changes."
+
+
+GOVERNMENT REGULATION
+
+         Regulation by governmental authorities in the United States and other
+countries will be a significant factor in the production and marketing of any
+pharmaceutical products that may be developed by a licensee of the Company or
+by the Company.  At the present time the Company does not intend to develop any
+pharmaceutical products itself.  The Company will receive royalties from its
+database collaborators on any pharmaceutical products developed by such
+collaborators derived from information obtained from Incyte's genomic
+databases.  Thus, the receipt and timing of regulatory approvals for the
+marketing of such products may have a significant effect in the future on the
+Company's revenues.  Pharmaceutical products developed by licensees will
+require regulatory approval by governmental agencies prior to
+commercialization.  In particular, human pharmaceutical therapeutic products
+are subject to rigorous preclinical and clinical testing and other approval
+procedures by the FDA in the United States and similar health authorities in
+foreign countries.  Various federal and, in some cases, state statutes and
+regulations also govern or influence the manufacturing, safety, labeling,
+storage, recordkeeping and marketing of such pharmaceutical products, including
+the use, manufacture, storage, handling and disposal of hazardous materials and
+certain waste products.  The process of obtaining these approvals and the
+subsequent compliance with appropriate federal and foreign statutes and
+regulations require the expenditure of substantial resources over a significant
+period of time, and there can be no assurance that any approvals will be
+granted on a timely basis, if at all.  Any such delay in obtaining or failure
+to obtain such approvals could adversely affect the Company's ability to earn
+milestone payments, royalties or other license-based fees.  Additional
+governmental regulations that might arise from future legislation or
+administrative action cannot be predicted, and such regulations could delay or
+otherwise affect adversely regulatory approval of potential pharmaceutical
+products.  See "Factors That May Affect Results -- Uncertainty of
+Pharmaceutical Pricing and Health Care Reform and Related Matters."
+
+HUMAN RESOURCES
+
+         As of March 1, 1997, the Company had 458 employees (127 of whom are
+contract or part-time employees), including 167 in sequencing production, 96 in
+bioinformatics, 65 in research and technology development, 60 in marketing,
+sales and administrative positions and 70 in the Company's Genome Systems
+subsidiary.  None of the Company's employees is covered by collective
+bargaining agreements, and management considers relations with its employees to
+be good.  The Company's future success also will depend in part on the
+continued service of its key scientific, software, bioinformatics and
+management personnel and its ability to identify, hire and retain additional
+personnel, including personnel in the customer service and marketing area.
+There is intense competition for such qualified personnel
+
+
+
+
+
+                                      -11-
+
+in the areas of the Company's activities, especially with respect to
+experienced bioinformatics and software personnel, and there can be no
+assurance that the Company will be able to continue to attract and retain such
+personnel necessary for the development of the Company's business.  Failure to
+attract and retain key personnel could have a material adverse effect on the
+Company's business, financial condition and operating results. See "Factors
+That May Affect Results -- Management of Growth" and "-- Dependence on Key
+Employees."
+
+
+FACTORS THAT MAY AFFECT RESULTS
+
+         Limited Operating History; History of Operating Losses; Uncertainty of
+Future Profitability or Continued Revenues.  The Company has had a limited
+operating history and is at an early stage of development. For the years ended
+December 31, 1996, 1995 and 1994, the Company had net losses of $6.8 million,
+$9.9 million and $11.5 million, respectively, and as of December 31, 1996, the
+Company had an accumulated deficit of $36.5 million.  The Company's increase in
+throughput of its gene sequencing and database efforts, together with the
+development of new products and expansion of its marketing, sales and customer
+service staff will require a substantial increase in expenditures in 1997 and
+beyond.  While the Company reported a small operating profit in the fourth 
+quarter of 1996, there can be no assurance that the Company can maintain
+profitability. The Company's ability to achieve and maintain significant
+revenues or profitability will be dependent upon the Company's ability to obtain
+additional customers for its database and genomic products and services.  While
+the Company currently has fourteen database collaborations, there can be no
+assurance that the Company will be able to obtain any additional agreements for
+such products and services.  Further, the Company's database collaborations
+typically have a term of three years, which may be terminated earlier by a
+partner if the Company breaches any material provision of the database
+agreement, which may include certain performance obligations, and fails to cure
+such breach within a specified period.  There can be no assurance that any of
+the Company's database agreements will be renewed upon expiration or not
+terminated earlier upon a material breach thereof by the Company.  The loss of
+revenues from certain agreements would have a material adverse effect on the
+Company's business and operating results.
+
+         An element of the Company's commercialization strategy is the
+licensing to customers of the Company's patent rights to individual partial
+genes or full-length cDNA sequences from the Company's proprietary sequence
+database for development as a potential pharmaceutical, diagnostic or other
+product.  Any potential product that is the subject of such a license would
+require several years of further development, clinical testing and regulatory
+approval prior to commercialization.  Accordingly, the Company does not expect
+to receive any milestone or royalty payments from any such licenses for a
+substantial period of time, if at all.  See "Management's Discussion and
+Analysis of Financial Condition and Results of Operations."
+
+         New and Uncertain Business.  The Company's genomic database business
+and the use of its databases, software tools and related services to assist in
+and improve the efficiency of the traditional drug discovery process represents
+a business for which there is no precedent.  There can be no assurance that
+such companies will accept the usefulness of the Company's databases, software
+tools and related services.  The Company's strategy of using high-throughput
+sequencing to identify genes rapidly and obtain proprietary rights in as many
+genes as possible is unproven.  In addition, the Company has limited experience
+in providing software-based relational database products or services.  The
+Company's ability to achieve profitability depends on attracting additional
+customers for its database and sequencing products and services.  The high- end
+nature and price of the Company's database and sequencing products and services
+are such that there is a limited number of large pharmaceutical and
+biotechnology companies that are potential customers for such products and
+services.  Additional factors that may affect
+
+
+
+
+
+                                      -12-
+
+demand for the Company's products and services include the extent to which the
+Company's potential customers choose to conduct in-house gene sequencing and
+bioinformatics analysis, the emergence of competitors offering similar services
+at competitive prices, the ability of the Company to satisfactorily service its
+existing customers, the extent to which the gene and related information in the
+Company's database is made public by, or is the subject of, patents issued to
+others, and the emergence of technological innovations in gene sequencing or
+bioinformatics and relational database software that are more advanced than the
+technology used by and available to the Company.  There can be no assurance
+that the Company will be able to attract additional customers on acceptable
+terms for its products and services or develop a sustainable profitable
+business.
+
+         Risks Associated with Acquisitions.  As part of its business strategy,
+the Company may from time to time acquire assets and businesses principally
+relating to or complementary to its operations, including for the purpose of
+acquiring specific technology.  The Company acquired Genome Systems and Combion
+in July 1996 and August 1996, respectively.  Genome Systems, located in St.
+Louis, Missouri and Combion, located in Pasadena, California, are
+geographically disparate from the Company's Palo Alto, California headquarters,
+which may make the integration and management of their operations more
+difficult.  These and any other acquisitions by the Company will be accompanied
+by the risks commonly encountered in acquisitions of companies.  Such risks
+include, among other things, potential exposure to unknown liabilities of
+acquired companies or to acquisition costs and expenses exceeding amounts
+anticipated for such purposes, fluctuations in the Company's quarterly and
+annual operating results due to the costs and expenses of acquiring and
+integrating new businesses or technologies, the difficulty and expense of
+assimilating the operations and personnel of the acquired businesses, the
+potential disruption of the Company's ongoing business and diversion of
+management time and attention, the inability to successfully integrate or to
+complete the development and application of acquired technology and the
+potential failure to achieve anticipated financial, operating and strategic
+benefits from such acquisitions, difficulties in establishing and maintaining
+uniform standards, controls, procedures and policies, the impairment of
+relationships with and possible loss of key employees and customers of acquired
+businesses as a result of changes in management and ownership, the incurrence
+of amortization expenses if an acquisition is accounted for as a purchase, and
+dilution to the stockholders of the Company if the consideration for the
+acquisition consists of equity securities.  There can be no assurance that the
+Company will be successful in overcoming these risks or any other problems
+encountered in connection with such acquisitions.  If the Company is
+unsuccessful in doing so, its business, financial condition and results of
+operations could be materially and adversely affected.
+
+         Fluctuations in Operating Results.  The Company's operating results
+may fluctuate significantly from quarter to quarter as a result of a variety of
+factors, including changes in the demand for the Company's products and
+services, the pricing of database access to database collaborators, the nature,
+pricing and timing of other products and services provided to the Company's
+customers, changes in the research and development budgets of the Company's
+customers and potential customers, capital expenditures and other costs related
+to the expansion of Incyte's operations, and the introduction of competitive
+databases or services.  In particular, the Company has a limited ability to
+control the timing of database installations, due to the lengthy sales cycle
+required for the Company's database products, the Company's revenue levels are
+difficult to forecast, the time required to complete custom orders can vary
+significantly and the growing investment in external alliances could result in
+significant quarterly fluctuations in expenses due to the payment of
+milestones, license fees or research payments.  The need for continued
+investment in development of the Company's databases and related products and
+services and for extensive ongoing customer support capabilities results in
+significant fixed expenses.  If revenue in a particular period does not meet
+expectations, the Company would not be able to adjust significantly its level
+of expenditures in such period, which would have an adverse effect on the
+Company's operating results.  The Company believes that quarterly comparisons
+of its financial results will not necessarily be
+
+
+
+
+
+                                      -13-
+
+meaningful and should not be relied upon as an indication of future
+performance.  Due to the foregoing factors, it is likely that in some future
+quarter or quarters the Company's operating results may be below the
+expectations of public market analysts and investors.  In such event, the price
+of the Company's Common Stock would likely be materially and adversely
+affected.  See "Management's Discussion and Analysis of Financial Condition and
+Results of Operations."
+
+         Competition and Technological Changes.  There are a finite number of
+genes in the human genome, and competitors in gene sequencing may seek to
+identify, sequence and determine in the shortest time possible the biological
+function of a large number of genes in order to obtain a proprietary position
+with respect to the largest number of new genes discovered.  There are a number
+of companies, other institutions, and government-financed entities, including
+HGS, the NIH, and the Department of Energy, engaged in gene sequencing.  Many
+of these companies, institutions and entities have greater financial and human
+resources than the Company.
+
+         In addition, the gene sequencing machines that are utilized in the
+Company's high-throughput computer-aided gene sequencing operations are
+commercially available and are currently being utilized by several competitors.
+Moreover, some of the Company's competitors or potential competitors are in the
+process of developing, and may successfully develop, proprietary sequencing
+technologies that may be more advanced than the technology used by the Company.
+There can be no assurance that such advanced sequencing technology, if
+developed, will be commercially available for purchase or license by the
+Company on reasonable terms, or at all.
+
+         HGS has entered into a collaboration with SmithKline to engage in
+large-scale gene sequencing and to develop from gene sequence data,
+therapeutic, vaccine and diagnostic products.  HGS and SmithKline have made
+certain gene sequence information available to a consortium of four
+pharmaceutical companies and have announced their intention to add at least one
+more pharmaceutical company to the consortium.   HGS is also funding gene
+sequencing and gene research at TIGR, a not-for-profit research institute.
+TIGR has announced that it, HGS and SmithKline have established a human cDNA
+database that is available to academic researchers.  In addition, Merck & Co.
+is funding gene sequencing efforts at Washington University that are making
+sequencing information publicly available (the "Merck Gene Index").  The
+Company expects that additional competitors may attempt to establish gene
+sequence or genomic databases in the future.  In addition, such entities or
+other persons may discover and establish patent positions with respect to gene
+sequences in Company's databases.  Such patent positions or the public
+availability of gene sequences comprising substantial portions of the human
+genome or on microbial or plant genes could decrease the potential value of the
+Company's databases to the Company's customers and adversely affect the
+Company's ability to realize royalties or other revenue from commercialization
+of products based upon such genetic information.
+
+         The Company's databases also require extensive software support and
+incorporate features determined by customer needs.  To the extent the Company
+experiences delays or difficulties in implementing its database software or
+customer requested features, its ability to service its customers may be
+adversely affected, which might have an adverse effect on the Company's
+business and operating results.
+
+         The genomics industry is characterized by extensive research efforts
+and rapid technological progress.  To remain competitive, the Company will be
+required to continue to expand its databases and to enhance the functionality
+of its bioinformatics and database software.  New developments are expected to
+continue and there can be no assurance that discoveries by others will not
+render the Company's services and potential products noncompetitive. See
+"Business -- Competition."
+
+
+
+
+
+                                      -14-
+
+         Uncertainty of Protection of Patents and Proprietary Rights.  The
+Company's database business and competitive position are dependent in part upon
+its ability to protect its proprietary database information and software
+technology.  Despite the Company's efforts to protect its proprietary database
+information and software technology, unauthorized parties may attempt to obtain
+and use information that the Company regards as proprietary.  Although the
+Company's database collaboration agreements require its customers to provide
+adequate security for the Company's databases and access thereto, policing
+unauthorized use of the Company's databases and software by the Company or its
+customers is difficult.  The Company relies on patent, trade secret, and
+copyright law, and nondisclosure and other contractual arrangements to protect
+its proprietary information, although to date, the Company has only been issued
+a small number of patents with respect to the gene sequences in the Company's
+databases and has not been issued registered copyrights for its related
+software.  Patents cannot prevent others from developing, selling or licensing
+databases which include sequences which might be covered by the Company's
+patents and copyrights.  The Company cannot prevent others from independently
+developing software which might be covered by any copyrights issued to the
+Company and trade secret laws do not prevent independent development.  Thus,
+there can be no assurance that others will not independently develop
+substantially equivalent proprietary information and techniques or otherwise
+gain access to the Company's proprietary information, that such information
+will not be disclosed or that the Company can effectively protect its rights to
+unpatented trade secrets.
+
+         The Company pursues a policy of having its employees, consultants and
+advisors execute proprietary information and invention agreements upon
+commencement of employment or consulting relationships with the Company, which
+agreements provide that all confidential information developed or made known to
+the individual during the course of the relationship shall be kept confidential
+except in specified circumstances.  There can be no assurance, however, that
+these agreements will provide meaningful protection for the Company's trade
+secrets or other proprietary information in the event of unauthorized use or
+disclosure of such information.
+
+         The patentability of gene sequences and other genetic information in
+general is uncertain, involves complex legal and factual questions, and has
+recently been the subject of much litigation.  As a result, there can be no
+assurance that patent applications relating to the Company's products or
+processes will result in patents being issued, or that any issued patents will
+provide protection against competitors.  Even if patents are issued on the
+basis of gene sequences, there may be uncertainty as to the scope of the
+coverage, enforceability or commercial protection provided by any such patents.
+Certain court decisions suggest that disclosure of a partial sequence may not
+be sufficient to support the patentability of a full-length sequence.
+
+         The USPTO initially rejected an application filed by the NIH claiming
+large number of partial sequences, and the NIH announced in February 1994 that
+it will not pursue further such applications.  There has been substantial
+backlog of biotechnology patent applications especially applications disclosing
+or claiming gene sequences, at the USPTO.  In 1996 the USPTO issued guidelines
+limiting the number of gene sequences that can be contained within a single
+patent application.  Many of the Company's patent applications containing
+multiple partial sequences contain more sequences than the maximum number
+allowed under the new guidelines.  The Company is reviewing its options and it
+is possible that due to the excessive resources needed to comply with the
+guideline, the Company may decide to abandon seeking patent protection for some
+of its partial gene sequences.
+
+         As a result of the foregoing there can be no assurance that patent
+applications relating to the Company's products or processes will result in
+patents being issued, or that any issued patents will provide protection
+against competitors who successfully challenge the Company's patents, obtain
+patents
+
+
+
+
+
+                                      -15-
+
+that may have an adverse effect on the Company's ability to affect business, or
+are able to circumvent the Company's patent position.
+
+         In view of the delay in obtaining allowance of patent applications,
+and the secrecy of patent applications, the Company does not know if other
+applications that would have priority over the Company's applications have been
+filed. Furthermore, recent changes in U.S. patent laws resulting from the GATT
+agreement became effective in June 1995.  Most notably, the GATT agreement
+resulted in U.S. law being amended to change the term of patent protection from
+seventeen years from patent issuance to twenty years from the earliest
+effective filing date of the application. Because the average time from filing
+to issuance of biotechnology applications is often more than three years, a
+twenty year patent term from the date of filing may result in a substantially
+shortened term of patent protection, which may adversely affect the Company's
+patent position.  Pending applications claiming large numbers of gene sequences
+may, in some situations, need to be refiled while claiming priority to the
+earlier filing date and, in such situations, the patent term will be measured
+from the earliest filing date, thereby reducing the patent term and having a
+potentially adverse effect on the Company's period of exclusivity.
+
+         Biotechnology patent law outside the United States is even more
+uncertain and is currently undergoing review and revision in many countries.
+Further, the laws of certain foreign countries may not protect the Company's
+intellectual property rights to the same extent as do the laws of the United
+States.  The Company may participate in opposition proceedings to determine the
+validity of its or its competitors non- U.S. patents, which could result in
+substantial costs to and diversion of effort by the Company.
+
+         Incyte may be required to obtain licenses to patents or proprietary
+rights of others.  As the biotechnology industry expands, more patents are
+issued and other companies engage in the business of discovering genes through
+the use of high speed sequencers, the risk increases that the Company's
+potential products may be subject to claims that they infringe the patents of
+others.  No assurance can be given that any licenses required under any such
+patents or proprietary rights would be made available on terms acceptable to
+the Company.  Litigation may be necessary to defend against or assert claims of
+infringement, to enforce patents issued to the Company, to protect trade
+secrets or know-how owned by the Company, or to determine the scope and
+validity of the proprietary rights of others.  Such litigation could result in
+substantial costs to and diversion of effort by the Company and may have a
+material adverse effect on the Company's business, operating results and
+financial condition.   In addition, there can be no assurance that these
+efforts by the Company will be successful.
+
+         The Company holds issued patents and has several additional pending
+patent applications relating to BPI and related molecules.  The Company is
+aware that Xoma is developing a BPI product, has several issued patents related
+to BPI and has licensed a patent and patent applications relating to BPI from
+New York University.  In the event that Xoma is successful in developing its
+BPI product and such product is believed by the Company possibly to infringe or
+otherwise threaten the Company's patent rights with respect to BPI, the Company
+may choose to protect or enforce such patent rights through negotiations or
+litigation, which could require a protracted period of time and could result in
+substantial cost to and diversion of effort by the Company.  See "Business --
+Patents and Proprietary Technology."
+
+         Lengthy Sales Cycle.  The ability of the Company to obtain new
+customers for the its databases, software tools and related services depends in
+significant part upon prospective customers' perception that the Company's
+databases, software tools, and related services can help accelerate drug
+discovery efforts.  The sales cycle is typically lengthy due to the education
+effort that is required as well as the need to effectively sell the benefits of
+the Company's  databases, software tools, and related services to a variety of
+constituencies within potential customer companies, including research and
+development
+
+
+
+
+
+                                      -16-
+
+personnel and top management.  In addition, each database collaboration
+involves the negotiation of agreements containing terms that may be unique to
+each partner, such as the scope of any licenses granted and whether satellite
+database services or access to multiple database modules is desired.  The
+Company may expend substantial funds and management effort with no assurance
+that a database collaboration will result.
+
+         Future Capital Needs; Uncertainty of Additional Funding.  The Company
+believes that its existing cash and cash equivalents, should be adequate to
+satisfy the Company's projected working capital and capital expenditure
+requirements at least through 1997.  However, the Company can offer no
+assurance that the Company will be able to obtain additional collaborators for
+the Company's databases or that such database products and services will
+produce revenues, which together with the Company's cash, cash equivalents, and
+marketable securities, will be adequate to fund the Company's operating
+expenses.  The Company's cash requirements depend on numerous factors,
+including the ability of the Company to attract collaborators to its databases
+and genomic products and services; the Company's research and development
+activities; competing technological and market developments; the cost of
+filing, prosecuting, defending, and enforcing patent claims and other
+intellectual property rights; the purchase of additional capital equipment,
+including capital equipment necessary to insure that the Company's sequencing
+operation remains competitive; and the costs associated with the integration of
+new operations assumed through mergers and acquisitions.  In particular the
+Company expects its cash requirements to increase in 1997 as it increases its
+investment in data-processing-related computer hardware in order to support its
+existing and new database products; continues to seek access to technologies
+through alliances, license agreements, and/or acquisitions; and addresses its
+needs for larger facilities and/or improvements in existing facilities.  There
+can be no assurance that changes in the Company's research and development
+plans or other changes affecting the Company's operating expenses will not
+result in changes in the timing and amount of expenditure of the Company's
+capital resources.  To the extent that additional capital is raised through the
+sale of equity or convertible debt securities, the issuance of such securities
+could result in dilution to the Company's existing stockholders.  There can be
+no assurance that additional funding, if necessary, will be available on
+favorable terms, if at all.  If adequate funds are not available, the Company
+may be required to curtail operations significantly or to obtain funds through
+entering into collaborative arrangements that may require the Company to
+relinquish rights to certain of its technologies, product candidates, products
+or potential markets.  See "Management's Discussion and Analysis of Financial
+Condition and Results of Operations."
+
+         Management of Growth.  The Company has recently experienced, and
+expects to continue to experience significant growth in the number of its
+employees and the scope of its operations.  This growth has placed, and may
+continue to place, a significant strain on the Company's management and
+operations.  The Company's ability to manage effectively such growth will
+depend upon its ability to broaden its management team and its ability to
+attract, hire and retain skilled employees.  The Company's success will also
+depend on the ability of its officers and key employees to continue to
+implement and improve its operational, management information and financial
+control systems and to expand, train and manage its employee base.  In
+addition, the Company must continue to take steps to provide customer support
+resources as the number of overall database collaborators and the number of
+requests from collaborators increases.  Further, the Company's database
+collaborators typically have worldwide operations and may require support at
+multiple U.S. and foreign sites.  Providing this support will require the
+Company to manage international customer support services from its Palo Alto,
+California headquarters or to open non-U.S. offices, either of which could
+result in additional burdens on the Company's systems and resources.  The
+Company's inability to effectively manage growth could have a material adverse
+effect on the Company's business, financial condition and operating results.
+
+
+
+
+
+                                      -17-
+
+         Dependence on Key Employees.  The Company is highly dependent on the
+principal members of its scientific and management staff, including Roy A.
+Whitfield, its Chief Executive Officer, and Randal W. Scott, its President and
+Chief Scientific Officer, the loss of whose services would have a material
+adverse effect on the Company's business.  The Company has not entered into any
+employment agreements with any of such persons and does not maintain any key
+person life insurance policy on the life of any employee.  The Company's future
+success also will depend in part on the continued service of its key
+scientific, software, bioinformatics and management personnel and its ability
+to identify, hire and retain additional personnel, including personnel in the
+customer service and marketing area.  There is intense competition for such
+qualified personnel in the areas of the Company's activities, especially with
+respect to experienced bioinformatics and software personnel, and there can be
+no assurance that the Company will be able to continue to attract and retain
+such personnel necessary for the development of the Company's business.
+Failure to attract and retain key personnel could have a material adverse
+effect on the Company's business, financial condition and operating results.
+
+         Dependence on Others.  The Company currently uses a single supplier to
+provide its gene sequencing machines and a single supplier to provide certain
+reagents required in connection with the gene sequencing process.  While other
+gene sequencing machines are available, the Company does not believe that they
+are as efficient as the machines currently used by the Company.  In addition,
+while the Company is evaluating certain second generation gene sequencing
+machines, there can be no assurance that these second generation sequencing
+machines will ever become commercially available, available at acceptable
+costs, or prove to be more effective than current machines.  Should the Company
+be unable to obtain additional machines or an adequate supply of reagents or
+other ingredients at commercially reasonable rates, its ability to continue to
+identify genes through gene sequencing would be adversely affected.  Although
+the Company obtains tissue samples from which mRNA may be isolated from a
+number of sources, the  loss of access to some of these sources or increased
+restrictions on use of the information generated could adversely affect the
+Company's business.  See "Business -- Products," "-- Database Production" and
+"-- Development Programs."
+
+         The Company's strategy for the development of its database and
+sequencing business and the commercialization of its portfolio of partial and
+full-length gene sequences may require the Company to enter into various
+alliances with corporate and academic collaborators and others.  The success of
+these alliances is dependent upon the performance of outside parties of their
+responsibilities.  There can be no assurance that the Company will be able to
+establish collaborative arrangements or license agreements that the Company
+deems necessary or acceptable to develop its database and sequencing business
+or, in the future, to commercialize its portfolio of partial and full-length
+gene sequences or that such collaborative arrangements or license agreements
+will be successful.  In addition, there can be no assurance that the
+collaborators will not be pursuing alternative technologies or developing
+alternative products either on their own or in collaboration with others,
+including the Company's competitors.
+
+         The Company has relied on scientific, technical, pathology, commercial
+and other data supplied and disclosed by others, including its academic
+collaborators and sources of tissue samples, and may rely on such data in the
+construction of its database.  There can be no assurance that such data
+contains no errors or omissions, the knowledge of which would adversely change
+the prospects for the Company's business.  See "Business -- Database
+Production."
+
+         Hazardous Materials; Environmental Matters.  The Company's research
+and development involves the controlled use of hazardous and radioactive
+materials and biological waste.  The Company is subject to federal, state and
+local laws and regulations governing the use, manufacture, storage, handling
+and disposal of such materials and certain waste products. Although the Company
+believes that its safety procedures for handling and disposing of such
+materials comply with the standards prescribed
+
+
+
+
+
+                                      -18-
+
+by such laws and regulations, the risk of accidental contamination or injury
+from these materials cannot be completely eliminated.  In the event of such an
+accident, the Company could be held liable for any damages that result and any
+such liability could exceed the resources of the Company.  Although the Company
+believes that it is in compliance in all material respects with applicable
+environmental laws and regulations and currently does not expect to make
+material additional capital expenditures for environmental control facilities
+in the near- term, there can be no assurance that the Company will not be
+required to incur significant costs to comply with environmental laws and
+regulations in the future, nor that the operations, business or assets of the
+Company will not be materially or adversely affected by current or future
+environmental laws or regulations. See "Business --Government Regulation."
+
+         Uncertainty of Pharmaceutical Pricing, Health Care Reform and Related
+Matters.  The levels of revenues and profitability of pharmaceutical companies
+may be affected by the continuing efforts of governmental and third party
+payors to contain or reduce the costs of health care through various means.
+For example, in certain foreign markets pricing or profitability of
+prescription pharmaceuticals is subject to government control.  In the United
+States, there have been, and the Company expects that there will continue to
+be, a number of federal and state proposals to implement similar government
+control.  It is uncertain what legislative proposals will be adopted or what
+actions federal, state or private payers for healthcare goods and services may
+take in response to any healthcare reform proposals or legislation.  The
+Company cannot predict the effect healthcare reforms may have on its business,
+and no assurance can be given that any such reforms will not have a material
+effect on the Company.  Further, to the extent that such proposals or reforms
+have a material adverse effect on the business, financial condition or
+profitability of pharmaceutical companies that are prospective collaborators or
+licensees for the LifeSeq(R) database or the Company's potentially novel genes
+that may lead to therapeutic or diagnostic products, the Company's ability to
+commercialize such products may be adversely affected.  In addition, in both
+the United States and elsewhere, sales of prescription pharmaceuticals are
+dependent in part on the availability of reimbursement to the consumer from
+third party payors, such as government and private insurance plans.  Third
+party payors are increasingly challenging the prices charged for medical
+products and services. If the Company or one of its database collaborators
+seeks to commercialize one or more pharmaceutical products, there can be no
+assurance that these products will be considered cost effective and that
+reimbursement to the consumer will be available or will be sufficient to allow
+the Company or its partner to sell its products on a competitive basis.
+
+         General Economic and Market Conditions.  All of the Company's current
+revenues are derived from, and the Company expects that all of its revenues in
+the foreseeable future will be derived from, products and services provided to
+the pharmaceutical industry.  Accordingly, the Company's success in the
+foreseeable future is directly dependent upon the success of the companies
+within those industries and their continued demand for the Company's products
+and services.  The Company's operations may in the future be subject to
+substantial period-to-period fluctuations as a consequence of economic
+downturns and pricing pressures experienced by pharmaceutical companies that
+lead to delays and reductions in research and development expenditures by such
+companies, general domestic and foreign economic conditions affecting the
+timing of orders from major customers, the current market-driven pressures on
+companies to consolidate and reduce costs, and other factors affecting research
+and development spending.  There can be no assurance that such factors will not
+have a material adverse effect on the Company's business, operating results and
+financial condition.
+
+         Risk of Business Interruption.  The Company conducts all of its
+sequencing and other activities at its facilities in Palo Alto, California, a
+seismically active area.  Although the Company maintains business interruption
+insurance, the Company does not currently have, nor does it plan to obtain,
+earthquake insurance.  A major catastrophe (such as an earthquake or other
+natural disaster) could result in a prolonged interruption of the Company's
+business.
+
+
+
+
+
+                                      -19-
+
+ITEM 2.          PROPERTIES.
+
+         Incyte's headquarters are in Palo Alto, California where its main
+research laboratories, sequencing facility, bioinformatics and administrative
+facilities are located.   Incyte also operates facilities in St. Louis,
+Missouri, through its merger with Genome Systems and in Pasadena, California
+through its acquisition of Combion.  As of March 1, 1997 Incyte occupied
+approximately 167,000 square feet under multiple sub-lease and primary building
+lease agreements that expire on various dates ranging from September 1997 to
+August 2006.  The Company is currently pursuing options to obtain both
+temporary and long-term space suitable to meet future growth requirements.
+There can be no assurance that suitable additional space will be available to
+it, when needed, on commercially reasonable terms.
+
+
+ITEM 3.          LEGAL PROCEEDINGS.
+
+         Not applicable.
+
+
+ITEM 4.          SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+         Not applicable.
+
+
+EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+         The executive officers of the Company are as follows:
+
+         ROY A. WHITFIELD, age 44, has been Chief Executive Officer of the
+Company since June 1993 and a director since June 1991.  Mr.  Whitfield served
+as President of the Company from June 1991 until January 1997 and as Treasurer
+of the Company from April 1991 until October 1995.  Previously, Mr. Whitfield
+served as the President of Ideon Corporation, which was a majority owned
+subsidiary of Invitron Corporation ("Invitron"), a biotechnology company, from
+October 1989 until April 1991.  From 1984 to 1989, Mr. Whitfield held senior
+operating and business development positions with Technicon Instruments
+Corporation ("Technicon"), a medical instrumentation company, and its
+predecessor company, CooperBiomedical, Inc., a biotechnology and medical
+diagnostics company.  Prior to his work at Technicon, Mr. Whitfield spent seven
+years with the Boston Consulting Group's international consulting practice.
+Mr. Whitfield received a B.S. with First Class Honors in mathematics from
+Oxford University, and an M.B.A. with Distinction from Stanford University.
+
+         RANDAL W. SCOTT, PH.D., age 39, has been President of the Company
+since January 1997.  He has served as Chief Scientific Officer of the Company
+since March 1995, Secretary of the Company since April 1991, and a director
+since June 1991.  Dr. Scott served as Executive Vice President of the Company
+from March 1995 until January 1997 and Vice President, Research and Development
+of the Company from April 1991 until February 1995.  Dr. Scott was one of
+Invitron's founding scientists and was employed by Invitron from March 1985 to
+June 1991.  In 1987, Dr. Scott started the Protein Biochemistry Department at
+Invitron's California Research Division and became Senior Director of Research
+in November 1988.  Dr. Scott was responsible for developing Invitron's
+proprietary products and discovery programs and is an inventor of several of
+the Company's patents.  Prior to joining Invitron, he was a Senior Scientist at
+Unigene Laboratories, a biotechnology company.  Dr. Scott received his Ph.D. in
+Biochemistry from the University of Kansas.
+
+
+
+
+
+                                      -20-
+
+         DENISE M. GILBERT, PH.D., age 39, has been Executive Vice President,
+Chief Financial Officer and Treasurer of the Company since October 1995. From
+July 1993 to October 1995 Dr. Gilbert was Vice President and Chief Financial
+Officer of Affymax N.V., a biopharmaceutical company.  Prior to joining
+Affymax, Dr. Gilbert spent seven years as a Wall Street biotechnology analyst,
+serving as a Managing Director of Smith Barney from July 1991 to July
+1993, Vice President at NatWest Securities from July 1990 to July 1991, and 
+senior analyst at Montgomery Securities from July 1986 to July 1990. Dr. 
+Gilbert received her B.A. in Biological Sciences from Cornell University and 
+Ph.D. in Cell and Developmental Biology from Harvard University.
+
+
+
+
+
+                                      -21-
+
+                                    PART II
+
+
+ITEM 5.  MARKET FOR REGISTRANTS' COMMON EQUITY AND RELATED STOCKHOLDER MATTERS.
+
+         The Company's common stock, par value $.001 ("Common Stock"), was
+traded on the American Stock Exchange ("ASE") under the symbol "IPI" from the
+Company's initial public offering on November 4, 1993 until January 15, 1996.
+Since January 16, 1996, the Company's Common Stock has been traded on the
+Nasdaq National Market ("Nasdaq") under the symbol "INCY." The following table
+sets forth, for the periods indicated, the range of high and low sales prices
+for the Common Stock on the ASE or Nasdaq, as applicable, as reported in their
+respective consolidated transaction reporting systems.
+
+
+
+
+
+
+
+       As of March 3, 1997, the Common Stock was held by 151 stockholders of
+record.  The Company has never declared or paid dividends on its capital stock
+and does not anticipate paying any dividends in the foreseeable future.
+
+       On July 22, 1996, the Company issued 204,073 shares of Common Stock to
+the three stockholders of Genome Systems in exchange for all of the then
+outstanding shares of Genome Systems and issued an option to purchase 10,741
+shares of Common Stock in exchange for the then outstanding option to purchase
+shares of capital stock of Genome Systems in reliance upon Section 4(2) of the
+Securities Act of 1933 (the "Securities Act").  The option is exercisable at a
+purchase price of $0.0466 per share (subject to adjustment) for six months
+beyond the life of the optionee, subject to earlier termination in specified
+circumstances.
+
+       On August 15, 1996, the Company issued 73,171 shares of Common Stock to
+the stockholders of Combion in exchange for all of the then outstanding shares
+of Combion in reliance upon Section 3(a)(10) of the Securities Act.  The terms
+and conditions of such issuance and exchange were approved, after a hearing
+upon the fairness of such terms and conditions, at which all persons to whom it
+was proposed to issue securities in such exchange had the right to appear, by
+the California Department of Corporations on August 15, 1996.
+
+
+
+
+
+                                      -22-
+
+ITEM 6.       SELECTED CONSOLIDATED FINANCIAL DATA.
+
+       The data set forth below should be read in conjunction with
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations" and the Consolidated Financial Statements and related Notes
+included as Items 7 and 8 in this Report.
+
+
+
+
+
+
+
+
+
+1  Restated to reflect combined results and financial position of Incyte and
+Genome Systems.
+
+
+
+
+
+                                      -23-
+
+ITEM 7.       MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+              RESULTS OF OPERATIONS.
+
+
+       The following discussion and analysis of the Company's financial
+condition and results of operations should be read in conjunction with
+"Selected Consolidated Financial Data" and the Consolidated Financial
+Statements and related Notes included in Items 6 and 8 in this Report.
+
+       When used in this discussion, the word "expects" and similar expressions
+are intended to identify forward-looking statements.  Such statements, which
+include statements as to the expected achievement of profitability, expenditure
+levels and the adequacy of capital resources, are subject to risks and
+uncertainties that could cause actual results to differ materially from those
+projected.  These risks and uncertainties include, but are not limited to,
+those risks discussed below as well as the ability of the Company to obtain and
+retain customers; competition from other entities; the cost of accessing
+technologies developed by other companies; and uncertainty as to the scope of
+coverage, enforceability or commercial protection from patents that issue on
+gene sequences and other genetic information, as well as those risks set forth
+in Item 1 under the caption "Business -- Factors That May Affect Results."
+These forward-looking statements speak only as of the date hereof.  The Company
+expressly disclaims any obligation or undertaking to release publicly any
+updates or revisions to any forward- looking statements contained herein to
+reflect any change in the Company's expectations with regard thereto or any
+change in events, conditions or circumstances on which any such statement is
+based.
+
+
+OVERVIEW
+
+       Incyte Pharmaceuticals, Inc. (the "Company") designs, develops and
+markets genomic database products, software tools and genomic reagents and
+services.  The Company's database products and services integrate
+bioinformatics software with both proprietary and, when appropriate, publicly
+available genetic information to create information-based tools marketed on a
+non-exclusive basis to the pharmaceutical and biotechnology industry for use in
+drug discovery and development.  In building its genomic databases, the Company
+utilizes high-throughput, computer-aided gene sequencing and analysis
+technologies to identify and characterize the expressed genes of the human
+genome as well as certain animal, plant and microbial genomes.  Seven new
+database collaborators were added in 1996, and through March 3, 1997 two
+additional partners had been added, to bring the total number of database
+collaborators to fourteen.
+
+       In July 1996, the Company issued shares of its Common Stock in exchange
+for all of the outstanding shares of Genome Systems, Inc.  ("Genome Systems"),
+a genomics service company in St. Louis, Missouri.  The transaction has been
+accounted for as a pooling of interests, and the consolidated financial
+statements discussed herein and all historical financial information have been
+restated to reflect the combined operations of both companies.  Genome Systems
+has retained its name and operations, and continues to offer a range of genomic
+screening products and services used by scientists to assist in the
+identification and isolation of novel genes.
+
+       In August 1996, the Company acquired for stock Combion, Inc.
+("Combion"), a microarray technology company located in Pasadena, California.
+The acquisition of Combion has been accounted for as a purchase, and the
+consolidated financial statements discussed herein include the results of
+Combion from the date of acquisition, August 15, 1996, forward.  Combion
+contributed staff, advisors and intellectual property which now form the core
+of the Company's microarray technology development group.
+
+
+
+
+
+                                      -24-
+
+       Revenues recognized by the Company are predominately non-exclusive
+database access fees.  Revenues also include fees for custom or "satellite"
+database services and sales of genomic screening products and services.  The
+Company's database agreements also provide for future milestone payments and
+royalties from the sale of products derived from proprietary information
+obtained through the databases. There can be no assurance that any database
+collaborators will ever generate products from information contained within the
+databases and thus that the Company will ever receive milestone payments or
+royalties.  In addition, there can be no assurance that any of the Company's
+database agreements will be renewed upon expiration, typically after a term of
+three years, or will not be terminated earlier if the Company breaches any
+material provision of the database agreement.
+
+       The Company has incurred annual operating losses since inception.  While
+the Company reported a slight profit in the fourth quarter of 1996, there can
+be no assurance that the Company can maintain profitability.  There can be no
+assurance that the Company will be able to sustain significant annual revenues
+by obtaining new customers and retaining existing customers for the Company's
+databases and genomics products and services, or that given the significant
+investment in new product development, marketing, sales and customer service
+currently planned by the Company in 1997 and beyond, the revenue generated will
+be adequate to fund operating expenses.  In particular, the Company's first two
+database collaboration agreements expire at the end of 1997 and it is not known
+if either of these will be renewed, and if renewed, under what terms.  The loss
+of any database collaborator could have a material adverse effect on the
+Company's business, financial condition and results of operations.
+
+       The Company's operating results may fluctuate significantly from quarter
+to quarter as a result of a variety of factors, including changes in the demand
+for the Company's products and services, the pricing of database access to
+database collaborators, and the introduction of competitive databases or
+services by others. In particular, the Company has a limited ability to control
+the timing of database installations due to the lengthy sales cycle required
+for the Company's database products, the time required to complete custom
+orders can vary significantly and the growing investment in external
+collaborations could result in significant quarterly fluctuations in expenses
+due to the payment of milestones, license fees, or research payments.  The need
+for continued investment in development of the Company's databases and related
+products and services and for extensive ongoing customer support capabilities
+results in significant fixed expenses.  If revenue in a particular period does
+not meet expectations, the Company would not be able to adjust significantly
+its level of expenditures in such period, which would have an adverse effect on
+the Company's operating results.  The Company believes that quarterly
+comparisons of its financial results will not necessarily be meaningful and
+should not be relied upon as an indication of future performance.
+
+       The two acquisitions completed in 1996, Genome Systems and Combion, are
+accompanied by risks commonly encountered in acquisitions of companies.  Such
+risks include, among other things, fluctuations in the Company's quarterly and
+annual operating results due to the costs and expenses of acquiring and
+integrating new businesses or technologies, the difficulty and expense of
+assimilating the operations and personnel of the acquired businesses, the
+potential disruption of the Company's ongoing business and diversion of
+management time and attention, the inability to successfully integrate or to
+complete the development and application of acquired technology and the
+potential failure to achieve anticipated financial, operating and strategic
+benefits from such acquisitions and difficulties in establishing and
+maintaining uniform standards, controls, procedures and policies.
+
+       See "Business -- Factors That May Affect Results" in Item 1 for a
+discussion of additional factors that could affect the Company's results of
+operations.
+
+
+
+
+
+                                      -25-
+
+RESULTS OF OPERATIONS
+
+       Since inception, the Company has incurred annual operating losses and as
+of December 31, 1996, had an accumulated deficit of $36.5 million.  The Company
+incurred a net loss for the year ended December 31, 1996 of $6.8 million,
+compared to a loss of $9.9 million and $11.5 million for the same periods in
+1995 and 1994, respectively.  On a per share basis, the losses for the years
+ended December 31, 1996, 1995 and 1994 were $0.67, $1.19 and $1.63,
+respectively.  The sequential decrease in net loss per share is due in part to
+the decrease in net loss and in part due to the increase in the number of
+shares used to calculate net loss per share from year to year.  In November
+1995 the Company completed a follow-on public offering of 1.8 million shares
+and in 1996 the Company issued a total of 277,244 shares in connection with its
+business combinations with Genome Systems and Combion.
+
+       Revenues. Total revenues were $41.8 million in 1996, $12.2 million in
+1995 and $1.5 million in 1994. The Company records revenue from collaborators
+upon database installation and thus, although the Company had twelve database
+agreements at the end of 1996, revenues were earned from only ten in 1996,
+compared to five in 1995.  Genome Systems contributed $3.1 million, $2.3
+million and $1.3 million in 1996, 1995 and 1994, respectively.  The Company
+recognizes revenue from these agreements evenly over the terms of the
+agreements.  Revenue is deferred for fees received before earned.  Revenues for
+reagents and genomic screening products are recognized when shipped and
+revenues for genomic screening services are recognized upon completion.
+
+       Expenses.  Total costs and expenses were $50.8 million in 1996, compared
+to $23.1 million in 1995 and $13.5 million in 1994.  Total costs and expenses
+for 1996 include a one-time charge of $3.2 million for the purchase of
+in-process research and development related to the acquisition of Combion.
+Total costs and expenses are expected to continue to increase in the
+foreseeable future due to continued investment in new product development and
+data production, obligations under existing and future collaborative alliances,
+and increased investment in marketing, sales, and customer services.  The
+magnitude of the Company's operating expenses will largely be a function of the
+Company's ability to secure new collaborators for its database products and
+services.  However, if the Company does not obtain additional collaborators in
+a timely manner, it may not be able to adjust significantly its level of
+expenditures in any such period, which could have an adverse effect on the
+Company's operating results.
+
+       Research and development expenses increased to $40.9 million in 1996
+from $19.2 million in 1995 and $11.2 million in 1994.  Increases in expenses
+from 1995 to 1996 were primarily due to increases in sequencing production
+levels, new product development, and increased investment in new technologies
+through alliances.  Increases in expenses from 1994 to 1995 were predominantly
+associated with expanded sequencing production, software and database
+development, sequencing technology assessment, and intellectual property
+protection.  The Company expects research and development spending to increase
+over the next few years as the Company broadens its gene sequence production
+operations, pursues the development of new database products and services,
+invests in new technologies, and invests in the continued protection of its
+intellectual property.
+
+       Selling, general, and administrative expenses were $6.8 million in 1996,
+compared to $3.9 million in 1995 and $2.3 million in 1994.  The increase from
+1995 to 1996 was due primarily to growth in marketing, sales, and customer
+services as well as growth in general management and corporate services.  The
+increase from 1994 to 1995 was due primarily to the recruitment of new database
+collaborators, particularly with respect to increased marketing and business
+development expenses, and the continued expansion of the company's sequencing
+production and data analysis capabilities.  The Company expects that selling,
+general and administrative expenses will increase in 1997 due to continued
+growth in marketing, sales, and customer support, as well as expanding
+operations.
+
+
+
+
+
+                                      -26-
+
+       Interest Income, Net.  Interest income increased to $2.5 million in 1996
+from $1.2 million in 1995 and $0.7 million in 1994.  Interest income in 1996
+was earned on generally larger cash balances during the year due to the
+Company's November 1995 follow-on stock offering and increased revenues from
+database collaborators.  Interest income in 1995 was earned on larger cash
+balances held by the Company primarily as a result of the full-year impact of
+equity investments by Pfizer Inc and Pharmacia & Upjohn, Inc. in July and
+December 1994, respectively, higher interest rates, payments for database
+access, and the proceeds of a follow on public stock offering completed in late
+1995.  Interest and other expense, net, was relatively unchanged at $0.2
+million in 1996, 1995, and 1994.
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+       As of December 31, 1996, the Company had $38.2 million in cash, cash
+equivalents and marketable securities, compared to $41.2 million as of December
+31, 1995.  This decrease was primarily due to investments in capital equipment
+and facilities during 1996, largely offset by cash provided by operations.  The
+Company has classified all of its investments as short-term at December 31,
+1996, as the Company may not hold its investments until maturity in order to
+take advantage of favorable market conditions.  Available cash is invested in
+accordance with the Company's investment policy's primary objectives of
+liquidity, safety of principal, and diversity of investments.
+
+       Net cash provided by operating activities was $16.0 million in 1996,
+compared to net cash used in operating activities of $8.8 million in 1995 and
+$6.1 million in 1994.  Net cash provided by operating activities in 1996
+resulted from increases in deferred revenue and accounts payable and decreases
+in the net loss and accounts receivable as compared to 1995.  Cash used in
+operating activities in 1995 was due to an increase in accounts receivable,
+offset in part by an increase in deferred revenues as compared to 1994.  Net
+cash generated by operating activities may fluctuate significantly from period
+to period due to the timing of large prepayments by database collaborators.
+
+       The Company's investing activities, other than purchases and maturities
+of short-term investments, have consisted of capital expenditures, which
+totaled $20.2 million in 1996, $8.0 million in 1995, and $3.0 million in 1994.
+Capital expenditures increased in 1996, primarily due to investments in
+computer equipment and laboratory equipment as well as leasehold improvements
+related to the expansion of the Company's facilities.  Capital expenditures in
+1995 were primarily due to leasehold improvements in the Company's new
+facilities and the purchases of new gene sequencing equipment and workstations
+required in conjunction with the Company's expanded production and software
+capabilities.
+
+       Net cash provided by financing activities decreased to $1.5 million in
+1996 from $32.8 million in 1995 and $18.8 million in 1994.  Net cash provided
+by financing activities in 1996 is due to issuances of Common Stock upon
+exercise of stock options, while net cash provided by financing activities in
+1995 is primarily from the net proceeds of the November 1995 public offering.
+Net cash provided by financing activities in 1994 reflects primarily the $19.4
+million in net proceeds from the sales of Common Stock to Pfizer Inc and
+Pharmacia & Upjohn, Inc., partially offset by principal payments on capital
+lease obligations.
+
+       The Company expects its cash requirements to increase in 1997 as it
+increases its investment in data-processing-related computer hardware in order
+to support its existing and new database products, continues to seek access to
+technologies through alliances, license agreements and/or acquisitions, and
+addresses its needs for larger facilities and/or improvements in existing
+facilities.  The Company expects to continue to fund future operations with
+revenues from genomic database products and services in addition to using its
+current cash, cash equivalents, and investments when necessary.  The Company
+
+
+
+
+
+                                      -27-
+
+expects these resources will satisfy the Company's projected working capital
+and capital expenditure requirements at least through 1997.  However, the
+Company can offer no assurance that the Company will be able to obtain
+additional collaborators for the Company's databases or that such database
+products and services will produce revenues, which together with the Company's
+cash, cash equivalents, and marketable securities, will be adequate to fund the
+Company's operating expenses.  The Company's cash requirements depend on
+numerous factors, including the ability of the Company to attract and retain
+collaborators for its databases and genomic products and services; the
+Company's research and development activities; competing technological and
+market developments; the cost of filing, prosecuting, defending, and enforcing
+patent claims and other intellectual property rights; the purchase of
+additional capital equipment, including capital equipment necessary to insure
+that the Company's sequencing operation remains competitive; and the costs
+associated with the integration of new operations assumed through mergers and
+acquisitions.  There can be no assurance that additional funding, if necessary,
+will be available on favorable terms, if at all.
+
+
+
+
+
+                                      -28-
+
+           ITEM 8.       FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+
+
+                   INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                                        
+
+
+
+
+
+
+                                      -29-
+
+               REPORT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+
+
+
+The Board of Directors and Stockholders of Incyte Pharmaceuticals, Inc.
+
+We have audited the accompanying consolidated balance sheets of Incyte
+Pharmaceuticals, Inc., as of December 31, 1996 and 1995, and the related
+consolidated statements of operations, stockholders' equity, and cash flows for
+each of the three years in the period ended December 31, 1996.  These financial
+statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of
+material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the consolidated financial position of Incyte
+Pharmaceuticals, Inc., at December 31, 1996 and 1995, and the consolidated
+results of its operations and its cash flows for each of the three years in the
+period ended December 31, 1996, in conformity with generally accepted
+accounting principles.
+
+
+                                                               ERNST & YOUNG LLP
+
+
+Palo Alto, California
+February 7, 1997
+
+
+
+
+
+                                      -30-
+
+                          CONSOLIDATED BALANCE SHEETS
+
+
+                                                                         
+
+
+See accompanying Notes.
+
+
+
+
+
+                                      -31-
+
+                     CONSOLIDATED STATEMENTS OF OPERATIONS
+
+
+
+
+
+See accompanying notes.
+
+
+
+
+
+                                      -32-
+
+                 CONSOLIDATED STATEMENT OF STOCKHOLDERS' EQUITY
+
+                                                                       
+
+
+
+See accompanying Notes
+
+
+
+
+
+                                      -33-
+
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+
+
+See accompanying Notes.
+
+
+
+
+
+                                      -34-
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+NOTE 1.       ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Organization and Business.  Incyte Pharmaceuticals, Inc. (the "Company") was
+incorporated in Delaware in April 1991.  The Company designs, develops, and
+markets genomic databases, software tools, and related genomic reagents and
+services.  The Company's databases, available singly or in combination,
+integrate bioinformatics software with both proprietary and, when appropriate,
+publicly available genetic information.  Non-exclusive access to the Company's
+databases is offered to pharmaceutical and biotechnology companies worldwide
+for use in the discovery and development of diagnostic and therapeutic
+products.
+
+Principles of Consolidation.  The consolidated financial statements include the
+accounts of Incyte Pharmaceuticals, Inc., and its wholly owned subsidiaries.
+All material intercompany accounts, transactions, and profits have been
+eliminated in consolidation.
+
+Use of Estimates.  The preparation of financial statements in conformity with
+generally accepted accounting principles requires management to make estimates
+and assumptions that affect the amounts reported in the financial statements
+and accompanying notes.  Actual results could differ from those estimates.
+
+Concentrations of Credit Risk.  Cash, cash equivalents, and short-term
+investments and trade receivables are financial instruments which potentially
+subject the Company to concentrations of credit risk.  The estimated fair value
+of financial instruments approximates the carrying value based on available
+market information.  The Company primarily invests its excess available funds
+in notes and bills issued by the U.S.  government and its agencies and, by
+policy, limits the amount of credit exposure to any one issuer and to any one
+type of investment, other than securities issued or guaranteed by the U.S.
+Government.  The Company has not experienced any credit losses to date and does
+not require collateral on receivables.
+
+Cash and Cash Equivalents.  Cash and cash equivalents are held in U.S. banks or
+in custodial accounts with U.S. banks.  Cash equivalents are defined as all
+liquid investments with maturity from date of purchase of 90 days or less that
+are readily convertible into cash and have insignificant interest rate risk.
+All other investments are reported as short-term investments.
+
+Marketable Securities Available-for-Sale.  All marketable securities are
+classified as available-for-sale.  Available-for-sale securities are carried at
+fair value, with unrealized gains and losses reported as a separate component
+of stockholders' equity.  The amortized cost of debt securities in this
+category is adjusted for amortization of premiums and accretions of discounts
+to maturity.  Such amortization is included in interest income.  Realized gains
+and losses and declines in value judged to be other than temporary for
+available-for-sale securities are included in interest and other income.
+
+
+
+
+
+                                      -35-
+
+The following is a summary of the Company's investment portfolio, including
+cash equivalents of $398,000 and $2,173,000 as of December 31, 1996 and 1995,
+respectively:
+
+
+
+All marketable securities -- available-for-sale mature within two years.  At
+December 31, 1996 and 1995, all of the Company's investments are classified as
+short-term, as the Company may not hold its investments until maturity in order
+to take advantage of market conditions.  Of the marketable securities held at
+December 31, 1996, $23,148,000 had maturities under a year and $7,872,000 had
+maturities over a year.  Unrealized gains were not material and have therefore
+been netted against unrealized losses.
+
+Property and Equipment.  Property and equipment is stated at cost, less
+accumulated depreciation and amortization.  Depreciation is provided using the
+straight-line method over the estimated useful lives of the respective assets
+(generally two to five years).  Leasehold improvements are amortized over the
+shorter of estimated useful life of the assets or lease term.  Property and
+equipment consists of the following:
+
+
+
+Depreciation expense was $5,230,000, $2,154,000, and $723,000 for 1996, 1995,
+and 1994, respectively.  Amortization was $1,061,000, $266,000, and $103,000
+for 1996, 1995, and 1994, respectively.
+
+Certain laboratory and computer equipment used by the Company could be subject
+to technological obsolescence in the event that significant advancement is made
+in competing or developing equipment technologies.  Management continually
+reviews the estimated useful lives of technologically sensitive equipment and
+believes that those estimates appropriately reflect the current useful life of
+its assets.  In the event that a currently unknown significantly advanced
+technology became commercially available, the Company would re-evaluate the
+value and estimated useful lives of its existing equipment, possibly requiring
+a material effect to the financial statements.
+
+Software Costs.  In accordance with the provisions of the Financial Accounting
+Standards Board Statement No. 86, "Accounting for the Costs of Computer
+Software to be Sold, Leased or Otherwise Marketed," the Company has capitalized
+software development costs incurred in developing certain products once
+technological feasibility of the products has been determined.  Capitalized
+software costs are amortized over three years and have been immaterial to date.
+
+
+
+
+
+                                      -36-
+
+Stock-Based Compensation.  The Company accounts for stock option grants in
+accordance with APB Opinion No. 25, "Accounting for Stock Issued to Employees."
+The Company currently grants stock options for a fixed number of shares to
+employees and directors with an exercise price equal to the fair value of the
+shares at the date of grant, and therefore records no compensation expense.
+
+Revenue Recognition.  The Company recognizes revenue for database collaboration
+agreements evenly over the term of the agreement.  Revenue is deferred for fees
+received before earned.  Revenues from custom orders, such as satellite
+databases, are recognized upon shipment.  Revenues from reagents and genomic
+screening products are recognized when shipped, and revenues from genomic
+screening services are recognized upon completion.
+
+Businesses Acquired.  In July 1996, the Company issued 204,073 shares of its
+Common Stock in exchange for all of the outstanding shares of Genome Systems,
+Inc. ("Genome Systems"), a privately held genomics service company in St.
+Louis, Missouri.  The transaction has been accounted for as a pooling of
+interests, and the consolidated financial statements discussed herein and all
+historical financial information have been restated to reflect the combined
+operations of both companies.  Genome Systems has retained its name and
+operations, continuing to offer a range of customized genomic screening
+products and services used by scientists to assist in the identification and
+isolation of novel genes.
+
+In August 1996, the Company acquired Combion, Inc. ("Combion"), a privately
+held microarray technology company located in Pasadena, California, for 73,171
+shares of the Company's Common Stock.  The acquisition of Combion has been
+accounted for as a purchase, and the consolidated financial statements
+discussed herein reflect the inclusion of the results of Combion from the date
+of acquisition, August 15, 1996.
+
+See Note 6 of Notes to Consolidated Financial Statements.
+
+Net Loss Per Share.  Net loss per share is computed using the weighted average
+number of shares of Common Stock outstanding.  Common equivalent shares from
+stock options and warrants are excluded from the computation, as their effect
+is antidilutive.
+
+
+NOTE 2.          COLLABORATIVE AGREEMENTS
+
+As of December 31, 1996, the Company had entered into database collaboration
+agreements with eleven pharmaceutical companies and one agricultural company.
+Each collaborator has agreed to pay, during the term of the agreement, annual
+fees to receive non-exclusive access to selected modules of the Company's
+databases.  In addition, if a partner develops certain products utilizing the
+Company's technology and database information, potential milestone and royalty
+payments could be received by the Company.  If these agreements are not renewed
+and if the Company cannot sign a sufficient number of new database agreements,
+the loss of revenue could have a material adverse effect on the Company's
+business and operating results.  Certain companies also have satellite database
+agreements, whereby the Company provides custom sequencing services, which are
+billed for separately.  Satellite database services are provided to the
+customer on an exclusive basis for a negotiated period of time.  Over 90% of
+the revenues in 1996 are derived from ten collaborators, three of which
+individually contributed more than 10% of the total, or approximately 37% in
+the aggregate.  In 1995, the majority of the revenues were derived from five
+collaborators, including three of which contributed more than 10% individually,
+or approximately 73% in the aggregate.  In 1994, the Company recognized its
+first database collaboration revenues, primarily from one collaborator, which
+contributed more than 10% of the total.
+
+In addition to the database collaboration agreements, the Company has entered
+into a number of research and development alliances with companies and research
+institutions.  These agreements provide for the funding of research activities
+by the Company and the possible payment of milestones, license fees, and, in
+some cases, royalties.
+
+
+NOTE 3.          COMMITMENTS
+
+At December 31, 1996, the Company had signed noncancelable operating leases on
+multiple facilities, including facilities in Palo Alto and Pasadena,
+California, and St. Louis, Missouri.  The leases expire on various dates
+ranging from September 1997 to August 2006.  Rent expenses for the years ended
+December 31, 1996, 1995, and 1994 were approximately $1,645,000, $1,251,000,
+and $443,000, respectively.
+
+
+
+
+
+                                      -37-
+
+ The Company had laboratory equipment with a cost of approximately $370,000 at
+December 31, 1996 and 1995, and related accumulated amortization of
+approximately $268,000 and $194,000 at December 31, 1996 and 1995,
+respectively, under capital leases.  These leases are secured by the equipment
+leased thereunder.
+
+At December 31, 1996, future noncancelable minimum payments under the operating
+and capital leases were as follows:
+
+                                                                               
+
+
+The Company has entered into a number of research and development alliances
+with companies and research institutions.  The Company's commitments under any
+one of these agreements do not represent a significant expenditure in relation
+to the Company's total research and development expense.  See Note 2 of Notes
+to Consolidated Financial Statements.
+
+
+NOTE 4.          STOCKHOLDERS' EQUITY
+
+Common Stock.  At December 31, 1996, the Company had reserved a total of
+1,917,315 shares of its Common Stock for issuance upon exercise of outstanding
+warrants and stock options described below.
+
+Sales of Stock.  In November 1995, the Company completed a follow-on public
+stock offering and issued 1,837,000 shares of Common Stock, including 137,000
+shares issued on December 13, 1995 upon partial exercise of the underwriters'
+over-allotment option, at $19.00 per share before deducting the underwriting
+discount and offering expenses.
+
+Warrants.  As of December 31, 1996, the Company had outstanding a warrant to
+purchase 8,868 shares of Common Stock at an exercise price of $10.50 per share.
+The warrant was exercised in January 1997.
+
+Stock Compensation Plans.  The Company applies APB Opinion No. 25 and related
+Interpretations in accounting for its stock compensation plans.  Accordingly,
+no compensation cost has been recognized for its fixed stock option plans.  Had
+compensation cost for the Company's two stock-based compensation plans been
+determined consistent with FASB Statement No. 123, the Company's pro forma net
+loss and loss per share in 1996 and 1995 would have been increased to
+approximately $10.5 million and $10.6 million, or $1.03 per share and $1.27 per
+share, respectively.  The fair value of the options granted during 1996 and
+1995 are estimated at $18.88 and $8.68 per share, respectively, on the date of
+grant, using the Black-Scholes multiple-option pricing model with the following
+assumptions: dividend yield 0%, volatility of 55%, risk-free interest rate with
+an average of 6.10% and 6.68% for 1996 and 1995, respectively, and an average
+expected life of 3.25 years.
+
+The effects on pro forma disclosures of applying FASB 123 are not likely to be
+representative of the effects on pro forma disclosures of future years.  As
+FASB 123 is only applicable to options granted after December 31, 1994, the pro
+forma effect will not be fully reflected until 1998.
+
+
+
+
+
+                                      -38-
+
+The Black-Scholes option valuation model was developed for use in estimating
+the fair value of traded options which have no vesting restrictions and are
+fully transferable.  In addition, option valuation models require the input of
+highly subjective assumptions, including the expected stock price volatility
+and option life.  Because the Company's employee stock options have
+characteristics significantly different from those of traded options, because
+changes in the subjective input assumptions can materially affect the fair
+value estimate, and because the Company has a relatively limited history with
+option behavior, in management's opinion the existing models do not necessarily
+provide a reliable single measure of the fair value of its employee stock
+options.
+
+Summaries of stock option activity for the Company's two fixed stock option
+plans as of December 31, 1995 and 1996, and related information for the years
+ended December 31 are included in the plan descriptions below.
+
+1991 Stock Plan.  In November 1991, the Board of Directors adopted the 1991
+Stock Plan, which was amended and restated in 1992, 1995, and 1996, for
+issuance of Common Stock to employees, consultants, and scientific advisors.
+Options issued under the plan shall, at the discretion of the compensation
+committee of the Board of Directors, be either incentive stock options or
+nonstatutory stock options.  The exercise prices of incentive stock options
+granted under the plan are not less than the fair market value on the date of
+the grant, as determined by the Board of Directors.  Options generally vest
+over approximately four years, pursuant to a formula determined by the
+Company's Board of Directors, and expire after ten years.  At December 31,
+1996, the Company had reserved 2,000,000 shares of Common Stock for issuance
+under the plan.
+
+Activity under the plan was as follows:
+                                                                            
+
+
+Options to purchase a total of 1,457,298 and 1,161,137 shares at December 31,
+1996 and 1995, respectively, were exercisable.  Of the shares exercisable,
+401,502 and 300,064 shares were vested at December 31, 1996 and 1995,
+respectively.
+
+Non-Employee Directors' Stock Option Plan.  In August 1993, the Board of
+Directors approved the 1993 Directors' Stock Option Plan (the "Directors'
+Plan"), which was amended in 1995.  The Directors' Plan provides for the
+automatic grant of options to purchase shares of Common Stock to non-employee
+directors of the Company.  The maximum number of shares issuable under the
+Directors' Plan is 200,000.
+
+The Directors' Plan provides immediate issuance of options to purchase an
+initial 20,000 shares of Common Stock to each new non-employee director joining
+the Board.  The initial options are exercisable in five equal annual
+installments.  Additionally, members who continue to serve on the Board will
+receive annual option grants for 5,000 shares exercisable in full on the first
+anniversary of the date of the grant.  All options are exercisable at the fair
+market value of the stock on the date of grant.  Through December 31, 1996,
+
+
+
+
+
+                                      -39-
+
+the Company had granted options under the Directors' Plan to purchase 113,750
+shares of Common Stock at exercise prices ranging from $4.00 per share to
+$34.625 per share (98,750 shares of Common Stock at exercise prices ranging
+from $4.00 per share to $15.13 per share at December 31, 1995); 70,750 shares
+are vested and exercisable at December 31, 1996 (43,750 shares were vested and
+exercisable at December 31, 1995).
+
+The following table summarizes information about stock options outstanding at
+December 31, 1996, for both the 1991 Stock Plan and the 1993 Directors' Stock
+Option Plan.
+
+
+
+In July 1996, in connection with the Genome Systems transaction described in 
+Note 6 below, the Company issued, in exchange for an option to purchase 
+capital stock of Genome Systems, an option to purchase 10,741 shares of Common
+Stock at an exercise price of $0.0466 per share. The option was not issued 
+under the provisions of either plan described above.  The option has been 
+exercised with respect to 5,370 shares as of December 31, 1996.
+
+NOTE 5.  INCOME TAXES
+
+As of December 31, 1996, the Company had federal net operating loss
+carryforwards of approximately $29,800,000.  The net operating loss
+carryforwards will expire at various dates, beginning on 2006, through 2011 if
+not utilized.
+
+Significant components of the Company's deferred tax assets are as follows:
+
+
+
+The valuation allowance for deferred tax assets increased by approximately $4.1
+million during the year ended December 31, 1995.
+
+Utilization of the net operating losses and credits may be subject to an annual
+limitation, due to the ownership change limitations provided by the Internal
+Revenue Code of 1986.
+
+
+NOTE 6.          BUSINESS COMBINATIONS
+
+In July 1996, the Company issued 204,073 shares of Common Stock in exchange for
+all of the capital stock of Genome Systems, a privately held genomics
+company in St. Louis, Missouri.  Genome Systems provides genomic research
+products and technical support services to scientists to assist them in the
+identification and isolation of novel genes.  The merger has been accounted for
+as a pooling of interests and, accordingly, the Company's financial statements
+and financial data have been restated to include the accounts and operations of
+Genome Systems since inception.
+
+
+
+
+
+                                      -40-
+
+The table below presents the separate results of operations for Incyte and
+Genome Systems for the periods prior to the merger.  Incyte's results of
+operations include Genome Systems since the transaction:
+
+
+
+
+In August 1996, the Company acquired all the common stock of Combion, Inc., a
+microarray technology company in Pasadena, California, in a stock-for-stock
+exchange, issuing 73,171 shares of its Common Stock valued at $3 million.  The
+acquisition has been accounted for as a purchase transaction and, accordingly,
+the purchase price was allocated to assets and liabilities based on the
+estimated fair value as of the date of acquisition.  The excess of the
+consideration paid over the estimated fair value of net assets acquired has
+been recorded as the purchase of in-process research and development.
+Combion's results of operations have been included in the consolidated results
+of operations since the date of acquisition.  Pro forma results of operations
+have not been presented because the effect of this acquisition was not material
+to the Company's consolidated results of operations or financial position.
+
+
+
+
+
+                                      -41-
+
+ITEM 9.       CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+              FINANCIAL DISCLOSURE.
+
+       Not applicable.
+
+
+
+
+                                    PART III
+
+
+ITEM 10.      DIRECTORS AND EXECUTIVE OFFICERS.
+
+       The information required by this item (with respect to Directors) is
+incorporated by reference from the information under the caption "Election of
+Directors" contained in the Company's Proxy Statement to be filed with the
+Securities and Exchange Commission in connection with the solicitation of
+proxies for the Company's 1997 Annual Meeting of Stockholders to be held on May
+21, 1997 (the "Proxy Statement").
+
+       The required information concerning Executive Officers of the Company is
+contained in Part I of this Form 10-K.
+
+
+ITEM 11.      EXECUTIVE COMPENSATION.
+
+       The information required by this item is incorporated by reference from
+the information under the captions "Election of Directors--Compensation of
+Directors," "Executive Compensation," and "Report of the Compensation Committee
+of the Board of Directors on Executive Compensation--Compensation Committee
+Interlocks and Insider Participation" contained in the Proxy Statement.
+
+
+ITEM 12.      SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+
+       The information required by this item is incorporated by reference from
+the information under the caption "Security Ownership of Certain Beneficial
+Owners and Management" contained in the Proxy Statement.
+
+
+ITEM 13.      CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+       The information required by this item is incorporated by reference from
+the information contained under the caption "Certain Transactions" contained in
+the Proxy Statement.
+
+
+
+
+
+                                      -42-
+
+                                    PART IV
+
+
+ITEM 14.    EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K.
+
+       (a)  DOCUMENTS FILED AS PART OF THIS REPORT:
+
+            (1)     Financial Statements
+
+       Reference is made to the Index to Consolidated Financial Statements 
+under Item 8 of Part II hereof.
+
+            (2)     Financial Statement Schedules
+
+       All financial statement schedules have been omitted because they are not
+applicable or not required or because the information is included elsewhere in
+the Consolidated Financial Statements or the Notes thereto.
+
+            (3)     Exhibits
+
+       See Item 14(c) below.  Each management contract or compensatory plan or
+arrangement required to be filed has been identified.
+
+       (b)  REPORTS ON FORM 8-K.
+
+       There were no reports on Form 8-K filed by the Company during the
+quarter ended December 31, 1996.
+
+       (c)  EXHIBITS
+
+                                                                         
+
+
+
+
+
+
+                                      -43-
+
+                                                                         
+
+
+
+
+
+
+                                      -44-
+
+                                                                         
+
+
+_________
++     Confidential treatment has been granted with respect to certain portions
+of these agreements.
+#     Indicates management contract or compensatory plan or arrangement.
+
+
+          (D)   FINANCIAL STATEMENT SCHEDULES
+
+          Not applicable.
+
+
+
+
+
+                                      -45-
+
+                                   SIGNATURES
+
+          Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Company has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                                                          
+
+
+                               POWER OF ATTORNEY
+
+  KNOW ALL MEN BY THESE PRESENTS, that each person whose signature appears
+below constitutes and appoints Roy A. Whitfield, Randal W. Scott, and Denise M.
+Gilbert, and each of them, his or her true and lawful attorneys-in-fact, each
+with full power of substitution, for him or her in any and all capacities, to
+sign any amendments to this report on Form 10-K and to file the same, with
+exhibits thereto and other documents in connection therewith, with the
+Securities and Exchange Commission, hereby ratifying and confirming all that
+each of said attorneys-in-fact or their substitute or substitutes may do or
+cause to be done by virtue hereof.
+
+  Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+
+
+
+
+
+
+                                      -46-
+
+
+
+
+
+
+
+                                      -47-
+
+                                 EXHIBIT INDEX
+
+                                                                                
+
+
+
+
+
+
+                                      -48-
+
+                                                                           
+
+
+_________
++     Confidential treatment has been granted with respect to certain portions
+of these agreements.
+
+
+
+
+
+                                      -49-
+

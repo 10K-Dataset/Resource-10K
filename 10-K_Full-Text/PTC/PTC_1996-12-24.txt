@@ -1,0 +1,769 @@
+
+10-K
+FORM 10-K
+
+
+
+ 
+                      SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C.  20549
+
+                                   FORM 10-K
+                ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                      THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+                       ---------------------------------
+             (Exact name of registrant as specified in its charter)
+             ------------------------------------------------------
+
+     MASSACHUSETTS                                       04-2866152
+ ----------------------               ---------------------------------------
+(State or other jurisdiction of       (I.R.S. Employer Identification Number)
+incorporation or organization)
+
+                    128 TECHNOLOGY DRIVE, WALTHAM, MA  02154
+                    ----------------------------------------
+          (Address of principal executive offices, including zip code)
+
+                               (617) 398-5000
+                       -------------------------------    
+              (Registrant's telephone number, including area code)
+
+Securities registered pursuant to      Securities registered pursuant
+Section 12(b) of the Act:              Section 12(g) of the Act:
+
+             None                      COMMON STOCK, $.01 PAR VALUE PER SHARE
+                                       --------------------------------------
+                                                 (Title of Class)
+                                                 ----------------
+
+          Indicate by check mark whether the registrant has (i) filed all
+reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports) and (ii) has been subject to such
+filing requirements for the past 90 days.
+
+                   YES          X              NO __________
+                       -------------------                  
+
+          Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein and will not be contained, to
+the best of the registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K, or any
+amendment to this Form 10-K.  [X]
+
+          The aggregate market value of the voting stock held by nonaffiliates
+of the registrant as of October 31, 1996 was $5,404,022,974.
+
+          Indicate the number of shares outstanding of each of the registrant's
+classes of common stock, as of the latest practicable date.
+
+     Common Stock, $.01 par value per share             127,462,608
+     --------------------------------------          ------------------
+                    Class                      Outstanding at October 31, 1996
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+          Portions of the Annual Report to Stockholders for the fiscal year
+ended September 30, 1996 are incorporated by reference into Parts I and II.
+
+           Portions of the definitive Proxy Statement in connection with the
+Annual Meeting of Stockholders to be held February 13, 1997 are incorporated
+by reference into Part III.
+
+
+ 
+                   Important Factors Regarding Future Results
+
+Information provided by the Company, including information contained in this
+Annual Report on Form 10-K, or by its spokespersons from time to time may
+contain forward-looking statements concerning projected financial performance,
+market and industry segment growth, product development and commercialization,
+or other aspects of future operations.  Such statements, made pursuant to the
+safe harbor established by recent securities legislation, are based on the
+assumptions of  management at the time such statements are made.  The Company
+cautions investors that its performance (and, therefore, any forward-looking
+statement) is subject to risks and uncertainties.  Various important factors,
+including but not limited to those discussed herein, may cause the Company's
+future results to differ materially from those projected in any forward-looking
+statement.  Important information about the basis for those assumptions is
+contained in "Important Factors Regarding Future Results" included in the
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations" section in the 1996 Annual Report to Stockholders, which section is
+incorporated herein by reference.
+
+
+                                     PART I
+
+ITEM 1:    Business
+
+                                    General
+
+Parametric Technology Corporation (the "Company") develops, markets and supports
+the Pro/ENGINEER(R) family of software products - a suite of more than 70
+application modules that automate the design-through-manufacturing process
+within the mechanical computer-aided design, manufacturing and engineering
+("CAD/CAM/CAE") industry.  The Company's Pro/ENGINEER product line includes
+capabilities in industrial design; mechanical design, including large assembly
+management; functional simulation; manufacturing; information management; and
+data exchange.
+
+Mechanical CAD/CAM/CAE is a complex, iterative process encompassing a broad
+spectrum of distinct engineering disciplines which is essential to the
+development of virtually all manufactured products, ranging from consumer
+products to jet aircraft.  Manufacturers compete on the basis of cost, time to
+market and product performance criteria, which are significantly affected by the
+quality and length of the design process.  The Company's mechanical CAD/CAM/CAE
+products offer a high-performance, fully integrated solution which enables end-
+users to reduce the time to market and manufacturing costs for their products
+and to improve product quality by easily evaluating multiple design
+alternatives. The Company believes that its Pro/ENGINEER product line offers
+better price/performance, greater ease of use, and more complete integration of
+multiple engineering disciplines than other available mechanical CAD/CAM/CAE
+products.
+
+The Company's Pro/ENGINEER product line is based on an innovative software
+architecture that incorporates a unique parametric, feature-based solid modeling
+technology. The Company's Pro/ENGINEER software uses a single data structure to
+capture changes made in any stage of the design-through-manufacturing process
+and to automatically update designs and all engineering deliverables. The single
+data structure allows all changes to be propagated automatically throughout the
+design and manufacturing process, thus enabling users to integrate multiple
+engineering activities in the mechanical design process and conduct them on a
+concurrent basis.  In addition, as a result of the data structure of the
+Company's products, engineers can create, process, modify and store designs
+quickly and easily, in a highly efficient manner.
+
+The Pro/ENGINEER product line runs on all major UNIX(R) and Microsoft(R) Windows
+NT(TM) and Windows(R) 95 Workstation Operating System platforms, and is 
+hardware-independent. The product is written in "C" programming language, which
+allows for portability from one standard workstation to another. The 
+Pro/ENGINEER product line primarily competes in the high-end of the mechanical 
+CAD/CAM/CAE
+market.
+
+                                  Acquisitions
+
+On July 10, 1996, the Company acquired project modeling and management software
+("Reflex") technology from Greenshire License Co. NV for $32,119,000 which
+included the issuance of 113,000 shares of the Company's common stock with a
+fair value of $5,000,000 at the time of acquisition and $5,000,000 payable in
+the fourth quarter of fiscal
+
+
+ 
+1997. Payments of $22,119,000 in fiscal 1996 were from the Company's existing
+cash balances. The acquisition has been accounted for as a purchase.
+
+On August 1, 1995, the Company acquired Rasna Corporation  ("Rasna"), a
+developer and marketer of software products for mechanical computer-aided
+engineering, by merging it into the Company pursuant to an Agreement and Plan of
+Merger dated as of May 30, 1995. Based on the number of shares of Rasna common
+stock, the Company issued 7,541,000 shares of common stock and reserved
+1,045,000 shares of its common stock for outstanding Rasna stock options
+assumed. The merger was accounted for as a pooling of interests.
+
+On April 12, 1995, the Company acquired substantially all of the assets and
+specified liabilities of the Conceptual Design and Rendering System ("CDRS")
+software business operated by the Design Software Division of Evans & Sutherland
+Computer Corporation for approximately $33,507,000 in cash, which was paid by
+the Company from its existing cash balances. The acquisition has been accounted
+for as a purchase.
+
+
+
+                              Product Development
+
+The mechanical CAD/CAM/CAE industry is characterized by rapid technological
+advances.  Accordingly, the Company's future success will depend upon its
+ability to enhance its current products and develop and introduce new products
+and modules which keep pace with technological developments and address
+increasingly sophisticated needs of its customers.  The Company expects to
+continue to expand the scope of applications of its Pro/ENGINEER product family,
+to expand the functionality set of each of the acquired technologies, and to
+fully integrate all of the product families.  The Company's ability to develop
+new products rapidly is facilitated by the modular structure of its software
+code, which enables functional subroutines used in existing products to be
+accessed and utilized by new software modules, thereby reducing the amount of
+new code required to develop additional products.  The major benefit of this
+approach is rapid development of new functionality.  The Company intends to
+focus its ongoing product development efforts on additional products within the
+Pro/ENGINEER product family, including tools for fully simulating the design,
+manufacturing, and function of our customers' products, and tools to manage all
+of the resulting engineering data. The Company intends to further accelerate
+these efforts to provide a completely integrated suite of tools for our
+customers. There can be no assurance, however, that the Company will be
+successful in developing and marketing product enhancements or new products and
+modules that respond to technological changes by others, or that its new
+products will adequately address the needs of the marketplace.
+
+The Company's practice has been to issue two major releases of its product line
+per year, each of which has generally included several new modules.  In
+connection with each release, the Company works closely with its customers to
+define improvements and enhancements, which are then integrated into the
+products.  Using this approach, customers become involved in the product design
+process to validate feasibility and to influence functionality early in the
+product's life-cycle.  In addition, the Company's Cooperative Software Program
+("CSP") provides the mechanisms and environment to facilitate the integration of
+complementary products with the Pro/ENGINEER product line.  Through the
+Company's open software toolkit, the CSP members can build tightly integrated
+solutions that satisfy various requirements of the Company's customers.
+
+As of September 30, 1996, the Company's product development was performed by 453
+employees at its Waltham, Massachusetts, headquarters; its San Jose, California
+and Salt Lake City, Utah offices; and abroad.  The development group includes
+experts in mechanical engineering, advanced mathematical techniques, database
+structures and operating systems technology.
+
+During the years ended September 30, 1996, 1995 and 1994, the Company incurred
+expenses of $39,476,000, $25,591,000 and $19,882,000, respectively, on research
+and development.
+
+
+                                     Sales
+
+The Company focuses its marketing and sales efforts primarily on the
+electronics, aerospace, automotive, consumer products, medical equipment,
+industrial equipment and telecommunications industries.  The Company derives
+more than
+
+
+ 
+90% of its revenue from products distributed directly to its customers and the
+remainder through third-party distributors. The Company's sales force manages
+the activities of all distribution channels within a geographic area.
+
+As of September 30, 1996, the Company's sales and marketing organization
+consisted of 668 people in the United States and 977 people abroad.  The Company
+has sales and/or support offices located in 84 cities across the United States
+and in 91 cities in 26 foreign countries.
+
+Since inception, the Company has licensed software products for more than 71,500
+seats to nearly 11,500 companies.  A seat of software generally consists of the
+Company's core product, Pro/ENGINEER, together with several other software
+modules, configured to serve the needs of a single end user.  End users of the
+Company's products range from small companies to some of the world's largest
+manufacturing organizations.  No single customer accounted for more than 10% of
+the Company's revenue in fiscal 1996.
+
+Information with respect to foreign and domestic operations and export sales may
+be found in Note L to the Consolidated Financial Statements of the Annual Report
+to Stockholders for the fiscal year ended September 30, 1996 ("1996 Annual
+Report to Stockholders"), which financial statements are included in Exhibit
+13.1 to this Annual Report on Form 10-K and incorporated herein by reference.
+
+                                  Competition
+
+The mechanical CAD/CAM/CAE industry is highly competitive, and is characterized
+by rapidly advancing technology.  In order to maintain or improve its position
+in this industry, the Company must continue to enhance its current products and
+develop, in a timely fashion, new products which address the rapidly changing
+needs of the marketplace.
+
+The Company competes most directly with the CADAM(R) and CATIA(R) products
+developed by Dassault and marketed by IBM(R), the CADDS(R) product marketed by
+Computervision Corporation, the UNIGRAPHICS(R) product marketed by EDS, the
+I/EMS(TM) product marketed by Intergraph Corporation and the I-DEAS Master
+Series(TM) product marketed by Structural Dynamics Research Corporation. The
+Company believes that the principal bases for competition in its markets are
+product functionality, price/performance characteristics, product portability,
+ease of product use, sales and marketing strength, support services and
+corporate reputation. The Company is aware of ongoing efforts by competitors,
+some of whom have greater resources than the Company, to develop equivalent or
+superior technology and market these products at lower prices. Should a
+competitor successfully bring such a product to market and be able to sell it at
+a lower price in the future, the Company's operating results could be adversely
+affected. The Company's future success will depend in a large part on its
+ability to license additional products and services to its existing customer
+base as well as the installed customer bases of traditional mechanical
+CAD/CAM/CAE suppliers.
+
+                               Proprietary Rights
+
+The Company regards its software products as proprietary and attempts to protect
+its intellectual property rights by relying on copyrights, trademarks, patents
+and common law safeguards, including trade secret protection, as well as
+restrictions on disclosures and transferability in its agreements with other
+parties.  The Company distributes its products under software license
+agreements, which grant customers perpetual licenses to, rather than ownership
+of, the Company's products and which contain various provisions protecting the
+Company's ownership of and the confidentiality of the underlying technology.
+The Company also limits access to and distribution of its software,
+documentation and other proprietary information.  The source code of the
+Company's products is protected as a trade secret and as an unpublished
+copyright work.  Despite these precautions, it may be possible to copy or
+otherwise obtain and use the Company's products or technology without
+authorization.  In addition, effective copyright and trade secret protection may
+be unavailable or limited in certain foreign countries.
+
+The Company believes that, due to the rapid pace of innovation within its
+industry, factors such as the technological and creative skills of its personnel
+are more important to establishing and maintaining a technology leadership
+position within the industry than are the various legal protections surrounding
+its technology.  The Company believes that its products and technology do not
+infringe any existing proprietary rights of others, although there can be no
+assurance that third parties will not assert infringement claims in the future.
+
+Pro/ENGINEER and Parametric Technology Corporation are registered trademarks and
+all product names in the PTC product family and the PTC logo are trademarks of
+Parametric Technology Corporation in the United States and other countries.
+
+
+ 
+                                    Backlog
+
+The Company generally ships its products within 30 days after acceptance of a
+customer purchase order and execution of a software license agreement.
+Accordingly, the Company does not believe that its backlog at any particular
+point in time is indicative of future sales levels.
+
+                                   Employees
+
+The Company's success depends upon its ability to attract and retain highly
+skilled technical, managerial and sales personnel.  Competition for such
+personnel in the computer industry in general, and the mechanical CAD/CAM/CAE
+industry in particular, is intense.  Although the Company has not experienced
+any significant difficulty to date in attracting and retaining skilled
+personnel, there can be no assurance that the Company will be successful in
+attracting and retaining the personnel it requires to continue to grow and
+operate profitably, both domestically and internationally.
+
+As of September 30, 1996, the Company had 2,774 employees, including 1,645 in
+sales, marketing and support activities; 418 in customer support, training and
+consulting; 258 in management, finance and administration; and 453 in product
+development.  Of these employees, 1,477 were located in the United States and
+1,297 were located in foreign countries.
+
+ITEM 2:    Properties
+
+The Company's executive offices are located in approximately 262,000 square feet
+of office space in Waltham, Massachusetts which is leased for an annual rent of
+approximately $5,384,000.  The Company also leases 176 additional sales and/or
+support offices and development offices in the United States and, through its
+wholly-owned subsidiaries, abroad.  The Company believes that its facilities are
+adequate for its present needs, but will continue to evaluate the need for
+additional space as the growth of the business requires.
+
+ITEM 3:     Legal Proceedings
+
+Not applicable.
+
+ITEM 4:    Submission of Matters to a Vote of Security Holders
+
+No matters were submitted to a vote of security holders during the last quarter
+of fiscal 1996.
+
+EXECUTIVE OFFICERS OF THE REGISTRANT
+
+       The executive officers of the Company as of November 14, 1996
+       were as follows:
+
+
+Mr. Walske has been Chairman of the Board of Directors since August 1994 and
+Chief Executive Officer and a director of the Company since he joined the
+Company in December 1986.  Mr. Walske was President of the Company from December
+1986 to August 1994 and Clerk of the Company from December 1986 to February
+1993.
+
+
+ 
+Mr. Harrison has been President and Chief Operating Officer since August 1994.
+Prior to that, Mr. Harrison served as Senior Vice President of Sales and
+Distribution from September 1991 until August 1994 and as Vice President of
+Sales and Distribution from May 1987 to September 1991.
+
+Mr. Gillis has been Executive Vice President of Finance and Administration since
+October 1996 and Chief Financial Officer and Treasurer since October 1995. Mr.
+Gillis served as Senior Vice President of Finance and Administration from
+October 1995 to September 1996.   Prior to joining the Company, Mr. Gillis was
+Senior Vice President of Finance and Operations and Chief Financial Officer at
+Lotus Development Corporation from August 1991 until September 1995.
+
+Mr. McGuinness has been Executive Vice President of Sales since October 1996.
+Prior to that, Mr. McGuinness had served as Senior Vice President of Sales and
+Distribution from September 1994 to September 1996, and Vice President of North
+American Sales Operations from October 1991 to September 1994.
+
+Mr. Bowman has been Senior Vice President of Business Development since October
+1996.  Prior to that, Mr. Bowman served as Vice President, European Operations
+from October 1994 to September 1996, Vice President, Far East Operations from
+October 1993 to September 1994, Regional Director from October 1992 to September
+1993, and District Sales Manager from October 1991 to September 1992.
+
+Mr. Gremley has been Senior Vice President of Professional Services since
+November 1996.  Prior to that, Mr. Gremley served as Vice President for
+Implementation Services from September 1995 to October 1996, Vice President of
+Consulting Services from December 1994 to August 1995, Director of Consulting
+Services from October 1992 to November 1994, Manager of Application Services
+from December 1991 to September 1992, and Manager of Corporate Accounts from
+March 1990 to November 1991.
+
+Mr. Henrich has been Senior Vice President of Marketing since October 1996.
+Prior to that, Mr. Henrich was Vice President of Asia Pacific Operations from
+October 1994 to September 1996, Managing Director of Southern Europe from
+October 1993 to September 1994, Regional Director from July 1993 to October
+1993, and District Sales Manager from April 1992 to June 1993.  Prior to joining
+the Company, Mr. Henrich was Regional Sales Manager at Adra Systems, Inc. from
+April 1990 to March 1992.
+
+Dr. Jensen has been Senior Vice President of Research and Development since he
+joined the Company in April 1995. Prior to joining the Company, Dr. Jensen was
+Vice President and General Manager from May 1993 until April 1995, and from July
+1986 until May 1993 was Director of Research and Development of the Design
+Software Division at Evans & Sutherland Computer Corporation.
+
+Ms. Durcan has served as Vice President since October 1993, Corporate Counsel
+since joining the Company in March 1992 and as Clerk since February 1993.  Prior
+to joining the Company, Ms. Durcan was an associate with the law firm of
+Goodwin, Procter & Hoar from September 1989 to March 1992.
+
+Mr. Kelliher has been Vice President of Finance since December 1994.  Prior to
+that, Mr. Kelliher had served as Director of Corporate Finance from November
+1994 to December 1994, Chief Financial Officer of Europe from May 1993 to
+November 1994, Manager of Finance and Assistant International Controller from
+February 1992 to May 1993, and Manager of Budget and Analysis from October 1991
+to February 1992.
+
+Mr. Mokas has been Controller since he joined the Company in August 1993.  Prior
+to joining the Company, Mr. Mokas was a manager at Coopers & Lybrand L.L.P. from
+May 1988 to July 1993.
+
+                                    PART II
+
+ITEM 5:    Market for Registrant's Common Equity and Related Stockholder Matters
+
+On July 10, 1996, the Company issued 113,000 shares of its common stock to
+Greenshire License Co. NV ("Greenshire") as partial consideration for the
+acquisition of certain software described in more detail in Part I, Item 1 of
+this Annual Report on Form 10-K.  The shares were issued without registration
+under the Securities Act of 1933 in reliance on the exemption provided by
+Section 4(2) thereof based, among other matters, on Greenshire's representations
+as to its investment intent and sophistication in financial matters.  Further
+information with respect to this item may be found in the sections captioned
+"Quarterly Financial Information" and "Supplemental Financial Information"
+appearing in the 1996 Annual Report to Stockholders.  Such information is
+incorporated herein by reference.
+
+
+ 
+ITEM 6:     Selected Financial Data
+
+Information with respect to this item may be found in the section captioned
+"Five Year Summary of Selected Financial Data" appearing in the 1996 Annual
+Report to Stockholders.  Such information is incorporated herein by reference.
+
+ITEM 7:     Management's Discussion and Analysis of Financial Condition and
+Results of Operations
+
+Information with respect to this item may be found in the section captioned
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations" appearing in the 1996 Annual Report to Stockholders.   Such
+information is incorporated herein by reference.
+
+ITEM 8:     Financial Statements and Supplementary Data
+
+Information with respect to this item may be found on pages 28 through 39 and in
+the section entitled "Quarterly Financial Information" appearing in the 1996
+Annual Report to Stockholders.   Such information is incorporated herein by
+reference.
+
+ITEM 9:     Changes in and Disagreements with Accountants on Accounting and
+Financial Disclosure
+
+On November 17, 1995, the Board of Directors of the Company, upon recommendation
+of its Audit Committee, approved a change in the Company's independent
+accountants from Price Waterhouse LLP to Coopers & Lybrand L.L.P. effective for
+the fiscal year ended September 30, 1996.  Price Waterhouse LLP served as the
+Company's independent accountants for fiscal years 1992 through 1995.  During
+these periods, the Company did not have any disagreements with Price Waterhouse
+LLP on any matter of accounting principles or practices, financial statement
+disclosure or auditing scope or procedure, nor did any reports issued by Price
+Waterhouse LLP contain an adverse opinion or a disclaimer of opinion, nor were
+such reports qualified or modified as to uncertainty, audit scope or accounting
+principles.
+
+
+                                    PART III
+
+ITEM 10:     Directors and Executive Officers of the Registrant
+
+Information with respect to directors of the Company may be found in the
+sections captioned "Election of Directors" appearing in the 1997 Proxy
+Statement.  Such information is incorporated herein by reference.  Information
+with respect to Executive Officers of the Company may be found under the section
+captioned "Executive Officers of the Registrant" in Part I of this Annual Report
+on Form 10-K.
+
+ITEM 11:     Executive Compensation
+
+Information with respect to this item may be found in the sections captioned
+"Director Compensation" and "Compensation of Executive Officers" appearing in
+the 1997 Proxy Statement.  Such information is incorporated herein by reference.
+
+ITEM 12:     Security Ownership of Certain Beneficial Owners and Management
+
+Information with respect to this item may be found in the section captioned
+"Principal Stockholders" appearing in the 1997 Proxy Statement.  Such
+information is incorporated herein by reference.
+
+ITEM 13:     Certain Relationships and Related Transactions
+
+Not applicable.
+
+
+ 
+                                    PART IV
+
+ITEM 14:     Exhibits, Financial Statement Schedules and Reports on Form 8-K
+
+(a)  Documents Filed as Part of Form 10-K
+     1. Financial Statements
+        -Consolidated Balance Sheet as of September 30, 1996 and 1995*
+        -Consolidated Statement of Income for the years ended September
+         30, 1996, 1995 and 1994*
+        -Consolidated Statement of Stockholders' Equity for the years
+         ended September 30, 1996, 1995 and 1994*
+        -Consolidated Statement of Cash Flows for the years ended
+         September 30, 1996, 1995 and 1994*
+        -Notes to Consolidated Financial Statements*
+        -Reports of Independent Accountants for the years ended September
+         30, 1996*, 1995 and 1994
+        -Independent Auditors' Report for Rasna Corporation as of
+         December 31, 1994 and for the year then ended
+     2. Financial Statement Schedules
+        -Reports of Independent Accountants for the years ended September
+         30, 1996, 1995 and 1994
+        -Schedule II - Valuation and Qualifying Accounts
+        -Schedules other than the one listed above have been omitted
+         since they are either not required, not applicable, or the
+         information is otherwise included.
+     3. Listing of Exhibits
+         The Exhibits filed as part of this Annual Report on Form 10-K are
+         listed in the Exhibit Index immediately preceding such Exhibits, and
+         are incorporated herein by reference.
+
+(b)   Reports on Form 8-K
+      None.
+
+(c)   Exhibits
+      The Company hereby files as part of this Annual Report on Form 10-K the
+      Exhibits listed in the attached Exhibit Index.
+
+(d)   Financial Statement Schedules
+      The Company hereby files as part of this Annual Report on Form 10-K the
+      financial statement schedule listed in Item 14(a)2 as set forth above.
+ 
+- --------
+*Referenced information is contained in the 1996 Annual Report to Stockholders,
+filed as Exhibit 13.1 hereto.
+
+
+ 
+                                   SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized on the 23rd day of
+December, 1996.
+
+                                  PARAMETRIC TECHNOLOGY CORPORATION
+
+
+                                  By  /S/  Steven C. Walske
+                                      -----------------------------
+                                      Steven C. Walske, Chairman
+                                      and Chief Executive Officer
+
+
+                                POWER OF ATTORNEY
+                                -----------------
+
+
+We, the undersigned officers and directors of Parametric Technology Corporation,
+hereby severally constitute Edwin J. Gillis and Martha L. Durcan, Esq., and each
+of them singly, our true and lawful attorneys with full power to them, and each
+of them singly, to sign for us and in our names in the capacities indicated
+below any and all subsequent amendments to this report, and to file the same,
+with exhibits thereto and other documents in connection therewith, with the
+Securities and Exchange Commission, hereby ratifying and confirming all that
+each of said attorneys-in-fact may do or cause to be done by virtue hereof.
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the Registrant and
+in the capacities indicated below on the 23rd day of December, 1996.
+
+
+
+
+ 
+                                 EXHIBIT INDEX
+                                 -------------
+                                        
+                                        
+EXHIBIT
+NUMBER
+- ------
+
+2.1    - Asset Purchase Agreement dated as of March 1, 1995 among Parametric
+         Technology Corporation, a Massachusetts corporation, PTC Acquisition
+         Corporation, a Massachusetts corporation and wholly owned subsidiary of
+         Parametric Technology Corporation, and Evans & Sutherland Computer
+         Corporation, a Utah corporation with Amendment No. 1 thereto (filed as
+         Exhibit 2.1 to the Current Report on Form 8-K dated April 12, 1995 and
+         incorporated herein by reference).
+
+2.2    - Agreement and Plan of Merger dated as of May 30, 1995 among Parametric
+         Technology Corporation, Rasna Corporation and certain shareholders of
+         Rasna Corporation (filed as Exhibit 2.1 to the Quarterly Report on Form
+         10-Q for the fiscal quarter ended July 1, 1995 and incorporated herein
+         by reference).
+
+3.1    - Restated Articles of Organization of the Company (filed as Exhibit 3.1
+         to the Quarterly Report on Form 10-Q for the fiscal quarter ended March
+         30, 1996 and incorporated herein by reference).
+
+3.2    - By-Laws, as amended and restated, of the Company; filed
+         herewith.
+
+10.1   - Registration Rights Agreement dated March 26, 1987, as amended, among
+         the Company and certain investors of the Company (filed as Exhibit 10.1
+         to the Company's Registration Statement on Form S-1 (File No. 33-31620)
+         and incorporated herein by reference).
+
+10.2*  - 1987 Incentive Stock Option Plan of the Company, as amended;
+         filed herewith.
+
+10.3   - Lease dated May 22, 1987 by and between the Company and the Trustees of
+         128 Technology Trust (filed as Exhibit 10.4 to the Company's
+         Registration Statement on Form S-1 (File No. 33-31620) and incorporated
+         herein by reference).
+
+10.4   - Form of the Company's Distributorship Agreement (filed as Exhibit 10.8
+         to the Company's Registration Statement on Form S-1 (File No. 33-31620)
+         and incorporated herein by reference).
+
+10.5   - Form of the Company's Agreement for Licensed Products (filed as Exhibit
+         10.11 to the Company's Registration Statement on Form S-1 (File No. 33-
+         31620) and incorporated herein by reference).
+
+10.6*  - Employment Letter with Steven C. Walske dated October 17, 1986 (filed
+         as Exhibit 10.12 to the Company's Registration Statement on Form S-1
+         (File No. 33-31620) and incorporated herein by reference).
+
+10.7*  - Severance Agreement with Steven C. Walske dated June 20, 1990; 
+         filed herewith.
+
+10.8   - Lease Amendment dated November 8, 1989 by and between the
+         Company and the Trustees of 128 Technology Trust; filed herewith.
+
+10.9   - Lease Amendment dated January 21, 1991 by and between the Company and
+         the Trustees of 128 Technology Trust (filed as Exhibit 10.20 to the
+         Annual Report on Form 10-K for the fiscal year ended September 30, 1991
+         and incorporated herein by reference).
+
+10.10* - Parametric Technology Corporation 1992 Director Stock Option Plan, as 
+         amended; filed herewith.
+
+__________
+*Identifies a management contract or compensatory plan or arrangement in which
+an executive officer or director of the Company participates.
+
+
+ 
+10.11  - Lease Amendment dated March 6, 1992 by and between the Company and the
+         Trustees of 128 Technology Trust (filed as Exhibit 10.18 to the Annual
+         Report on Form 10-K for the fiscal year ended September 30, 1992 and
+         incorporated herein by reference).
+
+10.12  - Lease Amendment dated November 18, 1992 by and between the Company and
+         the Trustees of 128 Technology Trust (filed as Exhibit 10.19 to the
+         Annual Report on Form 10-K for the fiscal year ended September 30, 1992
+         and incorporated herein by reference).
+
+10.13  - Form of the Company's Sales Representative Agreement (filed as Exhibit
+         10.10 to the Company's Registration Statement on Form S-1 (File No. 33-
+         31620) and incorporated herein by reference).
+
+10.14  - Lease Amendment dated June 8, 1993 by and between the Company and the
+         Trustees of 128 Technology Trust (filed as Exhibit 10.21 to the Annual
+         Report on Form 10-K for the fiscal year ended September 30, 1993 and
+         incorporated herein by reference).
+
+10.15* - First Amendment to Severance Agreement with Steven C. Walske dated June
+         15, 1993 (filed as Exhibit 10.2 to the Quarterly Report on Form 10-Q
+         for the fiscal quarter ended July 3, 1993 and incorporated herein by
+         reference).
+
+10.16* - Severance Agreement with C. Richard Harrison dated August 19, 1994
+         (filed as Exhibit 10.19 to the Annual Report on Form 10-K for the
+         fiscal year ended September 30, 1994 and incorporated herein by
+         reference).
+
+10.17  - Lease Amendment dated April 14, 1994 by and between the Company and the
+         Trustees of 128 Technology Trust (filed as Exhibit 10.22 to the Annual
+         Report on form 10-K for the fiscal year ended September 30, 1994 and
+         incorporated herein by reference).
+
+10.18  - Lease Amendment dated January 19, 1995 by and between the Company and
+         the Trustees of 128 Technology Trust (filed as Exhibit 10.23 to
+         the Annual Report on Form 10-K for the fiscal year ended September 30,
+         1995 and incorporated herein by reference).
+
+10.19* - Severance Agreement with Edwin J. Gillis dated October 2, 1995 (filed
+         as Exhibit 10.24 to the Annual Report on Form 10-K for the fiscal year
+         ended September 30, 1995 and incorporated herein by reference).
+
+10.20* - Parametric Technology Corporation 1996 Directors Stock Option Plan, as
+         amended; filed herewith.
+
+13.1   - Annual Report to Stockholders for the fiscal year ended September 30,
+         1996 (which is not deemed to be "filed" except to the extent that
+         portions thereof are expressly incorporated by reference in this Annual
+         Report on Form 10-K); filed herewith.
+         
+16.1   - Letter from Price Waterhouse LLP (filed as Exhibit 16.1 to the Current
+         Report on Form 8-K dated November 17, 1995 and incorporated herein by
+         reference).
+
+21.1   - Subsidiaries of the Company; filed herewith.
+ 
+23.1   - Report of Coopers & Lybrand L.L.P.; filed herewith.
+ 
+23.2   - Consent of Coopers & Lybrand L.L.P.; filed herewith.
+ 
+23.3   - Report of Price Waterhouse LLP; filed herewith.
+ 
+23.4   - Report of Price Waterhouse LLP on Financial Statement Schedules; filed
+         herewith.
+__________
+*Identifies a management contract or compensatory plan or arrangement in which
+an executive officer or director of the Company participates.
+
+
+ 
+23.5   - Consent of Price Waterhouse LLP; filed herewith.
+ 
+23.6   - Report of Deloitte & Touche LLP; filed herewith.
+ 
+23.7   - Consent of Deloitte & Touche LLP; filed herewith.
+
+27.1   - Financial Data Schedule; filed herewith.
+__________
+*Identifies a management contract or compensatory plan or arrangement in which
+an executive officer or director of the Company participates.
+
+
+ 
+                                                                     SCHEDULE II
+
+                       PARAMETRIC TECHNOLOGY CORPORATION
+                       Valuation and Qualifying Accounts
+
+
+- ------------------------------------------------------
+(1) Uncollectible accounts written off, net of recoveries.
+
+

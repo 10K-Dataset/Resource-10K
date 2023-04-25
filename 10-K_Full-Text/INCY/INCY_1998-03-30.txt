@@ -1,0 +1,3213 @@
+
+10-K
+INCYTE PHARMACEUTICALS, INC. FORM 10-K
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+[X]      ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+         EXCHANGE ACT OF 1934
+
+                   For the fiscal year ended December 31, 1997
+
+                                       or
+
+[  ]     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+         EXCHANGE ACT OF 1934
+
+ For the transition period from _____________________ to ______________________
+
+                         Commission File Number: 0-27488
+
+                          INCYTE PHARMACEUTICALS, INC.
+             (Exact name of registrant as specified in its charter)
+
+           Delaware                                94-3136539
+(State or other jurisdiction of         (IRS Employer Identification No.)
+incorporation or organization)
+
+         3174 Porter Drive,                     (650) 855-0555
+    Palo Alto, California 94304
+(Address of principal executive offices)    (Registrant's telephone number, 
+                                             including area code)
+
+             Securities registered to Section 12(b) of the Act: None
+
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                          Common Stock, par value $.001
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the
+preceding 12 months (or for such shorter period that the registrant was required
+to file such reports), and (2) has been subject to such filing requirements for
+the past 90 days. [X]Yes [ ] No
+
+Indicate by check mark if disclosure of delinquent filers pursuant to item
+405 of Regulation S-K (Section 229.405 of this chapter) is not contained herein,
+and will not be contained, to the best of registrant's knowledge, in definitive
+proxy or information statements incorporated by reference in Part III of this
+Form 10-K or any amendment to this Form 10-K. [X]
+
+The aggregate market value of Common Stock held by nonaffiliates (based upon the
+closing sale price on the Nasdaq National Market) on January 31, 1998 was
+approximately $1,149,702,104.
+
+As of January 31, 1998, there were 26,506,101 shares of Common Stock, $.001 par
+value, outstanding.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+Items 10 (as to directors), 11, 12 and 13 of Part III incorporate by reference
+information from the registrant's proxy statement to be filed with the
+Securities and Exchange Commission in connection with the solicitation of
+proxies for the registrant's 1998 Annual Meeting of Stockholders to be held on
+June 15, 1998.
+
+
+
+
+                                     PART I
+
+ITEM 1.    BUSINESS
+
+     When used in this Report, the word "expects," "anticipates," "estimates,"
+and similar expressions are intended to identify forward-looking statements.
+Such statements, which include statements as to the timing of availability of
+products under development, the ability to commercialize products developed
+under collaborations and alliances, the performance and utility of the Company's
+products and services, earnings and profitability trends and the adequacy of
+capital resources, are subject to risks and uncertainties that could cause
+actual results to differ materially from those projected. These risks and
+uncertainties include, but are not limited to, those risks discussed below, as
+well as, the extent of utilization of genomic information by the pharmaceutical
+industry in both research and development; risks relating to the development of
+new database products and their use by potential collaborators of the Company;
+the impact of technological advances and competition; the ability of the Company
+to obtain and retain customers; competition from other entities; early
+termination of a database collaborator agreement or failure to renew an
+agreement upon expiration; the ability to successfully integrate the operations
+of recent business combinations; the cost of accessing technologies developed by
+other companies; uncertainty as to the scope of coverage, enforceability or
+commercial protection from patents that issue on gene sequences and other
+genetic information; the viability of joint ventures and businesses in which the
+Company has purchased equity; and the risks set forth below under "Factors That
+May Affect Results." These forward-looking statements speak only as of the date
+hereof. The Company expressly disclaims any obligation or undertaking to release
+publicly any updates or revisions to any forward-looking statements contained
+herein to reflect any change in the Company's expectations with regard thereto
+or any change in events, conditions or circumstances on which any such statement
+is based.
+
+
+Overview
+
+     Incyte Pharmaceuticals, Inc. ("Incyte" or the "Company") is a leading
+provider of genomic information and services to the biotechnology,
+pharmaceutical and agricultural industries. Incyte designs, develops and markets
+genomic database products, genomic data management software tools and related
+reagents and services. The Company completed the acquisition of Synteni, Inc.
+("Synteni"), in January 1998. Synteni, located in Fremont, California, offers
+microarray-based gene expression services.
+
+     Incyte currently provides access to its genomic databases through
+collaborations with pharmaceutical, biotechnology, and agricultural companies
+worldwide. As of December 31, 1997, nineteen companies had entered into
+multi-year database collaboration agreements to obtain access to the Company's
+databases on a non-exclusive basis. In January 1998, Incyte announced the
+addition of Rhone-Poulenc S.A. as a database collaborator. Revenues from these
+collaborators generally include database access fees and, in some cases,
+additional fees for custom sequencing services, referred to as "satellite"
+database services. The Company's database agreements also provide for milestone
+payments and royalties to be received from database collaborators from the sale
+of products derived from proprietary information contained within one or more
+database modules.
+
+     The Company's genomic databases integrate bioinformatics software with
+proprietary and, when appropriate, publicly available genetic information to
+create information-based tools used by pharmaceutical and biotechnology
+companies in drug discovery and development. In building the databases, the
+Company utilizes high-throughput, computer-aided gene sequencing and analysis
+technologies to identify and characterize the expressed genes of the human
+genome, as well as certain animal, plant and microbial genomes. By searching the
+genomic databases, collaborators can integrate and analyze genetic information
+from multiple sources in order to discover genes that may represent the basis
+for new biological targets, therapeutic proteins, or gene therapy, antisense or
+diagnostic products. The Company's genomic products and services are designed to
+meet the need of the pharmaceutical and biotechnology industries to utilize
+genomic information for the acceleration of the discovery and development of new
+diagnostic and therapeutic products. These products and services can assist not
+only with gene and target discovery, but also with functional genomic studies,
+preclinical pharmacology and toxicology studies as well as understanding
+
+
+
+
+
+
+and analyzing the results of clinical development studies.
+
+     Incyte's portfolio of database modules includes the LifeSeq(R) human gene
+sequence and expression database, the LifeSeq FL(R) database of full-length
+human genes, the LifeSeq Atlas(TM) mapping database, the PathoSeq(TM) microbial
+genomic database, the ZooSeq(TM) animal genomic database, the LifeTools(TM)
+suite of bioinformatics software programs, and LifeSeq(R) 3D data mining and
+visualization software, and a variety of custom database and sequencing
+services. Each database module consists of a relational database that runs on
+UNIX-based client/server networks and incorporates HyperText Markup Language
+("HTML") and JAVA graphical user interfaces enabling collaborators to use
+multiple search tools and browse various database modules. The databases are
+available using either Oracle or Sybase database architectures and operate on
+Sun Microsystems, Digital Equipment Corporation and Silicon Graphics
+workstations.
+
+
+Background
+
+     Genes, found in all living cells, are comprised of DNA, which in turn is
+comprised of nucleotide base pairs, or bases. Genes provide the necessary
+information to code for the synthesis of proteins, the molecules which conduct
+all functions within a cell. Many human diseases are associated with the
+inadequate or inappropriate presence, production or performance of proteins. As
+such, pharmaceutical and biotechnology companies often seek to develop drugs
+that will bind to a targeted protein involved in disease in order to regulate,
+inhibit or stimulate its biological activity. The serotonin receptor and the
+estrogen receptor are examples of targeted proteins. Other proteins, known as
+therapeutic proteins, have direct biological activity and may be capable of
+treating disease. Insulin and human growth hormone are examples of therapeutic
+proteins. Understanding the role genes play in disease, and the protein targets
+or therapeutic proteins which they encode, has thus become a significant area of
+interest and research within the pharmaceutical and biotechnology industries.
+
+     One frequently employed method for determining gene function involves the
+grouping of genes into "related" families based on similarities in DNA sequence.
+DNA sequencing is a process that identifies the order in which the bases in DNA
+are arranged in a particular section of DNA, or DNA fragment. Once a gene's
+sequence is known, its function may be inferred by comparing its sequence with
+the sequences of other human genes of known function, as genes with similar, or
+homologous, sequences may have related functions. For example, if an unknown
+gene shares sequence homology with a known tumor suppressor gene, the unknown
+gene could similarly play a role in cancer. Comparing gene sequences across
+species has also become a useful tool for understanding gene function, as
+frequently it is easier to assess gene function in lower organisms than it is in
+humans.
+
+     Another method used to determine gene function focuses on the analysis of
+gene activity within a cell. When a gene is active, its DNA is copied into
+messenger RNA or "mRNA." The population of mRNA within a cell can be isolated
+and converted into copy DNA or "cDNA," thereby creating a cDNA library that
+represents the population of mRNAs present in a cell type at a particular time.
+In a process called "gene expression profiling," high-throughput cDNA
+sequencing, computer analysis and microarray technologies can be used to
+identify which genes are active or inactive and, if active, at what levels.
+Expression profiles provide a more detailed picture of cellular genetics than
+conventional laboratory techniques by indicating which genes, both known and
+novel, are specifically correlated to discrete biological events in normal and
+disease-state cells.
+
+     Due to improvements in sequencing technology, genomic information from both
+public and private sources is increasing at a dramatic rate. As a result,
+bioinformatics, or the use of computers and sophisticated algorithms to store,
+analyze and interpret large volumes of biological data, is essential in order to
+capture value from this growing pool of data. To date, the main focus of
+bioinformatic and genomic tools has been drug discovery. The Company believes
+these tools, as well as tools under development, will also assist researchers
+with the preclinical and clinical development process. For example, with the
+help of new technology and bioinformatic analyses, scientists may be able to
+correlate genetic and physiologic response in preclinical animal models, examine
+gene expression profiles in drug-treated animals to assess the pharmacological
+activity and toxicity of new drugs, and stratify clinical trial patients
+according to their genetic profiles.
+
+
+
+
+
+
+Products
+
+     Incyte's products include an integrated platform of genomic databases, data
+management software tools, and related reagents and services.
+
+     Genomic Databases. The Company provides its database collaborators with
+non-exclusive database access. Database collaborators receive periodic data
+updates, typically monthly, as well as software upgrades and additional search
+and analysis tools when they become available. The fees and the period of access
+are negotiated with each database collaborator, with the initial term typically
+lasting for a period of three years. Fees generally consist of database access
+fees, non-exclusive or exclusive license fees and option fees corresponding to
+patent rights on proprietary sequences. Incyte may also receive milestone and
+royalty payments from database collaborators from the sale of products derived
+from the Company's technology and database information. Collaborators can browse
+not only Incyte-generated data, but also public domain information provided
+through HTML links to the World Wide Web. Incyte currently offers the following
+database modules:
+
+     o    LifeSeq Database. The LifeSeq human gene sequence and expression
+          database consists of a proprietary sequence database module linked to
+          a proprietary gene expression database module. Researchers can easily
+          move from one module to another through HTML-based graphical
+          interfaces. The sequence database contains Incyte's computer-edited
+          gene sequence files and is used by collaborators to identify related
+          or homologous genes. For example, a collaborator may wish to identify
+          new genes homologous to a gene identified through the collaborator's
+          own research and believed to be linked to a disease. The expression
+          database contains biological information about each sequence in the
+          Company's sequence database, including tissue source, homologies, and
+          annotations regarding characteristics of the gene sequence. Most
+          importantly, the expression database contains a gene expression
+          profile for every tissue in the database combined with proprietary
+          bioinformatics software to allow collaborators to browse data and
+          compare differences in gene expression across cells, tissues, and
+          different disease states. Thus, the expression database can be used to
+          assist researchers in correlating the presence of specific genes to
+          discrete biological events in normal and disease-state cells. Incyte
+          continually adds additional sequences and expression data from normal
+          and diseased tissues to the LifeSeq database.
+
+     o    LifeSeq FL Database. This database contains the full-length gene
+          sequences for DNA fragments of medically interesting genes found in
+          the LifeSeq human gene sequence and expression database. Incyte
+          scientists and the Company's collaborators select genes for inclusion
+          in this database based on a number of factors, including their
+          sequence homologies to known therapeutically important gene families,
+          unusual tissue or disease-related expression patterns and chromosomal
+          location. A variety of methods, including a proprietary,
+          high-throughput cloning technology, Hidden Markov Models (HMM) and
+          algorithms to identify secreted proteins, are used to identify
+          medically interesting genes and obtain the full-length sequence.
+
+     o    LifeSeq Atlas Database. This database contains the chromosomal
+          locations for certain genes and gene fragments identified in the
+          Company's LifeSeq human gene sequence and expression database that the
+          Company believes may be of utility to its database collaborators. In
+          particular, this database may be useful for companies engaged in
+          positional cloning, a technique used to identify genes believed to be
+          responsible for genetic disorders, which relies heavily on comparative
+          analysis of the chromosomes of members of families afflicted by a
+          disease.
+
+     o    PathoSeq Database. The PathoSeq database currently contains
+          proprietary and public domain genomic data for over two dozen
+          medically relevant bacterial and fungal microorganisms. With
+          drug-resistant strains of bacteria and other microorganisms posing an
+          increasing threat to world health, pharmaceutical and biotechnology
+          companies are searching for genes unique to these pathogens that will
+          aid in the development of new drugs to treat infectious disease.
+          
+
+
+
+
+
+
+          PathoSeq's software and bioinformatic tools edit all sequence data to
+          remove artifacts and contamination, assemble all sequences, display 
+          the relative position of the DNA coding regions, and identify genes 
+          either common among multiple microorganisms or unique to one microbial
+          genome. The Company believes PathoSeq can help researchers understand
+          the biology of microorganisms, study the mechanisms of drug
+          resistance, identify genes that may make effective drug targets, and,
+          ultimately, develop new therapeutics to treat and prevent infectious
+          disease.
+
+     o    ZooSeq Database. The ZooSeq database, introduced in June 1997, was
+          developed to aid pharmaceutical and biotechnology companies in
+          designing and evaluating preclinical drug studies in animals, a
+          crucial step in the drug development process. ZooSeq contains genomic
+          information from animals commonly used in preclinical drug
+          pharmacology and toxicology studies. The database currently contains
+          gene sequence and expression data for the Sprague-Dawley rat, the most
+          common animal used in drug toxicology studies. The Company expects to
+          expand this database in 1998 to include mice and other research
+          animals. ZooSeq is designed to allow scientists to compare gene
+          sequence, expression patterns and function across species. By
+          correlating a drug's effects on a rat with the animal's genetic
+          makeup, and then cross-referencing these data with Incyte's LifeSeq
+          database, a researcher may better predict the drug's efficacy, and
+          side effects before moving to human clinical trials.
+
+     Satellite Database Services. To construct satellite databases, Incyte
+generates sequence data and gene expression profiles using genetic material from
+tissues or cells selected by the database collaborators. Such databases are
+provided exclusively for a negotiated time period in a format compatible with
+the Company's non-exclusive database modules. These tissues and cells can be
+provided by the database collaborators from their own tissue banks, internal
+research programs or from other sources. In 1998 the Company expects to begin
+offering high volume sequencing services to pharmaceutical, biotechnology,
+agricultural and academic researchers.
+
+     Software. LifeSeq 3D provides sophisticated three-dimensional visualization
+and analysis tools for the LifeSeq human gene sequence and expression database.
+LifeTools, a suite of specialized bioinformatic software programs, consists of
+high-throughput sequence analysis and data management tools for handling complex
+genomic information from multiple sources. LifeTools Blocks reads and edits raw
+sequence data, including data imported from public databases, and annotates and
+clusters sequence fragments based on sequence similarity. LifeTools SeqServer is
+a fast, scaleable database search engine with intranet-based graphical tools for
+interactive queries and analyses. LifeTools Relational, a relational database
+management system, stores and distributes sequence cluster, homology, tissue
+expression information and biological data. Incyte's database management
+architecture is based on open system standards, providing interconnectivity
+between disparate systems and applications, and enterprise-wide access to data
+and functions. Incyte intends to continue to develop new bioinformatic software
+programs internally, as well as with third party software developers and
+development groups.
+
+     The Company has developed an enterprise-wide genomic information management
+system capable of updating, reprocessing and integrating genetic data from
+multiple sources and from different organisms. This system integrates Incyte
+proprietary, collaborator-specific and public domain data, and is capable of
+comparing information from humans, animals, microbes, fungi and plants. The
+system incorporates the architecture necessary to integrate Incyte's software
+tools with three-dimensional visualization tools, data mining programs and
+project management capabilities, and is capable of being integrated with
+additional technologies developed to more efficiently manage and analyze genomic
+data.
+
+     DNA Clone and Other Services. Incyte offers a variety of DNA clone and
+other services designed to assist its collaborators in using information from
+its databases in internal lab-based experiments. The DNA fragments from which
+the information in Incyte's databases is derived represent valuable resources
+for researchers, enabling them to perform bench-style experiments to supplement
+the information obtained from searching Incyte's databases. Incyte retains a
+copy of all isolated clones corresponding to the sequences in the database. The
+Company's collaborators may request from the Company clones corresponding to a
+
+
+
+
+
+
+sequence of interest on a one-by-one basis or through LifeSeq GeneAlbum, a 
+subscription-based service that provides database collaborators with large 
+numbers of sequence verified DNA clones. In addition, the Company produces a 
+broad line of genomic research products, such as DNA clones and insert 
+libraries, and offers technical support services, including high-throughput DNA 
+screening, custom robotic services, contract DNA preparation, and fluorescent
+in-situ hybridization, to assist researchers in the identification and
+isolation of novel genes.
+
+
+Database Production
+
+     The Company engages in the high-throughput automated sequencing of genes
+derived from tissue samples followed by the computer-aided analysis of each gene
+sequence to identify homologies to genes of known function in order to predict
+the biological function of newly identified sequences. The derivation of
+information in the Company's databases involves the following steps:
+
+          Tissue Access. Incyte obtains tissue samples representing most major
+     organs in the human body from various academic and commercial sources.
+     Where possible, the Company obtains information as to the medical history
+     and pathology of the tissue. The genetic material is isolated from the
+     tissue and prepared for analysis. The results of this analysis as well as
+     the corresponding pathology and medical history information are
+     incorporated into the databases.
+
+          High-Throughput cDNA Sequencing. The Company utilizes specialized
+     teams in an integrated approach to its high-throughput sequencing and
+     analysis effort. Gene sequencing is performed using multiple work shifts to
+     increase daily throughput. One team develops and prepares cDNA libraries
+     from biological sources of interest, a second team prepares the cDNAs using
+     robotic workstations to perform key steps that result in purified cDNAs for
+     sequencing, and a third team operates the automated DNA sequencers.
+
+          Bioinformatics. Sequence information generated from Incyte's
+     high-throughput sequencing operations is uploaded to a network of servers.
+     Incyte's proprietary bioinformatic software then assembles and edits the
+     sequence information. The sequence of each cDNA is compared via automated,
+     computerized algorithms to the sequences of known genes in the Company's
+     databases and public domain databases to identify whether the cDNA codes
+     for a known protein or is homologous to a known gene. Each sequence is
+     annotated as to its cell or tissue source, its relative abundance and
+     whether it is homologous to a known gene with known function or previously
+     unidentified. The bioinformatics staff monitors this computerized analysis
+     and may perform additional analyses on sequence information. The finished
+     data are then added to Incyte's proprietary sequence databases.
+
+
+Customers
+
+     The Company has entered into database collaboration agreements with
+nineteen companies as of December 31, 1997. In January 1998, the Company
+announced the addition of Rhone-Poulenc S.A. as a database collaborator. Each
+collaborator has agreed to pay, during an average term of three years, annual
+fees to receive non-exclusive access to the Company's databases. For the year
+ended December 31, 1997, the Company recognized revenue from eighteen of these
+companies, none of which individually contributed 10% or more of total revenues.
+In 1996, the Company recognized revenue from ten of these companies, three of
+which each contributed in excess of 10% of total revenues. As of February 1998,
+the Company's database collaborators were:
+
+         Abbott Laboratories                       Monsanto Company
+         ARIAD Pharmaceuticals,Inc.                Novartis AG
+         BASF AG                                   Novo Nordisk A/S
+         Bristol-Myers Squibb Company              NV Organon
+         Eli Lilly and Company                     Pfizer Inc
+
+
+
+
+
+
+         Genentech, Inc.                           Pharmacia & Upjohn, Inc
+         Glaxo Wellcome plc                        Rhone-Poulenc S.A.
+         Hoechst AG                                Schering AG
+         F. Hoffmann-La Roche Ltd                  SmithKline Beecham
+         Johnson & Johnson                         Zeneca Ltd.
+
+     Certain of the Company's database collaboration agreements contain minimum
+annual update requirements which if not met could result in Incyte's breach of
+the respective agreement. One database collaborator has the right on 30 days'
+written notice to terminate its database collaboration agreement. There can be
+no assurance that any of the Company's database collaboration agreements will be
+renewed upon expiration or will not be terminated earlier in accordance with
+their terms. The loss of revenues from any database collaborator could have a
+material adverse effect on the Company's business, financial condition and
+results of operations. See "Factors That May Affect ResultsLimited Operating
+History; History of Operating Losses; Uncertainty of Continued Profitability or
+Revenues," "--New and Uncertain Business," and "--Competition and Technological
+Changes."
+
+
+Development Programs
+
+     Since its inception, the Company has made substantial investments in
+research and technology development. During the years ended December 31, 1997,
+1996 and 1995, the Company spent approximately $68.9 million, $40.9 million, and
+$19.2 million, respectively, on research and development activities. This
+investment in research and development includes an active program to enter into
+relationships with other technology-driven companies and, when appropriate,
+acquire licenses to technologies for evaluation or use in the production and
+analysis process. Not all of these technologies or relationships survive the
+evaluation process. The Company has entered into a number of research and
+development relationships with companies and research institutions. The
+Company's commitments under any one of these agreements do not represent a
+significant expenditure in relation to the Company's total research and
+development expense.
+
+     The Company is currently evaluating new technologies relating to tissue
+processing, DNA amplification, microarray production, advanced automated
+sequencing and expression profiling to expand the productivity, efficiency and
+quality of its database products, and a variety of new bioinformatic and
+software tools to assist in data analysis, data mining and data visualization.
+Technologies in which the Company has made investments to increase and enhance
+the content of such products include mass spectrometry for high-throughput
+expression profiling and microarray technology to monitor the activity of many
+specific genes simultaneously in multiple tissue samples. The Company has
+aggressively pursued both the internal and external development of new
+technologies. Some of the research and development relationships established in
+1997 in order to access externally developed technologies include: the
+application of NetGenics, Inc.'s Common Object Broker Architecture (CORBA) and
+project management tools; the development of a tissue databank with the
+assistance of OncorMed, Inc.; and the investigation of TIBCO's "push" software
+or multicasting technology. In January 1998, the Company announced a
+relationship with Oxford GlycoSciences plc, to investigate the use of
+proteomics, the large-scale, high-throughput analysis of protein expression, in
+the development of new database modules. As part of the relationship the Company
+made a $5 equity million investment in Oxford GlycoSciences plc.
+
+     In September 1997, the Company established a 50-50 joint venture company,
+diaDexus LLC ("diaDexus"), with SmithKline Beecham Corporation ("SB'). diaDexus
+intends to utilize genomic and bioinformatic technologies in the discovery and
+commercialization of novel molecular diagnostic products. The Company and SB
+have agreed to contribute up to an aggregate of $25 million to diaDexus.
+
+
+Patents and Proprietary Technology
+
+     The Company's database business and competitive position is dependent upon
+its ability to protect its proprietary database information and software
+technology. The Company relies on patent, trade secret and copyright
+
+
+
+
+
+
+law, and nondisclosure and other contractual arrangements to protect its
+proprietary information.
+
+     The Company's ability to license proprietary genes may be dependent upon
+its ability to obtain patents, protect trade secrets and operate without
+infringing upon the proprietary rights of others. Other pharmaceutical,
+biotechnology and biopharmaceutical companies, as well as academic and other
+institutions have filed applications for, may have been issued patents or may
+obtain additional patents and proprietary rights relating to products or
+processes competitive with those of the Company. Patent applications filed by
+competitors may claim some of the same gene sequences or partial gene sequences
+as those claimed in patent applications filed by the Company. The Company is
+aware that Merck & Co., Inc. ("Merck") (in conjunction with Washington
+University) and The Institute for Genomic Research ("TIGR") have made certain
+gene sequences publicly available, which may adversely affect the ability of the
+Company and others to obtain patents on such genes. There can be no assurance
+that such publication of sequence information will not adversely affect the
+Company's ability to obtain patent protection for sequences that have been made
+publicly available.
+
+     The Company's current policy is to file patent applications on what it
+believes to be novel full-length cDNA sequences and partial sequences obtained
+through the Company's high-throughput computer-aided gene sequencing efforts.
+The Company has filed U.S. patent applications in which the Company has claimed
+certain partial gene sequences and has filed patent applications in the U.S. and
+applications under the Patent Cooperation Treaty ("PCT"), designating countries
+in Europe as well as Asia, Canada, Japan, Mexico, and New Zealand, claiming
+full-length gene sequences associated with cells and tissues that are the
+subject of the Company's high-throughput gene sequencing program. To date, the
+Company has been issued a number of patents with respect to full-length gene
+sequences. Currently, the Company has no registered copyrights for its
+database-related software.
+
+     The patentability of partial gene sequences in general is highly uncertain,
+involves complex legal and factual questions and has recently been the subject
+of much controversy. No clear policy has emerged with respect to the breadth of
+claims allowable for partial gene fragments. There is significant uncertainty as
+to what claims, if any, will be allowed on partial gene sequences derived
+through high-throughout gene sequencing. Certain court decisions suggest that
+disclosure of a partial sequence may not be sufficient to support the
+patentability of a full-length sequence and that patent claims to a partial
+sequence may not cover a full-length sequence inclusive of that partial
+sequence. In 1996, the United States Patent and Trademark Office ("USPTO")
+issued guidelines limiting the number of gene sequences that can be examined in
+a single patent application. Many of the Company's patent applications
+containing multiple partial sequences contain more sequences than the maximum
+number allowed under the new guidelines. The Company is reviewing its options,
+and it is possible that due to the resources needed to comply with the
+guidelines, the Company may decide to abandon patent applications for some of
+its partial gene sequences. To date, no patent has issued from any of the
+Company's patent applications claiming partial gene sequences.
+
+     There can be no assurance that patent applications relating to the
+Company's products or processes will result in patents being issued, or that any
+issued patents will be enforceable against competitors. Even if patents are
+issued on the basis of gene sequences, there may be uncertainty as to the scope
+of the coverage, enforceability or commercial protection provided by any such
+patents. See "Factors That May Affect Results--Uncertainty of Protection of
+Patents and Proprietary Rights."
+
+     As the biotechnology industry expands, more patents are issued and other
+companies engage in the business of discovering genes through the use of high
+speed sequencers and other genomic-related businesses, the risk increases that
+the Company's potential products, and the processes used to develop these
+products, may be subject to claims that they infringe the patents of others.
+Further, the Company is aware of several issued patents in the field of
+microarray or gridding technology, which can be utilized in the generation of
+gene expression information. Certain of these patents are the subject of
+litigation. Therefore, the Company's operations may require it to obtain
+licenses under any such patents or proprietary rights, and no assurance can be
+given that such licenses would be made available on terms acceptable to the
+Company. Litigation may be necessary to defend against or assert claims of
+infringement, to enforce patents issued to the Company, to protect trade secrets
+or know-how owned by the Company, or to determine the scope and validity of the
+proprietary rights of others. The Company believes that certain of its patent
+applications cover genes which may also be claimed in patent applications filed
+
+
+
+
+
+
+
+by other parties. Interference proceedings may be necessary to establish which
+party was the first to invent a particular sequence for the purpose of patent 
+protection. Such litigation or interference proceedings could result in 
+substantial costs to, and diversion of effort by the Company; and may have a
+material adverse effect on the Company's business, operating results and 
+financial condition. In addition, there can be no assurance that such 
+proceedings or litigation would be resolved in the Company's favor.
+
+     On January 6, 1998 Affymetrix, Inc. ("Affymetrix") filed a lawsuit in the
+United States District Court for the District of Delaware alleging infringement
+of U.S. patent number 5,445,934, "Array of oligonucleotides on solid substrate,"
+by both Synteni and Incyte. The Company believes that it and Synteni have
+meritorious defenses and intend to defend the suit vigorously. See "Factors That
+May Affect Results--Litigation."
+
+
+Competition
+
+     There are a finite number of genes in the human genome, and competitors may
+seek to identify, sequence and determine in the shortest time possible the
+biological function of a large number of genes in order to obtain a proprietary
+position with respect to the largest number of new genes discovered. A number of
+companies, institutions, and government-financed entities, are engaged in gene
+sequencing, gene discovery, gene expression analysis, positional cloning and
+other genomic service businesses. Many of these companies, institutions and
+entities have greater financial and human resources than the Company. In
+addition, the Company is aware that other companies have developed genomic
+databases and are marketing, or have announced their intention to market, their
+data to pharmaceutical companies. The Company expects that additional
+competitors may attempt to establish gene sequence, gene expression or other
+genomic databases in the future.
+
+     In addition, competitors may discover and establish patent positions with
+respect to gene sequences in the Company's databases. Further, certain entities
+engaged in gene sequencing, including Merck and TIGR, have made the results of
+their sequencing efforts publicly available. These patent positions, or the
+public availability of gene sequences comprising substantial portions of the
+human genome or on microbial or plant genes, could decrease the potential value
+of the Company's databases to the Company's collaborators and adversely affect
+the Company's ability to realize royalties or other revenue from
+commercialization of products based upon such genetic information.
+
+     The gene sequencing machines that are utilized in the Company's
+high-throughput computer-aided gene sequencing operations are commercially
+available and are currently being utilized by several competitors. Moreover,
+some of the Company's competitors or potential competitors are in the process of
+developing, and may successfully develop, proprietary sequencing technologies
+that may be more advanced than the technology used by the Company. Specifically,
+the Company is aware that there are a number of companies pursuing alternative
+methods for deriving gene expression information, including those developing
+microarray technologies. At least one other company currently offers
+microarray-based services that might be competitive with those offered by
+Synteni. These advanced sequencing or gene expression technologies, if
+developed, may not be commercially available for purchase or license by the
+Company on reasonable terms, or at all.
+
+     A number of companies have announced their intent to develop and market
+software to assist pharmaceutical companies and academic researchers in the
+management and analysis of their own genomic data, as well as the analysis of
+sequence data available in the public domain. Some of these entities have access
+to significantly greater resources than the Company and there can be no
+assurance that these products would not achieve greater market acceptance than
+the products offered by the Company.
+
+     The Company believes that the features and ease of use of its database
+software, its experience in high- throughput gene sequencing, the cumulative
+size of its database, the quality of the data, including the annotations in its
+database, and its experience with bioinformatics and database software are
+important aspects of the Company's competitive position.
+
+     The genomics industry is characterized by extensive research efforts and
+
+
+
+
+
+
+
+rapid technological progress. New developments are expected to continue and 
+there can be no assurance that discoveries by others will not render the 
+Company's services and potential products noncompetitive. In addition, 
+significant levels of research in biotechnology and medicine occur in 
+universities and other non-profit research institutions. These entities have 
+become increasingly active in seeking patent  protection and licensing revenues
+for their research results. These entities also compete with the Company in 
+recruiting talented scientists. See "Factors That May Affect Results--
+Competition and Technological Changes."
+
+
+Government Regulation
+
+     Regulation by governmental authorities in the United States and other
+countries will be a significant factor in the production and marketing of any
+pharmaceutical products that may be developed by a licensee of the Company or by
+the Company. At the present time the Company does not intend to develop any
+pharmaceutical products itself. The Company's agreements with its database
+collaborators provide for the payment to the Company of royalties on any
+pharmaceutical products developed by such collaborators derived from proprietary
+information obtained from Incyte's genomic databases. Thus, the receipt and
+timing of regulatory approvals for the marketing of such products may have a
+significant effect in the future on the Company's revenues. Pharmaceutical
+products developed by licensees will require regulatory approval by governmental
+agencies prior to commercialization. In particular, human pharmaceutical
+therapeutic products are subject to rigorous preclinical and clinical testing
+and other approval procedures by the United States Food and Drug Administration
+in the United States and similar health authorities in foreign countries.
+Various federal and, in some cases, state statutes and regulations also govern
+or influence the manufacturing, safety, labeling, storage, recordkeeping and
+marketing of such pharmaceutical products, including the use, manufacture,
+storage, handling and disposal of hazardous materials and certain waste
+products. The process of obtaining these approvals and the subsequent compliance
+with appropriate federal and foreign statutes and regulations require the
+expenditure of substantial resources over a significant period of time, and
+there can be no assurance that any approvals will be granted on a timely basis,
+if at all. Any such delay in obtaining or failure to obtain such approvals could
+adversely affect the Company's ability to earn milestone payments, royalties or
+other license-based fees. Additional governmental regulations that might arise
+from future legislation or administrative action cannot be predicted, and such
+regulations could delay or otherwise affect adversely regulatory approval of
+potential pharmaceutical products. See "Factors That May Affect
+Results--Reliance on Pharmaceutical Industry; Uncertainty of Health Care Reform
+and Related Matters."
+
+
+Human Resources
+
+     As of January 31, 1998, the Company had 676 full-time equivalent employees
+(141 of whom were contract or part-time employees), including 211 in sequencing
+and reagent production, 168 in bioinformatics, 132 in research and technology
+development, 108 in marketing, sales and administrative positions and 57 at
+Synteni. None of the Company's employees is covered by collective bargaining
+agreements, and management considers relations with its employees to be good.
+The Company's future success will depend in part on the continued service of its
+key scientific, software, bioinformatics and management personnel and its
+ability to identify, hire and retain additional personnel, including personnel
+in the customer service, marketing and sales areas. There is intense competition
+for qualified personnel in the areas of the Company's activities, especially
+with respect to experienced bioinformatics and software personnel, and there can
+be no assurance that the Company will be able to continue to attract and retain
+such personnel necessary for the development of the Company's business. Failure
+to attract and retain key personnel could have a material adverse effect on the
+Company's business, financial condition and operating results. See "Factors That
+May Affect Results--Management of Growth" and "--Dependence on Key Employees."
+
+
+
+
+
+
+
+
+Factors That May Affect Results
+
+     Uncertain Effects of the Synteni Merger. The combination of Synteni and the
+Company involves several potential operating and business risks, including the
+integration of Synteni's and the Company's businesses and management in a
+timely, efficient and effective manner, the timely integration of Synteni's
+microarray technology and services with the Company's database products and
+services, integration of the respective sales and marketing and research and
+development efforts, and any resulting loss of efficiency or loss of employees.
+The combined companies may not realize any revenue enhancements or cost savings
+or maintain Synteni's business relationships with its customers after the
+merger. Also, any cost savings that are realized due to the merger may be offset
+by increases in other expenses or operating losses, including losses due to
+problems in integrating the two companies. See "--Risks Associated With
+Acquisitions." Although the Company believes that beneficial synergies will
+result from the Synteni merger, the combination of the two companies'
+businesses, even if achieved in an efficient, effective and timely manner, may
+not result in combined results of operations and financial condition superior to
+what would have been achieved by each company independently, and may take longer
+than expected. The issuance of the Company's Common Stock in connection with the
+merger, together with Synteni's operating losses, will reduce the Company's net
+income per share, which could affect adversely the market price of the Company's
+Common Stock unless and until revenue growth, cost savings or other business
+synergies sufficient to offset the effect of such issuance can be achieved. This
+growth, savings and synergies may never be achieved. See "--History of Operating
+Losses; Uncertainty of Continued Profitability or Revenues."
+
+     Risks Associated with Acquisitions. As part of its business strategy, the
+Company may from time to time acquire assets and businesses principally relating
+to, or complementary to, its operations. These acquisitions may include
+acquisitions for the purpose of acquiring specific technology. The Company
+acquired two companies, Genome Systems, Inc. ("Genome Systems") and Combion,
+Inc. ("Combion"), in 1996 and acquired Synteni in January 1998. If the Company
+acquires additional businesses that are not located near the Company's Palo
+Alto, California headquarters, the Company may experience more difficulty
+integrating and managing the acquired businesses' operations. These and any
+other acquisitions by the Company involve risks commonly encountered in
+acquisitions of companies. These risks include, among other things, the
+following: the Company may be exposed to unknown liabilities of acquired
+companies; the Company may incur acquisition costs and expenses higher than it
+anticipated; fluctuations in the Company's quarterly and annual operating
+results may occur due to the costs and expenses of acquiring and integrating new
+businesses or technologies; the Company may experience difficulty and expense of
+assimilating the operations and personnel of the acquired businesses; the
+Company's ongoing business may be disrupted and its management's time and
+attention may be diverted; the Company may be unable to integrate successfully
+or to complete the development and application of acquired technology and may
+fail to achieve the anticipated financial, operating and strategic benefits from
+these acquisitions; the Company may experience difficulties in establishing and
+maintaining uniform standards, controls, procedures and policies; the Company's
+relationships with key employees and customers of acquired businesses may be
+impaired, or these key employees and customers may be lost, as a result of
+changes in management and ownership of the acquired businesses; the Company may
+incur amortization expenses if an acquisition is accounted for as a purchase;
+and the Company's stockholders may be diluted if the consideration for the
+acquisition consists of equity securities. The Company may not overcome these
+risks or any other problems encountered in connection with acquisitions. If the
+Company is unsuccessful in doing so, its business, financial condition and
+results of operations could be materially and adversely affected.
+
+     History of Operating Losses; Uncertainty of Continued Profitability or
+Revenues. For the years ended December 31, 1997, 1996 and 1995, the Company had
+net income (losses) of $10.4 million, ($6.8 million) and ($9.9 million),
+respectively, and as of December 31, 1997, the Company had an accumulated
+deficit of $26.1 million. The Company has experienced substantial revenue growth
+since 1995 and has reported quarterly profits since the fourth quarter of 1996.
+However, the Company may not be able to maintain revenue growth or
+profitability. The Company's continued investment in new product and technology
+development, obligations under existing and future research and development
+alliances, and increased investment in marketing, sales and customer service
+will require a continued increase in expenditures in 1998 and beyond. In
+addition, the Company's earnings per shares and rate of growth in
+
+
+
+
+
+
+profitability will likely be decreased for at least the first half of 1998, if
+not longer, as a result of the incorporation into its consolidated results of
+operations the losses incurred by the Synteni operations. Synteni's ability to
+contribute to the profitability of the Company will be dependent on the ability
+of the Company and Synteni to obtain high volume customers for Synteni's
+microarray services. To date Synteni's microarray service agreements consist of
+small volume pilot or feasibility agreements. The Company's ability to achieve
+and maintain significant revenues will be dependent upon its ability to obtain
+additional database collaborators and retain existing collaborators. The
+Company's ability to maintain profitability will be dependent upon its ability
+to obtain such database collaborators, the level of expenditures necessary for
+the Company to maintain and support its services to its collaborators, and the
+extent to which it incurs research and development, investment,
+acquisition-related or other expenses related to the development and provision
+of its products and services to database collaborators. While, as of February
+1998, the Company had twenty database collaborations, the Company may be unable
+to enter into any additional collaborations. Further, the Company's database
+collaboration agreements typically have a term of three years. Some of these
+agreements require the Company to meet certain performance obligations. These
+agreements may not be renewed upon expiration, and a database collaboration
+agreement may be terminated earlier by a collaborator if the Company breaches
+the agreement and fails to cure such breach within a specified period. In
+addition one database collaborator has the right on 30 days' written notice to
+terminate its database collaboration agreement. The loss of revenues from any
+database collaborator could have a material adverse effect on the Company's
+business, financial condition and results of operations.
+
+     Part of the Company's commercialization strategy is to license to database
+collaborators the Company's patent rights to individual partial genes or
+full-length cDNA sequences from the Company's proprietary sequence database, for
+development as potential pharmaceutical, diagnostic or other products. Any
+potential product that is the subject of such a license will require several
+years of further development, clinical testing and regulatory approval prior to
+commercialization. Accordingly, the Company does not expect to receive any
+milestone or royalty payments from any such licenses for a substantial period of
+time, if at all.
+
+     Fluctuations in Operating Results. The Company's operating results may
+fluctuate significantly from quarter to quarter as a result of a variety of
+factors, including changes in the demand for the Company's products and
+services, the pricing of database access to database collaborators, the nature,
+pricing and timing of other products and services provided to the Company's
+collaborators, changes in the research and development budgets of the Company's
+collaborators and potential collaborators, capital expenditures, acquisition and
+licensing costs and other costs related to the expansion of the Company's
+operations, including operating losses of acquired businesses such as Synteni,
+the introduction of competitive databases or services, and expenses related to,
+and results of, litigation. In particular, the Company has a limited ability to
+control the timing of database installations, there is a lengthy sales cycle
+required for the Company's database products, the Company's revenue levels are
+difficult to forecast, the time required to complete custom orders can vary
+significantly and the Company's increasing investments in external alliances
+could result in significant quarterly fluctuations in expenses due to the
+payment of milestones, license fees or research payments. The Company's
+investments in joint ventures and businesses, particularly diaDexus, a joint
+venture with SB, may require the Company to record losses or expenses related to
+its proportionate ownership interest in such entities, to record charges for the
+acquisition of in-process technologies, or to record charges for recognition of
+the impairment in the value of the securities underlying such investments. In
+addition, the Company could incur substantial expenses in its defense of the
+lawsuit filed in January 1998 by Affymetrix alleging patent infringement by
+Synteni and Incyte. See "--Litigation." The need for continued investment in
+development of the Company's databases and related products and services and for
+extensive ongoing collaborator support capabilities results in significant fixed
+expenses. If revenue in a particular period does not meet expectations, the
+Company may not be able to adjust significantly its level of expenditures in
+such period, which would have an adverse effect on the Company's operating
+results. The Company may also experience difficulty in forecasting levels of
+operating expenditures for, and integration-related expenses with respect to,
+subsidiaries acquired through acquisitions, at least until a substantial period
+of time has passed since the acquisition date. This is particularly true when
+attempting to forecast expenditure levels for acquired businesses that focus on
+technologies for which there is not yet an established market. The Company
+believes that quarterly comparisons of its financial results will not
+necessarily be meaningful and should not be relied upon as an indication of
+future performance. Due to the foregoing and other unforeseen
+
+
+
+
+
+
+factors, it is likely that in some future quarter or quarters the Company's
+operating results may be below the expectations of public market analysts and
+investors. In such event, the price of the Company's Common Stock would likely
+be materially and adversely affected.
+
+     Competition and Technological Changes. There are a finite number of genes
+in the human genome, and competitors may seek to identify, sequence and
+determine in the shortest time possible the biological function of a large
+number of genes in order to obtain a proprietary position with respect to the
+largest number of new genes discovered. There are a number of companies, other
+institutions, and government-financed entities engaged in gene sequencing, gene
+discovery, gene expression analysis, positional cloning and other genomic
+service businesses. Many of these companies, institutions and entities have
+greater financial and human resources than the Company. In addition, the Company
+is aware that other companies have developed genomic databases and are
+marketing, or have announced their intention to market their data to
+pharmaceutical companies. The Company expects that additional competitors may
+attempt to establish gene sequence, gene expression or other genomic databases
+in the future.
+
+     In addition, competitors may discover and establish patent positions with
+respect to gene sequences in Company's databases. Further, certain entities
+engaged in gene sequencing, including Merck and TIGR, have made the results of
+their sequencing efforts publicly available. These patent positions or the
+public availability of gene sequences comprising substantial portions of the
+human genome or on microbial or plant genes could decrease the potential value
+of the Company's databases to the Company's collaborators and adversely affect
+the Company's ability to realize royalties or other revenue from
+commercialization of products based upon this genetic information.
+
+     The gene sequencing machines that are utilized in the Company's
+high-throughput computer-aided gene sequencing operations are commercially
+available and are currently being utilized by several competitors. Some of the
+Company's competitors or potential competitors are in the process of developing,
+and may successfully develop, proprietary sequencing technologies that may be
+more advanced than the technology used by the Company. In addition, the Company
+is aware that there are a number of companies, in addition to Synteni, pursuing
+alternative methods for generating gene expression information, including those
+that have developed, and are developing, microarray technologies. At least one
+other company currently offers microarray-based services that might be
+competitive with those offered by Synteni. These advanced sequencing or gene
+expression technologies, if developed, may not be commercially available for
+purchase or license by the Company on reasonable terms, if at all.
+
+     A number of companies have announced their intent to develop and market
+software to assist pharmaceutical companies and academic researchers in the
+management and analysis of their own genomic data, as well as the analysis of
+sequence data available in the public domain. Some of these entities have access
+to significantly greater resources than the Company and these products may
+achieve greater market acceptance than the Company's products.
+
+     The Company's databases also require extensive software support and
+incorporate features determined by database collaborators' needs. If the Company
+experiences delays or difficulties in implementing its database software or
+collaborator-requested features, its ability to service its collaborators may be
+adversely affected, which might have an adverse effect on the Company's business
+and operating results.
+
+     The genomics industry is characterized by extensive research efforts and
+rapid technological progress. To remain competitive, the Company will be
+required to continue to expand its databases and to enhance the functionality of
+its bioinformatics and database software. New developments are expected to
+continue and discoveries by others may render the Company's services and
+potential products noncompetitive.
+
+     New and Uncertain Business. The Company's genomic database business and the
+use of its databases, software tools and related services to assist its
+collaborators and potentially improve the efficiency of the traditional drug
+discovery process represent a business for which there is no precedent. In
+addition, Synteni's microarray services business represents a business for which
+there is no precedent. The Company's database collaborators or potential
+collaborators, or Synteni's current or potential customers, may determine that
+the databases, software tools and microarray and related services provided by
+the Company and Synteni are not useful or cost-effective. The
+
+
+
+
+
+
+Company's strategy of using high-throughput sequencing to identify genes rapidly
+and obtain proprietary rights in as many genes as possible and Synteni's
+strategy of using microarrays to identify differentially expressed genes is
+unproven. In addition, the Company has limited experience in providing
+bioinformatics software and database products and services. The Company's
+ability to sustain profitability depends on attracting additional collaborators
+and retaining existing collaborators for its database, sequencing and software
+products and services and Synteni's microarray services. The nature and price of
+these database, sequencing and software products and services and microarray
+services are such that there is a limited number of pharmaceutical and
+biotechnology companies that are potential collaborators for such products and
+services. Additional factors that may affect demand for the Company's products
+and services include the extent to which potential collaborators choose to
+conduct in-house gene sequencing and bioinformatics analysis, the emergence of
+competitors offering similar services at competitive prices, the ability of the
+Company to service satisfactorily its existing collaborators, the extent to
+which the gene and related information in the Company's database is made public
+by, or is the subject of, patents issued to others, the Company's ability to
+establish and enforce proprietary rights to its products, and the emergence of
+technological innovations in gene sequencing, gene expression profiling or
+bioinformatics and relational database software that are more advanced than the
+technology used by and available to the Company. The Company may be unable to
+attract additional collaborators on acceptable terms for its products and
+services or develop a sustainable profitable business.
+
+     Risks Associated with Strategic Investments. The Company has funded and
+intends in the future to fund strategic equity investments in joint ventures or
+businesses that complement the business of the Company. These investments, such
+as the Company's investment in the diaDexus, may require the Company to record
+losses and expenses related to its proportionate ownership interest in such
+entities, the acquisition of in-process technologies, or the impairment in the
+value of the securities underlying such investments. These losses may exceed
+amounts anticipated, which could result in the Company's operating results being
+below the expectations of public market analysts and investors. These
+investments may often be made in securities for which there is no public trading
+market or in securities not registered under the Securities Act and therefore
+subject to trading restrictions, either of which increases the Company's risk of
+investment and reduces the liquidity of the Company's investment. In addition,
+the Company could be required to invest greater amounts than initially
+anticipated or to devote substantial management time to the management of
+research and development relationships and joint ventures. The occurrence of any
+of the foregoing could result in a material adverse effect on the Company's
+business, financial condition and results of operations.
+
+     Lengthy Sales Cycle. The ability of the Company to obtain new collaborators
+for its databases, software tools and microarray and other services depends in
+significant part upon prospective collaborators' perceptions that the Company's
+databases, software tools, and services can help accelerate drug discovery
+efforts. The sales cycle is typically lengthy due to the education effort that
+is required, as well as the need to effectively sell the benefits of the
+Company's databases, software tools, and services to a variety of constituencies
+within potential collaborator companies. In addition, each database
+collaboration and microarray services agreement involves the negotiation of
+agreements containing terms that may be unique to each partner, such as the
+scope of any licenses granted and whether satellite database services or access
+to multiple database modules is desired. The Company may expend substantial
+funds and management effort with no assurance that a database collaboration will
+result.
+
+     Uncertainty of Protection of Patents and Proprietary Rights. The Company's
+database business and competitive position are dependent in part upon its
+ability to protect its proprietary database information and software technology.
+Despite the Company's efforts to protect its proprietary database information
+and software technology, unauthorized parties may attempt to obtain and use
+information that the Company regards as proprietary. Although the Company's
+database collaboration agreements require its collaborators to provide adequate
+security for, and to control access to the Company's databases, policing
+unauthorized use of the Company's databases and software by the Company or its
+collaborators is difficult. The Company relies on patent, trade secret, and
+copyright law, and nondisclosure and other contractual arrangements to protect
+its proprietary information.
+
+     To date, the Company has been issued a number of patents with respect to
+the gene sequences in the Company's databases and has not been issued patents or
+registered copyrights for its related software. Patents cannot
+
+
+
+
+
+
+prevent others from developing, selling or licensing databases that include
+sequences which might be covered by the Company's patents and copyrights. The
+Company cannot prevent others from independently developing software that might
+be covered by any copyrights issued to the Company and trade secret laws do not
+prevent independent development. Thus, there can be no assurance that others
+will not independently develop substantially equivalent proprietary information
+and techniques or otherwise gain access to the Company's proprietary
+information, that this information will not be disclosed or that the Company can
+effectively protect its rights to unpatented trade secrets.
+
+     The Company pursues a policy of having its employees, consultants and
+advisors execute proprietary information and invention agreements upon
+commencement of employment or consulting relationships with the Company. These
+agreements provide that all confidential information developed or made known to
+the individual during the course of the relationship shall be kept confidential
+except in specified circumstances. These agreements may not, however, provide
+meaningful protection for the Company's trade secrets or other proprietary
+information in the event of unauthorized use or disclosure of this information.
+
+     The Company's current policy is to file patent applications on what it
+believes to be novel full-length cDNA sequences and partial sequences obtained
+through the Company's high-throughput computer-aided gene sequencing efforts.
+The Company has filed U.S. patent applications in which the Company has claimed
+certain partial gene sequences and has filed patent applications in the U.S. and
+applications under the PCT designating countries in Europe as well as Asia,
+Canada, Japan, Mexico and New Zealand claiming full-length gene sequences
+associated with cells and tissues that are the subject of the Company's
+high-throughput gene sequencing program. To date, the Company holds a number of
+issued U.S. patents on full-length genes, but no patent has issued from any of
+the Company's patent applications that claim partial gene sequences. The Company
+is aware that Merck (in conjunction with Washington University) and TIGR have
+made certain gene sequences publicly available, which may adversely affect the
+ability of the Company and others to obtain patents on such genes. The Company's
+ability to obtain patent protection for certain sequences that have been made
+publicly available may be adversely affected.
+
+     The Company believes that certain of its patent applications claim genes
+which may also be claimed in patent applications filed by other parties. In some
+or all of these applications, a determination of priority of inventorship may
+need to be decided in an interference before the USPTO. Given the large number
+of applications filed by the Company, a large number of interferences could be
+expensive and time consuming. In addition, it is impossible to predict how many,
+if any, of the interferences would be resolved in the Company's favor.
+
+     The patentability of partial gene sequences in general is uncertain,
+involves complex legal and factual questions, and has recently been the subject
+of much controversy. As a result, patent applications filed by the Company on
+such partial gene sequences may not result in issued patents. Even if patents
+are issued for partial gene sequences, there may be uncertainty as to the scope
+of the coverage, enforceability or commercial protection provided by any such
+patents. Certain court decisions suggest that disclosure of a partial sequence
+may not be sufficient to support the patentability of a full-length sequence and
+that patent claims to a partial sequence may not cover a full-length sequence
+inclusive of that partial sequence.
+
+     The USPTO has had a substantial backlog of biotechnology patent
+applications and, in particular, applications that claim gene sequences. In
+1996, the USPTO issued guidelines limiting the number of gene sequences that can
+be examined within a single patent application. Many of the Company's patent
+applications containing multiple partial sequences contain more sequences than
+the maximum number allowed under the new guidelines. The Company is reviewing
+its options and, due to the resources needed to comply with the guidelines, may
+decide to abandon patent applications for some of its partial gene sequences.
+
+     In view of the possible delay in obtaining allowance of some of the
+Company's patent applications, and the secrecy of patent applications, the
+Company does not know if other applications that would have priority over the
+Company's applications have been filed. Furthermore, changes in U.S. patent laws
+resulting from the General Agreement on Tariffs and Trade ("GATT") became
+effective in June 1995. Most notably, GATT resulted in U.S. law being amended to
+change the term of patent protection from seventeen years from patent issuance
+to twenty years from the earliest effective filing date of the application.
+
+
+
+
+
+
+
+Because the average time from filing to issuance of biotechnology applications 
+is at least one year and may be more than three years depending on the subject 
+matter, a twenty-year patent term from the date of filing may result in a 
+substantially shortened term of patent protection, which may adversely affect 
+the Company's period of exclusivity under any patents that may issue to the
+Company. Pending applications claiming large numbers of gene sequences may, in 
+some situations, need to be refiled while claiming priority to the earliest 
+filing date and, in such situations, the patent term will be measured from the 
+date of the earliest priority application. This would reduce the patent term
+and have a potentially adverse effect on the Company's period of exclusivity.
+
+     Biotechnology patent law outside the United States is even more uncertain
+and is currently undergoing review and revision in many countries. Further, the
+laws of certain foreign countries may not protect the Company's intellectual
+property rights to the same extent as do the laws of the United States. The
+Company may participate in opposition proceedings to determine the validity of
+its or its competitors' non-U.S. patents, which could result in substantial
+costs to and diversion of effort by the Company.
+
+     As the biotechnology industry expands, more patents are issued and other
+companies engage in the business of discovering genes through the use of high
+speed sequencers and in other genomic-related businesses, the risk increases
+that the Company's potential products or the processes used by the Company to
+develop these products, may be subject to claims that they infringe the patents
+of others. Further, the Company is aware of several issued patents in the field
+of microarray or gridding technology, which can be utilized in the generation of
+gene expression information. Certain of these patents are the subject of
+litigation. Therefore, the Company's operations may require it to obtain
+licenses under any of these patents or proprietary rights, and these licenses
+may not be made available on terms acceptable to the Company. Litigation may be
+necessary to defend against or assert claims of infringement, to enforce patents
+issued to the Company, to protect trade secrets or know-how owned by the
+Company, or to determine the scope and validity of the proprietary rights of
+others. Interference proceedings may be necessary to establish which party was
+the first to invent or the first to obtain a particular gene sequence for the
+purpose of patent protection. Litigation or interference proceedings could
+result in substantial costs to, and diversion of effort by the Company, and may
+have a material adverse effect on the Company's business, financial condition
+and results of operations. In addition, these efforts by the Company may not be
+successful.
+
+     As is typical in the genomics and software industries, the Company has from
+time to time received notices from third parties alleging infringement claims.
+The Company believes that it is not infringing the patent rights of any such
+third party, and in circumstances in which the Company has determined a response
+to an alleged infringement claim to be appropriate, the Company has notified the
+claimant to that effect. To date, except as set forth below under
+"--Litigation," no third party has taken any action with respect to an alleged
+claim against the Company. There can be no assurance that action will not be
+taken against the Company in the future, either with respect to previously
+asserted or new claims or that if any action is taken, what the outcome of such
+action will be.
+
+     Litigation. On January 6, 1998, Affymetrix filed a lawsuit in the United
+States District Court for the District of Delaware alleging infringement of U.S.
+patent number 5,445,934 (the "934 Patent") by both Synteni and Incyte. The
+complaint alleges that the '934 Patent has been infringed by the making, using,
+selling, importing, distributing or offering to sell in the U.S. high density
+arrays by Synteni and Incyte and that such infringement was willful. Affymetrix
+seeks a permanent injunction enjoining Synteni and Incyte from further
+infringement of the '934 Patent and, in addition, seeks damages, costs and
+attorney's fees and interest. Affymetrix further requests that any such damages
+be trebled based on its allegation of willful infringement by Incyte and
+Synteni. Incyte and Synteni believe they have meritorious defenses and intend to
+defend the suit vigorously. However, there can be no assurance that Incyte and
+Synteni will be successful in the defense of this suit, and litigation could
+result in substantial expenses and diversion of the efforts of management and
+technical personnel. Further, there can be no assurance that any license that
+may be required as a result of this suit or the outcome thereof would be made
+available on commercially acceptable terms, if at all.
+
+     Future Capital Needs; Uncertainty of Additional Funding. The Company
+believes that its existing cash, cash equivalents and marketable securities
+should be adequate to satisfy the Company's projected working capital,
+
+
+
+
+
+
+capital expenditure and other cash requirements at least through 1998. However,
+the Company may be unable to obtain additional database collaborators or retain
+existing collaborators for the Company's databases, and its database products
+and services may not produce revenues, which together with the Company's cash,
+cash equivalents, and marketable securities, will be adequate to fund the
+Company's cash requirements. The Company's cash requirements depend on numerous
+factors, including the ability of the Company to attract and retain
+collaborators for its databases and genomic products and services; expenditures
+in connection with alliances, license agreements and acquisitions of and
+investments in complementary technologies and businesses; competing
+technological and market developments; the cost of filing, prosecuting,
+defending, and enforcing patent claims and other intellectual property rights;
+the purchase of additional capital equipment or other capital expenditures,
+including capital equipment necessary to ensure that the Company's sequencing
+and microarray operations remain competitive; capital expenditures required to
+expand the Company's and Synteni's facilities; and costs associated with the
+integration of new operations assumed through mergers and acquisitions. In
+particular, the Company expects its cash requirements to increase in 1998 as it
+increases its investment in data processing-related computer hardware in order
+to support its existing and new database products; continues to seek access to
+technologies through investments, alliances, license agreements, and/or
+acquisitions; makes investments associated with integration of acquired
+companies; and addresses its needs for larger facilities and/or improvements in
+existing facilities. Changes in the Company's research and development plans, or
+other changes affecting the Company's operating expenses, may result in changes
+in the timing and amount of expenditures of the Company's capital resources. If
+additional capital is raised through the sale of equity or convertible debt
+securities, the issuance of these securities could result in dilution to the
+Company's existing stockholders. Additional funding, if necessary, may not be
+available on favorable terms, if at all. If adequate funds are not available,
+the Company may be required to curtail operations significantly or to obtain
+funds through entering into collaborative arrangements that may require the
+Company to relinquish rights to certain of its technologies, product candidates,
+products or potential markets.
+
+     Management of Growth. The Company has recently experienced, and expects to
+continue to experience, significant growth in the number of its employees and
+the scope of its operations. This growth has placed, and may continue to place,
+a significant strain on the Company's management and operations. The Company's
+ability to manage effectively this growth will depend upon its ability to
+broaden its management team and its ability to attract, hire and retain skilled
+employees. The Company's success will also depend on the ability of its officers
+and key employees to continue to implement and improve its operational,
+management information and financial control systems and to expand, train and
+manage its employee base. In addition, the Company must continue to take steps
+to provide customer support resources as the number of overall database
+collaborators and the number of requests from collaborators increases. Further,
+the Company's database collaborators typically have worldwide operations and may
+require support at multiple U.S. and foreign sites. Providing this support may
+require the Company to open offices in addition to its Palo Alto, California
+headquarters and its office in the United Kingdom, which could result in
+additional burdens on the Company's systems and resources. The Company's
+inability to manage growth effectively, including its growth through
+acquisitions, could have a material adverse effect on the Company's business,
+financial condition and results of operations.
+
+     Dependence on Key Employees. The Company is highly dependent on the
+principal members of its scientific and management staff, including Roy A.
+Whitfield, its Chief Executive Officer, and Randal W. Scott, its President and
+Chief Scientific Officer, the loss of whose services would have a material
+adverse effect on the Company's business. The Company has not entered into any
+employment agreements with any of these persons and does not maintain any key
+person life insurance policy on the life of any employee. The Company's future
+success also will depend in part on the continued service of its key scientific,
+software, bioinformatics and management personnel and its ability to identify,
+hire and retain additional personnel, including personnel in the customer
+service, marketing and sales areas. The Company experiences intense competition
+for qualified personnel in the areas of the Company's activities, especially
+with respect to experienced bioinformatics and software personnel, and there can
+be no assurance that the Company will be able to continue to attract and retain
+personnel necessary for the development of the Company's business. Failure to
+attract and retain key personnel could have a material adverse effect on the
+Company's business, financial condition and results of operations.
+
+
+
+
+
+
+
+     Dependence on Others. The Company relies on a limited number of suppliers
+of gene sequencing machines and certain reagents required in connection with the
+gene sequencing process. While other gene sequencing machines are available, the
+Company does not believe that they are as efficient as the machines currently
+used by the Company. In addition, while the Company is evaluating certain future
+generation gene sequencing machines, these future generation sequencing machines
+may never become commercially available, available at acceptable costs, or prove
+to be more effective than current machines. Patent right issues concerning
+certain current and future generation sequencing machines may also arise which
+could prevent the Company from using them or make their use more expensive. If
+the Company is unable to obtain additional machines or an adequate supply of
+reagents or other materials at commercially reasonable rates, its ability to
+continue to identify genes through gene sequencing would be adversely affected.
+In addition, although the Company obtains, from a number of sources, tissue
+samples from which mRNA may be isolated, the loss of access to some of these
+sources, increased fees for access to these sources or increased restrictions on
+use of the information generated could adversely affect the Company's business.
+
+     The Company's strategy for the development of its database and sequencing
+business and the commercialization of its portfolio of partial and full-length
+gene sequences may require the Company to enter into various research and
+development relationships with corporate and academic collaborators and others.
+The success of these relationships is dependent upon the performance of outside
+parties of their responsibilities. The Company may not be able to establish
+collaborative arrangements or license agreements that the Company deems
+necessary or acceptable to develop its database and sequencing business or, in
+the future, to commercialize its portfolio of partial and full-length gene
+sequences. In addition, these collaborative arrangements or license agreements
+may not be successful. The Company's collaborators may also be pursuing
+alternative technologies or developing alternative products either on their own
+or in collaboration with others, including the Company's competitors.
+
+     The Company has relied on scientific, technical, pathology, commercial and
+other data supplied and disclosed by others, including its academic
+collaborators and sources of tissue samples, and may rely on these data in the
+construction of its database. There can be no assurance that these data contains
+no errors or omissions, the knowledge of which would adversely change the
+prospects for the Company's business.
+
+     Year 2000 Issue. As a result of computer programs being written using two
+digits, rather than four, the performance of the Company's computer systems and
+those of its suppliers and customers in the Year 2000 is uncertain. Any computer
+programs that have time-sensitive software may recognize a date using "00" as
+the year 1900 rather than the year 2000. This could result in a system failure
+or miscalculations causing disruptions of operations, including, among other
+things, a temporary inability to process transactions, send invoices, or engage
+in similar normal business activities. The Company plans to initiate a Year 2000
+project, using internal and external resources, to evaluate the impact of the
+Year 2000 on its products and operating systems. This will include the
+initiation of formal communications with its significant suppliers and customers
+to determine the extent to which the Company's interface systems are vulnerable
+to third party failures to remediate their own Year 2000 issues. There can be no
+guarantee that the systems of other companies on which the Company's systems
+rely will be timely converted and would not have an adverse effect on the
+Company's systems. The Company will perform a comprehensive review of all
+internally used financial and administrative systems as well as internally
+developed products sold to customers. At this time, given that the Company's
+internal financial and administrative systems have been installed within the
+last few years, and all internally developed software-based products sold to
+customers have been developed over the last few years, the Company does not
+expect the cost of addressing the Year 2000 issue to have a material impact on
+the Company's business, results of operations or financial condition. However,
+there can be no guarantee that if modifications or replacement of portions of
+the software are necessary, it will be completed in a timely manner.
+
+     Hazardous Materials; Environmental Matters. The Company's research and
+development involves the controlled use of hazardous and radioactive materials
+and biological waste. The Company is subject to federal, state and local laws
+and regulations governing the use, manufacture, storage, handling and disposal
+of these materials and certain waste products. Although the Company believes
+that its safety procedures for handling and disposing of these materials comply
+with the standards prescribed by such laws and regulations, the risk of
+
+
+
+
+
+
+accidental contamination or injury from these materials cannot be completely
+eliminated. In the event of such an accident, the Company could be held liable
+for any damages that result and any such liability could exceed the resources 
+of the Company. Although the Company believes that it is in compliance in all
+material respects with applicable environmental laws and regulations and 
+currently does not expect to make material additional capital expenditures for 
+environmental control facilities in the near-term, the Company may in the 
+future be required to incur significant costs to comply with environmental laws
+and regulations, and there can be no assurance that the operations, business or
+assets of the Company will not be materially or adversely affected by current 
+or future environmental laws or regulations.
+
+     Reliance on Pharmaceutical Industry; Uncertainty of Health Care Reform and
+Related Matters. The Company expects that all of its revenues in the foreseeable
+future will be derived from products and services provided to the pharmaceutical
+and biotechnology industries. Accordingly, the Company's success in the
+foreseeable future is directly dependent upon the success of the companies
+within those industries and their continued demand for the Company's products
+and services. The Company's operations may in the future be subject to
+substantial period-to-period fluctuations as a consequence of reductions and
+delays in research and development expenditures by companies in these industries
+resulting from factors such as changes in economic conditions, changes in the
+regulatory environment affecting health care and health care providers, pricing
+pressures, market-driven pressures on companies to consolidate and reduce costs,
+and other factors affecting research and development spending. The occurrence of
+any of the foregoing factors could have a material adverse effect on the
+Company's business, financial condition and results of operations.
+
+     Risk of Business Interruption. The Company conducts all of its sequencing
+and other activities at its facilities in Palo Alto, California, and Synteni
+conducts all of its operations at its facilities in Fremont, California. Both
+locations are in a seismically active area. Although the Company maintains
+business interruption insurance, the Company does not currently have, nor does
+it plan to obtain, earthquake insurance. A major catastrophe (such as an
+earthquake or other natural disaster) could result in a prolonged interruption
+of the Company's business.
+
+
+
+
+
+
+ITEM 2.    PROPERTIES
+
+     Incyte's headquarters are in Palo Alto, California, where its main research
+laboratories, sequencing facility, bioinformatics and administrative facilities
+are located. Incyte also operates facilities in St. Louis, Missouri. As of
+February 28, 1998, Incyte had multiple sublease and lease agreements covering
+approximately 112,000 square feet that expire on various dates ranging from
+March 1998 to January 2006. In addition, Synteni, leases a 28,000 square foot
+facility in Fremont, California. In July 1997, the Company entered into a
+multi-year lease with respect to a 95,000 square foot building to be constructed
+adjacent to the Company's Palo Alto headquarters. The Company is currently
+pursuing options to obtain temporary space suitable to meet current growth
+requirements until the Company can occupy the new Palo Alto building. There can
+be no assurance that suitable additional space will be available to the Company,
+when needed, on commercially reasonable terms. The Company's inability to obtain
+sufficient additional space, when needed, could have a material adverse effect
+on the Company's business, financial condition and results of operations.
+
+ITEM 3.    LEGAL PROCEEDINGS
+
+     On January 6, 1998, Affymetrix filed a lawsuit in the United States
+District Court for the District of Delaware alleging infringement of the '934
+Patent by both Synteni and Incyte. The complaint alleges that the '934 Patent
+has been infringed by the making, using, selling, importing, distributing or
+offering to sell in the U.S. high density arrays by Synteni and Incyte and that
+such infringement was willful. Affymetrix seeks a permanent injunction enjoining
+Synteni and Incyte from further infringement of the '934 Patent and, in
+addition, seeks damages, costs and attorney's fees and interest. Affymetrix
+further requests that any such damages be trebled based on its allegation of
+willful infringement by Incyte and Synteni. Incyte and Synteni believe they have
+meritorious defenses and intend to defend the suit vigorously. However, there
+can be no assurance that Incyte and Synteni will be successful in the defense of
+this suit, and litigation could result in substantial expenses and diversion of
+the efforts of management and technical personnel. Further, there can be no
+assurance that any license that may be required as a result of this suit or the
+outcome thereof would be made available on commercially acceptable terms, if at
+all.
+
+ITEM 4.    SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     Not applicable.
+
+
+
+
+
+
+                                     PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+     The Company's common stock, par value $.001 ("Common Stock"), was traded on
+the American Stock Exchange ("ASE") under the symbol "IPI" from the Company's
+initial public offering on November 4, 1993 until January 15, 1996. Since
+January 16, 1996, the Company's Common Stock has been traded on the Nasdaq
+National Market ("Nasdaq") under the symbol "INCY." The following table sets
+forth, for the periods indicated, the range of high and low sales prices for the
+Common Stock on the ASE or Nasdaq, as applicable, as reported in their
+respective consolidated transaction reporting systems.
+
+
+         1996                              High                      Low
+         ----                              ----                      ---
+
+         First Quarter                     19 11/16                   12 5/16
+         Second Quarter                    19 15/16                   11 9/16
+         Third Quarter                     24 7/8                     16 1/4
+         Fourth Quarter                    26 7/16                    17 3/4
+
+         ----
+         First Quarter                     37 1/4                     24 1/16
+         Second Quarter                    35 7/8                     20 3/4
+         Third Quarter                     42 1/4                     29 13/16
+         Fourth Quarter                    45 1/4                     31 1/2
+
+     The above high and low sales prices for the Common Stock have been adjusted
+to reflect the November 1997 two-for-one stock split effected in the form of a
+stock dividend.
+
+     As of December 31, 1998, the Common Stock was held by 157 stockholders of
+record. The Company has never declared or paid dividends on its capital stock
+and does not anticipate paying any dividends in the foreseeable future.
+
+
+
+
+
+
+
+
+
+ITEM 6.  SELECTED CONSOLIDATED FINANCIAL DATA
+
+     The data set forth below should be read in conjunction with "Management's
+Discussion and Analysis of Financial Condition and Results of Operations" and
+the Consolidated Financial Statements and related Notes included in Items 7 and
+8 in this Report.
+
+
+
+
+
+
+
+
+
+
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+     The following discussion and analysis of the Company's financial condition
+and results of operations should be read in conjunction with "Selected
+Consolidated Financial Data" and the Consolidated Financial Statements and
+related Notes included in Items 6 and 8 in this Report.
+
+     When used in this discussion, the words "expects," "anticipates,"
+"estimates," and similar expressions are intended to identify forward-looking
+statements. Such statements, which include statements as to expected expenditure
+levels and the adequacy of capital resources, are subject to risks and
+uncertainties that could cause actual results to differ materially from those
+projected. These risks and uncertainties include, but are not limited to, those
+risks discussed below, as well as the extent of utilization of genomic
+information by the pharmaceutical industry in both research and development;
+risks relating to the development of new database products and their use by
+potential collaborators of the Company; the impact of technological advances and
+competition; the ability of the Company to obtain and retain customers;
+competition from other entities; early termination of a database collaboration
+agreement or failure to renew an agreement upon expiration; the ability to
+successfully integrate the operations of recent business combinations; the cost
+of accessing technologies developed by other companies; uncertainty as to the
+scope of coverage, enforceability or commercial protection from patents that
+issue on gene sequences and other genetic information; the viability of joint
+ventures and businesses in which the Company has purchased equity; and the
+matters discussed in Item 1 under the caption "Business--Factors That May Affect
+Results." These forward-looking statements speak only as of the date hereof. The
+Company expressly disclaims any obligation or undertaking to release publicly
+any updates or revisions to any forward-looking statements contained herein to
+reflect any change in the Company's expectations with regard thereto or any
+change in events, conditions or circumstances on which any such statement is
+based.
+
+
+Overview
+
+     Incyte Pharmaceuticals, Inc. (the "Company") designs, develops and markets
+genomic database products, genomic data management software tools and related
+reagents and services. The Company's genomic databases integrate bioinformatics
+software with proprietary and, when appropriate, publicly available genetic
+information to create information-based tools used by pharmaceutical and
+biotechnology companies in drug discovery and development. In building the
+databases, the Company utilizes high-throughput, computer-aided gene sequencing
+and analysis technologies to identify and characterize the expressed genes of
+the human genome, as well as certain animal, plant and microbial genomes. In
+January 1998, the Company completed the acquisition of Synteni, Inc.
+("Synteni"), a microarray-based gene expression company.
+
+     Revenues recognized by the Company are predominantly related to database
+collaboration agreements and consist primarily of non-exclusive database access
+fees. Revenues also include sales of genomic screening products and services and
+fees for custom or "satellite" database services. The Company's database
+collaboration agreements provide for future milestone payments and royalties
+from the sale of products derived from proprietary information obtained through
+the databases. There can be no assurance that any database collaborators will
+ever generate products from information contained within the databases and thus
+that the Company will ever receive milestone payments or royalties.
+
+     While the Company reported net income for 1997, there can be no assurance
+that the Company can maintain profitability. The Company's ability to maintain
+significant revenues will be dependent upon its ability to obtain additional
+database collaborators and retain existing collaborators. The Company's ability
+to maintain profitability will also be dependent upon the level of expenditures
+necessary for the Company to maintain and support its services to its
+collaborators and the extent to which it incurs research and development,
+investment, acquisition-related or other expenses related to the development and
+provision of its products and services to database collaborators. Further, the
+Company's database collaboration agreements typically have a term of three
+years. Some of these
+
+
+
+
+
+
+agreements require the Company to meet certain performance obligations. These
+agreements may not be renewed upon expiration and a database collaboration
+agreement may be terminated earlier by a collaborator if the Company breaches
+the agreement. In addition, one database collaborator has the right on 30 days'
+written notice to terminate its database collaboration agreement. There can be
+no assurance that any of the Company's database collaboration agreements will be
+renewed upon expiration or not terminated earlier in accordance with its terms.
+The loss of revenues from any database collaborator could have a material
+adverse effect on the Company's business, financial condition and results of
+operations.
+
+     The Company's operating results may fluctuate significantly from quarter to
+quarter as a result of a variety of factors including changes in the demand for
+the Company's products and services; the pricing of database access to database
+collaborators; the nature, pricing and timing of other products and services
+provided to the Company's collaborators; changes in the research and development
+budgets of the Company's collaborators and potential collaborators; capital
+expenditures; acquisition and licensing costs and other costs related to the
+expansion of the Company's operations, including operating losses of acquired
+businesses such as Synteni; the introduction of competitive databases or
+services; and expenses related to, and results of, litigation. In particular,
+the Company has a limited ability to control the timing of database
+installations; there is a lengthy sales cycle required for the Company's
+database products; the Company's revenue levels are difficult to forecast; the
+time required to complete custom orders can vary significantly; and the
+Company's increasing investments in external alliances could result in
+significant quarterly fluctuations in expenses due to the payment of milestones,
+license fees or research payments. The Company's investments in joint ventures
+and businesses, particularly diaDexus, LLC ("diaDexus"), a joint venture with
+SmithKline Beecham Corporation ("SB"), may require the Company to record losses
+or expenses related to its proportionate ownership interest in such entities, to
+record charges for the acquisition of in-process technologies, or to record
+charges for the recognition of the impairment in the value of the securities
+underlying such investments. In addition, the Company could incur substantial
+expenses in its defense of the lawsuit filed in January 1998 by Affymetrix, Inc.
+("Affymetrix") alleging patent infringement by Synteni and Incyte. Affymetrix
+seeks a permanent injunction enjoining Synteni and Incyte from further
+infringement and, in addition, seeks damages, costs, attorneys' fees and
+interest. Affymetrix further requests that any such damages be trebled on its
+allegation of willful infringement by Incyte and Synteni. Incyte and Synteni
+believe they have meritorious defenses and intend to defend the suit vigorously.
+However, there can be no assurance that Incyte and Synteni will be successful in
+the defense of this suit, and litigation, regardless of the outcome, could
+result in substantial expenses and diversion of the efforts of management and
+technical personnel. Further, there can be no assurance that any license that
+may be required as a result of this suit or the outcome thereof would be made
+available on commercially acceptable terms, if at all. The need for continued
+investment in development of the Company's databases and related products and
+services and for extensive ongoing collaborator support capabilities results in
+significant fixed expenses. If revenue in a particular period does not meet
+expectations, the Company may not be able to adjust significantly its level of
+expenditures in such period, which would have an adverse effect on the Company's
+operating results. The Company may also experience difficulty in forecasting
+levels of operating expenditures for, and integration-related expenses with
+respect to, subsidiaries acquired through acquisitions, at least until a
+substantial period of time has passed since the acquisition date. This is
+particularly true when attempting to forecast expenditure levels for acquired
+businesses that focus on technologies for which there is not yet an established
+market. The Company believes that quarterly comparisons of its financial results
+will not necessarily be meaningful and should not be relied upon as an
+indication of future performance. Due to the foregoing and other unforeseen
+factors, it is likely that in some future quarter or quarters the Company's
+operating results may be below the expectations of public market analysts and
+investors. The Company believes that quarterly comparisons of its financial
+results will not necessarily be meaningful and should not be relied upon as an
+indication of future performance.
+
+     As a result of computer programs being written using two digits, rather
+than four, the performance of the Company's computer systems, and those of its
+suppliers and customers, in the Year 2000 is uncertain. Any computer programs
+that have time-sensitive software may recognize a date using "00" as the year
+1900 rather than the year 2000. This could result in a system failure or
+miscalculations causing disruptions of operations, including, among other
+things, a temporary inability to process transactions, send invoices, or engage
+in similar normal business activities. The Company plans to initiate a Year 2000
+project, using internal and external resources, to evaluate the impact of the
+Year 2000 on its products and operating systems. This will include the
+
+
+
+
+
+
+
+initiation of formalcommunications with its significant suppliers and customers
+to determine the extent to which the Company's interface systems are vulnerable
+to third party failures to remediate their own Year 2000 issues. There can be
+no guarantee that the systems of other companies on which the Company's systems
+rely will be timely converted and would not have an adverse effect on the 
+Company's systems. The Company will perform a comprehensive review of all 
+internally used financial and administrative systems as well as the internally 
+developed products sold to customers. At this time, given that the Company's 
+internal financial and administrative systems have been installed within the 
+last few years, and all internally developed software-based products sold to 
+customers have been developed over the last few years, the Company does not 
+expect the cost of addressing the Year 2000 issue to have a material impact on
+the Company's business, results of operations or financial condition. However,
+there can be no guarantee that if modifications or replacement of portions of 
+the software are necessary, it will be completed in a timely manner.
+
+     In July 1996, the Company issued Common Stock in exchange for all of the
+outstanding shares of Genome Systems, Inc. ("Genome Systems"), a genomics
+service company located in St. Louis, Missouri. The transaction has been
+accounted for as a pooling of interests, and the consolidated financial
+statements discussed herein and all historical financial information have been
+restated to reflect the combined operations of both companies. In August 1996,
+the Company acquired for Common Stock Combion, Inc. ("Combion"), a microarray
+technology company located in Pasadena, California. The acquisition of Combion
+has been accounted for as a purchase, and the consolidated financial statements
+discussed herein include the results of Combion from the date of acquisition,
+August 15, 1996, forward. In September 1997, the Company formed a joint venture,
+diaDexus, with SB, which will utilize genomic and bioinformatic technologies in
+the discovery and commercialization of molecular diagnostics. The Company and SB
+each hold a 50 percent equity interest in diaDexus. The investment is accounted
+for under the equity method and the Company will record its share of diaDexus'
+earnings and losses on its statement of operations. In January 1998, the Company
+issued Common Stock in exchange for all of the outstanding capital stock of
+Synteni, a microarray-based genomics company located in Fremont, California. The
+transaction will be accounted for as a pooling of interests in 1998. Pro forma
+unaudited historical data summarizing the combined results of the Company and
+Synteni is set forth in Note 10 of Notes to Consolidated Financial Statements
+set forth in Item 8 of this report.
+
+     As part of its business strategy, the Company may from time to time acquire
+assets and businesses principally relating to, or complementary to, its
+operations. These acquisitions, such as the acquisitions mentioned above, are
+accompanied by risks commonly encountered in acquisitions of companies. These
+risks include, among other things, potential fluctuations in the Company's
+quarterly and annual operating results (as discussed above), the difficulty and
+expense of assimilating the operations and personnel of the acquired businesses,
+the potential disruption of the Company's ongoing business and diversion of
+management time and attention, the inability to successfully integrate or to
+complete the development and application of acquired technology and the
+potential failure to achieve anticipated financial, operating and strategic
+benefits from such acquisitions, and difficulties in establishing and
+maintaining uniform standards, controls, procedures and policies.
+
+     See "Business--Factors That May Affect Results" in Item 1 for a discussion
+of additional factors that could affect the Company's results of operations.
+
+
+Results of Operations
+
+     The Company recorded net income for the year ended December 31, 1997 of
+$10.4 million, compared to a net loss of ($6.8 million) and ($9.9 million) for
+the years ended December_31, 1996 and 1995, respectively. On a per share basis,
+basic net income per share was $0.47 for the year ended December 31, 1997 and
+basic net loss per share was ($0.33) and ($0.59) for the years ended
+December_31, 1996 and 1995, respectively. Diluted net income per share was $0.43
+for the year ended December 31, 1997 and diluted net loss per share was ($0.33)
+and ($0.59) for the years ended December 31, 1996 and 1995, respectively. The
+net income per share in 1997 reflects the issuance of 2.7 million shares in an
+August 1997 follow-on public offering. The net loss per share in 1996 and 1995
+reflects the issuance of 0.6 million shares in 1996 in connection with the
+Company's business combinations with Genome Systems and Combion and the issuance
+of 3.7 million shares in a November 1995 follow-on public
+
+
+
+
+
+
+
+offering. All share and per share data have been adjusted retroactively for a
+two-for-one stock split effected in the form of a stock dividend paid on
+November 7, 1997 to holders of record on October 17, 1997.
+
+     Revenues. Revenues for the years ended December 31, 1997, 1996 and 1995
+were $88.4 million, $41.8 million and $12.2 million, respectively. Revenues
+resulted primarily from database access fees and, to a much lesser extent, from
+custom satellite database services and genomic screening products and services.
+The increase in revenues from year to year was predominantly driven by an
+increase in the number of database collaboration agreements.
+
+     Expenses. Total costs and expenses for the years ended December 31, 1997,
+1996 and 1995 were $81.1 million, $50.8 million and $23.1 million, respectively.
+Total costs and expenses for the year ended December 31, 1996 included a
+one-time charge of $3.2 million for the purchase of in-process research and
+development relating to the acquisition of Combion. Total costs and expenses are
+expected to increase in the foreseeable future due to continued investment in
+new product and technology development, obligations under existing and future
+research and development alliances, and increased investment in marketing, sales
+and customer services. However, if the Company does not obtain additional
+collaborators in a timely manner, if the Company's database collaborators do not
+renew their collaboration agreement at the end of their applicable terms, or if
+the delivery of custom orders is delayed, the Company may not be able to adjust
+significantly its level of expenditures in any period, which would have an
+adverse effect on the Company's operating results.
+
+     Research and development expenses for the years ended December 31, 1997,
+1996 and 1995 were $68.9 million, $40.9 million and $19.2 million, respectively.
+The increase in research and development expenses resulted primarily from an
+increase in bioinformatics and software development efforts, increased data and
+reagent production capacity, technology development initiatives, license and
+milestone payments under research and development alliances, and increased costs
+related to intellectual property protection. The Company expects research and
+development spending to increase over the next few years as the Company
+continues to pursue the development of new database products and services,
+expands it microarray operations, invests in new technologies, and invests in
+the continued protection of its intellectual property.
+
+     Selling, general and administrative expenses for the years ended December
+31, 1997, 1996 and 1995 were $12.1 million, $6.8 million and $3.9 million,
+respectively. The increase in selling, general and administrative expenses
+resulted primarily from the growth in marketing, sales, customer support, and
+corporate administration. The Company expects that selling, general and
+administrative expenses will continue to increase due to continued growth in
+marketing, sales and customer support; the expansion of the Company's United
+Kingdom operations; and legal expenses related to Company's defense, and
+potential damages and fees, in the patent infringement lawsuit file by
+Affymetrix in January 1998.
+
+     Interest and Other Income, Net. Interest and other income, net for the
+years ended December 31, 1997, 1996 and 1995 were $4.0 million, $2.3 million and
+$1.0 million, respectively. Interest and other income, net increased as a result
+of increased interest income from higher average combined cash, cash equivalent
+and marketable securities balances.
+
+     Losses from Joint Venture. Losses from joint ventures were $0.3 million for
+the year ended December 31, 1997. The loss represents the Company's share of
+diaDexus' losses from operations. Since diaDexus was formed in September 1997,
+no losses from joint ventures were recognized prior to 1997. The Company expects
+that losses from joint ventures will increase in 1998, accounting for a full
+year of expanding operations
+
+     Income Taxes. The estimated effective annual income tax rate for 1997 is
+5%, which represents the provision of federal and state alternative minimum
+taxes after utilization of net operating loss carryforwards. No provisions have
+been recorded prior to the 1997 fiscal year as the Company incurred annual net
+operating losses.
+
+
+
+
+
+
+
+Liquidity and Capital Resources
+
+     As of December 31, 1997, the Company had $114.7 million in cash, cash
+equivalents and marketable securities, compared to $38.3 million as of December
+31, 1996. This increase was primarily due to net proceeds of $87.2 million from
+the issuance of common stock in a July 1997 follow-on public offering. The
+Company has classified all of its marketable securities as short-term, as the
+Company may not hold its marketable securities until maturity in order to take
+advantage of favorable market conditions. Available cash is invested in
+accordance with the Company's investment policy's primary objectives of
+liquidity, safety of principal and diversity of investments.
+
+     Net cash provided by operating activities was $18.7 million for the year
+ended December 31, 1997, compared to $16.3 million for the year ended December
+31, 1996 and net cash used by operating activities of $8.8 million for the year
+ended December 31, 1995. The increase in net cash provided by operating
+activities in 1997 compared to 1996 resulted primarily from increases in
+deferred revenue due to the prepayment of database collaboration fees, the
+change from net loss to net income, and increased depreciation and amortization
+expenses partially offset by the increase in accounts receivable. Net cash
+provided by operating activities in 1996 as compared to a use of cash in 1995
+resulted from increases in deferred revenue and accounts payable, and decreases
+in net loss and accounts receivable. In the future, net cash generated by
+operating activities may fluctuate significantly from period to period due to
+the timing of large prepayments by database collaborators.
+
+     The Company's investing activities, other than purchases, sales and
+maturities of marketable securities, have consisted predominantly of capital
+expenditures and long-term investments. Capital expenditures for the years ended
+December 31, 1997, 1996 and 1995 were $26.1 million, $20.2 million and $8.0
+million, respectively. Capital expenditures increased in 1997 and 1996 primarily
+due to investments in computer and laboratory equipment as well as leasehold
+improvements related to the expansion of the Company's facilities. The Company
+has entered into a multi-year lease with respect to a 95,000 square foot
+building to be constructed adjacent to the Company's Palo Alto headquarters. The
+Company does not expect to incur expenses related to this facility until late
+1998 or early 1999. Long-term investments in companies with which the Company
+has research and development alliances increased to $8.2 million for the year
+ended December 31, 1997 from $0.3 million for the year ended December 31, 1996.
+New investments in 1997 included equity investments in NetGenics, Inc. and
+OncorMed, Inc. In addition, $6.0 million was categorized as restricted cash due
+to future obligations to diaDexus pursuant to a joint venture agreement with SB
+entered into in 1997. In the future, net cash used by investing activities may
+fluctuate significantly from period to period due to the timing of strategic
+equity investments, capital expenditures and maturity/sales and purchases of
+marketable securities.
+
+     Net cash provided by financing activities was $90.2 million, $1.5 million
+and $32.8 million for the years ended December 31, 1997, 1996 and 1995,
+respectively. Net cash provided by financing activities in 1997 and 1995 was
+primarily due to proceeds from follow-on public stock offerings in August 1997
+and November 1995, respectively, while net cash provided by financing activities
+in 1996 was due to issuances of common stock upon exercise of stock options.
+
+     Based upon its current plans, the Company believes that its existing
+resources and anticipated cash flow from operations will be adequate to satisfy
+its capital needs at least through 1998. However, the Company may be unable to
+obtain additional collaborators or retain existing collaborators for the
+Company's databases, and its database products and services may not produce
+revenues which, together with the Company's cash, cash equivalents and
+marketable securities, would be adequate to fund the Company's cash
+requirements. The Company's cash requirements depend on numerous factors,
+including the ability of the Company to attract and retain collaborators for its
+databases and genomic products and services; expenditures in connection with
+alliances, license agreements and acquisitions of and investments in
+complementary technologies and businesses; competing technological and market
+developments; the cost of filing, prosecuting, defending and enforcing patent
+claims and other intellectual property rights; the purchase of additional
+capital equipment, including capital equipment necessary to ensure the Company's
+sequencing and microarray operations remain competitive; capital expenditures
+required to expand the Company's and Synteni's facilities; and costs associated
+with the integration of new operations assumed through mergers and acquisitions.
+In particular, the Company expects its cash requirements to increase in 1998 as
+it increases
+
+
+
+
+
+
+its investment in data processing-related computer hardware in order to support
+its existing and new database products; continues to seek access to technologies
+through investments, alliances, license agreements, and/or acquisitions; makes
+investments associated with integration of acquired companies; and addresses its
+needs for larger facilities and/or improvements in existing facilities. The
+Company expects to continue to fund future operations with revenues from genomic
+database products and services in addition to using its current cash, cash
+equivalents and marketable securities. Changes in the Company's research and
+development plans or other changes affecting the Company's operating expenses
+may result in changes in the timing and amount of expenditures of the Company's
+capital resources. If additional capital is raised through the sale of equity or
+convertible debt securities, the issuance of these securities could result in
+dilution to the Company's existing stockholders. Additional funding, if
+necessary, may not be available on favorable terms, if at all. If adequate funds
+are not available, the Company may be required to curtail operations
+significantly or to obtain funds through entering into collaborative
+arrangements that may require the Company to relinquish rights to certain of its
+technologies, product candidates, products or potential markets.
+
+
+
+
+
+
+
+
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+
+
+
+
+
+
+
+
+
+REPORT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+
+
+
+The Board of Directors and Stockholders of Incyte Pharmaceuticals, Inc.
+
+We have audited the accompanying consolidated balance sheets of Incyte
+Pharmaceuticals, Inc., as of December 31, 1997 and 1996, and the related
+consolidated statements of operations, stockholders' equity, and cash flows for
+each of the three years in the period ended December 31, 1997. These financial
+statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the consolidated financial position of Incyte
+Pharmaceuticals, Inc., at December 31, 1997 and 1996, and the consolidated
+results of its operations and its cash flows for each of the three years in the
+period ended December 31, 1997, in conformity with generally accepted accounting
+principles.
+
+
+                                                            /S/ERNST & YOUNG LLP
+
+
+Palo Alto, California
+January 12, 1998
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          INCYTE PHARMACEUTICALS, INC.
+              CONSOLIDATED STATEMENTS OF CASH FLOWS(in thousands)
+               (Increase (decrease) in cash and cash equivalents)
+
+
+
+
+
+
+
+
+                          INCYTE PHARMACEUTICALS, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+Note 1.  Organization and Summary of Significant Accounting Policies
+
+Organization and Business. Incyte Pharmaceuticals, Inc. (the "Company") was
+incorporated in Delaware in April 1991. The Company designs, develops, and
+markets genomic database products, genomic data management software tools, and
+related reagents and services. The Company's genomic databases integrate
+bioinformatics software with proprietary and, when appropriate, publicly
+available genetic information to create information-based tools used by
+pharmaceutical and biotechnology companies in drug discovery and development.
+
+Principles of Consolidation. The consolidated financial statements include the
+accounts of Incyte Pharmaceuticals, Inc., and its wholly owned subsidiaries. All
+material intercompany accounts, transactions, and profits have been eliminated
+in consolidation.
+
+Reclassifications. Certain reclassifications were made to prior periods'
+balances to conform with the 1997 presentation.
+
+Use of Estimates. The preparation of financial statements in conformity with
+generally accepted accounting principles requires management to make estimates
+and assumptions that affect the amounts reported in the financial statements and
+accompanying notes. Actual results could differ from those estimates.
+
+Foreign Currency Translation. The financial statements of subsidiaries outside
+the United States are measured using the local currency as the functional
+currency. Assets and liabilities of these subsidiaries are translated at the
+rates of exchange at the balance sheet date. The resultant translation
+adjustments are included in the cumulative translation adjustment, a separate
+component of stockholders' equity. Income and expense items are translated at
+average monthly rates of exchange.
+
+Concentrations of Credit Risk. Cash, cash equivalents, and short-term
+investments and trade receivables are financial instruments which potentially
+subject the Company to concentrations of credit risk. The estimated fair value
+of financial instruments approximates the carrying value based on available
+market information. The Company primarily invests its excess available funds in
+notes and bills issued by the U.S. government and its agencies and corporate
+debt securities and, by policy, limits the amount of credit exposure to any one
+issuer and to any one type of investment, other than securities issued or
+guaranteed by the U.S. Government. The Company's customers are pharmaceutical,
+biotechnology companies and agricultural companies which are typically located
+in the United States and Europe. The Company has not experienced any credit
+losses to date and does not require collateral on receivables.
+
+Segment Information. Export revenue for the years ended December 31, 1997,
+1996 and 1995 were $25,289,000, $9,743,000 and $1,525,000, respectively.
+
+Cash and Cash Equivalents. Cash and cash equivalents are held in U.S. banks
+or in custodial accounts with U.S. banks. Cash equivalents are defined as all
+liquid investments with maturity from date of purchase of 90 days or less that
+are readily convertible into cash and have insignificant interest rate risk. All
+other investments are reported as short-term investments.
+
+Restricted Cash. Restricted cash consists of cash held in an escrow account
+which will be disbursed to the Company's joint venture, diaDexus, LLC
+("diaDexus"), as needed in accordance with the joint venture agreement (see
+Joint Venture and Note 8).
+
+Marketable Securities Available-for-Sale. All marketable securities are
+classified as available-for-sale. Available-for-sale securities are carried at
+fair value, with unrealized gains and losses reported as a separate component of
+stockholders' equity. The amortized cost of debt securities in this category is
+adjusted for amortization of premiums and accretions of discounts to maturity.
+Such amortization is included in interest income. Realized gains and losses and
+declines in value judged to be other than temporary for available-for-sale
+securities are included in interest and other expense.
+
+
+
+
+
+
+
+
+The following is a summary of the Company's investment portfolio, including cash
+equivalents of $40,064,000 and $398,000 as of December 31, 1997 and 1996,
+respectively.
+
+
+
+At December 31, 1997 and 1996, all of the Company's investments are classified
+as short-term, as the Company has classified its investments as available for
+sale and may not hold its investments until maturity in order to take advantage
+of market conditions. Of the marketable securities held at December 31, 1997,
+$78,530,000 had maturities under a year and $19,031,000 had maturities over a
+year, but less than two years. Unrealized gains were not material and have
+therefore been netted against unrealized losses. Realized gains and losses from
+sales and maturities of marketable securities have not been material to date.
+
+Accounts Receivable. Accounts receivable at December 31, 1997 and 1996
+included an allowance for doubtful accounts of $225,000 and $0, respectively.
+
+Property and Equipment. Property and equipment is stated at cost, less
+accumulated depreciation and amortization. Depreciation is recorded using the
+straight-line method over the estimated useful lives of the respective assets
+(generally two to five years). Leasehold improvements are amortized over the
+shorter of the estimated useful life of the assets or lease term. Property and
+equipment consists of the following:
+
+                                                         December 31,
+                                                    ------------------------
+                                                       1997            1996
+                                                    ----------      --------
+                                                          (in thousands)
+Office equipment                                    $   2,138       $    950
+Laboratory equipment                                   18,601         12,982
+Computer equipment                                     21,797          9,935
+Leasehold improvements                                 14,220          8,679
+                                                    ---------       --------
+
+Less accumulated depreciation and amortization       (19,813)        (9,610)
+                                                    --------        -------
+                                                    $  36,943       $ 22,936
+                                                    =========       ========
+
+Depreciation expense, including depreciation expense of assets under capital
+leases, was $8,537,000, $5,230,000, and $2,154,000 for 1997, 1996, and 1995,
+respectively. Amortization of leasehold improvements was $2,260,000, $1,061,000,
+and $266,000 for 1997, 1996, and 1995, respectively.
+
+Certain laboratory and computer equipment used by the Company could be subject
+to technological obsolescence in the event that significant advancement is made
+in competing or developing equipment technologies. Management continually
+reviews the estimated useful lives of technologically sensitive equipment and
+believes that those estimates appropriately reflect the current useful life of
+its assets. In the event that a currently unknown significantly advanced
+technology became commercially available, the Company would re-evaluate the
+value and estimated useful lives of its existing equipment, possibly having a
+material impact on the financial statements.
+
+
+
+
+
+Long-Term Investments. The Company has made equity investments in a number
+of companies whose businesses may be complementary to the Company's business.
+All investments, except diaDexus which is accounted for under the equity method
+(see Joint Venture), are carried at cost which approximates the fair market
+value.
+
+Software Costs. In accordance with the provisions of the Financial Accounting
+Standards Board Statement No. 86, "Accounting for the Costs of Computer Software
+to be Sold, Leased or Otherwise Marketed," the Company has capitalized software
+development costs incurred in developing certain products once technological
+feasibility of the products has been determined. Capitalized software costs are
+amortized over three years and have been immaterial to date.
+
+Revenue Recognition. The Company recognizes revenue for database collaboration
+agreements evenly over the term of the agreement. Revenue is deferred for fees
+received before earned. Revenues from custom orders, such as satellite
+databases, are recognized upon shipment. Revenues from reagents and genomic
+screening products are recognized when shipped, and revenues from genomic
+screening services are recognized upon completion.
+
+Stock-Based Compensation. The Company accounts for stock option grants in
+accordance with APB Opinion No. 25, Accounting for Stock Issued to Employees.
+The Company currently grants stock options for a fixed number of shares to
+employees and directors with an exercise price equal to the fair value of the
+shares at the date of grant, and therefore records no compensation expense.
+
+Advertising Costs. All costs associated with advertising products are expensed
+in the year incurred. Advertising expense for the years ended December 31, 1997,
+1996 and 1995 were $772,000, $573,000 and $324,000, respectively.
+
+Business Combinations. In July 1996, the Company issued shares of its
+Common Stock in exchange for all of the outstanding shares of Genome Systems,
+Inc. ("Genome Systems"). The transaction has been accounted for as a pooling of
+interests, and the consolidated financial statements discussed herein and all
+historical financial information have been restated to reflect the combined
+operations of both companies.
+
+In August 1996, the Company acquired Combion, Inc. ("Combion") for shares of the
+Company's Common Stock. The acquisition of Combion has been accounted for as a
+purchase, and the consolidated financial statements discussed herein reflect the
+inclusion of the results of Combion from the date of acquisition, August 15,
+1996.
+
+See Note 7 of Notes to Consolidated Financial Statements.
+
+Joint Venture. In September 1997, the Company formed a joint venture, diaDexus,
+LLC, with SmithKline Beecham Corporation ("SB"). The Company and SB each hold a
+50 percent equity interest in diaDexus and the Company accounts for the
+investment under the equity method.
+
+See Note 8 of Notes to Consolidated Financial Statements.
+
+
+
+
+
+
+
+Net Income (Loss) Per Share. On December 31, 1997, the Company adopted the
+Financial Accounting Standards Board (FASB) Statement No. 128, Earnings per
+Share, which requires the Company to change the method currently used to compute
+earnings per share and to restate all prior periods. The following table sets
+forth the computation of basic and diluted net income (loss) per share:
+
+
+
+
+Options and warrants to purchase 3,194,000 and 3,100,000 shares of Common Stock
+were outstanding at December 31, 1996 and 1995, respectively, but were not
+included in the computation of diluted loss per share, as their effect was
+antidilutive.
+
+
+Note 2.  Collaborative Agreements
+
+As of December 31, 1997, the Company had entered into database collaboration
+agreements with nineteen pharmaceutical, biotechnology and agricultural
+companies. Each collaborator has agreed to pay, during the term of the
+agreement, annual fees to receive non-exclusive access to selected modules of
+the Company's databases. In addition, if a collaborator develops certain
+products utilizing the Company's technology and proprietary database
+information, potential milestone and royalty payments could be received by the
+Company. If these agreements are not renewed and if the Company cannot sign a
+sufficient number of new database agreements, the loss of revenue could have a
+material adverse effect on the Company's business and operating results. Certain
+companies also have satellite database agreements, whereby the Company provides
+custom sequencing services, which are billed for separately. Satellite database
+services are provided to the customer on an exclusive basis for a negotiated
+period of time. None of the collaborators individually contributed more than 10%
+of the Company's total revenues in 1997. Over 90% of the revenues in 1996 are
+derived from ten collaborators, three of which individually contributed more
+than 10% of the total, or approximately 37% in the aggregate. In 1995, the
+majority of the revenues were derived from five collaborators, including three
+of which contributed more than 10% individually, or approximately 73% in the
+aggregate.
+
+In addition to the database collaboration agreements, the Company has entered
+into a number of research and development alliances with companies and research
+institutions. These agreements provide for the funding of research activities by
+the Company and the possible payment of milestones, license fees, and, in some
+cases, royalties.
+
+
+Note 3.  Commitments
+
+At December 31, 1997, the Company had signed noncancelable operating leases on
+multiple facilities, including facilities in Palo Alto, California and St.
+Louis, Missouri. The leases expire on various dates ranging from March 1998 to
+January 2006. Rent expense for the years ended December 31, 1997, 1996, and 1995
+was approximately $3,211,000, $1,645,000, and $1,251,000, respectively.
+
+
+
+
+
+
+
+The Company had laboratory and office equipment with a cost of approximately
+$189,000 and $370,000 at December 31, 1997 and 1996, respectively, and related
+accumulated amortization of approximately $136,000 and $268,000 at December 31,
+1997 and 1996, respectively, under capital leases. These leases are secured by
+the equipment leased thereunder.
+
+At December 31, 1997, future noncancelable minimum payments under the operating
+and capital leases and notes payable were as follows:
+
+                                                            Capital Leases
+                                             Operating          and
+                                               Leases       Notes Payable
+                                               ------       -------------
+                                                    (In thousands)
+Year ended December 31,
+   1998                                      $    4,924      $        48
+   1999                                           3,771               38
+   2000                                           3,275               19
+   2001                                           2,782               --
+   2002 and thereafter                            2,866               --
+                                             ----------      -----------
+Total minimum lease payments                 $   17,618              105
+                                             ==========
+Less amount representing interest                                      6
+                                                             -----------
+Present value of minimum lease payments                               99
+Less current portion                                                  46
+                                                             -----------
+Noncurrent portion                                           $        53
+                                                             ===========
+
+In July 1997, the Company entered into a multi-year lease with respect to a
+95,000 square foot building to be constructed adjacent to the Company's Palo
+Alto headquarters. The term of the lease is twelve years at an approximate
+annual rent of $3.4 million. The lease is expected to commence in late 1998.
+
+The Company has entered into a number of research and development alliances with
+companies and research institutions. Under one agreement, the Company has
+committed to fund, subject to the terms and conditions of the agreement, at
+least $3.0 million over three years. The Company's commitments under any other
+of these agreements do not represent a significant expenditure in relation to
+the Company's total research and development expense. See Note 2 of Notes to
+Consolidated Financial Statements.
+
+
+Note 4.  Stockholders' Equity
+
+Common Stock. At December 31, 1997, the Company had reserved a total of
+4,239,877 shares of its Common Stock for issuance upon exercise of outstanding
+stock options described below. In October 1997, the Company's Board of Directors
+authorized a two-for-one stock split effected in the form of a stock dividend
+paid on November 7, 1997 to holders of record on October 17, 1997. All share and
+per share data have been adjusted retroactively to reflect the split.
+
+On May 21, 1997, the Company's stockholders approved an increase in the number
+of shares authorized for issuance from 20,000,000 to 75,000,000.
+
+Sales of Stock. In November 1995, the Company completed a follow-on public stock
+offering and issued 3,674,000 shares of Common Stock, including 274,000 shares
+issued on December 13, 1995 upon partial exercise of the underwriters'
+over-allotment option, at $9.50 per share before deducting the underwriting
+discount and offering expenses. In August 1997, the Company completed another
+follow-on public stock offering and issued 2,755,426 shares of Common Stock,
+including 355,426 shares covered by the exercise of the underwriters'
+over-allotment option, at $33.50 per share. Net proceeds from this offering were
+approximately $87.2 million after deducting the underwriting discount and
+offering expenses.
+
+Stock Compensation Plans. The Company applies APB Opinion No. 25 and
+related Interpretations in accounting for its stock compensation plans.
+Accordingly, no compensation cost has been recognized for its fixed stock option
+plans. Had compensation cost for the Company's two stock-based compensation
+plans been determined consistent with FASB Statement No. 123, the Company's pro
+forma net income (loss) in 1997 and 1996 would have been
+
+
+
+
+
+
+reduced (increased) to approximately $3.0 million and $(10.5 million),
+respectively. The Company's pro forma basic and diluted net income (loss) per
+share in 1997 and 1996 would have been reduced (increased) to $0.13 per share
+and $(0.52) per share and $0.12 per share and $(0.52) per share, respectively.
+The weighted average fair value of the options granted during 1997 and 1996 are
+estimated at $14.66 and $9.44 per share, respectively, on the date of grant,
+using the Black-Scholes multiple-option pricing model with the following
+assumptions: dividend yield 0% and 0%, volatility of 56% and 55%, risk-free
+interest rate with an average of 6.05% and 6.10%, and an average expected life
+of 3.37 and 3.25 years, for 1997 and 1996, respectively. The fair value of the
+employees' purchase rights under the Employee Stock Purchase Plan during 1997 is
+estimated at $11.86, on the date of grant, using the Black-Scholes
+multiple-option pricing model with the following assumptions: dividend yield 0%,
+volatility of 56%, risk free interest rate of 5.64%, and an expected life of 9
+months.
+
+The effects on pro forma disclosures of applying FASB 123 are not likely to be
+representative of the effects on pro forma disclosures of future years. As FASB
+123 is only applicable to options granted after December 31, 1994, the pro forma
+effect will not be fully reflected until 1998. The Black-Scholes option
+valuation model was developed for use in estimating the fair value of traded
+options which have no vesting restrictions and are fully transferable. In
+addition, option valuation models require the input of highly subjective
+assumptions, including the expected stock price volatility and option life.
+Because the Company's employee stock options have characteristics significantly
+different from those of traded options, because changes in the subjective input
+assumptions can materially affect the fair value estimate, and because the
+Company has a relatively limited history with option behavior, in management's
+opinion the existing models do not necessarily provide a reliable single measure
+of the fair value of its employee stock options.
+
+Summaries of stock option activity for the Company's two fixed stock option
+plans as of December 31, 1997, 1996 and 1995, and related information for the
+years ended December 31 are included in the plan descriptions below.
+
+1991 Stock Plan. In November 1991, the Board of Directors adopted the 1991 Stock
+Plan, which was amended and restated in 1992, 1995, 1996 and 1997 for issuance
+of Common Stock to employees, consultants, and scientific advisors. Options
+issued under the plan shall, at the discretion of the compensation committee of
+the Board of Directors, be either incentive stock options or nonstatutory stock
+options. The exercise prices of incentive stock options granted under the plan
+are not less than the fair market value on the date of the grant, as determined
+by the Board of Directors. The exercise prices of nonstatutory stock options
+granted under the plan are not less than 85% of the fair market value on the
+date of the grant, as determined by the Board of Directors. Options generally
+vest over approximately four years, pursuant to a formula determined by the
+Company's Board of Directors, and expire after ten years. On May 21, 1997, the
+Company's stockholders approved an increase in the number of shares of Common
+Stock reserved for issuance under the plan from 4,000,000 to 4,800,000.
+
+
+
+
+
+
+
+Activity under the plan was as follows:
+
+
+                                                          Shares Subject To
+                                                         Outstanding Options
+                                                         -------------------
+                                     Shares                     Weighted Average
+                                    Available                         Exercise
+                                    For Grant         Shares           Price
+                                    ---------         ------           -----
+Balance at December 31, 1994          217,664        1,303,416      $    3.86
+Additional authorization            1,600,000               --             --
+Options granted                    (1,246,800)       1,246,800      $    9.14
+Options exercised                          --         (57,630)      $    1.53
+Options canceled                       19,918         (19,918)      $    6.51
+                                   ----------      ----------       ---------
+Balance at December 31, 1995          590,782        2,472,668      $    6.56
+Additional authorization              800,000               --             --
+Options granted                    (1,052,300)       1,052,300      $   19.75
+Options exercised                          --        (446,556)      $    3.54
+Options canceled                      140,326        (140,326)      $    8.38
+                                   ----------      ----------       ---------
+Balance at December 31, 1996          478,808        2,938,086      $   11.63
+Additional authorization              800,000               --      $      --
+Options granted                     (876,604)          876,604      $   33.55
+Options exercised                          --        (387,759)      $    7.61
+Options canceled                      105,535        (105,535)      $   19.94
+                                   ----------      ----------        --------
+Balance at December 31, 1997          507,739        3,321,396      $   17.68
+                                   ==========      ===========      =========
+
+Options to purchase a total of 2,145,403 and 2,914,596 shares at December 31,
+1997 and 1996, respectively, were exercisable. Of the options exercisable,
+1,197,542 and 803,004 shares were vested at December 31, 1997 and 1996,
+respectively.
+
+Non-Employee Directors' Stock Option Plan. In August 1993, the Board of
+Directors approved the 1993 Directors' Stock Option Plan (the "Directors'
+Plan"), which was amended in 1995. The Directors' Plan provides for the
+automatic grant of options to purchase shares of Common Stock to non-employee
+directors of the Company. The maximum number of shares issuable under the
+Directors' Plan is 400,000.
+
+The Directors' Plan provides immediate issuance of options to purchase an
+initial 40,000 shares of Common Stock to each new non-employee director joining
+the Board. The initial options are exercisable in five equal annual
+installments. Additionally, members who continue to serve on the Board will
+receive annual option grants for 10,000 shares exercisable in full on the first
+anniversary of the date of the grant. All options are exercisable at the fair
+market value of the stock on the date of grant. Through December 31, 1997, the
+Company had granted options under the Directors' Plan to purchase 267,500 shares
+of Common Stock at a weighted average exercise price of $8.71 (227,500 shares of
+Common Stock at a weighted average exercise price of $5.37 at December 31,
+1996); 171,500 shares are vested and exercisable at December 31, 1997 (141,500
+shares were vested and exercisable at December 31, 1996).
+
+
+
+
+
+
+The following table summarizes information about stock options outstanding at
+December 31, 1997, for both the 1991 Stock Plan and the 1993 Directors' Stock
+Option Plan.
+
+
+
+In July 1996, in connection with the Genome Systems transaction described in
+Note 7 below, the Company issued, in exchange for an option to purchase capital
+stock of Genome Systems, an option to purchase 21,482 shares of Common Stock at
+an exercise price of $0.0235 per share. The option was not issued under the
+provisions of either plan described above. The option has been exercised with
+respect to 10,740 shares as of December 31, 1997. The remaining 10,742 shares
+under the option were exercised in January 1998.
+
+Employee Stock Purchase Plan. On May 21, 1997, the Company's stockholders
+adopted the 1997 Employee Stock Purchase Plan ("ESPP"). The Company has
+authorized 400,000 shares of Common Stock for issuance under the ESPP. Each
+regular full-time and part-time employee is eligible to participate after one
+year of employment. The initial offering period commenced August 1, 1997 and
+ends November 1, 1999. As of December 31, 1997, $238,000 has been deducted from
+employees' payroll.
+
+
+Note 5.  Income Taxes
+
+As of December 31, 1997, the Company had federal net operating loss
+carryforwards of approximately $23,900,000. The Company also had federal
+research and development tax credit carryforwards of approximately $2,800,000.
+The net operating loss carryforwards will expire at various dates, beginning on
+2009, through 2011 if not utilized.
+
+Significant components of the Company's deferred tax assets are as follows:
+
+                                                            December 31,
+                                                            ------------
+                                                        1997          1996
+                                                        ----          ----
+                                                          (in thousands)
+Deferred tax assets:
+   Net operating loss carryforwards                  $   8,400      $10,100
+   Research credits                                      4,000        1,500
+   Capitalized research and development                  1,400        1,600
+   Other, net                                            2,800        1,500
+                                                     ---------      -------
+Deferred tax assets                                     16,600       14,700
+Valuation allowance for deferred tax assets           (16,600)      (14,700)
+Net deferred tax asset                               $      --      $    --
+                                                     =========      =======
+
+The valuation allowance for deferred tax assets increased by approximately
+$1,900,000 million, $2,600,000 million and $4,100,000 million during the years
+ended December 31, 1997, 1996 and 1995. Approximately $4,100,000 of the
+valuation allowance for deferred tax assets relates to benefits of stock option
+deductions which, when recognized, will be allocated directly to contributed
+capital.
+
+Utilization of the net operating losses and credits may be subject to an annual
+limitation, due to the "change in ownership" provisions of the Internal Revenue
+Code of 1986 and similar state provisions.
+
+
+
+
+
+
+
+
+The provision for income taxes consists primarily of federal Alternative Minimum
+Tax and differs from the federal statutory rate as follows:
+
+                                                         Year ended December 31,
+                                                            (in thousands)
+                                                            --------------
+
+Tax at U.S federal statutory rate                                    3,835
+Use of net operating loss carryforwards                            (4,814)
+Non-deductible in-process research and development charges           1,108
+Other                                                                  419
+                                                                 ---------
+Provision for income tax                                         $     548
+                                                                 =========
+
+
+Note 6.  Defined Contribution Plan
+
+The Company has a defined contribution plan covering all domestic employees.
+Employees may contribute a portion of their compensation, which is then matched
+by the Company, subject to certain limitations. Defined contribution expense for
+the Company was $516,000, $244,000 and $0 in 1997, 1996 and 1995, respectively.
+
+
+Note 7.  Business Combinations
+
+In July 1996, the Company issued 408,146 shares of Common Stock in exchange for
+all of the capital stock of Genome Systems, a privately held genomics company
+located in St. Louis, Missouri. Genome Systems provides genomic research
+products and technical support services to scientists to assist them in the
+identification and isolation of novel genes. The merger has been accounted for
+as a pooling of interests and, accordingly, the Company's financial statements
+and financial data have been restated to include the accounts and operations of
+Genome Systems since inception.
+
+The table below presents the separate results of operations for Incyte and
+Genome Systems for the periods prior to the merger. Incyte's results of
+operations include Genome Systems since the transaction:
+
+                                                     Year Ended December 31,
+                                                     -----------------------
+                                                      1996          1995
+                                                      ----          ----
+                                                         (in thousands)
+Revenues:
+   Incyte                                          $  40,051      $ 9,908
+   Genome                                              1,734        2,304
+                                                   ---------      -------
+                                                   $  41,785      $12,212
+                                                   =========      =======
+
+Net income (loss):
+   Incyte                                          $ (6,724)      $(10,142)
+   Genome                                                106           205
+   Merger related expenses                             (143)            --
+                                                   --------       --------
+                                                   $ (6,761)      $(9,937)
+                                                   ========       ========
+
+In August 1996, the Company acquired all the common stock of Combion, Inc., a
+microarray technology company in Pasadena, California, in a stock-for-stock
+exchange, issuing 146,342 shares of its Common Stock valued at $3 million. The
+acquisition has been accounted for as a purchase transaction and, accordingly,
+the purchase price was allocated to assets and liabilities based on the
+estimated fair value as of the date of acquisition. The purchase price has been
+allocated based on the fair value of the net assets and the technology acquired
+(recorded as a charge to in- process research and development). Combion's
+results of operations have been included in the consolidated results of
+operations since the date of acquisition. Pro forma results of operations have
+not been presented because the effect of this acquisition was not material to
+the Company's consolidated results of operations or financial position.
+
+
+Note 8.  Joint Venture
+
+
+
+
+
+
+In September 1997, the Company formed a joint venture, diaDexus, in conjunction
+with SB, on which will utilize genomic and bioinformatic technologies in the
+discovery and commercialization of molecular diagnostics. The Company and SB
+each hold a 50 percent equity interest in diaDexus and the Company accounts for
+the investment under the equity method. A portion of the investment is reflected
+as restricted cash and in accrued liabilities on the balance sheet since that
+balance is held in an escrow account and will be disbursed to diaDexus as needed
+in accordance with the joint venture agreement.
+
+
+Note 9.  New Pronouncements
+
+In June 1997, the FASB issued Statement No. 130, Reporting Comprehensive Income
+("SFAS 130"), and Statement No. 131, Disclosures about Segments of an Enterprise
+and Related Information ("SFAS 131") (collectively, the "Statements"). The
+Statements are effective for fiscal years beginning after December 15, 1997.
+SFAS 130 establishes standard for reporting of comprehensive income and its
+component in annual financial statements. SFAS 131 establishes standards for
+reporting financial and descriptive information about an enterprise's operating
+segments in its annual financial statements and selected segment information in
+interim financial reports. Reclassification or restatement of comparative
+financial statements or financial information for earlier periods is required
+upon adoption of SFAS 130 and SFAS 131, respectively. Application of the
+Statements' disclosure requirements will have no impact on the Company's
+consolidated financial position, results of operations or earnings per share
+data as currently reported.
+
+
+Note 10.  Subsequent Events
+
+In January 1998, the Company issued 2,340,237 shares of Common Stock in exchange
+for all of the capital stock of Synteni, Inc., a privately held microarray-based
+genomics company in Fremont, California. Synteni is developing and
+commercializing technology for generating microarrays and related software and
+services. The merger will be accounted for as a pooling of interests and,
+accordingly, the Company's financial statements and financial data will be
+restated in 1998 to include the accounts and operations of Synteni since
+inception.
+
+The following unaudited pro forma data summarizes the combined results of
+operations of the Company and Synteni as though the merger had occurred at the
+beginning of fiscal 1995.
+
+                                             Year Ended December 31,
+                                             -----------------------
+                                        1997           1996        1995
+                                        ----           ----        ----
+
+                                             (unaudited pro forma)
+                                      (in thousands, except per share amounts)
+
+Revenues                           $  89,996     $  41,895    $   12,299
+Net income (loss)                      6,908        (7,276)       (9,937)
+Net income (loss) per share:
+      Basic                             0.28         (0.32)        (0.53)
+      Diluted                           0.26         (0.32)        (0.53)
+
+Synteni's fiscal year ends September 30. Synteni's results of operation for the
+period from October 1, 1997 to December 31, 1997 will be recorded directly in
+retained earnings.
+
+In addition, each option to purchase Synteni common stock granted under
+Synteni's 1996 Equity Incentive Plan ("Synteni Plan") outstanding immediately
+prior to the merger was converted into an option to purchase Incyte Common Stock
+and Incyte assumed each such outstanding Synteni stock option in accordance with
+the terms of the Synteni Plan and the stock option agreement by which it is
+evidenced. The former Synteni stock option holders received options to purchase
+318,655 shares of Incyte Common Stock.
+
+On January 6, 1998, Affymetrix, Inc. ("Affymetrix") filed a lawsuit in the
+United States District Court for the District of Delaware alleging infringement
+of U.S. patent number 5,445,934 (the "934 Patent") by both Synteni and Incyte.
+The complaint alleges that the 934 Patent has been infringed by the making,
+using, selling, importing, distributing or offering to sell in the U.S. high
+density arrays by Synteni and Incyte and that such infringement was willful.
+Affymetrix seeks a permanent injunction enjoining Synteni and Incyte from
+further infringement of the 934
+
+
+
+
+
+
+
+Patent and, in addition, seeks damages, costs and attorney's fees and interest.
+Affymetrix further requests that any such damages be trebled based on its
+allegation of willful infringement by Incyte and Synteni. Incyte and Synteni
+believe they have meritorious defenses and intend to defend the suit vigorously.
+However, there can be no assurance that Incyte and Synteni will be successful in
+the defense of this suit, and litigation could result in substantial expenses
+and diversion of the efforts of management and technical personnel. Further,
+there can be no assurance that any license that may be required as a result of
+this suit or the outcome thereof would be made available on commercially
+acceptable terms, if at all.
+
+In January 1998, the Company entered into a collaborative agreement with Oxford
+GlycoSciences plc ("OGS") to develop and commercialize proteomics databases for
+human, animal, plan and microbial organisms. In connection with the agreement,
+the Company made a $5.0 million equity investment in OGS. The Company intends to
+account for the investment under the cost method of accounting.
+
+
+
+
+
+
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURE
+
+         Not applicable.
+
+
+                                    PART III
+
+ITEM 10.    DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+     The information required by this item (with respect to Directors) is
+incorporated by reference from the information under the caption "Election of
+Directors" contained in the Company's Proxy Statement to be filed with the
+Securities and Exchange Commission in connection with the solicitation of
+proxies for the Company's 1998 Annual Meeting of Stockholders to be held on June
+15, 1998 (the "Proxy Statement").
+
+     The executive officers of the Company are as follows:
+
+     Roy A. Whitfield, age 45, has been Chief Executive Officer of the Company
+since June 1993 and a director since June 1991. Mr. Whitfield served as
+President of the Company from June 1991 until January 1997 and as Treasurer of
+the Company from April 1991 until October 1995. Previously, Mr. Whitfield served
+as the President of Ideon Corporation, which was a majority owned subsidiary of
+Invitron Corporation ("Invitron"), a biotechnology company, from October 1989
+until April 1991. From 1984 to 1989, Mr. Whitfield held senior operating and
+business development positions with Technicon Instruments Corporation
+("Technicon"), a medical instrumentation company, and its predecessor company,
+CooperBiomedical, Inc., a biotechnology and medical diagnostics company. Prior
+to his work at Technicon, Mr. Whitfield spent seven years with the Boston
+Consulting Group's international consulting practice. Mr. Whitfield received a
+B.S. with First Class Honors in mathematics from Oxford University, and an
+M.B.A. with Distinction from Stanford University.
+
+     Randal W. Scott, Ph.D., age 40, has been President of the Company since
+January 1997. He has served as Chief Scientific Officer of the Company since
+March 1995, Secretary of the Company since April 1991, and a director since June
+1991. Dr. Scott served as Executive Vice President of the Company from March
+1995 until January 1997 and Vice President, Research and Development of the
+Company from April 1991 until February 1995. Dr. Scott was one of Invitron's
+founding scientists and was employed by Invitron from March 1985 to June 1991.
+In 1987, Dr. Scott started the Protein Biochemistry Department at Invitron's
+California Research Division and became Senior Director of Research in November
+1988. Dr. Scott was responsible for developing Invitron's proprietary products
+and discovery programs and is an inventor of several of the Company's patents.
+Prior to joining Invitron, he was a Senior Scientist at Unigene Laboratories, a
+biotechnology company. Dr. Scott received his Ph.D. in Biochemistry from the
+University of Kansas.
+
+     Denise M. Gilbert, Ph.D., age 40, has been Executive Vice President, Chief
+Financial Officer and Treasurer of the Company since October 1995. From July
+1993 to October 1995 Dr. Gilbert was Vice President and Chief Financial Officer
+of Affymax N.V., a biopharmaceutical company. Prior to joining Affymax, Dr.
+Gilbert spent seven years as a Wall Street biotechnology analyst, serving as a
+Managing Director of Smith Barney from July 1991 to July 1993, Vice President at
+NatWest Securities from July 1990 to July 1991, and senior analyst at Montgomery
+Securities from July 1986 to July 1990. Dr. Gilbert received her B.A. in
+Biological Sciences from Cornell University and Ph.D. in Cell and Developmental
+Biology from Harvard University.
+
+
+ITEM 11.    EXECUTIVE COMPENSATION
+
+     The information required by this item is incorporated by reference from the
+information under the captions "Election of Directors--Compensation of
+Directors," "Executive Compensation," and "Report of the Compensation Committee
+of the Board of Directors on Executive Compensation--Compensation Committee
+Interlocks and Insider Participation" contained in the Proxy Statement.
+
+
+
+
+
+
+
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+     The information required by this item is incorporated by reference from the
+information under the captions "Election of Directors - Compensation of
+Directors," "Executive Compensation," and "Report of the Compensation Committee
+of the Board of Directors on Executive Compensation--Compensation Committee
+Interlocks and Insider Participation" contained in the Proxy Statement.
+
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     The information required by this item is incorporated by reference from the
+information contained under the caption "Certain Transactions" contained in the
+Proxy Statement.
+
+
+
+
+
+
+
+                                     PART IV
+
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K.
+
+         (a)      Documents filed as part of this report:
+
+                  (1)      Financial Statements
+
+         Reference is made to the Index to Consolidated Financial Statements
+under Item 8 of Part II hereof.
+
+                  (2)      Financial Statement Schedules
+
+         All financial statement schedules have been omitted because they are
+not applicable or not required or because the information is included elsewhere
+in the Consolidated Financial Statements or the Notes thereto.
+
+                  (3)      Exhibits
+
+         See Item 14(c) below. Each management contract or compensatory plan or
+arrangement required to be filed has been identified.
+
+         (b)      Reports on Form 8-K.
+
+         There were no reports on Form 8-K filed by the Company during the
+quarter ended December 31, 1997.
+
+         (c)      Exhibits
+
+         Exhibit
+         Number   Description of Document
+         -------  -----------------------
+         2.1      Agreement and Plan of Merger dated as of December 23, 1997
+                  among Incyte Pharmaceuticals, Inc., Bond Acquisition Corp.
+                  and Synteni, Inc. (incorporated by reference to Exhibit 2.1 to
+                  the Company's Current Report on Form 8-K dated January 22,
+                  1998 (File No. 0-27488)).
+
+         3(i)     Restated Certificate of Incorporation, as amended
+                  (incorporated by reference to Exhibit 4.1 to the
+                  Company's Registration Statement on Form S-3 (File
+                  No. 333-31307)).
+
+         3(ii)    Bylaws of the Company, as amended (incorporated by reference
+                  to Exhibit 4.2 to the Company's Registration Statement on
+                  Form S-3 (File No. 333-31307)).
+
+                  Form of Common Stock Certificate (incorporated by
+                  reference to the exhibit of the same number to the
+                  Company's Registration Statement on Form S-1 (File
+                  No. 33-68138)).
+
+         4.2      Registration Rights Agreement dated as of December 23, 1997
+                  among Incyte Pharmaceuticals, Inc. and the former
+                  stockholders of Synteni , Inc. (incorporated by reference to
+                  Exhibit 4.1 to the Company's Current Report on Form 8-K dated
+                  January 22, 1998 (File No. 0-27488)).
+
+         10.1#    1991 Stock Plan of Incyte Pharmaceuticals, Inc., as amended
+                  and restated (the "Plan") (incorporated by reference to
+                  Exhibit 10.1 to the Company's Registration Statement on
+                  Form S-8 (File No. 33-93666)).
+
+         10.2#    Form of Incentive Stock Option Agreement under the
+                  Plan (incorporated by reference to the exhibit of the
+                  same number to the Company's Registration Statement
+                  on Form S-1 (File No. 33-68138)).
+
+
+
+
+
+
+
+
+         10.3#    Form of Nonstatutory Stock Option Agreement under the
+                  Plan (incorporated by reference to the exhibit of the
+                  same number to the Company's Registration Statement
+                  on Form S-1 (File No. 33-68138)).
+
+         10.4#    Amended and Restated 1993 Directors' Stock Option Plan of 
+                  Incyte Pharmaceuticals, Inc.
+
+         10.5#    Form of Indemnity Agreement between the Company and
+                  its directors and officers (incorporated by reference
+                  to Exhibit 10.5 to the Company's Registration
+                  Statement on Form S-1 (File No. 33-68138)).
+
+         10.6     Lease Agreement dated December 8, 1994 between the Company 
+                  and Matadero Creek (incorporated by reference to Exhibit 
+                  10.16 to the Company's Annual Report on Form
+                  10-K for the year ended December 31, 1994).
+
+         10.7     Lease dated July 18, 1991 between the Company and Harry J. 
+                  Fair, Jr., as amended (incorporated by reference to 
+                  Exhibit 10.8 to the Company's Registration Statement on
+                  Form S-1 (File No. 33-68138)).
+
+         10.8     Lease Amendment and Extension to Lease dated July 18, 1991 
+                  between the Company and Harry J. Fair, Jr., as amended 
+                  (incorporated by reference to Exhibit 10.11 to the
+                  Company's Annual Report on Form 10-K for the year ended 
+                  December 31, 1993).
+
+         10.9     Stock Purchase Agreement dated as of June 22, 1994 between 
+                  the Company and Pfizer Inc. (incorporated by reference to 
+                  Exhibit B to the Company's Current Report on
+                  Form 8-K dated June 23, 1994).
+
+         10.10    Registration Rights Agreement dated as of June 22, 1994 
+                  between the Company and Pfizer Inc. (incorporated by 
+                  reference to Exhibit C to the Company's Current Report
+                  on Form 8-K dated June 23, 1994).
+
+         10.11+   Stock Purchase Agreement dated as of November 30, 1994
+                  between the Company and The Upjohn Company (incorporated by 
+                  reference to Exhibit B to the Company's Current Report on 
+                  Form 8-K dated November 30, 1994, as amended by Form 8-K/A
+                  filed with the Commission on March 27, 1995).
+
+         10.12    Registration Rights Agreement dated as of November 30, 1994 
+                  between the Company and The Upjohn Company (incorporated by 
+                  reference to Exhibit C to the Company's Current Report on 
+                  Form 8-K dated November 30, 1994).
+
+         10.13#   1996 Amendment to the Plan (incorporated by reference to 
+                  Exhibit 10.1 to the Company's Registration Statement on 
+                  Form S-8 (File No. 333-13449)).
+
+         10.14#   1997 Amendment to the Plan (incorporated by reference
+                  to Exhibit 10.1 to the Company's Registration
+                  Statement on Form S-8 (File No. 333-31413)).
+
+         10.15#   1997 Employee Stock Purchase Plan of Incyte Pharmaceuticals,
+                  Inc. (incorporated by reference to Exhibit 10.1 to the 
+                  Company's Registration Statement on Form S-8 (File
+                  No. 333-31409)).
+
+         10.16+   Master Strategic Relationship Agreement dated as of 
+                  September 2, 1997 between SmithKline Beecham Corporation, 
+                  Incyte Pharmaceuticals, Inc. and diaDexus, LLC
+                  (incorporated by reference to Exhibit 10.18 to the Company's
+                  Quarterly Report on Form 10-QA for the quarter ended 
+                  September 30, 1997).
+
+         10.17#   1996 Synteni, Inc. Equity Incentive Stock Plan 
+                  (incorporated by reference to Exhibit 10.19 to the Company's 
+                  Registration Statement on Form S-8 (File No. 333-46639)).
+
+
+
+
+
+
+
+
+
+         21.1    Subsidiaries of the Company.
+
+         23.1    Consent of Ernst & Young LLP, Independent Auditors.
+
+         24.1    Power of Attorney (see Page 46 of this Form 10-K).
+
+         27      Financial Data Schedule
+
+
+- ---------
++  Confidential treatment has been granted with respect to certain portions of
+   these agreements.
+#  Indicates management contract or compensatory plan or arrangement.
+
+   (d)  Financial Statement Schedules
+
+        Not applicable
+
+
+
+
+
+
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Company has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                          INCYTE PHARMACEUTICALS, INC.
+
+Date: March 27, 1998                      By       /s/ROY A. WHITFIELD
+                                             -------------------------
+                                                    Roy A. Whitfield
+                                                Chief Executive Officer
+
+                                                 POWER OF ATTORNEY
+
+     KNOW ALL MEN BY THESE PRESENTS, that each person whose signature
+appears below constitutes and appoints Roy A. Whitfield, Randal W. Scott, and
+Denise M. Gilbert, and each of them, his or her true and lawful 
+attorneys-in-fact, each with full power of substitution, for him or her in any
+and all capacities, to sign any amendments to this report on Form 10-K and to 
+file the same, with exhibits thereto and other documents in connection
+therewith, with the Securities and Exchange Commission, hereby ratifying and
+confirming all that each of said attorneys-in-fact or their substitute or 
+substitutes may do or cause to be done by virtue hereof.
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+
+
+
+
+
+
+
+                                  EXHIBIT INDEX
+
+Exhibit
+Number   Description of Document
+- ------   -----------------------
+
+2.1      Agreement and Plan of Merger dated as of December 23, 1997 among 
+         Incyte Pharmaceuticals, Inc., Bond Acquisition Corp. and Synteni, Inc
+         (incorporated by reference to Exhibit 2.1 to the Company's Current
+         Report on Form 8-K dated January 22, 1998 (File No. 0-27488)).
+
+3(i)     Restated Certificate of Incorporation, as amended
+         (incorporated by reference to Exhibit 4.1 to the Company's
+         Registration Statement on Form S-3 (File No. 333-31307)).
+
+3(ii)    Bylaws of the Company, as amended (incorporated by reference to 
+         Exhibit 4.2 to the Company's Registration Statement on Form S-3
+         (File No. 333-31307)).
+
+         Form of Common Stock Certificate (incorporated by reference to
+         the exhibit of the same number to the Company's Registration
+         Statement on Form S-1 (File No. 33-68138)).
+
+4.2      Registration Rights Agreement dated as of December 23, 1997 among
+         Incyte Pharmaceuticals, Inc. and the former stockholders of Synteni, 
+         Inc. (incorporated by reference to Exhibit 4.1 to the Company's 
+         Current Report on Form 8-K dated January 22, 1998 (File No. 0-27488)).
+
+10.1#    1991 Stock Plan of Incyte Pharmaceuticals, Inc., as amended
+         and restated (the "Plan") (incorporated by reference to
+         Exhibit 10.1 to the Company's Registration Statement on Form
+         S-8 (File No. 33-93666)).
+
+10.2#    Form of Incentive Stock Option Agreement under the Plan
+         (incorporated by reference to the exhibit of the same number
+         to the Company's Registration Statement on Form S-1 (File No.
+         33-68138)).
+
+10.3#    Form of Nonstatutory Stock Option Agreement under the Plan
+         (incorporated by reference to the exhibit of the same number
+         to the Company's Registration Statement on Form S-1 (File No.
+         33-68138)).
+
+10.4#    Amended and Restated 1993 Directors' Stock Option Plan of Incyte 
+         Pharmaceuticals, Inc.
+
+10.5#    Form of Indemnity Agreement between the Company and its
+         directors and officers (incorporated by reference to Exhibit
+         10.5 to the Company's Registration Statement on Form S-1 (File
+         No. 33-68138)).
+
+10.6     Lease Agreement dated December 8, 1994 between the Company and
+         Matadero Creek (incorporated by reference to Exhibit 10.16 to the 
+         Company's Annual Report on Form 10-K for the year ended December 31, 
+         1994).
+
+10.7     Lease dated July 18, 1991 between the Company and Harry J. Fair, Jr., 
+         as amended (incorporated by reference to  Exhibit 10.8 to the
+         Company's Registration Statement on Form S-1 (File No. 33-68138)).
+
+10.8     Lease Amendment and Extension to Lease dated July 18, 1991 between the
+         Company and Harry J. Fair, Jr., as amended (incorporated by reference 
+         to Exhibit 10.11 to the Company's Annual Report on Form 10-K for the 
+         year ended December 31, 1993).
+
+10.9     Stock Purchase Agreement dated as of June 22, 1994 between the Company
+         and Pfizer Inc. (incorporated by reference to Exhibit B to the 
+         Company's Current Report on From 8-K dated June 23, 1994).
+
+10.10    Registration Rights Agreement dated as of June 22, 1994 between the
+         Company and Pfizer Inc.
+
+
+
+
+
+
+
+         (incorporated by reference to Exhibit C to the Company's
+         Current Report on Form 8-K dated June 23, 1994).
+
+10.11+   Stock Purchase Agreement dated as of November 30, 1994 between the 
+         Company and The Upjohn Company (incorporated by reference to Exhibit B
+         to the Company's Current Report of Form 8-K dated November 30, 1994,
+         as amended by Form 8-K/A filed with the Commission on March 27, 1995).
+
+10.12    Registration Rights Agreement dated as of November 30, 1994 between
+         the Company and The Upjohn Company (incorporated by reference to 
+         Exhibit C to the Company's Current Report on Form 8-K dated 
+         November 30, 1994).
+
+10.13#   1996 Amendment to the Plan (incorporated by reference to Exhibit 10.1 
+         to the Company's Registration Statement on Form S-8
+         (File No. 333-13449)).
+
+10.14#   1997 Amendment to the Plan (incorporated by reference to Exhibit 10.1 
+         to the Company's Registration Statement on Form S-8 
+         (File No. 333-31413)).
+
+10.15#   1997 Employee Stock Purchase Plan of Incyte Pharmaceuticals, Inc.
+         (incorporated by reference to Exhibit 10.1 to the Company's 
+         Registration Statement on Form S-8 (File No. 333-31409)).
+
+10.16+   Master Strategic Relationship Agreement dated as of September 2, 1997 
+         between SmithKline Beecham Corporation, Incyte Pharmaceuticals, Inc.
+         and diaDexus, LLC (incorporated by reference to Exhibit 10.18 to the 
+         Company's Quarterly Report on Form 10-QA for the quarter
+         ended September 30, 1997).
+
+10.17#   1996 Synteni, Inc. Equity Incentive stock Plan (incorporated by 
+         reference to Exhibit 10.19 to the Company's Registration Statement on
+         Form S-8 (File No. 333-46639)).
+
+21.1     Subsidiaries of the Company.
+
+23.1     Consent of Ernst & Young LLP, Independent Auditors.
+
+24.1     Power of Attorney (see Page 52 of this Form 10-K).
+
+27       Financial Data Schedule.
+- ---------
++    Confidential treatment has been granted with respect to certain 
+     portions of these agreements.
+#    Indicates management contract or compensatory plan or arrangement.
+
+
+
+

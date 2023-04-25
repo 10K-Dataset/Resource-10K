@@ -1,0 +1,2410 @@
+
+10-K
+ANNUAL REPORT
+
+
+================================================================================
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                                    FORM 10-K
+
+(Mark One)
+  X  Annual report  pursuant to Section 13 or 15(d) of the  Securities  Exchange
+ --- Act of 1934
+
+     For the fiscal year ended March 31, 1998 or
+
+     Transition  report  pursuant  to  Section  13 or  15(d)  of the  Securities
+ --- Exchange Act of 1934
+
+     For the transition period from            to
+                                    ----------    ----------
+
+     Commission File Number: 0-21184
+
+                        MICROCHIP TECHNOLOGY INCORPORATED
+             (Exact Name of Registrant as Specified in Its Charter)
+                     ---------------------------------------
+
+         Delaware                                         86-0629024
+(State of Incorporation)                    (I.R.S. Employer Identification No.)
+
+                   2355 W. Chandler Blvd., Chandler, AZ 85224
+          (Address of Principal Executive Offices, Including Zip Code)
+
+                                 (602) 786-7200
+              (Registrant's Telephone Number, Including Area Code)
+
+           Securities registered pursuant to Section 12(b) of the Act:
+
+                                      None
+
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                     Common Stock, $.001 Par Value Per Share
+                         Preferred Share Purchase Rights
+
+     The registrant (1) has filed all reports required to be filed by Section 13
+or 15(d) of the  Securities  Exchange Act of 1934 during the preceding 12 months
+and (2) has been subject to such filing requirements for the past 90 days.
+
+     Yes    X                   No
+           ---                     ---
+
+     Indicate by check mark if disclosure of delinquent  filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's  knowledge,  in definitive proxy or information  statements
+incorporated by reference in Part III of Form 10-K or any amendment to this Form
+10-K. (X)
+
+     The  approximate  aggregate  market  value  of  the  voting  stock  of  the
+registrant  beneficially owned by stockholders,  other than directors,  officers
+and affiliates of the registrant, at April 26, 1998 was $1,497,258,399.
+
+     Number of shares of Common Stock, $.001 par value,  outstanding as of April
+26, 1998 was: 52,870,389.
+
+                       Documents Incorporated by Reference
+                       -----------------------------------
+
+     Document                                              Part of Form 10-K
+     --------                                              -----------------
+     Proxy Statement for the 1998 Annual                          III
+     Meeting of Stockholders
+
+================================================================================
+
+                                     PART I
+
+Item 1.   BUSINESS
+
+     Microchip Technology  Incorporated,  a Delaware corporation ("Microchip" or
+the  "Company"),  develops,  manufactures  and markets  8-bit  microcontrollers,
+application-specific  standard  products (ASSPs) and related memory products for
+high-volume  embedded control applications in the consumer,  automotive,  office
+automation,  communications and industrial markets.  The Company provides highly
+cost-effective  embedded control products for a wide variety of applications and
+believes that its PIC(R)  product  family is a  price/performance  leader in the
+worldwide 8-bit  microcontroller  market.  Microchip's embedded control products
+also offer the advantages of a small  footprint and low voltage  operation along
+with ease of development, enabling timely and cost-effective product integration
+by its customers.  The Company's ASSP products  include a variety of specialized
+integrated  circuits,  including its family of KEELOQ(R) security products.  The
+Company's memory products are primarily  comprised of Serial EEPROMs,  which are
+used  primarily  to provide  non-volatile  memory  storage in  embedded  control
+systems.
+
+     Except as noted below,  references  to the Company  include the Company and
+its  subsidiaries.  The  Company's  executive  offices  are located at 2355 West
+Chandler  Boulevard,  Chandler,  Arizona  85224-6199 and its telephone number is
+(602) 786-7200.
+
+     The following  discussion of the Company's  business  contains certain risk
+factors that may affect  future  operating  results.  For further  discussion on
+certain risk factors that may affect the Company's future operating results, see
+"Item 7 -  Management's  Discussion  and  Analysis of  Financial  Condition  and
+Results of Operation," below.
+
+     This report contains certain forward-looking  statements within the meaning
+of Section  27A of the  Securities  Exchange  Act of 1933 and Section 21E of the
+Securities Exchange Act of 1934 which involve risks and uncertainties, including
+statements regarding the Company's strategy,  financial performance, and revenue
+sources.  The Company's actual results could differ  materially from the results
+anticipated in these  forward-looking  statements as a result of certain factors
+including  those set forth under "Item 7 - Management's  Discussion and Analysis
+of Financial Condition and Results of Operations" and elsewhere in this report.
+
+Industry Background
+
+     Competitive pressures  increasingly require manufacturers to expand product
+functionality and provide differentiation while maintaining or reducing cost. To
+address  these   requirements,   manufacturers   increasingly   use   integrated
+circuit-based  embedded control systems which provide an integrated solution for
+application-specific  control  requirements.  Embedded  control  systems  enable
+manufacturers   to   differentiate   their  products,   replace  less  efficient
+electromechanical  control devices, add product  functionality and significantly
+reduce product  costs.  In addition,  embedded  control  systems  facilitate the
+emergence  of complete new classes of products.  Embedded  control  systems have
+been incorporated into thousands of products and subassemblies in a wide variety
+of markets  worldwide,  including  automotive  air bag systems,  remote  control
+devices, handheld tools, appliances,  portable computers,  cordless and cellular
+telephones, motor controls and security systems.
+
+     Embedded control systems  typically  incorporate a  microcontroller  as the
+principal  active,  and  sometimes  sole,  component.  A  microcontroller  is  a
+self-contained  computer-on-a-chip  consisting  of a  central  processing  unit,
+non-volatile   program   memory,   RAM  memory  for  data  storage  and  various
+input/output functions. In addition to the microcontroller,  a complete embedded
+control  system  incorporates  application-specific  software  and  may  include
+specialized  peripheral  device  controllers  and external  non-volatile  memory
+components, such as EEPROMs, to store additional program software.
+
+     The  increasing  demand  for  embedded  control  has  made the  market  for
+microcontrollers  one of the largest segments of the semiconductor logic market.
+Microcontrollers are currently available in 4-bit through 32-bit  architectures.
+Although 4-bit  microcontrollers are relatively  inexpensive,  typically costing
+under $1.00 each,  they  generally  lack the minimum  performance  and  features
+required  by  today's  design  engineers  for  product  differentiation  and are
+typically used only to produce basic  functionality  in products.  While 16- and
+32-bit  architectures  provide  very high  performance,  they are  prohibitively
+expensive for most high-volume embedded control applications,  typically costing
+over $5.00 each. As a result, manufacturers of competitive, high-volume products
+have  increasingly  found 8-bit  microcontrollers,  that typically cost $1.00 to
+$8.00  each,  to be the  most  cost-effective  embedded  control  solution.  For
+example,  a typical new  automobile may include one 32-bit  microcontroller  for
+engine control,  three 16-bit  microcontrollers for transmission control,  audio
+systems and anti-lock braking,  and up to 50 8-bit  microcontrollers  to provide
+other embedded control functions,  such as door locking,
+
+automatic windows, sun roof,  adjustable seats, electric mirrors, air bags, fuel
+pump, speedometer, and the security and climate control systems.
+
+     Most microcontrollers  available today are ROM-based and must be programmed
+by the semiconductor supplier during manufacturing,  resulting in six-to-20 week
+lead times for delivery of such microcontrollers. In addition to delayed product
+introduction,   these  long  lead  times  can  result  in  potential   inventory
+obsolescence and factory shutdowns when changes to the firmware are required. To
+address time-to-market constraints, some suppliers have made EPROM-, EEPROM-, or
+Flash Memory-based programmable  microcontrollers  available for prototyping and
+preproduction  runs.  However,   these  microcontrollers  have  been  relatively
+expensive,  and  manufacturers  have still been required to send program code to
+the semiconductor  factory for ROM programming as product changes are made. As a
+result, the long lead times for production volume microcontrollers have not been
+significantly reduced by traditional approaches.
+
+Products
+
+     Microchip's  strategic  focus is on embedded  control  products,  including
+microcontrollers,  ASSPs,  related memory products and  application  development
+systems.
+
+     Microcontrollers
+
+     Microchip offers a broad family of proprietary 8-bit microcontrollers under
+the   PIC(R)   name  and  has   shipped   approximately   600   million   PIC(R)
+microcontrollers  to  customers  worldwide  since  1990.  The  Company's  PIC(R)
+products are designed for applications  requiring high performance and low cost.
+They feature a variety of memory  configurations,  low voltage and power,  small
+footprint and ease of use. Microchip believes this product family is currently a
+price/performance leader in the 8-bit microcontroller  marketplace.  Microchip's
+performance  results from an exclusive  RISC-based  architecture  that  provides
+significant speed advantages over the alternative 8-bit CISC  architectures.  In
+addition to providing up to 40 MHz performance, this architecture offers up to a
+2:1 software  compaction  advantage,  thereby  significantly  reducing  software
+development  time.  RISC  architectures  also have the  advantage  of being more
+easily scaled to higher  internal  clock speeds in future  products.  Prices for
+Microchip's 8-bit  microcontrollers  range from approximately $.49 to $12.00 per
+unit.
+
+     Microchip's  original  market  focus was in the lowest cost  segment of the
+8-bit microcontroller marketplace. With its baseline 8-bit products, the Company
+built its current market position as the leading supplier of field  programmable
+microcontrollers.  Over the past three years, Microchip has introduced more than
+100 new 8-bit  microcontrollers  targeted at  baseline,  mid-range  and high-end
+segments of the 8-bit microcontroller  marketplace,  as well as the lower end of
+the  16-bit  microcontroller   market.  In  addition,   with  its  8-pin,  8-bit
+microcontroller, introduced in the first quarter of fiscal 1997, the Company has
+also  targeted a portion of the large  4-bit  microcontroller  marketplace.  The
+Company  believes  that  these  additional   segments  represent  a  significant
+opportunity for future sales growth.
+
+     Microchip  has used its  manufacturing  experience  and design and  process
+technology to bring additional  enhancements and  manufacturing  efficiencies to
+the development and production of its PIC(R) family of microcontroller products.
+This extensive  experience base has enabled the Company to develop its advanced,
+low cost user  programmability  feature  by  incorporating  non-volatile  memory
+(EPROM,  EEPROM and Flash Memory) into the microcontroller in addition to masked
+ROM program memory.
+
+     Development Systems
+
+     The  Company  offers a  comprehensive  set of low  cost  and  easy-to-learn
+application  development  tools.  These tools enable system designers to quickly
+and easily program a PIC(R)  microcontroller for specific applications and are a
+key factor for obtaining design wins.  Microchip's  family of development  tools
+operates  in  the  standard   Windows   environment  on  standard  PC  hardware.
+Entry-level  systems,  which include an assembler and programmer  hardware,  are
+priced at less  than  $200.  A fully  configured  system,  which  also  provides
+in-circuit emulation hardware, performance simulators and software debuggers, is
+priced at approximately  $3,700.  Customers  moving from entry-level  designs to
+those  requiring  real-time  emulation are able to preserve their  investment in
+software  tools as they migrate to future  PIC(R)  devices since all the product
+families are assembly- and C- language compatible.
+
+     Many independent companies also develop and market application  development
+tools and systems which support  Microchip's  standard  microcontroller  product
+architecture.  The Company  believes that  familiarity  with and adoption of the
+Company's,  and  third-party,  development  systems by an  increasing  number of
+product  designers  will be an  important  factor
+
+in  the  future  selection  of  Microchip's  embedded  control  products.  These
+development   tools   allow   design   engineers   to   develop   thousands   of
+application-specific   products  from  Microchip's  standard   microcontrollers.
+Currently,  there are more than 120 third-party  tool suppliers  worldwide whose
+products support the Company's proprietary microcontroller architecture.
+
+     ASSPs (Application-Specific Standard Products)
+
+     Microchip's application-specific standard products are specialized products
+designed to perform specific  end-user  applications as opposed to the Company's
+other  products  which are more general  purpose in nature.  The Company's  ASSP
+device  families   currently   include  the  KEELOQ(R)  family  of  secure  data
+transmission  products, as well as other specialized integrated circuit devices.
+KEELOQ(R) security products are designed for low cost,  secure,  uni-directional
+communications and verification purposes. Applications include automotive remote
+keyless entry systems, automotive immobilizer systems, automatic garage and gate
+openers and smart cards.
+
+     Memory Products
+
+     Microchip's  memory  products  consist  primarily  of Serial  EEPROMs.  The
+Company sells these devices  primarily  into the embedded  control market and is
+the third  largest  supplier of such  devices  worldwide.  EEPROM  (electrically
+erasable  programmable  read only  memory)  products  are used for  non-volatile
+program and data storage in systems where such data must be modified frequently.
+Serial  EEPROMs have a very low I/O pin  requirement,  permitting  production of
+very small  devices.  As a result,  Serial  EEPROMs  are  widely  used to supply
+non-volatile memory in space-sensitive  applications such as portable computers,
+cellular and cordless telephones, pagers and remote control devices.
+
+     Within this market,  Microchip has emphasized  providing  Serial EEPROMs to
+customers that require features such as highly compact packaging,  low operating
+voltage, reduced power consumption,  extended data retention and high endurance.
+The Company  addresses these  requirements  by offering  products with extremely
+small  package  sizes  and very low  operating  voltage  for both read and write
+functions  (1.8 volts in  contrast  with the  industry  standard  of 3.3 volts),
+together  with  a  wide  operating  voltage  range  (1.8  to  5.5  volts).  High
+performance   circuitry  and  microcode  are  also  available  to  reduce  power
+consumption  when a device is not in use, while permitting  immediate  operating
+capability when required. The products also feature long data retention and high
+erase/write endurance.
+
+     Microchip  currently  offers a complete  Serial EEPROM family,  which meets
+three  principal  industry  bus  interface  standards  and is  available in most
+standard density,  configuration and packaging alternatives. The Company's Smart
+Serials(TM)   line  of  specialized   Serial   EEPROMs  with   user-configurable
+architecture and other advanced  features targets  applications such as cellular
+telephones and data communications.
+
+Manufacturing
+
+     Microchip's  ownership  of  its  manufacturing  resources  is an  important
+component  of its  business  strategy,  enabling  it to maintain a high level of
+manufacturing control and to be one of the lowest cost producers in the embedded
+control  industry.  By owning its wafer fabrication and the majority of its test
+operations, and by employing proprietary statistical process control techniques,
+the Company has been able to achieve high production yields. Direct control over
+wafer  fabrication  also allows  Microchip to shorten the  Company's  design and
+production  cycles and to capture the manufacturing and a portion of the testing
+profit  margin.  Wafer  fabrication  and wafer test  facilities  are  located in
+Chandler ("Fab 1") and Tempe ("Fab 2"),  Arizona.  The Company  performs product
+test at its facilities in Kaohsiung, Taiwan and Chachoengsao,  Thailand, located
+near Bangkok.
+
+     Wafers are produced in Class 10 fabrication modules in Fab 1 and Fab 2. Fab
+1 currently contains  approximately  27,000 square feet. Fab 2 has approximately
+50,000  square feet of useable  clean room space of which  approximately  40,000
+square feet are used to support current production requirements. Fab 1 currently
+produces  5-inch and 6-inch wafers,  while Fab 2 currently  produces  6-inch and
+8-inch  wafers.  Wafer sort is performed  in an 8,000 square foot,  Class 10,000
+clean room,  equipped with automated wafer handlers and test equipment.  The two
+wafer  fabrication  sites are  managed by the same  management  team and utilize
+similar production techniques.
+
+     The Company is continuing the process of transitioning  products to smaller
+geometries and to larger wafer sizes.  The Company has transitioned a portion of
+its products to a 0.7 micron  process and has commenced  development of its next
+generation process technology.  Other companies in the industry have experienced
+difficulty in effecting  transitions to 
+
+smaller  geometry  processes  and  to  larger  wafers  and,  consequently,  have
+experienced reduced  manufacturing  yields or delays in product deliveries.  The
+Company believes that its transition to smaller  geometries and to larger wafers
+will be important for the Company to remain  competitive and operating  results,
+particularly gross profit margins,  could be adversely affected if the Company's
+transition is substantially delayed or inefficiently implemented.
+
+     Microchip currently employs proprietary design and manufacturing  processes
+in developing its microcontroller and memory products.  The Company believes its
+processes  afford it both  cost-effective  designs in  existing  and  derivative
+products and greater  functionality  in new product  designs.  While many of the
+Company's  competitors  develop and optimize separate  processes for their logic
+and memory  product lines,  Microchip uses a common process  technology for both
+microcontroller and non-volatile memory products.  This allows Microchip to more
+fully  absorb its  process  research  and  development  costs and to deliver new
+products to market more rapidly.  Microchip engineers utilize advanced CAD tools
+and software to perform  circuit  design,  simulation and layout.  The Company's
+in-house photomask and wafer fabrication facilities enable it to rapidly verifiy
+design techniques by processing test wafers quickly and efficiently.
+
+     The  Company's  Taiwan and Thailand  subsidiaries  test the majority of the
+products  produced  in Fab 1 and  Fab 2.  Currently,  the  150,000  square  foot
+Chachoengsao test facility has the capacity to handle up to 30 million units per
+month. If required, the Chachoengsao facility could be expanded in the future to
+more than double its current capacity. The 88,700 square foot Kaohsiung facility
+has a monthly  capacity of 19 million plastic  packages.  Final test and burn-in
+functions  are  handled  by  advanced  automated  equipment.  The  Company  uses
+third-party  contractors in Bangkok,  Thailand to assemble a significant portion
+of its products.  The balance of Microchip's  assembly and test requirements are
+fulfilled by several third-party assembly and test contractors in Thailand,  the
+Philippines, People's Republic of China, and several other countries in Asia and
+the Pacific Rim.
+
+     Over the last several years, Microchip shifted its assembly operations from
+Company-owned  facilities to third-party  contractors in order to meet increased
+product shipment requirements.  At March 31, 1998, all assembly was conducted by
+third-party   contractors.   The  Company  will  continue  to  use   third-party
+contractors  to provide a majority of its assembly  services.  Reliance on third
+parties  involves  some  reduction  in the  Company's  level of control over the
+assembly  and test  portion  of its  business.  While the  Company  reviews  the
+quality,  delivery and cost performance of these third-party contractors,  there
+can be no assurance that increased reliance on third-party  contractors will not
+adversely  impact  results  in  future  reporting  periods  if  any  third-party
+contractor  is  unable  to  maintain  assembly  and  test  yields  and  costs at
+approximately  their current levels. See also "Item 7 - Management's  Discussion
+and Analysis of Financial  Condition and Results of Operations - Gross  Profit,"
+below.
+
+     The Company's reliance on facilities in Taiwan,  Thailand,  the Philippines
+and  other  foreign  countries,  and  maintenance  of  substantially  all of its
+finished goods in inventory  overseas,  entails  certain  political and economic
+risks,  including  political  instability and expropriation,  supply disruption,
+currency  controls  and exchange  fluctuations,  as well as changes in tax laws,
+tariff and freight rates.  Microchip currently employs the Alphatec  Electronics
+Public Company Limited group of companies ("Alphatec") headquartered in Bangkok,
+Thailand  for a  significant  portion  of its  product  assembly  volume.  While
+Alphatec's  assembly  operations  have  performed  reliably  for the Company for
+several years, Alphatec has experienced financing issues in connection with some
+of  its  joint  ventures  involving  semiconductor   fabrication  facilities  in
+Thailand.  Such financing  difficulties  have not impacted  Alphatec's  assembly
+facilities nor its provision of services to the Company.  However,  there can be
+no  assurance  that  assembly  operations  will not be  affected  in the future.
+Microchip  currently  has second  sources for product  assembly  for most of its
+package  types and can shift  additional  wafer  output to other  factories,  if
+necessary.  However, there can be no assurance that such action would not result
+in short-term  disruption  including possible  temporary product shortages.  The
+Company  has  not  experienced  any  significant  interruptions  in its  foreign
+business operations to date.  Nonetheless,  the Company's business and operating
+results could be adversely  affected if foreign  operations or international air
+transportation were disrupted.
+
+     Due to  the  high  fixed  cost  inherent  in  semiconductor  manufacturing,
+increased  manufacturing  yields can have significant  positive effects on gross
+profits and overall operating results. During fiscal 1998, the Company continued
+to focus on manufacturing  productivity,  and maintained  average wafer fab line
+yields in excess of 90%.  The yields  are  primarily  driven by a  comprehensive
+implementation of statistical  process control,  extensive employee training and
+selective  upgrading of the Company's  manufacturing  facilities  and equipment.
+Maintenance of manufacturing  productivity  and yields are important  factors in
+the  achievement  of the  Company's  operating  results.  As is  typical  in the
+semiconductor industry, the Company has from time to time experienced lower than
+anticipated  manufacturing  yields.  The  Company's  operating  results would be
+adversely  affected if it were unable to maintain  yields at  approximately  the
+current levels.
+
+     The raw  materials and  equipment  used in the  production of the Company's
+integrated circuits currently are available from a number of suppliers,  and the
+Company is not materially dependent on any single source of supply. Although the
+Company has not  experienced  any material  difficulty  to date in obtaining raw
+materials or equipment, the interruption of certain components or ingredients of
+certain raw materials could reduce the  availability or increase the cost of raw
+materials  used by the  Company.  The  manufacture  and  assembly of  integrated
+circuits, particularly non-volatile, erasable CMOS memory and logic devices such
+as those produced by the Company, is a highly complex process and sensitive to a
+wide  variety  of  factors,   including  the  level  of   contaminants   in  the
+manufacturing environment,  impurities in the materials used and the performance
+of the fabrication equipment.
+
+Research and Development
+
+     The Company's  current  research and  development  activities  focus on the
+design of new  microcontroller  and  memory  products,  ASSPs,  new  development
+systems, and software and  application-specific  software libraries. The Company
+is also  developing  new design and process  technology to achieve  further cost
+reductions and performance  improvements in existing  products.  As of April 26,
+1998,  277 employees were engaged in research and  development.  In fiscal 1998,
+1997 and 1996,  the  Company's  research  and  development  expenses  were $38.4
+million, $32.1 million and $27.5 million, respectively. The Company expects that
+it will  continue  to  spend  substantial  funds  on  research  and  development
+activities.
+
+     The Company's future operating results will depend to a significant  extent
+on its ability to continue to develop  and  introduce  new  products on a timely
+basis which compete  effectively on the basis of price and performance and which
+address customer requirements. If the Company were unable to design, develop and
+introduce  competitive  products on a timely basis, its future operating results
+would be adversely affected.
+
+Sales and Distribution
+
+     The  Company  markets  its  products   worldwide  through  a  direct  sales
+organization  and through  distributors.  In fiscal  1998,  the Company  derived
+approximately  47% of its net sales from direct sales to OEM  customers  and 53%
+from sales through distributors.
+
+     The  Company's  direct sales  force,  currently  consisting  of 166 people,
+focuses on three  geographical  markets:  the Americas,  Europe and Asia. In the
+Americas,  the Company  currently has Technical Support Centers in San Jose, Los
+Angeles,  Dallas,  Dayton,  Chicago,  Atlanta,  Boston,  New York  and  Toronto.
+Microchip also maintains  Technical  Support Centers in Tokyo,  London,  Munich,
+Paris, Milan, Taipei,  Seoul,  Singapore,  Hong Kong,  Shanghai,  and Bangalore,
+India.  Microchip's  direct sales force is  augmented by a worldwide  network of
+national  distributors  and regional  distributors  in North and South  America.
+Microchip's  distribution  effort  also  includes  a network  of  manufacturer's
+representatives in North America and Europe.
+
+     Microchip believes that a strong technical service presence is essential to
+the  continued  development  of the  embedded  control  market.  The majority of
+Microchip's field sales engineers (FSEs), field application engineers (FAEs) and
+sales management have technical degrees and have been previously  employed in an
+engineering  environment.  The Company  believes the technical  knowledge of its
+sales force is a key  competitive  advantage  in the sale of field  programmable
+products.  Currently,  Microchip has at least one dedicated application engineer
+in every  Technical  Support  Center.  The primary mission of the FAE team is to
+provide  technical  assistance to OEM customers and to conduct periodic training
+sessions for FSEs,  manufacturer's  representatives and distributor sales teams.
+The FAEs also conduct  frequent  technical  seminars in major cities  around the
+world. FAEs also work closely with the Company's distributors and manufacturer's
+representatives  to provide  technical  assistance  in  end-user  support and to
+assist in the sales process.
+
+     As is  common in the  semiconductor  industry,  the  Company  grants  price
+protection to distributors. Under this policy, distributors receive a credit for
+the difference,  at the time of a price  reduction,  between the price they were
+originally  charged for  products in inventory  and the reduced  price which the
+Company subsequently charges distributors.  From time to time, distributors also
+receive credit on an individual basis for  Company-approved  price reductions on
+specific transactions.  The Company also grants some distributors limited rights
+to return  products.  The Company defers  recognition of net sales and profit on
+sales to  distributors  that have  rights of return and price  protection  until
+those distributors have resold the products to end-customers.
+
+     Foreign sales, primarily in Asia and Europe, represented approximately 68%,
+66% and 65% of  consolidated  net sales in  fiscal  years  1998,  1997 and 1996,
+respectively.  International  sales are  predominately  billed in U.S.  Dollars.
+Although 
+
+foreign sales are subject to certain government export restrictions, the Company
+has not experienced any material difficulties as a result of export restrictions
+to date.
+
+     The Company's policy is to hedge its net foreign currency  positions in the
+normal  course of business to reduce its  exposure  to  fluctuations  in foreign
+exchange  rates.  Foreign  exchange  gains and losses were not  material  during
+fiscal years 1996 through 1998.
+
+Backlog
+
+     As of April 26, 1998, the Company's backlog was approximately $76.7 million
+as compared to $93.7 million as of April 27, 1997.  The Company  includes in its
+backlog all purchase  orders  scheduled  for delivery  within the  subsequent 12
+months.
+
+     Microchip  produces  standard  products that can be shipped from  inventory
+within a short time after receipt of an order. The Company's  business and, to a
+large extent,  that of the entire  semiconductor  industry is  characterized  by
+short-term  orders and shipment  schedules.  Orders  constituting  the Company's
+current backlog are subject to changes in delivery  schedules or to cancellation
+at the  option  of  the  purchaser  without  significant  penalty.  Accordingly,
+although useful for scheduling production, backlog as of any particular date may
+not be a reliable  measure of sales for any future period.  Turns orders (orders
+received in a quarter for shipment in that quarter) have become an  increasingly
+important component of the Company's quarterly operating results.  See "Item 7 -
+Management's  Discussion  and  Analysis of  Financial  Condition  and Results of
+Operations - Results of Operations - Net Sales," below.
+
+Competition
+
+     The   semiconductor   industry  is  intensely   competitive  and  has  been
+characterized  by  price  erosion,   rapid  technological   change  and  foreign
+competition  with  respect to many  products.  The Company  competes  with major
+domestic and international  semiconductor companies,  many of which have greater
+market recognition and substantially  greater financial,  technical,  marketing,
+distribution  and  other  resources  than  the  Company  with  which  to  pursue
+engineering,  manufacturing,  marketing  and  distribution  of  their  products.
+Emerging  companies are also increasing  their  participation  in the market for
+embedded control applications.  The Company's overall average selling prices for
+its microcontroller  products have remained relatively  constant,  while average
+selling  prices of its memory  products  have  declined  over time.  The Company
+expects to continue to experience  increased  pricing  competition and declining
+prices for memory  products.  While average selling prices for  microcontrollers
+have remained relatively constant,  the Company has experienced,  and expects to
+continue to experience,  increasing pricing pressure in certain  microcontroller
+product  lines,  due primarily to competitive  conditions.  The Company has been
+able to maintain  average selling prices by continuing to introduce new products
+with more features and higher prices, thereby offsetting price declines in older
+products.  There  can be no  assurance  that  average  selling  prices  for  the
+Company's  microcontroller  or other products can be maintained due to increased
+pricing pressure in the future.  An increase in pricing pressure could adversely
+affect the Company's  operating results.  In addition,  the Company's ability to
+compete  successfully depends on a number of factors both within and outside its
+control, including the quality, performance, reliability, features, ease of use,
+pricing and diversity of its products;  the quality of its customer  service and
+its ability to address the needs of its customers;  its success in designing and
+manufacturing  new  products  including  those  implementing  new  technologies;
+efficiency of production,  adequate  sources of raw materials and other supplies
+at acceptable  prices;  protection  of the  Company's  products and processes by
+effective utilization of intellectual property laws; the rate at which customers
+incorporate   the  Company's   products   into  their  own   products;   product
+introductions by the Company's  competitors;  the number,  nature and success of
+its competitors in a given market;  and general market and economic  conditions.
+Furthermore,  capacity in the semiconductor industry is increasing over time and
+such increased capacity or improved product  availability could adversely affect
+the Company's competitive position.
+
+     The Company  currently  competes  principally on the basis of the technical
+innovation and  performance of its embedded  control  products,  including their
+speed,  functionality,  density,  power  consumption,  reliability and packaging
+alternatives, as well as on price and product availability. The Company believes
+that other important  competitive factors in the embedded control market include
+ease of use,  functionality  of  application  development  systems and technical
+service and support.  The Company believes that it competes favorably with other
+companies  on all of these  factors,  although  there is no  assurance  that the
+Company will continue to be able to compete successfully in the future.
+
+Patents, Licenses and Trademarks
+
+     The  Company's  success  depends in part on its ability to obtain  patents,
+licenses  and other  intellectual  property  rights  covering  its  products and
+manufacturing processes, and to protect its proprietary information. As of March
+31, 1998, the Company owned 60 U.S. patents and 11 foreign patents,  expiring on
+various  dates  between  1997 and 2015,  and had an  additional  78 U.S.  patent
+applications and 55 foreign patent applications  pending. The Company intends to
+continue  to  seek  patents  on  its   inventions   used  in  its  products  and
+manufacturing  processes.  However,  the  Company  believes  that its  continued
+success  depends  primarily  on such  factors  as the  technological  skills and
+innovative  abilities of its personnel rather than on its patents.  There can be
+no assurance the Company's  existing  patents or any new patents that are issued
+will be of  sufficient  scope or strength to provide  meaningful  protection  or
+other commercial advantage to the Company.
+
+     The Company has entered into  certain  intellectual  property  licenses and
+cross-licenses  with other  companies  related  to  semiconductor  products  and
+manufacturing  processes.  As is  typical  in the  semiconductor  industry,  the
+Company  has  from  time  to  time  received,  and  may in the  future  receive,
+communications  alleging possible  infringement of patents or other intellectual
+property  rights of  others.  The  Company  investigates  all such  notices  and
+responds as it believes is appropriate.  The Company is currently in discussions
+with several other companies  regarding  intellectual  property licenses of such
+other  companies'  semiconductor  patents  and  technology.  Based  on  industry
+practice,  the Company believes that in most cases it could obtain any necessary
+licenses or other rights on commercially reasonable terms. However, no assurance
+can be given that licenses would be on acceptable  terms,  that litigation would
+not ensue, that damages for any past infringement  would not be assessed or that
+the Company would not be forced to pay  royalties on future  sales.  Litigation,
+which  could  result  in  substantial  cost  to the  Company  and  diversion  of
+management  effort,  may be necessary to enforce  patents or other  intellectual
+property  rights  of the  Company  or to  defend  the  Company  against  claimed
+infringement of the rights of others. See "Item 3 - Legal Proceedings."
+
+Environmental Regulation
+
+     The  Company  is  subject  to  a  variety  of  federal,   state  and  local
+governmental regulations related to the use, storage,  discharge and disposal of
+toxic,  volatile or  otherwise  hazardous  chemicals  used in its  manufacturing
+processes,   including   the  Resource   Conversation   and  Recovery  Act,  the
+Comprehensive  Environmental  Response,  Compensation  and  Liability  Act,  the
+Superfund  Amendment  and  Reauthorization  Act, the Clean Air Act and the Water
+Pollution  Control  Act.  The Company  believes it has  obtained  all  necessary
+environmental  permits to conduct its  business.  Although the Company  believes
+that its activities conform to presently applicable  environmental  regulations,
+the failure to comply with present or future  regulations  could result in fines
+being  imposed on the  Company,  suspension  of  production  or a  cessation  of
+operations. While the Company has not experienced any materially adverse effects
+on its operations from governmental regulations,  there can be no assurance that
+changes in such  regulations  will not  require  the  Company to acquire  costly
+equipment or to incur other  significant  expenses to comply with  environmental
+regulations.  Any  failure by the  Company to control  the use of or  adequately
+restrict  the  discharge  of  hazardous  substances  could  subject it to future
+liabilities.  There can be no assurance  that  environmental  problems  will not
+occur  in the  future  which  could  subject  the  Company  to  future  costs or
+liabilities.
+
+Employees
+
+     As of April 26, 1998, the Company had 2,153  employees,  including 1,555 in
+manufacturing,  277 in research and development,  196 in sales and marketing and
+125 in finance and administration.  Approximately 41% of the Company's employees
+work at the final test facilities located in Kaohsiung, Taiwan and Chachoengsao,
+Thailand.  No  employees  in the U.S. or  Thailand  are  represented  by a labor
+organization.  All  employees  in the  Kaohsiung  facility,  except for  certain
+management employees,  are represented by a labor organization.  The Company has
+never had a work stoppage and believes that its employee relations are good.
+
+Executive Officers
+
+     The  following  sets forth  certain  information  regarding  the  Company's
+executive officers as of April 26, 1998:
+                           
+
+     Mr. Sanghi is currently,  and has been since August, 1990, President of the
+Company,  since October,  1991, Chief Executive Officer and since October, 1993,
+Chairman of the Board of  Directors.  He has served as a director of the Company
+since  August,  1990. He served as the Company's  Chief  Operating  Officer from
+August,  1990 through  October,  1991 and as Senior Vice President of Operations
+from February,  1990 through  August,  1990. Mr. Sanghi holds an M.S.  degree in
+Electrical and Computer  Engineering from the University of Massachusetts  and a
+B.S. degree in Electronics and Communication from Punjab University,  India. Mr.
+Sanghi is also a director of ADFlex Solutions, Inc., a U.S. supplier of flexible
+circuit-based interconnect solutions.
+
+     Mr. Billington has served as Vice President, Manufacturing Operations since
+October,  1994 and was Vice President,  Process  Development  and  Manufacturing
+Operations  from April,  1991 until October,  1994.  Prior to his appointment as
+Vice President,  Mr.  Billington  served as Director of Wafer  Fabrication  from
+November,  1990 to April, 1991 and Wafer Fabrication  Manager from June, 1989 to
+November,  1990. Mr.  Billington  holds a B.S.  degree in marketing from Abilene
+Christian University.
+
+     Mr. Chapman has served as the Company's Vice President and Chief  Financial
+Officer  since  joining the Company in  September,  1992 and as Secretary of the
+Company since  December,  1992.  Mr.  Chapman  holds an M.B.A.  from the Harvard
+Graduate School of Business  Administration  and B.A.  degrees in Accounting and
+Managerial Finance from the University of California.
+
+     Mr. Rigg has served as Vice President, Advanced Microcontroller and Systems
+Group since March,  1997. From November,  1995 to March,  1997 he served as Vice
+President,  Advanced Microcontroller and Technology Division. From June, 1989 to
+November,  1995, he served as Vice President,  Logic Products Division. Mr. Rigg
+holds a B.S. degree in Physics from Manchester University, England.
+
+     Mr. Little has served as Vice President,  Americas Sales since April, 1998.
+From  November,  1995 to  April,  1998 he  served  as Vice  President,  Standard
+Microcontroller and ASSP Division.  From September,  1993 to November,  1995, he
+served  as Vice  President,  Memory  Products  and ASSP  Division.  Prior to his
+appointment as Vice  President,  Mr. Little served as Division  Director for the
+Company's  Memory Products  Division from July, 1991 to September,  1993, and as
+Director of Memory Marketing from November, 1989 to July, 1991. Mr. Little holds
+a BSET from United Electronics Institute.
+
+Item 2.   PROPERTIES
+
+     The Company's current headquarters, research and development center and one
+of its U.S wafer fabrication  facilities are located in three buildings totaling
+approximately  242,000  square  feet  situated  on a  77-acre  parcel of land in
+Chandler,  Arizona.  A second  U.S.  manufacturing  site  consisting  of a wafer
+fabrication facility,  office and warehouse facilities and a development systems
+center,  totaling  approximately  253,000  square feet, is situated on a 22-acre
+parcel of land in Tempe, Arizona. The Chandler and Tempe facilities are owned by
+the  Company.  Company-owned  final test  facilities  are  located in Taiwan and
+Thailand. The Taiwan operations are housed in a three-story,  88,700 square foot
+building located in the Kaohsiung Export  Processing Zone in Kaohsiung,  Taiwan,
+Republic  of  China.  The  Taiwan  building  is  owned by the  Company's  Taiwan
+subsidiary  and is located  on land that is leased to the  Company  pursuant  to
+leases from the Taiwan  government  expiring  in  December,  1998 and 2002.  The
+Company intends to renew the lease that expires in December, 1998. The Company's
+Thailand  final test  operations  are housed in a 150,000  square foot  facility
+located in the Alphatechnopolis Industrial Park in Chachoengsao,  Thailand, near
+Bangkok. The Thailand facility,  owned by the Company's Thailand subsidiary,  is
+situated  on land to which the  Company  expects to acquire  title by the end of
+fiscal 1999,  in accordance  with an agreement  between the Company and the land
+owner. The Company leases space for 20 Technical Support Centers in San 8
+
+Jose  and  Los  Angeles,  California;  Dallas,  Texas;  Dayton,  Ohio;  Chicago,
+Illinois; Atlanta, Georgia; Boston,  Massachusetts;  New York, New York; as well
+as Toronto, Tokyo, London, Munich, Paris, Milan, Taipei, Seoul, Singapore,  Hong
+Kong,  Shanghai and Bangalore,  India.  The Company's  aggregate  monthly rental
+payments for its facilities are approximately $107,000.
+
+     The  Company  currently  believes  that  its  existing  facilities  will be
+adequate to meet its requirements for the next 12 months.
+
+Item 3.   LEGAL PROCEEDINGS
+
+     In the  ordinary  course of its  business,  the  Company is  involved  in a
+limited  number of legal  actions,  both as plaintiff and  defendant,  and could
+incur  uninsured  liability in any one or more of them.  Although the outcome of
+these  actions is not  presently  determinable,  the Company  believes  that the
+ultimate  resolution of these matters will not have a material adverse effect on
+the Company's results of operations or financial  conditions.  The Company could
+also be  subject  to  future  litigation  if it is  unable  to  resolve  pending
+intellectual  property  and  technology  licensing  discussions.  The Company is
+currently  the  defendant in one case  regarding  intellectual  property and has
+commenced  litigation  against other  companies for alleged  infringement of the
+Company's  intellectual  property  rights.  The  Company  does not expect  these
+matters  will have a  material  adverse  effect on its  business  or  results of
+operation. However, the failure to obtain necessary licenses or other rights, or
+litigation  arising out of infringement  claims,  could have a material  adverse
+effect on the Company's business and results of operations.  Litigation relating
+to the semiconductor industry is not uncommon, and the Company is, and from time
+to time, has been,  subject to such litigation.  No assurances can be given with
+respect to the extent or outcome of any such litigation in the future.
+
+     The  Securities  and  Exchange   Commission  is  presently   conducting  an
+investigation into matters relating to the Company's  disclosure on February 26,
+1996 that  revenues and  earnings for the quarter  ended March 31, 1996 would be
+lower than previously estimated. While the outcome of the investigation, and its
+effect on the Company,  if any,  cannot be predicted  at the present  time,  the
+Company  does not  believe  that the  investigation  will  result in a  material
+adverse effect on the Company.
+
+     Microchip Technology  Incorporated v. Lucent Technologies Inc. (District of
+Arizona,  CIV97-1502  PHX EHC) On January  13,  1998,  the  Company  finalized a
+settlement in its patent  litigation with Lucent  Technologies Inc. and the case
+was  dismissed on January 30, 1998.  In  connection  with this  settlement,  the
+Company recorded a $5 million charge during the quarter ended December 31, 1997.
+See "Item 5 - Market For  Registrant's  Common  Equity and  Related  Stockholder
+Matters," below, and Note 2 to the Consolidated Financial Statements.
+
+Item 4.   SUBMISSION OF MATTERS TO VOTE OF SECURITY HOLDERS
+
+     No matters  were  submitted  to a vote of the  Company's  security  holders
+during the fourth quarter of fiscal 1998.
+
+                                     PART II
+
+Item 5.   MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+     The Company's  Common Stock is traded on the Nasdaq  National  Market under
+the symbol  "MCHP."  The  Company's  Common  Stock has been quoted on the Nasdaq
+National  Market  since  March 19,  1993.  The  following  table  sets forth the
+quarterly  high and low  closing  prices of the Common  Stock as reported by the
+Nasdaq  National  Market for the last two years,  adjusted  to reflect a 3-for-2
+stock split effected in January, 1997:
+
+
+     On May 22, 1998, the closing sale price for the Company's  Common Stock was
+$27.125  per share.  As of such date,  there were  approximately  515 holders of
+record of the Company's  Common Stock.  This figure does not reflect  beneficial
+ownership of shares held in nominee names.
+
+     The Company has not paid cash dividends on its capital  stock.  The Company
+currently  anticipates  that it will retain all  available  funds for use in the
+operations of its business and  therefore  does not  anticipate  paying any cash
+dividends in the foreseeable future.
+
+     The trading price of the Company's Common Stock has been, and in the future
+could be, subject to wide  fluctuations  in response to quarterly  variations in
+operating results of the Company and other  semiconductor  companies,  actual or
+anticipated  announcements  of  technical  innovations  or new  products  by the
+Company or its  competitors,  changes in analysts'  estimates  of the  Company's
+financial  performance,   general  conditions  in  the  semiconductor  industry,
+worldwide  economic and  financial  conditions  and other events or factors.  In
+addition,  the  stock  market  has  experienced  significant  price  and  volume
+fluctuations  which have  particularly  affected the market prices for many high
+technology  companies  and which  often  have been  unrelated  to the  operating
+performance of such companies. These broad market fluctuations and other factors
+may adversely affect the market price of the Company's Common Stock.
+
+     As of January  13, 1998 and in  connection  with the  settlement  of patent
+infringement litigation,  the Company issued a warrant to acquire 300,000 shares
+of Common Stock at $25.25 per share. The warrant is currently fully  exercisable
+and expires on June 30, 2001. The issuance of the warrant was deemed exempt from
+registration  under the  Securities  Act of 1933,  as  amended,  in  reliance on
+Section 4(2) of such Act. See "Item 3, Legal  Proceedings,"  above and Note 2 to
+the Consolidated Financial Statements.
+
+Item 6.   SELECTED FINANCIAL DATA
+
+     The following selected consolidated financial data for the five-year period
+ended  March  31,  1998  should  be  read  in  conjunction  with  the  Company's
+Consolidated Financial Statements and notes thereto and "Management's Discussion
+and Analysis of Financial Condition and Results of Operations"  included in Item
+7 of this report. The Company's  consolidated  income statement data for each of
+the years in the three year period ended March 31, 1998,  and the balance  sheet
+data as of March 31, 1998 and 1997,  are derived  from the audited  consolidated
+financial statements of the Company, included in Item 8 of this report.
+
+
+Item 7.   MANAGEMENT'S  DISCUSSION  AND  ANALYSIS  OF  FINANCIAL  CONDITION  AND
+          RESULTS OF OPERATIONS
+
+Results of Operations
+
+     The following table sets forth certain  operational data as a percentage of
+net sales for the years indicated:
+
+                                                    Year Ended March 31,
+                                                 1998      1997      1996
+                                                 ------------------------
+
+       Net sales .........................      100.0%    100.0%    100.0%
+       Cost of sales .....................       50.3%     50.1%     48.2%
+                                                 ----      ----      ---- 
+       Gross profit ......................       49.7%     49.9%     51.8%
+       Research and development ..........        9.7%      9.6%      9.6%
+       Selling, general and administrative       17.0%     16.8%     17.0%
+       Special charges ...................        1.2%      2.2%      4.0%
+                                                 ----      ----      ---- 
+       Operating income ..................       21.8%     21.3%     21.1%
+                                                 ====      ====      ==== 
+
+       Net Sales
+
+    Microchip's  net sales of $396.9  million in fiscal 1998  increased by $62.6
+million,  or 18.7%,  over fiscal 1997 and net sales of $334.3  million in fiscal
+1997 increased by $48.4 million, or 16.9%, over fiscal 1996.
+
+    The  Company's  family  of 8-bit  microcontrollers  represents  the  largest
+component  of  Microchip's  total net  sales.  Microcontrollers  and  associated
+application  development  systems  accounted  for 66%,  64% and 59% of total net
+sales in fiscal 1998, 1997 and 1996,  respectively.  A related  component of the
+Company's  product  sales  consists  primarily of Serial EEPROM  memories  which
+accounted  for 34%,  36% and 41% of net  sales in  fiscal  1998,  1997 and 1996,
+respectively.
+
+    The  Company's  net  sales  in  any  given  quarter  are  dependent  upon  a
+combination  of orders  received in that  quarter for  shipment in that  quarter
+("turns  orders") and shipments  from backlog.  The Company has emphasized its
+ability  to  respond  quickly  to  customer  orders  as part of its  competitive
+strategy. This strategy,  combined with current industry conditions,  results in
+customers placing orders with short delivery schedules.  The Company experienced
+increasing  turns orders as a portion of the Company's  business in fiscal 1998,
+as compared to fiscal 1997, which reduced the Company's visibility in projecting
+net sales levels. Because turns orders are difficult to predict, there can be no
+assurance that the combination of turns orders and shipments from backlog in any
+quarter will be sufficient to achieve  growth in net sales.  If the Company does
+not achieve a  sufficient  level of turns orders in a  particular  quarter,  the
+Company's revenues and operating results would be adversely affected.
+
+     The  Company's  overall  average  selling  prices  for its  microcontroller
+products have remained relatively constant,  while average selling prices of its
+memory  products  have  declined  over time.  During  fiscal  1998,  the Company
+continued  to  experience  increased  pricing  pressure  on its memory  products
+primarily  due to the less  proprietary  nature of these  products and increased
+competition,  and expects this to continue in the future.  While average selling
+prices for microcontrollers  have remained relatively constant,  the Company has
+experienced, and expects to continue to experience,  increasing pricing pressure
+in  certain   microcontroller   product  lines,  due  primarily  to  competitive
+conditions.  The  Company has been able to maintain  average  selling  prices by
+continuing  to introduce  new  products  with more  features and higher  prices,
+thereby  offsetting price declines in older products.  There can be no assurance
+that average selling prices for the Company's  microcontroller or other products
+can be maintained due to increased  pricing pressure in the future.  An increase
+in pricing pressure could adversely affect the Company's operating results.
+
+    The foregoing statements regarding turns orders,  average selling prices and
+pricing  pressures are forward looking  statements within the meaning of Section
+27A of the Securities Act of 1933, as amended, and Section 21E of the Securities
+Exchange Act of 1934,  as amended,  and are subject to the safe harbors  created
+thereby.  Actual  results  could  differ  materially  because  of the  following
+factors,  among others: the level of orders that are received and can be shipped
+in a quarter;  inventory,  mix and timing of customer  orders;  competition  and
+competitive pressures on pricing and product availability;  customers' inventory
+levels,  order  patterns  and  seasonality;  the  cyclical  nature  of both  the
+semiconductor  industry  and the markets  addressed by the  Company's  products;
+market acceptance of the products of both the Company and
+
+its customers;  demand for the Company's  products,  fluctuations  in production
+yields,  production  efficiencies and overall capacity  utilization;  changes in
+product mix; and absorption of fixed costs, labor and other fixed  manufacturing
+costs.
+
+    Several Asian  countries  have recently  experienced  economic  difficulties
+including  high  rates  of  loan  defaults,   business   failures  and  currency
+devaluations.  During the quarters  ended  December 31, 1997 and March 31, 1998,
+the Company  experienced  weakness in the expected level of turns orders and net
+sales  related to its  business  in Asia.  During the fourth  fiscal  quarter of
+fiscal  1998,  shipments  to Asia  were  lower  than the  preceding  quarter  by
+approximately  30%. The Company  derives a substantial  portion of its net sales
+from  customers  in Asia  and  there  can be no  assurance  that  such  economic
+difficulties  will not  continue to  adversely  affect the  Company's  operating
+results in future periods.
+
+    Foreign sales represented 68%, 66% and 65% of net sales in fiscal 1998, 1997
+and 1996,  respectively.  The Company's foreign sales have been predominantly in
+Asia and Europe which the Company  attributes to the  manufacturing  strength in
+those areas for consumer,  automotive,  office  automation,  communications  and
+industrial products.  The majority of foreign sales are U.S. Dollar denominated.
+The Company has entered  into and,  from time to time,  will enter into  hedging
+transactions  in order to  minimize  exposure  to  currency  rate  fluctuations.
+Although none of the countries in which the Company conducts significant foreign
+operations have had a highly inflationary  economy in the last five years, there
+is no assurance that inflation rates or  fluctuations in foreign  currency rates
+in countries where the Company conducts operations will not adversely affect the
+Company's operating results in the future.
+
+      Additional Factors Affecting Operating Results
+
+    The Company  believes that future growth in net sales of its 8-bit family of
+microcontroller  products and related  memory  products will depend largely upon
+the  Company's  success in having its current  and new  products  designed  into
+high-volume customer  applications.  Design wins typically precede the Company's
+volume  shipment of products  for such  applications  by 15 months or more.  The
+Company  also  believes  that  shipment  levels of its  proprietary  application
+development  systems  are an  indicator  of  potential  future  design  wins and
+microcontroller  sales. The Company continued to achieve a high volume of design
+wins and shipped increased numbers of application  development systems in fiscal
+1998  compared to previous  fiscal  years.  There can be no  assurance  that any
+particular  development  system  shipment will result in a product design win or
+that any particular design win will result in future product sales.
+
+    The  Company's  operating  results are  affected by a wide  variety of other
+factors that could  adversely  impact its net sales and  profitability,  many of
+which are beyond the  Company's  control.  These  factors  include the Company's
+ability  to  design  and  introduce  new  products  on a  timely  basis,  market
+acceptance  of products of both the Company and its  customers,  customer  order
+patterns  and  seasonality,  changes  in  product  mix,  whether  the  Company's
+customers  buy  from  a  distributor  or  directly  from  the  Company,  product
+performance and  reliability,  product  obsolescence,  the amount of any product
+returns, availability and utilization of manufacturing capacity, fluctuations in
+manufacturing  yield, the availability and cost of raw materials,  equipment and
+other supplies,  the cyclical nature of both the semiconductor  industry and the
+markets addressed by the Company's products,  technological changes, competition
+and competitive pressures on prices, and economic, political or other conditions
+in the United States,  and other  worldwide  markets served by the Company.  The
+Company believes its ability to continue to increase its manufacturing  capacity
+to meet customer demand and maintain  satisfactory delivery schedules will be an
+important  competitive  factor.  As a result of the  increase in fixed costs and
+operating  expenses  related  to  expanding  its  manufacturing   capacity,  the
+Company's  operating  results  may be  adversely  affected  if net  sales do not
+increase  sufficiently to offset the increased costs. The Company's products are
+incorporated  into a wide variety of consumer,  automotive,  office  automation,
+communications and industrial  products. A slowdown in demand for products which
+utilize the  Company's  products as a result of economic or other  conditions in
+the worldwide markets served by the Company could adversely affect the Company's
+operating results.
+
+      Gross Profit
+
+    The Company's  gross profit was $197.3  million,  $166.9  million and $148.2
+million in fiscal 1998, 1997 and 1996,  respectively.  Gross profit as a percent
+of sales was 49.7%, 49.9% and 51.8% in fiscal 1998, 1997 and 1996, respectively.
+The gross  profit  percentage  in fiscal  years  1998 and 1997 was down from the
+fiscal 1996 level,  primarily as a result of reduced 5-inch wafer  production at
+one of the Company's wafer fabrication facilities and increased pricing pressure
+on its non-volatile  memory  products.  The Company is continuing the process of
+transitioning products to smaller geometries and to larger wafer sizes to reduce
+future manufacturing  costs.  Eight-inch wafer production commenced at the Tempe
+wafer  fabrication  facility in early fiscal 1998 and the Company is  continuing
+the  transitioning  of products to its 0.7 micron  process.  The Company expects
+that 25% of its products will come from 8-inch wafers  during  fiscal 1999.  The
+Company
+
+anticipates that its cost of sales and gross product margins will fluctuate over
+time, driven primarily by the product mix of 8-bit microcontroller  products and
+related  memory  products,  manufacturing  yields,  wafer fab loading levels and
+competitive and economic conditions.
+
+    The foregoing  statements  relating to anticipated  gross  margins,  cost of
+sales,   8-inch  wafer  production,   and  the  transition  to  higher  yielding
+manufacturing  processes are  forward-looking  statements  within the meaning of
+Section 27A of the  Securities  Act of 1933, as amended,  and Section 21E of the
+Securities Exchange Act of 1934, as amended, and are subject to the safe harbors
+created thereby. Actual results could differ materially because of the following
+factors,   among  others:   fluctuations   in  production   yields,   production
+efficiencies  and overall  capacity  utilization;  cost and  availability of raw
+materials;  absorption  of fixed  costs,  labor and other  direct  manufacturing
+costs; the timing and success of manufacturing  process  transition;  changes in
+product mix; competitive pressures on prices; and other economic conditions.
+
+    In the  quarter  ended June 30,  1997,  the  Company  changed  its method of
+accounting  for  inventories  from the last-in,  first-out  (LIFO) method to the
+first-in,  first-out (FIFO) method. The change did not have a material effect on
+the results of operations.  The FIFO method is the predominant accounting method
+used  in the  semiconductor  industry.  Prior  to  this  change,  the  Company's
+inventory costs did not differ significantly under the two methods. Prior period
+results of  operations  have not been  restated for this change as the impact is
+not material.
+
+     All  of  Microchip's  assembly  operations  are  performed  by  third-party
+contractors in order to meet product  shipment  requirements.  Reliance on third
+parties  involves some  reduction in the  Company's  level of control over these
+portions of its business.  While the Company  reviews the quality,  delivery and
+cost  performance of these  third-party  contractors,  there can be no assurance
+that reliance on third-party  contractors  will not adversely  impact results in
+future  reporting  periods if any  third-party  contractor is unable to maintain
+assembly yields and costs at approximately their current levels.
+
+     The Company's reliance on facilities in Taiwan,  Thailand,  the Philippines
+and  other  foreign  countries,  and  maintenance  of  substantially  all of its
+finished goods in inventory  overseas,  entails  certain  political and economic
+risks,  including  political  instability and expropriation,  supply disruption,
+currency  controls  and exchange  fluctuations,  as well as changes in tax laws,
+tariff and freight rates.  Microchip currently employs the Alphatec  Electronics
+Public Company Limited group of companies ("Alphatec") headquartered in Bangkok,
+Thailand  for a  significant  portion  of its  product  assembly  volume.  While
+Alphatec's  assembly  operations  have  performed  reliably  for the Company for
+several years, Alphatec has experienced financing issues in connection with some
+of  its  joint  ventures  involving  semiconductor   fabrication  facilities  in
+Thailand.  Such financing  difficulties  have not impacted  Alphatec's  assembly
+facilities nor its provision of services to the Company.  However,  there can be
+no  assurance  that  assembly  operations  will not be  affected  in the future.
+Microchip  currently  has second  sources for product  assembly  for most of its
+package  types and can shift  additional  wafer  output to other  factories,  if
+necessary.  However, there can be no assurance that such action would not result
+in short-term  disruption  including possible  temporary product shortages.  The
+Company  has  not  experienced  any  significant  interruptions  in its  foreign
+business operations to date.  Nonetheless,  the Company's business and operating
+results could be adversely  affected if foreign  operations or international air
+transportation were disrupted.
+
+    Research and Development
+
+    The  Company  is  committed  to  continued  investment  in new and  enhanced
+products,  including  its  development  systems  software  and in its design and
+manufacturing  process technology,  which are significant factors in maintaining
+the  Company's  competitive  position.  The dollar  investment  in research  and
+development  increased  20% in fiscal 1998 over fiscal  1997,  and 17% in fiscal
+1997 over fiscal  1996.  The  Company  will  continue to invest in research  and
+development  in the  future,  including  an  investment  in process  and product
+development  associated with the capacity expansion of the Company's fabrication
+facilities.
+
+    The Company's future operating  results will depend to a significant  extent
+on its ability to continue to develop  and  introduce  new  products on a timely
+basis which can compete  effectively on the basis of price and  performance  and
+which address customer  requirements.  The success of new product  introductions
+depends on various  factors,  including  proper new  product  selection,  timely
+completion and introduction of new product designs, development of support tools
+and collateral  literature  that make complex new products easy for engineers to
+understand and use and market acceptance of customers' end products.  Because of
+the complexity of its products,  the Company has experienced delays from time to
+time in completing  development  of new products.  In addition,  there can be no
+assurance  that any new  products  will receive or maintain  substantial  market
+acceptance.  If the  Company  were  unable  to  design,  develop  and  introduce
+competitive  products on a timely basis, its future  operating  results would be
+adversely affected.
+
+    The  Company's  future  success will also depend upon its ability to develop
+and  implement  new design and process  technologies.  Semiconductor  design and
+process technologies are subject to rapid technological change,  requiring large
+expenditures for research and development.  Other companies in the industry have
+experienced  difficulty in effecting  transitions to smaller geometry  processes
+and to larger  wafers and,  consequently,  have suffered  reduced  manufacturing
+yields or delays in product deliveries. The Company believes that its transition
+to smaller  geometries and to larger wafers will be important for the Company to
+remain  competitive,  and operating  results could be adversely  affected if the
+transition is substantially delayed or inefficiently implemented.
+
+      Selling, General and Administrative
+
+      The Company  increased  its level of  investment  in selling,  general and
+administrative  costs to $67.5  million,  $56.2  million  and $48.9  million for
+fiscal years 1998, 1997 and 1996, respectively.  The increased costs reflect the
+requirement  to invest in  incremental  worldwide  sales and  technical  support
+resources to promote the Company's embedded control products.
+
+      Other Income (Expense)
+
+     Interest  income in fiscal  1998  increased  over fiscal 1997 and 1996 as a
+result of increased  invested cash  balances,  resulting  from  completion of an
+equity  offering in February,  1997.  Interest  expense in fiscal 1998 decreased
+over fiscal 1997 and 1996 due to reductions in borrowing levels  associated with
+the Company's capital  equipment  additions.  Other income  represents  numerous
+immaterial non-operating items. The Company's interest expense could increase in
+fiscal 1999 if the Company  increases its borrowings and interest  expense would
+be adversely impacted by increased interest rates.
+
+      Provision for Income Taxes
+
+    Provisions for income taxes reflect tax on foreign  earnings and federal and
+state tax on U.S.  earnings.  The  Company had an  effective  tax rate of 27.0%,
+26.4% and 27.0% for the years ended March 31, 1998, 1997 and 1996, respectively,
+due primarily to lower tax rates at its foreign locations.  The Company believes
+that its tax rate for the  foreseeable  future will be  approximately  27%.  The
+foregoing  statement  regarding the Company's  anticipated  future tax rate is a
+forward-looking  statement  within the meaning of section 27A of the  Securities
+Act of 1933, as amended, and section 21E of the Securities Exchange Act of 1934,
+as amended,  and is subject to the safe harbors created thereby.  Actual results
+could differ materially because of the following factors,  among others: current
+tax laws and regulations, taxation rates in geographic regions where the Company
+has  significant  operations;  and current  tax  holidays  available  in foreign
+locations.
+
+    Year 2000 Conversion
+
+    The Year 2000 issue is the result of computer  programs  being written using
+two digits rather than four to define the year, thus rendering them incapable of
+properly  managing and  manipulating  data that includes 21st century dates. The
+Company  is  currently  installing  business  and  financial  systems to replace
+existing software systems to address the Year 2000 compliance issue. The Company
+is also currently  reviewing  other aspects of its computer  systems,  including
+manufacturing and product development areas.  Microchip's products, for the most
+part,  involve  hardware  integrated  circuit devices  manufactured by Microchip
+which,  subsequent  to their sale,  are combined  with  proprietary  application
+firmware by Microchip's  customers.  Thus,  Microchip believes that its products
+have no inherent date sensitive features. At this time management is not able to
+assess the cost of Year 2000  compliance.  The Company does not anticipate  that
+the Year 2000 will pose significant operating problems.  However,  delays in the
+implementation  of new information  systems,  or a failure to fully identify and
+resolve  all Year  2000  deficiencies  in the  Company's  systems  could  have a
+material adverse effect on the Company's future results of operations.
+
+      Liquidity and Capital Resources
+
+    The  Company  had $32.2  million in cash and cash  equivalents  at March 31,
+1998, a decrease of $10.8 million from the March 31, 1997  balance.  The Company
+has an  unsecured  line of credit with a syndicate  of domestic  banks  totaling
+$90.0 million. Borrowings under the domestic line of credit as of March 31, 1998
+were $7.0 million.  The domestic line of credit  requires the Company to achieve
+certain  financial ratios and operating  results.  The Company was in compliance
+with these  covenants at March 31, 1998. The Company also has an unsecured short
+term  line  of  credit  totaling  $19.8  million  with  certain  foreign  banks.
+Borrowings  under the  foreign  line of credit as of March 31,  1998 were  $16.0
+million. There are no covenants related to the foreign line of credit.
+
+    At March 31, 1998,  an aggregate of $86.8  million of these  facilities  was
+available,  subject to financial covenants and ratios with which the Company was
+in  compliance.  The  Company's  ability to fully  utilize  these  facilities is
+dependent on the Company remaining in compliance with such covenants and ratios.
+
+    During the year ended March 31, 1998, the Company  generated  $136.5 million
+of cash from operating activities, an improvement of $59.0 million from the year
+ended March 31, 1997 and an  improvement  of $63.1  million  from the year ended
+March 31, 1996. The  improvement in cash flow from  operations was primarily due
+to increased  profitability,  the impact of changes in accounts payable, accrued
+expenses and accounts receivable and an increase in depreciation expense.
+
+    The Company's  level of capital  expenditures  varies from time to time as a
+result of actual and anticipated  business  conditions.  Capital expenditures in
+the years ended March 31, 1998, 1997 and 1996 were $145.3 million, $79.0 million
+and $115.8 million,  respectively.  Capital  expenditures were primarily for the
+expansion of  production  capacity and the addition of research and  development
+equipment  in each of these  periods.  The  Company  currently  intends to spend
+approximately  $55.0 million  during the next 12 months for  additional  capital
+equipment to increase capacity at its existing wafer fabrication  facilities and
+to expand product test operations. The Company expects capital expenditures will
+be financed by cash flow from operations,  available debt arrangements and other
+sources  of  financing.  The  Company  believes  that the  capital  expenditures
+anticipated  to be  incurred  over the next 12 months  will  provide  sufficient
+additional manufacturing capacity to meet its currently anticipated needs.
+
+    Net cash used in  financing  activities  was $2.1 million for the year ended
+March 31, 1998. Net cash provided by financing  activities was $13.4 million and
+$27.1 million for the years ended March 31, 1997 and 1996 respectively. Proceeds
+from sale of stock and put options were $12.5  million,  $59.5  million and $9.6
+million  for the years  ended  March  31,  1998,  1997 and  1996,  respectively.
+Proceeds  from  issuance of long-term  debt were $2.9 million for the year ended
+March 31, 1996.  Payments on long term debt and capital lease  obligations  were
+$6.1 million,  $5.7 million and $5.9 million for the years ended March 31, 1998,
+1997 and 1996,  respectively.  Proceeds  from lines of credit were $23.0 million
+and $20.5  million for the years  ended  March 31,  1998 and 1996  respectively.
+Repayments  on lines of credit  were $21.0  million for the year ended March 31,
+1997.  Cash  expended for the purchase of the  Company's  Common Stock was $31.5
+million  and  $19.5  million  for the  years  ended  March  31,  1998 and  1997,
+respectively.
+
+    On January 30, 1998 and July 26,  1997,  the  Company's  Board of  Directors
+authorized   the   repurchase  of  2,500,000   shares  and   1,500,000   shares,
+respectively,  in connection  with a Common Stock  repurchase  plan. On July 26,
+1997, the Board of Directors  also  authorized the Company to sell up to 750,000
+put options in  connection  with the same plan. As of March 31, 1998 the Company
+has  purchased  1,277,500  shares  of  Common  Stock  at an  aggregate  cost  of
+$31,481,000  and has  outstanding  400,000  put options at prices  ranging  from
+$29.63 to $38.81.  Subsequent  to March 31, 1998 the Company  purchased  222,500
+shares of Common Stock at an aggregate  price of $6,667,000 and sold put options
+of 100,000 shares of Common Stock at a price of $27.50. 
+
+    Subsequent  to March 31, 1998,  the Company  completed two  transactions  in
+connection with the stock repurchase program.  April, 1998 the Company completed
+a costless  collar  transaction  for 500,000  calls priced at $25.95 and 665,000
+puts priced at $25.19. The expiration date of the transaction is April 23, 1999.
+Also in connection with the stock repurchase  program,  the Company  completed a
+net share settled forward  contract for 2,000,000  shares at an average price of
+$29.24.  The  expiration  date of this  transaction  is May, 2000 with quarterly
+interim settlement dates as determined by the Company.
+
+    Also  subsequent  to  March  31,  1998  the  Company's  Board  of  Directors
+authorized an additional  share  repurchase of Common Stock of 2,000,000  shares
+and to sell up to 500,000 additional put options.  The Company expects from time
+to time to purchase  shares of Common Stock in  connection  with its  authorized
+Common Stock repurchase plan.
+
+    The Company  believes that its existing  sources of liquidity  combined with
+cash  generated  from  operations  will  be  sufficient  to meet  the  Company's
+currently  anticipated  cash  requirements  for at  least  the  next 12  months.
+However,  the semiconductor  industry is capital  intensive.  In order to remain
+competitive,  the Company  must  continue  to make  significant  investments  in
+capital equipment, for both production and research and development. The Company
+may seek additional  equity or debt financing  during the next 12 months for the
+capital  expenditures  required  to  maintain  or  expand  the  Company's  wafer
+fabrication and product test facilities or other purposes. The timing and amount
+of any such capital  requirements will depend on a number of factors,  including
+demand for the Company's  products,  product mix, changes in industry conditions
+and competitive  factors.  There can be no assurance that such financing will be
+available on acceptable  terms, and any additional equity financing could result
+in additional dilution to existing investors.
+
+Item 7A.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+    Not applicable.
+
+Item 8.   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+    The  Consolidated  Financial  Statements of the Company  listed in the index
+appearing  under Item 14(a)(1) hereof are filed as part of this Annual Report on
+Form 10-K. See also Index to Financial Statements on page F- I hereof.
+
+Item 9.   CHANGES  IN AND  DISAGREEMENTS  WITH  ACCOUNTANTS  ON  ACCOUNTING  AND
+          FINANCIAL DISCLOSURE
+
+     Not applicable.
+
+                                    PART III
+
+Item 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+     Information with respect to the Company's  directors is incorporated herein
+by reference to the Company's  proxy  statement  for the 1998 annual  meeting of
+stockholders under the caption "Election of Directors."
+
+     See Item I,  Part I hereof  under  the  caption  "Executive  Officers"  for
+information with respect to the Company's executive  officers.  Information with
+respect to compliance with Section 16(a) of the Securities Exchange Act of 1934,
+as amended, is incorporated herein by reference to the Company's proxy statement
+for the 1998 annual  meeting of  stockholders  under the  caption  "Section16(a)
+Beneficial Ownership Reporting Compliance."
+
+Item 11.  EXECUTIVE COMPENSATION
+
+     Information with respect to executive  compensation is incorporated  herein
+by reference to the information  under the caption  "Executive  Compensation" in
+the Company's proxy statement for the 1998 annual meeting of stockholders.
+
+Item 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+     Information with respect to security ownership of certain beneficial owners
+and  management  of the  Company  is  incorporated  herein by  reference  to the
+information  under the caption  "Security  Ownership of Principal  Stockholders,
+Directors and Executive  Officers" in the Company's proxy statement for the 1998
+annual meeting of stockholders.
+
+Item 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     Not applicable.
+
+                                     PART IV
+
+Item 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+     (a) The following documents are filed as part of this Annual Report on Form
+10-K:
+
+                                                                        Page No.
+           (1)    Financial Statements:
+
+                  Independent Auditors' Report                            F-1
+
+                  Consolidated Balance Sheets as of
+                  March 31, 1998 and 1997                                 F-2
+
+                  Consolidated Statements of Income for each
+                  of the years in the three-year period ended
+                  March 31, 1998                                          F-3
+
+                  Consolidated Statements of Cash Flows for
+                  each of the years in the three-year period
+                  ended March 31, 1998                                    F-4
+
+                  Consolidated Statements of Stockholders'
+                  Equity for each of the years in the
+                  three-year period ended March 31, 1998                  F-5
+
+                  Notes to Consolidated Financial Statements              F-6
+
+
+           (2)    Financial Statement Schedules - Applicable
+                  schedules have been omitted because informa-
+                  tion is included in the footnotes to the Financial
+                  Statements.
+
+           (3)    The Exhibits which are filed with this report or
+                  which are incorporated herein by reference are set
+                  forth in the Exhibit Index which appears on page
+                  E-1 hereof, which Exhibit Index is incorporated
+                  herein by this reference.
+
+     (b)   No current reports on Form 8-K were filed during the quarter
+           ended March 31, 1998.
+
+     (c)   See Item 14(a)(3) above.
+
+     (d)   See "Index to Financial Statements" included under Item 8
+           to this report.
+
+                                   SIGNATURES
+
+         Pursuant to the  requirements  of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                        MICROCHIP TECHNOLOGY INCORPORATED
+                                        (Registrant)
+
+
+                                        By:/s/ Steve Sanghi
+                                           -------------------------------------
+                                           Steve Sanghi
+                                           President and Chief Executive Officer
+
+Date:    May 26, 1998
+
+         Pursuant to the  requirements  of the Securities  Exchange Act of 1934,
+this  report has been  signed  below by the  following  persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+Name and Signature                      Title                          Date
+- ------------------                      -----                          ----
+
+
+/s/ Steve Sanghi               Director, President and              May 26, 1998
+- ---------------------------    Chief Executive Officer
+Steve Sanghi                   
+
+Albert J. Hugo-Martinez*       Director                             May 26, 1998
+
+Jon H. Beedle*                 Director                             May 26, 1998
+
+L. B. Day*                     Director                             May 26, 1998
+
+Matthew W. Chapman*            Director                             May 26, 1998
+
+/s/ C. Philip Chapman          Vice President, Chief Financial      May 26, 1998
+- ---------------------------    Officer and Secretary (Principal
+C. Philip Chapman              Financial and Accounting Officer)
+
+*By:/s/ Steve Sanghi           Individually and as Attorney-in-fact May 26, 1998
+    -----------------------
+        Steve Sanghi
+
+                           Annual Report on Form 10-K
+
+                   Item 8, Item 14(a)(1) and (2), (c) and (d)
+
+                        ---------------------------------
+
+
+                          INDEX TO FINANCIAL STATEMENTS
+
+                        CONSOLIDATED FINANCIAL STATEMENTS
+
+                                    EXHIBITS
+
+                        ---------------------------------
+
+
+                            YEAR ENDED MARCH 31, 1998
+
+                        MICROCHIP TECHNOLOGY INCORPORATED
+                                AND SUBSIDIARIES
+
+                                CHANDLER, ARIZONA
+
+               MICROCHIP TECHNOLOGY INCORPORATED AND SUBSIDIARIES
+
+                   Index to Consolidated Financial Statements
+
+
+
+                                                                     Page Number
+                                                                     -----------
+
+Independent Auditors' Report                                             F-1
+
+Consolidated Balance Sheets
+     as of March 31, 1998 and 1997                                       F-2
+
+Consolidated Statements of Income
+     for each of the years in the three-year
+     period ended March 31, 1998                                         F-3
+
+Consolidated Statements of Cash Flows
+     for each of the years in the three-year
+     period ended March 31, 1998                                         F-4
+
+Consolidated Statements of Stockholders' Equity
+     for each of the years in the three-year
+     period ended March 31, 1998                                         F-5
+
+Notes to Consolidated Financial Statements                               F-6
+                                       i
+
+KPMG Peat Marwick LLP
+
+
+
+
+
+
+                          INDEPENDENT AUDITORS' REPORT
+
+
+
+The Board of Directors and Stockholders
+Microchip Technology Incorporated:
+
+
+We have  audited  the  accompanying  consolidated  balance  sheets of  Microchip
+Technology  Incorporated and subsidiaries as of March 31, 1998 and 1997, and the
+related consolidated statements of income,  stockholders' equity, and cash flows
+for each of the years in the  three-year  period  ended  March 31,  1998.  These
+consolidated  financial  statements  are  the  responsibility  of the  Company's
+management.  Our  responsibility is to express an opinion on these  consolidated
+financial statements based on our audits.
+
+We  conducted  our  audits  in  accordance  with  generally   accepted  auditing
+standards.  Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement.  An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements.  An audit also includes
+assessing the  accounting  principles  used and  significant  estimates  made by
+management,  as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated  financial statements referred to above present
+fairly, in all material respects, the financial position of Microchip Technology
+Incorporated  and subsidiaries as of March 31, 1998 and 1997, and the results of
+their  operations  and their cash flows for each of the years in the  three-year
+period ended March 31, 1998, in conformity  with generally  accepted  accounting
+principles.
+
+
+                                        /s/ KPMG Peat Marwick LLP
+
+
+
+
+
+Phoenix, Arizona
+April 22, 1998, except as to the
+   second and third paragraphs in
+   note 13 which are as of May 18, 1998
+                                      F-1
+
+               MICROCHIP TECHNOLOGY INCORPORATED AND SUBSIDIARIES
+                          CONSOLIDATED BALANCE SHEETS
+
+                      (in thousands except share amounts)
+
+          See accompanying notes to consolidated financial statements
+                                      F-2
+
+               MICROCHIP TECHNOLOGY INCORPORATED AND SUBSIDIARIES
+                       CONSOLIDATED STATEMENTS OF INCOME
+
+                    (in thousands except per share amounts)
+
+                                                   Years Ended March 31,
+                                            -----------------------------------
+                                              1998         1997         1996
+                                            ---------    ---------    ---------
+
+
+Net sales                                   $ 396,894    $ 334,252    $ 285,888
+Cost of sales                                 199,538      167,330      137,708
+                                            ---------    ---------    ---------
+   Gross profit                               197,356      166,922      148,180
+
+
+Operating expenses:
+   Research and development                    38,362       32,073       27,517
+   Selling, general and administrative         67,549       56,248       48,903
+   Special charges                              5,000        7,544       11,448
+                                            ---------    ---------    ---------
+                                              110,911       95,865       87,868
+
+Operating income                               86,445       71,057       60,312
+
+Other income (expense):
+   Interest income                              2,635        1,419        2,034
+   Interest expense                            (1,130)      (3,271)      (2,981)
+   Other, net                                     217          288          569
+                                            ---------    ---------    ---------
+
+Income before income taxes                     88,167       69,493       59,934
+
+Income taxes                                   23,799       18,361       16,182
+                                            ---------    ---------    ---------
+
+Net income                                  $  64,368    $  51,132    $  43,752
+                                            =========    =========    =========
+
+
+ Basic net income per share                 $    1.21    $    0.99    $    0.86
+                                            =========    =========    =========
+
+
+ Diluted net income per share               $    1.14    $    0.94    $    0.80
+                                            =========    =========    =========
+
+Weighted average common
+   shares outstanding                          53,376       51,569       50,750
+                                            =========    =========    =========
+
+Weighted average common and common
+   equivalent shares outstanding               56,313       54,683       54,533
+                                            =========    =========    =========
+
+          See accompanying notes to consolidated financial statements
+                                      F-3
+
+               MICROCHIP TECHNOLOGY INCORPORATED AND SUBSIDIARIES
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                                 (in thousands)
+
+          See accompanying notes to consolidated financial statements
+                                      F-4
+
+               MICROCHIP TECHNOLOGY INCORPORATED AND SUBSIDIAIRES
+                 CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+
+           See accompanying notes to consolidated financial statements
+                                      F-5
+
+MICROCHIP TECHNOLOGY INCORPORATED AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1.       SIGNIFICANT ACCOUNTING POLICIES
+         -------------------------------
+
+         Principles of Consolidation
+         The consolidated financial statements include the accounts of Microchip
+         Technology   Incorporated  and  its  wholly  owned   subsidiaries  (the
+         "Company"). All significant intercompany accounts and transactions have
+         been eliminated in consolidation.
+
+         Cash and Cash Equivalents
+         All highly liquid investments including marketable securities purchased
+         with an original  maturity of three months or less are considered to be
+         cash  equivalents.  At March  31,  1997,  the  Company  had  classified
+         marketable  securities  of  $25,964,000,  with a maturity  of less than
+         three  months as cash and cash  equivalents.  There were no  marketable
+         securities at March 31, 1998.
+
+         Inventories
+         Inventories  are  valued  at the  lower  of cost or  market  using  the
+         first-in, first-out (FIFO) method.
+
+         Property, Plant and Equipment
+         Property,  plant and equipment are stated at cost.  Major  renewals and
+         improvements  are  capitalized,   while  maintenance  and  repairs  are
+         expensed when  incurred.  Depreciation  is provided on a  straight-line
+         basis over the estimated useful lives of the related assets which range
+         from three to twenty-five years.
+
+         Assets acquired under capital lease  arrangements have been recorded at
+         the present value of the future  minimum  lease  payments and are being
+         amortized on a  straight-line  basis over the estimated  useful life of
+         the asset or the lease term, whichever is shorter. Amortization of this
+         equipment is included in depreciation and amortization expense.
+
+         Foreign Currency Translation and Forward Contracts
+         The Company's  foreign  subsidiaries are considered to be extensions of
+         the U.S. company and any translation  gains and losses related to these
+         subsidiaries are included in income.  As the U.S. Dollar is utilized as
+         the  functional  currency,  gains and  losses  resulting  from  foreign
+         currency  transactions  (transactions  denominated  in a currency other
+         than  the  subsidiaries'  functional  currency)  are also  included  in
+         income.  Gains and losses  associated  with  currency  rate  changes on
+         forward contracts are recorded currently in income.
+
+         Revenue Recognition
+         Revenue  from product  sales to direct  customers  is  recognized  upon
+         shipment.  The Company  defers  recognition of net sales and profits on
+         sales to distributors  that have rights of return and price  protection
+         until the distributors have resold the products.
+
+         Income Taxes
+         Deferred tax assets and  liabilities  are recognized for the future tax
+         consequences   attributable   to  differences   between  the  financial
+         statement carrying amounts of existing assets and liabilities and their
+         respective tax bases.  Deferred tax assets and liabilities are measured
+         using  enacted  tax rates  expected  to apply to taxable  income in the
+         years in which these temporary differences are expected to be recovered
+         or settled.
+
+         Computation of Net Income per Share
+         In 1997, the Financial  Accounting Standards Board issued SFAS No. 128,
+         Earnings  per  Share  ("SFAS  No.  128").  SFAS No.  128  replaced  the
+         calculation of primary and fully diluted  earnings per share with basic
+         and diluted  earnings  per share.  Unlike  primary  earnings per share,
+         basic  earnings per share  excludes  any  dilutive  effects of options,
+         warrants and convertible securities. Diluted earnings per share is very
+         similar to the previously  reported  fully diluted  earnings per share.
+         All earnings per share amounts for all periods have been presented, and
+         where   appropriate   restated,   to   conform  to  the  SFAS  No.  128
+         requirements.
+                                      F-6
+
+         Impairment of Long-Lived Assets
+         The Company  records  impairment  losses on  long-lived  assets used in
+         operations   when   indicators  of  impairment   are  present  and  the
+         undiscounted  cash flows  estimated to be generated by those assets are
+         less than the assets' carrying amount.
+
+         Stock Option Plans
+         Prior to April 1, 1996,  the  Company  accounted  for its stock  option
+         plans in accordance with the provisions of Accounting  Principles Board
+         ("APB") Opinion No. 25,  Accounting for Stock Issued to Employees,  and
+         related  interpretations.   As  such,  compensation  expense  would  be
+         recorded,  only if, on the date of grant,  the current  market price of
+         the underlying stock exceeded the exercise price. On April 1, 1996, the
+         Company adopted SFAS No. I23, Accounting for Stock-Based  Compensation,
+         which permits  entities to recognize as expense over the vesting period
+         the  fair  value  of all  stock-based  awards  on the  date  of  grant.
+         Alternatively,  SFAS No. 123 also allows  entities to continue to apply
+         the  provisions  of APB Opinion No. 25 and provide pro forma net income
+         and pro forma earnings per share  disclosures for employee stock option
+         grants made in fiscal 1996 and future years as if the  fair-value-based
+         method  defined  in SFAS No.  123 had been  applied.  The  Company  has
+         elected to continue to apply the  provisions  of APB Opinion No. 25 and
+         provide the pro forma disclosure provisions of SFAS No. 123.
+
+         Use of Estimates
+         The Company has made a number of estimates and assumptions  relating to
+         the  reporting  of  assets  and   liabilities  and  the  disclosure  of
+         contingent assets and liabilities to prepare these financial statements
+         in conformity with generally  accepted  accounting  principles.  Actual
+         results could differ from those estimates.
+
+         Reclassifications
+         Certain 1997 and 1996 fiscal year  balances have been  reclassified  to
+         conform to the fiscal year 1998 presentation.
+
+2.       SPECIAL CHARGES
+         ---------------
+
+         Legal Settlement With Lucent Technologies Inc. 
+         On January 13, 1998,  the Company  finalized a settlement of its patent
+         litigation  with  Lucent  Technologies  Inc.  resulting  in the Company
+         recording a $5 million special charge during the quarter ended December
+         31, 1997. Under the terms of the settlement,  Microchip made a one-time
+         cash payment to Lucent and issued to Lucent warrants to acquire 300,000
+         shares of Common Stock of the Company  priced at $25.25 per share.  The
+         terms  of the  settlement  also  provide  for  the  Company  to  make a
+         contingent  payment  to  Lucent  if the  Company's  earnings  per share
+         performance for the three and one-half year period ending June 30, 2001
+         does not meet certain targeted levels. It is currently anticipated that
+         any contingent payment required under the terms of the settlement would
+         be expensed in the period the amount is determined.
+
+         Acquisitions
+         ------------
+
+         Keeloq(R) Hopping Code
+         On November 17, 1995, the Company  acquired the Keeloq(R)  hopping code
+         technology  and patents  developed  by Nanoteq  Ltd. of the Republic of
+         South Africa,  and the marketing  rights  related  thereto (the "Keeloq
+         Acquisition").  The Keeloq Acquisition was treated as an asset purchase
+         for accounting  purposes.  The amount paid for the Keeloq  Acquisition,
+         including all related costs, was  $12,948,000.  The Company has written
+         off a  substantial  portion  of the  purchase  price  that  relates  to
+         in-process research and development costs, which is consistent with the
+         Company's ongoing treatment of research and development  costs, as well
+         as all Keeloq  Acquisition-related costs. The special charge associated
+         with the Keeloq  Acquisition was $11,448,000,  with the balance treated
+         as purchased  technology  and  amortized on a straight  line basis over
+         five  years.  Under the terms of the Keeloq  Acquisition,  the  Company
+         agreed to a secondary  payment  which will be  determined  by a formula
+         based on the net sales and gross margin results of the division for the
+         six month period ended December 31, 1998. Any such secondary payment is
+         based on future  performance and is currently not  determinable.  It is
+         currently  anticipated  that any such payment  would be expensed in the
+         quarter the amount is determined.  The impact of the Keeloq Acquisition
+         to the Company's  reported financial position and results of operations
+         is  immaterial,   therefore,  pro-forma  information  illustrating  the
+         combined results after the Keeloq Acquisition has not been provided.
+                                      F-7
+
+         ASIC Technical Solutions
+         On June 25, 1996, the Company acquired ASIC Technical Solutions,  Inc.,
+         a  fabless  provider  of quick  turn  gate  array  devices  (the  "ASIC
+         Acquisition").  The ASIC  Acquisition  was  treated as a  purchase  for
+         accounting  purposes.  The  amount  paid for the ASIC  Acquisition  and
+         related  costs was  $1,750,000.  As part of the ASIC  Acquisition,  the
+         Company  allocated  a  substantial  portion  of the  purchase  price to
+         in-process research and development costs, which is consistent with the
+         Company's  on-going  treatment of research and development  costs.  The
+         total  special  charge   associated  with  the  ASIC   Acquisition  was
+         $1,575,000, with the balance treated as purchased technology related to
+         current  products and amortized over five years. The impact of the ASIC
+         Acquisition to the Company's reported financial position and results of
+         operations is immaterial, therefore, pro-forma information illustrating
+         the combined results after the ASIC Acquisition has not been provided.
+
+         Restructuring Charges
+         During the  quarter  ended June 30,  1996,  primarily  in  response  to
+         inventory correction activities at the Company's customers, the Company
+         implemented a series of actions to reduce production capacity,  curtail
+         the growth of inventories and reduce operating expenses.  These actions
+         included   delaying  capital  expansion  plans  and  deferring  capital
+         spending,  a 15% production cutback in wafer  fabrication,  a headcount
+         reduction in early April,  1996  representing  approximately  3% of the
+         Company's  worldwide  employees,  and a two-week wafer fab shut down in
+         early July, 1996. As a result of these actions,  the Company recorded a
+         pre-tax special charge of $5,969,000 in the quarter ended June 30, 1996
+         to cover costs primarily related to idling part of the Company's 5-inch
+         wafer  fab  capacity,  paying  continuing  expenses  during  the  wafer
+         fabrication  facility  shutdown and paying  severance costs  associated
+         with the April, 1996 headcount reduction.
+
+3.       CONTINGENCIES
+         -------------
+
+         The  Company is subject to  lawsuits  and other  claims  arising in the
+         ordinary  course of its business.  In the Company's  opinion,  based on
+         consultation  with legal  counsel,  as of March 31, 1998, the effect of
+         such matters will not have a material  adverse  effect on the Company's
+         financial position.
+
+4.       ACCOUNTS RECEIVABLE
+         -------------------
+
+         Accounts receivable consists of the following (amounts in thousands):
+
+                                                        March 31,
+                                                     1998      1997
+                                                   -----------------
+            Trade accounts receivable              $57,922   $62,165
+            Other                                      790     1,031
+                                                   -----------------
+
+                                                    58,712    63,196
+
+            Less allowance for doubtful accounts     2,392     2,094
+                                                   -----------------
+
+                                                   $56,320   $61,102
+                                                   =================
+
+5.       INVENTORIES
+         -----------
+
+         The components of inventories are as follows (amounts in thousands):
+
+                                                         March 31,
+                                                      1998      1997
+                                                    -----------------
+           Raw materials                            $ 5,795   $ 3,365
+           Work in process                           40,000    44,813
+           Finished goods                            30,021    16,966
+                                                    -----------------
+
+                                                     75,816    65,144
+
+           Less allowance for inventory valuation     9,523     8,331
+                                                    -----------------
+
+                                                    $66,293   $56,813
+                                                    =================
+                                      F-8
+
+         In the quarter ended June 30, 1997,  the Company  changed its method of
+         accounting for inventories from the last-in, first-out (LIFO) method to
+         the  first-in,  first-out  (FIFO)  method.  The  change  did not have a
+         material  effect on the results of  operations.  The FIFO method is the
+         predominant accounting method used in the semiconductor industry. Prior
+         to  this  change,   the  Company's   inventory  costs  did  not  differ
+         significantly under the two methods. Prior period results of operations
+         have not been restated for this change as the impact is not material.
+
+6.       PROPERTY, PLANT AND EQUIPMENT
+         -----------------------------
+
+         Property,  plant and equipment  consists of the  following  (amounts in
+         thousands):
+
+                                                       March 31,
+                                                    1998       1997
+                                                 -------------------
+
+            Land                                 $ 11,749   $ 10,837
+            Building and building improvements     59,725     51,796
+            Machinery and equipment               322,624    218,284
+            Projects in process                    82,528     52,608
+                                                 --------   --------
+
+                                                  476,626    333,525
+            Less accumulated depreciation
+              and amortization                    150,734     99,467
+                                                 --------   --------
+
+                                                 $325,892   $234,058
+                                                 ========   ========
+
+7.       LONG-TERM DEBT
+         --------------
+
+         Long-term  debt consists of borrowings  (denominated  in U.S.  Dollars)
+         from three Taiwan financial institutions, secured by equipment financed
+         thereby.  Interest rates are at the Singapore  Interbank  Offering Rate
+         (SIBOR)  (5.69%  at  March  31,  1998)  plus  0.75%  and at the  London
+         Interbank  Offering  Rate (LIBOR)  (5.69% at March 31, 1998) plus .75%.
+         The weighted  average  interest rate on these  borrowings  was 5.89% at
+         March 31, 1998.  Payments,  including  interest,  are due semi-annually
+         through  September 15, 2000.  The aggregate  annual  maturities of long
+         term debt as of March 31, 1998 are $2,196,000,  $1,147,000 and $273,000
+         for the years ending March 31, 1999, 2000 and 2001, respectively.
+
+         The Company has an  unsecured  line of credit with a syndicate  of U.S.
+         banks for up to $90,000,000,  bearing  interest at the LIBOR plus .325%
+         expiring in October,  2000.  At March 31, 1998 the Company had utilized
+         $7,000,000  of this line of  credit.  At March 31,  1997  there were no
+         borrowings  against  the line of  credit.  The  agreement  between  the
+         Company  and the  syndicate  of banks  requires  the Company to achieve
+         certain  financial  ratios and  operating  results.  The Company was in
+         compliance with these covenants as of March 31, 1998.
+
+         The Company has an  additional  unsecured  line of credit with  various
+         Taiwan  financial  institutions  for  up to  $19,750,000  (U.S.  Dollar
+         equivalent).  These  borrowings  are  predominantly  denominated in New
+         Taiwan  Dollars,  bearing  interest at SIBOR plus .75% and  expiring on
+         various dates through November, 1998. At March 31, 1998 the Company had
+         utilized $16,000,000 of this line of credit.
+
+8.       EMPLOYEE BENEFIT PLANS
+         ----------------------
+
+         The Company maintains a contributory profit-sharing plan for a majority
+         of its domestic  employees  meeting certain service  requirements.  The
+         plan qualifies  under Section 401(k) of the Internal  Revenue Code, and
+         allows employees to contribute up to 15% of their compensation, subject
+         to  maximum  annual  limitations  prescribed  by the  Internal  Revenue
+         Service.  Company  contributions  to the plan were at the discretion of
+         the Board of Directors  until January 1, 1997,  when the employer match
+         was revised to provide  for a fixed and  discretionary  component.  The
+         Company shall make a matching contribution of up to 25% of the first 4%
+         of the  participant's  eligible  compensation  and may  award  up to an
+         additional 25% under the discretionary  match. All matches are provided
+         on a  quarterly  basis  and  require  the  participant  to be an active
+         employee at the end of each  quarter.  For the fiscal years ended March
+         31, 1998, 1997 and 1996, the Company  contributions to the plan totaled
+         $525,000, $452,000 and $407,000, respectively.
+                                      F-9
+
+         The Company's Employee Stock Purchase Plan (the "Purchase Plan") allows
+         eligible employees of the Company to purchase shares of Common Stock at
+         semi-annual intervals through periodic payroll deductions. The purchase
+         price  per  share,  in  general,  will be 85% of the  lower of the fair
+         market value of the Common Stock on the  participant's  entry date into
+         the offering  period or 85% of the fair market value on the semi-annual
+         purchase date. As of March 31, 1998,  312,772 shares were available for
+         issuance under the Purchase  Plan.  Since the inception of the Purchase
+         Plan,  3,306,000 shares of Common Stock have been reserved for issuance
+         under the  Purchase  Plan.  During  fiscal  1995,  a purchase  plan was
+         adopted for  employees in non-U.S.  locations.  The plan allows for the
+         purchase  price per  share to be 100% of the  lower of the fair  market
+         value of the Common Stock on the  beginning  or end of the  semi-annual
+         purchase plan period.
+
+         Effective January 1, 1997, the Company adopted a non-qualified deferred
+         compensation  arrangement.  This  plan is  unfunded  and is  maintained
+         primarily  for the purpose of  providing  deferred  compensation  for a
+         select group of  management  as defined in ERISA  Sections 201, 301 and
+         401. There are no Company matching  contributions  with respect to this
+         plan.
+
+         Substantially  all  employees  in foreign  locations  are  covered by a
+         statutory   pension  plan.   Contributions  are  accrued  based  on  an
+         actuarially  determined  percentage of  compensation  and are funded in
+         amounts  sufficient to meet  statutory  requirements.  Pension  expense
+         amounted to  $1,202,000,  $1,316,000 and $1,197,000 for the years ended
+         March 31, 1998, 1997 and 1996, respectively.
+
+         The Company  has an  incentive  compensation  plan which  provides  for
+         awards,  based on a percentage of base salary,  from an incentive  pool
+         created from operating profits of the Company, at the discretion of the
+         Board of  Directors.  During the years ended March 31,  1998,  1997 and
+         1996, $1,851,000, $2,064,000 and $1,357,000,  respectively, was charged
+         against operations for this plan.
+
+         The  Company  also has a plan which  provides a cash bonus based on the
+         operating  profits of the Company for all employees,  at the discretion
+         of the Board of Directors.  During the years ended March 31, 1998, 1997
+         and 1996,  $1,746,000,  $1,373,000 and  $1,025,000,  respectively,  was
+         charged against operations for this plan.
+
+9.       STOCK OPTION PLANS
+         ------------------
+
+         Under the Company's  stock option plans (the  "Plans"),  key employees,
+         non-employee  directors and consultants may be granted  incentive stock
+         options or  non-statutory  stock  options to purchase  shares of Common
+         Stock at a price  not less than  100% of the fair  value of the  option
+         shares on the grant date. Options granted under the Plans vest over the
+         period  determined  by the Board of Directors at the date of grant,  at
+         periods ranging from one year to four years.
+
+         At March 31, 1998 there were 4,887,709 shares available for grant under
+         the Plans. The per share  weighted-average  fair value of stock options
+         granted  under the Plans for the years ended March 31,  1998,  1997 and
+         1996 was $15.61, $9.66 and $13.22,  respectively,  based on the date of
+         grant using the Black-Scholes  option-pricing  model with the following
+         weighted average assumptions:
+
+                                               Years Ended March 31,
+                                             1998      1997       1996
+                                             -------------------------
+
+            Expected life (years)           3.64       3.50       3.50
+            Risk-free interest rate         5.75%      6.25%      6.25%
+            Volatility                        62%        60%        60%
+            Dividend yield                     0%         0%         0%
+
+
+         Under the Plans,  18,897,476  shares of Common Stock had been  reserved
+         for issuance since the inception of the Plans.
+                                      F-10
+
+         The stock option activity is as follows:
+
+
+                                                Options Outstanding
+                                    Shares       Weighted Average Exercise Price
+                                 -----------------------------------------------
+  Outstanding at March 31, 1995   7,110,672                $    7.76
+
+  Granted                           981,833                    23.77
+  Exercised                      (1,367,832)                    4.01
+  Canceled                         (177,366)                   10.86
+                                 ----------
+
+  Outstanding at March 31, 1996   6,547,307                    10.88
+
+  Granted                         2,092,952                    17.74
+  Exercised                      (1,314,977)                    6.16
+  Canceled                         (967,610)                   21.28
+                                 ----------
+
+  Outstanding at March 31, 1997   6,357,672                $   12.50
+
+  Granted                         1,631,821                    27.80
+  Exercised                        (778,418)                    7.72
+  Canceled                       (1,006,781)                   25.99
+                                 ----------
+
+  Outstanding at March 31, 1998   6,204,294                $   14.84
+                                 ==========
+
+         The  following  table  summarizes  information  about the stock options
+         outstanding at March 31, 1998:
+
+
+         At March 31,  1998 and 1997,  the  number of  options  exercisable  was
+         2,625,827  and  2,208,808,   respectively,   and  the  weighted-average
+         exercise price of those options was $8.94 and $6.60, respectively.
+
+         On March 2, 1998,  the Board of  Directors  of the Company  approved an
+         option  exchange  program  for  options  priced in  excess  of  $25.00.
+         Excluding  executive   officers,   corporate  officers  and  directors,
+         employees  who were issued stock  options in this category and who were
+         active employees on March 2, 1998, could elect to keep their options to
+         buy Common Stock at the original  grant price or elect to exchange such
+         options for options  priced at $21.50 per share,  the fair market value
+         of the Company's Common Stock on March 9, 1998. If the employee elected
+         to exchange  the options  for options  priced at $21.50 per share,  the
+         vesting  commencement  date was  extended by 90 days from the  original
+         vesting  date.  There were 534,522  shares  exchanged  under the option
+         exchange program.
+
+         For certain  options  granted,  the Company  recognized as compensation
+         expense the excess of the deemed value for  accounting  purposes of the
+         Common Stock  issuable  upon exercise of such options over the exercise
+         price of such options.  This deferred compensation expense is amortized
+         ratably over the vesting period of each option.  During the years ended
+         March 31, 1997 and 1996, the Company recorded  compensation  expense of
+         $30,000 and $60,000, respectively.
+
+         The  Company  received a tax  benefit  of  $5,332,000,  $5,742,000  and
+         $4,130,000  for  the  years  ended  March  31,  1998,  1997  and  1996,
+         respectively,  on the exercise of  non-qualified  stock options and the
+         disposition of stock  acquired 
+                                      F-11
+
+         with  incentive  stock  options  or  through  the  Purchase  Plan.  For
+         financial  reporting  purposes,  the tax  effect of this  deduction  is
+         accounted for as a credit to additional  paid-in capital rather than as
+         a reduction of income tax expense.
+
+         The Company  applies APB Opinion No. 25 in  accounting  for its various
+         stock plans and, accordingly,  no compensation cost has been recognized
+         for the Plans or the Purchase Plan in the financial statements. Had the
+         Company  determined  compensation cost in accordance with SFAS No. 123,
+         the  Company's  net income per share would have been reduced to the pro
+         forma amounts indicated below:
+
+                                                    Years Ended March 31,     
+                                                1998         1997         1996
+                                            ------------------------------------
+
+         Net income           As reported   $   64,368   $   51,132   $   43,752
+                              Pro forma         58,063       48,202       40,691
+
+         Basic net income     As reported   $     1.21   $     0.99   $     0.86
+         per share            Pro forma           1.09         0.93         0.80
+
+         Diluted  net income  As reported   $     1.14   $     0.94   $     0.80
+         per share            Pro forma           1.03         0.88         0.75
+
+         Pro forma net income  reflects only options  granted  during the fiscal
+         years ended March 31, 1998, 1997 and 1996.  Therefore,  the full impact
+         of calculating  compensation  cost for stock options under SFAS No. 123
+         is not  reflected  in pro  forma net  income  amounts  presented  above
+         because  compensation cost is reflected over the options' vested period
+         and compensation cost for options granted prior to April 1, 1995 is not
+         considered.
+
+10.      LEASE COMMITMENTS
+         -----------------
+
+         The Company  leases office space,  transportation  and other  equipment
+         under  capital  and  operating  leases  which  expire at various  dates
+         through March,  2007. The future minimum lease  commitments under these
+         leases are payable as follows (amounts in thousands):
+
+         Year ended                                     Capital        Operating
+         March 31,                                      Leases          Leases
+         ---------                                      ------          ------
+                                                                      
+         1999                                          $ 2,319          $ 1,288
+         2000                                              363            1,099
+         2001                                             --                806
+         2002                                             --                591
+         2003                                             --                476
+         Thereafter                                       --              1,707
+                                                       ------------------------
+         Total minimum lease payments                  $ 2,682          $ 5,967
+                                                                        =======
+                                                                
+         Less amount representing interest
+         (at rates ranging from 6.7% to 8.5%)             (128)
+                                                       -------
+         
+         Present value of net minimum lease payments     2,554
+         
+         Less current maturities                         2,206
+                                                       -------
+         
+         Capital lease obligations                     $   348
+                                                       =======
+
+
+         Rental expense under operating  leases totaled  $2,811,000,  $2,644,000
+         and  $1,675,000  for the years  ended  March 31,  1998,  1997 and 1996,
+         respectively.
+                                      F-12
+
+11.      INCOME TAXES
+         ------------
+
+         The provision for income taxes is as follows (amounts in thousands):
+
+                                            Years Ended March 31,
+                                        1998        1997        1996
+                                       --------------------------------
+      
+         Current expense:
+                  Federal              $ 22,575    $ 13,814    $ 15,923
+                  State                   2,508       3,454       4,122
+                  Foreign                 8,139       4,093       3,539
+                                       --------    --------    --------
+      
+                                         33,222      21,361      23,584
+                                       --------    --------    --------
+      
+         Deferred expense (benefit):
+                  Federal                (6,315)     (1,322)     (5,922)
+                  State                    (702)       (331)     (1,480)
+                  Foreign                (2,406)     (1,347)       --
+                                       --------    --------    --------
+      
+                                         (9,423)     (3,000)     (7,402)
+                                       --------    --------    --------
+      
+                                       $ 23,799    $ 18,361    $ 16,182
+                                       ========    ========    ========
+      
+     
+         The tax benefit  associated with the exercise of employee stock options
+         reduced  taxes   currently   payable  by  $5,332,000,   $5,742,000  and
+         $4,130,000  for  the  years  ended  March  31,  1998,  1997  and  1996,
+         respectively.
+
+         The  provision  for income taxes  differs  from the amount  computed by
+         applying the statutory  federal tax rate to income before income taxes.
+         The sources and tax effects of the differences are as follows  (amounts
+         in thousands):
+
+                                                   Years Ended March 31,
+                                               1998        1997        1996
+                                             --------------------------------
+     
+         Computed expected provision         $ 30,858    $ 24,323    $ 20,977
+         State income taxes, net
+         of federal benefit                     1,630       2,245       1,669
+         Foreign sales corporation benefit     (3,707)     (2,552)     (2,123)
+         Foreign income taxed at
+         lower than the federal rate           (4,982)     (5,655)     (4,341)
+                                             --------    --------    --------
+     
+                                             $ 23,799    $ 18,361    $ 16,182
+                                             ========    ========    ========
+
+
+         Pretax income from foreign operations was $39,554,000,  $32,172,000 and
+         $29,434,000  for the  years  ended  March  31,  1998,  1997  and  1996,
+         respectively.  Unremitted  foreign  earnings that are  considered to be
+         permanently invested outside the United States and on which no deferred
+         taxes have been provided,  amounted to  approximately  $147,874,000  at
+         March 31, 1998.
+                                      F-13
+
+         The tax effects of temporary  differences that give rise to significant
+         portions of the deferred tax assets and deferred tax liabilities are as
+         follows (amounts in thousands):
+
+
+
+                                                             March 31,
+                                                         1998        1997
+                                                       --------------------
+         Deferred tax assets:
+     
+                Intercompany profit in inventory       $ 15,168    $ 10,408
+                Deferred income on shipments
+                to distributors                           9,398       6,475
+                Inventory reserves                        3,550       2,392
+                Technology assets                         2,798       2,934
+                Accrued expenses and other                7,662       4,976
+                                                       --------    --------
+                Gross deferred tax assets                38,576      27,185
+                                                       --------    --------
+     
+         Deferred tax liabilities:
+     
+                Property, plant and equipment,
+                principally due to differences in
+                depreciation                            (11,071)     (8,479)
+                Other deferred liabilities                 --          (624)
+                                                       --------    --------
+                Gross deferred tax liability            (11,071)     (9,103)
+                                                       --------    --------
+                Net deferred tax asset                 $ 27,505    $ 18,082
+                                                       ========    ========
+  
+         Management believes that it is more likely than not that the results of
+         future  operations will generate  sufficient  taxable income to realize
+         the deferred tax assets.
+
+         The  Company  has  benefited  from a partial tax holiday for its Taiwan
+         manufacturing  operations  over the past several years.  The Company is
+         currently benefiting from a tax holiday for its Thailand  manufacturing
+         operations. The aggregate dollar benefits derived from this tax holiday
+         status approximated $5,614,000, $5,415,000 and $5,003,000 for the years
+         ended March 31, 1998, 1997 and 1996, respectively.  The benefit the tax
+         holiday status had on net income per share  approximated  $0.10,  $0.10
+         and  $0.09  for  the  years  ended  March  31,  1998,  1997  and  1996,
+         respectively.  The  Company's tax holiday  status in Taiwan  expired in
+         March, 1997, and expires in Thailand in March, 2005.
+
+12.      ACCRUED LIABILITIES
+         -------------------
+
+         Accrued liabilities consists of the following (amounts in thousands):
+
+                                                  March 31,
+                                               1998      1997
+                                              -----------------
+                 Accrued salaries and wages   $ 7,468   $ 6,344
+                 Income taxes                  22,396    14,957
+                 Other accrued expenses        23,588    15,091
+                                              -------   -------
+                                              $53,452   $36,392
+                                              =======   =======
+
+
+13.      STOCKHOLDERS' EQUITY
+         --------------------
+
+         Stockholder  Rights Plan. On February 13, 1995, the Company's  Board of
+         Directors  adopted a Stockholder  Rights Plan (the  "Plan").  Under the
+         Plan,  each share of the  Company's  Common  Stock has one right  which
+         entitles  the  stockholder  to buy 1/100th of a share of the  Company's
+         Series A  Participating  Preferred  Stock.  The rights have an exercise
+         price of $66.67  and  expire  in  February,  2005.  The  rights  become
+         exercisable and transferable upon the occurrence of certain events.
+
+         Stock  Repurchase  Activity.  In  connection  with a  stock  repurchase
+         program,  during the years ended  March 31, 1998 and 1997,  the Company
+         purchased a total of 1,277,500  and  1,326,477  shares of the Company's
+         Common Stock in open market  activities at a total cost of  $31,481,000
+         and $19,463,000 respectively.  Subsequent to March 31, 1998 the Company
+         purchased  222,500  additional  shares  of  Common  Stock  at a cost of
+         $6,667,000. Also, in connection 
+                                      F-14
+
+         with a stock repurchase program, during fiscal 1998 and fiscal 1997 the
+         Company  sold put  options for  700,000  shares and  500,000  shares of
+         Common  Stock,  respectively.  Pricing per share  ranged from $29.50 to
+         $38.81 in  fiscal  1998 and from  $15.00  to  $24.88  in  fiscal  1997.
+         Subsequent  to March 31, 1998 the Company  sold put options for 100,000
+         shares of Common  Stock.  Pricing per share was $27.50.  During  fiscal
+         1998 and 1997,  the  Company  repurchased  put  options for 300,000 and
+         142,500  shares,  respectively.  As of March 31, 1998,  the Company had
+         outstanding put options for 400,000 shares which have expiration  dates
+         ranging  from June 16,  1998 to March 3, 1999 at  prices  ranging  from
+         $29.63  to  $38.81  per  share.  The net  proceeds  from  the  sale and
+         repurchase of these  options,  in the amount of $2,215,330 and $427,750
+         for fiscal  years 1998 and 1997,  respectively,  has been  credited  to
+         additional paid-in capital.
+
+         Subsequent to March 31, 1998, the Company completed two transactions in
+         connection with the stock repurchase  program.  April, 1998 the Company
+         completed a costless  collar  transaction  for 500,000  calls priced at
+         $25.95 and 665,000 puts priced at $25.19.  The  expiration  date of the
+         transaction  is April  23,  1999.  Also in  connection  with the  stock
+         repurchase  program,  the Company completed a net share settled forward
+         contract  for  2,000,000  shares at an  average  price of  $29.24.  The
+         expiration date of this transaction is May, 2000 with quarterly interim
+         settlement dates as determined by the Company.
+
+         Also  subsequent  to March 31, 1998 the  Company's  Board of  Directors
+         authorized an additional  share repurchase of Common Stock of 2,000,000
+         shares and to sell up to 500,000  additional  put options.  The Company
+         expects  from  time to time to  purchase  shares  of  Common  Stock  in
+         connection with its authorized Common Stock repurchase plan.
+
+14.      GEOGRAPHIC INFORMATION
+         ----------------------
+
+         The Company operates in one industry  segment and engages  primarily in
+         the design,  development,  manufacture  and marketing of  semiconductor
+         products.  The Company sells its products to system  manufacturers  and
+         distributors in a broad range of industries,  performs  on-going credit
+         evaluations of its customers and generally requires no collateral.  The
+         Company's operations outside the United States consist of comprehensive
+         product final test  facilities in Taiwan and Thailand and sales offices
+         in certain foreign countries.  Domestic  operations are responsible for
+         the design,  development and wafer fabrication of all products, as well
+         as the  coordination  of  production  planning  and  shipping  to  meet
+         worldwide customer commitments. The Taiwan and Thailand test facilities
+         are  reimbursed  in  relation  to  value  added  with  respect  to test
+         operations and other  functions  performed,  and certain  foreign sales
+         offices  receive a commission  on export sales within their  territory.
+         Accordingly,  for financial statement purposes, it is not meaningful to
+         segregate  sales or  operating  profits for the test and foreign  sales
+         office  operations.  Identifiable  assets  by  geographic  area  are as
+         follows (amounts in thousands):
+
+                                             March 31,
+                                          1998       1997
+                                        -------------------
+
+                    United States       $306,142   $254,477
+                    Taiwan               136,128    101,036
+                    Thailand              57,374     44,126
+                    Other                 25,099     28,453
+                                        --------   --------
+
+                         Total Assets   $524,743   $428,092
+                                        ========   ========
+
+
+         Sales to  unaffiliated  customers  located  outside the United  States,
+         primarily in Asia and Europe, aggregated approximately 68%, 66% and 65%
+         of consolidated  net sales for the years ended March 31, 1998, 1997 and
+         1996, respectively.
+
+15.      FAIR VALUE OF FINANCIAL INSTRUMENTS
+         -----------------------------------
+
+         The carrying amount of cash equivalents approximates fair value because
+         their  maturity  is less than  three  months.  The  carrying  amount of
+         accounts   receivable,   accounts   payable  and  accrued   liabilities
+         approximates  fair value due to the short term maturity of the amounts.
+         The fair value of capital lease  obligations,  long-term debt and lines
+         of credit  approximate  their  carrying  value as they are estimated by
+         discounting  the future  cash flows at rates  currently  offered to the
+         Company for similar debt instruments.
+                                      F-15
+
+         The Company is party to financial  instruments  with  off-balance-sheet
+         risk in the  normal  course of  business  to  reduce  its  exposure  to
+         fluctuations  in foreign  exchange rates.  These financial  instruments
+         include  standby  letters  of  credit  and  foreign   currency  forward
+         contracts.  When  engaging in forward  contracts,  risks arise from the
+         possible  inability  of  counterparties  to meet  the  terms  of  their
+         contracts and from movements in securities  values,  interest rates and
+         foreign  exchange  rates.  At March 31, 1998 and 1997, the Company held
+         contracts totaling $9,158,000 and $5,421,000,  respectively, which were
+         entered  into and hedged  the  Company's  foreign  currency  risk.  The
+         contracts  matured  in April  and May of 1998 and  1997,  respectively.
+         Unrealized  gains and losses as of the balance sheet dates and realized
+         gains and losses for the years  ending  March 31,  1998,  1997 and 1996
+         were not material.
+
+16.      NET INCOME PER SHARE
+         --------------------
+
+         The following table sets forth the computation of basic and diluted net
+         income per share (in thousands except per share amounts):
+
+                                                  Years Ended March 31,
+                                                1998      1997      1996
+                                              ---------------------------
+         Net income                           $64,368   $51,132   $43,752
+                                              =======   =======   =======
+        
+         Weighted average common
+         shares outstanding                    53,376    51,569    50,750
+        
+         Dilutive effect of stock options       2,937     3,114     3,783
+                                              -------   -------   -------
+        
+         Weighted average common and common    56,313    54,683    54,533
+         equivalent shares outstanding        =======   =======   =======
+        
+         Basic net income per share           $  1.21   $  0.99   $  0.86
+                                              =======   =======   =======
+         Diluted net income per share         $  1.14   $  0.94   $  0.80
+                                              =======   =======   =======
+       
+17.      QUARTERLY RESULTS (UNAUDITED)
+         -----------------------------
+
+         The following table presents the Company's selected unaudited quarterly
+         operating  results for eight quarters ended March 31, 1998. The Company
+         believes  that all  necessary  adjustments  have been  made to  present
+         fairly the related  quarterly  results (in  thousands  except per share
+         amounts).
+
+                                      F-16
+
+18.      SUPPLEMENTAL FINANCIAL INFORMATION
+         ----------------------------------
+
+         Cash paid for income  taxes  amounted to  $19,857,000,  $8,108,000  and
+         $17,557,000  during  the years  ended  March 31,  1998,  1997 and 1996,
+         respectively.  Cash paid for interest amounted to $796,000,  $3,183,000
+         and  $2,643,000  during the years ended March 31, 1998,  1997 and 1996,
+         respectively.
+
+         A summary of additions and  deductions  related to the  allowances  for
+         accounts receivable and inventories for the years ended March 31, 1998,
+         1997 and 1996 follows:
+
+                        Balance at    Charged to
+                        beginning     costs and                    Balance at
+                        of year       expenses      Deductions     end of year
+                        ------------------------------------------------------
+    
+         Allowance for doubtful accounts:
+    
+             1998       $ 2,094       $   638       $  (340)       $ 2,392
+             1997         1,834           452          (192)         2,094
+             1996         1,394           634          (194)         1,834
+    
+         Allowance for inventory valuation:
+    
+             1998       $ 8,331       $ 2,126       $  (934)       $ 9,523
+             1997        10,372         1,886        (3,927)         8,331
+             1996         4,373         7,639        (1,640)        10,372
+                                          F-17
+
+                                  EXHIBIT INDEX
+                                  -------------
+
+                                      E-1
+
+                                  EXHIBIT INDEX
+                                  -------------
+
+                                      E-2
+
+                                  EXHIBIT INDEX
+                                  -------------
+
+                                      E-3
+

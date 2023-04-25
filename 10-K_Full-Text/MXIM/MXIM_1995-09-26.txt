@@ -1,0 +1,978 @@
+
+10-K405
+MAXIM INTEGRATED PRODUCTS, INC 10K
+
+
+
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                   FORM 10-K
+
+(Mark One)
+/X/          ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+             THE SECURITIES EXCHANGE ACT OF 1934 (FEE REQUIRED)
+                    For the Fiscal Year Ended June 30, 1995
+                                       OR
+
+________     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+             THE SECURITIES EXCHANGE ACT OF 1934 (NO FEE REQUIRED)
+             For the transition period from _________ to _________
+
+                         COMMISSION FILE NUMBER 0-16538
+
+                        MAXIM INTEGRATED PRODUCTS, INC.
+             (Exact name of registrant as specified in its charter)
+
+                 Delaware                                  94-2896096
+                 --------                                  ----------
+      (State or other jurisdiction of                   (I.R.S. Employer
+      incorporation or organization)                  Identification No.)
+
+                             120 San Gabriel Drive
+                          Sunnyvale, California 94086
+          (Address of Principal Executive Offices, including Zip Code)
+
+       Registrant's telephone number, including area code: (408) 737-7600
+                                _______________
+
+          Securities registered pursuant to Section 12(b) of the Act:
+
+                                              Name of each exchange
+             Title of each class               on which registered
+             -------------------               -------------------
+                    None                              None
+
+          Securities registered pursuant to Section 12(g) of the Act:
+
+                         Common Stock, $.001 Par Value
+
+         Indicate by check mark whether the registrant (1) has filed all
+reports required to be filed by Sections 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+                    Yes    X                 No
+                          ---                  ---
+
+         The aggregate market value of the voting stock held by nonaffiliates
+of the registrant as of  August 1, 1995 was approximately $477,000,000*.
+
+         Number of shares outstanding of the registrant's Common Stock, $.001
+par value, as of June 30, 1995:   29,436,579.
+
+
+
+
+
+
+
+
+
+DOCUMENTS INCORPORATED BY REFERENCE:
+Part II   -       Annual Report to Stockholders for the fiscal year ended June
+                  30, 1995
+Part III  -       Proxy Statement for the 1995 Annual Meeting of Stockholders
+
+
+         Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrants knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+Amendment to this Form 10-K.  /X/
+
+*  Excludes the Common Stock held by executive officers, directors and
+stockholders whose ownership exceeds 5% of the Common Stock outstanding at
+August 1, 1995.  Exclusion of such shares should not be construed to indicate
+that each of such persons possesses the power, direct or indirect, to control
+the Registrant, or that each such person is controlled by or under common
+control with the Registrant.
+
+
+
+
+                                     PART I
+
+ITEM 1. BUSINESS
+
+         Maxim Integrated Products, Inc. ("Maxim" or the "Company") designs,
+develops, manufactures and markets a broad range of linear and mixed signal
+integrated circuits, commonly referred to as analog circuits.  The Company also
+provides a range of high frequency design processes and capabilities that can
+be used in custom design.  The analog market is highly fragmented and
+characterized by many diverse applications, a great number of product
+variations and relatively long product life cycles.  Maxim's objective is to
+actively develop and market both proprietary and industry standard analog
+integrated circuits that meet the increasingly stringent quality standards
+demanded by customers. Maxim owns and operates two Class 10 wafer fabrication
+facilities capable of producing 0.8 and 1.2 micron CMOS and bipolar products
+(see "Manufacturing" below).  In addition, the Company subcontracts the
+fabrication of a small portion of its silicon wafers to outside silicon
+foundries. Based on product announcements by its competitors, Maxim believes
+that in the past twelve years it has developed more products for the analog
+market, including proprietary and second source products, than any of its
+competitors over the same period.
+
+THE ANALOG INTEGRATED CIRCUIT MARKET
+
+         All electronic signals fall into one of two categories, linear or
+digital.  Linear (or analog) signals represent real world phenomena, such as
+temperature, pressure, sound or speed, and are continuously variable over a
+wide range of values.  Digital signals represent the "ones" and "zeros" of
+binary arithmetic and are either on or off.
+
+         Three general classes of semiconductor products arise from this
+partitioning of signals into linear or digital.  There are those, such as
+memories and microprocessors, which operate only in the digital domain.  There
+are linear devices such as amplifiers, references, analog multiplexers and
+switches, which operate primarily in the analog domain.  Finally, there are
+mixed signal devices that combine linear and digital functions on the same
+integrated circuit and interface between the analog and digital worlds.  Maxim
+targets the combined linear and mixed signal market, often collectively
+referred to as the analog market.
+
+         The Company believes that, compared to the digital integrated circuit
+market, the analog market has generally been characterized by a wider range of
+standard products used in smaller quantities by a large number of customers;
+longer product life cycles; less competition from Japanese and other foreign
+manufacturers; lower capital requirements as a result of using more mature
+manufacturing technologies; and relatively more stable growth rates that are
+less influenced by economic cycles.  The Company believes that the widespread
+application of low cost microprocessor-based
+
+
+
+
+systems has affected the market for analog integrated circuits by increasing the
+need for interfaces with the analog world.
+
+         The analog market is a highly fragmented group of niche markets,
+serving numerous and widely differing applications for instrumentation,
+industrial control, data processing, communications, military, video and
+selected medical equipment.  For each application, different users may have
+unique requirements for circuits with specific resolution, accuracy, linearity,
+speed, power and signal amplitude capability, which results in a high degree of
+market complexity.  Maxim's products can be used in a variety of applications
+but serve only certain segments of the total analog market.
+
+PRODUCTS AND APPLICATIONS
+
+         The Company initially entered the analog market with a relatively
+narrow portfolio of products as second sources for industry standard parts for
+which there was an existing customer base.  After establishing a position in
+the market, the Company began to introduce technically innovative proprietary
+products.  Although second sourcing continues to be a component of the
+Company's product development program, current research and development
+emphasizes development of proprietary circuits.  The Company believes it
+addresses the requirements of the market by providing competitively priced
+products that add value to electronic equipment with superior quality and
+reliability.
+
+         As of June 30, 1995, Maxim has introduced over 850 products.  These
+products are available with numerous packaging alternatives, including packages
+for surface mount technology.
+
+         The following table illustrates the major industries served by the
+Company and typical applications for which the Company's products can be used:
+
+
+
+
+
+
+
+
+         The Company also sells products for military and selected medical
+equipment.
+
+         While Maxim's proprietary products have received substantial market
+acceptance, Maxim has experienced additional competition as Maxim's competitors
+develop second sources for Maxim's successful innovative proprietary products.
+Typically in the semiconductor industry, when a proprietary product becomes
+second sourced, the credibility of the original design is enhanced, there is an
+opportunity to increase total revenues as the potential customers' reluctance
+to design in a sole source product is removed but gross margins decrease due to
+increased price competition.
+
+PRODUCT QUALITY
+
+         Maxim places strong emphasis on product quality from initial design
+through final quality assurance.  In the product design phase, Maxim applies a
+set of circuit design rules that it believes results in enhanced product
+reliability.  Upon receipt from Maxim's own fabrication facilities, or from
+silicon foundries, A majority of processed wafers are tested for conformance
+with specific parameters. Products are individually
+
+
+
+
+
+
+tested using specialized test equipment and complex programs to ensure that they
+meet data sheet performance levels.  In addition, long-term operating life and
+mechanical stress tests are performed on samples routinely to assure continued
+consistency.
+
+MANUFACTURING
+
+         Once a product has been designed and released to production, Maxim
+uses its own wafer fabrication facilities and to a small extent silicon
+foundries to produce wafers.  The majority of processed wafers are subjected to
+parametric and functional testing before being sent to subcontractors, where
+they are cut into individual circuits and assembled into a variety of packages.
+Some of the packaged circuits are functionally tested by test subcontractors
+prior to returning to Maxim.  Units from these lots are then sample tested and
+inspected for final quality assurance.  The rest of the products are fully
+tested at Maxim upon receipt from the subcontractor.
+
+         The broad range of products demanded by the analog integrated circuit
+market requires multiple manufacturing process technologies.  Fifteen different
+process technologies are currently used for wafer fabrication of the Company's
+products.  Historically, wafer fabrication of analog integrated circuits has
+not required the state-of-the-art processing equipment necessary for the
+fabrication of advanced digital integrated circuits.
+
+         In addition, hybrid products are manufactured using a complex
+multi-chip technology featuring thin-film, thick-film and laser trimmed
+resistors.
+
+         For redundant supply of these technologies in multiple fabrication
+lines, the Company relies on its two geographically remote fabrication
+facilities and, to a small extent, manufacturing subcontractors. The Company
+currently uses 3 subcontract silicon foundries which represent less than 8% of
+wafer production. Each of the subcontractors currently used by Maxim are
+unrelated to Maxim.
+
+         In December 1989, the Company acquired a Class 10 wafer fabrication
+facility capable of producing 1.2 micron CMOS and bipolar products.  Maxim
+leased the building housing the facility and purchased all manufacturing assets
+required for its manufacturing operations.  In May 1994, the Company acquired a
+mixed class wafer fabrication facility capable of producing sub-micron CMOS
+and Bipolar products (see "Item 2. Properties" below).  Maxim currently plans
+to operate these facilities at their capacity in the near term and to use
+independent foundries for a small portion of its wafer production.
+
+         As is typical in the semiconductor industry, the Company has
+experienced disruptions in the supply of processed wafers due to quality
+problems or failure to achieve satisfactory electrical yields. Procurement from
+foundries is done by purchase order rather than long-term contracts and Maxim's
+foundries could decline additional purchase orders at their discretion.  There
+can be no assurance that material disruptions
+
+
+
+
+in supply will not occur in the future.  If the foundries used by the Company
+and its own internal wafer fabs are unable or unwilling to produce adequate
+supplies of processed wafers conforming to the Company's quality standards, the
+Company's business and relationships with its customers may be adversely
+affected.
+
+         As is customary in the industry, the Company ships most of its
+processed wafers to foreign assembly subcontractors, located in the
+Philippines, Malaysia, Thailand, South Korea and Japan, where wafers are
+separated into individual integrated circuits and packaged.
+
+SALES AND MARKETING
+
+         In the United States and Canada, the Company sells its products
+through 22 independent sales representative organizations at 42 locations.
+Maxim products also are sold through 4 national and 3 regional and/or
+specialist distributors with a combined total of approximately 115 locations.
+As is customary in the industry, domestic distributors are entitled to certain
+price rebates and limited product return privileges.
+
+         International sales are conducted by 5 Maxim Sales offices and 32
+sales representative organizations and distributors.  The Company's
+international sales are generally billed and payable in United States dollars
+and are therefore not directly subject to currency exchange fluctuations with
+the exception of sales of the UK, French and German affiliates and sales to
+customers located in Japan.  Changes in the relative value of the dollar,
+however, may create pricing pressures for Maxim's products.  In addition,
+various forms of protectionist trade legislation have been proposed in the
+United States and certain foreign countries.  A change in current tariff
+structures or other trade policies could adversely affect the Company's foreign
+marketing strategies.  In general, payment terms for foreign customers,
+distributors and others, are longer than for U.S. customers, and certain major
+foreign customers habitually pay for product well beyond the payment dates.
+
+         As is customary in the semiconductor industry, the Company's domestic
+distributors may market products competitive with Maxim's.  The Company's
+independent sales representatives and foreign distributors may not represent
+competitive product lines, although they are permitted to sell non-competing
+products for other companies.
+
+         International sales accounted for approximately 51%, 52% and 49% of
+net revenues in fiscal 1993, 1994 and 1995, respectively. See Note 7 of
+"Financial Information - Notes to Consolidated Financial Statements" set forth
+in the Company's Annual Report to Stockholders for the fiscal year ended June
+30, 1995.
+
+         The Company also sells product directly to certain customers.  In
+particular, the Company  has a long-term supply arrangement with Tektronix,
+Inc. for the supply of
+
+
+
+
+products manufactured by Tektronix prior to its sale of its integrated circuits
+operation ("ICO") to the Company and for new designs created by Tektronix.
+
+         Although inventories at the end of fiscal 1995 were lower than
+historical norms as a result of unexpectedly large demand, the Company
+generally carries large inventories due to the large number of its products and
+its need to meet customer orders in a timely manner.  Also, due to the
+relatively lengthy manufacturing cycle, particularly for products produced by
+independent foundries, the Company builds some of its inventory in advance of
+receiving orders from its customers.  As a consequence of inaccuracies inherent
+in forecasting, inventory imbalances periodically occur which result in surplus
+amounts of some Company products and shortages of others.  Such shortages can
+adversely affect customer relations.
+
+         As of June 30, 1995, the Company's backlog was approximately $199
+million as compared to approximately $64 million at June 30, 1994.  The Company
+includes in its backlog customer released orders with firm schedules for
+shipment within the next 12 months.  As is customary in the semiconductor
+industry, these orders may be canceled without significant penalty to the
+customers.  In addition, the Company's backlog includes its orders from
+domestic distributors as to which revenues are not recognized until the
+products are sold by the distributors.  Accordingly, the Company believes that
+its backlog at any time should not be used as a measure of future revenues.
+
+         The Company warrants its standard products to its distributors'
+customers against defects for up to 18 months from shipment to the distributor
+or 12 months from shipment by the distributor to OEM, whichever is earlier.
+Warranty expense to date has been minimal.
+
+RESEARCH AND DEVELOPMENT
+
+         The Company believes that research and development is critical to its
+future success.  Objectives for the research and development function include
+definition and design of innovative proprietary products that meet customer
+needs, development of second source products, design of parts for high yield
+and reliability and development of manufacturing processes to support an
+expanding product line.
+
+         Maxim has assembled a strong team of analog circuit designers with
+extensive experience in development of successful products.  Prior to joining
+Maxim, these designers were responsible for a number of significant industry
+achievements, including the development of many of the first CMOS analog
+circuits. Other areas where members of Maxim's design team made pioneering
+contributions include CMOS integrating analog-to-digital converters, display
+drivers, monolithic analog switches and video switches, operational amplifiers,
+chopper amplifiers, high speed bipolar circuits and voltage converters.  Maxim
+also has an experienced team of test engineers to develop the critical test
+functions required by each new product.  The continued ability
+
+
+
+
+of the Company to attract, train and retain circuit designers and test engineers
+will be critical to its growth.
+
+         Research, development and engineering expenses were approximately
+$16.4 million, $22.6 million and $42.4 million in fiscal 1993, 1994 and 1995,
+respectively.
+
+COMPETITION
+
+         The analog integrated circuit industry is intensely competitive, and
+virtually all major semiconductor companies presently compete with, or
+conceivably could compete with, some segment of the Company's business.
+Maxim's primary competitors are Analog Devices, Inc. and Linear Technology
+Corporation.  Other competitors with respect to some of the Company's products
+include Burr-Brown Corporation, Harris Corporation,  National Semiconductor
+Corporation, Siliconix Incorporated, AT&T Corporation, Motorola, Inc., TelCom
+Semiconductor, Inc., Philips Electronics N.V. and Texas Instruments
+Incorporated.  While Japanese and other foreign manufacturers have not played a
+major role in markets from which the Company currently derives the bulk of its
+revenue, they possess the necessary technical and financial capabilities to
+participate in these markets, and there can be no assurance that significant
+foreign competition will not develop in the future.  Most of Maxim's
+competitors have substantially greater financial, manufacturing and marketing
+resources than the Company, and some of Maxim's competitors have greater
+technical resources.  The Company believes it competes favorably with these
+corporations primarily on the basis of technical innovation, product
+definition, quality and service.  There can be no assurance that competitive
+factors will not adversely affect the Company's future business.
+
+PATENTS, LICENSES AND OTHER INTELLECTUAL PROPERTY RIGHTS
+
+         The Company relies primarily upon know-how, rather than on patents, to
+develop and maintain its competitive position.  There can be no assurance that
+others will not develop or patent similar technology or reverse engineer the
+Company's products or that the confidentiality agreements with employees,
+consultants, silicon foundries and other suppliers and vendors will be adequate
+to protect the Company's interests.
+
+         Maxim currently owns 52 U.S. patents and 26 foreign patents with
+expiration dates ranging from August 1997 to May 2011.  In addition, the
+Company has applied for 22 U.S. patents and 17 foreign patents.  It is the
+Company's policy to seek patent protection for significant inventions that may
+be patented, though the Company may elect, in appropriate cases, not to seek
+patent protection even for significant inventions if other protection, such as
+maintaining the invention as a trade secret, is considered more advantageous.
+
+
+
+
+         There can be no assurance that any patent will issue on pending
+applications or that any patent issued will provide substantive protection for
+the technology or product covered by it.  In addition, the Company has been
+registering its mask sets under the Semiconductor Chip Protection Act of 1984
+in an attempt to make copying more difficult.  However, the Company believes
+that patent and mask work protection are of less significance in its business
+than experience, innovation and management skill.
+
+         Maxim has registered many of its trademarks with the U.S. Patent and
+Trademark Office and in foreign jurisdictions.
+
+         Maxim is a party to a number of licenses, including patent and other
+licenses obtained from Tektronix in connection with its acquisition of
+Tektronix's ICO in fiscal 1994.  Except for the licenses related to the ICO, no
+other license is significant to a material part of Maxim's business.
+
+         Because of technological developments in the semiconductor industry,
+it is possible that certain of the Company's designs or processes may involve
+infringement of patents or other intellectual property rights held by others.
+From time to time, the Company has received, and in the future may receive,
+notice of claims of infringement by its products of intellectual property
+rights of third parties.  If any such infringements were to exist, the Company
+might be obligated to seek a license from the holder of the rights and might
+have liability for past infringement.  In the past, it has been common
+semiconductor industry practice for patent holders to offer licenses on
+reasonable terms and rates.  Although in some situations, typically where the
+patent directly relates to a specific product, patent holders have refused to
+grant licenses, the practice of offering licenses appears to be generally
+continuing.  However, no assurance can be given that the Company will be able
+to obtain licenses as needed in all cases or that the terms of any license that
+may be offered will be acceptable to Maxim.  In those circumstances where an
+acceptable license is not available, the Company would need either to change
+the process or product so that it no longer infringes or else stop
+manufacturing the product or products involved in the infringement.
+
+ENVIRONMENTAL REGULATION
+
+         Federal, state and local regulations impose a variety of environmental
+controls on the use and disposal of certain chemicals and gases used in
+semiconductor manufacturing.  The Company's facilities have been designed to
+comply with these regulations, and it believes that its activities are
+conducted in material compliance with such regulations.  There can be no
+assurance, however, that interpretation and enforcement of current or future
+environmental regulations will not impose costly requirements upon the Company.
+Any failure of the Company to control adequately the use and disposal of
+regulated substances could result in future liabilities.
+
+         Increasing public attention has been focused on the environmental
+impact of electronic manufacturing operations.  While the Company to date has
+not experienced
+
+
+
+
+any materially adverse effects on its business from environmental regulations,
+there can be no assurance that changes in such regulations will not impose
+costly equipment or other requirements.
+
+EMPLOYEES
+
+         As of June 30, 1995, Maxim had 1,552 employees of which 236 were in
+engineering, research and development, 782 in manufacturing and operations, 188
+in marketing and sales, and 51 in finance and administration.  In addition, the
+Company retained 295 temporary employees, principally in manufacturing and
+operations.
+
+         The supply of skilled analog designers and other engineers required
+for Maxim's business is limited, and competition for such personnel is intense.
+The Company's growth also requires the hiring or training of additional middle
+level managers.  If the Company is unable to hire, retain and motivate
+qualified technical and management personnel, its operations and financial
+results will be adversely affected.
+
+         None of the Company's employees is subject to a collective bargaining
+agreement.  The Company believes that its relations with its employees are
+good.
+
+MAXTEK COMPONENTS CORPORATION
+
+         In connection with Maxim's 1994 purchase of the integrated circuits
+business of Tektronix, Inc., Maxim and Tektronix jointly formed a new company,
+which is equally owned, to operate Tektronix's hybrid circuit business.  This
+new company, named Maxtek Components Corporation, is an independent company
+devoted to design and production of multichip modules and hybrids.  Maxtek's
+principal customer, Tektronix, accounts for over 70% of its revenue.  Under
+Maxtek's supply agreements all of its costs are reimbursed on a cost plus
+profit basis.  High frequency designs often require a multitude of component
+technologies, and there are no monolithic IC processes currently available that
+can combine the performance advantages of all disparate technologies.  High
+frequency modules and hybrids are intended to combine the optimum technologies
+and deliver maximum performance.
+
+RISK FACTORS
+
+         An investment in the securities of Maxim involves certain risks.  In
+evaluating the Company and its business, prospective investors should give
+careful consideration to the factors listed below, in addition to the
+information provided elsewhere in this Annual Report on Form 10-K and in other
+documents filed with the Securities and Exchange Commission.
+
+         SEMICONDUCTOR INDUSTRY.  The semiconductor industry historically has
+experienced repeated and severe business cycles.  In addition, the industry is
+
+
+
+
+characterized by rapid technological change, price erosion, intense competition
+and significant expenditures for product development and capital equipment.
+Although the Company believes that the analog segment of the semiconductor
+industry has been less affected by these factors than the digital segment,
+there can be no assurance that such factors will not have an adverse effect on
+the Company's future operating results and cause fluctuations in
+period-to-period performance.  Furthermore, as the Company's operations expand,
+the Company will become increasingly susceptible to industry business cycles.
+
+         COMPETITION.  The Company experiences intense competition from a
+number of companies, most of which have significantly greater financial,
+manufacturing and marketing resources than the Company and some of which have
+greater technical resources than the Company.  As the Company's proprietary
+products become more successful, competitors will offer second sources for
+those products, causing some erosion of profit margins.  Although Japanese and
+other foreign manufacturers have not played a major role in the markets from
+which the Company currently derives the bulk of its revenue, they possess the
+necessary technical and financial capabilities to participate in these markets,
+and there can be no assurance that significant foreign competition will not
+develop in the future.  See "Business-Competition."
+
+         DEPENDENCE ON SUBCONTRACTORS.  Although the Company has an internal
+capability to fabricate most of its wafers, Maxim remains dependent on outside
+silicon foundries for a small portion of its wafer fabrication and has not
+developed multiple sources of supply for some of its products.  Maxim has
+single sources of supply for 3 process technologies that accounted for less
+than 8% of revenue in fiscal 1995.  Each of the foundries currently used by
+Maxim is unrelated to Maxim and a relatively small operation.  As is typical in
+the semiconductor industry, the Company has experienced disruptions in the
+supply of processed wafers from these foundries due to quality problems or
+failure to achieve satisfactory electrical yields. Procurement from foundries
+is done by purchase order rather than long-term contracts and Maxim's foundries
+could decline additional purchase orders at their discretion.  There can be no
+assurance that material disruptions in supply will not occur in the future.  If
+these foundries are unable or unwilling to produce adequate supplies of
+processed wafers conforming to the Company's quality standards, the Company's
+business and relationships with its customers for the limited quantities of
+products produced by these foundries may be adversely affected.
+
+Maxim also relies on foreign assembly and test subcontractors to separate
+wafers into individual integrated circuits and package and test them.  In
+recent years South Korea and the Philippines have experienced relatively severe
+political disorders, labor disruptions and natural disasters.  Although the
+Company has been affected by these problems, none has materially affected the
+Company's revenues to date.  However, similar problems in the future or more
+aggravated consequences of current problems could affect deliveries to Maxim of
+assembled, tested product, possibly resulting in
+
+
+
+
+substantial delayed or lost sales and/or increased expense.  See
+"Business-Manufacturing."
+
+         AVAILABILITY OF MATERIALS AND SUPPLIES AND SUBCONTRACT SERVICES.  The
+semiconductor industry has been in the midst of a very large expansion of
+fabrication capacity and production worldwide.  As a result of increasing
+demands from semiconductor manufacturers, availability of certain basic
+materials and supplies, such as polysilicon, silicon wafers, lead frames and
+molding compounds, and of subcontract services, like assembly of integrated
+circuits into packages, are in increasing short supply.  Maxim devotes
+continuous efforts to maintaining availability of all required materials,
+supplies and subcontract services.  However, shortages could occur as a result
+of production constraints on suppliers that could have materially adverse
+effects on Maxim's ability to achieve its planned production.
+
+         DEPENDENCE ON NEW PRODUCTS AND TECHNOLOGIES.  The Company's future
+success will depend in part on its ability to introduce new products and to
+develop new process technologies.  Semiconductor design and process technology
+are subject to rapid technological change, requiring a high level of
+expenditures for research and development.  The success of new product
+introductions is dependent on several factors, including proper new product
+selection, timely product introduction, achievement of acceptable production
+yields and market acceptance.  From time to time, Maxim has not fully achieved
+its new product introduction goals, and there can be no assurance that the
+Company will successfully develop or implement new process technologies or that
+new products will be introduced on a timely basis or receive substantial market
+acceptance.  See "Business-Research and Development."
+
+         DEPENDENCE UPON INDEPENDENT DISTRIBUTORS AND SALES REPRESENTATIVES.
+A significant portion of the Company's sales are realized through electronics
+distributors and independent sales representatives that are not under the
+direct control of the Company.  These independent sales organizations generally
+represent product lines offered by several companies and thus could reduce
+their sales efforts applied to the Company's products or terminate their
+representation of the Company.  As noted above, payment terms for foreign
+distributors are substantially longer, either according to contract or de
+facto, than for U.S. customers, and the inability to collect open accounts
+could adversely affect the Company's results of operations.  Termination of the
+relationship between Maxim and significant distributors or representatives
+could have a material adverse impact on the Company.  See "Business- Sales and
+Marketing" and "Item 3. Legal Proceedings."
+
+         FUTURE REVENUE FROM ACQUIRED BUSINESS. During fiscal 1994, the Company
+acquired the ICO at Tektronix, Inc.  The Company believes that revenues from
+Tektronix and the customers historically served by the Tektronix ICO may be
+level or decline over time.  The Company's ability to successfully exploit the
+acquisition of the Tektronix ICO is dependent upon a number of factors,
+including the development of
+
+
+
+
+new products designed on the acquired high frequency processes for Tektronix and
+its former customers and, to a large extent, for customers that have not
+historically purchased high frequency products from the Company or Tektronix, as
+well as the Company's ability to implement the production of products based upon
+its existing processes at the acquired facility.  The Company's inability to
+successfully address one or more of these challenges could materially adversely
+affect its business.
+
+         PROTECTION OF PROPRIETARY INFORMATION.  The Company relies primarily
+upon know-how, rather than on patents, to develop and maintain its competitive
+position.  There can be no assurance that others will not develop or patent
+similar technology or reverse engineer the Company's products or that the
+confidentiality agreements upon which the Company relies will be adequate to
+protect its interests.  Other companies have obtained patents covering a
+variety of semiconductor designs and processes, and the Company might be
+required to obtain licenses under some of these patents or be precluded from
+making and selling the infringing products.  There can be no assurance that
+Maxim would be able to obtain licenses, if required, upon commercially
+reasonable terms.  See "Business- Patents and Licenses."
+
+         FOREIGN TRADE AND CURRENCY EXCHANGE.  Many of the materials and
+manufacturing steps in the Company's products are supplied by foreign
+companies, and approximately 49% of the Company's net revenues in fiscal 1995
+were from foreign customers.  Accordingly, both manufacturing and sales of the
+Company's products may be adversely affected by political or economic
+conditions abroad.  In addition, various forms of protectionist trade
+legislation have been proposed in the United States and certain foreign
+countries.  A change in current tariff structures or other trade policies could
+adversely affect the Company's foreign manufacturing or marketing strategies.
+Currency exchange fluctuations could also increase the cost of components
+manufactured abroad and the cost of the Company's products to foreign customers
+or decrease the costs of products from the Company's foreign competitors. See
+"Business- Manufacturing" and "Business-Sales and Marketing."
+
+ITEM 2. PROPERTIES
+
+         Maxim's headquarters are located in a 63,000 square foot building in
+Sunnyvale, California, which the Company purchased in October 1987.  Between
+December 1989 and June 1995 the Company has purchased five buildings adjacent
+to its headquarters building in Sunnyvale with an aggregate of 83,000 square
+feet of space.  These buildings serve as the executive offices of the Company
+and also provide space for engineering, manufacturing, administration, customer
+service and other uses.  In December 1989, in connection with acquiring one of
+its wafer fabrication facilities, Maxim assumed the operating lease of the
+30,000 square foot building housing these assets in Sunnyvale, California.
+This lease extends through November 2003 and has a five year lease extension
+option.  In May 1994, Maxim purchased the Tektronix ICO.  This facility,
+located in Beaverton, Oregon on 21 acres, totals 226,000 square feet and
+contains 60,000 square feet of wafer fabrication areas as well as engineering,
+
+
+
+
+manufacturing and general office space.  A portion of the space is leased to
+unrelated parties.  The Company expects these buildings and the contiguous land
+to be adequate for its purposes through fiscal 1996.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+         Analog Devices, Inc.  In November 1992, Maxim sued Analog Devices,
+Inc. ("AD") (Action #C-92 20716 RMW in the United States District Court for the
+Northern District of California) seeking monetary damages plus other relief.
+The suit resulted from AD's inducing five of Maxim's long time North American
+distributors to terminate their distributorship of Maxim products and AD's
+attempt to induce a sixth distributor, a national distributor of Maxim
+products, to terminate its distributorship, which actions Maxim contended
+violated federal antitrust and state tort laws.  Maxim sought damages for the
+prospective cumulative loss of more than $40 million in revenues over the five
+years following termination of the distributorships, principally attributable
+to AD's interference with Maxim's access to the very large numbers of original
+equipment manufacturer ("OEM") customers with whom its distributors were the
+key link in Maxim's sales process.  On September 7, 1994 the Federal District
+Court granted AD's motion for summary judgment against Maxim on all of its
+claims.  Maxim filed an appeal of the judgment.  The Ninth Circuit Court of
+Appeals has not schedule a hearing on the appeal to date.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+         None
+
+                                    PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+         The information required by this item is incorporated by reference
+from the Company's Annual Report  to Stockholders for the fiscal year ended
+June 30, 1995 under the headings "Financial Information - Financial Highlights
+by Quarter" and "Corporate Data, Stockholder Information."
+
+
+
+
+
+
+
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+         The information required by this item is incorporated by reference
+from the Company's Annual Report to Stockholders for the fiscal year ended June
+30, 1995 under the heading "Financial Information - Selected Financial Data."
+
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+         RESULTS OF OPERATIONS
+
+         The information required by this item is incorporated by reference
+from the Company's Annual Report to Stockholders for the fiscal year ended June
+30, 1995 under the heading "Financial Information - Management's Discussion and
+Analysis of Financial Condition and Results of Operations."
+
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+         The information required by this item is incorporated by reference from
+the Company's Annual Report to Stockholders for the fiscal year ended June 30,
+1995 under the headings "Financial Information - Consolidated Balance Sheets, -
+Consolidated Statement of Income, - Consolidated Statements of Stockholders'
+Equity, - Consolidated Statement of Cash Flows, - Notes to Consolidated
+Financial Statements, - Report of Ernst & Young LLP, Independent Auditors and -
+Financial Highlights by Quarter."
+
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+         FINANCIAL DISCLOSURE
+
+         None
+
+
+
+
+
+
+
+
+                                    PART III
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+         Other than as follows, the information required by this item is
+incorporated by reference from the Company's Proxy Statement for the 1995
+Annual Meeting of Stockholders under the headings "Proposal 1 - Election of
+Directors" and "Compliance with Section 16(A) of the Securities Exchange Act of
+1934."
+
+
+EXECUTIVE OFFICERS OF THE REGISTRANT
+
+The executive officers of the Company are as follows:
+
+
+
+
+
+
+         Mr. Gifford, a founder of the Company, has served as Maxim's
+President, Chief Executive Officer and Chairman of the Board since its
+incorporation in April 1983.
+
+         Mr. Beck, a founder of the Company, has served as Vice President since
+May 1983, except for a medical leave between December 1991 and January 1994.
+
+         Mr. Boyacigiller joined Maxim in June 1983 and was promoted to Vice
+President in April 1995. Prior to April 1995, he served in business management
+and IC design positions.
+
+         Mr. Byrd joined Maxim in February 1994 as Vice President and Chief
+Financial Officer. Prior to joining Maxim he was with Ernst & Young from August
+1982 to February 1994 where he held various positions, including partner.
+
+         Dr. Combs, a founder of the Company, has served as Vice President
+since May 1983.
+
+         Mr. Doluca joined Maxim in October 1984 and was promoted to Vice
+President in July 1994.  Prior to July 1994, he served in a number of
+integrated circuit development positions.
+
+         Mr. Fullagar, a founder of the Company, has served as Vice President
+since May 1983.
+
+         Mr. Gilbert joined Maxim in October 1994 as Vice President and
+Secretary.  From 1970 and until joining Maxim, he was a senior partner at the
+law firm of Cooley Godward Castro Huddleson and Tatum, responsible for its
+business department, which included approximately 100 lawyers.
+
+         Mr. Huening joined Maxim in December 1983 and was promoted to Vice
+President in December 1993.  Prior to December 1993, he served in a number of
+quality assurance positions.
+
+         Mr. Levin joined Maxim in August 1990 as Vice President.  From 1987
+and until joining Maxim, he was Vice President, Program Management for Shugart
+Corporation.
+
+         Mr. Scheer joined Maxim in June 1983 and was promoted to Vice President
+in June 1992.
+
+         Mr. Slater joined Maxim in March 1984, has served as Controller since
+1986 and was promoted to Vice President in August 1990.
+
+
+
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+         The information required by this item is incorporated by reference
+from the Company's Proxy Statement for the 1995 Annual Meeting of Stockholders
+under the headings "Executive Compensation" and "Performance Graph."
+
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+         The information required by this item is incorporated by reference
+from the Company's Proxy Statement for the 1995 Annual Meeting of Stockholders
+under the heading "Security Ownership of Certain Beneficial Owners and
+Management."
+
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+         None
+
+
+                                    PART IV
+
+ITEM 14.    EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+(a) (1)  The following financial statements are included in the Company's 1995
+         Annual Report to Stockholders and are incorporated herein by reference
+         pursuant to Item 8.
+
+         Consolidated Balance Sheets at June 30, 1995 and 1994.
+
+         Consolidated Statements of Income for each of the three years in the
+         period ended June 30, 1995.
+
+         Consolidated Statements of Stockholders' Equity for each of the three
+         years in the period ended June 30, 1995.
+
+         Consolidated Statements of Cash Flows for each of the three years in
+         the period ended June 30, 1995.
+
+         Notes to Consolidated Financial Statements
+
+
+
+
+(a) (2)  The following financial statement schedule are filed as part of this
+         Form  10-K.
+
+         Schedule II -    Valuation and Qualifying Accounts
+
+         All other schedules are omitted because they are not applicable, or
+         because the required information is included in the consolidated
+         financial statements or notes thereto.
+
+(a) (3)  Exhibits.  See attached Exhibit Index.
+
+(b)      Reports on Form 8-K. None
+
+
+
+
+
+
+
+
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the report
+has been signed below by the following persons on behalf of the registrant and
+in the capacities and on the dates indicated.
+
+
+
+
+
+
+
+
+
+                        MAXIM INTEGRATED PRODUCTS, INC.
+                     SCHEDULE II - VALUATION AND QUALIFYING
+                                    ACCOUNTS
+                             (amounts in thousands)
+
+
+
+
+(1) Uncollectible accounts written off.
+
+
+
+
+
+
+
+                                 EXHIBIT INDEX
+
+
+
+(1) Management contract or compensatory plan or arrangement.
+
+
+
+
+
+
+
+*        Incorporated by Reference to the Company's Registration Statement on
+         Form S-1 No. 33-19561.
+
+X        Incorporated by Reference to the Company's Annual Report on Form 10-K
+         for the year ended June 30, 1991.
+
+- ----------------------
+
+(2) Schedules and certain attachments omitted  pursuant to Item 601(b) of
+Registration  S-K.  The Company hereby undertakes  to furnish supplemental
+copies of  any of  the omitted  schedules upon request  by the  Commission.
+Certain  material omitted  pursuant to  the request for confidential treatment
+by the Company.
+
+
+
+
+
+#        Incorporated by Reference to the Company's Annual Report on Form 10-K
+         for the year ended June 30, 1992.
+
++        Incorporated by Reference to the Company's Annual Report on Form 10-K
+         for the year ended June 30, 1993.
+
+Z        Incorporated by Reference to the Company's Form 8-K filed with the
+         Commission on June 11, 1994.
+
+0        Incorporation by Reference to the Company's Annual Report on Form 10-K
+         for the year ended June 30, 1995.
+
+
+
+
+

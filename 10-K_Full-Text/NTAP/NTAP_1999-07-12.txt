@@ -1,0 +1,2673 @@
+
+10-K
+FORM 10-K DATED APRIL 30, 1999
+
+
+
+================================================================================
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                               -------------------
+
+                                    FORM 10-K
+ (MARK ONE)
+     [X]  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+          EXCHANGE ACT OF 1934
+
+                    FOR THE FISCAL YEAR ENDED APRIL 30, 1999
+                                       OR
+
+     [ ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+          EXCHANGE ACT OF 1934
+
+          FOR THE TRANSITION PERIOD FROM ____________ TO ____________ .
+
+                         COMMISSION FILE NUMBER 0-27130
+
+                             NETWORK APPLIANCE, INC.
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+            CALIFORNIA                                          77-0307520
+  (STATE OR OTHER JURISDICTION OF                             (IRS EMPLOYER
+   INCORPORATION OR ORGANIZATION)                            IDENTIFICATION NO.)
+
+
+                              495 EAST JAVA DRIVE,
+                           SUNNYVALE, CALIFORNIA 94089
+          (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES, INCLUDING ZIP CODE)
+
+       REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: (408) 822-6000
+
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+                                      None
+
+       TITLE OF EACH CLASS              NAME OF EXCHANGE ON WHICH REGISTERED
+       -------------------              ------------------------------------
+       none                             none
+
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT:
+                           Common Stock (no par value)
+
+    Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X] No [ ]
+
+    Indicate by a check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ ]
+
+    The aggregate market value of voting stock held by non-affiliates of the
+Registrant, as of May 28, 1999, was $3,437,341,372 (based on the closing price
+for shares of the Registrant's common stock as reported by the Nasdaq National
+Market for the last trading day prior to that date). Shares of common stock held
+by each executive officer, director, and holder of 5% or more of the outstanding
+common stock have been excluded in that such persons may be deemed to be
+affiliates. This determination of affiliate status is not necessarily a
+conclusive determination for other purposes.
+
+    On May 28, 1999, 72,892,671 shares of the Registrant's common stock, no par
+value, were outstanding.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+    The information called for by Part III is incorporated by reference from the
+definitive Proxy Statement for our annual meeting of shareholders to be held on
+October 26, 1999, which will be filed with the Securities and Exchange
+Commission not later than 120 days after April 30, 1999.
+
+================================================================================
+
+
+
+This Annual Report on Form 10-K contains forward looking statements that are
+accompanied by cautionary statements that identify important factors that could
+cause actual results to differ materially from those in the forward looking
+statements.
+
+                                     PART I
+
+ITEM 1.  BUSINESS
+
+OVERVIEW
+
+        Network Appliance pioneered the concept of the "network appliance," an
+extension of the industry trend toward specialized devices that perform a
+specific function in the network, similar to the development of the router for
+network communications. Today we are the leading supplier of network attached
+data storage and access devices, called filers. Our first filer product was
+specifically designed to improve the storage and accessibility of data stored on
+a network. In late 1997, we introduced an Internet caching appliance, our second
+product category, designed to achieve Internet bandwidth savings and to improve
+performance by moving data closer to end-users. This product is designed to
+benefit customers struggling with Web data traffic that is, according to market
+analysts, doubling every three months. Our filers are faster, more highly
+available and easier to operate than similarly configured and competitively
+priced products. This filer performance is accomplished by a specialized and
+patented software system optimized to exclusively perform file service tasks,
+thus providing performance advantages as compared to general purpose computers
+used as file servers.
+
+         Initially, we marketed our filers primarily in the UNIX(R) environment
+in high technology companies seeking to achieve leading edge performance.
+Thereafter, we significantly expanded our market by supporting heterogeneous
+Windows NT(R), UNIX and Web platforms. More recently we began marketing our
+products to users of leading database and enterprise software applications, such
+as applications offered by Oracle Corp., Sybase, Inc. and SAP AG. In fiscal
+1999, we intensified our focus on the Windows NT market and entered into OEM
+agreements with Dell Computer Corporation and Fujitsu Limited.
+
+PRODUCTS
+
+        Filers. Our first Network Appliance(TM) product was a filer developed
+for the UNIX environment. Subsequently, we added the capability for the filer to
+handle the heterogeneous network environment of UNIX, Windows NT and HTTP
+protocols. Current products include: the NetApp(R) F720, an entry-level filer
+targeted for workgroups and smaller application environments, the NetApp F740,
+designed to address the needs of large departments, and the NetApp F760, an
+enterprise class filer. All filers are based on a PCI-bus architecture and come
+packaged in rack mountable enclosures. The NetApp F700-series filers are all
+based on the Digital(R) Alpha(R) processor and support either SCSI or fibre
+channel arbitrated loop (FC-AL) conventions as storage options.
+
+        All of our filers include the Data ONTAP(TM) operating system and one
+base or standard protocol (either NFS, CIFS or HTTP). Data ONTAP delivers
+simultaneous file service to UNIX, Windows NT and Web clients. Data ONTAP,
+versions 5.0 and higher, supports multiple volume server partitioning, a popular
+strategy for modularizing, consolidating and administering data according to
+applications, data types and organizational needs. Native multi-protocol
+functionality can be easily added through licensing non-base protocols at an
+additional cost. Cluster failover software technology, which automatically
+senses a system failure and switches all file service functions to its cluster
+partner, is available on the NetApp F740 and NetApp F760 products. Two software
+features were introduced in the fourth quarter of fiscal 1999, SnapMirror(TM)
+and SnapRestore(TM) which are based on the Snapshot(TM) technology.
+
+
+
+
+
+SnapMirror and SnapRestore allow enterprise, database and e-commerce customers
+to implement multi-terabyte data management systems for remote mirroring,
+enterprise backup, disaster recovery and data replication. These data protection
+tools enhance our filers' performance allowing customers to minimize downtime,
+eliminate unnecessary storage investment and time consuming backup routines.
+SecureAdmin(TM) is a security product that allows administrators to conduct
+encrypted sessions with the filer over the Internet or corporate intranets.
+SnapMirror, SnapRestore and SecureAdmin are available with Data ONTAP version
+5.3 on our NetApp filer and NetCache(TM) systems.
+
+        NetCache Appliances. NetCache appliances were developed to address the
+explosive growth of Internet traffic that is slowing Web data access. The rapid
+growth and increasing richness of web content, including images, audio, video
+and downloadable applications are creating a greater demand for bandwidth.
+NetCache appliances scale network infrastructure by distributing content closer
+to the end-users and improving end-user performance. Web access delays can be
+substantially reduced if frequently accessed data is stored or "cached" nearer
+to the end-user. Our NetCache solutions incorporate the following capabilities:
+(i) remote deployability requiring little maintenance, (ii) high object caching
+"hit rates" so that trips over the Internet are minimized and (iii) high
+scalability that can handle many users. Using the proprietary software and
+standards-compliant hardware developed for our filers, we developed and are
+selling our NetCache family of appliances.
+
+        In April 1999, we announced NetCache(R) 3.4, our next generation of
+NetCache products to help customers grow network infrastructure and manage
+mission critical data. This release includes features that provide customers
+with a fast, cost-effective way to administer corporate Internet/Intranet access
+policies and offers advanced security features, including user authentication,
+filtering and auditing. With our patented Write Anywhere File Layout WAFL(TM)
+file system, microkernel OS and advanced caching algorithms, NetCache appliances
+provide enhanced response times and throughput. Our NetCache appliance
+architecture with integrated RAID (redundant array of independent disks) also
+guarantees data and system availability even after a disk failure.
+
+        Current products include the entry-level NetApp C720s, a dedicated
+caching appliance designed for smaller ISP and enterprise environments, the
+NetApp C720, designed for remote, low administrative overhead environments such
+as Internet Points-of-Presence (POPs), web hosting and content providers and
+larger enterprises, and the NetApp C760, which supports the most demanding,
+data-intensive caching environments.
+
+        Our product list prices range from $20,000 to $750,000, depending
+primarily on the model purchased and product configuration.
+
+SALES AND MARKETING
+
+        We seek to market and distribute our products and technology globally.
+In North America, we employ a multi-tiered distribution strategy, which focuses
+on product sales to end-users through a direct sales force, as well as selected
+value-added resellers in certain geographies. In Europe, we employ a mix of
+resellers and direct sales channels to sell to end-users. In Asia, our products
+are primarily sold through resellers, which are supported by our channel
+managers and technical support personnel. We recently entered into OEM
+agreements with Dell Computer Corporation and Fujitsu Limited, which are part of
+our strategy to increase the worldwide distribution of our filer products. No
+single customer accounted for 10% or more of our net sales in fiscal 1999, 1998
+or 1997.
+
+
+
+
+
+BACKLOG
+
+        We manufacture our products based upon forecasts of our customers'
+demand. Orders are generally placed by customers on an as-needed basis. Products
+are typically shipped within one to four weeks following receipt of an order. In
+general, customers may cancel or reschedule orders without penalty. For these
+reasons, we do not believe "orders" constitute a firm "backlog" and we believe
+orders are not a meaningful indicator of revenues nor material to an
+understanding of our business.
+
+CUSTOMER SERVICE AND SUPPORT
+
+         Our customer service and support organization provides technical
+support, education and training. We believe that providing a high level of
+customer service and technical support is critical to customer satisfaction and
+our success. Warranty coverage, which is generally one year for hardware and 90
+days for software, includes 24-hour telephone support and advanced replacement
+of defective hardware shipped on a next business day basis. We also offer
+upgraded service during the warranty period, providing for faster on-site
+hardware repair. Software support, including the repair of errors or defects,
+and new release updates are provided at no extra charge for 90 days after
+product shipment. Additional software support is available after the initial
+warranty period through the software subscription program. Post-warranty service
+programs include:
+
+        -   cooperative maintenance where the customer purchases replacements or
+            extra parts and performs self-maintenance tasks;
+
+        -   a full-service program involving a combination of telephone-based
+            support and on-site advanced replacement; and
+
+        -   a software subscription program that includes telephone support and
+            software upgrades.
+
+       In general, we charge for service programs on an annual subscription
+basis, with discounts to sites with multiple filers. On-site support is
+primarily provided by independent parties both in North America and
+internationally.
+
+MANUFACTURING
+
+           Our manufacturing operations, located in Santa Clara, California,
+include materials procurement, commodity management, component engineering,
+manufacturing engineering, product assembly, product assurance, quality control
+and final test. We rely on many suppliers for materials, as well as several key
+subcontractors for the production of certain sub-assemblies. Our strategy has
+been to develop close relationships with our suppliers, exchanging critical
+information and implementing joint quality training programs. We are currently
+expanding the use of subcontractors for the production of major sub-assemblies.
+See "--Risk Factors--We rely upon a limited number of suppliers." This
+manufacturing strategy minimizes capital investment and overhead expenditures
+and creates flexibility by allowing us to rapidly expand. During May 1997, we
+were awarded the ISO 9001 certification.
+
+RESEARCH AND DEVELOPMENT
+
+        Since our inception we have made substantial investments in research and
+development. We believe that our future performance will depend in large part on
+our ability to maintain and enhance our current product line, develop new
+products that achieve market acceptance, maintain technological competitiveness
+and meet an expanding range of customer requirements. We intend to continuously
+expand our existing product offerings and to introduce new products.
+
+
+
+
+
+        As part of our ongoing development process, we continue to deliver new
+data access solutions with enterprise software and database management tools. In
+the second quarter of fiscal 1999 we launched the F700 filer product family and
+the NetApp cluster failover solution. In the third quarter of fiscal 1999 we
+introduced the C700 family, the second generation of our NetCache appliances. In
+the fourth quarter of fiscal 1999, we announced new enterprise software
+offerings with SnapMirror and SnapRestore, data replication and recovery tools
+to facilitate and enhance the management of data for backup and disaster
+recovery applications. In addition, we also announced SecureAdmin, a security
+product for administrators to conduct encrypted sessions with the filer over the
+Internet or corporate intranets. In fiscal 1998 we released version 5.0 of our
+Data ONTAP and initiated production shipments of four new filers.
+
+        Our future growth depends upon the successful development and
+introduction of new hardware and software, however we cannot assure you that
+these or other new products will attain market acceptance. See "--Risk
+Factors--We depend upon our research and development efforts to develop and
+introduce new products" and "--We face risks of technological changes that
+affect our products."
+
+        Our total expenses for research and development for fiscal years 1999,
+1998 and 1997 were $30.5 million, $16.6 million, and $9.0 million, respectively.
+We anticipate that research and development expenses will increase in absolute
+dollars in future periods.
+
+COMPETITION
+
+        The network file server market is intensely competitive and
+characterized by rapidly changing technology. We experience competition from
+specialized network file server companies such as Auspex Systems, Inc. We also
+compete against traditional suppliers of UNIX-based general purpose computers
+that are used as network file servers including Sun Microsystems, Inc.,
+Hewlett-Packard Company, Silicon Graphics, Inc. and IBM Corporation, among
+others. In addition, certain of these large traditional suppliers of general
+purpose computers may in the future offer specialized file server products,
+which are more directly competitive with our products. We also encounter
+competition from manufacturers of PC-based file servers utilizing Windows NT
+and emerging standards, as well as competition from manufacturers of open
+systems storage solutions such as EMC Corporation and Data General Corp. Our
+NetCache appliances compete against a number of software and hardware
+solutions, from companies ranging from small start-ups to larger systems
+vendors including Cisco Systems Inc., Inktomi Corp., Cacheflow Inc. and Novell,
+Inc. See "--Risk Factors--An increase in competition could materially adversely
+affect our operating results" and "--We face risks of technological changes
+that affect our products."
+
+        We believe that the principal competitive factors affecting our market
+include product features such as response time, scalability, ease of use, price,
+multiprotocol capabilities and customer service and support. Although we believe
+that our products currently compete favorably with respect to these factors, we
+can not assure you that we can maintain our competitive position against current
+and potential competitors, especially those with significantly greater
+financial, marketing, service, support, technical and other resources.
+
+PROPRIETARY RIGHTS
+
+        We currently rely on a combination of copyright and trademark laws,
+trade secrets, confidentiality procedures, contractual provisions and patents to
+protect our proprietary rights. We seek to protect our software, documentation
+and other written materials under trade secret, copyright and patent laws, which
+afford only limited protection. We have registered our "Network Appliance" name
+and logo, "FAServer", "FilerView" and "NetApp" trademarks. We will continue to
+evaluate the registration of additional
+
+
+
+
+
+trademarks as appropriate. We generally enter into confidentiality agreements
+with our employees, resellers and customers. We currently have multiple U.S. and
+international patent applications pending and one U.S. patent issued. See
+"--Risk Factors--If we are unable to protect our intellectual property, we may
+be subject to increased competition which could materially adversely affect our
+operating results."
+
+EMPLOYEES
+
+        As of May 31, 1999, we had approximately 816 employees. Of the total,
+425 were in sales and marketing, 202 in research and development, 86 in finance
+and administration and 103 in operations. Our future performance depends in
+significant part upon our key technical and senior management personnel, none of
+whom is bound by an employment agreement. We have never had a work stoppage and
+consider relations with our employees to be good.
+
+
+EXECUTIVE OFFICERS
+
+        Our executive officers and their ages as of May 31, 1999, are as
+follows:
+
+
+
+        Daniel J. Warmenhoven has served as our President and Chief Executive
+Officer and has been a member of the Board of Directors since October 1994.
+Prior to joining us, Mr. Warmenhoven served in various capacities, including
+President, Chief Executive Officer and Chairman of the Board of Directors of
+Network Equipment Technologies, Inc., a telecommunications company, from
+November 1989 to January 1994. Mr. Warmenhoven holds a B.S. degree in electrical
+engineering from Princeton University.
+
+        M. Helen Bradley has served as our Vice President, Engineering since
+September 1995. Prior to that, Ms. Bradley owned a management consulting
+business from January 1995 to September 1995. She also served as Senior Vice
+President, Technology Development at Openvision, Inc., a client-server
+applications company, from May 1994 to January 1995. From August 1990 to April
+1994, Ms. Bradley was the Vice President, Systems Software at Sun Microsystems,
+Inc. Ms. Bradley holds a B.S. degree in mathematics from the Massachusetts
+Institute of Technology and an M.S. degree in computer science from the Georgia
+Institute of Technology.
+
+    Jeffry R. Allen has served as our Vice President, Finance and Operations,
+Chief Financial Officer and Secretary since December 1996. From October 1994 to
+December 1996, Mr. Allen served in various capacities, including Senior Vice
+President of Operations and Vice President and Controller of Bay Networks, Inc.,
+a networking company. From December 1990 to October 1994, Mr. Allen held various
+
+
+
+
+
+positions at SynOptics, Inc., the latest of which was Vice President and
+Controller. Before joining SynOptics, Inc., he held various positions, from
+December 1973 to November 1990, at Hewlett-Packard Company, the latest of which
+was Controller of the Information Networks Group. Mr. Allen holds a B.S. degree
+from San Diego State University.
+
+    Thomas F. Mendoza has served as our Senior Vice President, Worldwide Sales
+since 1998 and Senior Vice President, Marketing since February 1999. Prior to
+that he served as Vice President, North American Sales. From November 1993 to
+April 1994, Mr. Mendoza served in various capacities including Vice President,
+Sales at Work Group Technology, a product data management company. Prior to
+that, Mr. Mendoza served in various capacities including Vice President of North
+American Sales at Auspex Systems, Inc., a UNIX-based network file server
+company, from November 1990 to October 1993. Mr. Mendoza was previously Vice
+President of Western Operations at Stratus Computer Corp., a vendor of fault
+tolerant computers, from May 1982 to October 1990. Mr. Mendoza holds a B.A.
+degree from the University of Notre Dame.
+
+    Charles E. Simmons has served as our Vice President, Corporate Development
+since February 1999. From May 1996 to February 1999 he served as Vice President,
+Marketing. Prior to that, Mr. Simmons was a senior partner at Rohner &
+Associates, a consulting firm, from October 1994 to May 1996. From February 1994
+to October 1994, Mr. Simmons served as Vice President of Marketing at Voyant
+Corporation, a developer of videoconferencing equipment. Prior to that, Mr.
+Simmons was with Sun Microsystems Computer Company, a subsidiary of Sun
+Microsystems, Inc., from November 1984 to February 1994, most recently as
+Director of Business Strategy and Technology Marketing. Mr. Simmons received a
+B.S. degree in electrical engineering from Washington University, an M.S. degree
+in electrical engineering from the Massachusetts Institute of Technology and an
+M.B.A. from Santa Clara University.
+
+RISK FACTORS
+
+FACTORS BEYOND OUR CONTROL COULD CAUSE OUR QUARTERLY RESULTS TO FLUCTUATE.
+
+        Although we have experienced significant revenue growth in recent
+periods, this growth may not be indicative of our future operating results. As a
+result, we believe that period-to-period comparisons of our results of
+operations are not necessarily meaningful and should not be relied upon as
+indicators of future performance. Many of the factors that could cause our
+quarterly operating results to fluctuate significantly in the future are beyond
+our control and include the following:
+
+        -   the level of competition in our target product markets;
+
+        -   the size, timing and cancellation of significant orders;
+
+        -   product configuration and mix;
+
+        -   market acceptance of new products and product enhancements;
+
+        -   new product announcements or introductions by us or our competitors;
+
+        -   deferrals of customer orders in anticipation of new products or
+            product enhancements;
+
+        -   changes in pricing by us or our competitors;
+
+        -   our ability to timely develop, introduce and market new products and
+            enhancements;
+
+        -   supply constraints;
+
+        -   technological changes in our target product markets;
+
+        -   the levels of expenditure on research and development and expansion
+            of our sales and marketing programs;
+
+        -   seasonality; and
+
+        -   general economic trends.
+
+
+
+
+
+        In addition, sales for any future quarter may vary and accordingly be
+inconsistent with our plans. We generally operate with limited order backlog
+because our products are typically shipped shortly after orders are received. As
+a result, product sales in any quarter are generally dependent on orders booked
+and shipped in that quarter. Product sales are also difficult to forecast
+because the network file server market is rapidly evolving and our sales cycle
+varies substantially from customer to customer.
+
+        Due to all of the foregoing factors, it is possible that in one or more
+future quarters our results may fall below the expectations of public market
+analysts and investors. In such event, the trading price of our common stock
+would likely decrease.
+
+OUR GROSS MARGINS MAY VARY BASED ON THE CONFIGURATION OF OUR PRODUCTS.
+
+        We derive a significant portion of our sales from the resale of disk
+drives as components of our filers, and the resale market for hard disk drives
+is highly competitive and subject to intense pricing pressures. Our sales of
+disk drives generate lower gross margin percentages than those of our filer
+products. As a result, as we sell more highly configured systems with greater
+disk drive content, overall gross margin percentages will be negatively
+affected. Consequently, we believe we will experience a modest decline in gross
+margins and pre-tax income as a percentage of net sales in fiscal 2000.
+
+        Our gross margins have been and may continue to be affected by a variety
+of other factors, including:
+
+        -   competition;
+
+        -   direct versus indirect sales;
+
+        -   the mix and average selling prices of products, including software
+            licensing;
+
+        -   new product introductions and enhancements; and
+
+        -   the cost of components and manufacturing labor.
+
+A SIGNIFICANT PERCENTAGE OF OUR EXPENSES ARE FIXED WHICH COULD AFFECT OUR NET
+INCOME.
+
+         Our expense levels are based in part on our expectations as to future
+sales and a significant percentage of our expenses are fixed. As a result, if
+sales levels are below expectations, net income may be disproportionately
+affected.
+
+OUR FUTURE FINANCIAL PERFORMANCE DEPENDS ON GROWTH IN THE NETWORK FILE SERVER
+MARKET AND ANY LACK OF GROWTH WILL HAVE A MATERIAL ADVERSE EFFECT ON OUR
+OPERATING RESULTS.
+
+        All of our filer products address the network file server market.
+Accordingly, our future financial performance will depend in large part on
+continued growth in the network file server market and on emerging standards in
+this market. We cannot assure you that the market for network file servers will
+continue to grow or that emerging standards in the network file server market
+will not adversely affect the growth of UNIX and Windows NT server markets. If
+the network file server market grows more slowly than anticipated or if network
+file servers based on emerging standards other than those adopted by us become
+increasingly accepted by the market, our operating results could be materially
+adversely affected.
+
+
+
+
+
+THE SUCCESS OF OUR NETCACHE APPLIANCE PRODUCTS DEPENDS UPON MARKET ACCEPTANCE OF
+CACHING TECHNOLOGY AND CONTINUED GROWTH IN THE CACHING APPLIANCE MARKET.
+
+        In late 1997, we released our NetCache appliance products, a new
+category of hardware-based Internet caching appliances designed to speed the
+delivery of information stored on the Web. However, hardware-based caching
+technology is still in its infancy.
+
+        Our future financial performance will depend in part on the acceptance
+of caching technology and the acceptance of our NetCache appliance products. We
+cannot assure you that the caching appliance market will continue to grow at its
+current rate, or at all.
+
+IF WE ARE UNABLE TO INTRODUCE NEW PRODUCTS, OR IF OUR NEW PRODUCTS DO NOT
+ACHIEVE MARKET ACCEPTANCE, OUR OPERATING RESULTS COULD BE MATERIALLY ADVERSELY
+AFFECTED.
+
+        We derive a substantial portion of our revenue from the sale of our
+network filer products. As a result, a reduction in the demand for our filer
+products due to increased competition, a general decline in the market for
+network file servers or other factors could materially adversely affect our
+operating results. As part of our ongoing development process, we initiated
+production shipments of four new filers in fiscal 1998 and in fiscal 1999 we
+launched our F700 and C700 filer product family as well as enterprise software
+offerings with SnapMirror, SnapRestore and cluster failover. We expect to derive
+a substantial portion of our revenue from sales of our F700 and C700 filer
+product family and these major data management software products. Additional
+product introductions in future periods are expected to impact the sales of
+existing products. If we are unable to introduce new products in a timely
+manner, effectively manage the introduction of new products and any related
+inventory transitions, or if such products do not achieve market acceptance, our
+operating results could be materially adversely affected.
+
+IF WE FAIL TO MANAGE OUR EXPANDING BUSINESS EFFECTIVELY OUR OPERATING RESULTS
+COULD BE MATERIALLY ADVERSELY AFFECTED.
+
+        We have experienced rapid growth. Our future operating results depend to
+a large extent on management's ability to successfully manage expansion and
+growth, including but not limited to expanding international operations,
+forecasting revenues, addressing new markets, controlling expenses, implementing
+infrastructure and systems and managing our assets. In addition, an unexpected
+decline in the growth rate of revenues without a corresponding and timely
+reduction in expense growth or a failure to manage other aspects of growth could
+materially adversely affect our operating results.
+
+WE DEPEND ON ATTRACTING AND RETAINING QUALIFIED TECHNICAL AND SALES PERSONNEL.
+
+        Our continued success depends, in part, on our ability to identify,
+attract, motivate and retain qualified technical and sales personnel. Because
+our future success is dependent on our ability to continue to enhance and
+introduce new products, we are particularly dependent on our ability to
+identify, attract, motivate and retain qualified engineers with the requisite
+education, backgrounds and industry experience. Competition for qualified
+engineers, particularly in Silicon Valley, is intense. The loss of the services
+of a significant number of our engineers or sales people could be disruptive to
+our development efforts or business relationships and could materially adversely
+affect our operating results.
+
+RISKS INHERENT IN OUR INTERNATIONAL OPERATIONS COULD HAVE A MATERIAL ADVERSE
+EFFECT ON OUR OPERATING RESULTS.
+
+        We conduct business internationally. For the year ended April 30, 1999
+approximately 30.7% of our net sales were to international customers (including
+United States exports). Accordingly, our future
+
+
+
+
+
+operating results could be materially adversely affected by a variety of
+factors, some of which are beyond our control, including regulatory, political
+or economic conditions in a specific country or region, trade protection
+measures and other regulatory requirements and government spending patterns.
+
+        Our international sales are denominated in U.S. dollars and in foreign
+currencies. An increase in the value of the U.S. dollar relative to foreign
+currencies could make our products more expensive and, therefore, potentially
+less competitive in foreign markets. For international sales and expenditures
+denominated in foreign currencies, we are subject to risks associated with
+currency fluctuations. We hedge risks associated with foreign currency
+transactions in order to minimize the impact of changes in foreign currency
+exchange rates on earnings. We utilize forward contracts to hedge trade and
+intercompany receivables and payables. All hedge contracts are marked to market
+through earnings every period. We do not anticipate any material adverse effect
+on our consolidated financial position utilizing the current hedging strategy.
+
+        Additional risks inherent in our international business activities
+generally include, among others, longer accounts receivable payment cycles,
+difficulties in managing international operations and potentially adverse tax
+consequences. Such factors could materially adversely affect our future
+international sales and, consequently, our operating results.
+
+        Although operating results have not been materially adversely affected
+by seasonality in the past, because of the significant seasonal effects
+experienced within the industry, particularly in Europe, our future operating
+results could be adversely affected by seasonality.
+
+        We believe that continued growth and profitability will require
+successful expansion of our international operations and sales and therefore we
+have committed significant resources to such expansion. In order to successfully
+expand international sales in future periods, we must strengthen foreign
+operations, hire additional personnel and recruit additional international
+distributors and resellers. This will require significant management attention
+and financial resources and could materially adversely affect our operating
+results. To the extent that we are unable to effect these additions in a timely
+manner, our growth, if any, in international sales will be limited, and our
+operating results could be materially adversely affected. In addition, we cannot
+assure you that we will be able to maintain or increase international market
+demand for our products.
+
+AN INCREASE IN COMPETITION COULD MATERIALLY ADVERSELY AFFECT OUR OPERATING
+RESULTS.
+
+        The network file server market is intensely competitive and
+characterized by rapidly changing technology. We compete with specialized
+network file server companies such as Auspex Systems, Inc. We also compete
+against traditional suppliers of UNIX-based general purpose computers that are
+used as network file servers including Sun Microsystems, Inc., Hewlett-Packard
+Company, Silicon Graphics, Inc. and IBM Corporation, among others. Many of our
+current and potential competitors have significantly greater financial,
+technical, marketing and other resources than we do. In addition, certain of
+these large traditional suppliers of general purpose computers may in the future
+offer specialized file server products which are more directly competitive with
+our products. We also encounter competition from manufacturers of PC-based file
+servers utilizing Windows NT and emerging standards, as well as competition from
+manufacturers of open systems storage solutions such as EMC Corporation and Data
+General Corp. Our NetCache appliances compete against a number of software and
+hardware solutions, from companies ranging from small start-ups to larger
+systems vendors, including Cisco Systems Inc., Inktomi Corp., Cacheflow Inc. and
+Novell, Inc.
+
+        Increased competition could result in price reductions, reduced gross
+margins and loss of market share, any of which could materially adversely affect
+our operating results. As a result, our competitors
+
+
+
+
+
+may be able to respond more quickly than we can to new or emerging technologies
+and changes in customer requirements, or devote greater resources to the
+development, promotion, sale and support of their products. In addition, current
+and potential competitors have established or may establish cooperative
+relationships among themselves or with third parties. Accordingly, it is
+possible that new competitors or alliances among competitors may emerge and
+rapidly acquire significant market share. We cannot assure you that we will be
+able to compete successfully against current or future competitors. Competitive
+pressures we face could materially adversely affect our operating results.
+
+        We believe that the principal competitive factors affecting our market
+include product features such as response time, scalability, ease of use, price,
+multiprotocol capabilities and customer service and support. Although we believe
+that our products currently compete favorably with respect to these factors, we
+cannot assure you that we can maintain our competitive position against current
+and potential competitors, especially those with significantly greater
+financial, marketing, service, support, technical and other resources.
+
+WE RELY UPON A LIMITED NUMBER OF SUPPLIERS AND ANY DISRUPTION OR TERMINATION OF
+THESE SUPPLY ARRANGEMENTS COULD DELAY SHIPMENT OF OUR PRODUCTS AND COULD
+MATERIALLY ADVERSELY AFFECT OUR OPERATING RESULTS.
+
+        We rely upon a limited number of suppliers of several key components
+utilized in the assembly of our products. We purchase most of our disk drives
+through a single supplier. We purchase computer boards and microprocessors from
+a limited number of suppliers. Our reliance on a limited number of suppliers
+involves several risks, including:
+
+        -   a potential inability to obtain an adequate supply of required
+            components because we do not have long-term supply commitments;
+
+        -   price increases;
+
+        -   timely delivery; and
+
+        -   component quality.
+
+        In the future, we intend to increasingly rely on contract manufacturers
+to assemble our products. If our contract manufacturers' operations were
+interrupted for any reason, our ability to meet scheduled product deliveries to
+customers would be adversely affected.
+
+        Component quality is particularly significant with respect to our
+supplier of disk drives. In order to meet product performance requirements, we
+must obtain disk drives of extremely high quality and capacity. In addition,
+there are periodic supply and demand issues for disk drives, microprocessors and
+for semiconductor memory components, which could result in component shortages,
+selective supply allocations and increased prices of such components. We cannot
+assure you that we will be able to obtain our full requirements of such
+components in the future or that prices of such components will not increase. In
+addition, problems with respect to yield and quality of such components and
+timeliness of deliveries could occur. Disruption or termination of the supply of
+these components could delay shipments of our products and could materially
+adversely affect our operating results. Such delays could also damage
+relationships with current and prospective customers.
+
+WE CANNOT ASSURE YOU THAT OUR OEM RELATIONSHIPS WITH DELL COMPUTER CORPORATION
+AND FUJITSU LIMITED WILL GENERATE SIGNIFICANT REVENUE.
+
+        While our agreements with Dell Computer Corporation and Fujitsu Limited
+are an element of our strategy to increase penetration in the Windows NT market,
+neither Dell Computer Corporation nor Fujitsu Limited have made purchase
+commitments for our products. In addition, since these agreements
+
+
+
+
+
+are new, we do not have a history upon which to base an analysis of their future
+success. Currently we do not, and cannot assure you that we will, generate
+significant revenue from these agreements.
+
+WE DO NOT HAVE EXCLUSIVE RELATIONSHIPS WITH OUR DISTRIBUTORS AND ACCORDINGLY
+THERE IS A RISK THAT THOSE DISTRIBUTORS MAY GIVE HIGHER PRIORITY TO PRODUCTS OF
+OTHER SUPPLIERS WHICH COULD ADVERSELY AFFECT OUR OPERATING RESULTS.
+
+        Our distribution customers generally offer products of several different
+companies, including products of our competitors. Accordingly, there is risk
+that these distributors may give higher priority to products of other suppliers,
+which could adversely affect our operating results.
+
+WE DEPEND UPON OUR RESEARCH AND DEVELOPMENT EFFORTS TO DEVELOP AND INTRODUCE NEW
+PRODUCTS AND ANY FAILURE TO DEVELOP AND INTRODUCE NEW PRODUCTS SUCCESSFULLY
+COULD MATERIALLY ADVERSELY AFFECT OUR OPERATING RESULTS.
+
+        Our future growth depends upon the successful development and
+introduction of new hardware and software products. We cannot assure you that
+these or other new products will be introduced on a timely basis or attain
+market acceptance. Due to the complexity of network file servers and Internet
+caching devices, and the difficulty in gauging the engineering effort required
+to produce new products, new products are subject to significant technical
+risks. We cannot assure you that new products will be introduced on a timely
+basis or at all. In the past, we have experienced delays in the shipments of our
+new products principally due to an inability to qualify component parts from
+disk drive and other suppliers, resulting in delay or loss of product sales. If
+new products are delayed or do not achieve market acceptance, our operating
+results will be materially adversely affected.
+
+WE FACE RISKS OF TECHNOLOGICAL CHANGES THAT AFFECT OUR PRODUCTS.
+
+        The markets we serve are characterized by rapid technological change,
+changing customer needs, frequent new product introductions and evolving
+industry standards. The introduction of products embodying new technologies and
+the emergence of new industry standards could render our existing products
+obsolete and unmarketable. Our future success will depend upon our ability to
+develop and introduce new products (including new software releases and
+enhancements) on a timely basis that keep pace with technological developments
+and emerging industry standards and address the increasingly sophisticated needs
+of our customers. We cannot assure you that we will be successful in developing
+and marketing new products that respond to technological changes or evolving
+industry standards. If we are unable, for technological or other reasons, to
+develop and introduce new products in a timely manner in response to changing
+market conditions or customer requirements, our operating results will be
+materially adversely affected.
+
+UNDETECTED SOFTWARE ERRORS OR FAILURES FOUND IN NEW PRODUCTS MAY RESULT IN LOSS
+OF OR DELAY IN MARKET ACCEPTANCE OF OUR PRODUCTS WHICH COULD MATERIALLY
+ADVERSELY AFFECT OUR OPERATING RESULTS.
+
+        Our products may contain undetected software errors or failures when
+first introduced or as new versions are released. Despite testing by us and by
+current and potential customers, errors may not be found in new products until
+after commencement of commercial shipments, resulting in loss of or delay in
+market acceptance, which could materially adversely affect our operating
+results.
+
+
+
+
+
+IF WE ARE UNABLE TO PROTECT OUR INTELLECTUAL PROPERTY WE MAY BE SUBJECT TO
+INCREASED COMPETITION WHICH COULD MATERIALLY ADVERSELY AFFECT OUR OPERATING
+RESULTS.
+
+        Our success depends significantly upon our proprietary technology. We
+currently rely on a combination of copyright and trademark laws, trade secrets,
+confidentiality procedures, contractual provisions and patents to protect our
+proprietary rights. We seek to protect our software, documentation and other
+written materials under trade secret, copyright and patent laws, which afford
+only limited protection. We have registered trademarks including our "Network
+Appliance" name and logo, "FAServer", "FilerView" and "NetApp" trademarks. We
+will continue to evaluate the registration of additional trademarks as
+appropriate. We generally enter into confidentiality agreements with our
+employees and with our resellers and customers. We currently have multiple U.S.
+and international patent applications pending and one U.S. patent issued. The
+pending applications may not be approved and if patents are issued, such patents
+may be challenged. If such challenges are brought, the patents may be
+invalidated. We cannot assure you that we will develop proprietary products or
+technologies that are patentable, that any issued patent will provide us with
+any competitive advantages or will not be challenged by third parties, or that
+the patents of others will not materially adversely affect our ability to do
+business.
+
+        Litigation may be necessary to protect our proprietary technology. Any
+such litigation may be time-consuming and costly. Despite our efforts to protect
+our proprietary rights, unauthorized parties may attempt to copy aspects of our
+products or to obtain and use information that we regard as proprietary. In
+addition, the laws of some foreign countries do not protect proprietary rights
+to as great an extent as do the laws of the United States. We cannot assure you
+that our means of protecting our proprietary rights will be adequate or that our
+competitors will not independently develop similar technology, duplicate our
+products or design around patents issued to us or other intellectual property
+rights of ours.
+
+        We are subject to intellectual property infringement claims. We may,
+from time to time receive claims that we are infringing third parties'
+intellectual property rights. In fiscal 1997, we settled litigation related to
+the alleged infringement of third party rights and other claims, which resulted
+in a pre-tax expense of $4.3 million ($3.5 million in payments to the plaintiffs
+and $0.8 million in legal fees). Third parties may in the future claim
+infringement by us with respect to current or future products, patents,
+trademarks or other proprietary rights. We expect that companies in the
+appliance market will increasingly be subject to infringement claims as the
+number of products and competitors in our industry segment grows and the
+functionality of products in different industry segments overlaps. Any such
+claims could be time-consuming, result in costly litigation, cause product
+shipment delays, require us to redesign our products or require us to enter into
+royalty or licensing agreements, any of which could materially adversely affect
+our operating results. Such royalty or licensing agreements, if required, may
+not be available on terms acceptable to us or at all.
+
+THE MARKET PRICE FOR OUR COMMON STOCK HAS FLUCTUATED SIGNIFICANTLY IN THE PAST
+AND WILL LIKELY CONTINUE TO DO SO IN THE FUTURE AND ANY BROAD MARKET
+FLUCTUATIONS MAY MATERIALLY ADVERSELY AFFECT THE MARKET PRICE OF OUR COMMON
+STOCK.
+
+        The market price for our common stock has been volatile in the past, and
+several factors could cause the price to fluctuate substantially in the future.
+These factors include:
+
+        -   fluctuations in our operating results;
+
+        -   fluctuations in the valuation of companies perceived by investors to
+            be comparable to us;
+
+        -   a shortfall in revenues or earnings compared to securities analysts'
+            expectations;
+
+        -   changes in analysts' recommendations or projections;
+
+
+
+
+
+        -   announcements of new products, applications or product enhancements
+            by us or our competitors; and
+
+        -   changes in our relationships with our suppliers or customers.
+
+        In addition, the stock market has experienced volatility that has
+particularly affected the market prices of equity securities of many high
+technology companies and that often has been unrelated to the operating results
+of such companies. As a result, the market price of our common stock may
+fluctuate significantly in the future and any broad market fluctuations may
+adversely affect the market price of our common stock. Due to all of the
+foregoing, the current market price of our common stock may not be indicative of
+future market prices.
+
+PROTECTIVE ANTI-TAKEOVER PROVISIONS IN OUR CHARTER AND BYLAWS COULD MATERIALLY
+ADVERSELY AFFECT STOCKHOLDERS.
+
+        Our Board of Directors has the authority to issue up to 5,000,000 shares
+of preferred stock and to determine the price, rights, preferences, privileges
+and restrictions, including voting rights, of those shares without any further
+vote or action by the shareholders. The rights of the holders of common stock
+will be subject to, and may be adversely affected by, the rights of the holders
+of any preferred stock that may be issued in the future. The issuance of
+preferred stock could have the effect of making it more difficult for a third
+party to acquire a majority of our outstanding voting stock. Further, certain
+provisions of our bylaws pertaining to the future elimination of cumulative
+voting and shareholder action by written consent, and the requirement that
+shareholders may call a special meeting of shareholders only upon a request of
+shareholders owning at least 50% of our common stock, could delay or make more
+difficult a proxy contest involving us, which could adversely affect the market
+price of our common stock.
+
+YEAR 2000 ISSUES COULD HARM OUR OPERATIONS.
+
+        The Year 2000 issue refers to computer programs which use two digits
+rather than four to define a given year and which therefore might read a date
+using "00" as the year 1900 rather than the year 2000. As a result, many
+companies' systems and software may need to be upgraded or replaced in order to
+function correctly after December 31, 1999.
+
+        We are currently conducting a general software upgrade and replacement
+program to enhance our computer systems and applications, in particular those
+systems and applications related to our manufacturing, distribution and
+financial operations. As part of this larger program we are addressing the
+critical areas of our internal computer systems, products and relationships with
+external organizations for Year 2000 compliance. We are addressing Year 2000
+compliance for both our information technology ("IT") and non-IT systems, which
+typically include embedded technology such as microcontrollers.
+
+        While we believe that the estimated cost of becoming Year 2000 compliant
+will not be significant to our operating results, failure to complete all the
+work in a timely manner could materially adversely affect our operating results.
+While we expect all planned work to be completed, we can not guarantee that all
+systems will be in compliance by the Year 2000, the systems of suppliers and
+other companies and government agencies on which we rely will be converted in a
+timely manner, or that our contingency planning will be able to fully address
+all potential interruptions. Therefore, Year 2000 issues could cause delays in
+our ability to produce or ship our products, process transactions or otherwise
+conduct business in any of our markets. Year 2000 issues could lower demand for
+our products while increasing our costs. The occurrence of one or more of these
+factors could materially adversely affect our operating results. For more
+information, see "Management's Discussion and Analysis of Financial Condition
+and Results of Operations -- Year 2000."
+
+
+
+
+
+ITEM 2.  PROPERTIES
+
+        In June, July and August 1998, we executed agreements to acquire
+approximately 18 acres of land in Sunnyvale, California and to develop 393,000
+square feet of buildings. All of our principal activities will relocate to
+Sunnyvale in phases beginning in June 1999. Our manufacturing and research and
+development facilities remain located in approximately 120,000 square feet of
+space in Santa Clara, California until the Sunnyvale facilities are fully
+completed. The Santa Clara facilities are leased under various operating leases
+with 100,000 square feet of space expiring in June 2000, and the remainder
+expiring in fiscal 2003.
+
+        In January, May and June 1999, we assigned our rights and obligations
+under all the agreements for the Sunnyvale facilities to a third-party entity
+and entered into three operating leases. The leases are for five years and can
+be renewed for two five-year periods, subject to the approval of the third-party
+entity. At the expiration or termination of the leases, we have the option to
+either purchase the property at a pre-determined amount, or arrange for the
+purchase by another party at a price equal to the fair market value, and be
+contingently liable for any deficiency in price. We lease other sales offices
+throughout the United States and internationally. We believe that our existing
+facilities and those being developed in Sunnyvale are adequate for our
+requirements over at least the next two years and that additional space will be
+available as needed.
+
+        See additional discussion regarding properties in "Item 7. Management's
+Discussion and Analysis of Financial Condition and Results of Operations--
+Liquidity and Capital Resources."
+
+ITEM 3.   LEGAL PROCEEDINGS
+
+        None.
+
+ITEM 4.  SUBMISSIONS OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+        No matters were submitted to a vote of security holders during the
+fourth quarter of the fiscal year covered by this Annual Report on Form 10-K.
+
+                                     PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED SHAREHOLDER MATTERS
+
+        Our common stock commenced trading on the Nasdaq National Market on
+November 21, 1995 and is traded under the symbol "NTAP." As of May 28, 1999,
+there were 334 holders of record of the common stock. The following table sets
+forth for the periods indicated the high and low closing sale prices for our
+common stock as reported on the Nasdaq National Market, adjusted to reflect the
+effect of the December 21, 1998 two-for-one stock split.
+
+
+
+
+
+
+
+        We believe that a number of factors may cause the market price of our
+common stock to fluctuate significantly. See "Item 1. Business - Risk Factors."
+
+        We have never paid cash dividends on our capital stock. We currently
+anticipate retaining all available funds, if any, to finance internal growth and
+product development. Payment of dividends in the future will depend upon our
+earnings and financial condition and such other factors as the directors may
+consider or deem appropriate at the time.
+
+ITEM 6.  SELECTED CONSOLIDATED FINANCIAL DATA
+
+FIVE FISCAL YEARS ENDED APRIL 30, 1999
+(IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+
+
+
+- ---------------
+
+(1) Fiscal 1997 includes the purchased in-process technology and compensation
+charge related to the IMC acquisition of $10,519 and the Whipsaw litigation of
+$4,300. See Notes 4 and 9 under Item 8 Financial Statements and Supplementary
+Data - Notes to Consolidated Financial Statements.
+
+(2) Fiscal 1997 includes the purchased in-process technology and compensation
+charge related to the IMC acquisition of $9,215 (net of taxes) and the Whipsaw
+litigation of $2,795 (net of taxes). See Notes 4 and 9 under Item 8 Financial
+Statements and Supplementary Data - Notes to Consolidated Financial Statements.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+
+        The following discussion of our financial condition and results of
+operations should be read together with the financial statements and the related
+notes thereto set forth under "Item 8. Financial Statements and Supplementary
+Data." This discussion contains forward-looking statements that involve risks
+and uncertainties. Our actual results may differ materially from those
+anticipated in those forward-looking statements as a result of certain factors,
+including those set forth in "Item 1. Business - Risk Factors" and elsewhere in
+this Annual Report on Form 10-K.
+
+Overview
+
+        We pioneered the concept of the "network appliance," an extension of the
+industry trend toward specialized devices that perform a specific function in
+the network, similar to the adoption of the router
+
+
+
+
+
+for network communications. Today we are the leading supplier of network
+attached data storage and access devices, called filers.
+
+        We derive a substantial portion of our revenue from the sale of our
+network filer products. As a result, a reduction in the demand for filer
+products due to increased competition, a general decline in the market for
+network file servers or other factors could materially adversely affect our
+operating results. In fiscal 1998, we initiated product shipments of NetCache
+appliances and in the second quarter of fiscal 1999 began shipments of the
+second generation of our NetCache proxy server. We expect that NetCache product
+sales will become a larger percentage of net sales.
+
+        Our gross margin may vary based on the configuration of systems that
+are sold. Highly configured systems typically generate lower overall gross
+margin percentages due to greater disk drive and memory content. As we sell more
+highly configured systems with greater disk drive content, overall gross margin
+percentages will be negatively affected. Consequently, we believe we will
+experience a modest decline in gross margin and pre-tax income as a percentage
+of net sales in fiscal 2000.
+
+        Our gross margin has been and may continue to be affected by a variety
+of other factors, including:
+
+        -   competition;
+
+        -   direct versus indirect sales;
+
+        -   the mix and average selling prices of products, including software
+            licensing;
+
+        -   new product introductions and enhancements; and
+
+        -   the cost of components and manufacturing labor.
+
+    Operating results have not been materially adversely affected by seasonality
+in the past. However, because of the significant summer seasonal effects
+experienced within the industry, particularly in Europe, our future operating
+results could be adversely affected by seasonality.
+
+    For the year ended April 30, 1999 approximately 30.7% of our net sales were
+derived from international customers (including United States exports).
+Accordingly our future operating results could be materially adversely affected
+by a variety of factors, some of which are beyond our control. For more
+information on risks associated with our international operations, see "Item
+1--Business--Risk Factors--Risks inherent in our international operations could
+have a material adverse effect on our operating results."
+
+
+
+
+
+RESULTS OF OPERATIONS
+
+        The following table sets forth certain consolidated statements of income
+data as a percentage of net sales for the periods indicated:
+
+
+
+
+FISCAL 1999 COMPARED TO FISCAL 1998
+
+        Net sales increased by 74.2%, to $289.4 million in fiscal 1999 from
+$166.2 million in fiscal 1998. This increase was primarily attributable to a
+higher volume of units shipped, as compared to the corresponding period of the
+prior fiscal year. Factors impacting unit growth include:
+
+        -   expansion of our direct sales force;
+
+        -   increased unit shipments principally due to the successful launching
+            of our F700 filer product family during the second quarter of fiscal
+            1999;
+
+        -   increased worldwide shipment of NetApp cluster failover and NetCache
+            solutions; and
+
+        -   increased multi-protocol software licensing, software subscription
+            and service revenues due to a growing installed base, and increased
+            sales of multi-protocol systems.
+
+        Net sales growth was also positively impacted by a higher average
+selling price of the newly introduced F700 filer product family due primarily to
+the increase in storage content. Factors which partially offset overall net
+sales growth include declining unit sales of our older product family and
+decreases in base prices of our older product line due to competitive forces.
+
+        International net sales (including United States exports) grew by 116.3%
+for fiscal 1999 as compared to fiscal 1998. International net sales were $88.8
+million, or 30.7%, of total net sales for fiscal 1999. The increase in
+international sales for fiscal 1999 was primarily a result of European sales
+growth due to increased headcount in the direct sales force, indirect channel
+sales through resellers, shipments of filers and sales of our new NetApp cluster
+failover solutions and NetCache appliances. Asia Pacific net sales growth for
+fiscal 1999 was also driven by indirect sales through resellers, increased
+headcount in the
+
+
+
+
+
+direct sales force, increased shipments of filers and the sale of NetCache
+appliances, as compared to fiscal 1998.
+
+        We cannot assure you that our net sales will continue to increase in
+absolute dollars or at the rate at which they have grown in recent fiscal
+periods.
+
+        Gross Margin--Gross margin remained relatively flat decreasing slightly
+to 59.2% of net sales for fiscal 1999 as compared to 59.3% for fiscal 1998. The
+consistency in gross margin for fiscal 1999 as compared to fiscal 1998 was
+primarily attributable to the increase in product volume, lower costs of key
+components, increased manufacturing efficiencies, increased market acceptance of
+our product line with the continuance of the cost-reduced designs introduced in
+the second quarter of fiscal 1999, the introduction of the F700 filer product
+family and NetApp cluster failover system during the second quarter of fiscal
+1999 and the revenue growth from sales of NetCache appliances. Gross margin was
+also favorably impacted by the licensing of multi-protocol software and support
+contracts, and by growth in software subscription and service revenues due to a
+larger installed base. Primary factors negatively impacting gross margin were
+the increase in the sales volume of the F700 product family, which has higher
+incremental costs associated with greater disk drive and memory content, and the
+effect of base system price reductions across the full range of older generation
+filers.
+
+        Our gross margin has been and will continue to be affected by a variety
+of factors, including:
+
+        -   competition;
+
+        -   product configuration;
+
+        -   direct versus indirect sales;
+
+        -   the mix and average selling prices of products, including software
+            licensing;
+
+        -   new product introductions and enhancements; and
+
+        -   the cost of components and manufacturing labor.
+
+        Our gross margin may also vary based upon the configuration of systems
+that are sold and whether they are sold directly or through indirect channels.
+Highly configured systems have historically generated lower overall gross margin
+percentages due to greater disk drive and memory content.
+
+        Sales and Marketing--Sales and marketing expenses consist primarily of
+salaries, commissions, advertising and certain promotional expenses and customer
+service and support costs. In fiscal 1999, sales and marketing expenses of $75.5
+million reflect an increase of 76.5% over fiscal 1998. These expenses were 26.1%
+and 25.7% of net sales for fiscal 1999 and 1998, respectively. The increase in
+absolute dollars was primarily related to the continued expansion of our sales
+and marketing organization, including growth in the domestic and international
+direct sales forces and increased commission expenses. We expect to continue to
+increase our sales and marketing expenses in an effort to expand domestic and
+international markets, introduce new products, establish and expand new
+distribution channels and increase product and company awareness. We believe
+that our continued growth and profitability is dependent in part on the
+successful expansion of our international operations, and therefore, have
+committed significant resources intended to increase international sales.
+
+        Research and Development--Research and development expenses consist
+primarily of salaries and benefits, prototype expenses and fees paid to outside
+consultants. Research and development expenses increased 82.9% to $30.5 million
+in fiscal 1999 from $16.6 million in fiscal 1998. These expenses represented
+10.5% and 10.0% of net sales, respectively, for those periods. Research and
+development expenses increased in absolute dollars, primarily as a result of
+increased headcount, ongoing support of current and future product development
+and enhancement efforts and prototyping expenses
+
+
+
+
+
+associated with the development of new products, including the NetApp F700
+series filers and the C700 family, the second generation of our NetCache
+appliances. We believe that our future performance will depend in large part on
+our ability to maintain and enhance our current product line, develop new
+products that achieve market acceptance, maintain technological competitiveness
+and meet an expanding range of customer requirements. We intend to continuously
+expand our existing product offerings and to introduce new products.
+Consequently, we expect that such expenditures will continue to increase in
+absolute dollars. For both fiscal 1999 and 1998, no software development costs
+were capitalized.
+
+        General and Administrative--General and administrative expenses
+increased 56.1% to $10.2 million in fiscal 1999 from $6.5 million in fiscal
+1998. These expenses represented 3.5% and 3.9% of net sales, respectively, for
+those periods. Increases in absolute dollars were primarily due to increased
+headcount, and increases to the allowance for doubtful accounts and outside
+service fees. We believe that our general and administrative expenses will
+increase in absolute dollars as we continue to build our infrastructure.
+
+        Other Income, Net--Other income, net, was $1.9 million and $0.9 million
+in fiscal 1999 and 1998, respectively. The increase was due primarily to
+interest income earned on the net proceeds of $138.8 million from our March 1999
+follow-on public offering and cash flow from operations, but was partially
+offset by foreign currency exchange losses recorded in fiscal 1999.
+
+        Provision for Income Taxes--Our effective tax rate was 37.5% for both
+fiscal 1999 and 1998.
+
+FISCAL 1998 COMPARED TO FISCAL 1997
+
+        Net Sales--Net sales increased by 78.0% to $166.2 million in fiscal 1998
+from $93.3 million in fiscal 1997. The increase in net sales was principally
+attributable to a higher volume of filers shipped. The increase in unit
+shipments resulted primarily from expansion of our direct sales force and the
+introduction of new products during June and July 1997, particularly the
+enterprise-class NetApp F630, the NetApp F520 and the NetApp F230. Net sales for
+fiscal 1998 were also positively impacted by a shift in product mix toward
+higher-end systems, primarily due to the introduction of new products, leading
+to higher average selling prices for filers than in the previous fiscal year.
+Net sales also grew as a result of increased multiprotocol system shipments, the
+licensing of multiprotocol software to pre-existing customers and increased
+service and software subscription revenues due to a growing installed base.
+
+        International net sales (including U.S. exports) were $41.1 million and
+$17.3 million, for fiscal 1998 and 1997, respectively. The increase in
+international net sales was primarily a result of European sales growth due to
+increased headcount in the direct sales force over the prior fiscal year and to
+the introduction of the new products in June and July 1997.
+
+        Gross Margin--Gross margin remained relatively flat increasing slightly
+to 59.3% of net sales for fiscal 1998 compared to 59.2% of net sales for fiscal
+1997. This increase in gross margin was primarily attributable to the increase
+in product volume, lower costs of key components, increased manufacturing
+efficiencies and by the sale of our new product with cost-reduced designs first
+introduced in June and July 1997. Gross margin was also favorably impacted by
+the licensing of multiprotocol software and by growth in software subscription
+and service revenues due to a growing installed base. Factors contributing to
+gross margin growth were partially offset by the sale of 4 gigabyte drives at
+reduced prices in fiscal 1998.
+
+        Our gross margin has been and will continue to be affected by a variety
+of factors, including competition, product configuration, direct versus indirect
+sales, the mix and average selling prices of products, new product introductions
+and enhancements and the cost of components and manufacturing
+
+
+
+
+
+labor. In particular, our gross margin varies based upon the configuration of
+systems that are sold and whether they are sold directly or through indirect
+channels. Highly configured systems typically generate lower overall gross
+margin percentages due to greater disk drive and memory content.
+
+        Sales and Marketing--Sales and marketing expenses consist primarily of
+salaries, commissions, advertising and promotional expenses and customer service
+and support costs. Sales and marketing expenses increased 76.3% to $42.8 million
+in fiscal 1998, compared to $24.3 million in fiscal 1997. These expenses were
+25.7% and 26.0% of net revenues for fiscal 1998 and 1997, respectively. The
+increase in absolute dollars was primarily related to the expansion of our sales
+and marketing organization, including growth in the domestic and international
+direct sales forces and increased commission expenses. During the quarter ended
+January 23, 1998, we launched an advertising campaign which contributed to
+absolute dollar growth in sales and marketing expenses for fiscal 1998. We
+expect to continue to increase our sales and marketing expenses in an effort to
+expand domestic and international markets, introduce new products, establish and
+expand new distribution channels and increase product and company awareness. We
+believe that our continued growth and profitability is dependent in part on the
+successful expansion of our international operations, and therefore, we have
+committed significant resources to international sales.
+
+        Research and Development--Research and development expenses consist
+primarily of salaries and benefits and prototype expenses. Research and
+development expenses increased 85.6% to $16.6 million in fiscal 1998, compared
+to $9.0 million in the prior fiscal year. These expenses represented 10.0% and
+9.6% of net sales in fiscal 1998 and 1997, respectively, and increased as a
+result of headcount growth, prototyping expenses associated with the development
+of new products and ongoing support of current and future product development
+and enhancement efforts. We believe that significant investments in research and
+development will be required to remain competitive and expect that such
+expenditures will continue to increase in absolute dollars.
+
+        General and Administrative--General and administrative expenses were
+$6.5 million in fiscal 1998, compared to $4.1 million in fiscal 1997, an
+increase of 57.9%. These expenses represented 3.9% and 4.4% of net sales for
+such periods and increased in absolute dollars primarily as a result of
+headcount growth, increased professional services fees and an increase to the
+allowance for doubtful accounts. We believe that our general and administrative
+expenses will increase in absolute dollars as we continue to build our
+infrastructure.
+
+        Litigation Settlement-- In July 1994, we and certain of our former
+employees were named as defendants in a lawsuit which alleged that one of our
+founders, who left the company in March 1995, misappropriated confidential
+information prior to the company's founding in April 1992. In August 1996, we
+entered into a settlement with the plaintiff which resulted in a charge to
+earnings of $4.3 million in the first quarter of fiscal 1997, which included a
+$3.5 million payment to the plaintiffs and $0.8 million of legal fees. As the
+payment released us from all liabilities associated with the case, we have no
+future obligations to the plaintiffs. We deny any wrongdoing on our part or on
+the part of the founder.
+
+        Purchased In-Process Technology and Related Compensation Charge-- On
+March 17, 1997, we acquired all outstanding shares and options to purchase
+shares of IMC common stock by issuing 748,092 shares of our common stock and
+options to purchase shares of our common stock. In connection with the
+acquisition, intangible assets of $8.4 million were acquired, of which $7.4
+million was reflected as a one-time charge to operations for the write-off of
+in-process research and development that had not reached technological
+feasibility and, in management's opinion, had no probable alternative future
+use. The remaining intangible assets of $1.0 million, consisting of existing
+technology and goodwill, are included in other assets in the accompanying
+consolidated balance sheets and are being amortized over their estimated useful
+lives of five years.
+
+
+
+
+
+        Certain key employees of IMC who continued as our employees were also
+granted vested options to purchase shares of our common stock at a discount to
+the market price of our common stock immediately preceding the acquisition. In
+connection with the granting of these options, we recorded a compensation charge
+of $3.2 million in the fourth quarter of fiscal 1997.
+
+        The acquisition was accounted for as a purchase and, accordingly, the
+results of operations of IMC from the date of acquisition forward have been
+included in our consolidated financial statements. IMC results of operations
+included in our consolidated financial statements for fiscal 1997 were not
+significant. See Note 4 of Notes to Consolidated Financial Statements for pro
+forma financial information.
+
+        Other Income, Net--Other income, net, was $0.9 million and $1.0 million
+in fiscal 1998 and 1997, respectively. Other income, net, decreased over the
+corresponding period of the prior year due primarily to foreign currency
+exchange losses recorded in fiscal 1998.
+
+        Provision for Income Taxes--Our effective tax rate for fiscal 1998 was
+37.5% compared to 93.8% for fiscal 1997. The fiscal 1997 tax rate was primarily
+affected by the one-time charge to operations of $7.4 million for the write-off
+of purchased in-process research and development related to the IMC acquisition
+which was not deductible for income tax purposes. Excluding the net effect of
+the IMC acquisition, the fiscal 1997 effective tax rate would have been 35%. The
+higher effective tax rate in fiscal 1998, compared to the fiscal 1997 effective
+tax rate, exclusive of the IMC acquisition, relates to increased earnings, which
+reduce the impact of research and development and other tax credits on the
+effective tax rate. Additionally, fiscal 1997 included a benefit for the
+reversal of a valuation allowance previously provided against deferred tax
+assets which did not occur in fiscal 1998. As of April 30, 1998 and 1997, a
+valuation allowance was deemed unnecessary as management determined that it is
+more likely than not that the net deferred tax asset is realizable.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+        As of April 30, 1999, as compared to the April 30, 1998 balances, our
+cash, cash equivalents and short-term investments increased by $179.0 million to
+$227.1 million. The increase was primarily due to net proceeds of $138.8 million
+from our March 1999 follow-on public offering. Working capital increased by
+$195.2 million to $264.8 million, impacted primarily by increases in cash and
+cash equivalents, accounts receivable, inventories, prepaid expense and other
+and deferred taxes, partially offset by increases in accounts payable, deferred
+revenue, accrued compensation and related benefits, other accrued liabilities,
+and a decrease in short-term investments. We generated cash from operating
+activities totaling $45.9 million and $22.7 million in fiscal 1999 and fiscal
+1998, respectively. Net cash provided by operating activities in fiscal 1999
+principally related to net income of $35.6 million, increases in accounts
+payable, income taxes payable, accrued compensation and related benefits,
+deferred revenue and other accrued liabilities, coupled with depreciation and
+amortization which are non-cash expenses, partially offset by increases in
+accounts receivable, inventories, prepaid expenses and other assets and deferred
+income taxes.
+
+        We used $15.5 million and $8.0 million of cash during fiscal 1999 and
+1998, respectively, to purchase property and equipment. We were provided with
+$5.0 million during fiscal 1999 from net short-term investment redemptions and
+used $3.9 million during 1998 for net short-term investment purchases.
+
+        Financing activities provided $155.5 million and $6.9 million during
+fiscal 1999 and 1998 respectively. The increase in cash provided by financing
+activities in fiscal 1999, compared to fiscal 1998, was due to a follow-on
+common stock offering in March 1999 yielding net proceeds of
+
+
+
+
+
+approximately $138.8 million, an increased quantity of stock options exercised
+at a higher average exercise price and a greater number of employees
+participating in the employee stock purchase plan.
+
+        In June 1998, we executed an agreement to acquire 5.9 acres of land in
+Sunnyvale, California and the accompanying 127,000 square foot building. Under
+terms of the agreement, we paid $5.5 million of the $33.8 million purchase price
+as a nonrefundable deposit. In January 1999, we assigned our rights and
+obligations under the agreement to a third-party entity and in exchange received
+back our $5.5 million deposit. We subsequently entered into an operating lease
+for this property. Our lease payments will vary based on the London Interbank
+Offered Rate (LIBOR) plus a spread and are currently estimated to be
+approximately $2.9 million on an annual basis over the lease term. The lease is
+for five years and can be renewed for two five-year periods, subject to the
+approval of the third-party entity. At the expiration or termination of the
+lease, we have the option to either purchase the property for $44.0 million, or
+arrange for the sale of the property to a third party for at least $44.0 million
+with a contingent liability for any deficiency. If the property is not purchased
+or sold as described above, we will be obligated for an additional lease payment
+of approximately $37.0 million.
+
+        In June 1998, we signed a 25-year operating lease requiring annual lease
+payments of $3.1 million commencing in October 1999, for a 6.2-acre plot in
+Sunnyvale, California and an option agreement to purchase the 6.2 acres of land.
+Under terms of the option agreement, we paid a $4.5 million nonrefundable
+deposit. The option allows us to purchase the land, within a 90-day period,
+commencing in December 1999 at a purchase price of $23.7 million. This agreement
+was subsequently amended in June 1999 to a 25 year and three month term
+commencing in July 1999. In June 1999, we assigned our rights and obligations
+under the agreement to a third-party entity. We subsequently entered into an
+operating lease for this property. Our lease payments will vary based on the
+LIBOR plus a spread and are currently estimated to be approximately $3.1 million
+on an annual basis over the lease term. The lease is for five years and can be
+renewed for two five-year periods, subject to the approval of the third-party
+entity. At the expiration or termination of the lease, we have the option to
+either purchase the property for $48.0 million, or arrange for the sale of the
+property to a third party for at least $48.0 million with a contingent liability
+for any deficiency. If the property is not purchased or sold as described above,
+we will be obligated for an additional lease payment of approximately $43.9
+million.
+
+        In August 1998, we entered into an agreement to acquire 6.0 acres of
+land in Sunnyvale, California and the accompanying 79,000 square foot building.
+Under terms of the agreement, we paid $2.5 million of the $16.8 million purchase
+price as a deposit. In May 1999, we assigned our rights and obligations under
+the agreement to a third-party entity and in exchange received back our $2.5
+million deposit. We subsequently entered into an operating lease for this
+property. Our lease payments will vary based on the LIBOR plus a spread and are
+currently estimated to be approximately $2.3 million on an annual basis over the
+lease term. The lease is for five years and can be renewed for two five-year
+periods, subject to the approval of the third-party entity. At the expiration or
+termination of the lease, we have the option to either purchase the property for
+$36.0 million, or arrange for the sale of the property to a third party for at
+least $36.0 million with a contingent liability for any deficiency. If the
+property is not purchased or sold as described above, we will be obligated for
+an additional lease payment of approximately $32.6 million.
+
+        In July 1998, we negotiated a $5.0 million unsecured revolving credit
+facility with a domestic commercial bank. Under terms of the credit facility,
+which expires in July 1999 (subsequently renewed through October 1999), we must
+maintain various financial covenants. Any borrowings under this agreement bear
+interest at either LIBOR plus 1% or at the lender's "prime" lending rate, such
+rate determined at our discretion. In December 1998, we drew a $2.5 million
+letter of credit against our line of credit to facilitate requirements
+associated with the acquisition of land in Sunnyvale, California and the
+accompanying 79,000 square foot building. In June 1999, the letter of credit was
+relieved upon completion of the acquisition of the land and building.
+
+
+
+
+
+        All three of the operating leases and the revolving credit facility
+mentioned above require us to maintain specified financial covenants with which
+we were in compliance as of April 30, 1999.
+
+        Excluding the commitments related to the aforementioned properties,
+which we have assigned to third parties and established as operating leases, we
+currently have no significant commitments other than commitments under operating
+leases. We believe that our existing liquidity and capital resources, including
+the available amounts under the $5.0 million line of credit, are sufficient to
+fund our operations for at least the next twelve months.
+
+YEAR 2000
+
+        The Year 2000 issue refers to computer programs which use two digits
+rather than four to define a given year and which therefore might read a date
+using "00" as the year 1900 rather than the year 2000. As a result, many
+companies' systems and software may need to be upgraded or replaced in order to
+function correctly after December 31, 1999.
+
+        We are currently conducting a general software upgrade and replacement
+program to enhance our computer systems and applications, in particular those
+systems and applications related to our manufacturing, distribution and
+financial operations. As part of this larger program we are addressing the
+critical areas of our internal computer systems, products and relationships with
+external organizations for Year 2000 compliance. We are addressing Year 2000
+compliance for both our IT and non-IT systems, which typically include embedded
+technology such as microcontrollers.
+
+        As part of our general systems upgrade we have evaluated and selected
+various significant computer software applications which are represented by
+vendors as Year 2000 compliant. We expect to complete installation of such
+software in our domestic operations by the end of the first quarter of fiscal
+2000 followed by installation in our international operations throughout fiscal
+2000. Most of our existing business applications are already supported by Year
+2000 compliant software. With the system changes implemented to date and other
+planned changes, we anticipate that our internal computer software applications
+will be Year 2000 compliant prior to December 31, 1999. We believe that our
+current products are Year 2000 compliant, and our new products are being
+designed to be Year 2000 compliant.
+
+        We rely on numerous third party vendors for certain products and
+services. We are communicating with our principal service providers and
+suppliers to assess their Year 2000 readiness. Responses indicate that our
+significant service providers currently have compliant versions of their systems
+available or are well into the renovation and testing phases with completion
+scheduled prior to December 31, 1999. We are still assessing the effect Year
+2000 issues will have on our service providers and suppliers, however, our
+principal service providers and suppliers have represented to us that they are
+Year 2000 compliant. We can give you no guarantee that the systems and products
+of these service providers and suppliers on which we rely are, or will be, Year
+2000 compliant.
+
+        Our contingency planning for Year 2000 issues relates primarily to the
+efforts of our third-party vendors. In the event of any Year 2000 disruptions
+related to third-party software, we expect to follow the individual vendor's
+contingency directives. With respect to suppliers, we will consider alternative
+sources as a contingency plan, if necessary. Contingency planning will continue
+throughout 1999 and our plans will be modified based upon the progress of our
+remediation efforts, system updates and installations and based upon our
+communications with selected suppliers. We have determined that our "worst case"
+scenario relates to Year 2000 compliance problems of our third party vendors and
+suppliers and other external organizations which if not remedied could
+materially adversely affect our operating results.
+
+
+
+
+
+        The costs we expect to incur in connection with our overall general
+systems upgrade program, including both internal and third party costs, are
+primarily external costs for software licenses, and implementation and
+consulting services. These systems and applications were selected primarily for
+features and functionality in addition to Year 2000 compliance. Accordingly, we
+do not itemize costs of Year 2000 compliance separately.
+
+        Our expectations regarding the impact of Year 2000 issues are forward
+looking statements and actual results could vary due to the factors discussed in
+this section. While we believe that the estimated cost of becoming Year 2000
+compliant will not be significant to our operating results, failure to complete
+all the work in a timely manner could materially adversely affect our operating
+results. While we expect all planned work to be completed, we can not guarantee
+that all systems will be in compliance by the Year 2000, the systems of
+suppliers and other companies and government agencies on which we rely will be
+Year 2000 compliant, or that our contingency planning will be able to fully
+address all potential interruptions. Therefore, Year 2000 issues could cause
+delays in our ability to produce or ship our products, process transactions or
+otherwise conduct business in any of our markets. Year 2000 issues could lower
+demand for our products while increasing our costs. The occurrence of one or
+more of these factors could materially adversely affect our operating results.
+
+NEW ACCOUNTING STANDARDS
+
+        In June 1998, the FASB issued SFAS No. 133, "Accounting for Derivative
+Instruments and Hedging Activities," which defines derivatives, requires that
+all derivatives be carried at fair value, and provides for hedging accounting
+when certain conditions are met. This statement is effective for all fiscal
+quarters of fiscal years beginning after June 15, 2000. On a forward-looking
+basis, although we have not fully assessed the implications of this new
+statement, we do not believe adoption of this statement will have a material
+impact on our consolidated financial position, results of operations or cash
+flows.
+
+ITEM 7a.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+        We are exposed to market risk related to fluctuations in interest rates
+and in foreign currency exchange rates. We use certain derivative financial
+instruments to manage these risks. We do not use derivative financial
+instruments for speculative or trading purposes. All financial instruments are
+used in accordance with board-approved policies.
+
+Market Interest Risk
+
+        Short-term Investments - As of April 30, 1999, we had short-term
+investments of $5.8 million. These short-term investments consist of highly
+liquid investments with original maturities at the date of purchase between
+three and six months. These investments are subject to interest rate risk and
+will decrease in value if market interest rates increase. A hypothetical 10
+percent increase in market interest rates from levels at April 30, 1999, would
+cause the fair value of these short-term investments to decline by an immaterial
+amount. Because we have the ability to hold these investments until maturity we
+would not expect any significant decline in value of our investments caused by
+market interest rate changes. Declines in interest rates over time will,
+however, reduce our interest income.
+
+        Foreign Currency Exchange Rate Risk - We hedge risks associated with
+foreign currency transactions in order to minimize the impact of changes in
+foreign currency exchange rates on earnings. We utilize forward contracts to
+hedge trade and intercompany receivables and payables. These contracts reduce
+the exposure to fluctuations in exchange rate movements, as the gains and losses
+associated with
+
+
+
+
+
+foreign currency balances are generally offset with the gains and losses on the
+hedge contracts. All hedge instruments are marked to market through earnings
+every period.
+
+        We do not anticipate any material adverse effect on our consolidated
+financial position utilizing the current hedging strategy. All contracts have a
+maturity of less than one year and we do not defer any gains and losses, as they
+are all accounted for through earnings every period.
+
+        We do not expect to experience a material foreign exchange loss based on
+a hypothetical 10% adverse change in the price of the foreign currency against
+the U.S. dollar. The hypothetical changes and assumptions discussed above will
+be different from what actually occurs in the future. Furthermore, such
+computations do not anticipate actions that may be taken by management, should
+the hypothetical market changes actually occur over time. As a result, the
+effect on actual earnings in the future will differ from those described above.
+
+        The following table provides information about our foreign exchange
+forward contracts outstanding on April 30, 1999, (in thousands):
+
+
+
+
+
+
+
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+                          INDEPENDENT AUDITORS' REPORT
+
+To the Shareholders of
+Network Appliance, Inc.:
+
+        We have audited the accompanying consolidated balance sheets of Network
+Appliance, Inc. and its subsidiaries as of April 30, 1999 and 1998, and the
+related consolidated statements of income, shareholders' equity and
+comprehensive income and cash flows for each of the three years in the period
+ended April 30, 1999. Our audits also included the consolidated financial
+statement schedule listed in Item 14(a)(2). These financial statements and the
+financial statement schedule are the responsibility of the Company's management.
+Our responsibility is to express an opinion on the financial statements and the
+financial statement schedule based on our audits.
+
+        We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+        In our opinion, the consolidated financial statements present fairly, in
+all material respects, the financial position of Network Appliance, Inc. and its
+subsidiaries as of April 30, 1999 and 1998, and the results of their operations
+and their cash flows for each of the three years in the period ended April 30,
+1999 in conformity with generally accepted accounting principles. Also, in our
+opinion, the consolidated financial statement schedule, when considered in
+relation to the basic consolidated financial statements taken as a whole,
+presents fairly in all material respects the information set forth therein.
+
+/s/ DELOITTE & TOUCHE LLP
+
+San Jose, California
+May 14, 1999  (June 17, 1999 as to the fourth paragraph of Note 3)
+
+
+
+
+
+                             NETWORK APPLIANCE, INC.
+                           CONSOLIDATED BALANCE SHEETS
+                                 (IN THOUSANDS)
+
+
+
+
+
+                 See notes to consolidated financial statements.
+
+
+
+
+
+                             NETWORK APPLIANCE, INC.
+                        CONSOLIDATED STATEMENTS OF INCOME
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+
+
+(1)   Share and per share amounts have been adjusted to reflect the two-for-one
+      stock split which was effective December 21, 1998.
+
+
+
+                See notes to consolidated financial statements.
+
+
+
+
+
+                             NETWORK APPLIANCE, INC.
+    CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY AND COMPREHENSIVE INCOME
+                                 (IN THOUSANDS)
+
+
+
+
+
+                See notes to consolidated financial statements.
+
+
+
+
+
+                             NETWORK APPLIANCE, INC.
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (IN THOUSANDS)
+
+
+
+
+
+                See notes to consolidated financial statements.
+
+
+
+
+
+                             NETWORK APPLIANCE, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+         (DOLLAR AND SHARE AMOUNTS IN THOUSANDS, EXCEPT PER-SHARE DATA)
+
+ 1.  THE COMPANY
+
+        Network Appliance, Inc., incorporated in the state of California in
+April 1992, and its subsidiaries operate in a single industry segment and are
+involved in the design, manufacturing, marketing and support of high performance
+network attached data storage and access devices which provide fast, simple,
+reliable and cost-effective file service for data-intensive network
+environments.
+
+ 2.  SIGNIFICANT ACCOUNTING POLICIES
+
+        Fiscal Year--We operate on a 52-week or 53-week year ending on the last
+Friday in April. For presentation purposes we have indicated in the accompanying
+consolidated financial statements that our fiscal year end is April 30. Fiscal
+1999 was a 53-week fiscal year. Fiscal 1998 and 1997 were 52-week years.
+
+        Basis of Presentation--The consolidated financial statements include the
+company and its wholly-owned subsidiaries. Intercompany accounts and
+transactions are eliminated in consolidation. Certain amounts from prior years
+have been reclassified to conform to current-year presentation. These
+reclassifications did not change previously reported total assets, liabilities,
+shareholders' equity or net income.
+
+        Cash and Cash Equivalents--We consider all highly liquid debt
+investments with original maturities of three months or less to be cash
+equivalents.
+
+        Short-term Investments--Our short-term investments consist of securities
+with original maturities ranging between three and six months. All of our
+investments are classified as available-for-sale, and are stated at amortized
+cost, which approximates fair market value. Short-term investments consist of
+$5,800 and $10,800 of municipal securities as of April 30, 1999, and April 30,
+1998, respectively.
+
+        Inventories--Inventories are stated at the lower of cost (first-in,
+first-out basis) or market.
+
+        Inventories consist of the following:
+
+
+
+
+
+        Property and Equipment--Property and equipment is stated at cost and is
+depreciated on a straight-line basis over estimated useful lives which range
+from two to five years. Leasehold improvements are amortized over their
+estimated useful lives or the life of the lease, whichever is shorter.
+
+
+
+
+
+        Property and equipment consists of the following:
+
+
+
+
+
+        Revenue Recognition--In the first quarter of fiscal 1999, we adopted
+Statement of Position ("SOP") 97-2, "Software Revenue Recognition," as amended.
+Adoption of this statement did not have a material impact on our consolidated
+financial position, results of operations or cash flows. We recognize revenue
+and record estimated product return and warranty reserves upon shipment if the
+collectibility of the receivable is deemed to be probable, an executed agreement
+has been signed, the fee is fixed and determinable and vendor specific objective
+evidence exists to allocate a portion of the total fee to any undelivered
+elements of the arrangement. Service and software subscription revenues are
+recognized over the terms of the related contractual periods. Service revenues
+were less than 10% of net sales in fiscal 1999, 1998 and 1997. Software
+subscription revenues were also less than 10% of net sales in fiscal 1999, 1998
+and 1997.
+
+        Advertising Costs--Advertising costs are charged to operations when
+incurred. Advertising expenses for fiscal 1999, 1998 and 1997 were approximately
+$1,072, $1,000 and $100, respectively.
+
+        Software Development Costs--We capitalize eligible computer software
+development costs, which include software enhancement costs, upon the
+establishment of technological feasibility, which occur upon the completion of a
+working model. Software development costs capitalized have not been significant.
+
+        Foreign Currency Translation and Foreign Exchange Contracts--Prior to
+fiscal 1999, the functional currency of our foreign subsidiaries was the U.S.
+dollar. Accordingly, all monetary assets and liabilities were translated at the
+current exchange rate at the end of the year, nonmonetary assets and liabilities
+were translated at historical rates and net sales and expenses were translated
+at average exchange rates in effect during the period. Transaction gains and
+losses, which are included in other income (expense) in the accompanying
+consolidated statements of income, have not been significant.
+
+        In the first quarter of fiscal 1999, we determined that the functional
+currencies of certain of our foreign subsidiaries had changed from the U.S.
+dollar to the local currencies. Accordingly, for fiscal 1999, assets and
+liabilities of our foreign subsidiaries are translated in U.S. dollars at the
+exchange rates in effect as of the balance sheet date, and results of operations
+for each subsidiary are translated using average rates in effect for the period
+presented. Translation adjustments have been included within shareholders'
+equity as part of cumulative other comprehensive loss. The effect of the change
+in functional currencies did not have a material impact on our consolidated
+financial position, results of operations or cash flow.
+
+
+
+
+
+        Foreign currency transaction gains and losses, which are included in the
+consolidated statements of income, have not been material in any of the three
+years presented. We utilize forward exchange contracts to hedge against the
+short-term impact of foreign currency fluctuations on certain assets or
+liabilities denominated in foreign currencies. The gains or losses on these
+contracts are included in income as the exchange rates change. Management
+believes that these forward contracts do not subject us to undue risk due to
+foreign exchange movements because gains and losses on these contracts are
+offset by losses and gains on the underlying asset and transactions being
+hedged.
+
+        Certain Significant Risks and Uncertainties--The preparation of
+financial statements in conformity with generally accepted accounting principles
+requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities and disclosure of contingent assets and
+liabilities at the date of the financial statements and the reported amounts of
+revenues and expenses during the reporting period. Actual results could differ
+from those estimates.
+
+        We are subject to certain risks, including without limitation, risks
+relating to fluctuating operating results, customer and market acceptance of new
+products, dependence on new products, rapid technological change, litigation,
+dependence on growth in the network file server market, expansion of
+international operations, product concentration, changing product mix,
+competition, management of expanding operations, dependence on high-quality
+components, dependence on proprietary technology, intellectual property rights,
+dependence on key personnel, volatility of stock price, shares eligible for
+future sale, effect of certain anti-takeover provisions, dilution and the Year
+2000 Issue.
+
+        Concentration of Credit Risk--Financial instruments which potentially
+subject us to concentrations of credit risk consist primarily of cash
+equivalents, short-term investments and accounts receivable. Cash, cash
+equivalents and short-term investments consist primarily of municipal
+securities, cash accounts held at various banks and a money market fund held at
+a single financial institution. We sell our products primarily to large
+organizations in different industries and geographies. Credit risk is further
+mitigated by our credit evaluation process and limited payment terms. We do not
+require collateral or other security to support accounts receivable. In
+addition, we maintain an allowance for potential credit losses. In entering into
+forward foreign exchange contracts, we have assumed the risk that might arise
+from the possible inability of counterparties to meet the terms of their
+contracts. The counterparties to these contracts are major multinational
+commercial banks, and we do not expect any losses as a result of counterparty
+defaults.
+
+        Comprehensive Income--During fiscal 1999, we adopted Statement of
+Financial Accounting Standards No. 130, "Reporting Comprehensive Income" ("SFAS
+130"), which requires an enterprise to report, by major components and as a
+single total, the change in net assets during the period from nonowner sources.
+Comprehensive income for the years ended April 30, 1999, 1998 and 1997 has been
+disclosed within the consolidated statements of shareholders' equity and
+comprehensive income. Total comprehensive income was equal to net income for the
+years ended April 30, 1998 and 1997.
+
+        Net Income Per Share--Basic net income per share is computed by dividing
+income available to common stockholders by the weighted average number of common
+shares outstanding for that period. Diluted net income per share is computed
+giving effect to all dilutive potential shares that were outstanding during the
+period. Dilutive potential common shares consist of incremental common shares
+subject to repurchase and common shares issuable upon exercise of stock options.
+All prior-period net income per-share amounts have been restated to reflect the
+two-for-one stock split which was effective December 21, 1998 (See Note 6).
+
+
+
+
+
+        The following is a reconciliation of the numerators and denominators of
+the basic and diluted net income per share computations for the periods
+presented:
+
+
+
+Statements of Cash Flows--Supplemental cash flow and noncash investing and
+financing activities are as follows:
+
+
+
+        Geographic Operating Information--During fiscal 1999, we adopted
+Statement of Financial Accounting Standards No. 131, "Disclosures About Segments
+of an Enterprise and Related Information" ("SFAS 131"), which establishes annual
+and interim reporting standards for an enterprise's business segments and
+related disclosures about its products, services, geographic areas and major
+customers. We operate in one reportable segment (Note 8).
+
+        Stock-Based Compensation--We account for stock-based awards to employees
+using the intrinsic value method in accordance with Accounting Principles Board
+Opinion ("APB") No. 25, "Accounting for Stock Issued to Employees."
+
+
+
+
+
+        Accounting for Long-Lived Assets--We evaluate the impairment of
+long-lived assets, certain identifiable intangibles and goodwill related to
+those assets whenever events or changes in circumstances indicate that the
+carrying amount of an asset may not be recoverable.
+
+        Recently Issued Accounting Standards-- In June 1998, the Financial
+Accounting Standards Board ("FASB") issued Statement of Financial Accounting
+Standards ("SFAS") No. 133, "Accounting for Derivative Instruments and Hedging
+Activities," which defines derivatives, requires that all derivatives be carried
+at fair value, and provides for hedging accounting when certain conditions are
+met. This statement is effective for all fiscal quarters of fiscal years
+beginning after June 15, 2000. On a forward-looking basis, although we have not
+fully assessed the implications of this new statement, we do not believe
+adoption of this statement will have a material impact on our consolidated
+financial position, results of operations or cash flows.
+
+ 3.  COMMITMENTS
+
+             In June, July and August 1998, we executed agreements to acquire
+approximately 18 acres of land in Sunnyvale, California and to develop 393,000
+square feet of buildings. All of our principal activities will relocate to
+Sunnyvale in phases beginning in June 1999. Our manufacturing and research and
+development facilities remain located in approximately 120,000 square feet of
+space in Santa Clara, California until the Sunnyvale facilities are fully
+completed. The Santa Clara facilities are leased under various operating leases
+with 100,000 square feet of space expiring in June 2000, and the remainder
+expiring in fiscal 2003. We lease other sales offices throughout the United
+States and internationally. These sales offices are also leased under operating
+leases which expire through fiscal 2013. We are responsible for certain
+maintenance costs, taxes and insurance under these leases.
+
+        In June 1998, we executed an agreement to acquire 5.9 acres of land in
+Sunnyvale, California and the accompanying 127,000 square foot building. Under
+terms of the agreement, we paid $5,500 of the $33,750 purchase price as a
+nonrefundable deposit. In January 1999, we assigned our rights and obligations
+under the agreement to a third-party entity and in exchange received back our
+$5,500 deposit. We subsequently entered into an operating lease for this
+property. Our lease payments will vary based on the LIBOR plus a spread. Our
+lease payments are estimated to be approximately $2,860 on an annual basis over
+the lease term and are included in the minimum annual lease payments schedule
+below. The lease is for five years and can be renewed for two five-year periods,
+subject to the approval of the third-party entity. At the expiration or
+termination of the lease, we have the option to either purchase the property for
+$44,000, or arrange for the sale of the property to a third party for at least
+$44,000 with a contingent liability for any deficiency. If the property is not
+purchased or sold as described above, we will be obligated for an additional
+lease payment of approximately $36,960.
+
+        In June 1998, we signed a 25-year operating lease requiring annual lease
+payments of $3,084 commencing in October 1999, for a 6.2-acre plot in Sunnyvale,
+California and an option agreement to purchase the 6.2 acres of land. Under
+terms of the option agreement, we paid a $4,500 nonrefundable deposit. The
+option allows us to purchase the land, within a 90-day period, commencing in
+December 1999 at a purchase price of $23,745.
+
+        In June 1999, the agreement referred to in the preceding paragraph was
+amended to a 25 year and three month term commencing in July 1999. In June 1999,
+we assigned our rights and obligations under the agreement to a third-party
+entity. We subsequently entered into an operating lease for this property. Our
+lease payments will vary based on the LIBOR plus a spread. Our lease payments
+are estimated to be approximately $3,120 on an annual basis over the lease term.
+The lease is for five years and can be renewed for two five-year periods,
+subject to the approval of the third-party entity. At the expiration or
+termination of the lease, we have the option to either purchase the property for
+$48,000, or arrange for the sale of the property to a third party for at least
+$48,000 with a contingent liability for any deficiency. If
+
+
+
+
+
+the property is not purchased or sold as described above, we will be obligated
+for an additional lease payment of approximately $43,912.
+
+        In August 1998, we entered into an agreement to acquire 6.0 acres of
+land in Sunnyvale, California and the accompanying 79,000 square foot building.
+Under terms of the agreement, we paid $2,500 of the $16,750 purchase price as a
+deposit. In May 1999, we assigned our rights and obligations under the agreement
+to a third-party entity and in exchange received back our $2,500 deposit. We
+subsequently entered into an operating lease for this property. Our lease
+payments will vary based on the LIBOR plus a spread. Our lease payments are
+estimated to be approximately $2,340 on an annual basis over the lease term. The
+lease is for five years and can be renewed for two five-year periods, subject to
+the approval of the third-party entity. At the expiration or termination of the
+lease, we have the option to either purchase the property for $36,000, or
+arrange for the sale of the property to a third party for at least $36,000 with
+a contingent liability for any deficiency. If the property is not purchased or
+sold as described above, we will be obligated for an additional lease payment of
+approximately $32,610.
+
+        All three of the operating leases mentioned above require us to maintain
+specified financial covenants with which we were in compliance as of April 30,
+1999.
+
+        Future minimum annual lease payments as of April 30, 1999, are as
+follows:
+
+
+
+        Rent expense was $5,963, $4,278 and $1,195 for the years ended April 30,
+1999, 1998 and 1997, respectively. Rent expense under certain of our facility
+leases is recognized on a straight-line basis over the term of the lease. The
+difference between the amounts paid and the amounts expensed is classified as
+long-term obligations in the accompanying consolidated balance sheets.
+
+        The total of minimum rental payments to be received through fiscal 2000
+under non-cancelable subleases is $373 as of April 30, 1999.
+
+
+
+
+
+ 4.  ACQUISITION
+
+        On March 17, 1997, we acquired all outstanding shares and options to
+purchase shares of IMC common stock by issuing 748 shares of our common stock
+and options to purchase shares of our common stock. The purchase price related
+to the common stock and options to purchase shares of our common stock was
+$7,350. IMC was founded in 1996 to develop and commercialize Internet/ intranet
+proxy caching software.
+
+        Certain key employees of IMC who continued as our employees were also
+granted vested options to purchase shares of our common stock at a discount to
+the market price of our common stock immediately preceding the acquisition. In
+connection with the granting of discounted options to purchase our common stock,
+we recorded a compensation expense of $3,150 in the fourth quarter of fiscal
+1997. We also recorded a deferred income tax benefit of $1,304, primarily
+related to the compensation charge.
+
+        The acquisition was accounted for as a purchase and, accordingly, the
+results of operations of IMC from the date of acquisition forward have been
+included in our consolidated financial statements. In connection with the
+acquisition, intangible assets of $8,362 were acquired, of which $7,369 was
+reflected as a one-time charge to operations for the write-off of purchased
+in-process research and development that had not reached technological
+feasibility and, in management's opinion, had no probable alternative future
+use. The $10,519 combined one-time charge for purchased in-process technology
+and compensation expense has been reflected in our fiscal 1997 consolidated
+statement of income within operating expenses. The remaining intangible assets
+of $993, consisting of existing technology and goodwill, are included in other
+assets in the accompanying consolidated balance sheets and are being amortized
+over their estimated useful lives of five years.
+
+
+        In connection with the acquisition, net assets acquired were as follows:
+
+
+
+
+
+
+
+        The following unaudited pro forma information shows the results of
+operations for fiscal 1997 as if the IMC acquisition had occurred at the
+beginning of fiscal 1997 and at the purchase price established in March 1997.
+The results are not necessarily indicative of what would have occurred had the
+acquisition actually been made at the beginning of fiscal 1997 or of future
+operations of the combined companies. The pro forma results for fiscal 1997
+combine our results of operations for the fiscal year ended April 30, 1997 with
+the results of IMC for the period from inception (May 6, 1996) through the date
+of acquisition and include the $10,519 charge for purchased in-process
+technology and the related compensation charge, as well as the related tax
+benefits, and the straight-line amortization of intangible assets over a period
+of five years.
+
+
+
+
+5.  LINE OF CREDIT
+
+        In July 1998, we negotiated a $5,000 unsecured revolving credit facility
+with a domestic commercial bank. Under terms of the credit facility, which
+expires in July 1999, we must maintain various financial covenants. Any
+borrowings under this agreement bear interest at either LIBOR plus 1% or at the
+lender's "prime" lending rate, such rate determined at our discretion. In
+December 1998, we drew a $2,500 letter of credit against our line of credit to
+facilitate requirements associated with the acquisition of land in Sunnyvale,
+California and the accompanying 79,000 square foot building.
+
+        We also have foreign exchange facilities used for hedging arrangements
+with several banks that allow us to enter into foreign exchange contracts of up
+to $55,000, of which $25,099 was available at April 30, 1999.
+
+6.  SHAREHOLDERS' EQUITY
+
+        Follow-on Public Offering--In March 1999, we completed a public offering
+of 2,875 shares of our Common Stock and received net proceeds of $138,834.
+
+        Stock Split--On December 21, 1998, the Company effected a two-for-one
+stock split of the outstanding shares of common stock. All share and per share
+amounts in these consolidated financial statements have been adjusted to give
+effect to the stock split.
+
+        Preferred Stock--Our Board of Directors has the authority to issue up to
+5,000 shares of preferred stock and to determine the price, rights, preferences,
+privileges and restrictions, including voting rights, of those shares without
+any further vote or action by the shareholders.
+
+        Stock Option Plans--We adopted the 1993 Stock Option/Stock Issuance Plan
+(the "1993 Plan") in April 1993. In September 1995, we adopted the 1995 Stock
+Incentive Plan (the "1995 Plan"). The 1995 Plan replaced the 1993 Plan, and
+provides for the grant of options and the issuance of common stock under terms
+substantially the same as those provided under the 1993 Plan, except that the
+1995 Plan does
+
+
+
+
+
+not allow for the exercise of options prior to vesting. Accordingly, all options
+and shares issued under the 1993 Plan were incorporated into the 1995 Plan upon
+the effectiveness of our initial public offering.
+
+        Under the 1995 Plan, the Board of Directors may grant to employees,
+directors and consultants options to purchase shares of our common stock. The
+exercise price for an incentive stock option and a nonqualified stock option
+cannot be less than 100% and 85%, respectively, of the fair market value of our
+common stock as determined by the Board of Directors on the date of grant.
+Options granted under the 1995 Plan generally vest at a rate of 25% on the first
+anniversary of the vesting commencement date and then ratably over the following
+36 months. Options expire as determined by the Board of Directors, but not more
+than ten years after the date of grant.
+
+        In April 1997, the Board of Directors adopted the Special Non-Officer
+Stock Option Plan (the "Non-Officer Plan") which provides for the grant of
+options and the issuance of common stock under terms substantially the same as
+those provided under the 1995 Plan, except that the Non-Officer Plan allows only
+for the issuance of nonqualified options to non-officer employees.
+
+        A summary of the combined activity under our stock option plans and
+agreements is as follows:
+
+
+
+        Options for the purchase of 6,177 shares of common stock were vested as
+of April 30, 1999. Unvested common shares issued under the 1993 Plan of 69 as of
+April 30, 1999 are subject to repurchase by the Company.
+
+
+
+
+
+Additional information regarding options outstanding as of April 30, 1999 is as
+follows:
+
+
+
+        Employee Stock Purchase Plan--Under the Employee Stock Purchase Plan,
+employees are entitled to purchase shares of our common stock at 85% of the fair
+market value at certain specified dates. Of the 1,800 shares authorized to be
+issued under this plan, 797 shares were available for issuance at April 30, 1999
+and 273 and 402 shares were issued in fiscal 1999 and 1998, respectively, at a
+weighted average price of $11.21 and $4.21, respectively.
+
+        Pro Forma Information--As discussed in Note 2, we continue to account
+for our stock-based awards using the intrinsic value method in accordance with
+APB No. 25, "Accounting for Stock Issued to Employees" and its related
+interpretations. Accordingly, no compensation expense has been recognized in the
+financial statements for employee stock arrangements with the exception of $667,
+$270 and $85 in fiscal 1999, 1998 and 1997, respectively, which consists of the
+amortization of deferred stock compensation related to the granting of
+nonqualified stock options at exercise prices below market.
+
+        In fiscal 1999, we recorded $230 compensation expense for the fair value
+of options granted to an independent contractor.
+
+        SFAS 123 requires the disclosure of pro forma net income and net income
+per share had we adopted the fair value method as of the beginning of fiscal
+1996. Under SFAS 123, the fair value of stock-awards to employees is calculated
+through the use of option pricing models, even though such models were developed
+to estimate the fair value of freely tradeable, fully transferable options
+without vesting restrictions, which significantly differ from our stock option
+awards. These models also require subjective assumptions, including future stock
+price volatility and expected time to exercise, which
+
+
+
+
+
+greatly affect the calculated values. Our calculations were made using the
+Black-Scholes option pricing model with the following weighted average
+assumptions:
+
+
+
+        Our calculations are based on a multiple option valuation approach and
+forfeitures are recognized as they occur. If the computed fair values of the
+awards issued beginning in fiscal 1996 had been amortized to expense over the
+vesting period of the awards, pro forma net income (loss) and net income (loss)
+per share would have been as follows:
+
+
+
+        However, the impact of outstanding non-vested stock options granted
+prior to fiscal 1996 has been excluded from the pro forma calculations;
+accordingly, the fiscal 1999, 1998 and 1997 pro forma adjustments are not
+indicative of future period pro forma adjustments, when the calculation will
+apply to all applicable stock options.
+
+        Deferred Stock Compensation--In May 1995, we issued stock options for
+the purchase of 2,126 shares of common stock at $0.07 per share. We recognized
+$515 of deferred compensation in May 1995 equal to the difference between the
+option price as determined by the Board of Directors and $0.32 (the deemed fair
+value for financial reporting purposes) for each option. We are amortizing the
+deferred compensation expense ratably over the four-year period in which the
+options vest.
+
+        We recorded $916 and $714 of deferred compensation in fiscal 1999 and
+1998, respectively, primarily related to the grant of stock options to certain
+highly compensated employees. Under terms of the 1995 Stock Option Plan, highly
+compensated employees as defined by our management are eligible to contribute
+between $15 to $75 in annual salary for the rights to be granted nonqualified
+stock options. The discount from fair market value which is equal to the amount
+of salary contributed has been recorded as deferred compensation expense. We are
+amortizing the deferred compensation expense ratably over a one-year period.
+
+
+
+
+
+7.      INCOME TAXES
+
+The provision for income taxes consists of the following:
+
+
+
+
+
+        Deferred income taxes result from differences in the timing of certain
+expense items for tax and financial reporting purposes.
+
+        The provision for income taxes differs from the amount computed by
+applying the statutory federal income tax rate as follows:
+
+
+
+        The income tax benefits associated with dispositions from employee stock
+transactions reduced taxes currently payable by $17,776, $4,291 and $2,487,
+respectively, for fiscal 1999, 1998 and 1997.
+
+
+
+
+        Income before income taxes is as follows:
+
+
+
+        Current net deferred tax assets are $10,134 and $5,280, as of April 30,
+1999 and April 30, 1998, respectively. Non-current net deferred tax assets at
+April 30, 1999 and 1998 of $1,593 and $1,363, respectively, are included in
+other assets within the accompanying consolidated balance sheets.
+
+        The components of our net deferred tax assets are as follows:
+
+
+
+
+        As of April 30, 1999, we had federal and state research and development
+credit carryforwards of approximately $2,227 available to offset future taxable
+income. These carryforwards expire in various years through 2019.
+
+ 8.  SEGMENT, GEOGRAPHIC AND CUSTOMER INFORMATION
+
+
+        We adopted SFAS 131 at April 30, 1999. SFAS 131 establishes annual and
+interim reporting standards for an enterprise's operating segments and related
+disclosures about its products, services, geographic areas and major customers.
+Under SFAS 131, we operate in one reportable industry segment: the design,
+manufacturing and marketing of high-performance network attached data storage
+and access devices. For the years ended April 30, 1999, 1998 and 1997, we
+recorded revenue from customers throughout the United States and Canada; Europe;
+Latin America, Australia and Asia Pacific.
+
+
+
+
+
+        The following presents net sales for the years ended April 30, 1999,
+1998, and 1997 by geographic area and long-lived assets as of April 30, 1999 and
+1998 by geographic area.
+
+
+
+        Net sales above are attributed to regions based on where products are
+shipped to.
+
+        International sales include export sales primarily to Germany, United
+Kingdom, Japan, France, Sweden, Canada and Australia. No single foreign country
+accounted for 10% or more of net sales in fiscal 1999, 1998 and 1997.
+
+        No customer accounted for 10% or more of net sales in fiscal 1999, 1998
+or in fiscal 1997.
+
+ 9.  LITIGATION
+
+        The computer industry is characterized by frequent litigation regarding
+intellectual property rights. During fiscal 1995 a lawsuit of this nature was
+filed against us and two of our shareholders (the "Whipsaw Litigation"). During
+fiscal 1997, we settled the Whipsaw litigation and recorded a pre-tax expense of
+$4,300 ($3,500 in payments to the plaintiffs and $800 in legal fees). In
+connection with the settlement, the Whipsaw group released us from all
+liabilities. We deny any wrongdoing on our part or on the part of the founder.
+
+10.     FINANCIAL INSTRUMENTS FAIR VALUE DISCLOSURE
+
+        The following disclosures are made in accordance with the provisions of
+Statement of Financial Accounting Standards No. 107, "Disclosures About Fair
+Value of Financial Instruments" ("SFAS 107"), which requires the disclosure of
+fair value information about both on- and off-balance sheet financial
+instruments where it is practicable to estimate the value. Fair value is defined
+in SFAS 107 as the amount at which an instrument could be exchanged in a current
+transaction between willing parties, other than in a forced or liquidation sale.
+None of the financial instruments are held or issued for trading purposes.
+
+        At April 30, 1999, we had $29,638 of outstanding foreign exchange
+contracts in British Pounds and European Currency Units. These foreign exchange
+contracts are adjusted to the fair value at the end of every month. There were
+no foreign exchange contracts in the prior year. Unrealized gains or losses on
+foreign exchange contracts were not significant at April 30, 1999. Other than
+foreign exchange contracts, we have not entered into any other material
+financial derivative instruments.
+
+
+
+
+
+        The fair values of cash and cash equivalents and short-term investments
+reported in the balance sheets approximate their carrying value. The fair value
+of short-term investments and foreign exchange contracts is based on quoted
+market value.
+
+11.  EMPLOYEE BENEFIT PLAN
+
+        We have established a 401(k) tax-deferred savings plan ("Savings Plan").
+Employees meeting the eligibility requirements, as defined, may contribute
+specified percentages of their salaries. We contributed $314, $202 and $119 for
+fiscal 1999, 1998 and 1997, respectively.
+
+
+
+12.  SELECTED QUARTERLY FINANCIAL DATA (UNAUDITED)
+
+
+
+
+
+
+
+
+
+ ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+          FINANCIAL DISCLOSURE
+
+        None.
+
+                                    PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+        The information required by this Item with respect to the Company's
+executive officers is incorporated herein by reference from the information
+under Item 1 of Part I of this Report under the section entitled "Executive
+Officers". The information required by this Item with respect to the Company's
+directors is incorporated herein by reference from the information provided
+under the heading "Election of Directors" of the Definitive Proxy Statement
+which will be filed with the Commission. The information required by Item 405 of
+Regulation S-K is incorporated herein by reference from the information provided
+under the heading "Section 16(a) Beneficial Ownership Reporting Compliance" of
+the Proxy Statement.
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+        Information regarding the compensation of executive officers and
+directors of the Company is incorporated by reference from the information under
+the heading "Executive Compensation and Related Information" in our Proxy
+Statement.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+        Information regarding security ownership of certain beneficial owners
+and management is incorporated by reference from the information under the
+heading "Security Ownership of Certain Beneficial Owners and Management" in our
+Proxy Statement.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+        Information regarding certain relationships and related transactions is
+incorporated by reference from the information under the caption "Employment
+Contracts, Termination of Employment and Change-In-Control Agreements" in our
+Proxy Statement.
+
+                                     PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+
+(a)(1)  The following consolidated financial statements of Network Appliance,
+        Inc. are filed as part of this Form 10-K:
+
+       Independent Auditors' Report
+       Consolidated Balance Sheets -- April 30, 1999 and 1998
+       Consolidated Statements of Income for the years ended April 30, 1999,
+         1998 and 1997
+       Consolidated Statements of Shareholders' Equity and Comprehensive Income
+         for the years ended April 30, 1999, 1998 and 1997
+       Consolidated Statements of Cash Flows for the years ended April 30, 1999,
+         1998 and 1997
+       Notes to Consolidated Financial Statements
+
+
+
+
+
+(a)(2)  Financial Statement Schedule.
+
+       The following financial statement schedule of the Company is filed in
+       Part IV, Item 14(d) of this Annual Report on Form 10-K:
+
+        Schedule II -- Valuation and Qualifying Accounts
+
+        All other schedules have been omitted since the required information is
+not present in amounts sufficient to require submission of the schedule or
+because the information required is included in the consolidated financial
+statements or notes thereto.
+
+
+
+
+(a)(3)  Exhibits
+
+
+
+
+
+
+
+
+
+
+
+
+
+- --------------
+
+        (1)     Previously filed as an exhibit with the Company's Form 8-K dated
+                March 17, 1997.
+
+        (2)     Previously filed as an exhibit with the Company's Annual Report
+                on Form 10-K dated July 25, 1996.
+
+        (3)     Previously filed as an exhibit to the Company's Registration
+                Statement on Form S-1 (No. 33-97864).
+
+        (4)     Previously filed as an exhibit with the Company's Quarterly
+                Report on Form 10-Q dated March 7, 1997.
+
+        (5)     Previously filed as an exhibit with the Company's Annual Report
+                on Form 10-K dated July 23, 1997.
+
+        (6)     Previously filed as an exhibit with the Company's Quarterly
+                Report on Form 10-Q dated December 5, 1997.
+
+        (7)     Previously filed as an exhibit with the Company's Quarterly
+                Report on Form 10-Q dated March 6, 1998.
+
+        (8)     Previously filed as an exhibit with the Company's Annual Report
+                on Form 10-K dated July 22, 1998.
+
+        (9)     Previously filed as an exhibit with the Company's Quarterly
+                Report on Form 10-Q dated September 11, 1998.
+
+        (10)    Previously filed as an exhibit with the Company's Quarterly
+                Report on Form 10-Q dated December 11, 1998.
+
+        (11)    Previously filed as an exhibit with the Company's Quarterly
+                Report on Form 10-Q dated March 11, 1999.
+
+        *       Specified portions of this agreement have been omitted and have
+                been filed separately with the Commission pursuant to a request
+                for confidential treatment.
+
+
+(b) REPORTS ON FORM 8-K.
+
+     NONE.
+
+
+
+
+
+                                   SIGNATURES
+
+        Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Company has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized, on July 12, 1999.
+
+                                        NETWORK APPLIANCE, INC.
+
+                                          By: /s/ DANIEL J. WARMENHOVEN
+                                              -------------------------
+                                                  Daniel J. Warmenhoven
+                                          President and Chief Executive Officer
+
+
+                                POWER OF ATTORNEY
+
+             KNOW ALL MEN BY THESE PRESENTS, that each person whose signature
+appears below constitutes and appoints Daniel J. Warmenhoven and Jeffry R.
+Allen, and each of them, as his true and lawful attorneys-in-fact and agents,
+with full power of substitution and resubstitution, for him and in his name,
+place and stead, in any and all capacities, to sign any and all amendments
+(including post-effective amendments) to this Annual Report on Form 10-K, and to
+file the same, with all exhibits thereto, and other documents in connection
+therewith, with the Securities and Exchange Commission, granting unto said
+attorneys-in-fact and agents, and each of them, full power and authority to do
+and perform each and every act and thing requisite and necessary to be done in
+connection therewith, as fully to all intents and purposes as he might or could
+do in person, hereby ratifying and confirming all that said attorneys-in-fact
+and agents, or any of them, or their or his substitutes, may lawfully do or
+cause to be done by virtue thereof.
+
+        Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+Company and in the capacities and on the dates indicated:
+
+
+
+
+
+
+
+                             NETWORK APPLIANCE, INC.
+                        VALUATION AND QUALIFYING ACCOUNTS
+                    YEARS ENDED APRIL 30, 1999, 1998 AND 1997
+                                 (IN THOUSANDS)
+
+
+
+
+
+
+                                 EXHIBIT INDEX
+
+
+
+
+
+
+
+
+
+
+
+- --------------
+
+        (1)     Previously filed as an exhibit with the Company's Form 8-K dated
+                March 17, 1997.
+
+        (2)     Previously filed as an exhibit with the Company's Annual Report
+                on Form 10-K dated July 25, 1996.
+
+        (3)     Previously filed as an exhibit to the Company's Registration
+                Statement on Form S-1 (No. 33-97864).
+
+        (4)     Previously filed as an exhibit with the Company's Quarterly
+                Report on Form 10-Q dated March 7, 1997.
+
+        (5)     Previously filed as an exhibit with the Company's Annual Report
+                on Form 10-K dated July 23, 1997.
+
+        (6)     Previously filed as an exhibit with the Company's Quarterly
+                Report on Form 10-Q dated December 5, 1997.
+
+        (7)     Previously filed as an exhibit with the Company's Quarterly
+                Report on Form 10-Q dated March 6, 1998.
+
+        (8)     Previously filed as an exhibit with the Company's Annual Report
+                on Form 10-K dated July 22, 1998.
+
+        (9)     Previously filed as an exhibit with the Company's Quarterly
+                Report on Form 10-Q dated September 11, 1998.
+
+        (10)    Previously filed as an exhibit with the Company's Quarterly
+                Report on Form 10-Q dated December 11, 1998.
+
+        (11)    Previously filed as an exhibit with the Company's Quarterly
+                Report on Form 10-Q dated March 11, 1999.
+
+        *       Specified portions of this agreement have been omitted and have
+                been filed separately with the Commission pursuant to a request
+                for confidential treatment.
+

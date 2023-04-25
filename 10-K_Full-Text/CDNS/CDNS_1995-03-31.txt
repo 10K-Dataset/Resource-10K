@@ -1,0 +1,2701 @@
+
+10-K405
+FORM 10-K
+
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                                   FORM 10-K
+
+/X/  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE
+     ACT OF 1934
+
+For the fiscal year ended                      December 31, 1994
+                                       OR
+
+/ /  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES
+     EXCHANGE ACT OF 1934
+
+For the transition period from _________________to ________________
+
+                        Commission file number  1-10606
+
+                          CADENCE DESIGN SYSTEMS, INC.
+             (Exact name of registrant as specified in its charter)
+
+           Delaware                                       77-0148231
+(State or other jurisdiction of                        (I.R.S. Employer
+incorporation or organization)                        Identification No.)
+
+555 River Oaks Parkway, San Jose, California                95134
+(Address of principal executive offices)                  (Zip Code)
+
+Registrant's telephone number, including area code:     (408) 943-1234
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class                    Name of each exchange on which registered
+
+Common Stock, $.01 par value per share             New York Stock Exchange
+
+Securities registered pursuant to Section 12(g) of the Act:  None
+
+Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  Yes      X     No          
+                                                   ---       ---
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein and will not be contained, to the
+best of Registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to
+this Form 10-K.  / X /
+
+Aggregate market value of the voting stock held on February 28, 1995 by
+non-affiliates of the registrant:
+                                  $863,877,764
+
+Number of shares of common stock outstanding at March 24, 1995: 38,260,205
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the Proxy Statement for the Annual Meeting to be held on May 11,
+1995 are incorporated by reference into Part III hereof.
+
+
+
+                          CADENCE DESIGN SYSTEMS, INC.
+
+                          1994 FORM 10-K ANNUAL REPORT
+
+                               
+                                     PART I
+
+
+
+
+
+PART I
+
+ITEM 1.  BUSINESS
+
+         Cadence Design Systems, Inc. ("Cadence" or the "Company") develops,
+markets, and supports electronic design automation ("EDA") software products
+and services that automate, enhance and accelerate the design and verification
+of integrated circuits ("ICs") and electronic systems.  The Company combines
+its software products and professional services to provide customers with
+optimized electronic product development environments ("PDEs").
+
+         Cadence was formed as a  result of the merger of SDA Systems, Inc.
+("SDA") into ECAD, Inc. ("ECAD") in May 1988.  ECAD commenced operations in
+1982.  SDA commenced operations in 1983.  The Company's name was changed to
+Cadence Design Systems, Inc. in June 1988.  In March 1989, Cadence acquired
+Tangent Systems Corporation ("Tangent").  In December 1989, Cadence merged with
+Gateway Design Automation Corporation ("Gateway"), a leading EDA supplier of
+digital logic simulation software.  In July 1990, Cadence merged with Automated
+Systems, Inc. ("ASI"), a company that marketed products and services related to
+the design and manufacture of electronic printed circuit boards ("PCBs") to the
+aerospace, defense, computer and telecommunications industries.  In December
+1991, Cadence merged with Valid Logic Systems Incorporated ("Valid"), a company
+that developed and supported EDA software used to design electronic systems,
+PCBs and applications for electronic product designs involving advanced
+packaging technology such as hybrids and multi-chip modules ("MCMs").  Valid
+had acquired two companies by merger in February 1989:  Integrated Measurements
+Systems, Inc.  ("IMS"), a company that manufactures and markets verification
+systems used in testing prototype application specific integrated circuits
+("ASICs"), and Analog Design Tools, Inc. ("ADT"), a supplier of computer-aided
+engineering ("CAE") software for the design of analog electronic circuits.  In
+June 1993 Cadence acquired the business and certain assets of Comdisco Systems,
+Inc. ("Comdisco") a subsidiary of Comdisco, Inc. Comdisco develops, markets and
+supports digital signal processing software products in the electronic systems
+applications area.  In December 1993, the Company sold its ASI division.  The
+operating results of ASI have been reported as a disposal of a division and
+included as loss (income) from operations of disposed division within operating
+expenses for all years presented.  The loss on disposal of $6.0 million is
+classified in other income (expense) in the Company's 1993 statement of income.
+In August 1994, Cadence acquired Redwood Design Automation, Inc. ("Redwood"), a
+company that had developed microprocessor and microcontroller software products
+in the electronic systems applications area. The operations of Comdisco and
+Redwood comprise the Company's Alta Group.  In December 1994, the Company also
+acquired the business and certain assets of Parsec Software, Inc.  ("Parsec"),
+a company which developed, marketed and supported a software product used for
+static timing analysis in the electronic design area.
+
+CADENCE BUSINESS STRATEGY
+
+         Since the inception of the electronic design automation industry, EDA
+vendors have been operating under a traditional selling business model where
+software products would in general be sold to internal customer design
+automation groups.  These internal groups would then be responsible for
+building software solutions that would be used by that customer's IC, ASIC and
+systems designers.  If problems were subsequently uncovered in the design
+process, the internal design automation groups would ask the EDA vendors to fix
+the problems by coming in after the fact.
+
+         This has not been a satisfactory working relationship and may in fact
+have contributed to the lack of overall satisfaction electronics customers have
+had with the EDA industry in general.   In addition, many of the new
+technologies being adopted by semiconductor and systems companies are requiring
+a new design methodology.  For example, technology changes associated with deep
+sub-micron IC design will significantly impact the way semiconductor companies
+design chips in the future.
+
+         Cadence has recognized a need in the industry for a new approach.  In
+1994, Cadence set a new strategic direction for the Company and a new business
+model has emerged.  Central to this new model are its customers' business
+objectives.  Cadence intends to provide enhanced value by
+
+
+
+
+
+understanding the customer's business objectives and translating these
+objectives into a PDE.  The PDE is a semi-custom solution that will enable the
+building of electronic products that are optimized to a customer's business
+objectives.  Cadence is uniquely qualified to help customers build these PDEs
+by offering a combination of technology components, professional services and
+design and staffing expertise.  Cadence believes that it is positioned to
+provide this new level of partnership to customers because of its broad
+technology base, design technology expertise, large customer franchise and
+global presence.
+
+         Cadence will continue to invest heavily in developing new design
+technologies as technology remains a critical component of an overall PDE.  The
+Company expects the services component of the business to grow at a rate faster
+than the software component in the next few years as its customers recognize
+the enhanced value of this model.
+
+THE ELECTRONIC PRODUCT DEVELOPMENT CYCLE
+
+         ELECTRONIC DESIGN AUTOMATION   EDA refers to the use of engineering
+software to design electronic circuits and systems.  A critical and enabling
+technology for the global electronics industry,  EDA allows engineers to develop
+complex and high quality electronic products within accelerated time-to-market
+schedules. The Company believes EDA software is one of the key forces driving
+electronics innovation and production.
+
+         Virtually all complex computer, telecommunication, aerospace and
+semiconductor projects depend on advanced EDA solutions to handle the large
+amounts of data associated with these designs. In addition, the short product
+life cycles of consumer electronics products depend on the accelerated design
+schedules that EDA software allows. EDA software can literally cut months from
+a production schedule, allowing design teams to complete projects in a time
+frame that would be impossible if done manually.
+
+         Electronics manufacturing has a synergistic relationship with EDA.
+Without EDA simulation software to verify design performance, the design
+quality required for profitable high volume production of ICs and PCBs would be
+compromised.  The capabilities inherent in Electronic Design Automation
+technology have also enabled the quick production time and enormous market
+growth of semi-custom circuits and subsystems such as ASICs, Programmable Logic
+Devices ("PLDs"), Field Programmable Gate Arrays ("FPGAs") and MCMs.
+
+         EDA systems address two major functions in the electronic product
+development cycle:  electrical design, often referred to as CAE, and physical
+design, often referred to as computer-aided design ("CAD").  Together, CAE and
+CAD address the major phases in the design of electronic systems, PCBs, MCMs,
+ASICs, PLDs, FPGAs and full-custom ICs.
+
+         CAE DESIGN PROCESSES  The electrical design process involves design
+description, model development and simulation of the design's behavior and
+timing performance. Additional design automation technologies, such as
+architectural design and logic and test synthesis, can simplify the design
+entry process; IC floorplanning can provide greater accuracy in simulation.
+
+         Design description (called design entry, design capture or schematic
+capture) is the first step in the electronic design process. To handle the
+complexity of large designs, design entry often consists of several levels of
+design description.  At the highest level of abstraction, a design can be
+expressed in a behavioral description, a convention that allows engineers to
+describe large and complex designs quickly.  Behavioral design description
+typically involves the use of equations, or a special design description
+language called a Hardware Description Language ("HDL").
+
+         For digital designs, the most common HDLs are Verilog(R) HDL, a
+language developed by Cadence that is now in the public domain, and VHDL, a
+language standardized and backed by the U.S. Department of Defense and
+supported by Cadence as well as many other EDA vendors.  A similar standard is
+emerging for analog design. Cadence introduced an analog hardware description
+language ("AHDL") in 1994, and is seeking to make it an industry standard.
+
+         Much as a sketch is detailed into a blueprint before building a house,
+behavioral descriptions
+
+
+
+
+
+must be detailed into lower-level descriptions (also called structural designs)
+before the IC or PCB can be manufactured. This process can be done manually, or
+in an automated fashion using a process called logic synthesis.  In structural
+design, the engineer specifically defines components, their interconnections,
+and associated physical properties. This description can be the text file
+produced by logic synthesis, or a graphical drawing called a schematic.  In
+structural design, critical design time is saved by pulling components from an
+electronic library and including them in the design, rather than recreating
+symbols and data for each design.  A database, containing the design's
+electrical characteristics, interconnections and specific design rules is
+automatically created and used as the foundation for subsequent design steps.
+
+         Simulation is used to verify the design electronically before it is
+manufactured, enabling engineers to explore design alternatives quickly and to
+catch costly design errors before the design is manufactured.  Simulation can
+be performed with different levels of design description:  behavioral,
+structural and mixed-level.  These levels allow designers to test their design
+concept, actual structure and performance, and a combination of concept and
+structure.  A key element in the simulation process is the use of component
+libraries containing software models of commonly used parts.  These are either
+developed and supplied by Cadence, or are provided by third-parties such as
+ASIC vendors or independent modeling companies that have certified their
+libraries for use with Cadence's simulation products.
+
+         When the functionality and timing are determined to be correct, the
+engineer generates a netlist.  A netlist is a non- graphic description, in list
+form, of all design components and interconnects.  The netlist is the link
+between the CAE design environment and the CAD process.
+
+         CAD DESIGN PROCESSES  An electronic product's physical design process
+varies depending on whether the final product is a full-custom IC, an ASIC or a
+PCB.  However, the physical design process typically includes the placement of
+devices or components, electrical routing or wiring between those devices and
+components, analysis of the layout to check for compliance with design rules
+and performance specifications and the generation of data for use in
+manufacturing and test activities.
+
+         If the design is a full custom IC, the process includes chip-level
+architectural design, creation of cells and blocks, floorplanning, placement,
+routing and compaction of the cells/blocks, analysis of conformance to
+electrical and physical design rules, analysis of wire lengths, load factors
+and timing performance, and generation of mask data for chip fabrication.  If
+the design is produced as a PCB or MCM incorporating off-the-shelf components,
+full custom ICs and/or ASICs, physical design typically includes floorplanning
+and pre-placement of critical components, automatic or interactive component
+placement, analysis of thermal conditions and high-frequency transmission line
+characteristics, analysis of testability and generation of test documentation,
+pre-manufacturing clean-up or OglossingO of the board design, and generation
+of a wide range of manufacturing data and artwork.
+
+CADENCE'S EDA PRODUCT FAMILY
+
+         Cadence's full line of integrated EDA software solutions has been
+developed to support engineers at two levels. At one level, individual
+engineers need solutions to solve their specific design needs. A second level
+is to support teams of engineers working on larger projects. These engineers
+need to share information across their entire company and can do so effectively
+with a variety of solutions from Cadence.
+
+         Cadence offers a full line of integrated EDA solutions for three basic
+design areas:  IC design, system design and ASIC design, particularly for
+high-performance sub-micron ASICs.
+
+         These three areas include solutions for the electrical and physical
+design of all types of systems, subsystems and ICs, including PCBs, MCMs,
+hybrids, ASICs, PLDs, FPGAs and full custom and semi-custom ICs.
+
+         The major advantages of Cadence products are in the areas of design
+methodologies and integration of electrical and physical design tools.
+Cadence's commitment to industry standard
+
+
+
+
+
+hardware platforms, operating systems and networking protocols allows users to
+configure an open design environment tailored to their specific needs.  As
+design needs grow, the Cadence design environment can be expanded to include
+additional Cadence tools or third-party tools.  Customizing environments can be
+handled through Cadence's Spectrum Services Group, responsible for working with
+customers to define and implement product development environments optimized
+for customer project or product needs.
+
+PRODUCT STRATEGY AND PRODUCTS
+
+     Cadence's goal is to provide technology and services that accelerate the
+creation of innovative electronic products, enabling designers to bring complex
+products to market quickly and reliably. To meet this goal consistently,
+Cadence has adopted the following core product strategies:
+     -  Focus product development efforts on collapsing the most complex and
+        time-consuming aspects of the design process
+     -  Deliver solutions that combine software tools, advanced design
+        methodologies and specialized services to streamline the overall
+        design process and optimize the PDE.
+
+     CORE PRODUCT TECHNOLOGY   Cadence believes that within its solutions
+approach, customers demand high performance point tools for certain functions.
+By focusing technology development efforts to address the most complex and
+time-consuming aspects of the design process, Cadence has delivered a suite of
+individual design tools that has become well known in the industry. These
+tools, which address all major areas of the design process, include:
+     -  Allegro(TM) and Allegro MCM for board and MCM layout respectively, along
+        with integrated layout analysis tools, DF/EM Control(TM),
+        DF/SigNoise(TM), DF/Thermax(TM), and DF/Viable(TM)
+     -  Analog Artist(TM) and Analog Workbench(TM) for analog/mixed-signal IC
+        and system design, respectively, Resolve(TM) for analog/mixed-signal
+        board optimization
+     -  Concept(TM), CheckPlus(TM), Logic Workbench(TM), OpenSim(TM) for
+        board-level design and verification
+     -  Device-Level Editing(TM) for IC layout
+     -  Dracula(R), Diva(TM) and Vampire(TM) for IC physical verification
+     -  Gate Ensemble(TM), Cell Ensemble(TM), Block Ensemble(TM) and QPlace(TM)
+        for IC and ASIC place and route
+     -  Layout Synthesis(TM) for IC synthesis and optimization
+     -  Preview(TM) for ASIC and IC floorplanning
+     -  Profile(TM) analog behavioral language
+     -  Signal Processing Workbench(TM) for DSP electronic system design
+     -  Spectre(TM), Cadence Spice(TM) and SpicePlus(TM) for analog simulation
+     -  SpectreHDL(TM) analog behavioral simulation system
+     -  Synergy(TM) and Placement-Based Synthesis(TM) for circuit synthesis and
+        optimization
+     -  Team Design Manager(TM) and Component Information Workbench(TM) for
+        enterprise data management
+     -  Verilog-XL(TM), Verilog-XL Turbo(TM), Verilog-XL Twin-Turbo(TM) and
+        Leapfrog(TM) VHDL for digital simulation
+     -  Virtuoso(TM) for custom IC layout and library development
+
+     OPEN ENVIRONMENT Cadence pioneered the ability to link and manage a
+variety of design tools under a consistent graphical user interface with the
+introduction of its framework technologies in 1985.   Cadence has continued to
+enhance its framework capabilities so that designers today can work with
+multiple tools more efficiently. Through its Team Design Manager and Component
+Information Workbench capabilities, Cadence provides for project and data
+management and library development and management, both critical for today's
+large designs and distributed design teams.
+
+         Cadence's software  operates on industry standard workstations from
+Digital Equipment Corporation, Hewlett-Packard/Apollo, International Business
+Machines Corporation and Sun Microsystems, Inc. Cadence believes that it is
+well positioned to port its systems quickly to other UNIX-based workstations
+that may gain broad customer acceptance in the future.
+
+     Cadence works closely with standards organizations to further the value of
+electronic design automation solutions.  Cadence is actively involved with CFI
+(CAD Framework Initiative), OVI
+
+
+
+
+
+(Open Verilog International), VI (VHDL International), and VITAL (VHDL
+Initiative Towards ASIC Libraries).
+
+INTEGRATED DESIGN SOLUTIONS
+
+         Integrated circuit design requirements continue to grow as ICs become
+more complex and product life cycles continue to shrink.  Cadence has a long
+history of providing a full line of EDA software combined with advanced design
+methodologies and specialized services that help solve  semiconductor company's
+evolving design challenges.
+
+         IC DESIGN  Cadence's products have been used in every major type of
+electronic product design ranging from microprocessors that are at the heart of
+personal computers and workstations to mixed signal chips that are driving the
+telecommunications and networking industries.  Cadence's IC solutions feature
+proven tools for custom library development and editing, automated custom
+design, advanced digital and analog and mixed-signal simulation, and IC
+physical verification. Building on this full-line of IC tools, Cadence offers
+complete, front-to-back solutions for designing digital, analog, mixed-signal
+and microwave ICs.  These solutions streamline the design of complex chips and
+help design teams get to market with innovative, high quality products.
+
+         For each step in the IC design process Cadence provides a complete
+design environment to meet individual design tasks.  Cadence's solution
+includes the Virtuoso(TM) product family of custom layout tools with DLE(TM)
+for enhanced layout productivity and Layout Synthesis(TM) for layout synthesis;
+the Ensemble(TM) product family with the new Qplace(TM) placement option
+providing automatic place and route for both ASIC and custom cell-based design
+styles; Chip Assembly Solution for multi-layered block placement and routing;
+the Diva(TM) product family of interactive verification tools; and the
+Dracula(R) product family of physical verification tools.  Cadence recently
+introduced a new IC physical verification tool, Vampire(TM), which provides
+significant new capabilities to verify extremely complex circuits accurately
+and more efficiently than previously available tools.
+         
+         For analog designers, Cadence offers complete front-to-back solutions
+for analog, mixed-signal and microwave circuits. The Analog Artist(TM) for IC
+design provides advanced simulation, layout and verification, featuring
+products like the Profile(TM) behavioral modeling and simulation software and
+the Spectre(TM) high-speed circuit simulator.  This solution supports design
+teams with productive tools for fast, early evaluation of design alternatives
+on complex analog designs, allowing teams to manage the critical
+interdependencies between electrical design and physical layout.  In 1994,
+Cadence announced SpectreHDL(TM), the industry's first analog behavioral
+simulation system for analog and mixed-signal applications.
+
+         Cadence's front-to-back IC solution includes a unique timing-driven
+design methodology to minimize costly downstream iterations. All tools, from
+synthesis and simulation to floorplanning and place and route, share critical
+timing information to maintain consistency and ensure that key performance
+requirements are met.
+
+         SYSTEM DESIGN  Cadence provides front-to-back digital, analog and
+mixed-signal system design solutions.   During 1994, Cadence significantly
+enhanced its solution by adding additional capabilities to help customers meet
+the growing challenges of successfully incorporating increasingly complex
+silicon into system designs for computer, telecommunications, consumer,
+automotive, and avionics  applications.
+
+         For board-level design and verification, Cadence provides a complete
+flow. Concept(TM) is a mixed-level schematic and HDL design entry tool.
+CheckPlus(TM) is a user-customizable rule checking system.  Cadence's Logic
+Workbench(TM) is a mixed-level simulation environment that features the
+OpenSim(TM) simulation backplane for integrating a variety of commercial or
+customer simulators.  Verilog-XL(TM) and Leapfrog(TM) VHDL are fully supported
+within the OpenSim(TM) environment.
+
+         Allegro(TM), one of the industry's most comprehensive and
+production-proven systems physical  design environments includes: the
+DF/Viable(TM) reliability analyzer, the DF/SigNoise(TM) and signal integrity
+analysis modules, the DF/Thermax(R) thermal analysis software and
+DF/EMControl(TM) for
+
+
+
+
+
+electromagnetic compliance.
+
+         For analog and mixed-signal board and system design, Cadence provides
+the Analog Workbench(TM), for top-down, front-to-back analog design. The Analog
+Workbench(TM) provides simulation tools, integrated physical layout, extensive
+analog model libraries and advanced analysis tools for tasks such as thermal
+analysis and post-layout simulation with extracted temperatures.  The Resolve
+Optimizer(TM) tunes (optimizes) design parameters to meet desired system or
+circuit performance specifications.
+
+         Cadence's system design tools, combined with design methodologies such
+as rules-driven design and correct-by-design, allow engineers to shorten design
+cycles and improve the product quality of high-speed PCBs, MCMs, hybrids and
+multiwire boards.
+
+         With Cadence's solutions, important design or technology
+considerations are defined in advance and are automatically checked and
+enforced throughout the design process to shorten design cycles and optimize
+designs for performance, quality and cost.  For additional accuracy,
+flexibility and overall process control, Cadence's unique "synchronized"
+library approach and in-process analysis tools cover electrical, thermal,
+reliability, testability, manufacturing and design management constraints.
+
+         ASIC DESIGN  Cadence helped pioneer the use of top-down design by ASIC
+designers with its Verilog-XL(TM) simulator and Verilog(R) HDL design language.
+Building on what is now the most broadly used top-down method in the industry,
+Cadence offers a complete and production-proven top-down design system.
+
+         Capabilities offered include a flexible environment  with Composer(TM)
+mixed-level design entry using either Verilog HDL or VHDL; large-capacity,
+high-performance logic synthesis and optimization with the Synergy and
+Placement-Based Synthesis software; fully integrated mixed-level logic
+simulation with Verilog-XL(TM), Verilog-XL Turbo, Verilog-XL Twin Turbo and
+Leapfrog(TM) VHDL verification tools.  In addition, the Preview(TM)
+floorplanner enables the sharing of consistent timing data from design entry
+through place and route. Completing the ASIC design process is Cadence's Gate
+Ensemble(TM) place and route system and the new QPlace(TM) option for place and
+route.  A new series of design-for-test tools, offering advanced test synthesis
+and test pattern generation capabilities, helps to shorten ASIC design cycles
+and improve yields.  With Cadence's Model Import capability, customers can use
+VHDL for top-down (HDL) design and verify their designs with the Verilog
+simulation models that are widely adopted by the major ASIC vendors.
+
+         Cadence's extensive list of over 185 ASIC libraries and endorsements
+from major ASIC vendors help ensure a production path for the most complex,
+leading-edge ASIC designs.
+
+         Although a top-down design methodology has been available for some
+time, many designers have not yet adopted it because of the perceived risks
+involved.  To help designers make the transition to top-down design, Cadence
+introduced a complete packaged solution of simulation and synthesis software
+and specialized services in 1994.
+
+         With the advent of deep submicron technologies, ASIC designers need to
+adopt a whole new design approach.  Cadence is leading the industry in deep
+sub-micron design by providing new methodologies and new technologies.  During
+1994, Cadence announced Silicon Synthesis(TM) to help bridge the gap between
+logical and physical design.  Silicon Synthesis is part of Cadence's new
+Silicon Based Logic Design (SBLD) methodology to address the issues associated
+with deep sub-micron design.
+
+         ELECTRONIC SYSTEM DESIGN AUTOMATION ("ESDA") Cadence continues to
+invest in new areas of electronic design automation that further the
+productivity and quality of our customers' design process.  With the formation
+of the Alta Group, Cadence is  able to provide customers with  a higher level
+of design automation for a number of applications areas including wireless
+communications, networking and multi-media.
+
+         ESDA is seen as a natural evolution of EDA that enables customers to
+include product concept
+
+
+
+
+
+in the design environment.  Alta's focus is on Virtual Product Design, a new
+approach that starts with the creation of a product prototype in
+software...what is called virtual prototype.  Virtual prototyping allows the
+designer to focus on what is needed for the product to be successful as opposed
+to how the design is implemented.
+
+         Alta's product offerings include SPW(TM), HDS(TM) and the
+Race/Reveal(TM) Package Components  which include a large applications library
+of design blocks, a complete technology base and a visualization and analysis
+environment.  Once the design is conceptualized, Alta provides links to
+implementation which include multiple capabilities that allow the design to be
+passed downstream to ASIC/IC engineers.
+
+         CADENCE SPECTRUM SERVICES  Customizing design automation systems can
+require a major time and resource investment from the customer. Spectrum
+Services provides a structured consultative approach to analyzing the design
+process. After an extensive review of a customer's business and technical
+objectives and design processes, a comprehensive plan is developed for an
+advanced product development environment. By integrating Cadence's solutions
+with the customer's software tools and third-party and custom-designed tools
+and augmenting the software with expert advice on streamlining the design
+process, customers benefit from a custom optimized Product Development
+Environment.
+
+MARKETING AND CUSTOMERS
+
+         CUSTOMERS AND MARKET STRATEGY   Cadence's customers and target markets
+include computer manufacturers, consumer electronics companies, defense
+electronics companies, merchant semiconductor manufacturers, ASIC foundries and
+telecommunications companies.  In addition, Cadence licenses its products to
+international distributors in certain countries (see "International Sales" below
+in this "Business" section).  In 1994, 1993 and 1992, one customer, Cadence's
+Japanese distributor, Innotech Corporation ("Innotech"), accounted for 10%, 13%
+and 14% of total revenue, respectively.
+
+         CUSTOMER SUPPORT  Cadence's support group helps tailor new tools to a
+customer's existing design environment, train designers on how to best utilize
+their EDA software and provide ongoing software updates to enhance product
+capabilities. The backbone of the global customer support process is the
+customer response center program. These centers give Cadence customers
+worldwide access to solution and product experts. A dedicated team of
+application engineers is available to address customer applications issues as
+well as provide links between customers and Cadence's product developers.
+
+         CUSTOMER PARTNERSHIPS  Cadence has established close working
+relationships with a number of semiconductor manufacturers and electronic
+systems companies based on a business partnership model that has become a
+central business model for the Company.   To ensure that research and
+development activities are properly prioritized, and also that finished
+products meet customers' needs, major new product developments begin after
+collaboration with a Cadence customer/partner.
+
+         There are presently several variations of Cadence partnerships:  four
+groups of technology partnerships (involving Cadence's IC, HDL and Systems
+Groups, respectively) and a fifth group that focuses on development of specific
+products ("Product Development Partnerships").
+
+         These technology partnerships allow Cadence to work with customers'
+designers  in defining and developing state-of-the-art solutions for current
+and emerging design approaches.  Through an engineer exchange program,
+customers will often work on-site at Cadence facilities, giving Cadence
+valuable insight into customer product planning.  Product Development
+Partnerships are generally directed at the development and refinement of
+specific tools.
+
+         INDUSTRY ALLIANCES  Cadence cooperates with other design automation
+vendors to deliver full-scope technology to its customers.  Through Cadence's
+Connections(TM) Program, customers can more easily integrate Cadence products
+and technologies with other company's products and technologies. This provides
+customers with the flexibility to mix and match third-party and proprietary
+tools to
+
+
+
+
+
+specifically meet their design automation needs. Today over 90 companies have
+integrated their tools with Cadence's software.
+
+            UNIVERSITY SOFTWARE PROGRAM  Cadence supports EDA research by
+sharing its design automation technology and expertise with universities. More
+than 500 universities worldwide participate,  including the University of
+California at Berkeley, Duke University, the Massachusetts Institute of
+Technology and Stanford University.
+
+SALES
+
+            As of December 31, 1994, Cadence had 738 employees engaged in field
+sales and sales support, representing approximately 30% of its total workforce.
+Cadence's salesforce presents Cadence and its products for licensing to
+prospective customers, while applications engineers provide technical pre-sales
+as well as post-sales support.  Due to the complexity of EDA products, the
+selling cycle is generally long, with three to six months being typical.
+Activities during this sales cycle typically consist of a technical
+presentation, a product demonstration, a design benchmark and often, an on-site
+customer evaluation of Cadence software.
+
+            NORTH AMERICAN SALES  In the domestic market Cadence uses a direct
+sales force, utilizing both sales people and applications engineers in each
+territory to license its products.  As of December 31, 1994, Cadence had 328
+regional sales people and applications engineers licensing and supporting
+Cadence's products and 64 other sales and support personnel in the United
+States and Canada.  Cadence maintains domestic sales and support offices at
+various locations across the United States.
+
+            INTERNATIONAL SALES  In Europe and Asia, Cadence markets and
+supports its products primarily through 12 majority-owned subsidiaries, which,
+as of December 31, 1994, employed 246 salespeople and applications engineers
+and 100 other sales and support personnel.
+
+            Cadence licenses its IC products in Japan primarily through a
+distributor, Innotech.    Cadence's systems products are marketed in Japan
+through a majority-owned subsidiary and, until 1992, through a distributor,
+CIC, Inc.  In March 1992 Cadence reached an agreement to acquire CIC, Inc. and
+consolidated its systems product marketing in Japan utilizing its subsidiary in
+Japan, Cadence Design Systems K.K. ("Cadence K.K.").
+
+            Cadence also serves its international customers through a
+manufacturer's representative in Europe, European Silicon Structures B.V.
+("ES2").  The Company also uses distributors in various countries.  In The
+People's Republic of China, Brazil, Australia, India, Singapore, Spain,
+Portugal, Greece and Turkey, Cadence uses IMAG Industries, QuickChip Eng. E.
+Ltda., Cadence Design Systems Pty Ltd., Wipro, CAD/CAM Systems, SIDSA,
+Technologias de Microelectronica, AMBIT Limited and MOMENTUM, respectively, as
+its distributors.
+
+            Revenue from international sources was $221.6 million, $183.6
+million and $215.4 million or approximately 52%, 50% and 51% of total revenue
+for the years ended December 31, 1994, 1993 and 1992, respectively.
+
+            Prices for international customers are quoted from an international
+price list.  The list is maintained in U.S. dollars but reflects the higher
+cost  of doing business outside the United States.  International customers are
+invoiced in U.S. dollars using current exchange rates or the local currency.
+In light of the large portion of Cadence's revenue derived from international
+sales, if the dollar strengthens in relation to the Japanese yen or certain
+European currencies, Cadence's revenue from international sales may be
+adversely affected.  Foreign subsidiaries' marketing and support expenses are
+incurred in local currency and license fees paid by the subsidiaries to Cadence
+are paid in local currency or U.S. dollars.  Cadence is subject to the currency
+conversion risks inherent in international transactions.  It is Cadence's
+policy to manage and minimize its foreign exchange risks.  Cadence enters into
+forward exchange contracts to reduce the impact of foreign currency
+fluctuations resulting from transaction gains and losses, and any gains or
+losses resulting from these transactions are recorded to other income and
+expense in the Company's statement of income. Cadence is required to have
+United States Department of Commerce export licenses for shipment of its
+products outside
+
+
+
+
+
+the United States.  Although to date Cadence has not encountered any material
+difficulty in obtaining these licenses, any difficulty in obtaining necessary
+export licenses in the future could have an adverse effect on revenue.
+
+SERVICE AND SUPPORT
+
+            STANDARD SERVICE AND SUPPORT  Cadence believes that customer
+support is a key factor in successfully marketing EDA products and generating
+repeat orders.  A majority of Cadence's customers have purchased one-year
+renewable maintenance contracts.
+
+            Product maintenance contracts entitle the customers to product
+updates, documentation and ongoing support.  Cadence tracks all service reports
+using an on-line database that provides a mechanism for tracking progress in
+solving any reported problem from first report to final software solution.
+
+            ENHANCED SERVICE AND SUPPORT  Installing a new design automation
+system, tailoring it to a customer's design environment and training designers
+in the efficient use of this new system requires a major time and resource
+investment from the customer.  In response to customer requests, Cadence has
+developed an enhanced consulting service capability.  Cadence consulting
+services is comprised of Cadence employees; application and consulting
+engineers, whose services can be retained by customers to provide a wide range
+of engineering activities that include training, contract programming, design
+and building PDEs including outsourcing of a customer's design activities.
+These services are intended to assist customers in becoming productive quickly
+through use of Cadence products and methodologies, thereby improving customer
+satisfaction and increasing the likelihood of follow-on sales.
+
+PRODUCT DEVELOPMENT AND ENGINEERING
+
+            As of December 31, 1994, Cadence's product development was
+performed by 774 employees, 448 employees located at its research and
+development facilities in San Jose, Foster City, Santa Cruz and San Diego,
+California, 113 employees in Chelmsford, Massachusetts, 98 employees in India,
+18 employees in Taiwan and 17 employees in Lawrence, Kansas.  The Company also
+has 9 employees in various locations throughout North America and 3 individuals
+in Europe and Asia. The development group includes experts in database
+structures and industry specific algorithm technology.  In June 1990, the
+Company entered into a joint venture  ("EuCAD") as majority owner with ES2.
+During 1992, the Company acquired the minority interest in the joint venture.
+EuCAD has 18 employees in the U.K. and specializes in research and development
+activities in the EDA and ASIC design markets.  The Company also has 50
+employees in Beaverton, Oregon at its IMS subsidiary.
+
+            For the years ended December 31, 1994, 1993 and 1992, Cadence's
+research and development expenses were approximately $83.4 million, $84.3
+million and $81.2 million (before capitalizing approximately $10.8 million,
+$15.2 million and $14.7 million of software development costs in 1994, 1993 and
+1992), respectively.  Cadence began capitalizing certain of its software
+development costs in 1986 in accordance with Statement of Financial Accounting
+Standards No. 86.  See Note 2 of Notes to Consolidated Financial Statements at
+December 31, 1994 for a more complete description of Cadence's capitalization
+of certain software development costs.
+
+            Certain faculty members from the University of California at
+Berkeley, considered to be a leading university for IC design software
+research, have served as consultants to Cadence since its inception.  These
+consultants have helped Cadence to stay abreast of the latest developments and
+directions in the rapidly changing IC design software industry.
+
+COMPETITION
+
+          The Company faces intense competition in the EDA product market,
+which continues to be characterized by aggressive pricing practices and new
+market entrants.  The Company competes with other companies that sell competing
+products and with internal EDA software development groups of potential
+customers.  Some of the Company's competitors may have substantially greater
+financial,
+
+
+
+
+
+marketing and technological resources than the Company.  There can be no
+assurance that the Company will be able to compete successfully.
+
+         Because the EDA industry is labor intensive rather than capital
+intensive, the number of potential competitors to the Company is significant.
+A potential competitor who possesses the necessary knowledge of electronic
+circuit and systems design, production and operation could develop EDA tools
+using a moderately priced computer workstation and bring such tools to market
+quickly.  If such an EDA software tool were to surpass the technology of a tool
+of the Company, the attention of customers might rapidly shift to the new tool,
+resulting in a precipitous decline in the sales of the Company's comparable
+product.
+
+         The Company has in the past discounted EDA product prices where deemed
+necessary for competitive reasons or in connection with volume purchase
+agreements with major customers.  In the past, discounts of up to 60% of the
+list prices of the EDA products have been given.  Although the Company is
+striving to reduce discounts, it anticipates that it may be required to
+discount EDA product prices under similar circumstances in the future.
+
+PROPRIETARY RIGHTS
+
+            Cadence relies principally upon a combination of patent, copyright
+and trade secret laws and license or nondisclosure agreements to protect its
+proprietary interest in its products.   Cadence's products are generally
+licensed to end users pursuant to a license agreement that restricts the use of
+the products to the customer's internal purposes.  Cadence protects the source
+code version of its products as a trade secret and as an unpublished
+copyrighted work or, on a limited basis through patents.  Cadence has made
+portions of its source code available to certain customers  under very limited
+circumstances, subject to confidentiality, use and other restrictions.  Despite
+these precautions, it may be possible for third parties or former employees to
+copy aspects of Cadence's products or to obtain and use information without
+authorization that Cadence regards as proprietary.  The Company has relatively
+few patents, and existing copyright laws afford only limited protection.  There
+has been an increase in the number of patents issued in the United States
+relating to EDA software, and, accordingly, the risk of patent infringement in
+the industry can be expected to increase.  In addition, effective patent,
+copyright and trade secret protection for software products may be unavailable
+in certain foreign locations.
+
+            Cadence believes that patent, trade secret and copyright protection
+are less significant to Cadence's success than factors such as the knowledge,
+ability and experience of Cadence's personnel, new product development,
+frequent product enhancements, name recognition and ongoing reliable product
+maintenance.  Cadence does not believe that its products or processes infringe
+on existing proprietary rights of others.
+
+            DRACULA(R), Verilog(R), Prance(R), BONeS(R), Verifault-XL(R),
+DIVA(R), SPW(R) and Thermax(R) are registered trademarks of Cadence, and many
+of the other Cadence product and product family names used are common law
+trademarks of Cadence.
+
+MANUFACTURING AND BACKLOG
+
+            Cadence's software production operations consist of configuring the
+proper version of a product, recording it on magnetic tape or CD-ROM, and
+producing customer unique access keys which allow customers to use purchased
+products.  User manuals and other documentation are generally available on
+CD-ROM, but are occasionally supplied in hard copy format.  Shipments are
+generally made within two weeks of receiving an order.
+
+            Cadence's product line includes a series of design verification
+systems offered by IMS.  Logic Master is a family of design verification
+systems designed to work with most computer systems, workstations or terminals
+to receive and execute test commands and report the results of test procedures.
+These systems are designed to match varying customer requirements.  Generally,
+they differ from one another as to speed, size of the device to be verified and
+flexibility in the number and variety of applications in which a system can be
+used and price.
+
+
+
+
+
+EMPLOYEES
+
+            As of December 31, 1994, Cadence employed 2,449 persons, including
+1,429 in sales, marketing, support and manufacturing activities, 774 in product
+development and 246 in management, administration and finance.  Of these
+employees, 1,903 were located in the United States and 546 were located in 14
+other countries.  None of Cadence's employees are represented by a labor union,
+and Cadence has experienced no work stoppages.  Cadence believes that its
+employee relations are good.
+
+            Competition in recruiting of personnel in the software industry is
+intense.  Cadence believes that its future success will depend in part on its
+continued ability to recruit and retain highly skilled management, marketing
+and technical personnel.
+
+ITEM 2.      PROPERTIES
+
+            During June 1989 Cadence acquired a 49% interest as a limited
+partner in a real estate partnership.  Also in 1989, the Company signed
+agreements to lease four buildings located at 535-575 River Oaks Parkway, San
+Jose, California ("the River Oaks Campus") from this limited partnership that
+is the owner of the River Oaks Campus for a period of ten years.  During June
+1991 the Company acquired a 46.5% interest as a limited partner in an
+additional real estate partnership and signed lease agreements which commenced
+in the second quarter of 1992 to lease three buildings close to the River Oaks
+Campus from the limited partnership for a period of fifteen years.   At this
+same time the Company also acquired an 80% interest in a third real estate
+partnership which purchased adjacent land for future expansion.  The three
+buildings and adjacent land are referred to as "the Seely Campus".
+
+            In March 1994 the Company acquired all third-party interests in the
+Seely Campus for approximately $8.7 million in cash and the assumption of a
+secured construction loan of approximately $23.5 million.  The Company paid off
+the secured construction loan with its cash reserves in May 1994.  In October
+1994 the Company acquired all third-party interests in the River Oaks Campus
+for approximately $5.9 million in cash.  The River Oaks Campus remains subject
+to a secured note in the amount of approximately $23.7 million.   The Company
+expects that it will refinance the secured note of $23.7 million prior to
+August 1995 when it becomes due, or it may elect to pay the secured note with
+its cash reserves. The total square footage of these previously leased
+buildings is approximately 483,000.  The rent expense incurred in 1994 related
+to these buildings was approximately $5.8 million.
+
+            The Company continues to lease three buildings with approximately
+209,000 square feet  at Plumeria Drive in San Jose, California at an annual
+rental rate of approximately $3.4 million.  The leases related to approximately
+129,000 square feet expire in March 1998 and the remaining lease expires in
+February 1999.  Approximately one-third of the square footage of the Plumeria
+facilities has been subleased and the balance remains available for sublease.
+Cadence also leases approximately 100,000 square feet of facilities in
+Chelmsford, Massachusetts at an annual rate of approximately $.5 million.
+Cadence leases additional facilities for its sales offices in the United States
+and various foreign countries, and research and development facilities in  San
+Diego and Santa Cruz, California, Lawrence, Kansas, United Kingdom, France,
+Taiwan and India at an aggregate annual rental of approximately $7.5 million.
+
+            Cadence also leases approximately 75,000 square feet in a building
+in Beaverton, Oregon, at a current annual rental of approximately $.7 million,
+which houses manufacturing, engineering, marketing and administrative
+operations for its IMS subsidiary and a regional software sales office.  The
+Company's Alta group also leases approximately 30,000 square feet in a building
+in Foster City, California at an annual cost of approximately $.6 million.
+
+            Cadence believes that these facilities are adequate for its current
+needs and that suitable additional or substitute space will be available as
+needed to accommodate expansion of Cadence's operations.
+
+
+
+
+
+ITEM 3.      LEGAL PROCEEDINGS
+
+             Securities class action lawsuits were filed against the Company
+and certain of its officers and directors in the United States District Court
+for the Northern District of California, San Jose Division, on April 8 and 9,
+1991.  The lawsuits, which were consolidated into a single action, allege
+violation of certain federal securities laws by maintaining artificially high
+market prices for the Company's common stock through alleged misrepresentations
+and nondisclosures regarding the Company's financial condition.  Court rulings
+in response to the Company's motions to dismiss the lawsuit limited the class
+period to include purchasers of the Company's common stock between January 29,
+1991 and April 3, 1991.
+
+             On March 23, 1993, a separate class action lawsuit was filed
+against the Company and certain of its directors and officers in the United
+States District Court, Northern District of California, San Jose Division.
+This lawsuit, which was consolidated into a single action with two virtually
+identical lawsuits filed later in March and in April 1993, alleges violation of
+certain federal securities laws by maintaining artificially high market prices
+for the Company's common stock through alleged misrepresentations and
+nondisclosures regarding the Company's financial condition.  On November 18,
+1993, the District Court granted the Company's motion to dismiss the 1993
+complaint.  The effect of the ruling was to dismiss the complaint except as to
+a statement allegedly made on January 28, 1993, but plaintiffs were granted
+leave to further amend their complaint.
+
+             In April 1994, the Company entered into tentative agreements to
+settle both of the above class action lawsuits for a combined settlement of
+$16.5 million, of which approximately $7.5 million was covered by the Company's
+insurance carriers.  The agreements are subject to final court approval.  At
+December 31, 1994, the total settlement amount has been remitted into escrow.
+
+
+
+
+ITEM 4.      SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+NONE
+
+
+
+
+
+EXECUTIVE OFFICERS OF THE REGISTRANT
+
+The executive corporate officers of Cadence are as follows:
+
+
+
+
+            Executive corporate officers are appointed by the Board of
+Directors and serve at the discretion of the Board.
+
+
+
+
+
+            JOSEPH B. COSTELLO has served as President and a director of the
+Company since May 1988.  In addition, Mr. Costello has served as Chief
+Executive Officer of the Company since June 1988.  Previously he served as a
+director of SDA Systems, Inc. ("SDA"), from May 1987 to May 1988.  From March
+1986 to March 1987, he served as SDA's President and Chief Operating Officer.
+He is also a director of Oracle Corporation, Microelectronics and Computer
+Technology Corporation and Pano Corporation Display Systems.
+
+            H. RAYMOND BINGHAM joined Cadence in June 1993 as Executive Vice
+President and Chief Financial Officer.  From June 1985 to May 1993 he served as
+Executive Vice President and Chief Financial Officer of Red Lion Hotels and
+Inns,  which owns and operates a chain of 54 hotels.  From 1981 to 1985 Mr.
+Bingham was the Managing Director of Agrico Overseas Investment Company, a
+subsidiary of the Williams Companies, and was responsible for developing and
+managing international manufacturing joint ventures.
+
+            M. ROBERT LEACH joined Cadence in June 1993 as Senior Vice
+President of Spectrum Services.  From September 1981 to June 1993 Mr. Leach
+served as a partner in the worldwide electronics industry consulting practice
+for Andersen Consulting.
+
+            JOHN OLSEN joined Cadence in May 1994 as Senior Vice President of
+Field Operations and became Senior Vice President, Worldwide Sales in January
+1995.  For the five years immediately preceding his joining Cadence, Mr. Olsen
+was a partner with KPMG Peat Marwick.
+
+            SCOTT W. SHERWOOD joined Cadence in July 1990 as Vice President of
+Human Resources and was appointed Senior Vice President, Human Resources in
+February 1992.  From 1983 to 1990, he was Vice President Human Resources of
+Mead Data Central, a division of Mead Corporation and provider of information
+services to the legal community.
+
+            JAMES E. SOLOMON has served as a director of the Company since May
+1988.  Mr. Solomon has also served as Senior Vice President and Principal
+Technologist for the Company since February 1994.  Prior to that, he served as
+Senior Vice President of the Company's Analog Division from February 1993 to
+February 1994 and as President of the Company's Analog Division from December
+1988 to February 1993.  Mr. Solomon also served as Co-Chairman of the Board of
+Directors of the Company from May 1988 until May 1989.  As a founder of SDA,
+Mr. Solomon served as its Chief Executive Officer from its inception in July
+1983 to May 1988, as its President from July 1983 to March 1987, and its
+Chairman of the Board from March 1987 until its merger with ECAD, Inc. in May
+1988.  Mr.  Solomon is also the Chairman of the Board of Smart Machines, Inc.
+
+            MARK S. GARRETT joined Cadence in June 1991 as Division
+Controller/Director of Finance, Systems Division.  From December 1991 to
+January 1995 Mr. Garrett held various financial positions at Cadence including
+Division Controller/Director of Finance, CAE Division; Group Director,
+Technology Development Finance; and Group Director, Spectrum Services Business
+Operations.  In February 1995 Mr. Garrett was appointed Vice President
+Corporate Financial Planning and Analysis.  Prior to joining Cadence, Mr.
+Garrett held various financial positions at IBM Corporation since June 1979,
+most recently as Site Financial Planning Manager, Storage Systems Products
+Division.
+
+            DOUGLAS J. MCCUTCHEON joined Cadence in January 1991 as its
+Director, Financial Planning and Analysis, and in July 1991 became its Vice
+President, Corporate Finance.  From November 1989 to November 1990, Mr.
+McCutcheon was President of Toshiba America Medical Credit, Inc., the
+wholly-owned captive financing subsidiary of Toshiba America Medical Systems,
+Inc., which sells and provides maintenance services for diagnostic and
+therapeutic medical systems.  From November 1980 to November 1989, Mr.
+McCutcheon held various positions with Diasonics, Inc., a medical equipment
+company, most recently as Vice President and Treasurer.
+
+            WILLIAM PORTER joined Cadence in February 1994 as Vice President,
+Corporate Controller and Assistant Secretary.  From September 1988 to February
+1994 Mr. Porter served as Technical Accounting and Reporting Manager and most
+recently as Controller of Cupertino Operations with Apple Computer Corporation,
+a worldwide manufacturer of computer equipment.  From 1976 until 1988 Mr.
+Porter held various positions with Arthur Andersen LLP, most recently as a
+Senior Audit Manager.
+
+
+
+
+
+PART II
+
+ITEM 5.       MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER
+              MATTERS
+
+            The Company's Common Stock was traded on the NASDAQ National Market
+System under the NASDAQ symbol ECAD from the Company's initial public offering
+at $7.83 per share on June 10, 1987 until June 1, 1988 when it began trading
+under the NASDAQ symbol CDNC.  Since September 17, 1990 the Company's Common
+Stock has traded on the New York Stock Exchange under the symbol CDN.  The
+Company has never declared or paid any cash dividends on its common stock in
+the past and none are planned to be paid in the future.  In addition, the
+Company's line of credit agreement requires the prior written consent of the
+lenders before the Company can pay any cash dividends on its capital stock.  As
+of December 31, 1994, the Company had approximately 1,975 stockholders of
+record, which does not include those held in street or nominee name.
+
+            The following table sets forth the high and low sales prices for
+the Common Stock for each calendar quarter in the two- year period ended
+December 31, 1994.
+
+
+
+
+ITEM 6.      SELECTED FINANCIAL DATA
+
+For the years ended December 31,
+(In thousands, except per share amounts)
+
+
+
+
+(1)   See Note 7 of Notes to Consolidated Financial Statements for further
+      discussion.
+
+
+
+
+
+ITEM 7.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+          RESULTS OF OPERATIONS
+
+      Cadence (the "Company") designs, develops, markets and supports
+electronic design automation ("EDA") software products primarily used to
+automate, enhance and accelerate the design, verification and testing of
+integrated circuits, electronic systems and printed circuit boards. The Company
+combines its software products and professional services to provide customers
+with optimized electronic product development environments.
+
+      In December 1994 the Company acquired the business and certain assets of
+Parsec Software, Inc. ("Parsec").  Parsec developed, marketed and supported a
+software product used for static timing analysis in the electronic design area.
+The acquisition was accounted for as a purchase and accordingly, the results of
+the Parsec business from the date of the acquisition forward have been recorded
+in the Company's consolidated financial statements.
+
+      In August 1994 the Company acquired the business and certain assets of
+Redwood Design Automation, Inc. ("Redwood").  Redwood developed, marketed and
+supported advanced software tools for electronic systems design.  The
+acquisition was accounted for as a purchase and accordingly, the results of
+Redwood from the date of the acquisition forward have been recorded in the
+Company's consolidated financial statements.  In connection with the
+acquisition, the Company recorded a one-time charge to operations of $4.7
+million for the write-off of in-process research and development that had not
+reached technological feasibility and, in management's opinion, had no probable
+alternative future use.  The Redwood business is now a part of the Company's
+Alta division.
+
+      In June 1993 the Company acquired the business and certain assets of
+Comdisco Systems, Inc. ("Comdisco"), a subsidiary of Comdisco, Inc. The
+Comdisco business involves the development, marketing and support of digital
+signal processing software products in the electronic systems applications
+area. The acquisition was accounted for as a purchase and accordingly, the
+results of Comdisco from the date of the acquisition forward have been recorded
+in the Company's consolidated financial statements.  The Comdisco business is
+now a part of the Company's Alta division.
+
+      In December 1993 the Company sold its Automated Systems ("ASI") division.
+ASI manufactures and provides design services for complex printed circuit
+boards. The operating results of ASI have been reported as a disposal of a
+division and are included as an unusual item within operating expenses in the
+consolidated statements of income for all years presented.  The loss on
+disposal of approximately $6.0 million is classified in other income (expense)
+in the 1993 statement of income.
+
+
+
+
+
+Results of Operations
+
+The following table sets forth for the years indicated (a) the percentage of
+total revenue represented by each item reflected in the Company's consolidated
+statements of income and (b) the percentage increase (decrease) in each such
+item from the prior year.
+
+
+
+
+*      Not meaningful
+(1)    The Company capitalizes software development costs in accordance with
+       Statement of Financial Accounting Standards No. 86.  Total research and
+       development expenses incurred prior to capitalization represented 19%,
+       23% and 19% of total revenue for 1994, 1993 and 1992, respectively.  The
+       percentage change from 1993 to 1994 and from 1992 to 1993 was a decrease
+       of 1% and an increase of 4%, respectively, on a pre-capitalization
+       basis.
+
+
+
+
+
+Revenue
+
+             Total revenue was approximately $429.1 million, $368.6 million and
+$418.7 million for the years ended December 31, 1994, 1993 and 1992,
+respectively.  Product revenue increased approximately $28.9 million in 1994 as
+compared to 1993 due to increased sales volume related to the Company's
+integrated circuit, automated test engineering and Alta products (formerly
+Comdisco and Redwood), and increased Spectrum Services consulting revenue. The
+Alta product revenue increase was a result of a full year of revenue related to
+the Comdisco business included in 1994 as compared to 1993, which included
+revenue only from the date of acquisition forward.   Spectrum Services
+consulting revenue increased in 1994 due to increased demand for this business.
+Product revenue decreased approximately $74.0 million for the year ended
+December 31, 1993 as compared to the prior year due to weak economic
+conditions, principally in Japan and lower sales volume for the Company's
+products, as well as a shift in the Company's systems product strategy.  This
+shift in strategy refocused the Company's development efforts on a product
+previously developed and marketed by an acquired company.  This product had
+been discontinued near the time of the acquisition due to an overlap of
+products in the newly combined company.  As a result of this change, a
+significant portion of the Company's selling efforts were focused on explaining
+this shift in product strategy to the Company's existing and potential
+customers rather than engaging in normal sales activities, resulting in a
+reduction in revenue. This decrease in product revenue in 1993 was offset
+somewhat by the acquisition of Comdisco.
+
+             Maintenance revenue continued to increase each year growing by
+approximately $31.6 million in 1994 compared to 1993 and $23.9 million in 1993
+compared to 1992.  These increases were attributable to an increase in the
+Company's installed base of products as well as the Company's  continued
+effort toward obtaining customer renewals of maintenance coverage.  As a
+percentage of total revenue, maintenance revenue has grown over the last three
+years from approximately 25% to approximately 37% of total revenue.  The
+increase in maintenance revenue as a percentage of total revenue was also due
+to the lower levels of product revenue in 1993 and 1994 as compared to 1992.
+
+             Revenue from international sources was approximately $221.6
+million, $183.6 million and $215.4 million,  or 52%, 50% and 51% of total
+revenue for the years ended December 31, 1994, 1993 and 1992, respectively.
+The increase in 1994 was due to increased sales volume in all major regions
+which includes Europe and Asia/Pacific. The decrease in 1993 was principally
+related to decreased sales volume in Japan.  In 1994, the Company took certain
+steps to address the impact on its revenue of the weak Japanese economy.  The
+Company reorganized its direct sales force in Japan, made changes to certain of
+its distribution relationships and introduced new systems products to address
+customer design needs.  Although the Company experienced increased revenue from
+Japan in 1994 as compared to 1993, there can be no assurance that these steps
+will continue to strengthen the Company's revenue volume in Japan.  It is
+anticipated that international revenue will continue to constitute a
+significant portion of total revenue.  International revenues are subject to
+certain additional risks normally associated with international operations,
+including, among others, adoption and expansion of government trade
+restrictions, volatile foreign exchange rates, currency conversion risks,
+limitations on repatriation of earnings and reduced protection of intellectual
+property rights.  Due to the January 1995 earthquake in Japan, the Company
+could experience a reduced level of activity from this important market, which
+could have a material adverse impact on the Company's results of operations.
+
+Cost of Revenue
+
+             Total cost of revenue was approximately $94.6 million, $89.4
+million and $94.0 million for the years ended December 31, 1994, 1993 and 1992,
+respectively.  Total cost of revenue increased $5.3 million in 1994 as compared
+to 1993 and decreased $4.6 million in 1993 as compared to 1992.  The increase
+in 1994 was due to a $7.1  million increase in costs associated with the
+continued expansion of the Spectrum Services consulting business and a $2.5
+million increase in costs related to the Alta division (formerly Redwood and
+Comdisco operations).  These increases were offset by  cost reductions totaling
+$3.6 million in occupancy, due to the Company's purchase of previously leased
+facilities in the first and fourth quarters of 1994, and cost of maintenance.
+The decrease in 1993 consisted of a $10.1 million decrease in product cost of
+revenue due to lower revenue levels, reduced costs due to restructure actions
+including related headcount reductions, as
+
+
+
+
+
+well as the discontinuance in 1992 of sales of third-party hardware.  This
+decrease was offset by a $5.5 million increase in cost of product associated
+with the acquired Comdisco operations and increased amortization of
+intangibles.  Cost of maintenance decreased $2.2 million and $2.1 million in
+1994 and 1993, respectively, as compared to the prior year, even though revenue
+increased.  These decreases were due to the streamlining of the maintenance
+renewal process, which includes a more cost-effective update program whereby
+update releases are aggregated into fewer releases each year, and the
+increasing use of CD-ROM, a lower cost media, for software code distribution
+and documentation.  As a percentage of total revenue, cost of maintenance
+revenue has remained in the range of 3% to 4% and cost of product revenue has
+approximated 18% to 20%.
+
+Gross Margin
+
+             As a result of the factors discussed above, gross margin was 78%,
+76% and 78% for the years ended December 31, 1994, 1993 and 1992, respectively.
+
+             The Company's strategy is to help its customers meet their
+business objectives through optimized product design environments.  The Company
+facilitates these optimized design environments through a combination of
+software products and professional services.  While historically the Company's
+professional services revenue has been less than 10% of its product revenue,
+this portion of its business is expected to become a larger percentage of the
+Company's product revenue in the future.  As a result, the Company's gross
+margin percentage is expected to be reduced as the level of professional
+service revenue increases because professional services have a lower gross
+profit percentage than software product sales.
+
+Marketing and Sales
+
+             Marketing and sales expenses increased $3.2 million in 1994 as
+compared to 1993 and $1.2 million in 1993 as compared to 1992.  The increase in
+1994 was due to increased costs of $4.7 million related to the Alta operations
+which were offset by reductions in discretionary spending.  The increase in
+1993 as compared to 1992 was due to increased costs of $4.4 million associated
+with the Alta operations offset by reduced costs related to restructure actions
+taken in the first quarter of 1993, including headcount reduction.  Marketing
+and sales expenses were 38%, 43% and 38% of revenue in 1994, 1993 and 1992,
+respectively.  The higher percentage in 1993 was due primarily to the decrease
+in total revenue in 1993 as compared to 1992.
+
+Research and Development
+
+             Total research and development expenditures incurred prior to
+capitalization of software development costs decreased 1% in 1994 as compared
+to 1993 and increased 4% in 1993 as compared to 1992, a decrease of $.9 million
+and an increase of approximately $3.1 million, respectively.  The decrease in
+1994 was due to lower occupancy costs of $2.5 million and decreased capital
+equipment costs of $1.5 million offset by increased costs of $2.4 million
+related to the Alta division. The increase in 1993 was primarily a result of
+increased expenses of $3.2 million due to the addition of Alta operations.
+Prior to the reduction for capitalization of software development costs,
+research and development expenses comprised approximately 19%, 23% and 19% of
+total revenue or approximately $83.4 million, $84.3 million and $81.2 million
+for the years 1994, 1993 and 1992, respectively.  The increase as a percentage
+of revenue in 1993 was primarily due to the decrease in total revenue in 1993
+as compared to 1992.  The Company capitalized approximately $10.8 million,
+$15.2 million and $14.7 million of software development costs in the years
+1994, 1993 and 1992, respectively, which represented approximately 13%, 18% and
+18% of total research and development expenditures made in those years.  The
+amount of capitalized software development costs in any given period may vary
+depending on the exact nature of the development performed.
+
+General and Administrative
+
+             General and administrative expenses increased approximately $1.0
+million in 1994 as compared to 1993 and $4.9 million in 1993 as compared to
+1992. The increase in 1994 was primarily due to increased costs totaling $2.5
+million related to increased employee related costs and Alta operations which
+were offset by cost savings of $1.3 million resulting from lower occupancy
+costs.
+
+
+
+
+
+The increase in 1993 compared to 1992 was due to the addition of Alta
+operations, increased bad debt expense due to the write-off of uncollectible
+accounts receivable and increased professional services and employee-related
+expenses.  As a percentage of total revenue, general and administrative
+expenses were 9%, 11% and 8% for the years ended December 31, 1994, 1993 and
+1992, respectively.  The higher percentage in 1993 was partially due to the
+decrease in total revenue in 1993 as compared to 1992.
+
+Unusual Items
+
+             Unusual items were expenses of $14.7 million and $19.7 million and
+income of $.3 million for 1994, 1993 and 1992, respectively.
+
+             The unusual items in 1994 include costs of $4.7 million related to
+the September 1994  write-off of in-process research and development associated
+with the Redwood acquisition as Redwood's development efforts that had not
+reached technological feasibility and, in management's opinion, had no probable
+alternative future use.
+
+             Also included in the 1994 unusual items was a $10.0 million
+provision for settlement of litigation.  In April 1994 the Company entered into
+tentative agreements to settle two class action lawsuits for a combined
+settlement of $16.5 million, of which approximately $7.5 million was covered by
+the Company's insurance carriers.  Reflected in the statement of income in 1994
+is the net settlement cost of approximately $9.0 million plus approximately
+$1.0 million for related legal costs.
+
+             The $19.7 million of unusual items in 1993 includes restructuring
+costs of $13.5 million recorded in March 1993 associated with a planned
+restructure of certain areas of sales, operations and administration due to
+business conditions.  The restructuring charge primarily reflects costs
+associated with employee terminations, excess facilities and the write-off of
+purchased software and intangibles arising from required adjustments to the
+Company's cost structure necessitated by lower revenue levels.  Also included
+in the restructuring charge was an additional provision for doubtful accounts
+and the write-off of certain software development costs resulting from changes
+in the Company's systems product strategy as discussed above under "Revenue".
+
+             In December 1993 the Company also sold its ASI division.  Included
+in unusual items for the respective years was the division's loss from
+operations of $6.2 million in 1993 and income of $.3 million in 1992.
+
+Other Income and Expense
+
+      Other income and expense netted to income of $4.8 million in 1994,
+expense of $4.4 million in 1993 and income of $2.6 million in 1992.  Other
+income and expense includes interest income, interest expense, minority
+interest and foreign exchange gains and losses.  Interest income was $3.3
+million, $3.2 million and $3.6 million for the years ended December 31, 1994,
+1993 and 1992, respectively.  Interest expense was $1.0 million, $.7 million
+and $.9 million for the years ended December 31, 1994, 1993 and 1992,
+respectively.  The increase in interest expense in 1994 as compared to 1993 was
+due to an increase in notes payable related to the purchase of  corporate
+facilities in the first and fourth quarters of 1994.  The note payable related
+to the first quarter facility purchase was paid off in full in May 1994 from
+the Company's cash reserves.  Also included in other income in 1994 was the
+fourth quarter gain of $4.2 million related to the sale of an equity
+investment.  In 1993 the Company recorded a $6.0 million loss on the disposal
+of its ASI division which is also included in other income and expense for that
+year.
+
+Provision for Income Taxes
+
+         As of December 31, 1994 the Company had gross deferred tax assets of
+approximately $71.5 million against which the Company has recorded a valuation
+allowance of $53.2 million, resulting in a net deferred tax asset of $18.3
+million.  A significant portion of the net operating loss and credit
+carryforwards which created the deferred tax asset were generated by acquired
+companies prior to their merger with the Company and by restructuring charges
+recorded as a result of these mergers.  Management has determined, based on the
+Company's history of prior operating earnings and its
+
+
+
+
+
+expectations for future years, that the recorded net deferred tax asset is
+realizable.  However, no assurances can be given that sufficient taxable income
+will be generated in future years for the utilization of the net deferred tax
+asset.
+
+         The Company's effective tax rate for 1994 was 25%.  This rate reflects
+the reduction in the valuation allowance during 1994 primarily from the
+utilization of net operating losses generated in prior years.
+
+         In 1993 the Company's tax provision was zero as a result of the
+operating loss in 1993 and the recording of the benefit of certain foreign
+withholding and income taxes.
+
+         In 1992 the Company's effective tax rate was 19%.  This rate reflects
+the utilization of foreign tax credits and the reduction in the valuation
+allowance from the utilization of net operating losses of acquired companies
+and temporary items generated in prior years.
+
+Quarterly Results of Operations
+
+             The following table sets forth selected unaudited quarterly
+financial information for the Company's last eight quarters.  This unaudited
+information has been prepared on the same basis as the audited information and
+in management's opinion reflects all adjustments (which include only normal
+recurring adjustments) necessary for the fair presentation of the information
+for the periods presented.  Based on the Company's operating history and
+factors that may cause fluctuations in the quarterly results,
+quarter-to-quarter comparisons should not be relied upon as indicators of
+future performance.  Although the Company's revenues are not generally seasonal
+in nature, the Company  has experienced decreases in first quarter revenue
+versus the preceding fourth quarter which is believed to result primarily from
+the capital purchase cycle of the Company's customers.
+
+             The level of the Company's operating expenses are partially based
+on its expectations of future revenue.  The Company's results of operations may
+be adversely affected if revenue does not materialize in a period as expected.
+Since expense levels are usually committed in advance of revenues and because
+only a small portion of expenses vary with revenue, the Company's net income
+may be impacted significantly by lower revenue.  The Company's revenue
+increased each quarter in 1994 as compared to the same quarter in the prior
+year.  This increase was due principally to increased sales volume of the
+Company's products.  Also included in the 1994 quarterly operations was a $4.2
+million gain in the fourth quarter for the sale of an equity investment, a $4.7
+million charge in the third quarter related to the write-off of in-process
+research and development, a $12.1 million provision for settlement of
+litigation in the first quarter and a $2.1 million credit to the provision for
+settlement of litigation recorded in the second quarter.  In addition, in 1993,
+the fourth quarter included a $6.0 million loss on disposal related to ASI and
+the first quarter included approximately $13.5 million of restructuring costs.
+
+
+(In thousands, except
+  per share data)
+
+
+
+
+
+
+
+Inflation
+             To date, the Company's operations have not been impacted
+significantly by inflation.
+
+Factors That May Affect Future Results
+
+         The Company's future operating results are dependent on the Company's
+ability to successfully implement its strategy to help its customers meet their
+business objectives through optimized product design environments ("PDEs").
+The Company provides these PDEs through a combination of software products and
+professional services.  Inherent in implementing this strategy are a number of
+risks that the Company must manage and which could affect its future operating
+results.
+
+         The Company competes in the highly competitive EDA market which
+continues to be characterized by aggressive pricing practices, rapid
+technological change and new market entrants.  The Company's success is
+dependent on its ability to develop innovative, cost-competitive EDA software
+products and to bring them to market in a timely manner.
+
+         In order to more effectively work with customers to help them build
+optimized PDEs, the Company has realigned its sales force along industry lines.
+The Company expects this industry focus will allow the sales force to better
+understand and prepare solutions to its customers' business needs thereby
+increasing revenue.  Should the benefits of this realignment take longer to
+realize than expected, the Company's revenues could be adversely affected.
+
+         Another important part of the Company's strategy is to help its
+customers through an increased offering of professional services.  While the
+Company has provided professional services to its customers for a number of
+years, there are a number of risks the Company must successfully address in
+order to develop this portion of its business.  These risks include the ability
+to successfully recruit, train and retain a skilled consulting force and the
+ability to profitably deliver consulting services that meet customer
+expectations.  The Company's profitability could be adversely affected if it is
+unable to develop its consulting services business as expected.
+
+         Due to the foregoing, as well as other factors, past financial
+performance should not be considered a reliable indicator of future
+performance.  In addition, the Company's participation in a highly dynamic
+industry often results in significant volatility of the Company's common stock
+price.  Any change in revenues or operating results below levels expected by
+securities analysts for the Company or its competitors, and the timing of the
+announcement of such shortfalls, could have an immediate and significant
+adverse effect on the trading price of the Company's common stock in any given
+period.
+
+Liquidity and Capital Resources
+
+             The Company's cash and cash investments increased $13.6 million,
+decreased $17.6 million and decreased $8.7 million for the years ended December
+31, 1994, 1993 and 1992, respectively. The Company generated approximately
+$154.4 million, $97.3 million and $45.6 million in cash from operating
+activities for those same periods.  The increase in 1994 as compared to 1993
+was due primarily to an increase in net income and deferred revenue and a
+decrease in prepaid expenses and other assets. The increase in 1993 as compared
+to 1992 was due to a decrease in accounts receivable and an increase in
+deferred revenue and accrued liabilities and payables which were offset by the
+decrease in net income. The Company's principal investing activities consisted
+of the purchase of facilities and equipment and the capitalization of software
+development costs, which in total were $40.6 million, $33.7 million and $45.7
+million for the years ended December 31, 1994, 1993 and 1992, respectively.  In
+addition, the other major component of investing activities was the purchase
+and maturity of short-term investments.  The Company's primary financing
+activities included the sale of common stock pursuant to employee benefit plans
+of $13.5 million, $4.3 million and $8.5 million in 1994, 1993 and 1992,
+respectively, and the repurchase of $95.1 million, $52.2 and $10.8 million of
+common stock for the years ended December 31, 1994, 1993 and 1992,
+respectively.  In addition, the Company made principal payments on capital
+leases and notes payable of $29.2 million, $8.1 million and $13.5 million in
+1994, 1993 and 1992, respectively.
+
+
+
+
+
+             Working capital at December 31, 1994 was $27.5 million compared
+with $105.0 million  at December 31, 1993 and $153.3 million at December 31,
+1992.  The decrease in 1994 as compared to 1993 was primarily due to an
+increase in notes payable of $23.7 million related to the purchase of corporate
+facilities, an increase in deferred revenue of $23.1 million due to increased
+maintenance billings and a $23.3 million decrease in accounts receivable due to
+improved days sales outstanding. The decrease in 1993 as compared to 1992 was
+primarily due to a decrease of $30.9 million in accounts receivable primarily
+resulting from lower revenue, a $12.8 million increase in deferred revenue and
+a $7.3 million increase in accrued liabilities related to restructuring
+accruals recorded in 1993.
+
+             Long-term obligations decreased $1.9 million in 1994 as compared
+to the prior year and $1.7 million in 1993 as compared to 1992 due to a
+decrease in capital lease borrowings.
+
+             The Company has an authorized stock repurchase program.  Prior to
+1993, the Company had authorized the repurchase of up to 2.8 million shares of
+common stock in the open market.  In 1993 and 1994, the Company authorized the
+repurchase of an additional 4.0 million and 13.4 million shares, respectively,
+of common stock from time to time.  In total, as of December 31, 1994,
+approximately 11.5 million shares had been repurchased.  Some repurchases are
+necessary to satisfy estimated requirements for shares to be issued under the
+Company's employee stock option and stock purchase plans as well as in
+connection with acquisitions.  As part of its authorized stock repurchase
+program, the Company sold 5.0 million put warrants and purchased 3.8 million
+call options through private placement.  The Company had a maximum potential
+obligation related to the put warrants at December 31, 1994 to buy back five
+million shares of its common stock at an aggregate price of approximately $81.3
+million.  The put warrants are exercisable on various dates between April 1995
+and November 1995.  Alternatively, the Company can elect to settle the put
+warrants with stock which could cause the Company to issue a substantial number
+of shares, depending on the amounts of the repurchase obligations and the per
+share value of the Company's common stock at the time of exercise. In addition,
+settlement of put warrants in stock or cash could lead to the disposition by
+put warrant holders of shares of the Company's common stock that such holders
+may have accumulated in anticipation of the exercise of the put warrants or
+call options.
+
+             In addition to the $96.9 million in cash and cash investments and
+short-term investments at December 31, 1994, the Company had available
+approximately $10.0 million under a bank line of credit, which expires in June
+1995.  The Company is currently in negotiations with the bank regarding
+possible extension/expansion of this line of credit, but there can be no
+assurance that mutually acceptable terms can be reached.  An unused bank line
+of credit of $7.5 million was canceled by the Company effective December 30,
+1994.
+
+             Anticipated cash requirements in 1995 include the purchase of
+treasury stock through the exercise of the Company's call options and through
+the open market.  The Company has the right to purchase 3.8 million shares
+through the exercise of call options during 1995 at a cost of approximately
+$66.3 million.  Subsequent to December 31, 1994 the Company repurchased a
+portion of an outstanding warrant applicable to 1,000,000 shares of common
+stock for approximately $12.1 million (see Note 12 of Notes to Consolidated
+Financial Statements).  Other cash requirements include the repayment in August
+1995, if not refinanced, of a $23.7 million secured loan assumed as part of a
+1994 purchase of corporate facilities and contemplated additions of capital
+equipment of approximately $35 million.
+
+             The Company anticipates that current cash and short-term
+investment balances, cash flows from operations and short and long-term
+borrowing capabilities will be sufficient to meet its working capital and
+capital expenditure requirements on a short and long-term basis.
+
+
+
+
+
+ITEM 8.      FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+             The quarterly supplementary data is included as part of Item 7,
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations."  The financial statements required by this item are submitted as a
+separate section of this Form 10-K.  See Item 14.
+
+
+ITEM 9.      CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+             FINANCIAL DISCLOSURE
+
+             None
+
+
+PART III
+
+
+ITEM 10.     DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+             The information required by Item 10 as to directors is incorporated
+by reference from the section entitled "Election of Directors" in the Company's
+Proxy Statement for its annual stockholders' meeting to be held May 11, 1995.
+The information required by this Item as to executive officers is included in
+Part I under "Executive Officers of the Registrant."
+
+             The Company has reviewed all Forms 3, 4 and 5 filed with respect to
+1994 and based thereon has determined that there has been no failure to timely
+file any reports required by Section 16(a) of the Securities Exchange Act of
+1934 for 1994 or prior years, except that one Form 3 initially filed for Mr.
+Johnston, a member of the Board of Directors, was amended to reflect additional
+ownership of 300 shares of the Company's common stock.  This amended Form 3 was
+filed March 1995.
+
+
+ITEM 11.     EXECUTIVE COMPENSATION
+
+             The information required by Item 11 is incorporated by reference
+from the sections entitled "Director Compensation" and "Executive Compensation"
+in the Company's Proxy Statement for its annual stockholders' meeting to be
+held May 11, 1995.
+
+
+ITEM 12.     SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+             The information required by Item 12 is incorporated by reference
+from the section entitled "Security Ownership of Certain Beneficial Owners and
+Management" in the Company's Proxy Statement for its annual stockholders'
+meeting to be held May 11, 1995.
+
+
+ITEM 13.     CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+             The information required by Item 13 is incorporated by reference
+from the section entitled "Certain Transactions" in the Company's Proxy
+Statement for its annual stockholders' meeting to be held May 11, 1995.
+
+
+
+
+
+
+PART IV
+
+
+ITEM 14.    EXHIBITS, FINANCIAL STATEMENTS, SCHEDULES AND REPORTS ON FORM 8-K
+
+
+
+                  All other schedules are omitted because they are not required
+  or the required information is shown in the financial statements or notes
+  thereto.
+
+
+(a)3.       Exhibits
+
+            The following exhibits are filed herewith:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+To Cadence Design Systems, Inc.:
+
+We have audited the accompanying consolidated balance sheets of Cadence Design
+Systems, Inc. (a Delaware corporation) and subsidiaries as of December 31, 1994
+and 1993, and the related consolidated statements of income, stockholders'
+equity and cash flows for each of the three years in the period ended 
+December 31, 1994.  These financial statements and the schedule referred to 
+below are the responsibility of the Company's management.  Our responsibility 
+is to express an opinion on these financial statements and schedule based on 
+our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement.  An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements.  An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation.  We believe that our audits provide a reasonable basis
+for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of Cadence Design Systems, Inc.
+and subsidiaries as of December 31, 1994 and 1993, and the results of their
+operations and their cash flows for each of the three years in the period ended
+December 31, 1994, in conformity with generally accepted accounting principles.
+
+Our audit was made for the purpose of forming an opinion on the basic financial
+statements taken as a whole.  The schedule listed in Item 14. (a) 2. is
+presented for purposes of complying with the Securities and Exchange
+Commission's rules and is not part of the basic financial statements.  This
+schedule has been subjected to the auditing procedures applied in the audit of
+the basic financial statements and, in our opinion, fairly states in all
+material respects the financial data required to be set forth therein in
+relation to the basic financial statements taken as a whole.
+
+
+                                                     /s/ ARTHUR ANDERSEN LLP
+                                                     -------------------------
+                                                         Arthur Andersen LLP
+San Jose, California                                     
+January 20, 1995
+
+
+
+
+
+                          CADENCE DESIGN SYSTEMS, INC.
+                          CONSOLIDATED BALANCE SHEETS
+                        AS OF DECEMBER 31, 1994 AND 1993
+                 (DOLLARS IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+                                     ASSETS
+
+
+                      LIABILITIES AND STOCKHOLDERS' EQUITY
+
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+
+
+
+
+                          CADENCE DESIGN SYSTEMS, INC.
+                       CONSOLIDATED STATEMENTS OF INCOME
+              FOR THE YEARS ENDED DECEMBER 31, 1994, 1993 AND 1992
+                     (IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+
+
+
+
+
+                          CADENCE DESIGN SYSTEMS, INC.
+                CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+              FOR THE YEARS ENDED DECEMBER 31, 1994, 1993 AND 1992
+                                 (IN THOUSANDS)
+
+
+
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+
+
+
+
+                          CADENCE DESIGN SYSTEMS, INC.
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+              FOR THE YEARS ENDED DECEMBER 31, 1994, 1993 AND 1992
+                                 (IN THOUSANDS)
+
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+
+
+
+
+                          CADENCE DESIGN SYSTEMS, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                               DECEMBER 31, 1994
+
+1.           ORGANIZATION OF THE COMPANY
+
+             Cadence Design Systems, Inc. (the "Company") develops, markets and
+supports computer-aided design software products that automate, enhance and
+accelerate the design, verification and testing of integrated circuits and
+complex electronic circuits and systems.  The Company combines leading-edge
+technology with a complementary set of services that enable customers to
+improve the quality and time-to-market performance of innovative electronic
+products.
+
+2.          SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+             CONSOLIDATION
+
+             The consolidated financial statements include the accounts of the
+Company and its majority-owned subsidiaries after elimination of intercompany
+accounts and transactions.  The ownership interest of minority participants in
+subsidiaries that are not wholly-owned was approximately $.9 million and $.7
+million at December 31, 1994 and 1993, respectively, and is included in other
+long-term liabilities in the accompanying balance sheets.
+
+             FOREIGN CURRENCY TRANSLATION
+
+             The functional currency of all of the Company's foreign
+subsidiaries is the local currency.  Gains and losses resulting from the
+translation of the subsidiaries' financial statements are reported as a
+separate component of stockholders' equity.
+
+             FOREIGN EXCHANGE CONTRACTS
+
+             The Company enters into forward exchange contracts to reduce the
+impact of foreign currency fluctuations on those balance sheet accounts
+denominated in foreign currency, other than the entities' local currency, that
+give rise to transaction gains or losses.  As of December 31, 1994 the Company
+had entered into forward exchange contracts in the amount of approximately
+$20.0 million  maturing February 1, 1995.  The fair value of foreign currency
+contracts is estimated by obtaining quotes from banks.  The market value was
+approximately the same as the carrying value at December 31, 1994.  Gains and
+losses on these foreign exchange contracts are recorded in other income and
+expense.
+
+             REVENUE RECOGNITION
+
+             Product revenue consists principally of revenue earned under
+software license agreements and is generally recognized when the software has
+been shipped and there are no significant obligations remaining.   Revenue from
+services is recognized as the related services are performed or when certain
+milestones are met.  Test equipment revenue is recognized upon shipment of the
+test equipment.
+
+             Maintenance revenue consists of fees for providing system updates,
+user documentation and technical support for software products.  Maintenance
+revenue is recognized ratably over the term of the agreement.
+
+             In 1994, 1993 and 1992 one customer (a distributor), which is also
+a minority interest participant in a subsidiary of the Company, accounted for
+10%, 13% and 14% of total revenue, respectively.  Outstanding trade accounts
+receivable from this related party were approximately $3.7 million and $10.3
+million as of December 31, 1994 and 1993, respectively.
+
+             PUT WARRANTS AND CALL OPTIONS
+
+             The Company has an authorized stock repurchase program.  In total,
+as of December 31,
+
+
+
+
+
+1994, the Company had authorized the repurchase of 20.2 million shares and
+approximately 11.5 million shares had been repurchased.  Some repurchases are
+necessary to satisfy estimated requirements for shares to be issued under the
+Company's employee stock option and stock purchase plans as well as in
+connection with acquisitions.
+
+             Throughout 1994 as part of its authorized stock repurchase
+program, the Company sold 5.0 million put warrants through private placement.
+Each warrant entitles the holder to sell one share of common stock to the
+Company on a specified date at a specified price ranging from $13.13 to $20.59
+per share.  Additionally, during this same period, the Company  purchased
+approximately 3.8 million call options that entitle the Company to buy on a
+specified date one share of common stock, at a specified price ranging from
+$14.94 to $22.84 per share.  The Company has the right to settle the put
+warrants with stock, or a cash or stock settlement equal to the difference
+between the exercise price and market value at the date of exercise.  The put
+warrants and call options outstanding at December 31, 1994 are exercisable on
+various dates between April 1995 and November 1995.
+
+             At December 31, 1994 the Company has both the unconditional right
+and the intent to settle these put warrants with stock, and therefore, no
+amount has been classified out of stockholders' equity in the accompanying
+balance sheet.  Gains or losses from the exercise of these put warrants and
+call options are reported in stockholders' equity.
+
+             Settlement of the put warrants with stock could cause the Company
+to issue a substantial number of shares, depending on the amounts of the
+repurchase obligations and the per share value of the Company's common stock at
+the time of exercise.  In addition, settlement of put warrants in stock or cash
+could lead to the disposition by put warrant holders of shares of the Company's
+common stock that such holders may have accumulated in anticipation of the
+exercise of the put warrants or call options.
+
+             CASH, CASH INVESTMENTS AND SHORT-TERM INVESTMENTS
+
+             The Company considers all highly liquid debt instruments and
+certificates of deposit with an original maturity of ninety days or less to be
+cash investments.
+
+                Effective January 1, 1994 the Company adopted Statement of
+Financial Accounting Standards ("SFAS") No. 115, "Accounting for Certain
+Investments in Debt and Equity Securities."  There was no effect on the 
+Company's operating results due to the adoption of this statement.  Under SFAS
+115, the Company classifies its investments in debt securities as
+"held-to-maturity".  Accordingly, these investments, which mature at various
+dates through August 1995, are valued using the amortized cost method.  The
+gross unrealized        holding gains and losses at December 31, 1994 are not   
+material.  Short-term investments consisted of the following:
+        
+
+
+             CONCENTRATION OF CREDIT RISK
+
+             Financial instruments which may potentially subject the Company to
+concentrations of credit risk consist principally of cash and cash investments,
+short-term investments and accounts receivable.  The Company's investment
+policy limits investments to short-term, low-risk instruments.  Concentration
+of credit risk related to accounts receivable is limited due to the varied
+customers comprising the Company's customer base and their dispersion across
+geographies.
+
+
+
+
+
+             INVENTORIES
+
+             Inventories are stated at the lower of cost (first-in, first-out
+method) or market.  Cost includes labor, material and manufacturing overhead.
+Inventories are comprised of testing equipment.
+
+             PROPERTY, PLANT AND EQUIPMENT
+
+             Property, plant and equipment is stated at cost.  Depreciation and
+amortization are provided over the following estimated useful lives, by the
+straight-line method.
+
+
+
+             SOFTWARE DEVELOPMENT COSTS
+
+             The Company capitalizes software development costs in compliance
+with SFAS No. 86, "Accounting for the Costs of Computer Software to be Sold,
+Leased or Otherwise Marketed."  Capitalization of software development costs
+begins upon the establishment of technological feasibility for the product.
+The establishment of technological feasibility and the ongoing assessment of
+the recoverability of these costs requires considerable judgment by management
+with respect to certain external factors, including, but not limited to,
+anticipated future gross product revenue, estimated economic life and changes
+in software and hardware technology.
+
+             Amortization of capitalized software development costs begins when
+the products are available for general release to customers and is generally
+computed on a  straight-line basis over the remaining estimated economic life
+of the product (three to five years).  Amortization, which is included in cost
+of revenue in the accompanying statements of income, amounted to approximately
+$14.2 million, $13.1 million and $11.0 million for the years ended December 31,
+1994, 1993 and 1992, respectively.   The Company wrote off $1.5 million of
+capitalized software in 1993 for projects discontinued during the year.  The
+Company also wrote off $2.8 million of capitalized software in 1992 due to an
+overlap of products with those of an acquired company.
+
+             PURCHASED SOFTWARE AND INTANGIBLES
+
+             Purchased software and intangibles are stated at cost less
+accumulated amortization.  Amortization is generally computed on a
+straight-line basis over the remaining estimated economic life of the
+underlying product (two to seven years).
+
+             INCOME TAXES
+
+             The Company accounts for its income taxes under the provisions of
+SFAS No. 109, "Accounting for Income Taxes". This statement provides for a
+liability approach under which deferred income taxes are provided based upon
+enacted tax laws and rates applicable to the periods in which the taxes become
+payable.
+
+             NET INCOME (LOSS) PER SHARE
+
+             Net income per share for each period is calculated by dividing net
+income attributable to common stockholders by the weighted average number of
+common stock and common stock equivalents outstanding during the period
+(calculated using the modified treasury stock method).  Common stock
+equivalents consist of dilutive shares issuable upon the exercise of
+outstanding common stock options and warrants and the conversion of Series A-1
+preferred stock.  Net loss per share is calculated by dividing net loss
+attributable to common stockholders by the weighted average number of common
+shares outstanding.  Fully diluted net income (loss) per share is substantially
+the same as primary net income (loss) per share.
+
+
+
+
+
+3.           BALANCE SHEET COMPONENTS
+
+
+4.           OTHER INCOME (EXPENSE)
+
+
+
+             In October 1994 the Company sold an equity investment carried at
+cost for a gain of approximately $4.2 million.  This investment was included in
+other assets in the accompanying 1993 balance sheet.
+
+
+
+
+
+5.           SUPPLEMENTAL CASH FLOW INFORMATION
+
+
+
+             During 1992 all of the Company's outstanding Series A-1 preferred
+stock was converted to approximately 861,000 shares of the Company's common
+stock.
+
+
+6.           ACQUISITIONS
+
+             REDWOOD DESIGN AUTOMATION
+
+             In August 1994 the Company acquired all of the outstanding stock
+of Redwood Design Automation, Inc. ("Redwood") for approximately 419,000 shares
+of the Company's common stock valued at  $4.6 million and $1.8 million of net
+advances made to Redwood, prior to the acquisition, which were not repaid.
+Redwood was a development stage company formed to design, develop and market
+software for use in electronic systems design. The acquisition was accounted
+for as a purchase, and the results of Redwood from the date of acquisition
+forward have been recorded in the Company's consolidated financial statements.
+In connection with the acquisition, net intangibles of $6.8 million were
+acquired, of which $4.7 million is reflected as a one-time charge to operations
+for the write-off of in-process research and development that had not reached
+technological feasibility and, in management's opinion, had no probable
+alternative future use.  This one-time charge is reflected in the Company's
+statement of income as an unusual item within operating expenses (see Note 7).
+The remaining intangibles of $2.1 million are included in purchased software
+and intangibles in the accompanying balance sheet and are being amortized over
+their useful life of two years.
+
+             In connection with the acquisition, net assets acquired were as
+follows (in thousands):
+
+
+
+
+             The following unaudited pro forma information shows the results of
+operations for the twelve months ended December 31, 1994 and 1993 as if the
+Redwood acquisition had occurred at the beginning of each period presented and
+at the purchase price established in August 1994.  The results are not
+necessarily indicative of what would have occurred had the acquisition actually
+been made at the beginning of each of the respective periods presented or of
+future operations of the combined
+
+
+
+
+
+companies.  The pro forma results for 1994 combine the Company's results for
+the twelve month period ended December 31, 1994 with the results of Redwood for
+the period from January 1, 1994 through the date of acquisition.  The pro forma
+results for 1993 combine the Company's results for the twelve month period
+ended December 31, 1993 with Redwood's twelve month fiscal period from February
+1, 1993 through January 31, 1994. The following unaudited pro forma results
+include the straight-line amortization of intangibles over a period of two
+years.
+
+
+
+             REAL ESTATE PARTNERSHIPS
+
+             In March 1994 the Company acquired all third-party interests in
+two real estate partnerships in which it was a 46.5% and 80% limited partner,
+respectively, for approximately $8.7 million in cash and the assumption of a
+secured construction loan of approximately $23.5 million.  The Company leased
+buildings from one of the limited partnerships and the second limited
+partnership owned unencumbered land adjacent to the leased property.  The
+Company paid off the secured construction loan with its cash reserves in May
+1994.
+
+             In October 1994 the Company acquired all third-party interests in
+a third real estate partnership in which it was a 49% limited partner for
+approximately $5.9 million in cash.  The partnership owns land and buildings
+which are leased to the Company and are subject to a secured note in the amount
+of approximately $23.7 million.
+
+             In connection with the acquisition of the partnerships, net assets
+acquired were as follows (in thousands):
+
+
+             PARSEC SOFTWARE, INC.
+
+             In December 1994 the Company acquired all of the outstanding stock
+of Parsec Software, Inc. ("Parsec") for approximately 84,000 shares of the
+Company's common stock valued at $1.2 million.  The acquisition was accounted
+for as a purchase and the results of Parsec from the date of acquisition
+forward have been recorded in the Company's consolidated financial statements.
+Comparative pro forma information has not been presented as the results of
+operations for Parsec are not material to the Company's consolidated financial
+statements.   In connection with the acquisition, purchased software and
+intangibles of $1.2 million were acquired and are being amortized over a useful
+life of three years. These assets are included in purchased software and
+intangibles in the accompanying balance sheet.
+
+             COMDISCO SYSTEMS, INC.
+
+             In June 1993 the Company acquired the business and certain assets
+of Comdisco Systems, Inc. ("Comdisco"), a subsidiary of Comdisco, Inc. in
+exchange for 1,050,000 shares of the Company's common stock and a warrant to
+purchase 1,300,000 shares of the Company's common stock valued in total at
+$10.9 million.  The acquisition was accounted for as a purchase.  Accordingly,
+the results of Comdisco from the date of acquisition forward have been recorded
+in the Company's consolidated financial statements.  Comparative pro forma
+information has not been presented as the
+
+
+
+
+
+results of operations of Comdisco are not material to the Company's
+consolidated financial statements.  The acquisition costs include amounts paid
+for the net tangible assets of Comdisco and purchased software and other
+intangibles. The cost in excess of net assets acquired was $6.5 million which
+is being amortized over seven years and is included in purchased software and
+intangibles in the accompanying balance sheets.
+
+             In connection with the acquisition, net assets acquired were as
+follows (in thousands):
+
+
+
+             JAPAN DISTRIBUTORSHIP
+
+             In March 1992 the Company acquired a distributorship in Japan,
+which as its sole operation, had distributed the Company's systems products.
+As part of this transaction, the Company paid approximately $.4 million in cash
+and issued a note for $3.1 million in exchange for stock and a consulting
+agreement.  This acquisition was accounted for as a purchase.  The cost in
+excess of the net assets acquired was approximately $5.2 million which is being
+amortized over five years and is included in other assets in the accompanying
+balance sheets. The accumulated amortization as of December 31, 1994 and 1993
+was approximately  $3.2 million and $2.1 million,  respectively.
+
+             In connection with the acquisition, net assets acquired were as
+follows (in thousands):
+
+
+
+7.    UNUSUAL ITEMS
+
+             Unusual items included within operating expenses are comprised of
+the following:
+
+
+
+             WRITE-OFF OF IN-PROCESS RESEARCH AND DEVELOPMENT
+
+             In August 1994 the Company acquired Redwood Design Automation,
+Inc.  In connection with the acquisition, net intangibles of $6.8 million were
+acquired, of which $4.7 million is reflected as a one-time charge to operations
+for the write-off of in-process research and development that had not reached
+technological feasibility and, in management's opinion, had no probable
+alternative future use.
+
+
+
+
+
+             PROVISION FOR SETTLEMENT OF LITIGATION
+
+             In April 1994 the Company entered into tentative agreements to
+settle two class action lawsuits for a combined settlement of $16.5 million, of
+which approximately $7.5 million was covered by the Company's insurance
+carriers.  Reflected in the Company's operating expenses is the net settlement
+cost of approximately $9.0 million plus approximately $1.0 million for related
+legal costs.
+
+             LOSS (INCOME) FROM OPERATIONS OF DISPOSED DIVISION
+
+             In December 1993 the Company sold its Automated Systems ("ASI")
+division.   ASI was sold for a nominal amount of cash and future royalties
+amounting to 5% of gross revenues of ASI for the period from January 1, 1994
+through December 31, 2003, up to maximum royalties of $12.0 million.  The
+royalties will be recorded in future periods as earned.   In light of the
+nominal proceeds received, the sale of ASI resulted in a loss on disposal of
+approximately $6.0 million.  The loss was due principally to the loss on the
+sale of the net operating assets, as well as amounts accrued for estimated
+costs to be incurred in connection with the disposal.  As of December 31, 1994
+and 1993, respectively, the Company has recorded approximately $.9 million and
+$1.4 million in accrued liabilities and approximately $1.1 million and $2.0
+million in other long-term liabilities for liabilities associated with the
+disposed division.
+
+             The Company had previously reported the operating results of ASI
+as a discontinued operation in the statement of income.  In connection with the
+filing of a registration statement on Form S-3 to register common stock issued
+to the shareholders of Comdisco and Redwood, the Securities and Exchange
+Commission reviewed the Company's 1993 financial statements and requested that
+the results of operations and the loss on disposal of ASI be reclassified as
+components of continuing operations since ASI was not deemed a major line of
+business.  As a result, the Company has classified the respective income and
+loss from operations of the disposed division as unusual items within
+operations in the accompanying statements of income.  The loss of $6.0 million
+on disposal of the division is classified in other income (expense) in the
+accompanying 1993 statement of income (see Note 4).   Revenue from this
+division was approximately $11.2 million and $15.8 million for the years ending
+December 31, 1993 and 1992, respectively.
+
+             RESTRUCTURING COSTS
+
+             In March 1993 the Company recorded restructuring costs of
+approximately $13.5 million associated with a planned restructure of certain
+areas of sales, operations and administration due to business conditions.  The
+restructuring charge included approximately $4.5 million for employee
+terminations.  The Company terminated approximately 270 employees in 1993 at an
+actual total cost of approximately $4.6 million.  In addition, the
+restructuring charge included approximately $3.5 million for excess facilities
+and approximately $2.1 million for the write-off of purchased software and
+intangibles arising from required adjustments to the Company's cost structure
+necessitated by lower revenue levels.  Substantially all of this excess
+facilities accrual was utilized by December 31, 1993.  The restructuring charge
+also included an additional provision for doubtful accounts of approximately
+$3.0 million, which was utilized by December 31, 1993 and write-off of certain
+software development costs of $.4 million resulting from changes in the systems
+product strategy.
+
+
+
+
+
+
+
+
+8.            NOTES PAYABLE AND LONG-TERM OBLIGATIONS
+
+              Notes payable and long-term obligations consisted of the
+following:
+
+
+             The mortgage is secured by land and buildings which are part of
+the Company's corporate facilities.  The carrying amount of the Company's
+secured mortgage is estimated based on the quoted market prices for the same or
+similar issues or on the current rates offered to the Company for debt of the
+same remaining maturity.  The carrying amount of the Company's secured mortgage
+approximates its fair value at December 31, 1994.
+
+9.           LEASES
+
+             Facilities and equipment are leased under various capital and
+operating leases expiring on different dates through the year 2008.  Certain of
+these leases contain renewal options.  Rental expense was approximately $19.0
+million, $20.0 million and $21.3 million for the years ended December 31, 1994,
+1993 and 1992, respectively.
+
+             In connection with a previous merger, the Company has closed
+certain facilities and, accordingly, has accrued for estimated future minimum
+rent and maintenance costs related to these facilities.  Total costs accrued at
+December 31, 1994 were $11.3 million of which $2.3 million is included in
+accrued liabilities and approximately $9.0 million is included in lease
+liabilities in the accompanying balance sheet.
+
+             At December 31, 1994 future minimum lease payments under capital
+and operating leases and the present value of the capital lease payments were
+as follows (in thousands):
+
+
+
+
+
+
+
+      The cost of equipment under capital leases included in the balance sheet
+as property, plant and equipment at December 31, 1994 and 1993 was
+approximately $17.9 million and $22.2 million, respectively.  Accumulated
+amortization of the leased equipment at December 31, 1994 and 1993 was
+approximately $13.9 million and $16.2 million, respectively.
+
+10.          LINES OF CREDIT
+
+             The Company has a line of credit with a bank allowing for  maximum
+borrowings of $10.0 million in the form of domestic rate revolving loans with
+interest at the bank's prime lending rate or Eurodollar rate loans with
+interest that exceeds three-quarters of one percent of the bank's current
+Eurodollar rate quoted for the same amount and maturity.  There were no
+outstanding borrowings at December 31, 1994 under this agreement.  Certain
+financial covenants and restrictions are included in this agreement that the
+Company was in compliance with at December 31, 1994.
+
+             This line of credit expires June 30, 1995, however, the Company is
+currently in negotiations with the bank regarding possible extension/expansion
+of this line of credit, but there can be no assurance that mutually acceptable
+terms can be reached.  An unused bank line of credit of $7.5 million was
+canceled by the Company effective December 30, 1994.
+
+11.          COMMITMENTS AND CONTINGENCIES
+
+             The Company has entered into an executive compensation agreement
+with one of its executive officers.  This agreement provides severance benefits
+to the executive in the event that within 120 days before or two years after
+any change in control, or sale of all or substantially all assets of the
+Company, the executive's employment is terminated by the Company or the
+executive, in circumstances described in the agreement.  The severance benefits
+are a cash payment of two times the executive's base salary, plus accelerated
+vesting of all outstanding stock options.
+
+             Securities class action lawsuits were filed against the Company
+and certain of its officers and directors in the United States District Court
+for the Northern District of California, San Jose Division, on April 8 and 9,
+1991.  The lawsuits, which were consolidated into a single action, allege
+violation of certain federal securities laws by maintaining artificially high
+market prices for the Company's common stock through alleged misrepresentations
+and nondisclosures regarding the Company's financial condition.  Court rulings
+in response to the Company's motions to dismiss the lawsuit limited the class
+period to include purchasers of the Company's common stock between January 29,
+1991 and April 3, 1991.
+
+             On March 23, 1993 a separate class action lawsuit was filed
+against the Company and certain of its directors and officers in the United
+States District Court, Northern District of California, San Jose Division.
+This lawsuit, which was consolidated into a single action with two virtually
+identical lawsuits filed later in March and in April 1993, alleges violation of
+certain federal securities laws by maintaining artificially high market prices
+for the Company's common stock through alleged misrepresentations and
+nondisclosures regarding the Company's financial condition.  On November 18,
+1993, the District Court granted the Company's motion to dismiss the 1993
+complaint.  The effect of the ruling was to dismiss the complaint except as to
+a statement allegedly made on January 28, 1993, but plaintiffs were granted
+leave to further amend their complaint.
+
+             In April 1994 the Company entered into tentative agreements to
+settle both of the above class action lawsuits for a combined settlement of
+$16.5 million, of which approximately $7.5 million was covered by the Company's
+insurance carriers.  The agreements are subject to final court approval.  At
+December 31, 1994, the total settlement amount has been remitted into escrow.
+
+             The Company is involved in various disputes and litigation matters
+which have arisen in the ordinary course of business. These include disputes
+and lawsuits related to intellectual property, contract law and employee
+relations matters.  Management believes that the ultimate resolution of these
+disputes and litigation matters will not have a material adverse impact on the
+Company's financial position or results of operations.
+
+
+
+
+
+12.          STOCKHOLDERS' EQUITY
+
+             REDEEMABLE CONVERTIBLE PREFERRED STOCK
+
+             The Company has 2,000,000 shares of authorized and unissued
+preferred stock at $.01 par value per share.  At December 31, 1994 and 1993
+there were no shares of preferred stock outstanding.
+
+             In 1990 a corporation obtained a minority interest in the Company
+through an initial investment of approximately $11.0 million in exchange for
+86,133 shares of newly issued Series A-1 voting convertible preferred stock,
+convertible into 861,330 common shares, at a purchase price equivalent to
+$13.00 per common share.  All of the preferred stock was converted to common
+stock during 1992.
+
+             Each share of Series A-1 preferred stock was entitled to receive
+cumulative annual dividends.  The dividends were payable in cash.  In 1992 the
+Company recorded approximately $.6 million for dividends paid to the
+corporation.
+
+
+             EMPLOYEE STOCK OPTION PLANS
+
+             The Company's Employee Stock Option Plan (the "Plan") provides for
+the issuance of either incentive or nonqualified options at an exercise price
+not less than fair market value of the stock on the date of grant.  Options
+granted under the Plan become exercisable over periods of one to four years and
+expire five to ten years from the date of grant.  During 1993 holders of the
+Company's options were given the opportunity to exchange previously granted
+stock options for new common stock options exercisable at $8.81 per share, the
+fair market value of the common stock on the date of exchange.  Under the terms
+of the new options, one-third of the shares vest one year from the date of
+grant and the remaining shares vest in 24 equal monthly installments.  Options
+to purchase 4,856,026 shares were exchanged.
+
+             During 1993 the Company adopted a Non Statutory-Stock Option Plan
+(the "Non-Statutory Plan").  Options granted under the Non-Statutory Plan
+become exercisable over a four year period, with one-fourth of the shares
+vesting one year from the vesting commencement date and the remaining shares
+vesting in 36 equal monthly installments.  The options granted under the
+Non-Statutory Plan generally expire ten years from the date of grant.
+
+             STOCK OPTION PLANS - COMPANIES ACQUIRED
+
+             The Company has assumed certain options granted to former
+employees of companies acquired (the "Acquired Options").  The Acquired Options
+were assumed by the Company outside the Plan, but all are administered as if
+assumed under the Plan.  All of the Acquired Options  have been adjusted to
+effectuate the conversion under the terms of the Agreements and Plans of
+Reorganization between the Company and the companies acquired.  The Acquired
+Options generally become exercisable over a four year period and generally
+expire either five or ten years from the date of grant.  No additional options
+will be granted under any of the acquired companies' plans.
+
+
+
+
+
+             Combined activity with respect to the Employee Stock Option Plans
+and Stock Option Plans - Companies Acquired was as follows:
+
+
+
+             At December 31, 1994 there were 4,453,794 options exercisable to
+purchase shares of common stock at prices ranging from $.41 to $27.44 per share
+and 2,018,590 options were available for future grant.
+
+             OPTION AGREEMENTS
+
+             The Company occasionally has issued options outside of the Plan.
+As of December 31, 1994 options to purchase 44,480 shares were outstanding
+under these agreements, of which 21,405 were exercisable at prices ranging from
+$9.31 to $18.25 per share.
+
+             DIRECTORS STOCK OPTION PLANS
+
+             The Company's Board of Directors has adopted the 1988 and 1993
+Directors Stock Option Plans (the "Directors Plans") in the indicated years.
+The Company has reserved 445,000 shares of common stock for issuance under
+these plans.  The Directors Plans provide for the issuance of nonqualified
+stock options to nonemployee directors of the Company with an exercise price
+equal to the fair market value of the common stock on the date of grant.
+Options granted under the Directors Plans have a term of up to ten years, with
+one-third of the shares vesting one year from the date of grant and two-thirds
+ratably over the subsequent two years.  As of December 31, 1994 options to
+purchase 195,000 shares of common stock at $9.31 to $21.63 per share were
+outstanding under the Directors Plans, of which options for 99,536 shares were
+exercisable at prices ranging from $9.31 to $21.63 per share.    Options to
+purchase 47,223 shares are available for future grant under the Directors
+Plans.  Options to purchase 107,777 shares of common stock have been exercised
+and 95,000 have expired as of December 31, 1994 under the Directors Plans.  No
+additional options will be granted under the 1988 Directors Plan.
+
+             EMPLOYEE STOCK PURCHASE PLANS
+
+             The Company has reserved 3,000,000 shares of common stock for
+issuance under the 1990 Employee Stock Purchase Plan (the "ESPP").  Under the
+ESPP the Company's employees may purchase shares of common stock at a price per
+share that is 85% of the lesser of the fair market value as of the beginning or
+the end of the semiannual option periods.  For the years ended December 31,
+1994, 1993 and 1992, shares issued under the plan were 641,988, 487,941 and
+324,183, respectively.  As of December 31, 1994, 1,307,680 shares were
+available for future purchase under the ESPP.
+
+
+
+
+
+
+
+             WARRANT
+
+             In connection with the purchase of certain assets of Comdisco, the
+Company issued a warrant to purchase 1,300,000 shares of the Company's common
+stock at $14.50 per share.  Subsequent to December 31, 1994, the Company
+repurchased a portion of the warrant applicable to 1,000,000 shares for
+approximately $12.1 million.  The warrant for the remaining 300,000 shares
+expires in June 2003 and can be exercised at any time in increments of not less
+than 50,000 shares.  The warrant was valued at the time of issuance at
+approximately $1.8 million which was included as part of the total purchase
+price of Comdisco.
+
+             RESERVED FOR FUTURE ISSUANCE
+
+             As of December 31, 1994 the Company has reserved the following
+shares of authorized but unissued common stock for future issuance:
+
+
+
+             STOCKHOLDER RIGHTS PLAN
+
+             During 1989 the Company adopted a Stockholder Rights Plan.  As
+part of this plan the Company's Board of Directors declared a dividend of one
+Common Share Purchase Right (the "Right") for each share of the Company's
+common stock outstanding on July 20, 1989.  The Board also authorized the
+issuance of one such Right for each share of the Company's common stock issued
+after July 20, 1989 until the occurrence of certain events.
+
+             Each Right entitles the holder thereof to purchase one share of
+the Company's common stock for $100, subject to adjustment in certain events.
+The Rights are not exercisable until the occurrence of certain events related
+to a person acquiring, or announcing the intention to acquire, 20% or more of
+the Company's common stock.  Upon such acquisition, each Right (other than
+those held by the acquiring person) will be exercisable for that number of
+shares of the Company's common stock having a market value of two times the
+exercise price of the Right.  If the Company subsequently enters into certain
+business combinations, each Right (other than those held by the acquiring
+person) will be exercisable for that number of shares of common stock of the
+other party to the business combination having a market value of two times the
+exercise price of the Right.  The Rights currently trade with the Company's
+common stock.  The Rights are subject to redemption at the option of the Board
+of Directors at a price of $.01 per Right until the occurrence of certain
+events, and are exchangeable for the Company's common stock, at the discretion
+of the Board of Directors, under certain circumstances.  The Rights expire on
+May 30, 1999.
+
+
+
+13.          INCOME TAXES
+
+             The provision for income taxes consisted of the following
+components:
+
+
+
+             Income (loss) before income taxes for the years ended December 31,
+1994, 1993 and 1992 included income of approximately $19.2 million, $9.2
+million and $5.5 million, respectively, from the Company's foreign
+subsidiaries.
+
+             The provision for income taxes is net of the benefit of operating
+loss carryforwards totaling $20.8 million, $2.8 million and $8.3 million, for
+the years ended December 31, 1994, 1993 and 1992, respectively.
+
+             The provision for income taxes differs from the amount estimated
+by applying the statutory federal income tax rate to income (loss) before
+income taxes as follows:
+
+
+
+
+
+
+
+
+
+             The components of deferred tax assets and liabilities consisted of
+the following :
+
+
+
+
+             The deferred assets which will affect equity or intangibles and
+which will not be available to offset future provisions for income taxes are
+stated in the above table as "Valuation allowance-equity/intangibles."  The net
+operating losses will expire at various dates from 1997 through the year 2008
+and tax credit carry forwards will expire at various dates from 1995 through
+the year 2009.
+
+             The Company's federal income tax returns for 1989 through 1991
+have been examined by the Internal Revenue Service ("IRS").  Tax credits of
+$15.6 million have been disallowed by the IRS. The Company is contesting these
+adjustments and is pursuing administrative remedies.  Management believes that
+adequate provision has been made for any deficiency that may result from this
+examination and that the resolution of this matter will not have a material
+impact on the Company's financial position or results of operations.
+
+
+
+
+
+
+14.          OPERATIONS BY GEOGRAPHIC AREA
+
+             The Company operates primarily in one industry segment -- the
+development and marketing of computer-aided design software and related
+services.  The Company's products have been marketed internationally through
+distributors and through the Company's subsidiaries in Europe and Asia/Pacific.
+Intercompany revenue results from licenses that are based on a percentage of
+the subsidiaries' revenue from unaffiliated customers.  The following table
+presents a summary of operations by geographic area (in thousands):
+
+
+
+(1)      Domestic operations revenue includes export revenue of approximately
+         $12.9 million, $10.1 million, and $11.5 million to Europe for the
+         years ended December 31, 1994, 1993 and 1992, respectively, and
+         approximately $65.4 million, $49.0 million and $75.4 million to
+         Asia/Pacific for the years ended December 31, 1994, 1993 and 1992,
+         respectively.
+
+
+
+
+
+
+
+                                  SCHEDULE II
+
+
+                          CADENCE DESIGN SYSTEMS, INC.
+                 VALUATION AND QUALIFYING ACCOUNTS AND RESERVES
+                                 (IN THOUSANDS)
+
+
+
+
+
+
+
+
+(1)    Uncollectible accounts written-off
+(2)    Inventory costs written-off
+(3)    Incurred severance and facilities costs relating to the Company's
+       restructuring and a reclassification of $3,500 in 1993 from accrued
+       operating lease obligations to lease liabilities.
+(4)    Reflects a reclassification of $2,009 from accrued liabilities to other
+       noncurrent liabilities.
+(5)    Incurred severance and facilities costs relating to the Company's
+       disposal of a division.
+
+
+
+
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, Cadence Design Systems, Inc.  has duly caused this report
+to be signed on its behalf by the undersigned, thereunto duly authorized, March
+31, 1995.
+
+
+                                        CADENCE DESIGN SYSTEMS, INC.
+
+
+
+                                        /s/ Joseph B. Costello
+                                        -----------------------------------
+                                        Joseph B. Costello
+                                        President & Chief Executive Officer
+
+         Pursuant  to the requirements of the Securities Exchange Act of 1934,
+this report has been signed by the following persons on behalf of the
+registrant and in the capabilities and on the date indicated.
+
+
+
+
+
+
+
+ADDITIONAL DIRECTORS
+
+
+
+
+
+
+
+
+
+                               INDEX TO EXHIBITS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*             A Management contract or compensatory plan required to be filed
+              as an exhibit to Form 10-K.
+
+
+
+
+

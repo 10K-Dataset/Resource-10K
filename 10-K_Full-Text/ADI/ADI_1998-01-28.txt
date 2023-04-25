@@ -1,0 +1,808 @@
+
+10-K
+ANALOG DEVICES
+
+
+
+================================================================================
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                                    FORM 10-K
+  (MARK ONE)
+     [X]       ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (D) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+                    FOR THE FISCAL YEAR ENDED NOVEMBER 1, 1997
+
+                                       OR
+
+     [ ]    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (D) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+
+        FOR THE TRANSITION PERIOD FROM_______________ TO ________________
+
+                           COMMISSION FILE NO. 1-7819
+
+                              ANALOG DEVICES, INC.
+
+             (Exact name of registrant as specified in its charter)
+
+      MASSACHUSETTS                                     04-2348234
+(State or other jurisdiction of                      (I.R.S. Employer
+incorporation or organization)                       Identification No.)
+
+    ONE TECHNOLOGY WAY, NORWOOD, MA                     02062-9106
+(Address of principal executive offices)                (Zip Code)
+
+                                 (781) 329-4700
+              (Registrant's telephone number, including area code)
+                             ----------------------
+
+          SECURITIES REGISTERED PURSUANT TO SECTION 12 (B) OF THE ACT:
+
+COMMON STOCK $.16 2/3 PAR VALUE                 NEW YORK STOCK EXCHANGE
+     Title of Each Class              Name of Each Exchange on Which Registered
+
+          SECURITIES REGISTERED PURSUANT TO SECTION 12 (G) OF THE ACT:
+
+                                      NONE
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ ]
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or such shorter period that the registrant
+was required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. YES X  NO
+
+     The aggregate market value of the voting stock held by non-affiliates of
+the registrant was approximately $4,395,116,408 based on the closing price of
+the Common Stock on the New York Stock Exchange Composite Tape reporting system
+on December 31, 1997.
+
+     As of December 31, 1997, there were 162,201,029 shares of $.16 2/3 par
+value Common Stock outstanding.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+    DOCUMENT DESCRIPTION                                   10-K PART
+    --------------------                                   ---------
+Portions of Annual Report to 
+   Shareholders for the fiscal year
+   ended November 1, 1997                                   I and II
+Portions of the Registrant's Proxy 
+   Statement for the Annual Meeting 
+   of Stockholders to be held March 10, 1998                  III
+
+================================================================================
+
+
+
+
+
+                                     PART I
+
+ITEM 1.    BUSINESS
+
+COMPANY OVERVIEW
+
+Analog Devices, Inc. ("Analog" or the "Company") designs, manufactures and
+markets a broad line of high-performance linear, mixed-signal and digital
+integrated circuits ("ICs") that address a wide range of real-world signal
+processing applications. The Company's principal products include
+general-purpose, standard-function linear and mixed-signal ICs ("SLICs") and
+system-level ICs. The latter group includes general-purpose digital signal
+processing ICs ("DSPs") and application-specific devices that typically
+incorporate analog and mixed-signal circuitry and a DSP core.
+
+Nearly all of Analog's products are components, which are typically incorporated
+by original equipment manufacturers ("OEMs") in a wide range of equipment and
+systems for use in communications, computer, industrial, instrumentation,
+military/aerospace, automotive and high-performance consumer electronics
+applications.
+
+The Company sells its products worldwide through a direct sales force,
+third-party industrial distributors and independent sales representatives.
+Approximately 46% of fiscal 1997 revenue was derived from customers in North
+America, while most of the balance was derived from customers in Western Europe
+and the Far East.
+
+Analog is headquartered near Boston in Norwood, Massachusetts, and has
+manufacturing facilities in Massachusetts, California, North Carolina, Ireland,
+the Philippines and Taiwan. Founded in 1965, Analog employs approximately 7,500
+persons worldwide.
+
+INDUSTRY BACKGROUND
+
+Real-world phenomena, such as temperature, pressure, sound, images, speed,
+acceleration, position and rotation angle, are inherently analog in nature,
+consisting of continuously varying information. This information can be detected
+and measured using analog sensors, which represent real-world phenomena by
+generating continuously varying voltages and currents. The signals from these
+sensors are initially processed using analog methods, such as amplification,
+filtering and shaping. They are then usually converted to digital form for input
+to a microprocessor, which is used to manipulate, store or display the
+information. In many cases the signals are further processed after conversion to
+digital form using a technology called "digital signal processing," or DSP. In
+addition, digital signals are frequently converted to analog form to provide
+signals for analog display, sound, or control functions. These manipulations and
+transformations are known collectively as "real-world signal processing."
+
+Significant advances in semiconductor technology over the past 10 to 15 years
+have led to substantial increases in the performance and functionality of ICs
+used in signal processing applications. These advances include the ability to
+create VLSI (Very Large Scale Integration) mixed-signal ICs that contain both
+high-performance analog circuitry and large amounts of high-density digital
+circuitry. The analog circuitry portion of the IC is used for manipulating
+real-world signals while still in analog form and for converting analog signals
+into digital form (or vice versa), and the digital portion is used for further
+processing analog signals subsequent to their conversion to digital form. The
+ICs resulting from these advances are used as components in equipment and
+systems to achieve higher performance and more efficient signal processing.
+
+PRINCIPAL PRODUCTS
+
+The Company operates predominantly in one industry segment: the design,
+manufacture and marketing of a broad line of high-performance linear,
+mixed-signal and digital integrated circuits that address a wide range of
+real-world signal processing applications. Analog's products can be divided into
+three classifications: Standard Linear ICs, system-level ICs and assembled
+products.
+
+A substantial portion of the Company's products are proprietary, while
+equivalents to most of its other products are available from a limited number of
+other suppliers.
+
+
+
+
+
+SLICS
+
+SLIC products have been the foundation of the Company's business for more than
+20 years, and Analog believes it is one of the world's largest SLIC suppliers.
+During 1997, 1996 and 1995, SLIC sales represented 61%, 57% and 64%,
+respectively, of the Company's total sales. The Company's SLICs are primarily
+high-performance, single-function devices. The majority of the Company's SLIC
+product revenue is attributable to sales of data converters (analog-to-digital
+and digital-to-analog) and amplifiers. Other SLIC products offered by the
+Company include analog signal-processing devices (such as analog multipliers),
+voltage references and comparators. Over the past few years the Company has been
+expanding its SLIC product offerings into product areas where its focus was
+previously limited, principally interface circuits and power management ICs. It
+is also expanding its SLIC product line to include a much larger number of
+products designed to operate from single-supply 3 or 5 volt power sources to
+better meet the needs of customers designing portable, battery-operated
+equipment.
+
+Analog's SLIC products tend to be general purpose in nature, which allows
+customers to incorporate them in a wide variety of equipment and systems.
+Analog's product portfolio includes several hundred SLICs, any one of which can
+have as many as several hundred customers. SLICs typically have long product
+life cycles. The Company's SLIC customers include both OEMs and customers who
+build equipment for their own use. Historically, most SLICs have been purchased
+by OEMs which serve the instrumentation, industrial and military/aerospace
+markets, but they are now also being used for applications in communications,
+computers, camcorders, scanners, automatic test equipment, imaging and other
+consumer applications requiring high-performance real-world signal processing.
+
+By using standard, high-performance, readily available, off-the-shelf components
+in their designs, Analog's customers can reduce the time required to develop and
+bring new products to market. Given the high cost of developing customized ICs,
+SLICs usually provide the most cost-effective solutions for low to medium volume
+applications. In addition, combinations of SLICs connected together on a printed
+circuit board can provide functionality not currently achievable using a single
+IC.
+
+SYSTEM-LEVEL ICS
+
+Analog's system-level ICs include general-purpose DSP ICs and multi-function
+devices that feature high levels of functional integration on a single chip.
+During 1997, 1996 and 1995, sales of these products represented 35%, 38% and
+28%, respectively, of the Company's total sales.
+
+The Company's general-purpose DSP ICs are designed to efficiently execute
+specialized programs (algorithms) associated with processing digitized
+real-time, real-world data. General-purpose DSP IC customers typically write
+their own algorithms using software tools provided by the Company and software
+tools obtained from third-party suppliers. All of these devices share a common
+architecture and code compatibility, which allows system designers to address
+cost, performance and time-to-market constraints. Analog supports these products
+with specialized applications and easy-to-use, low-cost design tools, which
+reduce product development costs and time to market.
+
+Most of Analog's system-level ICs, other than its general-purpose DSPs, are
+mixed-signal devices some of which include a DSP core. The balance are
+linear-only devices. These devices are nearly always designed to meet the
+requirements of a specific application, and the design process often includes
+significant input from one or more potential key customers. Market demand for
+these types of devices is driven by the benefits that result from combining a
+number of functions on a single circuit, as opposed to a combination of SLICs
+and other ICs. These benefits include higher performance, lower cost per
+function, smaller size, lower weight, fewer parts and decreased power
+consumption. These products allow Analog's customers to design smaller, lighter,
+higher performance, more power-efficient and lower cost end products. The
+Company believes that these benefits are becoming more important to the
+Company's OEM customers as they increase their focus on high-performance, small,
+lightweight products, many of which are battery powered.
+
+
+
+
+
+ASSEMBLED PRODUCTS
+
+The Company's assembled products include multi-chip modules ("MCMs"), hybrids
+and printed-board modules. A MCM is a device made up of several IC chips
+assembled in an automated fashion in a multilayer package that provides high
+interconnect density at low cost. A hybrid consists of several chips and
+discrete components mounted and wired together on a substrate, which is then
+enclosed in a package. A printed-board module consists of surface-mount
+components assembled on a small printed board that is then encapsulated in a
+small plastic case.
+
+Revenues from this product group have been declining for several years,
+primarily because hybrids have been replaced in many new designs with smaller,
+lower-cost monolithic ICs that offer higher levels of performance and
+integration at lower cost. During 1997, 1996 and 1995, sales of these products
+represented 4%, 5% and 8%, respectively, of the Company's total sales.
+
+MARKETS AND APPLICATIONS
+
+The Company's products are sold primarily to OEMs for incorporation into
+equipment, instruments and systems sold to end users for a wide variety of
+applications, including engineering; medical and scientific instruments;
+industrial equipment; communications equipment; computers and computer
+peripherals; military/aerospace equipment; high-end consumer electronics
+products and automotive products. The Company's growth has been aided both by
+the expansion of these markets and the increasing need for high-performance
+real-time signal processing.
+
+Listed below are some of the characteristics of each of the Company's major
+markets:
+
+INSTRUMENTATION--includes engineering, medical and scientific instruments. These
+products are usually designed using the highest performance SLICs available,
+where production volumes generally do not warrant custom or application-specific
+ICs.
+
+INDUSTRIAL--includes data acquisition systems, automatic process control
+systems, robotics, environmental control systems and automatic test equipment
+("ATE"). These products generally require ICs that offer performance greater
+than that available from commodity-level ICs, but generally do not have
+production volumes that warrant custom or application-specific ICs. Combinations
+of SLICs are therefore usually employed to achieve the necessary functionality,
+except in ATE applications where the high level of electronic circuitry required
+per tester has created opportunities for the design of system-level ICs for this
+application.
+
+COMMUNICATIONS--includes data and fax modems, digital cellular telephones and
+portable, wireless communication base station equipment and broadband wired
+applications. The need for ever higher speed, coupled with more reliable, more
+bandwidth-efficient communications is creating increasing demand for systems
+that include both digital and analog signal processing capability. Demand for
+signal processing ICs for this market is also being driven by the equipment
+manufacturers' need for components that enable them to develop cost-effective
+products that feature high performance, small size, low weight and minimal power
+consumption.
+
+COMPUTERS AND COMPUTER PERIPHERALS--includes high-performance personal
+computers, workstations and peripheral devices such as hard disk drives and
+scanners. The Company currently supplies a variety of ICs used in this market
+for functions such as graphic displays; interfaces between PCs and peripherals
+such as modems and printers; power and battery management; and enhanced sound
+input and output capability for business and entertainment applications.
+
+MILITARY/AEROSPACE--includes military, commercial avionics and space markets,
+all of which require high-performance ICs that meet rigorous environmental and
+reliability specifications. Nearly all of the Company's SLICs can be supplied in
+versions that meet appropriate military standards. In addition, many products
+can be supplied to meet the standards required for broadcast satellites and
+other commercial space applications. Most of the Company's products sold in this
+market are derived from standard commercial grade ICs, although the Company
+sometimes develops products expressly for military/aerospace applications.
+
+
+
+
+
+CONSUMER ELECTRONICS--The emergence of high-performance consumer products, such
+as compact disc players, DVD players and digital camcorders, has led to the need
+for high-performance system-level ICs with a high level of functionality.
+Although the Company's revenue from this market has not been significant, the
+Company has begun supplying ICs for sophisticated products used by consumers for
+computing, communications and entertainment applications, and believes that many
+of these applications will involve digital signal processing.
+
+AUTOMOTIVE--Although the automotive market has historically been served with
+low-cost, low-performance ICs, demand has emerged for higher performance devices
+for a wide range of applications. In response, Analog is developing products
+specifically for the automotive market. The Company is supplying a micromachined
+IC used as a crash sensor in airbag systems, which serves as an alternative to
+an electromechanical sensor. The Company anticipates that other micromachined
+devices derived from this product may be suitable for other automotive
+applications, such as anti-lock brakes and "smart" suspension systems.
+
+RESEARCH AND DEVELOPMENT
+
+The markets served by Analog are characterized by rapid technological changes
+and advances. Accordingly, the Company makes substantial investments in the
+design and development of new products and processes, and for significant
+improvement of existing products and processes. Analog spent $196 million during
+fiscal 1997 on the design, development and improvement of new and existing
+products and processes, compared to $178 million during fiscal 1996 and $134
+million during fiscal 1995.
+
+In support of its research and development activities, the Company employs
+several hundred engineers involved in product and process development at several
+design centers and manufacturing sites located throughout the world.
+
+As of November 1, 1997, the Company owned 486 U.S. patents and had 168 patent
+applications on file with the United States patent office. The Company believes
+that while its patents may provide some advantage, its competitive position is
+largely determined by such factors as the knowledge, ability and experience of
+the Company's personnel, new product development, market recognition and ongoing
+marketing efforts, customer service and technical support.
+
+SALES CHANNELS
+
+Analog sells its products in both North America and internationally through a
+direct sales force, third-party distributors and independent sales
+representatives. Approximately 46% of fiscal 1997 revenue was derived from
+customers in North America. As of December 1, 1997, the Company had 13 sales
+offices in the United States, and its third-party distribution channel consisted
+of eight national and regional third-party distributors and several independent
+sales representatives at numerous locations throughout the U.S. and Canada.
+
+Approximately 29% of the Company's fiscal 1997 revenue was derived from sales to
+customers in Europe; 13% to customers in Japan; and 12% to customers in other
+international markets. As of December 1, 1997, the Company had direct sales
+offices in Australia, Austria, Denmark, France, Germany, Hong Kong, India,
+Israel, Italy, Japan, Korea, The Netherlands, Singapore, Sweden, Taiwan and the
+United Kingdom. The Company also had sales representatives and/or distributors
+in approximately 36 countries outside North America, including countries where
+the Company also has direct sales offices. For further detail regarding
+geographic information, see Note 3 in the Notes to the Company's Consolidated
+Financial Statements incorporated herein by reference to the 1997 Annual Report
+to Shareholders and filed herewith as part of Exhibit 13.2.
+
+Approximately 42% of Analog's fiscal 1997 revenue was derived from sales made
+through distributors. The Company's distributors typically maintain an inventory
+of Analog products. Some of these distributors also sell products competitive
+with the Company's products, including those for which the Company is an
+alternate source. Sales to certain distributors are made under agreements which
+provide protection to the distributors for their inventory of Company products
+against price reductions and products that are slow-moving or have been
+discontinued by the Company.
+
+
+
+
+
+The Company's worldwide sales efforts are supported by an extensive promotional
+program that includes editorial coverage and paid advertising in trade
+publications; direct mail programs; promotional brochures; technical seminars;
+and participation in trade shows. The Company publishes and distributes
+full-length databooks, short-form catalogs, applications guides, technical
+handbooks and detailed data sheets for individual products. The Company also
+provides products and application information via its worldwide web site on the
+Internet. The Company also maintains a staff of application engineers who aid
+customers in incorporating Analog's products into their products during their
+product development cycles.
+
+For fiscal 1997, Analog's 20 largest customers accounted for approximately 29%
+of the Company's net sales. The largest single customer represented less than 4%
+of net sales.
+
+PRODUCTION AND RAW MATERIALS
+
+Monolithic integrated circuit components are manufactured in a sequence of
+production steps that include wafer fabrication, wafer testing, cutting the
+wafer into individual "chips" (or dice), assembly of the dice into packages and
+electrical testing of the devices in final packaged form. The raw materials used
+to manufacture these devices include silicon wafers, processing chemicals
+(including liquefied gases), precious metals, ceramic packages and plastic used
+for plastic packaging.
+
+In addition to using industry-standard bipolar and CMOS wafer fabrication
+processes, Analog employs a wide variety of Company-developed proprietary
+processes specifically tailored for use in fabricating high-performance linear
+and mixed-signal SLICs and system-level ICs.
+
+Analog's IC products are fabricated both at the Company's production facilities
+and by third-party wafer fabricators. The Company relies primarily on its own
+facilities for fabricating wafers that require linear and mixed-signal
+processes. The Company operates wafer fabrication facilities in Wilmington and
+Cambridge, Massachusetts; Santa Clara and Sunnyvale, California; and Limerick,
+Ireland for production of linear and mixed-signal devices. The Company also
+operates assembly and test facilities located in the United States, Ireland, the
+Philippines and Taiwan and also uses third-party subcontractors. The Company
+uses two principal foundries, Taiwan Semiconductor Manufacturing Company
+("TSMC") and Chartered Semiconductor Manufacturing Pte., Ltd. ("CSM") for the
+production of digital and VLSI mixed-signal devices. To provide access to
+advanced process technology at competitive costs, the Company has entered into a
+joint venture agreement (WaferTech, LLC) with TSMC, Altera, Integrated Silicon
+Solutions and several individual investors to build an eight-inch wafer
+fabrication facility in Camas, Washington. Analog is an 18% equity partner in
+the joint venture, which is expected to become operational late in 1998, and has
+rights to purchase up to 27% of the output from this facility.
+
+Hybrid products are manufactured by mounting and connecting together several
+integrated circuit chips in a single package. Some of the chips used in the
+Company's hybrids are manufactured by the Company and some are purchased from
+outside suppliers. The production process for modular components, subsystems and
+systems consists primarily of assembly, packaging and testing. Some of the
+Company's assembled products are assembled and tested within the Company's U.S.
+manufacturing facilities, while others are assembled and tested at Company-owned
+facilities outside the United States or by subcontractors, principally in the
+Far East.
+
+To respond to production capacity shortages which existed during 1995, the
+Company significantly expanded its manufacturing capacity during 1996 and 1997.
+Major wafer fabrication expansions have been completed in Wilmington,
+Massachusetts; Cambridge, Massachusetts; Sunnyvale, California and Limerick,
+Ireland. In addition, the Company has completed construction of an additional
+assembly and test facility in Cavite, Philippines.
+
+BACKLOG
+
+Backlog at the end of fiscal 1997 was approximately $280 million; it was
+approximately $291 million at the end of fiscal 1996. The Company may allow
+customers to revise the quantities or delivery schedules of products ordered to
+reflect changes in their needs. Accordingly, the Company believes that its
+backlog at any time should not be used as a measure of future revenues.
+
+
+
+
+
+GOVERNMENT CONTRACTS
+
+The Company estimates that approximately 12% of its fiscal 1997 total worldwide
+revenue was attributable to sales to the U.S. government and government
+contractors and subcontractors. Analog's government contract related business is
+predominantly in the form of negotiated, firm fixed-price subcontracts. All such
+contracts and subcontracts contain standard provisions relating to termination
+at the election of the United States government.
+
+COMPETITION
+
+Analog competes with a large number of semiconductor companies in markets that
+are highly competitive. The Company believes it is one of the largest suppliers
+of high-performance linear and mixed-signal signal-processing components. These
+types of products fall into both the SLIC and system-level IC product
+categories. Competitors for the Company's linear and mixed-signal products
+include Burr-Brown Corp., Cirrus Logic Inc., Exar Corp., Harris Corp., Linear
+Technology Corp., Maxim Integrated Products, Inc., National Semiconductor Corp.,
+Rockwell International Corp., Sierra Semiconductor Corp., Siliconix Inc., Texas
+Instruments, Inc. and others.
+
+Sales of DSPs represent a growing percentage of the Company's total sales.
+Analog's competitors in the DSP IC market include Lucent Technologies Inc.,
+Motorola Semiconductor Products and Texas Instruments, Inc.
+
+Many other companies offer components that compete with Analog's products; some
+also offer other electronic products, and some have financial resources
+substantially larger than Analog's. Also, some formerly independent competitors
+have been purchased by larger companies. However, to the Company's knowledge, no
+manufacturer competes with Analog across all of the product types offered by the
+Company in its signal-processing components product line.
+
+Analog believes that competitive performance in the marketplace for real-world
+signal-processing components depends upon several factors, including product
+price, technical innovation, product quality and reliability, range of products,
+customer service and technical support. Analog believes its aggressive technical
+innovation emphasizing product performance and reliability, supported by its
+commitment to strong customer service and technical support, enables the Company
+to continue to compete successfully in its chosen markets against both foreign
+and domestic semiconductor manufacturers.
+
+ENVIRONMENT
+
+Analog's manufacturing facilities are subject to numerous environmental laws and
+regulations, particularly with respect to industrial waste and emissions.
+Compliance with these laws and regulations has not had a material impact on the
+Company's capital expenditures, earnings or competitive position.
+
+EMPLOYEES
+
+As of November 1, 1997, the Company employed approximately 7,500 persons. The
+Company's future success depends in large part on the continued service of its
+key technical and senior management personnel, and on its ability to continue to
+attract, retain and motivate qualified employees, particularly those highly
+skilled design, process and test engineers involved in the manufacture of
+existing products and the development of new products and processes. The
+competition for such personnel is intense, and the loss of key employees could
+have a material adverse effect on the Company. The Company believes that
+relations with its employees are good.
+
+
+
+
+
+
+ITEM 2.    PROPERTIES
+
+The Company's corporate headquarters is located in Norwood, Massachusetts.
+Manufacturing and other operations are carried on in several locations
+worldwide. The following tables provide certain information as to the Company's
+principal general offices and manufacturing facilities:
+
+
+
+
+                                                                              
+
+
+
+
+
+
+ITEM 2.    PROPERTIES -- (CONTINUED)
+
+In addition to the principal leased properties listed in the previous table, the
+Company also leases sales offices and other premises at 29 locations in the
+United States and 28 locations overseas under operating lease agreements. These
+leases expire at various dates through the year 2010. The Company anticipates no
+difficulty in retaining occupancy of any of its manufacturing, office or sales
+facilities through lease renewals prior to expiration or through month-to-month
+occupancy, or in replacing them with equivalent facilities. For information
+concerning the Company's obligations under all operating and capital leases see
+Note 7 in the Notes to the Company's Consolidated Financial Statements
+incorporated herein by reference to the 1997 Annual Report to Shareholders and
+filed herewith as part of Exhibit 13.2.
+
+ITEM 3.    LEGAL PROCEEDINGS
+
+The information required by this item is set forth in Note 8 in the Notes to the
+Company's Consolidated Financial Statements incorporated herein by reference to
+the 1997 Annual Report to Shareholders and filed herewith as part of Exhibit
+13.2.
+
+ITEM 4.    SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+No matters were submitted to a vote of the Company's security holders during the
+last quarter of the fiscal year ended November 1, 1997.
+
+
+\
+
+                        EXECUTIVE OFFICERS OF THE COMPANY
+
+The following table sets forth (i) the name and age of each present executive
+officer of the Company; (ii) the position(s) presently held by each person
+named; and (iii) the principal occupations held by each person named for at
+least the past five years.
+
+
+
+
+
+
+
+
+
+There is no family relationship among the named officers.
+
+
+
+
+
+                                     PART II
+
+ITEM 5.    MARKET FOR REGISTRANT'S COMMON STOCK AND RELATED STOCKHOLDER MATTERS
+
+The Company's Common Stock is listed on the New York Stock Exchange ("NYSE")
+under the symbol ADI. The table below sets forth the NYSE high and low sale
+prices of the Common Stock during the two most recent fiscal years.
+
+
+
+The Company's $60,000,000 credit agreement restricts the aggregate of all cash
+dividend payments declared or made subsequent to November 2, 1996 to an amount
+not exceeding $150,000,000 plus 50% of the consolidated net income of the
+Company for the period from November 3, 1996 through the end of the Company's
+then most recent fiscal quarter. At November 1, 1997 this amount was equal to
+$239,110,000. The Company has never paid any cash dividends on its Common Stock
+and has no current intentions to do so.
+
+The approximate number of holders of record of the Company's Common Stock at
+December 31, 1997 was 5,132. This number does not include shareholders for whom
+shares are held in a "nominee" or "street" name.
+
+ITEM 6.    SELECTED FINANCIAL DATA
+
+
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+The information required by this item is incorporated herein by reference to the
+"Management Analysis" set forth on pages 1 through 7 of the 1997 Annual Report
+to Shareholders and is filed herewith as part of Exhibit 13.1.
+
+ITEM 7A. QUALITATIVE AND QUANTITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The information required by this item is incorporated herein by reference to the
+"Management Analysis" set forth on pages 1 through 7 of the 1997 Annual Report
+to Shareholders and is filed herewith as part of Exhibit 13.1.
+
+
+
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+The information required by this item is incorporated herein by reference to the
+Company's 1997 Annual Report to Shareholders under the headings "Financial
+Section - Consolidated Statements of Income, - Consolidated Balance Sheets, -
+Consolidated Statements of Stockholders' Equity, - Consolidated Statements of
+Cash Flows, - Notes to Consolidated Financial Statements, - Report of Ernst &
+Young LLP, Independent Auditors and - Supplementary Financial Information," and
+is filed herewith as Exhibit 13.2.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURE
+
+Not applicable.
+
+
+                                    PART III
+
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+The response to this item is contained in part under the caption "EXECUTIVE
+OFFICERS OF THE COMPANY" in Part I hereof, and the remainder is contained in the
+Company's Proxy Statement for the Annual Meeting of Stockholders to be held on
+March 10, 1998 (the "1998 Proxy Statement") under the caption "Election of
+Directors" and is incorporated herein by reference. Information relating to a
+delinquent filing of a Form 4 by an Executive Officer of the Company is
+contained in the Company's 1998 Proxy Statement under the caption "Beneficial
+Ownership Reporting Compliance."
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+The response to this item is contained in the Company's 1998 Proxy Statement
+under the captions "Directors' Compensation," "Executive Compensation," and
+"Severance and Other Agreements," and is incorporated herein by reference.
+
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+The response to this item is contained in the Company's 1998 Proxy Statement
+under the caption "Security Ownership of Certain Beneficial Owners and
+Management" and is incorporated herein by reference.
+
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+The response to this item is contained in the Company's 1998 Proxy Statement
+under the caption "Transactions with Directors," and is incorporated herein by
+reference.
+
+
+
+
+
+                                     PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+(a) 1.  FINANCIAL STATEMENTS
+
+      The following consolidated financial statements are included in the
+      Company's 1997 Annual Report and are incorporated herein by reference 
+      pursuant to Item 8:
+
+        -  Consolidated Statements of Income for the years ended November 1,
+           1997, November 2, 1996 and October 28, 1995
+
+        -  Consolidated Balance Sheets as of November 1, 1997, November 2, 1996
+           and October 28, 1995
+
+        -  Consolidated Statements of Stockholders' Equity for the years ended
+           November 1, 1997, November 2, 1996 and October 28, 1995
+
+        -  Consolidated Statements of Cash Flows for the years ended November 1,
+           1997, November 2, 1996 and October 28, 1995
+
+(a) 2.     FINANCIAL STATEMENT SCHEDULES
+
+      The following consolidated financial statement schedule is included in
+      Item 14(d):
+
+        Schedule II - Valuation and Qualifying Accounts
+
+      All other schedules have been omitted since the required information is
+      not present, or not present in amounts sufficient to require submission of
+      the schedule, or because the information required is included in the
+      consolidated financial statements or the notes thereto.
+
+(a) 3.     LISTING OF EXHIBITS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   SIGNATURES
+
+
+Pursuant to the requirements of Section 13 or 15 (d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+
+ANALOG DEVICES, INC.
+ (Registrant)
+
+By:   /s/  Jerald G. Fishman                  By:   /s/  Joseph E. McDonough
+      ------------------------------------          ----------------------------
+      Jerald G. Fishman                             Joseph E. McDonough
+      President                                     Vice President-Finance
+      Chief Executive Officer                       and Chief Financial Officer
+      and Director                                  (Principal Financial and
+      (Principal Executive Officer)                 Accounting Officer)
+
+
+Date: JANUARY 28, 1998                        Date: JANUARY 28, 1998
+      ------------------------------------          ----------------------------
+
+
+Pursuant to the requirements of the Securities and Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+
+
+*    Became a member of the Board of  Directors  on  December  10, 1997 and,  
+     accordingly,  did not serve as a Director during fiscal 1997.
+
+
+
+
+                              ANALOG DEVICES, INC.
+
+                           ANNUAL REPORT ON FORM 10-K
+
+                           YEAR ENDED NOVEMBER 1, 1997
+
+                                   ITEM 14(d)
+                          FINANCIAL STATEMENT SCHEDULE
+
+
+
+
+
+                              ANALOG DEVICES, INC.
+                 SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+       YEARS ENDED NOVEMBER 1, 1997, NOVEMBER 2, 1996 AND OCTOBER 28, 1995
+                                   (THOUSANDS)
+
+
+
+* Amounts have been restated to reflect reclassification of certain reserves
+  from Accrued liabilities to Accounts receivable.
+
+
+
+
+
+
+

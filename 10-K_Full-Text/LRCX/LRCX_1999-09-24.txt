@@ -1,0 +1,3252 @@
+
+10-K405
+FORM 10-K FOR YEAR ENDED JUNE 30, 1999
+
+
+
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                           -------------------------
+
+                                   FORM 10-K
+                           -------------------------
+
+(MARK ONE)
+
+     [X]   ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+        SECURITIES EXCHANGE ACT OF 1934
+
+                    FOR THE FISCAL YEAR ENDED JUNE 30, 1999
+
+     [ ]   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+        SECURITIES EXCHANGE ACT OF 1934
+
+                         COMMISSION FILE NUMBER 0-12933
+                            ------------------------
+
+                            LAM RESEARCH CORPORATION
+            (EXACT NAME OF REGISTRANT, AS SPECIFIED IN ITS CHARTER)
+
+
+
+                                 (510) 659-0200
+              (REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE)
+
+                            ------------------------
+
+        SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT: NONE
+
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT:
+
+                    COMMON STOCK, PAR VALUE $0.001 PER SHARE
+                            ------------------------
+
+     Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  Yes  [X]       No  [ ]
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of Registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K, or any amendment to
+this Form 10-K.  [X]
+
+     The aggregate market value of the voting stock held by non-affiliates of
+the Registrant, based on the average of the closing price of the Common Stock on
+September 1, 1999, as reported by the Nasdaq National Market, was approximately
+$1,903,367,000. Common Stock held by each officer and director and by each
+person who owns 5% or more of the outstanding Common Stock has been excluded
+from this computation in that such persons may be deemed to be affiliates. This
+determination of affiliate status is not necessarily a conclusive determination
+of such status for other purposes.
+
+     As of September 1, 1999, the Registrant had outstanding 39,061,385 shares
+of Common Stock.
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+     Parts of Registrant's Proxy Statement for the Annual Meeting of
+Stockholders to be held on November 4, 1999 are incorporated by reference into
+Part III of this Form 10-K Report. (The Report of the Compensation Committee and
+the Comparative Stock Performance graph of the Registrant's Proxy Statement are
+expressly not incorporated by reference herein.)
+
+                                     PART I
+
+     The index to Exhibits is located on pages 62 to 65.
+
+ITEM 1. BUSINESS
+
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS
+
+     With the exception of historical facts, the statements contained in this
+discussion are forward-looking statements within the meaning of Section 27A of
+the Securities Act of 1933 and Section 21E of the Securities Exchange Act of
+1934, as amended (the "Exchange Act"), and are subject to the Safe Harbor
+provisions created by that statute. Such forward-looking statements include, but
+are not limited to, statements that relate to the Company's future revenue,
+product development, demand, acceptance and market share, competitiveness, gross
+margins, levels of research and development ("R&D") and operating expenses,
+management's plans and objectives for current and future operations of the
+Company, the effects of the Company's reorganization and consolidation of
+operations and facilities, the ability of the Company to complete contemplated
+reorganizations or consolidations on time or within anticipated costs and the
+sufficiency of financial resources to support future operations and capital
+expenditures. Such statements are based on current expectations and are subject
+to risks, uncertainties and changes in condition, significance, value and
+effect, including those discussed below and under the heading Risk Factors
+within the section of this report entitled Item 7. "Management's Discussion and
+Analysis of Financial Condition and Results of Operations" and other documents
+the Company files from time to time with the Securities and Exchange Commission;
+specifically, the Company's quarterly reports on Forms 10-Q and the Company's
+current reports on Form 8-K. Such risks, uncertainties and changes in condition,
+significance, value and effect could cause actual results to differ materially
+from those expressed herein and in ways not readily foreseeable. Readers are
+cautioned not to place undue reliance on these forward-looking statements, which
+speak only as of the date hereof and of information currently and reasonably
+known. The Company undertakes no obligation to release the results of any
+revisions to these forward-looking statements which may be made to reflect
+events or circumstances which occur after the date hereof or to reflect the
+occurrence or effect of anticipated or unanticipated events.
+
+THE COMPANY
+
+     Lam Research Corporation ("Lam" or the "Company") designs, manufactures,
+markets and services semiconductor processing equipment used in the fabrication
+of integrated circuits. Lam is recognized as a leading supplier of front-end
+wafer processing equipment to the worldwide semiconductor industry. The
+Company's products are used selectively to etch away portions of various films
+("etch") to create an integrated circuit. Etch processes, which are repeated
+numerous times during the fabrication cycle, are required to manufacture every
+type of semiconductor device produced today. With the acquisition of OnTrak
+Systems, Inc. ("OnTrak"), completed in August 1997, Lam has added both chemical
+mechanical planarization ("CMP") and post-CMP wafer cleaning product lines. CMP
+is currently the planarization technology of choice for manufacturing sub-0.35
+micron integrated circuits with multiple metal layers.
+
+     Lam sells a broad range of plasma ("dry") etch products to address specific
+applications. The etch product portfolio includes the Exelan(TM) system and
+Rainbow(TM)("Rainbow") and TCP(R) product lines. Lam's TCP etchers utilize a
+high-density plasma process to etch device features down to 0.18 micron and
+below. Most of the Company's current etch products are available as stand-alone
+systems or as process modules ("PMs") used on Lam's Alliance(TM) ("Alliance")
+multi-chamber cluster platform. The Company markets both the DSS-200(R) and
+Synergy(TM) product lines of post-CMP wafer cleaners, which are used to remove
+
+
+
+residual slurries and other contaminants from wafer surfaces, both after CMP
+polishing and before and after essential semiconductor process steps. Lam's
+Teres(TM) CMP polishing system leverages Lam's post-CMP wafer cleaning expertise
+to provide the Company's first fully integrated polishing and cleaning solution.
+
+PRODUCTS
+
+     Semiconductor wafers are subjected to a complex series of process steps
+that result in the simultaneous creation of many individual integrated circuits.
+The five basic steps of semiconductor wafer fabrication include
+photolithography, deposition, etch, CMP and post-CMP wafer cleaning. Quality
+assurance tests are often conducted between each step. Lam products are
+currently used in three important steps in the front-end of the wafer processing
+manufacturing cycle: etch, CMP and post-CMP wafer cleaning. Most of the
+Company's current etch products are available as stand-alone systems or as PMs
+used on the Alliance multi-chamber cluster platform. Lam also supplies advanced
+control system software with all systems for production management.
+
+  Etch Products
+
+     The etch process defines line-widths and other micro features on integrated
+circuits. Plasma etching was developed to meet the demand for device geometries
+smaller than three microns. Plasma consists of ions and neutral species that
+react with exposed portions of the wafer to produce the finely delineated
+features and patterns of the integrated circuit. Today, manufacturers of
+advanced integrated circuits require etch systems that create features of 0.25
+micron and below (approximately 1/300 the thickness of a human hair). In the
+near future, systems capable of producing devices with feature sizes smaller
+than 0.20 micron will be needed. In addition to continually shrinking feature
+sizes, advanced manufacturing facilities are now producing integrated circuits
+on 200 mm (8 inch diameter) silicon wafers, but a transition is in progress that
+will increase standard wafer diameters to 300 mm (12 inches). To accommodate
+these decreasing line-widths and anticipated increasing wafer diameters,
+manufacturers will increasingly require more precise control over the etching
+process. Lam's family of etch systems incorporates plasma technologies designed
+to meet both current and future needs.
+
+     Rainbow(TM). The first Rainbow etch single chamber system was introduced in
+1987. The Rainbow series of products addresses processes that utilize wafer
+sizes up to 200 mm and feature line-width sizes as small as 0.18 micron in some
+cases. The Rainbow product line, also available on the Alliance platform,
+includes the Rainbow 4400, 4500, 4600 and 4700 system series for etching of
+different films. These systems are designed to accommodate certain hardware and
+process enhancements.
+
+     4520XLE(TM) and Exelan(TM). The 4520XLE is a dual frequency oxide etch
+system that offers an extended process window and capabilities for sub-0.25
+micron geometries. The 4520XLE is well suited for next-generation etch regimes
+associated with copper damascene processes. The Exelan is Lam's latest oxide
+etch system offering, announced in June 1999. It provides all the process
+flexibility and advanced etch capabilities of Lam's proven dual frequency
+systems at a low cost of ownership.
+
+     TCP(R). Lam's TCP product line of high-density, low-pressure etch systems,
+which was introduced in late 1992, incorporates the Company's patented
+Transformer Coupled Plasma(TM) source technology, which is now being used for
+etching 0.25 micron and smaller geometries. The Company currently offers the TCP
+9600SEII and TCP 9600PTX, generally for metal etch applications, the TCP
+9400SEII and TCP 9400PTX, generally for polysilicon, polycide and shallow trench
+isolation ("STI") etch applications, and the TCP 9100PTX, generally for oxide
+etch applications. These systems are currently used in the production of a broad
+range of advanced logic and memory devices, while R&D has demonstrated their
+continued application in advanced next-generation features and production, such
+as STI. The TCP series operates at low pressures for improved pattern control
+and high plasma density for higher etch rates. The TCP systems are available as
+a standalone, single wafer configuration or in conjunction with the Alliance
+multi-chamber cluster platform.
+
+
+
+  CMP Product
+
+     Teres(TM). Lam developed the Teres CMP integrated polishing and cleaning
+system with Linear Planarization Technology(TM) ("LPT(TM)"), which uses a
+high-speed belt instead of the rotating table used in conventional polishers.
+LPT offers a wider process window and more flexible polishing options than
+conventional systems. Lam has designed the Teres system to planarize patterned
+films with higher removal rates and better uniformity and planarity than
+conventional systems currently offer. The Teres is supplied with an integrated
+Synergy(TM) post-CMP cleaning system (see discussion below) to provide dry
+in/dry out production.
+
+  Post-CMP Wafer Cleaning Products
+
+     DSS-200(R). The DSS-200 cleaning system has a number of features that
+distinguish it from competitive cleaning methods. Double-sided scrubbing
+technology with chemical cleaning simultaneously scrubs both sides of the wafer
+with proprietary brushes top and bottom, while limiting contact that can
+contaminate the backside of the wafer. For selected applications, brush cleaning
+systems provide significant advantages over traditional batch wet bench cleaning
+and ultrasonic cleaning systems, including improved cleaning efficiency, reduced
+chemical usage, a smaller footprint and greater process flexibility. In
+addition, single wafer processing minimizes the risks inherent in processing
+wafers in batches.
+
+     Synergy(TM). Synergy products combine double-sided scrubbing technology and
+Chemical Mechanical Cleaning ("CMC"(TM)) technology to perform mechanical
+cleaning and chemical cleaning simultaneously in a single-step process. The
+applications for the Synergy family include oxide, STI, tungsten and copper
+cleaning. In response to the worldwide demand for a dry in/dry out CMP solution,
+Lam provides the Synergy Integra(TM) which incorporates advanced cleaning
+technology with a platform that integrates the polisher and cleaner. Integrated
+systems are the result of partnerships between Lam and key polishing vendors.
+
+     "Lam", "Transformer Coupled Plasma", "Teres", "Exelan", "4520XLE",
+"Rainbow", "Advanced Capability Rainbow", "Alliance", "Linear Planarization
+Technology", "LPT", "CMC", "Synergy", "OnTrak" and "Synergy Integra" are
+trademarks of Lam Research Corporation. "TCP", "Lam Research" and "DSS-200" are
+registered trademarks of Lam Research Corporation.
+
+RESEARCH AND DEVELOPMENT
+
+     The market for semiconductor capital equipment is characterized by rapid
+technological change. The Company believes that continued and timely development
+of new products and enhancements to existing products are necessary for it to
+maintain its competitive position. Accordingly, the Company devotes a
+significant portion of its personnel and financial resources to R&D programs and
+seeks to maintain close relationships with its customers to be responsive to
+their product needs.
+
+     The Company's net R&D expenses during fiscal 1999, 1998 and 1997 were
+approximately $142.5 million, $206.5 million and $192.3 million, respectively,
+and represented 22.0%, 19.6% and 17.9% of total revenue, respectively. Current
+projects include the continued development of advanced etch, CMP and post-CMP
+wafer cleaning products.
+
+     The Company expects to continue to make substantial investments in R&D. The
+Company also must manage product transitions successfully, as introductions of
+new products could adversely affect sales of existing products. There can be no
+assurance that future technologies, processes or product developments will not
+render the Company's existing or anticipated product offerings obsolete or that
+the Company will be able to develop and introduce new products or enhancements
+to its existing products and processes in a timely manner which will satisfy
+customer needs or achieve market acceptance. The failure to do so could
+adversely affect the Company's business.
+
+MARKETING, SALES AND SERVICE
+
+     The Company's marketing and sales efforts are focused on building long-term
+relationships with its customers. These efforts are supported by a team of
+product marketing managers, sales personnel, equipment
+
+
+engineers and process engineers that works closely with individual customers to
+find solutions to their process needs. After-sales support is an essential
+element of the Company's marketing and sales program. The Company maintains an
+ongoing support relationship with its customers and has an extensive network of
+field service personnel in place throughout the United States, Europe, Japan and
+Asia Pacific. In addition, the Company maintains an in-house group of highly
+skilled application engineers to respond to customer process needs worldwide,
+when a higher level of technical expertise is required. The Company believes
+that its extensive support programs and close working relationships with its
+customers improves its competitiveness.
+
+     The Company has more than 40 sales and support centers located throughout
+the United States, Europe, Japan and Asia Pacific, through which direct sales
+personnel sell and service the Company's products. The Company offers its
+customers a comprehensive warranty package on all released products.
+
+     Export sales accounted for approximately 33%, 39% and 42% of net sales in
+fiscal 1999, 1998 and 1997, respectively. Export sales consist of sales from the
+Company's U.S. operating subsidiary to non-affiliated customers in non-U.S.
+countries. During fiscal 1999, 1998 and 1997, the Company downsized its
+worldwide operations and in fiscal 1998, it discontinued its manufacturing
+operations in Korea. A significant portion of the Company's sales and operations
+will be subject to certain risks, including tariffs and other barriers,
+difficulties in staffing and managing foreign subsidiary and branch operations,
+potentially adverse tax consequences and the possibility of difficulty in
+accounts receivable collection. There can be no assurance that any of these
+factors will not have a material adverse effect on the Company's business,
+financial position, results of operations and cash flows. Reference is made to
+Note C of the Company's Consolidated Financial Statements, included in Item 8
+herein, for further information concerning export sales, which information is
+incorporated herein by this reference.
+
+CUSTOMERS
+
+     The Company's customers include certain of the world's leading
+semiconductor manufacturers. In fiscal 1999 and 1997, no individual customer
+accounted for more than 10% of Lam's total revenue. Revenue from Intel
+Corporation accounted for 12% of total revenue in fiscal 1998.
+
+     The Company's business depends upon the capital expenditures of
+semiconductor manufacturers, which in turn depend on the current and anticipated
+market demand for integrated circuits and products utilizing integrated
+circuits. During calendar 1998, the semiconductor industry experienced a
+slowdown resulting from depressed DRAM pricing and manufacturing over-capacity.
+This caused semiconductor manufacturers to reduce their capital equipment
+investments, and in certain cases customers have either rescheduled or canceled
+capital equipment purchases. Also, during calendar 1998, the Asian regions were
+faced with difficulties in their financial markets, which have also had an
+adverse impact on the ability of Asian customers to purchase capital equipment.
+No assurance can be given that the Company's revenue and operating results will
+not be further adversely affected if downturns in the semiconductor industry and
+difficulties in the Asian regions' financial markets continue or slowdowns in
+the U.S. or European economies occur.
+
+BACKLOG
+
+     The Company schedules production of its systems based upon order backlog
+and customer commitments. Included in backlog for the Company are orders for
+which written authorizations have been accepted and shipment dates have been
+assigned. The Company's policy on backlog is to make adjustments to reflect
+customer push-outs and deferrals of delivery dates, as well as cancellations, so
+that only those orders for which equipment is scheduled to be shipped within 12
+months are reflected in the Company's published backlog amounts. As of June 30,
+1999 and 1998, the Company's order backlog was approximately $233 million and
+$130 million, respectively. During calendar 1998, the semiconductor market
+experienced a slowdown as a result of depressed DRAM pricing, over-capacity and
+the financial crisis in Asia. This slowdown caused certain semiconductor
+manufacturers to delay their capital equipment purchase decisions and, in
+certain cases, to reschedule or cancel capital equipment purchases. All orders
+of the Company's products are subject to cancellation by the customer, in some
+cases with limited penalty. Because some orders are received for systems to be
+shipped in the same quarter and because of possible customer changes in delivery
+schedules and
+
+
+
+cancellations of orders, the Company's backlog at any particular date is not
+necessarily indicative of actual sales for any succeeding period.
+
+MANUFACTURING
+
+     The Company maintains facilities in Fremont, California for the manufacture
+of its etch, CMP and post-CMP wafer cleaning products. In fiscal 1998, the
+Company discontinued its manufacturing activities in Wilmington, Massachusetts
+and in CheonAn, Korea.
+
+     The Company's manufacturing operations consist of assembling and testing
+components and subassemblies that are then integrated into finished systems.
+Once manufacturing has completed final testing of all electronic and
+electromechanical subassemblies that make up one of the Company's products, the
+completed system is process-tested with standard Lam processes. The final
+assembly and testing of the Company's products are conducted in cleanroom
+environments where personnel are properly attired to reduce particulate
+contamination. Prior to shipping a completed system, customer representatives
+may perform acceptance tests at Lam's facility. After passing these acceptance
+tests, the system is vacuum-bagged in a cleanroom environment and prepared for
+shipment.
+
+     During fiscal 1999, the Company entered into a five year manufacturing
+agreement with Yokogawa Electric Corporation ("Yokogawa"). Under the terms of
+the agreement, Yokogawa assembles transport modules ("TMs") from kits supplied
+by Lam's Fremont manufacturing operations. Yokogawa integrates these TMs with
+completed process modules provided by Lam, provides final test services for the
+completed machine and ships them to Lam's customers in Japan.
+
+     The Company is subject to a variety of governmental regulations related to
+the discharge or disposal of toxic, volatile or otherwise hazardous chemicals
+used in the manufacturing process. The Company believes that it is in general
+compliance with these regulations and that it has obtained (or will obtain or is
+otherwise addressing) all necessary environmental permits to conduct its
+business. These permits generally relate to the disposal of hazardous wastes.
+Nevertheless, the failure to comply with present or future regulations could
+result in fines being imposed on the Company, suspension of production,
+cessation of operations or reduction in product acceptance. Additionally,
+complying with such regulations could require the Company to alter current
+operations, or acquire significant equipment or incur substantial other expenses
+to comply with environmental regulations. Any failure by the Company to control
+the use, sale or transport of, or adequately to restrict the discharge or
+disposal of, hazardous substances could subject the Company to future
+liabilities.
+
+EMPLOYEES
+
+     As of September 1, 1999, the Company had approximately 2,750 full-time
+employees. None of the Company's employees is represented by a union and the
+Company has never experienced a work stoppage. Management considers its employee
+relations to be good.
+
+     Each employee of the Company has signed agreements to maintain the
+confidentiality of the Company's proprietary information, and most key employees
+have stock or stock option arrangements with the Company that provide for the
+vesting of their interests over several years.
+
+COMPETITION
+
+     The semiconductor manufacturing equipment industry is highly competitive.
+The Company faces substantial competition throughout the world. Management
+believes that to remain viable it will require significant financial resources
+to offer a broad range of products, to maintain customer service and support
+centers worldwide and to invest in product and process R&D. Certain of the
+Company's existing and potential competitors have substantially greater
+financial resources and more extensive engineering, manufacturing, marketing and
+customer service and support organizations. Lam expects its competitors to
+continue to improve the design and performance of their current products and
+processes and to introduce new products and processes with enhanced price and
+performance characteristics. If the Company's competitors enter into strategic
+relationships with leading semiconductor manufacturers covering etch, CMP or
+post-CMP wafer
+
+
+
+cleaning products similar to those sold by the Company, its ability to sell its
+products to those manufacturers could be adversely affected. No assurance can be
+given that the Company will continue to compete successfully in the United
+States or worldwide.
+
+     The Company faces significant competitive factors in the etch equipment
+market, including etch quality, repeatability, process capability and
+flexibility, and overall cost of ownership, which may be effected by factors
+such as reliability, software automation, throughput, customer support and
+system price. Although Lam believes that it competes favorably with respect to
+many of these factors, the Company's ability to compete successfully in this
+market will depend upon its ability to introduce product enhancements and new
+products on a timely basis. There can be no assurance that the Company will
+continue to compete successfully in the future. In the etch equipment market,
+the Company's primary competitors are Applied Materials, Inc., Tokyo Electron
+Limited ("TEL") and Hitachi Ltd.
+
+     The Teres CMP system developed by the Company faces significant competition
+from multiple current and future competitors. Companies currently offering CMP
+systems include Applied Materials, Inc., Ebara Corp., SpeedFam-IPEC, Inc., and
+Strasbaugh.
+
+     In CMP slurry removal and cleaning applications, Lam's competitor's include
+DaiNippon Screen Manufacturing Co. Ltd. and VERTEQ.
+
+PATENTS AND LICENSES
+
+     The Company has a policy of seeking patents on inventions governing new
+products and processes developed as part of its ongoing research, engineering
+and manufacturing activities. Lam holds United States patents and corresponding
+foreign patents covering various aspects of its products. The Company believes
+that the duration of its patents generally exceeds the life cycles of the
+technologies disclosed and claimed therein. Lam's patents which cover material
+aspects of its current core products have current durations ranging from
+approximately 9 to 16 years. Lam believes that although the patents it holds and
+may obtain will be of value, they will not alone determine the Company's
+success, which depends principally upon its engineering, marketing, service and
+manufacturing skills. However, in the absence of patent protection, the Company
+may be vulnerable to competitors who attempt to imitate its products,
+manufacturing techniques and processes. In addition, other companies and
+inventors may receive patents that contain claims applicable or similar to the
+Company's products and processes. The sale of products covered by such patents
+could require licenses that may not be available on acceptable terms, or at all.
+
+     From time to time, Lam has received notices from third parties alleging
+infringement of such parties' patent or other intellectual property rights by
+the Company's products. In such cases, it is the policy of the Company to defend
+the claims or negotiate licenses on commercially reasonable terms, where
+considered appropriate. However, no assurance can be given that Lam will be able
+in the future to negotiate necessary licenses on commercially reasonable terms,
+or at all, or that any litigation resulting from such claims would not have a
+material adverse effect on the Company's business and financial results. For
+further discussion of legal matters see Item 3 "Legal Proceedings".
+
+
+
+EXECUTIVE OFFICERS OF THE COMPANY
+
+     As of September 24, 1999, the executive officers of the Company, who are
+elected by and serve at the discretion of the Board of Directors, were as
+follows:
+
+
+
+     James W. Bagley became Chief Executive Officer and a Director of Lam upon
+consummation of the Merger with OnTrak. Effective September 1, 1998, Mr. Bagley
+was appointed Chairman of the Board of Lam. Mr. Bagley currently is a director
+of KLA-Tencor Corporation, Teradyne, Inc., Kulicke & Soffe Industries, Inc.,
+Micron Technology, Inc. and SEMI/SEMATECH. From June 1996 to August 1997, Mr.
+Bagley served as Chairman of the Board and Chief Executive Officer of OnTrak.
+Prior to joining OnTrak, Mr. Bagley was employed by Applied Materials, Inc. for
+15 years in various senior management positions, most recently as Chief
+Operating Officer and Vice Chairman of the Board. Mr. Bagley held various
+management positions at Texas Instruments, Inc. before he joined Applied
+Materials, Inc.
+
+     Stephen G. Newberry joined the Company in August 1997 as Executive Vice
+President and Chief Operating Officer. In July 1998, Mr. Newberry was promoted
+to President of Lam. Previously, he was employed by Applied Materials, Inc. for
+17 years, most recently as Group Vice President of Global Operations and
+Planning. From 1990 to 1992, Mr. Newberry served as Vice President of Applied
+Materials Japan and was responsible for Customer Service, Engineering and
+Manufacturing. Upon his return to the United States, Mr. Newberry served in a
+variety of executive management positions at Applied Materials, Inc.
+
+     Mercedes Johnson joined the Company in April 1997. She was formerly Vice
+President and Worldwide Operations Controller of Applied Materials, Inc., where
+she also served as Senior Director and Worldwide Business Operations Controller,
+Director and Senior Controller for Chemical Vapor Deposition ("CVD") and Etch
+Technologies Group, Manager of International Treasury and Division Controller of
+Etch Products Division. Prior to joining Applied Materials, Inc., Ms. Johnson
+held senior finance and controller positions at Nanometrics, Inc., NCR
+Corporation and Hewlett-Packard Company.
+
+     Hsui-Sheng (Way) Tu joined the Company in 1983 and has held various
+positions with the Company. In August 1997, Mr. Tu was appointed President, Asia
+Operations. In 1996, Mr. Tu was named President of Lam, which position he held
+until August 1997. In 1994, Mr. Tu was named Vice President of the Oxide Etch
+Business Unit. In 1992, he was named Vice President of Asian Operations. Before
+joining the Company, Mr. Tu was Process Engineering Supervisor for Fairchild
+Semiconductor.
+
+     David E. Bayly joined the Company in February 1998 as Vice President, North
+America and Europe Sales and Field Operations. He was formerly Vice President of
+Sales at Tencor Instruments, Inc. Mr. Bayly has also previously held executive
+positions at Novellus Systems, Inc. Mr. Bayly's career started at Hewlett-
+Packard Company and he has been in the semiconductor equipment business since
+1982.
+
+     Gregor A. Campbell joined the Company in November 1997 as Vice President
+and General Manager, Etch Products Organization. Prior to joining the Company,
+Dr. Campbell was a Director and Chief Executive Officer of Trikon Technologies,
+Inc.
+
+
+
+     Craig Garber joined the Company in September 1997 as Vice President,
+Corporate Finance and Treasurer. Before joining the Company, and since 1984, Mr.
+Garber held various finance positions at Applied Materials, Inc. His most recent
+position at Applied Materials, Inc. was Assistant Treasurer and Senior Director
+of Treasury Operations.
+
+     Richard H. Lovgren joined the Company in 1995 as Vice President, General
+Counsel and Corporate Secretary. Before joining the Company, and since 1979, Mr.
+Lovgren held various legal positions at Advanced Micro Devices, Inc. His most
+recent position at Advanced Micro Devices, Inc. was Director and Deputy General
+Counsel.
+
+ITEM 2. PROPERTIES
+
+     The Company's executive offices and principal manufacturing and R&D
+facilities are located in Fremont, California, and currently are under leases
+expiring from 2000 to 2014. As a result of the restructurings of its operations,
+the Company has excess unoccupied facilities. The Company has subleased some of
+these idle facilities and is attempting to sublease the remainder of these idle
+facilities in Fremont and San Jose, California.
+
+     In addition, the Company leases office space for its service and sales
+personnel throughout the United States, Europe, Japan and Asia Pacific. The
+Company has subleased, or is negotiating subleases, with respect to certain of
+those facilities as part of its restructurings and consolidation.
+
+     The Company's fiscal 1999 rental payments for the facilities occupied as of
+June 30, 1999, aggregated approximately $19.6 million and are subject to
+periodic increases. The Company believes that its existing facilities are well
+maintained and in good operating condition.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+     In October, 1993, Varian Associates, Inc. ("Varian") brought suit against
+the Company in the United States District Court, for the Northern District of
+California, seeking monetary damages and injunctive relief based on the
+Company's alleged infringement of certain patents held by Varian. By order of
+the Court, those proceedings were bifurcated into an initial phase to determine
+the validity of the Varian patents and Lam's infringement (if any), and a
+secondary phase to determine damages to Varian (if any) and whether Lam's
+infringement (if shown) was willful. On April 13, 1999, the Court issued an
+interlocutory order construing the meaning of the terms of the patent claims at
+issue in the action. To date, however, there has been no determination as to the
+actual scope of those claims, or whether Lam's products have infringed or are
+infringing Varian's patents. A trial date is currently scheduled for March 2000.
+Furthermore, there have been no findings in the action which have caused the
+Company reasonably to believe that any infringement, if found, or any damages,
+if awarded, would have a material adverse effect on the Company's operating
+results or the Company's financial position.
+
+     In September, 1999 Tegal Corporation ("Tegal") brought suit against the
+Company in the United States District Court, for the Eastern District of
+Virginia, seeking monetary damages and injunctive relief based on the Company's
+alleged infringement of certain patents held by Tegal. Specifically, Tegal
+identified the Company's 4520XL and Exelan products as infringing the patents
+Tegal is asserting. To date, however, there has been no determination as to the
+actual scope of those claims or whether Lam's products have infringed or are
+infringing Tegal's patents. No trial date is currently scheduled in the action.
+Furthermore, there have been no findings in the action which have caused the
+Company reasonably to believe that any infringement, if found, or any damages,
+if awarded, would have a material adverse effect on the Company's operating
+results or the Company's financial position.
+
+     From time to time, Lam has received notices from third parties alleging
+infringement of such parties' patent or other intellectual property rights by
+the Company's products. In such cases, it is the policy of the Company to defend
+the claims or negotiate licenses on commercially reasonable terms, where
+considered appropriate. However, no assurance can be given that Lam will be able
+in the future to negotiate necessary
+
+
+
+licenses on commercially reasonable terms, or at all, or that any litigation
+resulting from such claims would not have a material adverse effect on the
+Company's business and financial results.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     Not applicable.
+
+                                    PART II
+
+ITEM 5. MARKET FOR THE REGISTRANT'S COMMON STOCK AND RELATED STOCKHOLDER MATTERS
+
+     The information required by this Item is incorporated by reference from
+"Item 6. Selected Financial Data," below.
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+
+
+
+
+
+
+
+
+- ---------------
+Stock and Dividend Information:
+
+The Company's Common Stock is traded in the over-the-counter market under the
+Nasdaq National Market symbol LRCX. The price range per share is the highest and
+lowest bid prices, as reported by the National Association of Security Dealers,
+Inc., on any trading day during the respective quarter.
+
+As of June 30, 1999, the Company had 739 stockholders of record.
+
+No cash dividends have been declared, or are anticipated to be paid by the
+Company, as all available funds are intended to be employed in the operation of
+the business. Additionally, certain of the Company's bank agreements restrict
+the payment of dividends.
+
+See Notes to Consolidated Financial Statements.
+
+
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+     With the exception of historical facts, the statements contained in this
+discussion are forward-looking statements within the meaning of Section 27A of
+the Securities Act of 1933 and Section 21E of the Exchange Act, and are subject
+to the Safe Harbor provisions created by that statute. Such forward-looking
+statements include, but are not limited to, statements that relate to the
+Company's future revenue, product development, demand, acceptance and market
+share, competitiveness, gross margins, levels of R&D and operating expenses,
+management's plans and objectives for current and future operations of the
+Company, the effects of the Company's on-going reorganization and consolidation
+of operations and facilities, the ability of the Company to complete
+contemplated reorganizations or consolidations on time or within anticipated
+cost and the sufficiency of financial resources to support future operations and
+capital expenditures. Such statements are based on current expectations and are
+subject to risks, uncertainties, and changes in condition, significance, value
+and effect, including those discussed below under the heading Risk Factors, and
+other documents the Company files from time to time with the Securities and
+Exchange Commission; specifically, the Company's quarterly reports on Forms 10-Q
+and the Company's current reports on Form 8-K. Such risks, uncertainties and
+changes in condition, significance, value and effect could cause actual results
+to differ materially from those expressed herein and in ways not readily
+foreseeable. Readers are cautioned not to place undue reliance on these
+forward-looking statements, which speak only as of the date hereof and of
+information currently and reasonably known. The Company undertakes no obligation
+to release the results of any revisions to these forward-looking statements
+which may be made to reflect events or circumstances which occur after the date
+hereof or to reflect the occurrence or effect of anticipated or unanticipated
+events. This discussion should be read in conjunction with the Consolidated
+Financial Statements and Notes presented thereto on pages 32 to 57 of this Form
+10-K for a full understanding of the Company's financial position and results of
+operations.
+
+RESULTS OF OPERATIONS
+
+     FISCAL 1999 VS. 1998
+
+  Total Revenue
+
+     Total revenue for the fiscal year ended June 30, 1999 was 38% lower
+compared to the prior fiscal year. During calendar 1998, the semiconductor
+equipment market experienced a downturn brought on in large part by depressed
+DRAM pricing, production overcapacity and the difficulties in the Asian
+financial markets. During the second half of fiscal 1999, the semiconductor
+equipment industry began to show signs of a slow and moderate recovery. Lam's
+quarterly revenue also began to increase during the second half of fiscal 1999;
+however, the fiscal 1999 revenue for each quarterly period was still lower than
+the quarterly revenue achieved during each quarter of fiscal 1998. Sales for all
+of Lam's products decreased when compared to the prior year. Lam's
+single-chamber etch products experienced the greatest decrease. The Company's
+products sales continued to shift from the single-chamber etch to the
+multi-chamber cluster products. The decrease in the sale of single-chamber etch
+systems represented approximately 62% of the total decrease in total revenue.
+
+     Regional geographic breakdown of revenue is as follows:
+
+
+
+     The decrease in revenue from the Asia Pacific region was largely the result
+of the difficulties surrounding its financial markets during calendar 1998, as
+well as overcapacity in the DRAM markets.
+
+     The semiconductor equipment industry appears to have started a slow and
+moderate recovery in fiscal 1999. The Company believes that revenues will
+increase moderately on a quarterly basis for at least the first half of fiscal
+2000 compared to the revenue level achieved during the fourth quarter of fiscal
+1999.
+
+
+
+  Gross Margin
+
+     The Company's gross margin percentage increased slightly to 36.0% for
+fiscal 1999, compared to 35.5% for fiscal 1998. During fiscal 1998, the Company
+incurred a charge of $31.9 million to write-off inventory related to the exited
+CVD and Flat Panel Display ("FPD") operations. However, the fiscal 1999 gross
+margin percentages were unfavorably impacted by the Company's lower sales volume
+compared to fiscal 1998 and continued competitive pricing pressures. During the
+second half of fiscal 1999, the gross margin percentage began to increase as a
+result of the Company's continued cost reductions in manufacturing and economies
+of scale achieved by higher revenues. Lam believes that its fiscal 2000 gross
+margins will increase moderately due to volume increases and the result of the
+Company's new "lean" manufacturing process.
+
+  Research and Development
+
+     R&D expenses for the fiscal year ended June 30, 1999 were 22.0% of total
+revenue, compared to 19.6% of total revenue for the prior fiscal year, due to
+significantly lower revenue rates, even though R&D expenses decreased 31.0% in
+fiscal 1999 compared to fiscal 1998. The Company's overall downsizing
+activities, including the Company's exiting of the FPD and CVD operations during
+calendar 1998, largely contributed to the overall decline in R&D expenses in
+absolute dollars, which were, however, partially offset by increased levels of
+spending related to the Company's CMP products. The Company expects to continue
+to make substantial investments in R&D in fiscal 2000.
+
+  Selling, General and Administrative
+
+     Selling, general and administrative ("SG&A") expenses were 22.5% of total
+revenue for fiscal 1999, as compared to 19.2% of total revenue for the prior
+fiscal year, but decreased in absolute dollars from $201.9 million in fiscal
+1998 to $145.7 million in fiscal 1999. The reduction in SG&A expenses is largely
+a result of the fiscal 1999 and 1998 restructuring programs and management's
+continuing efforts to improve administrative efficiencies.
+
+  Fiscal 1998 Restructuring Charge
+
+     The Company's business overall outlook in late January 1998 was that the
+industry had entered into a steep downturn brought on by depressed DRAM pricing
+and the Asia financial crisis. The Company therefore announced a set of
+restructuring activities in a news release on February 12, 1998. At that time,
+the Company's assessment, related to industry conditions, was that its revenues
+for the March and June 1998 quarters would decline by approximately 20%. The
+Company's restructuring plans aligned its cost structure to its level of
+revenues by exiting its CVD business and all of its Flat Panel Display ("FPD")
+business, consolidating its manufacturing facilities and substantially reducing
+its remaining infrastructure and workforce. The Company's actual June 1998
+revenues were in line with those expectations; however, by the mid-June 1998
+time-frame, industry conditions further deteriorated and the outlook for future
+quarters significantly worsened. The Company projected revenues to decrease to a
+run-rate of approximately $180 million per quarter and determined it needed once
+more to reduce its cost structure in line with the projected reductions in
+revenue. Accordingly, another separate restructuring plan was developed and
+announced in June 1998. During fiscal 1998, the Company recorded a total
+restructuring charge of $148.9 million relating to severance and benefits, lease
+payments on vacated facilities, the write-off of fixed assets, excess and
+obsolete inventory, credits on returned equipment and other exit costs. As a
+result of the fiscal 1998 restructurings, the Company reduced its global
+workforce by approximately 28%. During fiscal 1999, the Company recorded an
+adjustment to the restructuring reserve of $1.5 million for the recovery of a
+previously written-off machine. At June 30, 1999, a total of $25.0 million of
+restructuring-related accruals remained on the Company's balance sheet, of which
+$10.8 million, $12.4 million and $1.8 million, respectively, relate to future
+severance and benefit cash payments, lease payments and credits on returned
+equipment. There will be further charges against these restructuring reserves
+established, as the Company completes this restructuring program.
+
+
+
+     Below is a table summarizing restructuring activity relating to the fiscal
+1998 restructurings:
+
+
+
+  Fiscal 1999 Restructuring Charge
+
+     During the quarter ended September 30, 1998, the semiconductor equipment
+market contracted beyond the anticipated $3.2 billion revenue level to $2.6
+billion according to Dataquest. The Company's shortfall of revenues during the
+September, 1998 quarter was in line with the industry as a whole, and resulted
+in revenues falling to $142.2 million for the quarter ended September 30, 1998.
+At that point in time, the Company projected that its quarterly revenues would
+remain closer to the $140 - $150 million levels for at least the next several
+quarters. This necessitated another restructuring plan and further cost
+reductions through employee terminations, facilities consolidations, a
+contraction of operating activities and the write-off of vacated plant related
+assets. This plan was announced and publicly communicated on November 12, 1998.
+During the second quarter of fiscal 1999, the Company recorded a restructuring
+charge of $53.4 million, relating to severance compensation and benefits for
+involuntarily terminated employees worldwide (representing approximately 15% of
+the global workforce), lease payments on abandoned facilities, the write-off of
+related leasehold improvements and fixed assets and credits on returned
+equipment. At June 30, 1999, $10.9 million of this charge remains accrued on the
+Company's consolidated balance sheet of which $4.9 million relates to severance
+and benefits, $0.7 million relates to lease payments on vacated facilities and
+$5.4 million relates to credits on returned equipment. There will be further
+charges against this restructuring reserve in fiscal 2000, as the Company
+completes the restructuring program.
+
+     Below is a table summarizing restructuring activity relating to the fiscal
+1999 restructuring:
+
+
+
+     The Company's restructuring actions in fiscal 1999 and 1998 were expected
+to reduce its quarterly spending rate by approximately $11.0 million and $35.0
+million, respectively, for salaries, benefits and employee-related expenses, and
+by approximately $6.0 million and $6.6 million, respectively, related to
+facility and depreciation costs. The Company has carried-out, and continues to
+carry-out, its restructuring activities according to its original plans and
+timelines and it believes that the anticipated cost reductions did not vary and
+will not materially from its original expectations and plans. The Company
+intends to operate at levels of spending that are consistent with its ability to
+generate revenues. Therefore, spending levels may increase or decrease depending
+upon the Company's assessment of its current needs. The Company does not believe
+that its decision to exit the CVD and FPD business will have a material impact
+on its ability to generate future revenue growth.
+
+
+
+  Purchased Technology for R&D
+
+     During the third quarter of fiscal 1998, Lam purchased a non-exclusive
+license for Trikon's MORI(TM) source technology. Lam recorded a charge of $12.1
+million for the initial payment of the license and for the purchase of an R&D
+system from Trikon. During fiscal 1999, $5.0 million in additional fees for the
+purchase of a non-exclusive license for MORI source technology became payable
+(separate from royalties owed on shipments of MORI source-based systems
+determined by rates prescribed in the license). This completes the purchase
+payments for this technology. The technology is being used in a single discrete
+etch product development project and has no future alternative use.
+
+  Other Income, net
+
+     Other income, net of $0.3 million in fiscal 1999 decreased from $1.8
+million in fiscal 1998, due largely to the increase in interest expense as a
+result of a full year's interest expense associated with the Company's $310.0
+million Convertible Subordinated Notes (the "Notes"). The Notes, which were
+issued in August 1997, bear interest at five percent and are due to mature on
+September 1, 2002. During the fiscal year ended June 30, 1999, the Company also
+had a lower rate of return on its investments than during the previous fiscal
+year, consistent with the lower interest rates prevailing in the U.S. market.
+
+  Tax Benefit
+
+     For fiscal year 1999, Lam did not record an income tax benefit on the loss
+before income taxes as compared to a tax benefit of $34.5 million recorded for
+fiscal year 1998. No net tax benefit was recorded in fiscal 1999 because it was
+offset by a valuation allowance. At June 30, 1999, the Company has gross
+deferred tax assets arising from non-deductible temporary differences, tax loss
+and tax credit carryforwards of $202.0 million. The gross deferred tax assets
+are offset by a valuation allowance of $84.7 million and deferred tax
+liabilities of $9.9 million. Realization of the majority of the net deferred tax
+assets is dependent on the Company's ability to generate future taxable income.
+Management believes that it is more likely than not that the assets will be
+realized based on forecasted income. However, there can be no assurance that the
+Company will meet its expectations of future income. Management will evaluate
+the realizability of the deferred tax assets quarterly and assess the need for
+additional valuation allowance.
+
+  Transition to Single European Currency
+
+     The Company established a team to address issues raised by the introduction
+of the Single European Currency ("Euro") for initial implementation as of
+January 1, 1999, and through the transition period to January 1, 2002. Lam met
+all related legal requirements by January 1, 1999, and expects to meet all legal
+requirements through the transition period. Lam does not expect the cost of any
+related system modifications to be material and does not currently expect that
+the introduction and use of the Euro will materially affect its foreign exchange
+and hedging activities, or will result in any material increase in transaction
+costs. The Company will continue to evaluate the impact over time of the
+introduction of the Euro; however, based on currently available information
+management does not believe that the introduction of the Euro has or will have a
+material adverse impact on the Company's financial condition or results of its
+operations.
+
+  Year 2000 Issues
+
+     The Company relies heavily on its existing application software and
+operating systems. The Year 2000 compliance issue (in which systems do not
+properly recognize date-sensitive information when the year changes from 1999 to
+2000) creates risks for the Company: if internal data management, accounting
+and/or manufacturing or operational software and systems do not adequately or
+accurately process or manage day or date information beyond the year 1999, there
+could be an adverse impact on the Company's operations. To address the issue,
+the Company has assembled a task force to review and assess internal software,
+data management, accounting, manufacturing and operational systems to ensure
+that they do not malfunction as a result of the Year 2000 date transition. The
+review and corrective measures are proceeding in parallel. These reviews and
+corrective measures are intended to encompass all significant categories of
+internal systems used
+
+
+
+by the Company, including data management, accounting, manufacturing, sales,
+human resources and operational software and systems. The Company is also
+working with its significant suppliers of products and systems to ensure that
+the products and systems supplied to the Company, and the products the Company
+supplies to its customers, are Year 2000-compliant.
+
+     The Company has identified all critical systems necessary to the Company's
+internal system operations and has asked suppliers to provide assurances that
+such systems are Year 2000-compliant, or to identify replacement or upgrade
+systems. In many instances, the Company has developed upgrades internally which
+will assure Year 2000 compliance of these systems. With respect to Year 2000
+compliance of our suppliers' systems, the Company is in the process of
+evaluating and assessing the adequacy of responses from its various suppliers,
+and requesting further responses and assurances where appropriate. This process
+is largely complete and is expected to be fully completed by the end of calendar
+1999.
+
+     The Company's existing internal systems encompassing core manufacturing,
+service, sales, inventory and warranty operations, which will be replaced by the
+next-generation system, are currently Year 2000-compliant and can continue to
+support the Company's significant operational systems, as needed. Many of the
+Company's cash management and payroll operations are handled on an out-sourced
+basis, and the Company has received written assurances from its providers that
+the systems providing these outsource services are Year 2000-compliant. As
+separate internal systems affecting individual and group-level company
+operations are replaced or upgraded over time in the ordinary course of
+business, all such replacement or upgrade systems will be Year 2000-compliant.
+Such separate individual and group level internal systems are not believed to
+affect material operations of the Company and the cost to replace or upgrade
+such individual or group level internal systems in the ordinary course of
+business, though not fully known at this time, is not expected to be material.
+The Company does not separately track and budget the internal costs incurred in
+connection with the Year 2000 compliance project. Substantially all such
+expenses have been, or will be, included in the operational budgets of the
+effected groups. The Company's next-generation enterprise resource planning and
+information system will replace many of the system operations currently being
+performed by existing internal system software. Implementation of this
+next-generation system is now scheduled for completion during the first half of
+calendar 2000, and the Company has received assurances that it will be Year
+2000-compliant.
+
+     With respect to compliance of the products the Company supplies to its
+customers, the Company adheres to Year 2000 test case scenarios established by
+SEMATECH, an industry group comprised of US semiconductor manufacturers. The
+Company's compliance efforts, and review and identification of corrective
+measures and contingency planning (where necessary), are substantially complete.
+The application systems and software of a significant number of the products
+currently supplied to the Company's customers are Year 2000-compliant, with the
+remainder expected to be so by the end of the second quarter of fiscal 2000.
+With respect to certain of the Company's products already installed in the
+field, the Company has determined that in most instances where the application
+systems and software are not Year 2000-compliant, there is either no appreciable
+effect or the effect during the product's operation is limited to certain
+aspects of the product's ability to report data concerning its operational
+parameters. However, the product's operation or manufacturing capabilities or
+quality are not affected. The Company is in the process of identifying and
+offering to customers product upgrades by the end of the first quarter of fiscal
+2000, with the goal of resolving all material programs and systems prior to the
+Year 2000 date transition. In this regard, the Company is incurring, and will
+continue to incur throughout fiscal 2000, various costs to provide customer
+support regarding Year 2000 issues. Through the end of fiscal 1999, these costs
+have totaled less than $3 million, with total program costs estimated through
+completion to be approximately $5 million. The Company estimates that most, if
+not substantially all, of these estimated costs going forward will be off-set by
+revenues from product upgrades and customer service and support. Accordingly,
+the full cost of these activities is not expected to be material and, to the
+extent will be borne by the Company, have already in large part been incurred by
+the Company.
+
+     In connection with its review and implementation of corrective measures,
+both to ensure that its internal products and systems and the application
+systems accompanying the products sold to its customers are Year 2000-compliant,
+the Company expects both to replace some software and systems and to upgrade
+others where appropriate. As a contingency with respect to products the Company
+currently offers to its customers, the Company may replace all non-compliant
+application systems and software with systems and software
+
+
+demonstrated to be Year 2000-compliant. With respect to products and systems
+supplied to the Company for use internally, the Company may upgrade all
+non-compliant products and systems and, where necessary or where no reasonable
+upgrade is available, replace such non-compliant products and systems with
+products and systems demonstrated to be Year 2000-compliant.
+
+     The Company's failure to ensure, at all or in a timely or reasonable
+manner, that its products are Year 2000-compliant may cause disruption in the
+ability of the Company's customers to derive expected productivity from those
+products or to integrate the products fully and functionally into certain
+automated manufacturing environments. With respect to products and systems the
+Company purchases for use internally, failure to ensure Year 2000 compliance may
+cause disruption in the Company's automated accounting, financial planning, data
+management and manufacturing operations which could have a material effect on
+the Company's short-term ability to manage its day-to-day operations in an
+efficient, cost-effective and reliable manner.
+
+     One of the responsibilities of the Company's Year 2000 compliance task
+force has been to develop contingency plans to maintain operations under a
+number of hypothetical scenarios. The Company has begun the development of a
+contingency plan and expects to have the contingency plan in place prior to
+December 1999. In the event the Company fails to anticipate the degree of
+disruptions caused by Year 2000 problems, the Company's systems could be
+affected in some or all of the following respects:
+
+     - disruptions of an extended period (i.e. in excess of one week) in the
+       economic infrastructure of the regions in which the Company does
+       business, including power, communication and transportation system
+       disruptions, could materially effect the Company's ability to deliver
+       systems as scheduled or to provide in a timely manner spare parts or
+       warranty support for such systems; and
+
+     - disruptions of an extended period (i.e. generally in excess of 30 days)
+       could materially effect the Company's inventory supply of parts for
+       system manufacture and delay scheduled system or spare parts shipments to
+       our customers.
+
+     The Company's spares inventory, distribution system and customer support
+organization, as well as the contingency plans implemented by the Company, are
+intended to ensure that temporary disruptions to regional and global
+infrastructure systems will have no materially adverse effect on the Company's
+operations and financial performance. However, extended disruptions in these
+systems beyond the Company's control or ability to remedy, such as described
+above, could impact the Company's ability to deliver product and services to our
+customers on schedule and to maintain Company operations and provide appropriate
+employee support (including payroll and benefits), and would, thereby,
+potentially have a materially adverse effect on the Company's operations and
+financial performance.
+
+     The Company believes that its Year 2000 compliance project will be
+completed on a timely basis, and in advance of the Year 2000 date transition,
+and will not have a material adverse effect on the Company's financial condition
+or overall trends in the results of operations. However, there can be no
+assurance that delays or problems, including the failure to ensure Year 2000
+compliance by systems or products supplied to the Company by a third party, will
+not have an adverse effect on the Company, its financial performance or the
+competitiveness or customer acceptance of its products. Further, the Company's
+current understanding of expected costs is subject to change as the project
+progresses, and does not include potential costs related to actual customer
+claims or the cost of internal software and hardware replaced in the normal
+course of business (whose installation otherwise in the normal course of
+business may be accelerated to provide solutions to Year 2000 compliance
+issues).
+
+     FISCAL 1998 VS. 1997
+
+  Merger
+
+     On August 5, 1997, the stockholders of Lam approved the issuance of Lam
+Common Stock under the Agreement and Plan of Merger (the "Merger Agreement")
+between Lam and OnTrak. Each share of OnTrak common stock, par value $0.0001 per
+share, ("OnTrak Common Stock") was exchanged for 0.83 of a share of Lam common
+stock, par value $0.001 per share, ("Lam Common Stock") and each option and
+right to
+
+
+
+acquire one share of OnTrak Common Stock was exchanged for options and rights to
+purchase 0.83 of a share of Lam Common Stock. On August 5, 1997, the value of
+the Lam Common Stock issued in connection with the Merger was approximately $396
+million. The transaction was accounted for as a pooling of interests and
+structured to qualify as a tax-free reorganization. All historical financial
+data of the Company, for the periods prior to the Merger included herein
+reflects the combination of the historical financial information of both Lam and
+OnTrak.
+
+  Total Revenue
+
+     Total revenue for the fiscal year ended June 30, 1998 was 2% lower compared
+to the prior fiscal year. During fiscal 1998, the Company's product mix
+continued to shift towards a higher percentage of sales of the Company's
+multi-chamber Alliance systems. Conversely, the percentage of revenues from
+sales of the Company's single-chamber systems declined from fiscal 1997 to
+fiscal 1998. Revenues from the Company's Alliance systems grew by approximately
+29% from 1997 levels, while revenues from single-chamber systems declined by
+approximately 30%.
+
+     In addition to the shift in product mix, the Asian regions began
+experiencing difficulties surrounding their financial markets and economies
+during the second half of fiscal 1998. Revenues from the Asian regions declined
+5.6% from 1997 levels, while revenues from the North America and European
+regions increased 1.9% and 1.8%, respectively.
+
+  Gross Margin
+
+     Lam's gross margin percentage increased to 35.5% for fiscal 1998, compared
+to 32.6% for fiscal 1997. Gross margin percentages for both fiscal years 1998
+and 1997 were impacted by certain charges and adjustments described below.
+During fiscal 1998, and as a result of the Company's restructuring actions (see
+Note P to the Consolidated Financial Statements), Lam wrote-off $31.9 million of
+inventory related to the exited CVD and FPD operations. During fiscal 1997, and
+in response to the faster than anticipated customer transition from
+single-chamber to multi-chamber cluster systems and costs associated with
+continuing revisions to the design and features of such multi-chamber products,
+Lam established additional reserves of approximately $42.0 million relating to
+excess and obsolete inventory and related commitments. In addition, during
+fiscal 1997, Lam re-evaluated its warranty and installation reserves and
+established additional reserves of approximately $15.0 million due to greater
+warranty and installation support costs associated with newer product lines. The
+fiscal 1998 gross margin percentage improved slightly from fiscal 1997, as a
+result of improved margins on the multi-chamber cluster systems partially offset
+by the effect of an unfavorable product mix and a decrease in royalty income.
+
+  Research and Development
+
+     R&D expenses for the fiscal year ended June 30, 1998 were 19.6% of total
+revenue, compared to 17.9% of total revenue for the prior fiscal year. During
+fiscal 1998, Lam increased its investment in R&D related to the development of
+its Teres system.
+
+  Selling, General and Administrative
+
+     SG&A expenses as a percentage of revenue for fiscal 1998 were virtually
+flat, compared to fiscal 1997.
+
+  Fiscal 1997 Restructuring Charge
+
+     During the Company's first fiscal 1997 quarter ended September 30, 1996,
+the Company projected and announced that revenues would be lower than previous
+quarters due to an anticipated 20% semiconductor equipment market decline.
+Revenues during that quarter fell to $299.2 million, a decrease of 24% from the
+prior quarter. The Company assessed that market conditions would remain
+depressed and, therefore, that its revenues would continue to be adversely
+affected. Accordingly, and as announced on August 26, 1996, the Company
+organizationally restructured its business units into a more centralized
+structure and cut its global workforce by approximately 11%. As a result, during
+the first quarter of fiscal 1997, Lam recorded a
+
+
+restructuring charge of $9.0 million for costs related primarily to severance
+and benefits, lease payments on vacated facilities and the write-off of fixed
+assets. During fiscal 1998, the Company revised its estimate relating to
+severance and benefits and transferred the excess balance of remaining lease
+payments on vacated facilities to severance and benefits. As of June 30, 1998,
+$1.3 million of the restructuring charge remained in accrued liabilities,
+relating to severance and benefits. There will be further charges against these
+restructuring reserves established into fiscal 2000.
+
+     Below is a table summarizing restructuring activity relating to the fiscal
+1997 restructurings:
+
+
+
+     During fiscal 1998, the Company restructured its operations to reduce its
+global workforce and to focus more on its core etch and CMP product groups, as
+well as to exit its FPD and CVD operations (see further discussion under Item 7.
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations" under caption "Fiscal 1998 Restructuring Charge").
+
+  Merger Costs
+
+     During the first quarter of fiscal 1998, Lam recorded costs of $17.7
+million relating to the merger with OnTrak. Such expenses were related to
+investment advisory fees, legal and accounting fees, financial printing costs
+and other direct merger-related expenditures.
+
+  Purchased Technology for R&D
+
+     During the third quarter of fiscal 1998, Lam purchased a non-exclusive
+license for Trikon's MxRI source technology. Lam recorded a charge of $12.1
+million for the license and for the purchase of an R&D system from Trikon. The
+technology is being used in a single discrete etch product development project
+and has no future alternative use.
+
+  Other Income (Loss), net
+
+     Other income increased to $1.8 million during fiscal 1998 from a loss of
+$0.1 million during fiscal 1997. During August 1997, the Company completed an
+offering of $310.0 million of the Notes, which bear interest at five percent and
+are due to mature on September 2, 2002. While interest expense increased due to
+issuance of the Notes interest income increased significantly during fiscal
+1998, as Lam's rate of return on the invested cash proceeds of the debenture
+offering exceeded the interest rate it paid on the Notes. During fiscal 1998,
+Lam recognized higher foreign currency exchange losses, primarily due to
+exchange rate fluctuations in Korea, which partially offset the increase in
+interest income.
+
+  Tax Benefit
+
+     The Company recorded a tax benefit of 19.3% of its pre-tax loss, compared
+to 49.6% for the prior fiscal year. The decrease was primarily due to the
+Company not currently benefiting from certain expenses associated the Company's
+restructurings, which resulted in net operating loss carryovers and tax credit
+carryforwards for tax purposes.
+
+
+
+     LIQUIDITY AND CAPITAL RESOURCES
+
+     As of June 30, 1999, the Company had $372.1 million in cash, cash
+equivalents, short-term investments and restricted cash, compared with $448.5
+million at June 30, 1998. The Company has a total of $100.0 million available
+under a syndicated bank line of credit, which is due to expire in April 2001.
+Borrowings are subject to the Company's compliance with financial and other
+covenants set forth in the credit documents. During fiscal 1999, the Company
+amended the syndicated bank line of credit with respect to certain applicable
+covenant requirements and amended the line of credit borrowing rates to a range
+of 0.55% to 1.25% over LIBOR.
+
+     The Company used $37.2 million of cash from operations in fiscal 1999. The
+Company's asset management efforts and lower revenue levels resulted in
+inventory reductions of $33.7 million. A decrease in taxes receivable and
+prepaid rent contributed to the decline in prepaid expenses and other assets.
+Accounts payable and accrued liabilities declined by $16.5 million and $36.2
+million, respectively. Accounts payable decreased due to lower inventory
+purchases and reduced spending. Accrued liabilities declined largely due to a
+result of the decrease in accrued severance and benefits related to the fiscal
+1998 and 1997 restructurings, and a reduction in installation and warranty
+reserves.
+
+     Net cash provided by investing activities during fiscal 1999 was $70.0
+million. Net sales of short-term investments generated $109.8 million of cash.
+Net capital expenditures were $33.2 million. The Company has deposited $9.0
+million as security for its obligations under certain put option obligations
+(see Note I of the Consolidated Financial Statements), which is classified as a
+long-term asset, from cash and cash equivalents and short-term investments. Cash
+totaling $5.0 million was used to complete a purchase of technology for R&D (see
+Note R of the Consolidated Financial Statements).
+
+     Net cash flows used by financing activities during fiscal 1999 was $8.3
+million. During fiscal 1999, the Company entered into a stock repurchase program
+which was designed to reduce dilution caused by the issuance of shares reserved
+under the Company's stock option and employee stock purchase plan (see Note L to
+the Consolidated Financial Statements). During fiscal 1999, the Company
+purchased $18.9 million of its Common Stock and reissued $10.5 million of its
+Common Stock. During the quarter ended September 30, 1998, the Company entered
+into a new Yen-denominated credit facility for an approximately Y1.7 billion
+yen-denominated loan ($14.1 million at June 30, 1999). This credit facility
+replaces a term loan which was held with other financial institutions. Principal
+payments on the new facility are due annually on September 30, through September
+30, 2001. The new facility reflects terms which were more favorable than the
+previous yen-denominated loan. In total, Lam made principal payments of
+long-term debt and capital leases of $27.8 million and proceeds from issuance of
+long-term debt of $20.7 million.
+
+     During fiscal 1999, the Company entered into certain independent third
+party (the "Third Parties") option transactions for the purchase and sale of Lam
+Common Stock. The Board of Directors of the Company has authorized the Company
+to acquire from the Third Parties options to purchase up to 3.5 million shares
+of Lam Common Stock. These call options are to be acquired to offset the
+anticipated dilutive effect of a potential conversion into common stock of the
+Notes previously issued by the Company, and due September 2, 2002. As part of
+the program, the Board of Directors also authorized the Company to enter into
+put options with the same Third Parties covering up to 5.25 million shares of
+Lam Common Stock. The Board of Directors anticipated that the premiums the
+Company would receive over the course of the program from the sale of the put
+options to the Third Parties would offset in full the premium cost to the
+Company of its purchase of the call options from those same Third Parties.
+Consequently, the Company does not expect to exchange cash over the course of
+the program with the Third Parties in conjunction with the Company's purchase of
+the call options.
+
+     Pursuant to this authorization, described above, the Company has as of June
+30, 1999 acquired call options to purchase 1.24 million shares of Lam Common
+Stock; the weighted average exercise price of these options is $33.87. The call
+options provide that the maximum benefit to the Company of the call options at
+expiration is $53.90 per option share (the difference between $87.77, which is
+the conversion price of the Notes, and the weighted average exercise price of
+the call options). The Company has also entered put options
+
+
+
+with the same Third Parties covering 1.86 million shares of its common stock,
+giving those Third Parties the right to sell to the Company shares of Lam Common
+Stock at a weighted average price of $28.43 per share.
+
+     The call and put options are European style options exercisable upon
+expiration; all of the options expire not later than September 3, 2002, which is
+the business day following the date on which the Notes must either be converted
+or retired. Upon option exercise, the Company has the ability, at its option, to
+permit the options to be physically settled (i.e., shares would be delivered to
+the Company against payment of the exercise price), settled in cash (i.e., by a
+payment from one party to the other of the value of the option being exercised)
+or "net settled" in shares (i.e., by delivery of a number of shares of common
+stock having a value equal to the value of the option being exercised). The
+Company can also terminate the options prior to expiration for a settlement
+value determined from time to time by the appropriate Third Party. While the
+options are only exercisable at expiration, the terms of the contracts with the
+Third Parties provide for early termination and settlement of the options upon
+the occurrence of certain events (in a form determined by the Company which
+includes net settlement of shares), including without limitation the Company's
+material breach of the agreement, default on certain indebtedness or covenants
+relating to the Company's financial condition, reduction in the Company's S&P
+credit rating below B or a drop in the price of the Company's Common Stock to
+less than $5.00 per share.
+
+     If the average stock price is below $28.43 during any period, the required
+number of shares to net settle the Company's obligation under the put option
+agreement would be considered dilutive securities in the Company's dilutive
+earnings per share calculation.
+
+     Given the cyclical nature of the semiconductor equipment industry, the
+Company believes that maintenance of sufficient liquidity reserves is important
+to ensure the Company's ability to maintain levels of investment in R&D and
+capital infrastructure through ensuing business cycles. Based upon the Company's
+current business outlook, its cash, cash equivalents, short-term investments,
+restricted cash and available lines of credit at June 30, 1999 are expected to
+be sufficient to support its currently anticipated levels of operations and
+capital expenditures through at least December 2000.
+
+RISK FACTORS
+
+     OUR QUARTERLY REVENUES AND OPERATING RESULTS ARE UNPREDICTABLE
+
+     Our revenues and operating results may fluctuate significantly from quarter
+to quarter due to a number of factors, not all of which are in our control.
+These factors include:
+
+     - economic conditions in the semiconductor industry generally, and the
+       equipment industry specifically;
+
+     - customer capacity requirements;
+
+     - the size and timing of orders from customers;
+
+     - customer cancellations or delays in our shipments;
+
+     - our ability in a timely manner to develop, introduce and market new,
+       enhanced and competitive products;
+
+     - our competitors' introduction of new products;
+
+     - challenges to our products and technology;
+
+     - changes in average selling prices and product mix; and
+
+     - exchange rate fluctuations.
+
+     We base our expense levels in part on our expectations of future revenues.
+If revenue levels in a particular quarter do not meet our expectations, our
+operating results are adversely affected.
+
+
+
+     We derive our revenue primarily from the sale of a relatively small number
+of high-priced systems. Our systems can range in price from approximately
+$150,000 to over $4 million per unit. Our operating results for a quarter may
+suffer substantially if:
+
+     - we sell fewer systems than we anticipate in any quarter;
+
+     - we do not receive anticipated orders in time to enable actual shipment
+       during that quarter;
+
+     - one or more customers delay or cancel anticipated shipments; or
+
+     - shipments are delayed by procurement shortages; logistical disruptions or
+       manufacturing difficulties.
+
+     Further, because of our continuing consolidation of manufacturing
+operations and capacity at our Fremont, California facility, natural, physical,
+logistical or other events or disruptions affecting this facility (including
+labor disruptions) could adversely impact our financial performance.
+
+     THE SEMICONDUCTOR EQUIPMENT INDUSTRY IS VOLATILE, WHICH AFFECTS OUR
+     REVENUES AND FINANCIAL RESULTS
+
+     Our business depends on the capital equipment expenditures of semiconductor
+manufacturers, which in turn depend on the current and anticipated market demand
+for integrated circuits and products using integrated circuits. The
+semiconductor industry is cyclical in nature and historically experiences
+periodic downturns. During the past twelve months the semiconductor industry has
+experienced severe swings of product demand and volatility in product pricing.
+In early fiscal 1999 and fiscal 1998, the semiconductor industry reduced or
+delayed significantly purchases of semiconductor manufacturing equipment and
+construction of new fabrication facilities because of the recent industry
+downturn. We expect this volatility to continue throughout fiscal 2000, but we
+have seen indications of a modest recovery which may extend into fiscal 2000.
+Lower levels of investment by the semiconductor manufacturers and pricing
+volatility will continue to affect materially our aggregate bookings, revenues
+and operating results. Even during periods of reduced revenues, we must continue
+to invest in research and development and to maintain extensive ongoing
+worldwide customer service and support capabilities to remain competitive, which
+may harm our financial results.
+
+     WE DEPEND ON NEW PRODUCTS AND PROCESSES FOR OUR SUCCESS. FOR THIS REASON,
+     WE ARE SUBJECT TO RISKS ASSOCIATED WITH RAPID TECHNOLOGICAL CHANGE
+
+     Rapid technological changes in semiconductor manufacturing processes
+subject us to increased pressure to maintain technological parity with deep
+submicron process technology. We believe that our future success depends in part
+upon our ability to develop, manufacture and introduce successfully new products
+and product lines with improved capabilities, and to continue to enhance our
+existing products. Due to the risks inherent in transitioning to new products,
+we must forecast accurately demand for new products while managing the
+transition from older products. If new products have reliability or quality
+problems, reduced orders, higher manufacturing costs, delays in acceptance of
+and payment for new products and additional service and warranty expenses may
+result. In the past, product introductions caused some delays and reliability
+and quality problems. We may fail to develop and manufacture new products
+successfully, or new products that we introduce may fail in the marketplace,
+which would materially and adversely affect our results from operations.
+
+     We expect to continue to make significant investments in research and
+development and to pursue joint development relationships with customers or
+other members of the industry. We must manage product transitions or joint
+development relationships successfully, as introduction of new products could
+adversely affect our sales of existing products. Future technologies, processes
+or product developments may render our current product offerings obsolete or we
+may be unable in a timely manner to develop and introduce new products or
+enhancements to our existing products which satisfy customer needs or achieve
+market acceptance. Furthermore, if we are unsuccessful in the marketing and
+selling of advanced processes or equipment to customers with whom we have
+strategic alliances, we may be unsuccessful in selling existing products to
+those customers. In addition, in connection with our developing new products, we
+will invest in high levels of pre-production inventory, and our failure in a
+timely manner to complete development and
+
+
+
+commercialization of these new products could result in inventory obsolescence,
+which would adversely affect on our financial results.
+
+     WE ARE SUBJECT TO RISKS ASSOCIATED WITH THE INTRODUCTION OF A NEW PRODUCT
+
+     During the second quarter of fiscal 1999, we began shipping evaluation
+units of our Teres(TM) chemical mechanical planarization system, for which we
+recorded no revenue during fiscal 1999. We expect to face significant
+competition from multiple current and future competitors. Among the companies
+currently offering polishing systems are Applied Materials, Inc., Ebara Corp.,
+SpeedFam-IPEC, Inc. and Strasbaugh. We believe that other companies are
+developing polishing systems and are planning to introduce new products to this
+market, which may affect our ability to sell this new product.
+
+     WE ARE SUBJECT TO RISKS RELATING TO PRODUCT CONCENTRATION AND LACK OF
+     PRODUCT REVENUE DIVERSIFICATION
+
+     We derive a substantial percentage of our revenues to date from a limited
+number of products, and we expect these products to continue to account for a
+large percentage of our revenues in the near term. Continued market acceptance
+of our primary products is, therefore, critical to our future success. Our
+business, operating results, financial condition and cash flows could therefore
+be adversely affected by:
+
+     - a decline in demand for our products;
+
+     - a failure to achieve continued market acceptance of our products;
+
+     - an improved version of one of our products being produced by a
+       competitor;
+
+     - technological change which we are unable to match in our products; and
+
+     - a failure to release a new version of our product on a timely basis.
+
+     WE ARE DEPENDENT UPON A LIMITED NUMBER OF KEY SUPPLIERS
+
+     We obtain certain components and sub-assemblies included in our products
+from a single supplier or a limited group of suppliers. Each of our key
+suppliers has a one year blanket purchase contract under which we may issue
+purchase orders. We may renew these contracts periodically. Each of these
+suppliers sold us products during at least the last four years, and we expect
+that we will continue to renew these contracts in the future or that we will
+otherwise replace them with competent alternative source suppliers. We believe
+that we could obtain alternative sources to supply these products. Nevertheless,
+a prolonged inability to obtain certain components could adversely affect our
+operating results and result in damage to our customer relationships.
+
+     ONCE A SEMICONDUCTOR MANUFACTURER COMMITS TO PURCHASE A COMPETITOR'S
+     SEMICONDUCTOR
+     MANUFACTURING EQUIPMENT IT TYPICALLY CONTINUES TO PURCHASE THAT EQUIPMENT,
+     MAKING IT
+     MORE DIFFICULT FOR LAM TO SELL ITS EQUIPMENT TO THAT MANUFACTURER
+
+     The semiconductor equipment industry is highly competitive. We expect to
+continue to face substantial competition throughout the world. Semiconductor
+manufacturers must make a substantial investment to install and integrate
+capital equipment into a semiconductor production line. We believe that once a
+semiconductor manufacturer selects a particular supplier's capital equipment,
+the manufacturer generally relies upon that equipment for the entire specific
+production line application. Accordingly, we expect to experience difficulty in
+selling to a given customer if that customer initially selects a competitor's
+equipment. We believe that to remain competitive, we require significant
+financial resources to offer a broad range of products, to maintain customer
+service and support centers worldwide and to invest in product and process
+research and development.
+
+     WE MAY LACK THE FINANCIAL RESOURCES OR TECHNOLOGICAL CAPABILITIES OF
+     CERTAIN OF OUR COMPETITORS NEEDED TO CAPTURE INCREASED MARKET SHARE
+
+     Large semiconductor equipment manufacturers who have the resources to
+support customers on a worldwide basis are increasingly dominating the
+semiconductor equipment industry. Certain of our competi-
+
+
+tors have substantially greater financial resources and more extensive
+engineering, manufacturing, marketing and customer service and support than we
+do. In addition, there are smaller emerging semiconductor equipment companies
+that may provide innovative technology which may have performance advantages
+over systems we currently offer or expect to offer.
+
+     We expect our competitors to continue to improve the design and performance
+of their current products and processes and to introduce new products and
+processes with enhanced performance characteristics. If our competitors enter
+into strategic relationships with leading semiconductor manufacturers covering
+products similar to those we sell or may develop, it could adversely affect our
+ability to sell products to those manufacturers. For these reasons, we may fail
+to continue to compete successfully in the United States or worldwide.
+
+     Our present or future competitors may be able to develop products
+comparable or superior to those we offer or that adapt more quickly to new
+technologies or evolving customer requirements. In particular, while we
+currently are developing additional product enhancements that we believe will
+address customer requirements, we may fail in a timely manner to complete the
+development or introduction of these additional product enhancements
+successfully, or these product enhancements may not achieve market acceptance or
+be competitive. Accordingly, we may be unable to continue to compete effectively
+in our markets, competition may intensify or future competition may have a
+material adverse effect on our revenues, operating results, financial condition
+and cash flows.
+
+     THE ASIAN FINANCIAL CRISIS COULD CONTINUE TO HARM OUR BUSINESS BECAUSE A
+     LARGE PORTION OF THE SEMICONDUCTOR INDUSTRY AND OUR CUSTOMERS ARE BASED IN
+     THE FAR EAST
+
+     Historically, sales to the Asian regions have accounted for a substantial
+portion of our international sales. Recent economic, banking and currency
+problems in the Asian regions have had and will continue to have a significant
+adverse impact on our revenue and operations.
+
+     We denominate our sales of products throughout the world primarily in
+United States dollars. In Korea, devaluation of the Won and customers'
+difficulties in obtaining credit curtailed semiconductor equipment investment
+and led to our customers' reduction in orders or delay of orders during fiscal
+1999.
+
+     In Japan, we denominate our sales in Japanese yen. A weakening of the value
+of the Japanese yen as compared to the U.S. dollar may negatively impact our
+operating margins.
+
+     OUR FUTURE SUCCESS DEPENDS ON INTERNATIONAL SALES
+
+     International sales accounted for approximately 54% of our total revenue in
+fiscal 1999, 55% in fiscal 1998 and 57% in fiscal 1997. We expect that
+international sales will continue to account for a significant portion of our
+total revenue in future years. International sales are subject to risks,
+including:
+
+     - foreign exchange risks; and
+
+     - economic, banking and currency problems in the relevant region.
+
+     We currently enter into foreign currency forward contracts to minimize the
+impact of exchange rate fluctuations on yen-dominated assets, and will continue
+to enter into hedging transactions in the future.
+
+     OUR FAILURE TO COMPLY WITH ENVIRONMENTAL REGULATIONS MAY ADVERSELY AFFECT
+     OUR OPERATING RESULTS
+
+     We are subject to a variety of governmental regulations related to the
+discharge or disposal of toxic, volatile or otherwise hazardous chemicals used
+in the manufacturing process. We believe that we are in general compliance with
+these regulations and that we have obtained (or will obtain or are otherwise
+addressing) all necessary environmental permits to conduct our business, which
+permits generally relate to the disposal of hazardous wastes. Nevertheless, the
+failure to comply with present or future regulations could result in fines being
+imposed on us, suspension of production, cessation of our operations generally
+or reduction in our customers' acceptance of our products. These regulations
+could require us to alter our current operations, to acquire significant
+equipment or to incur substantial other expenses to comply with environmen-
+
+
+tal regulations. Our failure to control the use, sale or transport, or
+adequately to restrict our discharge or disposal, of hazardous substances could
+subject us to future liabilities.
+
+     WE ARE DEPENDENT ON OUR KEY MANAGEMENT PERSONNEL, AS WELL AS OUR TECHNICAL
+     PERSONNEL
+
+     Our performance is substantially dependent on the performance of our
+executive officers and key technical and engineering employees. The loss of the
+services of any of our executive officers or other key employees could have a
+material adverse effect on our business, operating results, financial condition,
+cash flows, market perceptions and price of our Common Stock.
+
+     Our future success also depends on our continuing ability to identify,
+hire, train and retain other highly qualified technical and managerial
+personnel. Competition for such personnel, particularly in the San Francisco Bay
+Area, is intense, and we have experienced difficulty in identifying and hiring
+qualified engineering personnel. We may not be successful in the future in
+attracting, assimilating or retaining highly qualified technical and managerial
+personnel. Our inability to attract and retain the necessary technical and
+managerial personnel could have a material adverse effect on our business,
+operating results, financial condition, and cash flows, as well as the market
+perceptions and price of our Common Stock.
+
+     OUR ABILITY TO MANAGE POTENTIAL GROWTH: INTEGRATION OF POTENTIAL
+     ACQUISITIONS AND POTENTIAL DISPOSITION OF PRODUCT LINES AND TECHNOLOGIES
+     CREATES RISKS FOR US
+
+     Our management may face significant challenges in improving financial and
+business controls, management processes, information systems and procedures on a
+timely basis, and expanding, training and managing our work force if we
+experience additional growth. There can be no assurance that we will be able to
+perform such actions successfully. In the future, we may make additional
+acquisitions of complementary companies, products or technologies, or we may
+reduce or dispose of certain product lines or technologies which no longer
+complement our long-term strategy, such as our exiting of FPD and CVD
+operations. Managing an acquired business or disposing of product technologies
+entails numerous operational and financial risks, including difficulties in
+assimilating acquired operations and new personnel or separating existing
+business or product groups, diversion of management's attention to other
+business concerns, amortization of acquired intangible assets and potential loss
+of key employees or customers of acquired or disposed operations. Our success
+will depend, to a significant extent, on the ability of our executive officers
+and other members of our senior management to identify and respond to these
+challenges effectively. There can be no assurance that we will be able to
+achieve and manage effectively any such growth, integration of potential
+acquisitions or disposition of product lines or technologies, or that our
+management, personnel or systems will be adequate to support continued
+operations. Any such inabilities or inadequacies would have a material adverse
+effect on our business, operating results, financial condition and cash flows.
+
+     An important element of our management strategy is to review acquisition
+prospects that would complement our existing products, augment our market
+coverage and distribution ability, or enhance our technological capabilities. We
+may acquire additional businesses, products or technologies in the future. Any
+acquisitions could result in the potentially dilutive issuances of equity
+securities, the incurrences of debt and contingent liabilities and the
+amortization expense related to goodwill and other intangible assets acquired,
+any of which could materially adversely affect our business, financial condition
+and results of operations and/or the price of our Common Stock.
+
+     THE MARKET FOR OUR COMMON STOCK IS VOLATILE, WHICH MAY AFFECT OUR ABILITY
+     TO RAISE CAPITAL OR MAKE ACQUISITIONS
+
+     The market price for our Common Stock is volatile and has fluctuated
+significantly over the prior years. The trading price of our Common Stock could
+continue to be highly volatile and fluctuate widely in response to factors,
+including the following:
+
+     - general market or semiconductor industry conditions;
+
+     - variations in our quarterly operating results;
+
+
+
+     - shortfalls in our revenues or earnings from levels securities analysts
+       expect;
+
+     - announcements of restructurings, technological innovations, reductions in
+       force, departure of key employees, consolidations of operations or
+       introduction of new products;
+
+     - government regulations;
+
+     - developments in patent or other proprietary rights;
+
+     - disruptions with key customers; or
+
+     - political, economic or environmental events occurring globally or in our
+       key sales regions.
+
+     In addition, the stock market has in recent years experienced significant
+price and volume fluctuations. Recent fluctuations affecting our Common Stock
+were tied in part to the actual or anticipated fluctuations in interest rates,
+and the price of and market for semiconductors generally. These broad market and
+industry factors may adversely affect the market price of our Common Stock,
+regardless of our actual operating performance. In the past, following volatile
+periods in the market price of stock, many companies become the object of
+securities class action litigation. If we are sued in a securities class action,
+we could incur substantial costs and it could divert management's attention and
+resources and have an effect on the market price for our Common Stock.
+
+     RISK ASSOCIATED WITH OUR CALL AND PUT OPTIONS
+
+     As noted in Note I to the Consolidated Financial Statements, we have
+entered into certain third party option transactions for the purchase and sale
+of our stock. The option positions will be of value to us if our stock price
+exceeds the exercise price of the call options at the time the option is
+exercised. Of course, our stock price could also decline. If our price on the
+exercise date of the options were below the put option exercise price, we would
+have to settle the put obligation by paying cash or the equivalent value of our
+Common Stock obligation.
+
+     If settlement were to occur prior to option expiration because of the
+occurrence of an event, such as material breach of the agreement, default on
+certain indebtedness or covenants relating to our financial condition, reduction
+in our credit rating or drop in price of our Common Stock to less than $5.00 per
+share, the Third Parties have the right to terminate the transactions. We will
+be required to pay to the Third Parties the value of their position in cash or
+equivalent value of our Common Stock (which would depend on a number of factors,
+including the time remaining to expiration and the volatility of our Common
+Stock) which could be greater or lesser than the difference between the options'
+exercise prices and the then market price of our stock, as well as any costs or
+expenses incurred by the Third Parties as a result of unwinding the
+transactions.
+
+     THE POTENTIAL ANTI-TAKEOVER EFFECTS OF OUR BYLAWS PROVISIONS AND THE RIGHTS
+     PLAN WE HAVE IN PLACE MAY AFFECT OUR STOCK PRICE AND INHIBIT A CHANGE OF
+     CONTROL DESIRED BY SOME OF OUR STOCKHOLDERS
+
+     On January 23, 1997, Lam adopted a Rights Plan (the "Rights Plan") in which
+rights were distributed as a dividend at the rate of one right for each share of
+our Common Stock, held by stockholders of record as of the close of business on
+January 31, 1997, and thereafter. In connection with the adoption of the Rights
+Plan, our Board of Directors also adopted a number of amendments to our Bylaws,
+including amendments requiring advance notice of stockholder nominations of
+directors and stockholder proposals.
+
+     The Rights Plan may have certain anti-takeover effects. The Rights Plan
+will cause substantial dilution to a person or group that attempts to acquire
+Lam in certain circumstances. Accordingly, the existence of the Rights Plan and
+the issuance of the related rights may deter certain acquirers from making
+takeover proposals or tender offers. The Rights Plan, however, is not intended
+to prevent a takeover, but rather is designed to enhance the ability of our
+Board of Directors to negotiate with a potential acquirer on behalf of all of
+our stockholders.
+
+     In addition, our Certificate of Incorporation authorizes issuance of
+5,000,000 shares of undesignated preferred stock. Our Board of Directors,
+without further stockholder approval, may issue this preferred stock
+
+
+
+on such terms as the Board of Directors may determine, which also could have the
+effect of delaying or preventing a change in control of Lam. The issuance of
+preferred stock could also adversely affect the voting power of the holders of
+our Common Stock, including causing the loss of voting control. Our Bylaws and
+indemnity agreements with certain officers, directors and key employees provide
+that we will indemnify officers and directors against losses that they may incur
+in legal proceedings resulting from their service to Lam. Moreover, Section 203
+of the Delaware General Corporation Law restricts certain business combinations
+with "interested stockholders", as defined by that statute.
+
+     INTELLECTUAL PROPERTY AND OTHER CLAIMS AGAINST US CAN BE COSTLY AND COULD
+     RESULT IN THE LOSS OF SIGNIFICANT RIGHTS WHICH ARE NECESSARY TO OUR
+     CONTINUED BUSINESS AND PROFITABILITY
+
+     Other parties may assert infringement, unfair competition or other claims
+against us. Additionally, from time to time, other parties send us notices
+alleging that our products infringe their patent or other intellectual property
+rights. In such cases, it is our policy either to defend the claims or to
+negotiate licenses on commercially reasonable terms. However, we may be unable
+in the future to negotiate necessary licenses on commercially reasonable terms,
+or at all, and any litigation resulting from these claims by other parties may
+materially adversely affect our business and financial results.
+
+     In October 1993, Varian sued us in the United States District Court for the
+Northern District of California, seeking monetary damages and injunctive relief
+based on our alleged infringement of certain patents Varian holds. We asserted
+defenses that the subject patents are invalid and unenforceable, and that our
+products do not infringe these patents. A trial date is currently scheduled for
+March 2000. Litigation is inherently uncertain and we may fail to prevail in
+this litigation. However, we believe that the Varian lawsuit will not materially
+adversely affect our operating results or financial position. See Item 3 of this
+Annual Report on Form 10-K for further details concerning the Varian lawsuit.
+
+     Additionally, in September, 1999, Tegal Corporation sued us in the United
+States District Court for the Eastern District of Virginia, seeking monetary
+damages and injunctive relief based on our alleged infringement of certain
+patents Tegal holds. Specifically, Tegal identified our 4520XL and Exelan
+products as infringing the patents Tegal is asserting. No trial date is
+currently scheduled in the action. Litigation is inherently uncertain and we may
+fail to prevail in this litigation. However, we believe that the Tegal lawsuit
+will not materially adversely affect our operating results or financial
+position. See Item 3 of this Annual Report on Form 10-K for further details
+concerning the Tegal lawsuit.
+
+     WE MAY FAIL TO PROTECT OUR PROPRIETARY TECHNOLOGY RIGHTS, WHICH WOULD
+     AFFECT OUR BUSINESS
+
+     Our success depends in part on our proprietary technology. While we attempt
+to protect our proprietary technology through patents, copyrights and trade
+secret protection, we believe that our success depends on increasing our
+technological expertise, continuing our development of new systems, increasing
+market penetration and growth of our installed base and providing comprehensive
+support and service to our customers. However, we may be unable to protect our
+technology in all instances, or our competitors may develop similar or more
+competitive technology independently. We currently hold a number of United
+States and foreign patents and pending patent applications. However, other
+parties may challenge or attempt to invalidate or circumvent any patents United
+States or foreign governments issue to us or these governments may fail to issue
+pending applications. In addition, the rights granted or anticipated under any
+of these patents or pending patent applications may be narrower than we expect
+or in fact provide no competitive advantages.
+
+     YEAR 2000 COMPLIANCE
+
+     See the discussion of the risks for Lam in connection with Year 2000
+compliance in the section of this report entitled Item 7. "Management's
+Discussion and Analysis of Financial Condition and Results of Operations".
+
+
+
+     OUR RESTRUCTURINGS AND CONSOLIDATION OF OPERATIONS MAY NOT BE SUCCESSFUL
+
+     We substantially restructured and consolidated our operations during the
+quarters ended March 31, 1998, June 30, 1998 and December 31, 1998.
+Implementation of these restructurings and consolidations involves the risk that
+we will not be successful in simplifying and modifying our product line
+offerings. Additionally, if we are successful in simplifying and modifying our
+product line offerings as we intended, within the timeframe we planned or within
+the cost we expected and the amount of reserves we set aside, there is also risk
+that we will then be more dependent on fewer products which could potentially
+reduce our overall sales.
+
+     Although we believe that the actions we have taken and are taking in
+connection with the restructurings and consolidations, including the reduction
+in workforce, the consolidation of manufacturing operations and our exit of FPD
+and CVD operations, should help more closely align our operations with our
+business outlook, we cannot assure you that these actions will enable us to
+achieve our objectives of reducing costs, or can be accomplished at specific or
+optimum values or on time or as intended. In addition, we cannot assure you that
+the restructuring activities will be sufficient. Our future consolidated
+operating results and financial condition could be adversely affected should we
+encounter difficulty in effectively managing the restructurings and
+consolidations.
+
+
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+     Our exposure to market risk for changes in interest rates relates primarily
+to our investment portfolio and long-term debt obligations. We maintain a strict
+investment policy, which ensures the safety and preservation of our invested
+funds by limiting default risk, market risk, and reinvestment risk. The table
+below presents notional amounts and related weighted-average interest rates by
+year of maturity for our investment portfolio and long-term debt obligations at
+June 30:
+
+
+
+     We try to mitigate default risk by attempting to invest in high credit
+quality securities and by constantly positioning our portfolio to respond
+appropriately to a significant reduction in a credit rating of any investment
+issuer or guarantor. The portfolio includes only marketable securities with
+active secondary or resale markets to ensure portfolio liquidity and maintain a
+prudent amount of diversification.
+
+     We have no cash flow exposure related to our fixed rate $310.0 million
+Convertible Subordinated Notes, Japanese yen-denominated bank loans or on our
+current capital lease obligations. However, we do have cash flow exposure on the
+interest expense related to our existing $100.0 million line of credit because
+the lending rates we receive under that line of credit vary with LIBOR. At June
+30, 1999, we had no borrowings against this line of credit.
+
+     We conduct business on a global basis in several major international
+currencies. As such, we are potentially exposed to adverse as well as beneficial
+movements in foreign currency exchange rates. For this reason, we enter into
+foreign currency forward contracts to minimize the impact of exchange rate
+fluctuations on the value of our yen-denominated assets and liabilities. We
+defer realized gains and losses on these contracts and offset them against
+realized and unrealized gains and losses from the settlement of the related
+yen-denominated receivables. At June 30, 1999, the notional amount of
+outstanding foreign currency exchange contracts was $71.7 million. The
+unrealized gain on the contracts at June 30, 1999, was $1.7 million. An adverse
+change in the exchange rate of the yen of approximately 15% would result in an
+unrealized loss of $10.7 million.
+
+
+
+     During fiscal 1999, the Company entered into certain Third Party option
+transactions for the purchase and sale of Lam Common Stock, in order to offset
+the anticipated dilutive effect of a potential conversion into common stock of
+the Notes previously issued by the Company, and due September 2, 2002. The
+Company has as of June 30, 1999 acquired call options to purchase 1.24 million
+shares of Lam Common Stock; the weighted average exercise price of these options
+is $33.87. The call options provide that the maximum benefit to the Company of
+the call options at expiration is $53.90 per option share (the difference
+between $87.77, which is the conversion price of the Notes, and the weighted
+average exercise price of the call options). The Company has also entered put
+options with the same Third Parties covering 1.86 million shares of its common
+stock, giving those Third Parties the right to sell to the Company shares of Lam
+Common Stock at a weighted average price of $28.43 per share.
+
+     Below is a table showing, at assumed exercise prices for the put and call
+options and market prices for Lam Common Stock, the gain or loss to the Company
+under the put and call options upon exercise or upon maturity of the options
+transaction.
+
+
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     The Consolidated Financial Statements required by this Item are set forth
+on the pages indicated at Item 14(a). The unaudited quarterly results of our
+operations for our two most recent fiscal years are incorporated herein by
+reference under Item 6 "Selected Financial Data."
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+
+     Not applicable.
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+     We have omitted from this Report certain information required by Part III
+because we, as the Registrant, will file a definitive proxy statement with the
+Securities and Exchange Commission (the "Commission") within 120 days after the
+end of our fiscal year, pursuant to Regulation 14A, as promulgated by the
+Commission, for our Annual Meeting of Stockholders to be held November 4, 1999
+(the "Proxy Statement"), and certain information included therein is
+incorporated herein by reference. (However, the Report of the Compensation
+Committee and the Comparative Stock Performance graph of the Registrant's Proxy
+Statement are expressly not incorporated by reference herein.) For information
+regarding our executive officers, see Part I of this Form 10-K under the caption
+"Executive Officers of the Company," which information is incorporated herein by
+this reference.
+
+     The information concerning our directors required by this Item is
+incorporated by reference to our Proxy Statement under the heading "Proposal No.
+1 Election of Directors."
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+     The information required by this Item is incorporated by reference to our
+Proxy Statement under the heading "Executive Compensation and Other
+Information."
+
+
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+     The information required by this Item is incorporated by reference to our
+Proxy Statement under the headings "Proposal No. 1 Election of Directors" and
+"Security Ownership of Certain Beneficial Owners and Management."
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     The information required by this Item is incorporated by reference to our
+Proxy Statement under the heading "Certain Relationships and Related
+Transactions."
+
+
+
+                                    PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+     (a) 1. INDEX TO FINANCIAL STATEMENTS
+
+
+
+        2. INDEX TO FINANCIAL STATEMENT SCHEDULES
+
+
+
+Schedules, other than those listed above, have been omitted since they are
+either not applicable not required, or the information is included elsewhere
+herein.
+
+        3. See (c) of this Item 14, which is incorporated herein by reference.
+
+     (b) Reports on Form 8-K
+
+We filed a Form 8-K on June 11, 1999 making an Item 5 disclosure to disclose
+that the Board of Directors authorized us to acquire options to purchase up to
+3.5 million shares of Lam Common Stock from third parties and to enter into put
+options with the same third parties covering up to 5.25 million shares of our
+Common Stock. See Note I to the Consolidated Financial Statements.
+
+     (c) The list of Exhibits is set forth on pages 62 to 65 of this Form 10-K
+and are incorporated herein by this reference
+
+
+
+                          CONSOLIDATED BALANCE SHEETS
+                     (IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+                                     ASSETS
+
+
+
+                See Notes to Consolidated Financial Statements.
+
+
+                     CONSOLIDATED STATEMENTS OF OPERATIONS
+                     (IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+
+
+                See Notes to Consolidated Financial Statements.
+
+
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (IN THOUSANDS)
+
+
+
+                See Notes to Consolidated Financial Statements.
+
+
+                CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+                                 (IN THOUSANDS)
+
+
+
+                See Notes to Consolidated Financial Statements.
+
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                                 JUNE 30, 1999
+
+NOTE A: MERGER WITH ONTRAK SYSTEMS, INC.
+
+     On August 5, 1997, the stockholders of each Lam Research Corporation ("Lam"
+or the "Company") and OnTrak Systems, Inc. ("OnTrak") approved the Merger and
+the issuance of Lam Common Stock under the Agreement and Plan of Merger with
+OnTrak. The transaction has been accounted for as a pooling of interests and was
+structured to qualify as a tax-free reorganization. On August 5, 1997, the value
+of the Lam Common Stock issued in connection with the Merger was approximately
+$396 million. Costs associated with the Merger were approximately $17.7 million.
+Such expenses included investment advisory fees, legal and accounting fees,
+financial printing costs and other direct Merger-related costs.
+
+     The following table shows revenues and net income of the separate companies
+through the fiscal year period preceding the Merger:
+
+
+
+NOTE B: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+     Principles of Consolidation: The consolidated financial statements include
+the accounts of the Company and its wholly-owned subsidiaries. All inter-company
+accounts and transactions have been eliminated in consolidation.
+
+     Cash Equivalents: All highly-liquid investments purchased with an original
+maturity of three months or less are considered to be cash equivalents.
+
+     Inventories: The Company evaluates the need to record adjustments for
+impairment of inventory on a quarterly basis. The Company's policy is to
+evaluate all inventory, including manufacturing raw materials, work-in-process,
+finished goods and spare parts. Obsolete inventory or inventory in excess of the
+Company's estimated usage for the next 12 to 24 months' requirements is written
+down to its estimated net realizable value. Inherent in the estimates of net
+realizable value are management's estimates related to the Company's future
+manufacturing schedules, customer demand, obsolescence, possible alternative
+uses and ultimate realization of potential excess inventory.
+
+     Equipment and Leasehold Improvements: Equipment and leasehold improvements
+are stated at cost. Equipment is depreciated by the straight-line method over
+the estimated useful lives of the assets, generally three to seven years.
+Leasehold improvements are amortized by the straight-line method over the
+shorter of the life of the related asset or the term of the underlying lease.
+Amortization of equipment under capital leases is included with depreciation.
+
+     Revenue Recognition: Sales of the Company's products are generally recorded
+upon shipment. Estimated costs to be incurred by the Company related to product
+installation and warranty fulfillment are accrued at the date of shipment.
+
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 1999
+
+     Foreign Currency: The Company has foreign sales, service and manufacturing
+operations. With respect to all foreign subsidiaries, excluding Japan, the
+functional currency is the U.S. dollar and transaction and remeasurement gains
+and losses are included in net income (loss). The functional currency of the
+Company's Japanese subsidiary is the Japanese yen. Translation gains and losses
+related to the Japan subsidiary are included as a component of stockholders'
+equity.
+
+     Foreign Exchange Forward Contracts: The Company may enter into foreign
+currency forward exchange contracts to manage exposure related to certain
+foreign currency commitments and balance sheet positions. The Company does not
+enter into derivative financial instruments for trading purposes. Foreign
+currency forward exchange contracts designated as effective hedges of firm
+commitments are treated as hedges for accounting purposes. Gains and losses
+related to qualified accounting hedges of firm commitments are deferred and are
+recognized in income when the hedged transaction occurs.
+
+     Income (Loss) Per Share: In February 1997, the Financial Accounting
+Standards Board ("FASB") released Statement of Financial Accounting Standards
+No. 128 "Earnings Per Share" ("FAS 128"), which was adopted during the quarter
+ended December 31, 1997. FAS 128 replaced the calculation of primary and fully
+diluted earnings per share with basic and diluted earnings per share. Unlike
+primary earnings per share, basic earnings per share excludes any dilutive
+effects of options and convertible securities. Diluted earnings per share is
+very similar to the previously reported fully diluted earnings per share. Net
+loss per share was computed using only the weighted average number of shares of
+Lam Common Stock outstanding during the period. All net loss amounts for prior
+periods have been presented and, where necessary, restated to conform to FAS 128
+requirements. See Note J below.
+
+     Employee Stock Plans: The Company accounts for its stock option plans and
+its employee stock purchase plans in accordance with the provisions of the
+Accounting Principles Board's Opinion No. 25 "Accounting For Stock Issued to
+Employees" ("APB 25"). In October 1995, the FASB released Statement of Financial
+Accounting Standard No. 123, "Accounting For Stock-Based Compensation" ("FAS
+123"), which provides an alternative to APB 25. As allowed under FAS 123, the
+Company continues to account for its employee stock plans in accordance with the
+provisions of APB 25. See Note L below.
+
+     Use of Estimates: The preparation of financial statements in conformity
+with generally accepted accounting principles requires management to make
+estimates and assumptions that could affect the reported amounts of assets and
+liabilities at the date of the financial statements and the reported amounts of
+revenue and expenses during the reporting period. Actual results could differ
+from those estimates.
+
+     Comprehensive Income: In June 1997, the FASB released Statement of
+Financial Accounting Standards No. 130, "Reporting Comprehensive Income" ("FAS
+130"). FAS 130 establishes standards for the reporting and display of
+comprehensive income and its components in a full set of general purpose
+financial statements and is effective for fiscal years beginning after December
+15, 1997. See Note K below.
+
+     Segment Information: In June 1997, the FASB released Statement of Financial
+Accounting Standards No. 131, "Disclosures about Segments of an Enterprise and
+Related Information" ("FAS 131"). FAS 131 changes the way companies report
+selected segment information in annual and interim financial reports to
+stockholders. The Company has adopted the provisions of FAS No. 131 for the year
+ended June 30, 1999. Adoption of FAS No. 131 did not have a material impact on
+the Company's Consolidated Financial Statements. The Company operates in one
+business segment, the manufacturing and servicing of front-end wafer processing
+semiconductor manufacturing equipment.
+
+     Derivative Instruments and Hedging: In June 1998, the FASB released
+Statement of Financial Accounting Standards No. 133, "Accounting for Derivative
+Instruments and Hedging Activities" ("FAS 133"). FAS 133 establishes accounting
+and reporting standards for derivative instruments, including certain derivative
+instruments embedded in other contracts, and for derivatives used for hedging
+activities. It requires that all derivatives be recognized either as an asset or
+liability, and measures them at fair value. FAS
+
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 1999
+
+133 is effective for all fiscal quarters for fiscal years beginning after June
+15, 2000. The Company believes that the application of FAS 133 will not have a
+material impact on the Company's consolidated financial statements.
+
+NOTE C: COMPANY AND INDUSTRY INFORMATION
+
+     Lam is a supplier of technically complex thin film processing equipment
+used at the front-end of semiconductor manufacturing. The Company's product
+offerings include single wafer plasma etch systems with a wide range of
+applications, CMP and post-CMP wafer cleaning systems. The Company sells its
+products primarily to companies involved in the production of semiconductors in
+the United States, Europe, Japan and Asia Pacific. Credit evaluations are
+performed on all customers, and the Company does not usually require collateral
+on sales.
+
+     The semiconductor industry has historically been cyclical and has
+experienced periodic downturns, which have had a material adverse effect on the
+semiconductor industry's demand for semiconductor processing equipment,
+including equipment manufactured and marketed by the Company. Certain of the
+components and subassemblies included in the Company's products are obtained
+from a single supplier or a limited group of suppliers. The Company believes
+that alternative sources could be obtained and qualified to supply these
+products. Nevertheless, a prolonged inability to obtain certain components could
+have a severe near-term effect on the Company's operating results and could
+result in damage to customer relationships.
+
+     During fiscal 1999, the Company amended its bank agreement to sell specific
+Japanese yen-denominated receivables, subject to recourse provisions, by
+reducing the amount to Y4.0 billion from Y6.0 billion. At June 30, 1999 and
+1998, $13,006,000 and $16,514,000 of these receivables, respectively, had been
+sold to the bank, of which $7,463,000 and $11,581,000 at June 30, 1999 and 1998,
+respectively, remained uncollected by the bank and subject to recourse
+provisions.
+
+     During fiscal 1999 and 1997, no individual customer accounted for greater
+than 10% of total sales. During fiscal 1998, a single customer accounted for 12%
+of total sales.
+
+     The Company operates in one business segment, the manufacturing and
+servicing of front-end wafer processing semiconductor manufacturing equipment.
+All products and services are marketed within the geographic regions in which
+the Company operates. The Company's current product offerings qualify for
+aggregation under FAS 131 as its products are manufactured and distributed in
+the same manner, have similar long-term gross margins and are sold to the same
+customer base.
+
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 1999
+
+     The Company operates in four geographic regions: the United States, Europe,
+Japan and Asia Pacific. The following is a summary of local operations by
+geographic region at June 30:
+
+
+
+     Sales between geographic areas are accounted for at prices that provide a
+profit, and are in accordance with the rules and regulations of the respective
+governing authorities. Revenue in each geographic area is recognized upon
+shipment from locations within a designated geographic region. Total export
+revenue consisting of sales from the Company's U.S. operating subsidiaries to
+non-affiliated customers by geographic region for the three years ended June 30,
+are as follows:
+
+
+
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 1999
+
+NOTE D: FINANCIAL INSTRUMENTS
+
+     Investments at June 30, consist of the following:
+
+
+
+     The difference between cost and fair value of available-for-sale securities
+was not significant at June 30, 1999 and 1998. The Company's available-for-sale
+securities are invested in financial instruments with a minimum rating of A or
+A2, as rated by Moody's or Standard & Poor's ("S&P"), respectively.
+
+     The amortized cost and estimated fair value of investments in debt
+securities at June 30, by contractual maturities, are as follows:
+
+
+
+     The carrying and fair values of the Company's financial instruments at June
+30, are as follows:
+
+
+
+     The fair values of the Company's investments in debt securities and
+restricted cash are based on quoted market prices at June 30, 1999 and 1998,
+respectively. The fair value of the Company's auction rate preferreds is based
+upon par value. The fair value of the Company's foreign currency forward
+contracts is estimated based
+
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 1999
+
+upon the yen exchange rate at June 30, 1999 and 1998, respectively. The fair
+value of the Company's convertible subordinated debentures and the Company's
+other long-term debt is estimated based on the current rates offered to the
+Company for similar debt instruments of the same remaining maturities.
+
+NOTE E: DERIVATIVE FINANCIAL INSTRUMENTS
+
+     The Company enters into foreign currency forward contracts to minimize the
+impact of exchange rate fluctuations on the value of yen-denominated assets and
+liabilities. A substantial portion of the forward contracts entered into have a
+maturity of 90 days or less. The unrealized gains and losses on these contracts
+are deferred and offset against unrealized gains and losses from the related
+yen-denominated assets and liabilities. The realized gains on yen-forward
+contracts during fiscal 1999 were offset by losses on underlying receivables.
+
+     At June 30, 1999 and 1998, the notional amount of outstanding foreign
+currency forward contracts were $71,672,000 and $35,967,000, respectively. Of
+the total outstanding contracts at June 30, 1999 and 1998, $33,885,000 and
+$26,858,000, respectively, were to hedge yen-denominated inter-company
+receivables, and $36,129,000 and $8,599,000, respectively, were to hedge firm
+commitments from customers in Japan. The unrealized gain on these forward
+contracts at June 30, 1999 and 1998 was $1,658,000 and $510,000, respectively.
+
+NOTE F: INVENTORIES
+
+     Inventories consist of the following at June 30:
+
+
+
+NOTE G: EQUIPMENT AND LEASEHOLD IMPROVEMENTS
+
+     Equipment and leasehold improvements consist of the following at June 30:
+
+
+
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 1999
+
+NOTE H: ACCRUED EXPENSES AND OTHER LIABILITIES
+
+     The significant components of accrued expenses and other liabilities
+consist of the following at June 30:
+
+
+
+NOTE I: LINE OF CREDIT, LONG-TERM DEBT AND CAPITAL LEASE OBLIGATIONS
+
+     Long-term debt and capital lease obligations at June 30, consist of the
+following:
+
+
+
+     During August 1997, Lam completed an offering of $310.0 million of
+Convertible Subordinated Notes (the "Notes"), which mature on September 2, 2002.
+Interest on the five percent Notes is payable on September 1 and March 1 of each
+year, commencing March 1, 1998. The Notes are convertible into shares of Lam
+Common Stock at any time prior to the close of business on the maturity date,
+unless previously redeemed, at a conversion price of $87.77 per share, subject
+to anti-dilution adjustments. The Notes are redeemable, in whole or in part, at
+the option of the Company and upon at least 20 days notice, at redemption prices
+starting at 102.0% and at diminishing prices thereafter, plus accrued interest,
+except that the Notes may not be redeemed prior to September 6, 2000. On or
+after September 6, 2000, the Notes may be redeemed if the closing price of Lam
+Common Stock is at least 130% of the conversion price for at least 20 trading
+days within a period of 30 consecutive trading days ending within five trading
+days prior to the notice of redemption. The Notes are unsecured and subordinated
+in right of payment in full to all existing and future Senior Indebtedness of
+the Company. Expenses associated with the offering of approximately $9.0 million
+were deferred in other assets and are being ratably amortized over the term of
+the Notes.
+
+     During fiscal 1998, the Company entered into a new Synthetic Lease
+Agreement (the "Synthetic Lease Agreement"), relating to certain buildings at
+its Fremont campus which provided more favorable terms and reduced the amount of
+the Company's obligation. As part of the collateral restrictions of the
+Synthetic Lease Agreement, the Company is required to maintain a certain amount
+of cash, $51,357,000 at June 30, 1999 and 1998, respectively, in restricted
+specified interest-bearing accounts through March 2003 (unless the Synthetic
+Lease Agreement is otherwise terminated or the amount of maintained cash is
+reduced), as the underlying obligation is paid down.
+
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 1999
+
+     During the quarter ended September 30, 1998, the Company entered into a new
+Yen-denominated credit facility for an approximately Y1.7 billion
+yen-denominated loan ($14.1 million at June 30, 1999). This credit facility
+replaces a term loan which was held with other financial institutions. Principal
+payments on the new facility are due annually on September 30, through September
+30, 2001. The new facility reflects terms which were more favorable than the
+previous yen-denominated loan.
+
+     The Board of Directors of the Company has authorized the Company to acquire
+from independent third parties (the "Third Parties") options to purchase up to
+3.5 million shares of Lam Common Stock. These call options are to be acquired to
+offset the anticipated dilutive effect of a potential conversion into common
+stock of the Notes previously issued by the Company, and due September 2, 2002.
+As part of the program, the Board of Directors also authorized the Company to
+enter into put options with the same Third Parties covering up to 5.25 million
+shares of Lam Common Stock. The Board of Directors anticipated that the premiums
+the Company would receive over the course of the program from the sale of the
+put options to the Third Parties would offset in full the premium cost to the
+Company of its purchase of the call options from those same Third Parties.
+Consequently, the Company does not expect to exchange cash over the course of
+the program with the Third Parties in conjunction with the Company's purchase of
+the call options.
+
+     Pursuant to this authorization, described above, the Company has as of June
+30, 1999 acquired call options to purchase 1.24 million shares of Lam Common
+Stock; the weighted average exercise price of these options is $33.87. The call
+options provide that the maximum benefit to the Company of the call options at
+expiration is $53.90 per option share (the difference between $87.77, which is
+the conversion price of the Notes, and the weighted average exercise price of
+the call options). The Company has also entered put options with the same Third
+Parties covering 1.86 million shares of its common stock, giving those Third
+Parties the right to sell to the Company shares of Lam Common Stock at a
+weighted average price of $28.43 per share.
+
+     The call and put options are European style options exercisable upon
+expiration; all of the options expire not later than September 3, 2002, which is
+the business day following the date on which the Notes must either be converted
+or retired. Upon option exercise, the Company has the ability, at its option, to
+permit the options to be physically settled (i.e., shares would be delivered to
+the Company against payment of the exercise price), settled in cash (i.e., by a
+payment from one party to the other of the value of the option being exercised)
+or "net settled" in shares (i.e., by delivery of a number of shares of common
+stock having a value equal to the value of the option being exercised). The
+Company can also terminate the options prior to expiration for a settlement
+value determined from time to time by the appropriate Third Party. While the
+options are only exercisable at expiration, the terms of the contracts with the
+Third Parties provide for early termination and settlement of the options upon
+the occurrence of certain events (in a form determined by the Company which
+includes net settlement of shares), including without limitation the Company's
+material breach of the agreement, default on certain indebtedness or covenants
+relating to the Company's financial condition, reduction in the Company's S&P
+credit rating below B or a drop in the price of the Company's Common Stock to
+less than $5.00 per share.
+
+     If the average stock price is below $28.43 during any period, the required
+number of shares to net settle the Company's obligation under the put option
+agreement would be considered dilutive securities in the Company's dilutive EPS
+calculation.
+
+     As of June 30, 1999, the Company has deposited $9.0 million as security for
+its obligations under the put options. The Company is required to increase this
+amount if the Company enters additional option transactions with the Third
+Parties. The Company will also have to increase the amount of this security
+deposit by the amount from time to time that the put options are actually in the
+money.
+
+     At June 30, 1999, the Company had a total of $100.0 million available under
+a syndicated bank line of credit. The line of credit was renegotiated in April
+1998 and subsequently amended in December 1998, and is due to expire in April
+2001. Borrowings under the syndicated bank line of credit bear interest at 0.55%
+to
+
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 1999
+
+1.25% over LIBOR, and are subject to Lam's compliance with financial and other
+covenants. The credit agreement includes terms requiring satisfaction of certain
+financial ratios, interest coverage, maximum debt to equity leverage, senior
+indebtedness, tangible net worth, minimum profitability, and also restricts the
+Company from paying dividends. At June 30, 1999, future maturities of long-term
+debt and minimum payments for capital lease obligations are as follows:
+
+
+
+     Long-term debt and capital lease obligations are collateralized by
+equipment with a cost and accumulated depreciation and amortization of
+$5,707,000 and $(3,337,000), respectively, at June 30, 1999, and of $13,872,000
+and $(9,674,000), respectively, at June 30, 1998.
+
+NOTE J: NET LOSS PER SHARE
+
+     The Company's basic and diluted net loss per share for the years ended June
+30, as calculated according to FAS 128, are as follows:
+
+
+
+     Options and convertible securities were outstanding during 1999, 1998, and
+1997, but were excluded from the computation of diluted net loss per common
+share because the effect in years with a net loss would have been antidilutive.
+The shares potentially issuable under the put option agreement have been
+excluded from the computation of dilutive net loss per share because the effect
+would have been antidilutive.
+
+NOTE K: COMPREHENSIVE INCOME (LOSS)
+
+     As of July 1, 1998, the Company adopted FAS 130, which establishes new
+rules for the reporting and display of comprehensive income (loss) and its
+components; however, the adoption of this Statement had no impact on the
+Company's net loss or stockholders' equity. FAS 130 requires that unrealized
+gains or losses on available-for-sale securities and foreign currency
+translation adjustments are to be included in other
+
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 1999
+
+comprehensive loss. The Company's unrealized gains and losses on
+available-for-sale securities were not material for the fiscal years ended June
+30, 1999, 1998 and 1997. Prior to adoption, foreign currency translation
+adjustments were reported by the Company as a component of stockholders' equity.
+
+     The components of comprehensive loss, net of tax, are as follows for fiscal
+years ended June 30:
+
+
+
+     Accumulated other comprehensive income (loss), net of related tax consists
+of the following at June 30:
+
+
+
+NOTE L: STOCK OPTION PLANS AND STOCK PURCHASE PLAN
+
+     The Company has adopted incentive stock option plans that provide for the
+granting to qualified employees of incentive stock options to purchase shares of
+Lam Common Stock. In addition, the plans permit the granting of nonstatutory
+stock options to paid consultants and employees, and provide for the automatic
+grant of nonstatutory stock options to outside directors. The option price is
+determined by the Board of Directors, but in no event will it be less than the
+fair market value of Lam Common Stock on the date of grant (no less than 85% of
+the fair market value at the date of grant in the case of nonstatutory options).
+Options granted under the plans vest over a period determined by the Board of
+Directors. Under the automatic grant program, each outside director receives an
+option immediately exercisable for 6,000 shares of Lam Common Stock during
+December of each year during which the outside director serves, with the
+exercise price equal to the fair market value on the date of grant.
+
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 1999
+
+     A summary of incentive stock option plan transactions follows:
+
+
+
+     At June 30, 1999, 9,726,046 shares of Lam Common Stock were reserved for
+future issuance under the various stock option plans and options to purchase
+2,814,715 shares were exercisable at a range of $0.28-55.44. Outstanding and
+exercisable options presented by price range at June 30, 1999 are as follows:
+
+
+
+     During fiscal 1998, the stockholders of the Company approved the 1997 Stock
+Incentive Plan, which provides for the grant of stock options, restricted stock,
+deferred stock and performance share awards to participating officers,
+directors, employees, consultants and advisors of the Company and its
+subsidiaries. Initially, 3,000,000 shares were reserved for issuance. The number
+of shares to be issued will automatically be increased each calendar quarter
+subject to certain provisions and restrictions, but will in no event exceed
+5,000,000 shares. During fiscal 1999, the Board of Directors of the Company
+amended the 1997 Stock
+
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 1999
+
+Incentive Plan to provide for annual non-employee director options to be granted
+in December, as opposed to January, of each calendar year, and to allow for
+re-pricing of stock options held by eligible employees who, at the time of any
+such re-pricing, are not a member of the Board of Directors, a member of the
+Company's senior management or a principal stockholder of the Company.
+
+     During fiscal 1999, the Board of Directors of the Company also approved the
+1999 Stock Option Plan, which provides for the grant of non-qualified stock
+option awards to eligible employees, consultants and advisors of the Company and
+its subsidiaries. However, employees who are also members of the Board of
+Directors or of the Company's senior management, or who are a principal
+stockholder of the Company, are not eligible to receive stock option awards
+under this plan. Initially, 3,000,000 shares were reserved for issuance.
+
+     During fiscal 1996, the Company adopted a Performance-Based Restricted
+Stock Plan designed to reward executives based upon the achievement of certain
+predetermined goals. The grant is based on the fair market value of the Lam's
+Common Stock at the end of the quarter, provided the predetermined goals are
+met. The Company authorized 150,000 shares to be reserved for issuance under the
+Performance-Based Stock Plan. At June 30, 1999, 133,624 shares remain available
+for issuance under this plan. However, no shares have been issued under this
+plan since June 1996.
+
+     During fiscal 1999, the Company adopted the 1999 Employee Stock Purchase
+Plan (the "1999 ESPP"). The 1999 ESPP allows employees to designate a portion of
+their base compensation to be used to purchase Lam Common Stock at a purchase
+price per share of the lower of 85% of the fair market value of Lam Common Stock
+on the first or last day of the applicable offering period. Typically, each
+offering period lasts twelve months and comprises three interim purchase dates.
+The 1999 ESPP, approved by the Company's stockholders at the Annual Meeting of
+Stockholders on November 5, 1998, replaced the existing 1984 Employee Stock
+Purchase Plan (the "1984 ESPP"). The Company has 3,000,000 shares of Lam Common
+Stock reserved for issuance under the 1999 ESPP: 1,000,000 shares may be issued
+at any time and additional shares (up to 2,000,000 total additional shares) may
+be issued for each share of Lam Common Stock which the Company redeems in
+public-market at private purchases and designated for this purpose.
+
+     During fiscal 1999, Lam Common Stock was sold to employees under the both
+the 1999 ESPP and 1984 ESPP. Shares were also sold to employees under an OnTrak
+purchase plan (the "OnTrak ESPP") which predated the Merger. Under the OnTrak
+ESPP, the purchase price per share is the lower of 85% of the fair market value
+of the Lam Common Stock on the first or last day of a six-month offering period.
+A total of 2,712,122 shares of the Lam's Common Stock were issued under the
+1999, 1984 and OnTrak ESPP Plans through June 30, 1999, at prices ranging from
+$2.65 to $43.03 per share. During fiscal 1999, the 1984 ESPP and OnTrak ESPP
+were terminated and no longer available for employee stock purchases. At June
+30, 1999, 935,446 shares remain available for purchase under all employee stock
+purchase plans.
+
+     During the first quarter of fiscal 1999, the Company announced that its
+Board of Directors had authorized the repurchase, at management's discretion, of
+up to 368,000 shares of Lam Common Stock from the public market or in private
+purchases. The shares were used to offset dilution caused by issuance in the
+near-term of shares under the Company's employee stock purchase and stock option
+plans. During the third quarter of fiscal 1999, the Company announced a share
+repurchase program of up to 2,000,000 shares of Lam Common Stock. The shares
+repurchased under this authorization will be used to reduce dilution caused by
+the issuance of shares reserved under the Company's stock option and employee
+stock purchase plans. During fiscal 1999, the Company repurchased 858,000 shares
+for $18.9 million of Lam Common Stock. At June 30, 1999, the Company has
+1,510,000 shares available for repurchase. These share repurchases had no
+material impact on the net loss per share amounts for the period.
+
+     As permitted by FAS 123, the Company has elected to follow APB 25, and
+related Interpretations, in accounting for stock-based awards to employees.
+Under APB 25, the Company generally recorded nominal
+
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 1999
+
+compensation expense with respect to such awards which are generally granted at
+market value on the date of grant.
+
+     Pro forma information regarding net loss and net loss per share is required
+by FAS 123 for awards granted after June 30, 1995, as if the Company had
+accounted for its stock-based awards to employees under the fair value method of
+FAS 123. The fair value of the Company's stock-based awards to employees was
+estimated using a Black-Scholes option valuation model. The Black-Scholes option
+valuation model was developed for use in estimating the fair value of traded
+options which have no vesting restrictions and which are fully transferable. In
+addition, the Black-Scholes model requires the input of highly subjective
+assumptions, including the expected stock price volatility. Because the
+Company's stock-based awards to employees have characteristics significantly
+different from those of traded options, and because changes in the subjective
+input assumptions can materially affect the fair value estimate, in management's
+opinion the existing models do not necessarily provide a reliable single measure
+of the fair value of the Company's stock-based awards to employees. The fair
+value of the Company's stock-based awards to employees was estimated assuming no
+expected dividends and the following weighted-average assumptions:
+
+
+
+     The weighted average fair value of options granted during 1999, 1998 and
+1997 was $9.25, $20.59 and $10.55 per share, respectively. The weighted average
+fair value of shares granted under the 1999, 1984 and OnTrak ESPP plans during
+fiscal 1999, 1998 and 1997 was $5.39, $12.85 and $7.62 per share, respectively.
+
+     For pro forma purposes, the estimated fair value of the Company's
+stock-based awards to employees is amortized over the option's vesting period
+(for options) and the respective six or twelve-month purchase periods (for stock
+purchases under the respective employee stock purchase plans). The Company's pro
+forma information follows:
+
+
+
+FAS 123 is applicable only to awards granted subsequent to June 30, 1995. As a
+result, its pro forma effect is fully reflected only in fiscal 1999.
+
+NOTE M: PROFIT SHARING PLAN AND BENEFIT PLAN
+
+     During fiscal 1998, the Company revised the profit sharing plan for its
+employees in North America. Distributions to employees by the Company are made
+bi-annually based upon a percentage of base salary, provided that a threshold
+level of the Company's financial and performance goals are met. Upon achievement
+of the threshold, the profit sharing is awarded based upon performance against
+certain corporate financial and operating goals. During fiscal 1999, the Company
+incurred an expense of $2,121,000 based upon the Company achieving certain
+business process improvements. During 1998, the Company did not incur any profit
+sharing plan expense. Profit sharing plan expense for fiscal 1997 was $176,000.
+
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 1999
+
+     The Company maintains a 401(k) retirement savings plan for its full-time
+employees in North America. Each participant in the plan may elect to contribute
+2% to 15% of his or her annual salary to the plan, subject to statutory
+limitations. The Company matches employee contributions to the plan at the rate
+of 50% of the first 6% of salary contributed. Prior to the Merger, OnTrak
+maintained an employee savings and retirement plan qualified under Section
+401(k) of the Internal Revenue Code. The OnTrak plan allowed participants to
+contribute up to 14% of the total compensation that would otherwise be paid to
+them by OnTrak, not to exceed the maximum allowed by the applicable Internal
+Revenue Service guidelines. OnTrak matched 100% of the salary deferral
+contributions made by each participating employee, up to a maximum of 6% of
+total employee compensation. OnTrak's contributions were 25%, 50% and 100%
+vested after an employee's second, third and fourth years of service,
+respectively. The Company's match expense for fiscal 1999, 1998 and 1997 was
+$3,610,000, $4,964,000 and $5,205,000, respectively.
+
+NOTE N: COMMITMENTS
+
+     The Company leases its administrative, R&D and manufacturing facilities,
+regional sales/service offices and certain equipment under non-cancelable
+operating leases, which expire at various dates through 2014. All of the
+Company's facility leases for buildings located at its Fremont, California
+headquarters and certain operating leases provide the Company an option to
+extend the leases for additional periods. Certain of the Company's other
+facility leases provide for periodic rent increases based on the general rate of
+inflation.
+
+     Future minimum lease payments for the years ended June 30, and in the
+aggregate under operating leases, consist of the following:
+
+
+
+     During fiscal 1998, Company entered into its Synthetic Lease Agreement,
+relating to certain buildings at its Fremont campus, to obtain more favorable
+terms and to reduce the amount of the obligation. As part of the collateral
+restrictions of the Agreement, the Company is required to provide a guaranteed
+residual value of $44,402,000 at the end of the lease term.
+
+     Total rental expense for all leases amounted to approximately $33,144,000,
+$44,737,000 and $46,728,000, for the years ended June 30, 1999, 1998 and 1997,
+respectively.
+
+     The Company has subleased some of its buildings and is exploring subleasing
+others, and currently is entitled to receive income of approximately $5,383,000,
+$5,851,000, $5,535,000, $4,650,000 $3,333,000 and $4,444,000 for the fiscal
+years 2000, 2001, 2002, 2003, 2004 and thereafter, respectively.
+
+     For the fiscal years ended June 30, 1999, 1998 and 1997, the Company
+received income totaling $3,226,000, $1,752,000 and $405,000, respectively, on
+its subleased facilities.
+
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 1999
+
+NOTE O: INCOME TAXES
+
+     Income tax benefit consists of the following:
+
+
+
+     Actual current tax liabilities are lower than reflected above for fiscal
+year 1997 by $1,732,000 for the stock option deduction benefits recorded as a
+credit to stockholders' equity.
+
+     Under FAS 109, deferred income taxes reflect the net tax effects of
+temporary differences between the carrying amounts of assets and liabilities for
+financial reporting purposes and the amounts used for income tax purposes.
+Significant components of the Company's net deferred tax assets as of June 30,
+are as follows:
+
+
+
+     Approximately $1,500,000 and $5,900,000 of the valuation allowance for
+deferred taxes, for fiscal 1999 and 1998, respectively, is attributable to stock
+option deductions, the benefit of which will be credited to equity when
+realized.
+
+     Realization of the Company's net deferred tax assets is dependent on future
+taxable income. The Company believes that it is more likely than not such assets
+will be realized; however, ultimate realization could be negatively impacted by
+market conditions and other variables not known or anticipated at this time.
+
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 1999
+
+     At June 30, 1999, the Company has federal tax loss carryforward of
+approximately $153,000,000 which expire in 2019. The Company also has federal
+and state tax credit carryforwards of approximately $48,300,000, of which
+approximately $27,200,000 will expire in varying amounts between 2000 and 2019.
+The remaining balance of $21,100,000 of tax carryforwards may be carried forward
+indefinitely. A valuation allowance has been provided for a portion of the
+deferred tax assets related to the carryforwards.
+
+     A reconciliation of income tax benefit provided at the federal statutory
+rate (35% in 1999, 1998 and 1997) to income tax benefit follows:
+
+
+
+     Income before income taxes from foreign operations for fiscal years 1999,
+1998 and 1997 was $13,829,000, $11,462,000 and $31,621,000, respectively. In
+addition, the Company received royalty and other income from foreign sources of
+$410,000, $2,059,000 and $12,662,000, in fiscal years 1999, 1998 and 1997,
+respectively, which is subject to foreign tax withholding.
+
+NOTE P: RESTRUCTURINGS
+
+     During the Company's first fiscal 1997 quarter ended September 30, 1996,
+the Company projected and announced that revenues would be lower than previous
+quarters due to a projected 20% general market decline. The Company's revenues
+during that quarter fell to $299.2 million, a decrease of 24% from the prior
+quarter. The Company assessed that market conditions would remain depressed and,
+therefore, that its revenues would continue to be adversely affected.
+Accordingly, and as announced on August 26, 1996, the Company organizationally
+restructured its business units into a more centralized structure and cut its
+workforce by approximately 11%.
+
+     The Company's quarterly revenue would eventually decline to $233.3 million
+in the March 1997 quarter, 40% lower than the peak reached in the quarter ended
+June 1996. Subsequently, in the latter part of calendar 1997, the industry
+rebounded quickly and entered into what eventually became a short-lived upturn
+cycle. During the June 1997 quarter, the Company's revenues grew back to $282.6
+million and reached $292.1 million by the December 1997 quarter. However, the
+Company's outlook in late January 1998 was that the industry was again entering
+into a steep downturn brought on by depressed DRAM pricing and the Asia
+financial crisis. The Company therefore announced a further set of restructuring
+activities in a news release on February 12, 1998. At that time, the Company's
+assessment related to industry conditions was that its revenues for the March
+and June 1998 quarters would decline by approximately 20%. The Company's
+restructuring plans aligned its cost structure to this level of revenues by
+exiting part of its CVD business and all of its FPD businesses, consolidating
+its manufacturing facilities and substantially reducing its remaining
+infrastructure and workforce. The Company's actual June 1998 revenues were in
+line with those expectations; however, by the mid-June 1998 time-frame the
+industry conditions further deteriorated and the outlook for future quarters
+significantly worsened. The Company projected revenues to drop to a run rate of
+approximately $180 million per quarter and determined it needed once more to
+reduce its cost structure in line with the projected reductions in revenue.
+Accordingly, another separate restructuring plan was developed and announced in
+June 1998 and the Company exited the remainder of its CVD operations. As a
+result of the restructurings in fiscal 1998, the Company reduced its global
+workforce by approximately 28%.
+
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 1999
+
+     The Company's revenue outlook in June 1998 was based on the Company's
+projection that the worldwide wafer fabrication industry would deteriorate from
+a quarterly revenue amount of $4.2 billion to $3.2 billion, or a 25% decline.
+
+     The semiconductor equipment market contracted beyond what was anticipated,
+to quarterly revenues of $2.6 billion as reported by Dataquest, an independent
+industry analysis firm. The Company's shortfall of revenues during the September
+1998 quarter declined in line with the industry as a whole, and resulted in
+lower than anticipated revenues, falling to $142.2 million. At that point in
+time, the Company projected that its quarterly revenues would remain closer to
+the $140-$150 million level for at least the next several quarters. This
+necessitated another restructuring plan and further cost reductions via employee
+terminations, facilities consolidation and a contraction of operating
+activities, all of which resulted in the additional write-down of plant-related
+assets. This plan was announced and publicly communicated on November 12, 1998.
+As a result of the fiscal 1999 restructuring, the Company further reduced its
+global workforce by approximately 15%.
+
+     Below is a table summarizing restructuring activity relating to the fiscal
+1999 restructuring:
+
+
+
+     Severance and Benefits relates to the salary and fringe benefit expense for
+involuntarily terminated employees representing approximately 15% of the global
+workforce. Prior to the date of the financial statements, management, with the
+proper level of authority, approved and committed the Company to a plan of
+termination and determined the benefits the employees being terminated would
+receive. Prior to the financial statement date, the expected termination
+benefits were communicated to employees in enough detail that they could
+determine their type and amount of benefit. The termination of employees
+occurred shortly after the plan of restructuring was finalized.
+
+     Lease Payments on Vacated Facilities relates to 24 months of rent and
+common area maintenance expense for the vacated facilities. The Company also
+estimated, given the then-current real estate market conditions, that it would
+take approximately 24 months to sub-lease its excess facilities in Fremont,
+California.
+
+     The Company wrote-off all leasehold improvements for the excess facilities,
+computer equipment, furniture and fixtures related to the involuntarily
+terminated employees, and other assets deemed to have no future use as a result
+of the restructuring.
+
+     Credits on Returned Equipment relates to the charge associated with the
+requirement by certain of the Company's customers to return their previously
+purchased CVD systems and spare parts.
+
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 1999
+
+     Below is a table summarizing restructuring activity relating to the fiscal
+1998 restructuring:
+
+
+
+     Severance and Benefits relates to the salary and fringe benefit expense of
+the involuntarily terminated employees of the CVD and FPD operations which were
+exited, the shutdown of the Wilmington, Massachusetts manufacturing facility,
+and the employees impacted by the overall across the board reduction of the
+employee base. Prior to the date of the financial statements, management, with
+the proper level of authority, approved and committed the Company to a plan of
+termination and determined the benefits the employees being terminated would
+receive. Prior to the financial statement date, the expected termination
+benefits were communicated to employees in enough detail that they could
+determine their type and amount of benefit. The restructuring plans resulted in
+the Company reducing its global workforce by approximately 28%. The termination
+of employees occurred shortly after the plan of restructuring was finalized.
+
+     Lease Payments on Vacated Facilities which was included in the
+restructuring charge related to remaining rent and common area maintenance on
+the closed Wilmington, Massachusetts manufacturing facility. The Company also
+estimated, given the then-current real estate market conditions, that it would
+take approximately 24 months to sub-lease its excess facilities in Fremont,
+California. The Company, therefore, included 24 months of rent and common area
+maintenance expense related to excess facilities in its restructuring charge.
+
+     The Company wrote-off all fixed assets relating to the operations which
+were exited, leasehold improvements for the excess facilities, computer
+equipment, furniture and fixtures related to the involuntarily terminated
+employees and other assets deemed to have no future use as a result of the
+restructuring.
+
+     The inventory write-off which was included in the restructuring charge
+related to inventory from the operations which were exited. The inventory
+write-off included raw material on hand and inventory purchased under
+non-cancelable commitments from suppliers, spare parts, work-in-process and
+finished goods related to the products from the exited operations.
+
+     Credits on Returned Equipment relates to the charge associated with the
+requirement by certain of the Company's customers to return their previously
+purchased CVD systems and spare parts. During fiscal 1999, the Company recorded
+an adjustment to the restructuring reserve of $1.5 million for the recovery of a
+previously written-off machine.
+
+     Other Exit Costs of $5.7 million relates to the net book value of licensing
+and manufacturing agreements related to the restructured operations.
+
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 1999
+
+     Below is a table summarizing restructuring activity relating to the fiscal
+1997 restructuring:
+
+
+
+     Severance and Benefits relates to the salary and fringe benefit expense for
+the involuntarily terminated employees which represented approximately 11% of
+the global workforce. Prior to the date of the financial statements, management,
+with the proper level of authority, approved and committed the Company to a plan
+of termination and determined the benefits the employees being terminated would
+receive. Prior to the financial statement date, the expected termination
+benefits were communicated to employees in enough detail that they could
+determine their type and amount of benefit. The termination of employees
+occurred shortly after the plan of restructuring was finalized. During fiscal
+1998, the Company revised its estimate relating to severance and benefits and
+transferred the excess balance of remaining lease payments on vacated facilities
+to severance and benefits.
+
+     Lease Payments on Vacated Facilities relates to remaining rent and common
+area maintenance expense for the vacated facilities.
+
+     The Company wrote-off all leasehold improvements for the excess facilities,
+computer equipment, furniture and fixtures related to the involuntarily
+terminated employees, and other assets deemed to have no future use as a result
+of the restructuring.
+
+NOTE Q: RELATED PARTY TRANSACTIONS
+
+     During the first quarter of fiscal 1999, the Company withdrew from a
+limited partnership (the "Partnership") and received a payment of $2,800,000 for
+its portion of uninvested capital and retained by assignment an indirect
+interest in the Partnership investments as of the date of the Company's
+withdrawal. During fiscal 1997, the Company invested $4,000,000 for a 32%
+interest in the Partnership. The Partnership was organized for the purpose of
+investing in emerging technology companies to seek income and gains to the
+Partnership. Three of the Company's directors were, prior to the Company's
+withdrawal, members of the limited liability company that is the general partner
+of the Partnership. The Company has accounted for its investment in the
+partnership under the equity method. Accordingly, the Company adjusted the
+recorded value of its investment for its share (32%) of the Partnership's net
+income or loss. The Company's portion of the Partnership's net income was not
+material for the fiscal years ended June 30, 1998 or 1997.
+
+NOTE R: PURCHASED TECHNOLOGY FOR R&D
+
+     During fiscal 1998, the Company purchased a non-exclusive, worldwide
+license from Trikon Technologies, Inc. ("Trikon") for its MORI source
+technology. During fiscal 1998, the Company recorded a charge for the purchase
+of technology of $12,100,000 for the initial payment on the license and for the
+purchase of a
+
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                 JUNE 30, 1999
+
+Trikon system to be utilized for R&D. The technology is being used in a single
+discrete etch product development project and has no future alternative use. An
+additional $5,000,000 for the license became payable and was paid in fiscal
+1999.
+
+NOTE S: LITIGATION
+
+     In October, 1993 Varian Associates, Inc. ("Varian") brought suit against
+the Company in the United States District Court, for the Northern District of
+California, seeking monetary damages and injunctive relief based on the
+Company's alleged infringement of certain patents held by Varian. By order of
+the Court, those proceedings were bifurcated into an initial phase to determine
+the validity of the Varian patents and Lam's infringement (if any), and a
+secondary phase to determine damages to Varian (if any) and whether Lam's
+infringement (if shown) was willful. On April 13, 1999, the Court issued an
+interlocutory order construing the meaning of the terms of the patent claims at
+issue in the action. To date, however, there has been no determination as to the
+actual scope of those claims, or whether Lam's products have infringed or are
+infringing Varian's patents. A trial date is currently scheduled for March 2000.
+Furthermore, there have been no findings in the action which have caused the
+Company reasonably to believe that any infringement, if found, or any damages,
+if awarded, would have a material adverse effect on the Company's operating
+results or the Company's financial position.
+
+     In addition, the Company is from time to time notified by various parties
+that intention to seek negotiated licenses where it is considered appropriate.
+The outcome of these matters will not, in management's opinion, have a material
+impact on the Company's consolidated financial position or operating results.
+
+NOTE T: SUBSEQUENT EVENT (UNAUDITED)
+
+     In September, 1999 Tegal Corporation ("Tegal") brought suit against the
+Company in the United States District Court, for the Eastern District of
+Virginia, seeking monetary damages and injunctive relief based on the Company's
+alleged infringement of certain patents held by Tegal. Specifically, Tegal
+identified the Company's 4520XL and Exelan products as infringing the patents
+Tegal is asserting. To date, however, there has been no determination as to the
+actual scope of those claims, or whether Lam's products have infringed or are
+infringing Tegal's patents. No trial date is scheduled in the action.
+Furthermore, there have been no findings in the action which have caused the
+Company reasonably to believe that any infringement, if found, or any damages,
+if awarded, would have a material adverse effect on the Company's operating
+results or the Company's financial position.
+
+
+
+               REPORT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+
+Board of Directors
+Lam Research Corporation
+Fremont, California
+
+     We have audited the accompanying consolidated balance sheets of Lam
+Research Corporation as of June 30, 1999 and 1998, and the related consolidated
+statements of operations, stockholders' equity and cash flows for each of the
+three years in the period ended June 30, 1999. Our audits also included the
+financial statement schedule listed in the index at Item 14(a). These financial
+statements and schedule are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements and
+schedule based on our audits. We did not audit the financial statements of
+OnTrak Systems, Inc. which reflects net income of approximately 9.6% of the
+related consolidated financial statement totals for the year ended June 30,
+1997. Those statements were audited by other auditors whose report has been
+furnished to us, and our opinion, insofar as it relates to data included for
+OnTrak Systems, Inc., is based solely on the report of the other auditors.
+
+     We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits and the report of the other auditors provide a
+reasonable basis for our opinion.
+
+     In our opinion, based on our audits and the report of other auditors, the
+financial statements referred to above present fairly, in all material respects,
+the consolidated financial position of Lam Research Corporation at June 30, 1999
+and 1998, and the consolidated results of its operations and its cash flows for
+each of the three years in the period ended June 30, 1999, in conformity with
+generally accepted accounting principles. Also, in our opinion, the related
+financial statement schedule, when considered in relation to the basic financial
+statements taken as a whole, presents fairly in all material respects the
+information set forth therein.
+
+                                                 /s/ ERNST & YOUNG LLP
+
+San Jose, California
+July 26, 1999
+
+
+
+                       REPORT OF INDEPENDENT ACCOUNTANTS
+                            FOR ONTRAK SYSTEMS, INC.
+
+To the Board of Directors and Stockholders
+of OnTrak Systems, Inc.
+
+     In our opinion, the consolidated balance sheet and related consolidated
+statements of operations, of stockholders' equity and of cash flows present
+fairly, in all material respects, the financial position of OnTrak Systems, Inc.
+and its subsidiaries (not presented separately herein) at June 30, 1997 and the
+results of their operations and their cash flows for the year then ended in
+conformity with generally accepted accounting principles. These consolidated
+financial statements are the responsibility of the Company's management; our
+responsibility is to express an opinion on these financial statements based on
+our audits. We conducted our audits of these statements in accordance with
+generally accepted auditing standards, which require that we plan and perform
+the audit to obtain reasonable assurance about whether the financial statements
+are free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements,
+assessing the accounting principles used and significant estimates made by
+management, and evaluating the overall financial statement presentation. We
+believe that our audits provide a reasonable basis for the opinion expressed
+above.
+
+/s/ PRICEWATERHOUSECOOPERS LLP
+
+San Jose, California
+July 24, 1997 except for Note 2,
+which is as of August 5, 1997
+
+
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, as amended, the Registrant has duly caused this Report to
+be signed on its behalf by the undersigned, thereunto duly authorized.
+
+                                          LAM RESEARCH CORPORATION
+
+                                          By /s/ JAMES W. BAGLEY
+
+                                          --------------------------------------
+                                          James W. Bagley,
+                                          Chairman, Chief Executive Officer
+
+Dated: September 24, 1999
+
+
+
+                               POWER OF ATTORNEY
+
+     KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature
+appears below constitutes and appoints James W. Bagley and Mercedes Johnson,
+jointly and severally, his or her attorney-in-fact, each with the power of
+substitution, for him or her in any and all capacities, to sign any amendments
+to this Report of Form 10-K, and to file the same, with exhibits thereto and
+other documents in connection therewith, with the Securities and Exchange
+Commission, hereby ratifying and confirming all that each of said
+attorney-in-fact, or his or her substitute or substitutes, may do or cause to be
+done by virtue thereof.
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, as
+amended, this Report has been signed below by the following persons on behalf of
+the Registrant and in the capacities and on the date indicated.
+
+
+
+
+
+                 SCHEDULE II VALUATION AND QUALIFYING ACCOUNTS
+
+                            LAM RESEARCH CORPORATION
+
+
+
+- ---------------
+(1) Represents specific customer accounts written-off.
+
+
+
+                            LAM RESEARCH CORPORATION
+
+                           ANNUAL REPORT ON FORM 10-K
+                    FOR THE FISCAL YEAR ENDED JUNE 30, 1999
+
+                                 EXHIBIT INDEX
+
+
+
+
+
+
+
+
+
+
+
+- ---------------
+ (1) Incorporated by reference to Post Effective Amendment No. 1 to the
+     Registrant's Registration Statement on Form S-8 (No. 33-32160) filed with
+     the Securities and Exchange Commission on May 10, 1990.
+
+ (2) Incorporated by reference to the Registrant's Quarterly Report on Form 10-Q
+     for the quarter ended April 3, 1988.
+
+ (3) Incorporated by reference to Registrant's Annual Report on Form 10-K for
+     the fiscal year ended June 30, 1988.
+
+ (4) Incorporated by reference to Registrant's Quarterly Report on Form 10-Q for
+     the quarter ended December 31, 1989.
+
+ (5) Incorporated by reference to Registrant's Quarterly Report on Form 10-Q for
+     the quarter ended December 31, 1991.
+
+ (6) Incorporated by reference to Registrant's Annual Report on Form 10-K for
+     the fiscal year ended June 30, 1993.
+
+ (7) Incorporated by reference to Registrant's Annual Report on Form 10-K for
+     the fiscal year ended June 30, 1995.
+
+ (8) Incorporated by reference to Registrant's Quarterly Report on Form 10-Q for
+     the quarter ended December 31, 1995.
+
+ (9) Incorporated by reference to Registrant's Quarterly Report on Form 10-Q for
+     the quarter ended March 31, 1996.
+
+(10) Incorporated by reference to Registrant's Annual Report on Form 10-K for
+     the fiscal year ended June 30, 1996.
+
+(11) Incorporated by reference to Registrant's Quarterly Report on Form 10-Q for
+     the quarter ended September 30, 1996
+
+(12) Incorporated by reference to Registrant's Quarterly Report on Form 10-Q for
+     the quarter ended December 31, 1996.
+
+
+
+(13) Incorporated by reference to Registrant's Report on Form 8-K dated February
+     4, 1997.
+
+(14) Incorporated by reference to Registrant's Report on Form 8-K dated March
+     31, 1997.
+
+(15) Incorporated by reference to Registrant's Quarterly Report on Form 10-Q for
+     the quarter ended March 31, 1997.
+
+(16) Incorporated by reference to Registrant's Annual Report on Form 10-K for
+     the fiscal year ended June 30, 1997.
+
+(17) Incorporated by reference to Registrant's Report on Form S-4 dated July 1,
+     1997.
+
+(18) Incorporated by reference to Registrant's Quarterly Report on Form 10-Q for
+     the quarter ended September 30, 1997.
+
+(19) Incorporated by reference to Registrant's Report on Form S-3 dated October
+     31, 1997.
+
+(20) Incorporated by reference to Registrant's Quarterly Report on Form 10-Q for
+     the quarter ended December 31, 1997.
+
+(21) Incorporated by reference to Registrant's Report on Form S-8 dated January
+     30, 1998.
+
+(22) Incorporated by reference to Registrant's Quarterly Report on Form 10-Q for
+     the quarter ended March 31, 1998.
+
+(23) Incorporated by reference to Registrant's Annual Report on Form 10-K for
+     the fiscal year ended June 30, 1998.
+
+(24) Incorporated by reference to Registrant's Quarterly Report on Form 10-Q for
+     the quarter ended September 30, 1998.
+
+(25) Incorporated by reference to Registrant's Quarterly Report on Form 10-Q for
+     the quarter ended December 31, 1998.
+
+(26) Incorporated by reference to Registrant's Quarterly Report on Form 10-Q/A
+     for the quarter ended March 31, 1999.
+
+(27) Incorporated by reference to Registrant's Report on Form 8-K dated June 22,
+     1999.
+
+(28) Incorporated by reference to Registrant's Report on Form S-8 dated November
+     5, 1998.
+
+

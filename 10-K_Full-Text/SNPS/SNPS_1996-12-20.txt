@@ -1,0 +1,1361 @@
+
+10-K
+FORM 10-K
+
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-K
+
+(MARK ONE)
+
+[X]     ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+        ACT OF 1934
+
+For the fiscal year ended September 30, 1996
+
+                                       OR
+
+[ ]     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+        EXCHANGE ACT OF 1934
+
+For the transition period from            to
+
+Commission file number 0-45138
+
+                                 SYNOPSYS, INC.
+             (Exact name of registrant as specified in its charter)
+
+              Delaware                                 56-1546236
+    (State or other jurisdiction         (I.R.S. Employer Identification Number)
+  of incorporation or organization)
+
+                            700 East Middlefield Road
+                      Mountain View, California 94043-4033
+          (Address of Principal Executive Offices, including ZIP Code)
+
+       Registrant's telephone number, including area code: (415) 962-5000
+
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                              Name of each exchange
+        Title of each class                    on which registered
+
+               None                                   None
+
+
+Securities registered pursuant to Section 12(g) of the Act: Common Stock, $.01
+par value.
+
+
+         Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+                                Yes  X  No
+                                    ---    ---
+
+         Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [ ]
+
+         The aggregate market value of voting stock held by nonaffiliates of the
+Registrant as of November 29, 1996 was approximately $1,778,982,219.
+
+         On November 29, 1996, approximately 40,732,478 shares of the
+Registrant's Common Stock, $.01 par value, were outstanding.
+
+                       Documents Incorporated by Reference
+
+              (1)  Portions of the Registrant's 1996 Annual Report to
+Stockholders for the fiscal year ended September 30, 1996 are incorporated by
+reference into Parts I, II and IV hereof.
+
+              (2)  Portions of the Registrant's Notice of Annual Meeting and
+Proxy Statement for the Registrant's Annual Meeting of Stockholders to be held
+on February 28, 1997 are incorporated by reference into Part III hereof.
+
+
+
+Except for the historical information presented, the matters discussed in this
+Form 10-K include forward-looking statements that involve risks and
+uncertainties. The Company's actual results could differ materially from those
+discussed herein. Factors that could cause or contribute to such differences
+include, but are not limited to, those discussed under the caption "Factors That
+May Affect Future Results" under "Management's Discussion and Analysis of
+Financial Condition and Results of Operations" in the Company's 1996 Annual
+Report to Stockholders, which is incorporated by reference in this Form 10-K.
+
+                                    * * * *
+
+
+                                     PART I
+
+ITEM 1.  BUSINESS
+
+INTRODUCTION
+
+         Synopsys, Inc. (hereinafter sometimes referred to as the "Company")
+develops, markets, and supports high-level design automation (HLDA) products for
+designers of integrated circuits (ICs) and electronic systems. The Company
+offers a range of design tools, verification systems and design reuse tools that
+significantly improve designers' productivity by offering improved time to
+market, reduced development and manufacturing costs, and enhanced design quality
+of results when compared to earlier generations of electronic design automation
+(EDA) products. The Company also provides training, support and consulting
+services for its customers.
+
+         The foundation of the Company's HLDA methodology is logic synthesis.
+The Company pioneered the commercial development of logic synthesis technology
+in the late 1980s and is currently the leading provider of synthesis software.
+The Company offers both logic and behavioral synthesis products. Logic synthesis
+allows designers to use a high-level language to describe a chip, then
+automatically converts and optimizes this high-level description into a
+gate-level format that can be manufactured by a semiconductor company.
+Behavioral synthesis allows designers to specify their designs at the behavioral
+level, which is a higher level of abstraction than is permitted by logic
+synthesis.
+
+         The Company's verification systems products are used by IC designers in
+several stages of system design to help ensure that their ICs will work before
+they are manufactured. The Company is a leading provider of software and
+hardware models, which are used to test IC designs within the context of the
+system into which they will be designed or to simulate the performance of an
+entire system or subset of a system before manufacturing. The Company's
+simulation products permit engineers to simulate their designs at various stages
+of the design process (behavioral, register-transfer and gate-levels).
+
+         The Company's design reuse products are intended to reduce design time
+by permitting the straight-forward reuse of previously-proven circuit "blocks."
+The Company believes design reuse will be a key to increased productivity of IC
+designers as the density and complexity of ICs increases. The Company's design
+reuse products include its DesignWare(R) library of synthesizable standard parts
+and its proprietary Cell-Based Array (CBA) IC architecture, libraries and
+compilers, which are licensed to semiconductor manufacturers.
+
+         The Company markets its products on a worldwide basis and offers
+comprehensive customer service, education, consulting, and support as integral
+components of its product offerings. Products primarily are marketed through its
+direct sales force. The Company has 
+
+
+
+license agreements with many of the world's leading semiconductor, computer,
+communications and electronics companies.
+
+INDUSTRY BACKGROUND
+
+         EDA products have played a critical role in accelerating the dramatic
+advances in the electronics industry over the past two decades.
+
+         For the past 26 years, IC complexity (as measured by the number of
+transistors on a chip) has increased by a factor of 10 every six years - a
+formula known in the semiconductor industry as Moore's Law (for the founder of
+Intel Corporation). The need for EDA resulted from this increasing complexity,
+as well as increased complexity of the electronic systems in which ICs are used
+and the scarcity of skilled IC design engineers. Increased IC complexity
+lengthened the product design and development cycles while, at the same time,
+competition shortened product life cycles. The objectives of EDA are to (a)
+reduce time to market, (b) reduce the costs associated with product design and
+development, (c) improve the performance and density of complex IC designs, and
+(d) improve the predictability of IC manufacture and testing.
+
+         The electronic design process encompasses five basic stages:
+
+         - Determine the architecture of the system (system design);
+
+         - Develop behavioral descriptions of various system elements 
+           (behavioral design);
+
+         - Specify the desired architecture of an IC (functional design);
+
+         - Develop schematic diagrams of logic gates that implement this 
+           functionality (logic or gate-level design); and
+
+         - Layout the individual transistors and interconnect wires that
+           implement the logic, which results in mask sets used to manufacture
+           the IC (layout or device design).
+
+         Prior to EDA, this entire process was manual, time consuming, prone to
+error, and costly, thus limiting design complexity. In the 1960s and early
+1970s, "complex" IC designs consisted of a few hundred logic gates (one logic
+gate is equal to approximately four transistors). The EDA industry has evolved
+over the past twenty years to automate a significant portion of the design
+process, resulting in dramatic productivity increases. Each new generation of
+design methods has been based on an enabling technology that provided an
+automated linkage between design stages and raised the level of design
+abstraction at which designers worked, thus facilitating the design of more
+complex ICs by a broader range of designers.
+
+         The first generation of EDA, computer-aided design (CAD), automated the
+layout process using dedicated mainframe or high-powered minicomputer systems,
+allowing circuit designers to create ICs of several thousand logic gates. In the
+late 1970s and early 1980s, computer-aided engineering (CAE) emerged as the
+second generation of EDA, with electronic design capture at the logic gate-level
+instead of the layout or device level. By the mid-1980s, most IC design was
+accomplished using workstation-based CAE tools for schematic capture, gate-level
+simulation, and automated placement and routing. In the late 1980s, as
+semiconductor process technology advanced, it became possible to manufacture ICs
+with hundreds of thousands of gates. Consequently, a new generation of EDA tools
+was required that let designers work at even higher levels of abstraction.
+
+         The first successful step towards high-level design was the
+introduction of hardware description languages (HDLs) that permitted the
+expression of design ideas and functionality at a 
+
+
+
+level independent of silicon implementation. Initial HDL modeling and system
+simulation found only limited application because there was no enabling
+technology that could translate the functional-level HDL specifications into
+gate-level designs.
+
+         Logic synthesis provided the enabling technology that permitted
+designers to translate HDL specifications into gate-level designs. Logic
+synthesis employs a number of advanced computational algorithms for Boolean
+logic manipulation and optimization, timing analysis, and technology mapping. By
+raising the level of abstraction at which IC designers work from the gate-level
+to the functional-level, logic synthesis has become the focal point of the third
+generation of EDA.
+
+         Semiconductor process technology has continued to advance into the
+1990s. Chip complexity and density have continued to increase accordingly. At
+the same time, the competitive pressures faced by computer, telecommunications,
+electronics, automotive and appliance companies and other designers and
+consumers of ICs have made design productivity and time-to-market even more
+critical factors in selecting IC design methods and tools.
+
+STRATEGY
+
+         The Company's strategy is to lead the evolution of electronic design by
+providing methodologies, products and services that maximize the productivity of
+its customers. In order to execute this strategy, the Company seeks to develop a
+balanced portfolio of design tools that continue to raise the level of
+abstraction at which IC developers work and perform superior optimization of IC
+design for speed, size and power, provide superior tools to assist in the
+verification of IC designs early in the design cycle, enable the large-scale
+reuse of intellectual property and provide high quality support, education and
+consulting services that meet the needs of its customers.
+
+PRODUCT GROUPS
+
+Design Tools
+
+         Synopsys' design tools consist principally of its core synthesis
+product, Design Compiler(TM), and a suite of high-level design products that are
+tightly linked to it. The Company is currently the leading provider of logic
+synthesis tools. Design Compiler was introduced in 1988 and has been updated
+regularly. It is currently used by a broad range of companies engaged in the
+design of ICs and field programmable gate arrays (FPGAs) to optimize their
+designs for performance and chip area. In fiscal year 1996, the Company
+introduced Power Compiler(TM), which permits IC designers to optimize their
+designs for power consumption. Optimizing ICs for power consumption is
+especially important for portable, battery-powered devices such as laptop
+computers and cellular telephones.
+
+         In fiscal year 1996, the Company introduced FPGA Express(TM), a new
+synthesis tool for high-density FPGAs and complex programmable logic devices
+(CPLDs). FPGA Express is the Company's first product to run on the Windows 95
+and Windows NT operating systems, reflecting the fact that personal computers
+are the predominant platform for FPGA and CPLD designs.
+
+         The Company believes that behavioral synthesis is a key enabling
+technology for the next advance in electronic design productivity. During fiscal
+year 1996, Behavioral Compiler(TM), the Company's behavioral synthesis product,
+continued to gain market acceptance. Behavioral synthesis permits engineers to
+create complex circuits in a high-level shorthand; the designer specifies the
+algorithm and the software then helps the designer pick the best architecture.
+Early adopters of Behavioral Compiler (which was introduced in 1994) have
+reported significant 
+
+
+
+reductions in architecture design time (an important component of overall design
+time), while achieving improvements in performance and area.
+
+         The Company's other design tools are integrated with Design Compiler to
+offer a comprehensive design environment. HDL Advisor(TM) lets IC designers
+analyze and improve their source code before synthesis and simulation runs. The
+Company's test synthesis software permits designers to generate high-quality
+test patterns and moves IC design testing from the final stages of the design
+process to the high-level design process, thus permitting earlier detection of
+design defects. The Company's power analysis product lets designers measure and
+analyze power consumption earlier in the design cycle than layout-oriented tools
+and Power Compiler automatically optimizes for power. The Company's
+floorplanning management product acts as a high-level link to the layout process
+by taking physical design data into consideration during synthesis.
+
+         Synopsys' design tools offer a number of benefits to customers. Its
+synthesis products typically reduce circuit area up to 25% and improve
+critical-path timing by approximately 30% when compared to the results achieved
+by designers using traditional CAE tools. Logic synthesis supports technology
+independent design, giving designers a wide array of options in choosing
+semiconductor suppliers and, due to the automated nature of the process, allows
+them to efficiently explore architectural alternatives by merely changing the
+high-level description or reusing high-level descriptions from one design to
+another. Synthesis also can be used to migrate designs from one technology to
+another (e.g., CMOS 0.5-micron to CMOS 0.25-micron technology) or retarget from
+one implementation approach to another (e.g., FPGA to ASIC (application specific
+IC)).
+
+         In order to address the challenges posed by increasing IC complexity
+and advances in IC technology, in fiscal year 1996 Synopsys formed a number of
+important strategic relationships. In February 1996, the Company and
+International Business Machines Corporation (IBM) formed an alliance to jointly
+develop products in the areas of design planning, timing, test and synthesis,
+and the Company acquired a license to use certain IBM technology. In addition,
+the Company was selected by SEMATECH, a consortium of the leading U.S.
+semiconductor manufacturers, as the prime contractor on a $6 million contract to
+deliver next generation tools for designing complex ICs at 0.25-micron and
+below. In May 1996, the Company entered into a strategic relationship with
+Cooper & Chyan Technology (CCT), Inc. to link the Company's synthesis tools with
+CCT's routing technologies. CCT recently announced an agreement to merge with
+Cadence Design Systems, Inc., a competitor of the Company. Synopsys is currently
+evaluating its relationship with CCT in light of the proposed merger.
+
+Verification Systems
+
+         Verification is the process of ensuring that an IC meets the functional
+specifications and timing requirements of its design, and that it will work with
+the other components of a system, before it is manufactured. As IC complexity
+grows, the importance of verification to the chip design process also grows.
+Without adequate verification tools, verification can be a serious bottleneck in
+the design process.
+
+         The Company offers a range of verification products, including
+simulation and emulation tools and hardware and software models, integrated into
+its synthesis-based design flow, that help customers verify their designs before
+committing them to silicon.
+
+         In September 1996, the Company introduced two new products that help
+address the verification demands of designing increasingly complex ICs.
+Cyclone(TM), the Company's new "cycle-based" simulation software, permits IC
+designers to simulate their designs using high-level algorithms at the
+register-transfer level, which is faster and requires less memory than
+
+
+
+current tools. Synopsys' ARKOS(TM) hardware emulator emulates the behavior of an
+ASIC with up to 4 million gates and can operate as an execution engine for
+Cyclone, providing accelerated simulation. Together, Cyclone and the ARKOS
+hardware emulator permit designers to use emulation and simulation early in the
+design process.
+
+         Cyclone and the ARKOS hardware emulator complement the Company's VHDL
+System Simulator(TM) (VSS). VSS is used at various stages in the high-level
+design process to simulate a system or subsystem to simulate the performance of
+an IC within a system. During fiscal 1996, the Company added VSS support for
+"VITAL," the industry signoff gate-level modeling standard. VSS, Cyclone and the
+ARKOS emulator are all tightly linked to the Company's synthesis products.
+
+         Since the Company's February 1994 merger with Logic Modeling
+Corporation, the Company has offered a full range of hardware and software
+modeling solutions. The Company currently offers models for more than 13,000
+commercially available ICs, including a wide range of microprocessors, DSPs,
+CPLDs, memories and standard logic. In addition, the Company offers modeling
+technologies to allow designers to create models of both standard and
+proprietary devices. These models support all major EDA simulation environments
+and a wide range of EDA platforms, giving designers access to a broad range of
+models to assist them with verification of their designs.
+
+         Success in the modeling business depends, in part, upon making a wide
+range of models and model types. The Company continues to focus its modeling
+development efforts on enhancing its ability to quickly and efficiently produce
+and distribute new models. The Company seeks to maintain close relationships
+with leading semiconductor vendors to ensure model accuracy and the earliest
+possible availability. The Company believes that future design verification
+methodologies will require models of even more complex components, subsystems,
+and systems as customers engage in ever larger and more sophisticated designs.
+
+Design Reuse
+
+         As the number of logic gates on ICs continues to grow, and as ICs
+themselves become capable of hosting entire systems rather than single
+functions, the reuse of proven design modules will become increasingly important
+to IC designers. The Company's design reuse products are intended to enable such
+reuse.
+
+         Since the Company's acquisition of Silicon Architects(TM) in May 1995,
+it has offered a proprietary IC architecture, known as Cell-Based Array (CBA),
+and compilers for high-level memories and data path elements. The CBA
+architecture consists of optimized libraries of low level elements in an IC. The
+Company licenses these libraries to ASIC manufacturers and adapts the libraries
+for use in the manufacturer's particular production process. The CBA libraries
+are then used in lieu of the manufacturer's proprietary library. Replacing
+vendor-specific libraries with optimized CBA libraries can provide cost benefits
+to ASIC vendors by reducing the silicon area required for a given design and can
+provide improved performance and power consumption levels compared to other IC
+architectures. The CBA architecture also offers the Company's customers a link
+between synthesis-based high-level design and the physical implementation of
+designs. The Company has entered into CBA license agreements with many of the
+world's leading ASIC vendors.
+
+         DesignWare, introduced in 1992, provides IC designers with libraries of
+pre-designed and pre-verified off-the-shelf design modules to incorporate into
+their own designs. By providing these building blocks and making them
+synthesizable (i.e., usable by the Company's design tools in optimizing a
+design), DesignWare helps reduce the overall design time for complex ICs. The
+reuse of these building blocks represents a significant shift from traditional
+IC 
+
+
+
+design, in which designs have been intimately tied to a particular process
+technology or design methodology and not easily transferred from one chip design
+to the next. By the end of fiscal year 1996, over 100 design modules were
+available in DesignWare libraries. The Company intends to make more modules
+available and to increase the size and functions of the available modules.
+DesignWare Developer(TM) is used in conjunction with DesignWare and permits
+designers to create their own proprietary reusable DesignWare components.
+
+PRODUCTS
+
+         The Company's products include design tools, verification systems and
+design reuse tools, as summarized below. In addition, the Company offers
+interface products that permit the sharing of data with other EDA systems and
+library tools that assist semiconductor vendors in developing technology
+libraries.
+
+Design Tools
+
+         Behavioral Compiler. Behavioral Compiler provides a direct link from
+the functional descriptions of a design to HDL Compiler(TM) and Design Compiler
+for implementation. By permitting IC designers to work at a higher level of
+abstraction than permitted by other tools, Behavioral Compiler simplifies IC
+design and, in the process, makes the design more reliable and predictable.
+
+         HDL Compiler Family. The HDL Compiler family includes VHDL Compiler and
+HDL Compiler (for Verilog). The HDL Compiler family synthesizes HDL descriptions
+into optimized, technology independent netlists for the Design Compiler family.
+
+         Design Compiler Family. The Design Compiler family consists of products
+that synthesize hierarchical descriptions of circuits in any combination of
+equations, state tables, and netlists from external CAE systems or the Synopsys
+HDL Compiler family and optimizes such designs to meet timing and area
+requirements given a particular technology library.
+
+         Power Family. Includes DesignPower(R) and Power Compiler, offering a
+complete methodology for power. DesignPower analyzes power consumption early in
+the design process, helping to avoid surprises late in the design process that
+could force designers to use more expensive packaging, "re-spin" designs, and/or
+add cooling devices to meet power consumption requirements. Power Compiler
+offers "push button" power optimization on top of designs developed with
+DesignPower. When used in conjunction with Design Compiler, Power Compiler
+enables simultaneous optimization for size, timing and power.
+
+         FPGA Compiler(TM). FPGA Compiler works with the Design Compiler to
+synthesize designs for implementation in Field Programmable Gate Arrays (FPGAs)
+from a number of manufacturers, including Actel, Altera, Lucent Technologies and
+Xilinx.
+
+         FPGA Express. FPGA Express offers synthesis and optimization for FPGAs
+and complex programmable logic devices on Windows 95 or Windows NT-based PCs.
+
+         Test Compiler(TM). Test Compiler works with the Design Compiler family
+to integrate testability analysis and design-for-test capabilities into the
+design process. Test Compiler lets designers explore testability trade-offs
+early in the design process and automatically generates vectors needed to test
+the design.
+
+         HDL Advisor. HDL Advisor helps designers reduce the number of design
+iterations by providing a source-level performance analysis tool for use either
+before or after synthesis or simulation.
+
+
+
+
+         DesignTime(TM). DesignTime delivers full static timing analysis within
+Synopsys' high-level design environment, permitting a designer to perform
+point-to-point timing analysis using the same vendor-certified libraries, timing
+algorithms, and interfaces used to create the design.
+
+         Floorplan Manager(TM). Floorplan Manager takes into account physical
+design information from a commercial floorplanner early in the design process,
+promoting convergence between synthesis and layout and reducing design time by
+reducing post-layout timing violations.
+
+         COSSAP. COSSAP(R) is a second-generation DSP design system that can
+simulate large, complex, high-level systems that would be hard to model with
+standard cycle-based or event-driven simulators. COSSAP includes a library of
+DSP building blocks.
+
+Verification Systems
+
+         VHDL System Simulator (VSS) Family. The VSS family provides a single
+simulation environment for the three major stages of IC design -- behavioral,
+logic, and gate -- letting designers capture and verify high-level
+specifications and detect design inconsistencies before and after committing
+designs to synthesis. It also includes a source-level debugging tool and
+post-processing utilities, including statistical analysis.
+
+         Cyclone. Cyclone, the Company's new "cycle-based" simulation software,
+permits IC designers to simulate their designs using cycle-based algorithms at
+the register-transfer level, which is faster and requires less memory than
+current tools.
+
+         ARKOS Emulator. Synopsys' ARKOS hardware emulator emulates the behavior
+of an ASIC with up to 4 million gates and can operate as an execution engine for
+Cyclone, providing accelerated simulation.
+
+         ModelSource(TM) 3000 Hardware Modeling Products. The ModelSource 3000
+series is a family of hardware modeling systems for ASIC and board level design
+which provide a flexible means for designers to model complex devices.
+ModelSource 3000 systems use the actual integrated circuit to model its own
+behavior.
+
+         SmartModel(R) Library and SourceModel Library(R). These two libraries
+include models of more than 13,500 devices, representing all major device types
+and semiconductor manufacturers. The SmartModel Library features models of
+complex devices--microprocessors, controllers, peripherals, FPGAs and logic
+devices--that engineers would not typically model themselves. The SourceModel
+Library offers designers models of commonly-used standard logic and memory
+devices. Models are furnished in either Verilog or VHDL source code.
+
+         Bus Interface Models. Bus interface models are used to verify that
+designs comply with established industry standards. Models are available for
+popular standards including: Peripheral Component Interface (PCI), Personal
+Computer Memory Card International Association (PCMCIA), MicroChannel
+Architecture (MCA), Industry Standard Interface (ISA), Extended Industry
+Standard Interface (EISA), Small Computer Systems Interface-2 (SCSI-2), and
+Versa Module Eurocard (VME) standards.
+
+         Telecommunications Workbenches. The Company's Telecommunications
+Workbench products provide a high-level design verification environment for
+telecommunications applications.
+
+
+
+
+Design Reuse
+
+         DesignWare. DesignWare provides libraries of flexible, ready-to-use
+digital components that are technology-independent, parameterizable and
+synthesizable. DesignWare libraries include commonly used functions ranging from
+simple modules, such as multipliers, to more complex functions. DesignWare
+libraries are tightly coupled to the Company's high-level design environment.
+
+         DesignWare Developer(TM). DesignWare Developer helps customers develop
+their own DesignWare components from which they can build an inventory of design
+knowledge that can be leveraged across multiple development teams or in
+subsequent design cycles.
+
+         Cell-Based Array (CBA) Architecture and Macrocell Libraries. The
+Company's CBA architecture offers semiconductor vendors the customization
+advantages of gate array architecture with the density and performance and power
+advantages of standard cell design. Macrocell libraries contain circuit elements
+used by the CBA Design System(TM) and Synopsys synthesis tools. Compilers for
+complex datapath and memory blocks based on CBA are also available.
+
+         Memory and Datapath Compilers. Compilers are used to quickly generate
+optimized general purpose functions for an IC, and are parameterized to allow
+the designer to generate a function of optimal size, performance and power.
+
+         CBA Design System. The CBA Design System provides several Silicon
+Architect-developed tools with integration of commercial EDA tools to facilitate
+design of complex ICs based on the CBA Architecture.
+
+CUSTOMER SERVICE AND SUPPORT
+
+         The Company devotes substantial resources to providing customers with
+technical support, customer education, and consulting services. The Company
+believes that a high level of customer service and support is critical to the
+adoption and successful utilization of its high-level design automation
+methodology.
+
+         As a result of the continued growth of the Company's installed base, as
+well as customer requests for education, support and consulting services, the
+Company's service revenue has increased as a percentage of total revenue,
+representing 31%, 32% and 34% of total revenue in fiscal 1994, 1995, and 1996,
+respectively.
+
+Technical Support
+
+         Technical support is provided through both field- and corporate-based
+technical application engineering groups. The Company provides customers with
+software updates and a formal problem identification and resolution process
+through the Synopsys Technical Support Center. The Company's central entry point
+of all customer inquiries is SOLV-IT!(R), a direct-access service available
+worldwide, 24 hours per day, through electronic mail and the World Wide Web that
+lets customers quickly seek answers to design questions or more insight into
+design problems. SOLV-IT! combines Synopsys' complete design knowledge database
+with sophisticated information retrieval technology. Updated daily, it includes
+documentation, design tips, and answers to user questions.
+
+
+
+
+Customer Education Services
+
+         Synopsys offers a number of workshops focused on high-level design,
+simulation, behavioral synthesis, logic synthesis, and test. Regularly scheduled
+workshops are offered in Mountain View, California; Austin, Texas; Burlington,
+Massachusetts; Reading, England; Rungis, France; Munich, Germany; Tokyo and
+Osaka, Japan; and Seoul, Korea. On-site workshops are available on a worldwide
+basis at customers' facilities. To date, over 15,000 design engineers have been
+trained in the use of Synopsys' products through participation in Company
+workshops.
+
+Consulting
+
+         The Company provides consulting services through its Professional
+Services Group, which offers customized high-level design support for IC and
+systems designs. Synopsys consultants are experienced designers who provide
+customers with in-depth technical expertise in the use of Synopsys' HLDA
+methodology and tools. Synopsys offers both methodology and project consulting.
+Methodology consulting is aimed at increasing customer productivity, promoting
+the adoption of the Company's HLDA methodology and solving immediate needs of
+customers' design teams. Project consulting involves Synopsys experts working
+with customer design teams from design implementation through simulation,
+synthesis and tapeout.
+
+PRODUCT WARRANTIES
+
+         The Company generally warrants its products to be free from defects in
+media and to substantially conform to material specifications for a period of 90
+days. The Company has not experienced significant returns to date.
+
+SUPPORT FOR INDUSTRY STANDARDS
+
+         The Company actively supports standards that it believes will help its
+customers increase productivity and solve design problems, including support for
+key standards that promote system-on-chip design and allow tool
+interoperability. The Company's products support the two most commonly used
+hardware description languages, VHDL and Verilog HDL. The Company's de facto
+standard register-transfer-level subsets of the VHDL and Verilog languages were
+donated to the EDA Industry Council for its project to create a formal standard
+RTL subset. Netlist and schematic input/output are supported through the
+Electronic Data Interchange Format. The products support simulation modeling
+with the VHDL Initiative Towards ASIC Libraries (VITAL) standard. Ties to
+physical design tools are provided by the Company's support of Standard Delay
+Format and Physical Design Exchange Format. The latter was donated to the
+industry for standardization as part of a Delay Calculation System for deep
+submicron design. The Company contributes to this Delay Calculation System
+standardization effort which includes, in addition to PDEF, the Delay
+Calculation Language (DCL), donated by International Business Machines
+Corporation, and the Standard Parasitic Extended Format, donated by Cadence
+Design Systems, Inc. The Company donated its SWIFT modeling interface to the
+Open Modeling Forum for a common simulator interface from models written in
+various formats.
+
+         The Company is on the Board of Directors of the standards groups Open
+Verilog International, VHDL International, Open Modeling Forum (OMF), and CAD
+Framework Initiative. As a member of SEMI/SEMATECH and the EDA Industry Council,
+the Company is participating in the EDA Industry Standards Roadmap and the
+active projects that are implementing the Roadmap. The Company is the prime
+contractor for SEMATECH's Chip Hierarchical Design System, which is predicated
+on open standards. The Company also contributes to the efforts of the Design
+Automation Standards Committee of the IEEE. The 
+
+
+
+Company's software is chiefly written in C language and utilizes the Motif and
+X11 standards for graphical user interfaces. The Company's software runs
+principally under the UNIX operating system and is offered on the most widely
+used workstation platforms, including those from Sun Microsystems,
+Hewlett-Packard, IBM, Digital Equipment Corporation and Sony. Certain of the
+Company's software modeling products and FPGA Express run on the Windows '95 and
+Windows NT operating system and are available for IBM-compatible PCs.
+
+SALES, DISTRIBUTION AND BACKLOG
+
+         The Company markets its products and services primarily through its
+direct sales and service force in over 30 offices in the United States and
+principal international markets. The Company employs highly skilled engineers
+and technically proficient sales persons capable of serving the sophisticated
+needs of the customers' engineering and management staffs.
+
+         For fiscal 1994, 1995, and 1996, international sales represented 48%,
+52%, and 49%, respectively, of the Company's total revenue. Additional
+information relating to domestic and foreign operations is contained in Note 8
+of Note to Consolidated Financial Statements on page 42 of the Company's 1996
+Annual Report to Stockholders.
+
+         As of September 30, 1996, the Company's direct sales and service force
+consisted of 600 management, technical, and administrative employees. The
+Company has nineteen sales/support centers throughout the United States.
+Internationally, the Company has sales/support offices in Canada, Finland,
+France, Germany, Hong Kong, Israel, Italy, Japan, Korea, the People's Republic
+of China, Singapore, Sweden, Taiwan, and the United Kingdom, including regional
+headquarters offices in Germany, Japan and Singapore. On a limited basis, the
+Company also utilizes manufacturer's representatives and distributors. The
+Company has established such relationships in Australia, Brazil, Hong Kong,
+India, Korea, Malaysia and Singapore.
+
+         The Company's backlog was approximately $176.4 million on November 2,
+1996, as compared to $99.4 million on November 4, 1995. The Company's backlog
+includes orders for customer training and consulting services which are expected
+to be completed within one year, orders for systems and software products and
+related maintenance and support with customer requested ship dates within three
+months, and deferred revenue, which consists of subscription services,
+maintenance and support. The Company has not historically experienced
+significant cancellations of orders. Customers frequently reschedule or revise
+the requested ship date of orders, however, which can have the effect of
+deferring recognition of revenue for these orders beyond the expected time
+period.
+
+RESEARCH AND DEVELOPMENT
+
+         The Company believes that its future performance will depend in large
+part on its ability to maintain and enhance its current product lines, develop
+new products, maintain technological competitiveness, and meet an expanding
+range of customer requirements. In addition to product development teams, the
+Company maintains an advanced research group that is responsible for exploring
+new directions and applications of the core technologies, migrating new
+technologies into the existing product lines, and maintaining strong research
+relationships outside the Company both within industry and academia.
+Relationships are maintained with third-party software and hardware vendors to
+broaden the product lines without direct investment and with all major hardware
+vendors on whose platforms the Company's products operate.
+
+         During fiscal 1994, 1995, and 1996, research and development expenses
+were $41.3 million, $58.7 million, and $84.2 million, respectively, excluding
+capitalized software development costs. Capitalized software development costs
+for these periods were $1.5 million, 
+
+
+
+$1.0 million, and $1.0 million, respectively. The Company anticipates that it
+will continue to commit substantial resources to research and development in the
+future.
+
+MANUFACTURING
+
+         The Company's manufacturing operations consist of assembling, testing,
+packaging and shipping its hardware and software products and documentation
+needed to fulfill each order. All manufacturing is currently performed in the
+Company's Mountain View, California and Beaverton, Oregon, facilities. Outside
+vendors provide tape and CD-ROM duplication, printing of documentation and
+manufacturing of packaging materials. The manufacturing and test of hardware
+products is done by Company employees, with some sub-assembly performed by
+outside vendors. The Company typically ships its software products, with either
+a permanent or temporary access key, within 10 days of acceptance of customer
+purchase orders and execution of software license agreements, unless the
+customer has requested otherwise. For its hardware products, the Company buys
+components in anticipation of orders and builds units to match orders, typically
+shipping within four to twelve weeks of order acceptance, unless the customer
+has requested otherwise.
+
+COMPETITION
+
+         The EDA industry is highly competitive. The other principal companies
+in the EDA industry are Cadence Design Systems, Inc., Mentor Graphics Corp.,
+Viewlogic Corporation, Avant! Corporation and Quickturn Design Systems Inc.
+There are many other companies in the EDA industry and frequent new entrants,
+including businesses targeted at Synopsys' product areas.
+
+          The Company's products compete with similar products from other
+vendors and compete with other EDA products and services for a share of the EDA
+budgets of their customers. The Company believes that the principal competitive
+factors in the EDA market are product performance, technology leadership,
+methodology support, technical support, support of industry standards, price,
+and reputation. The Company believes that it currently competes favorably with
+respect to these factors.
+
+         To date, the majority of the Company's revenue has resulted from sales
+of synthesis and synthesis-related HLDA tools, and modeling products, both
+market segments in which the Company is currently the leading provider. As the
+Company's business evolves, it expects to continue to face competition in the
+core product areas of synthesis and modeling and to face competition both in new
+product areas and from competing alternatives for its customers' EDA dollars
+(e.g., internal spending, services, out-sourcing of design or other tools).
+Although the Company has maintained its market leadership in synthesis and
+modeling, a loss of market share or price/margin reduction resulting from
+increased competition could have a significant adverse effect on the Company.
+
+         More generally, the EDA industry as a whole is experiencing rapid
+change. Technology advances and market requirements are fueling a change in the
+nature of competition among EDA vendors. Advances in semiconductor technology
+are expected to create a need for tighter integration between logic design and
+physical design, and companies will increasingly compete over "design flows"
+involving a broad range of products and services rather than individual design
+tools.
+
+         No single EDA company currently offers its customers industry leading
+products for a complete design flow. Presently, the Company does not offer
+physical design tools, a market which is currently dominated by Cadence and
+Avant!, and trails Cadence in its capacity to offer design services. In May
+1996, the Company entered into a strategic relationship with Cooper &
+
+
+
+Chyan Technology, Inc. (CCT) to link the Company's existing synthesis products
+and its design planning products under development with CCT's routing
+technology. Cadence and CCT have announced their intention to merge. The Company
+is evaluating the effect of such a merger on its relationship with CCT.
+
+         To counter competition, the Company will continue to enhance its
+product line and promote the adoption of new products and methodologies.
+However, there can be no assurance that the Company will be able to compete
+successfully against current and future competitors or that competitive pressure
+faced by the Company will not materially adversely affect its business,
+operating results and financial condition.
+
+PRODUCT SALES AND LICENSING AGREEMENTS
+
+         The Company offers its hardware products for sale or lease. The Company
+typically licenses its software to customers under non-exclusive license
+agreements that transfer title to the media only and that restrict use of the
+software to internal purposes at specified sites. The Company currently licenses
+the majority of its software as a network license that allows a number of
+individual users to access the software on a defined network. License fees are
+dependent on the type of license, product mix and number of copies of each
+product required. On certain software products the Company will collect royalty
+payments in addition to license fees.
+
+PROPRIETARY RIGHTS
+
+         The Company primarily relies upon a combination of copyright, patent,
+trademark and trade secret laws and license and nondisclosure agreements to
+establish and protect proprietary rights in its products. The source code for
+the Company's products is protected both as a trade secret and as an unpublished
+copyrighted work. However, it may be possible for third parties to develop
+similar technology independently, provided they have not violated any
+contractual agreements or intellectual property laws. In addition, effective
+copyright and trade secret protection may be unavailable or limited in certain
+foreign countries. Because the EDA industry is characterized by rapid
+technological change, the Company believes that factors such as the
+technological and creative skills of its personnel, new product developments,
+frequent product enhancements, name recognition and reliable product
+maintenance, coupled with the various forms of legal protection that are
+available for its technology, provide an effective means for the Company to
+establish and maintain a technology leadership position. The Company currently
+holds several U.S. and foreign patents on some of the technologies included in
+its products and will continue to pursue additional patents in the future.
+
+         Although the Company believes that its products, trademarks and other
+proprietary rights do not infringe on the proprietary rights of third parties,
+and although to date the Company has received no communications from third
+parties alleging the infringement of the proprietary rights of such parties,
+there can be no assurance that infringement claims will not be asserted against
+the Company in the future or that any such claims will not require the Company
+to enter into royalty arrangements or result in costly and time-consuming
+litigation.
+
+EMPLOYEES
+
+         As of September 30, 1996, the Company had a total of 1,716 employees,
+of whom 1,333 were based in the United States and 383 were based
+internationally. Of the total, 762 were engaged in marketing, sales and related
+customer support services, 548 were in research and development, 123 were in
+operations and 283 were in administration and finance. The Company's future
+financial results depend, in part, upon the continued service of its key
+technical and senior management personnel and its continuing ability to attract
+and retain highly qualified 
+
+
+
+technical and managerial personnel. Competition for such personnel is intense
+and there can be no assurance that the Company can retain its key managerial and
+technical employees or that it can attract, assimilate or retain other highly
+qualified technical and managerial personnel in the future. None of the
+Company's employees is represented by a labor union. The Company has not
+experienced any work stoppages and considers its relations with its employees to
+be good.
+
+ITEM 2.       PROPERTIES
+
+         The Company's principal administrative, sales, marketing, research and
+development facilities are located in five adjacent buildings in Mountain View,
+California, which together provide approximately 415,000 square feet of
+available space. These buildings are leased through February 28, 2003.
+
+         On January 2, 1996 the Company entered into a build-to-suit lease
+arrangement for two buildings in Sunnyvale, California, within one-half mile
+from its principal offices. The buildings will provide approximately 200,000
+square feet of additional space, and are expected to be available for occupancy
+in mid-1997. The lease term is ten years from the date of occupancy.
+
+         The Company leases approximately 53,000 square feet in Beaverton,
+Oregon for administrative, marketing, research and development and support
+activities. This facility is leased through December 31, 1998.
+
+         The Company currently leases nineteen other domestic sales offices
+throughout the United States. The Company currently leases international sales
+and/or service offices in Canada, Finland, France, Germany, Hong Kong, Israel,
+Italy, Japan, Korea, the People's Republic of China, Singapore, Sweden, Taiwan,
+and the United Kingdom. The Company also leases a research and development
+facility in India.
+
+         The Company believes that its existing facilities are adequate for its
+current needs and that additional space will be available as needed.
+
+ITEM 3.       LEGAL PROCEEDINGS
+
+         There are no material legal proceedings pending against the Company.
+
+ITEM 4.       SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+         No matters were submitted for a vote of security holders during the
+fourth quarter of the fiscal year covered by this Report.
+
+Executive Officers of the Company
+
+The executive officers of the Company and their ages, as of December 20, 1996,
+are as follows:
+
+Name                         Age        Position
+
+Harvey C. Jones, Jr.         43         Chairman of the Board of Directors
+
+Aart J. de Geus              42         President, Chief Executive Officer and
+                                        Director
+
+
+
+
+Chi-Foon Chan                47         Executive Vice President, Office of the
+                                        President, Senior Vice President, Design
+                                        Tools Group and Design Reuse Group
+
+William W. Lattin            56         Executive Vice President and Director
+
+David C. Bullis              44         Senior Vice President, Verification 
+                                        Systems Group
+
+Sally A. DeStefano           49         Senior Vice President, Human Resources
+                                        and Facilities
+
+Alain J. Labat               41         Senior Vice President, Worldwide Field
+                                        Operations
+
+Paul Lippe                   38         Senior Vice President, Business
+                                        Development & Legal, Secretary
+
+A. Brooke Seawell            49         Senior Vice President, Finance and
+                                        Operations, and Chief Financial Officer
+
+
+         Harvey C. Jones, Jr. joined the Company in December 1987 and has been
+serving as Chairman of the Board since December 1992. He was first elected as a
+Director in 1988. He served as Chief Executive Officer from December 1987 until
+January 1994. Prior to joining Synopsys, Mr. Jones served as President and Chief
+Executive Officer of Daisy Systems Corporation, a CAE company he co-founded in
+1981. From 1974 to 1981, Mr. Jones was employed by Calma Company, a CAD company,
+where his last position was Vice President, Business Development. Mr. Jones
+holds a B.S. in mathematics and computer sciences from Georgetown University,
+and an M.S. in management from the Massachusetts Institute of Technology. Mr.
+Jones is a director of Remedy Corporation, a developer of client/server
+software.
+
+         Dr. Aart J. de Geus co-founded the Company in December 1986 and
+currently serves as President and Chief Executive Officer. He has served as a
+Director since 1986. He served as President from December 1992 until January
+1994. Prior to December 1992, Dr. de Geus served as Chairman of the Board and
+Senior Vice President, Marketing of the Company. Prior to his appointment as
+Senior Vice President, Marketing, Dr. de Geus served as the Company's Senior
+Vice President, Engineering. From 1982 to 1986, Dr. de Geus was employed by
+General Electric Corporation, where he was the Manager of the Advanced
+Computer-Aided Engineering Group. Dr. de Geus holds an M.S.E.E. from the Swiss
+Federal Institute of Technology in Lausanne, Switzerland, and a Ph.D. in
+electrical engineering from Southern Methodist University.
+
+         Dr. Chi-Foon Chan joined the Company in May 1990 and currently serves
+as Executive Vice President, Office of the President. He also serves as Senior
+Vice President, Design Tools Group (since February 1994) and Design Reuse Group
+(since October 1996). Prior to February 1994, Dr. Chan served as Vice President,
+Engineering and General Manager, DesignWare Operations, and prior to October
+1993, he served as Vice President, Application Engineering and Services. From
+March 1987 to May 1990, Dr. Chan was employed by NEC Electronics, a diversified
+electronics company, where his last position was General Manager of the
+Microprocessor Division. Dr. Chan holds an M.S. and a Ph.D. in computer
+engineering from Case Western Reserve University.
+
+
+
+
+         Dr. William W. Lattin is an Executive Vice President of the Company and
+has been a Director of the Company since July 1995. Dr. Lattin joined the
+Company in February 1994 in connection with the Company's merger with Logic
+Modeling Corporation ("LMC"). From October 1994 to July 1995 he served as the
+Company's Senior Vice President, Corporate Marketing, and from February 1994
+until October 1994 Dr. Lattin served as Senior Vice President, Logic Modeling
+Group. From December 1992 to February 1994, Dr. Lattin served as President,
+Chief Executive Officer and Director of LMC, and from May 1992 to December 1992
+he served as Chairman of the Board and Chief Executive Officer of LMC. From 1986
+to May 1992, Dr. Lattin served as Chairman of the Board of Directors, President
+and Chief Executive Officer of Logic Automation Incorporated, a predecessor of
+LMC. Dr. Lattin holds a B.S.E.E. and an M.S.E.E. from the University of
+California at Berkeley, and a Ph.D. in Electrical Engineering from Arizona
+State.
+
+         David C. Bullis joined the Company in February 1994 in conjunction with
+the merger of Synopsys and LMC, and currently serves as Senior Vice President,
+Verification Systems Group. Prior to October 1994, Mr. Bullis served as Vice
+President, SmartModel Division. From May 1993 to February 1994, Mr. Bullis
+served as Vice President and General Manager, SmartModel Division of LMC and
+from May 1992 to May 1993, he served as Vice President, Sales of LMC. From 1991
+to May 1992, Mr. Bullis served as Vice President, Sales of Logic Automation
+Incorporated. From 1984 to 1991, Mr. Bullis was employed by Summation Inc., a
+manufacturer of systems for board testing, most recently as Chief Executive
+Officer. Mr. Bullis holds a B.S.E.E. from Iowa State University and an M.S.E.E.
+from Colorado State University.
+
+         Sally DeStefano joined the Company in June 1995 and currently serves as
+Senior Vice President, Human Resources and Facilities. From June 1989 until June
+1995, Ms. DeStefano was Vice President of Human Resources of Sybase, Inc., a
+vendor of client/server software and services for building enterprise-wide
+information systems. From April 1986 to May 1989, Ms. DeStefano served as
+Director, then Vice President of Human Resources for Ungermann-Bass, a
+manufacturer of computer network software and equipment. Prior to 1986, she
+spent two years at VLSI Technology, Inc., a semiconductor manufacturer, as human
+resources manager. Ms. DeStefano holds a B.A. in Education from the University
+of Florida.
+
+         Alain J. Labat joined the Company in December 1990 and currently serves
+as Senior Vice President, Worldwide Field Operations. Prior to February 1994,
+Mr. Labat served as Vice President, International Operations. From 1986 to 1990,
+Mr. Labat was employed by Valid Logic Systems, Inc., a CAE company, serving in a
+variety of positions, most recently as Vice President of International
+Operations. Mr. Labat holds a Master's degree in International Management from
+the American Graduate School of International Management, Glendale, Arizona, and
+an M.B.A. from INSEEC, Bordeaux, France.
+
+         Paul Lippe joined the Company in October 1992 and currently serves as
+Senior Vice President, Business Development & Legal, and as Secretary. Mr. Lippe
+was previously employed by Solbourne Computer as Vice President, Corporate
+Development, General Counsel and Secretary and served as Chairman of the
+Colorado Air Quality Control Commission. Mr. Lippe currently is Co-Chairman of
+the Peninsula Association of General Counsels. Mr. Lippe holds a B.A. from Yale
+College and a J.D. from Harvard Law School.
+
+         A. Brooke Seawell joined the Company in March 1991 and currently serves
+as Senior Vice President, Finance and Operations and Chief Financial Officer.
+From March 1991 to February 1994, Mr. Seawell served as Vice President, Finance
+and Operations and Chief Financial Officer. From July 1983 to March 1991, Mr.
+Seawell served as Vice President, Finance and Chief Financial Officer of Weitek
+Corporation, a supplier of numeric semiconductors. Mr. Seawell is a Certified
+Public Accountant and holds a B.A. in economics and an M.B.A. from Stanford
+University.
+
+
+         There are no family relationships among any executive officers of the
+Company.
+
+                                     PART II
+
+ITEM 5.       MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER 
+              MATTERS
+
+         The information required by this item is set forth on page 21 of the
+Company's 1996 Annual Report to Stockholders and is incorporated herein by
+reference.
+
+ITEM 6.       SELECTED FINANCIAL DATA
+
+         The information required by this item is set forth on page 20 of the
+Company's 1996 Annual Report to Stockholders and is incorporated herein by
+reference.
+
+ITEM 7.       MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+              RESULTS OF OPERATIONS
+
+         The information required by this item is set forth on pages 22 through
+28 of the Company's 1996 Annual Report to Stockholders and is incorporated
+herein by reference.
+
+ITEM 8.       FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+         The consolidated financial statements required by this item are
+included on pages 30 through 42 of the Company's 1996 Annual Report to
+Stockholders and are incorporated by reference. With the exception of the
+aforementioned information and the information incorporated in Items 5, 6 and 7,
+the Company's 1996 Annual Report to Stockholders is not to be deemed filed as
+part of this Form 10-K Annual Report. The report of the Company's Independent
+Auditors on the Company's consolidated financial statements is included on page
+29 of the Company's 1996 Annual Report to Stockholders and is incorporated by
+reference. The report of the Company's Independent Auditors on the financial
+statement schedule required by this item is included herein on page 23.
+
+ITEM 9.       CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+              FINANCIAL DISCLOSURE
+
+         Not applicable.
+
+                                    PART III
+
+ITEM 10.      DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+         Information with respect to Directors is included under the caption
+"Proposal One -- Election of Directors" in the Company's Notice of Annual
+Meeting and Proxy Statement for the Company's annual meeting of stockholders to
+be held on February 28, 1997 and is incorporated herein by reference.
+Information with respect to Executive Officers is included under the heading
+"Executive Officers of the Company" in Part I hereof after Item 4.
+
+         Information regarding delinquent filers pursuant to Item 405 of
+Regulation S-K is included under the heading "Compliance with Section 16(a) of
+the Securities Exchange Act of 
+
+
+
+1934" under the caption "Additional Information" in the Company's Notice of
+Annual Meeting of Stockholders and Proxy Statement for the Company's annual
+meeting of stockholders to be held on February 28, 1997 and is incorporated
+herein by reference.
+
+ITEM 11.      EXECUTIVE COMPENSATION
+
+         The information required by this item is included under the heading
+"Executive Compensation" under the caption "Proposal One -- Election of
+Directors" in the Company's Notice of Annual Meeting and Proxy Statement for the
+Company's annual meeting of stockholders to be held on February 28, 1997 and is
+incorporated herein by reference.
+
+ITEM 12.      SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+         The information required by this item is included under the heading
+"Security Ownership of Certain Beneficial Owners and Management" under the
+caption "Proposal One -- Election of Directors" in the Company's Notice of
+Annual Meeting and Proxy Statement for the Company's annual meeting of
+stockholders to be held on February 28, 1997 and is incorporated herein by
+reference.
+
+ITEM 13.      CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+         Not applicable.
+
+
+
+                                     PART IV
+
+ITEM 14.      EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND
+              REPORTS ON FORM 8-K.
+
+(a)      THE FOLLOWING DOCUMENTS ARE FILED AS PART OF THIS FORM 10-K ANNUAL
+         REPORT:
+
+         1.   Financial Statements
+
+         The following documents are included in the Company's 1996 Annual
+         Report to Stockholders and incorporated by reference in Item 8:
+
+
+
+
+         2.   Financial Statement Schedule
+
+         The following schedule of the Company is included herein:
+
+         Valuation and Qualifying Accounts and Reserves (Schedule II)
+
+         All other schedules are omitted because they are not applicable or the
+         amounts are immaterial or the required information is presented in the
+         consolidated financial statements or notes thereto.
+
+         The following document is included herein:
+
+         Independent Auditors' Report on Financial Statement Schedule of 
+         Synopsys, Inc. (page 23)
+
+
+         3.  Exhibits
+
+         See Item 14(c) below. The following compensatory plans are required to
+         be filed as exhibits (and have been incorporated by reference from
+         prior filings, as indicated under Item 14 (c)):
+
+         Exhibit 99.1 -- 1992 Stock Option Plan, as restated and amended
+         Exhibit 99.2 -- Employee Stock Purchase Program, as restated and
+                         amended
+         Exhibit 99.3 -- International Employee Stock Purchase Program, as
+                         restated and amended
+
+
+
+(b)      REPORTS ON FORM 8-K
+
+         Not applicable.
+
+(c)      EXHIBITS
+
+Exhibit
+Number       Description
+- --------------------------------------------------------------------------------
+10.25        Amendment No. 5 to Lease, dated October 4, 1995, to Lease Agreement
+                 dated August 17, 1990, between the Company and John Arrillaga,
+                 Trustee, or his successor trustee, UTA dated 7/20/77 (Arrillaga
+                 Family Trust), and Richard T. Peery, Trustee, or his successor
+                 trustee, UTA dated 7/20/77 (Richard T. Peery Separate Property
+                 Trust), as amended(1)
+
+10.26        Amendment No. 3 to Lease, dated October 4, 1995, to Lease Agreement
+                 dated June 16, 1992, between the Company and John Arrillaga,
+                 Trustee, or his successor trustee, UTA dated 7/20/77 (Arrillaga
+                 Family Trust), and Richard T. Peery, Trustee, or his successor
+                 trustee, UTA dated 7/20/77 (Richard T. Peery Separate Property
+                 Trust), as amended(1)
+
+10.27        Amendment No. 2 to Lease, dated October 4, 1995, to Lease Agreement
+                 dated June 23, 1993, between the Company and John Arrillaga,
+                 Trustee, or his successor trustee, UTA dated 7/20/77 (Arrillaga
+                 Family Trust), and Richard T. Peery, Trustee, or his successor
+                 trustee, UTA dated 7/20/77 (Richard T. Peery Separate Property
+                 Trust), as amended(1)
+
+10.28        Lease dated January 2, 1996 between the Company and Tarigo-Paul, a 
+                 California Limited Partnership(2)
+
+13.1         Portions of the Annual Report to Stockholders for fiscal year ended
+                 September 30, 1996, expressly incorporated by reference herein
+
+21.1         Subsidiaries of the Company
+
+23.1         Consent of KPMG Peat Marwick LLP
+
+24.1         Power of Attorney (see page 22)
+
+27           Financial Data Schedule
+
+99.1         1992 Stock Option Plan, as amended and restated(3)
+
+99.2         Employee Stock Purchase Program, as amended and restated(3)
+
+99.3         International Employee Stock Purchase Plan, as amended and 
+                 restated(3)
+
+
+- --------------------
+(1)      Incorporated by reference from the Company's Report on Form 10-Q for
+         the quarterly period ended December 31, 1995
+(2)      Incorporated by reference from the Company's Report on Form 10-Q for
+         the quarterly period ended March 31, 1996
+(3)      Incorporated by reference from the Company's S-8 registration
+         statement, filed on May 3, 1996
+
+
+
+                                   SIGNATURES
+
+PURSUANT TO THE REQUIREMENTS OF SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934, THE COMPANY HAS DULY CAUSED THIS REPORT TO BE SIGNED ON ITS BEHALF
+BY THE UNDERSIGNED, THEREUNTO DULY AUTHORIZED.
+
+
+                                  SYNOPSYS, INC.
+                                
+                                
+                                
+                                  By  /s/ Aart J. de Geus
+                                    --------------------------------------------
+                                    Aart J. de Geus
+                                    President, Chief Executive Officer, and
+                                    Director (Principal Executive Officer)
+
+                                
+                                  By  /s/ A. Brooke Seawell
+                                    --------------------------------------------
+                                    A. Brooke Seawell
+                                    Senior Vice President, Finance and
+                                    Operations, and Chief Financial Officer
+                                    (Principal Financial and Accounting Officer)
+                               
+
+Date:    December 20, 1996  
+
+
+
+                                POWER OF ATTORNEY
+
+              KNOW ALL PERSONS BY THESE PRESENTS, that each person whose 
+signature appears below constitutes and appoints Aart J. de Geus and A. Brooke
+Seawell, and each of them, as his true and lawful attorneys-in-fact and agents,
+with full power of substitution and resubstitution, for him and in his name,
+place and stead, in any and all capacities, to sign any and all amendments
+(including post-effective amendments) to this Report on Form 10-K, and to file
+the same, with all exhibits thereto, and other documents in connection
+therewith, with the Securities and Exchange Commission, granting unto said
+attorneys-in-fact and agents, and each of them, full power and authority to do
+and perform each and every act and thing requisite and necessary to be done in
+connection therewith, as fully to all intents and purposes as he might or could
+do in person, hereby ratifying and confirming all that said attorneys-in-fact
+and agents, or any of them, or their or his substitute or substitutes, may
+lawfully do or cause to be done by virtue hereof.
+
+         PURSUANT TO THE REQUIREMENTS OF THE SECURITIES EXCHANGE ACT OF 1934,
+THIS REPORT HAS BEEN SIGNED BELOW BY THE FOLLOWING PERSONS ON BEHALF OF THE
+REGISTRANT AND IN THE CAPACITIES AND ON THE DATES INDICATED:
+
+     /s/ Harvey C. Jones, Jr.                          
+- ---------------------------------------       Chairman of the Board of Directors
+Harvey C. Jones, Jr.                                           December 20, 1996
+
+
+     /s/ Deborah A. Coleman                   Director         December 20, 1996
+- ---------------------------------------
+Deborah A. Coleman
+
+     /s/ William W. Lattin                    Director         December 20, 1996
+- ---------------------------------------
+William W. Lattin
+
+     /s/ A. Richard Newton                    Director         December 20, 1996
+- ---------------------------------------
+A. Richard Newton
+
+     /s/ Steven C. Walske                     Director         December 20, 1996
+- ---------------------------------------
+Steven C. Walske
+
+
+
+                          INDEPENDENT AUDITORS' REPORT
+
+
+To the Board of Directors and 
+Stockholders of Synopsys, Inc.:
+
+
+Under date of October 18, 1996, we reported on the consolidated balance sheets
+of Synopsys, Inc. and subsidiaries as of September 30, 1995 and 1996, and the
+related consolidated statements of income, stockholders' equity, and cash flows
+for each of the years in the three-year period ended September 30, 1996, which
+are included in the annual report to stockholders of Synopsys, Inc. In
+connection with our audits of the aforementioned consolidated financial
+statements, we also audited the related consolidated financial statement
+schedule included in the Form 10-K for the year ended September 30, 1996 of
+Synopsys, Inc. This financial statement schedule is the responsibility of the
+Company's management. Our responsibility is to express an opinion on this
+financial statement schedule based on our audits.
+
+In our opinion, such financial statement schedule, when considered in relation
+to the basic consolidated financial statements taken as a whole, presents
+fairly, in all material respects, the information set forth therein.
+
+
+                                                           KPMG Peat Marwick LLP
+
+Palo Alto, California
+October 18, 1996
+
+
+
+                                                                     SCHEDULE II
+
+                                 SYNOPSYS, INC.
+
+
+                 VALUATION AND QUALIFYING ACCOUNTS AND RESERVES
+                                 (in thousands)
+
+
+
+
+
+
+
+- --------
+(1) Translation and other adjustments.
+
+(2) Accounts written off, net of recoveries.
+
+
+
+
