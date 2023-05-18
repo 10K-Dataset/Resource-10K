@@ -1,4 +1,4 @@
-# Resource: 10-K Dataset
+# Resource: VAULT-10K
 
 ## 10-K Dataset (.txt Cleaned)
 - Target Company: S&P 500 Companies
